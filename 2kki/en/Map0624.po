@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 24, Pos (8,6)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　ﾒﾆｭｰﾀｲﾌﾟ17(楓)\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　 　　 Menu Type 17 (Maple)\\<\\|\\|\\^"
+
+#. ID 1, Page 1, Line 42, Pos (8,6)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　 元のﾒﾆｭｰﾀｲﾌﾟ\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　 　　  Original Menu Type\\<\\|\\|\\^"
+
+#. ID 1, Page 1, Line 58, Pos (8,6)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　ﾒﾆｭｰﾀｲﾌﾟお試し\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　 　　　　Try Menu Type\\<\\|\\|\\^"
+
+#. ID 6, Page 2, Line 4, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\>Reload?"
+msgstr ""
+
+#. ID 6, Page 2, Line 5, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 6, Page 2, Line 8, Pos (1,0)
+#. Choice (2 options)
+msgid ""
+"Normal(OFF All Handy_S)\n"
+"Without OFF S"
+msgstr ""

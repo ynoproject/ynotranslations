@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 7, Page 2, Line 11, Pos (10,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "高速"
+msgstr ""
+
+#. ID 7, Page 2, Line 15, Pos (10,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "ベランダ"
+msgstr ""
+
+#. ID 7, Page 2, Line 19, Pos (10,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "昼夜"
+msgstr ""
+
+#. ID 7, Page 2, Line 23, Pos (10,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "月湖"
+msgstr ""
+
+#. ID 7, Page 2, Line 26, Pos (10,21)
+msgid ""
+"\\>\\\\V[4361] = X\\V[22] - Y\\V[23]\n"
+"\\>\\\\V[4361] * -1 if \\\\V[4361] < 0\n"
+"\\>\\\\V[4361] % 4 #=> \\V[4361]\n"
+"\\>行き先：\\N[5]"
+msgstr ""
+
+#. ID 7, Page 2, Line 30, Pos (10,21)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "女の子"
+msgstr ""
+
+#. ID 7, Page 2, Line 31, Pos (10,21)
+#. Contains choice at line 2 (2 options)
+msgid "\\>Moechten Sie hier gehen ?"
+msgstr ""
+
+#. ID 7, Page 2, Line 32, Pos (10,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>Ja.\n"
+"\\>Nein."
+msgstr ""
+
+#. ID 7, Page 2, Line 36, Pos (10,21)
+msgid "\\>Wohin komen Sie ?"
+msgstr ""
+
+#. ID 7, Page 2, Line 37, Pos (10,21)
+#. Choice (4 options)
+msgid ""
+"\\>高速\n"
+"\\>ベランダ\n"
+"\\>昼夜\n"
+"\\>月湖"
+msgstr ""
+"\\>High Speed\n"
+"\\>Veranda\n"
+"\\>Day and Night\n"
+"\\>Moon Lake"
+
+#. ID 40, Page 1, Line 13, Pos (27,20)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：19\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　 Menu Type: 19\\<\\|\\|\\^"

@@ -417,7 +417,7 @@ msgstr "\\>\\C[3]\\N[2] succeeded."
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "マップ到達"
-msgstr "Visited Map"
+msgstr ""
 
 #. ID 6, Page 6, Line 762, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -922,7 +922,7 @@ msgstr "Paper"
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ぼうず"
-msgstr "Doll"
+msgstr " Doll"
 
 #. ID 12, Page 2, Line 162, Pos (13,5)
 #. ChangeHeroName (Actor 2)

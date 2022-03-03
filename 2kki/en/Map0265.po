@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 8, Page 1, Line 6, Pos (60,103)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　   トロンボーン\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　   Trombone\\<\\|\\^"
+
+#. ID 26, Page 2, Line 22, Pos (95,119)
+#. ID 37, Page 2, Line 7, Pos (82,139)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 98, Page 2, Line 1, Pos (92,116)
+msgid "\\>共通で使うオブジェクトです"
+msgstr ""
+
+#. ID 98, Page 2, Line 2, Pos (92,116)
+msgid "\\>自販機は、特別のことが無い限り統一しましょう。"
+msgstr ""
