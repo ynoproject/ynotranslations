@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 2, Page 1, Line 7, Pos (26,3)
+msgid "Ｐ獲得：通常クリア！"
+msgstr "Ｐ获得：普通通关！"
+
+#. ID 2, Page 1, Line 15, Pos (26,3)
+msgid "Ｐ獲得：短時間クリア！"
+msgstr "Ｐ获得：短时间内通关！"
+
+#. ID 2, Page 1, Line 20, Pos (26,3)
+msgid "Ｐ未獲得：短時間クリア"
+msgstr "Ｐ未获得：短时间内通关"
+
+#. ID 2, Page 1, Line 28, Pos (26,3)
+msgid "Ｐ獲得：チップ回収クリア！"
+msgstr "Ｐ获得：芯片回收通关！"
+
+#. ID 2, Page 1, Line 33, Pos (26,3)
+msgid "Ｐ未獲得：チップ回収クリア"
+msgstr "Ｐ未获得：芯片回收通关"
+
+#. ID 2, Page 1, Line 41, Pos (26,3)
+msgid "Ｐ獲得：ノーミスクリア！"
+msgstr "Ｐ获得：无伤通关！"
+
+#. ID 2, Page 1, Line 46, Pos (26,3)
+msgid "Ｐ未獲得：ノーミスクリア"
+msgstr "Ｐ未获得：无伤通关"
+
+#. ID 2, Page 1, Line 54, Pos (26,3)
+msgid "Ｐ獲得：全セーブポイント通過クリア！"
+msgstr "Ｐ获得：点亮全存档点通关！"
+
+#. ID 2, Page 1, Line 59, Pos (26,3)
+msgid "Ｐ未獲得：全セーブポイント通過クリア"
+msgstr "Ｐ未获得：点亮全存档点通关"
