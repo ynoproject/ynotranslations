@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　　   Telephone\\<\\|\\^"
+"\\>　　　　　　　　　 Telephone\\<\\|\\^"
 
 #. ID 32, Page 2, Line 4, Pos (10,14)
 msgid ""
@@ -58,7 +58,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　 　　  Maiko\\<\\|\\^"
+"\\>　　　　　　　　 　　 Maiko\\<\\|\\^"
 
 #. ID 35, Page 2, Line 4, Pos (10,20)
 msgid ""
@@ -82,7 +82,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　 　   Twintails\\<\\|\\^"
+"\\>　　　　　　　　 　  Twintails\\<\\|\\^"
 
 #. ID 37, Page 2, Line 4, Pos (17,14)
 msgid ""
@@ -106,7 +106,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Chainsaw\\<\\|\\^"
+"\\>　　　　　　　　　   Chainsaw\\<\\|\\^"
 
 #. ID 39, Page 2, Line 4, Pos (7,16)
 msgid ""
@@ -118,7 +118,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　    Fairy\\<\\|\\^"
+"\\>　　　　　　　　　　   Fairy\\<\\|\\^"
 
 #. ID 40, Page 2, Line 4, Pos (10,16)
 msgid ""
@@ -142,7 +142,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　 Insect\\<\\|\\^"
+"\\>　　　　　　　　　　  Insect\\<\\|\\^"
 
 #. ID 42, Page 2, Line 4, Pos (17,20)
 msgid ""
@@ -154,7 +154,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\　　　　　　　　　　 Spring\\<\\|\\^"
+"\\>　　　　　　　　　　  Spring\\<\\|\\^"
 
 #. ID 43, Page 2, Line 4, Pos (14,16)
 msgid ""
@@ -178,7 +178,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Rainbow\\<\\|\\^"
+"\\>　　　　　　　　　   Rainbow\\<\\|\\^"
 
 #. ID 45, Page 2, Line 4, Pos (7,22)
 msgid ""
@@ -202,7 +202,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Gakuran\\<\\|\\^"
+"\\>　　　　　　　　　    Gakuran\\<\\|\\^"
 
 #. ID 47, Page 2, Line 4, Pos (7,18)
 msgid ""
@@ -214,7 +214,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　  Wolf\\<\\|\\^"
+"\\>　　　　　　　　　　   Wolf\\<\\|\\^"
 
 #. ID 48, Page 2, Line 4, Pos (10,18)
 msgid ""
@@ -226,7 +226,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　Eyeball Bomb\\<\\|\\^"
+"\\>　　　　　　　　　 Eyeball Bomb\\<\\|\\^"
 
 #. ID 49, Page 2, Line 4, Pos (14,22)
 msgid ""
@@ -262,7 +262,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　 Haniwa\\<\\|\\^"
+"\\>　　　　　　　　　　  Haniwa\\<\\|\\^"
 
 #. ID 52, Page 2, Line 4, Pos (10,24)
 msgid ""
@@ -274,7 +274,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Trombone\\<\\|\\^"
+"\\>　　　　　　　　　   Trombone\\<\\|\\^"
 
 #. ID 53, Page 2, Line 4, Pos (14,24)
 msgid ""
@@ -298,7 +298,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　   Child\\<\\|\\^"
+"\\>　　　　　　　　　　  Child\\<\\|\\^"
 
 #. ID 55, Page 2, Line 4, Pos (7,26)
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Crossing\\<\\|\\^"
+"\\>　　　　　　　　　   Crossing\\<\\|\\^"
 
 #. ID 71, Page 2, Line 4, Pos (10,30)
 msgid ""
@@ -430,7 +430,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Bunny Ears\\<\\|\\^"
+"\\>　　　　　　　　　  Bunny Ears\\<\\|\\^"
 
 #. ID 76, Page 2, Line 4, Pos (14,30)
 msgid ""

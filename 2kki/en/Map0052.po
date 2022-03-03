@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　  　　　Telephone\\<\\|\\^"
+"\\>　　　　　　　　　 Telephone\\<\\|\\^"
 
 #. ID 67, Page 8, Line 13, Pos (102,39)
 msgid ""

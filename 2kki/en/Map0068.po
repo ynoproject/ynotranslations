@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　　　  Fairy\\<\\|\\^"
+"\\>　　　　　　　　　　   Fairy\\<\\|\\^"
 
 #. ID 82, Page 1, Line 15, Pos (13,230)
 #. ID 83, Page 1, Line 6, Pos (13,228)

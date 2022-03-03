@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Gakuran\\<\\|\\^"
+"\\>　　　　　　　　　    Gakuran\\<\\|\\^"
 
 #. ID 2, Page 6, Line 6, Pos (133,350)
 msgid ""
