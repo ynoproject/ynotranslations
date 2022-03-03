@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 5, Page 2, Line 10, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 5, Page 2, Line 76, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おおかみ"
+msgstr "狼"
+
+#. ID 5, Page 2, Line 11, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 85, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バイク"
+msgstr "摩托车"
+
+#. ID 5, Page 2, Line 18, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテ"
+msgstr "双马尾"
+
+#. ID 5, Page 2, Line 19, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 68, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めがね"
+msgstr "眼镜"
+
+#. ID 5, Page 2, Line 26, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 5, Page 2, Line 125, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "はにわ"
+msgstr "植轮"
+
+#. ID 5, Page 2, Line 27, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 133, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ケーキ"
+msgstr "蛋糕"
+
+#. ID 5, Page 2, Line 34, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "レインコート"
+msgstr "雨衣"
+
+#. ID 5, Page 2, Line 44, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "くろでんわ"
+msgstr "黑电话"
+
+#. ID 5, Page 2, Line 48, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おとこのこ"
+msgstr "男孩"
+
+#. ID 5, Page 2, Line 52, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "チェーンソー"
+msgstr "电锯"
+
+#. ID 5, Page 2, Line 56, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "カンテラ"
+msgstr "灯笼"
+
+#. ID 5, Page 2, Line 60, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ようせい"
+msgstr "妖精"
+
+#. ID 5, Page 2, Line 64, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うちゅうふく"
+msgstr "宇航服"
+
+#. ID 5, Page 2, Line 72, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "にじ"
+msgstr "彩虹"
+
+#. ID 5, Page 2, Line 80, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めだま"
+msgstr "眼珠"
+
+#. ID 5, Page 2, Line 81, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ばくだん"
+msgstr "炸弹"
+
+#. ID 5, Page 2, Line 89, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "まいこ"
+msgstr "舞妓"
+
+#. ID 5, Page 2, Line 93, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテール"
+msgstr "双马尾"
+
+#. ID 5, Page 2, Line 97, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ぺんぎん"
+msgstr "企鹅"
+
+#. ID 5, Page 2, Line 101, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "むし"
+msgstr "虫"
+
+#. ID 5, Page 2, Line 105, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バネ"
+msgstr "弹簧"
+
+#. ID 5, Page 2, Line 109, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "とうめい"
+msgstr "透明"
+
+#. ID 5, Page 2, Line 113, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "がくラン"
+msgstr "学生制服"
+
+#. ID 5, Page 2, Line 117, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ギプス"
+msgstr "石膏"
+
+#. ID 5, Page 2, Line 121, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "せのび"
+msgstr "长高"
+
+#. ID 5, Page 2, Line 129, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "トロンボーン"
+msgstr "长号"
+
+#. ID 5, Page 2, Line 137, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "こども"
+msgstr "小孩"
+
+#. ID 5, Page 2, Line 141, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "あかずきん"
+msgstr "小红帽"
+
+#. ID 5, Page 2, Line 145, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ティッシュ"
+msgstr "卫生纸"
+
+#. ID 5, Page 2, Line 149, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "コウモリ"
+msgstr "蝙蝠"
+
+#. ID 5, Page 2, Line 153, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ポリゴン"
+msgstr "多边形"
+
+#. ID 5, Page 2, Line 157, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "てるてる"
+msgstr "晴天"
+
+#. ID 5, Page 2, Line 158, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ぼうず"
+msgstr "娃娃"
+
+#. ID 5, Page 2, Line 162, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マージナル"
+msgstr "非主流"
+
+#. ID 5, Page 2, Line 166, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ドラムかん"
+msgstr "铁桶"
+
+#. ID 5, Page 2, Line 170, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おはか"
+msgstr "墓碑"
+
+#. ID 5, Page 2, Line 174, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ふみきり"
+msgstr "平交道"
+
+#. ID 5, Page 2, Line 178, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うさみみ"
+msgstr "兔耳"
+
+#. ID 5, Page 2, Line 182, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "サイコロ"
+msgstr "骰子"
+
+#. ID 5, Page 2, Line 186, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "なし（エフェ"
+msgstr "无（效果"
+
+#. ID 5, Page 2, Line 187, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "クト解除）"
+msgstr "解除）"
+
+#. ID 5, Page 3, Line 21, Pos (13,5)
+msgid ""
+"\\>※お気に入りエフェクトに登録\n"
+"\\>　　★ \\N[2]\\N[3] ★\n"
+"\\>　シフトキー長押しで発動"
+msgstr ""
+"\\>※登录喜爱的效果\n"
+"\\>　　★ \\N[2]\\N[3] ★\n"
+"\\>　长按Shift键启用"
+
+#. ID 5, Page 3, Line 24, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マップ到達"
+msgstr ""
+
+#. ID 5, Page 3, Line 25, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "デフォルト1"
+msgstr ""
+
+#. ID 11, Page 1, Line 40, Pos (6,7)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+

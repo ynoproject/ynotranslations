@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (2,1)
+#. Choice (4 options)
+msgid ""
+"　　　　　　　　さいしょから\n"
+"　　　　　　　　 つづきから\n"
+"　　　　　　　　　せつめい\n"
+"　　　　　　　 ゲームをおわる"
+msgstr ""
+"　　　　　　　　开始新游戏\n"
+"　　　　　　　　 继续游戏\n"
+"　　　　　　　　 游戏说明\n"
+"　　　　　　　   关闭游戏"
+
+#. ID 1, Page 1, Line 7, Pos (2,1)
+msgid "　　　　　　　データが初期化されました"
+msgstr "　　　　　　　   已将游戏数据初始化"
+
+#. ID 1, Page 1, Line 63, Pos (2,1)
+msgid "セーブデータがありません"
+msgstr "没有游戏数据"
+
+#. ID 1, Page 1, Line 68, Pos (2,1)
+msgid "迷路の中に落ちている5種類+αの氷を集めるゲームです。"
+msgstr "这是个在迷宫中收集掉落的5种+α的冰的游戏。"
+
+#. ID 1, Page 1, Line 69, Pos (2,1)
+msgid ""
+"アイテム：所持してる氷を確認\n"
+"もどる：初期位置に戻ります\n"
+"セーブ：現在地を記録します\n"
+"おわる：ここに戻ります"
+msgstr ""
+"道具：确认已持有的冰\n"
+"返回：回到最开始的位置\n"
+"存档：记录现在所在位置\n"
+"结束：回到这里"
+
+#. ID 1, Page 1, Line 73, Pos (2,1)
+msgid ""
+"一度クリアする、最初からプレイすると\n"
+"位置情報、取得した氷のデータが初期化されます。"
+msgstr ""
+"一旦通关后，选择开始新游戏\n"
+"位置信息，已取得的冰的数据全都会被初始化。"
+
+#. ID 1, Page 1, Line 75, Pos (2,1)
+msgid ""
+"なお、このゲーム内でのセーブは簡易セーブです。\n"
+"「つづきから」を選択した場合、\n"
+"セーブした場所からスタートします。"
+msgstr ""
+"目前，这个游戏中的存档还只是简易存档。\n"
+"选择了「继续游戏」的话，\n"
+"会从上次存档的地方开始游戏。"
+
+#. ID 1, Page 1, Line 79, Pos (2,1)
+msgid ""
+"★既クリア特典★\n"
+"氷を一気に取得できるキャラクターが\n"
+"どこかに出現しました。"
+msgstr ""
+"★已通关特典★\n"
+"出现了可以一口气获得所有冰的NPC。"
+
+#. ID 1, Page 1, Line 85, Pos (2,1)
+msgid ""
+"何度もゲームを読み込むことで超高速にできます。\n"
+"デバッグモードでシフトを押すと\n"
+"うろつきの等速になります。"
+msgstr ""
+"反复读取游戏可以实现超高速移动。\n"
+"如果是Debug模式下启动游戏\n"
+"按下Shift后可以走得和Urotsuki一样快。"
+
+#. ID 1, Page 1, Line 88, Pos (2,1)
+msgid ""
+"GOODとBADの分かれ目は新しく実装された粉雪です。\n"
+"その辺ふよふよしてるのを30個集めたらBADです。\n"
+"99個以上取ると多分表示がバグります。"
+msgstr ""
+"GOOD和BAD的分水岭就是这个新实装的细雪。\n"
+"如果收集了30个以上的话就是BAD。\n"
+"如果收集了99个以上的话会出现BUG。"
+
