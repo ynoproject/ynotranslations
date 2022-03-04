@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAINGIRL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yume2kki <Fonvight>\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 3, Page 1, Line 2, Pos (8,19)
+msgid "Add CD's"
+msgstr "Добавить CD."
+
+#. ID 4, Page 1, Line 3, Pos (19,19)
+#. Contains choice at line 2 (2 options)
+msgid "Buy a Soda?"
+msgstr "Купить Газировку?"
+
+#. ID 4, Page 1, Line 4, Pos (19,19)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 3, Pos (17,19)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 8, Page 1, Line 2, Pos (10,19)
+msgid "Add Tickets"
+msgstr "Добавить Билеты"
+
+#. ID 9, Page 1, Line 2, Pos (17,19)
+#. Contains choice at line 2 (2 options)
+msgid "Unlock all music?"
+msgstr "Разблокировать всю музыку?"
+
+#. ID 9, Page 1, Line 5, Pos (17,19)
+msgid "All music unlocked!"
+msgstr "Вся музыка разблокирована!"
