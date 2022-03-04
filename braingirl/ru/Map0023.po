@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAINGIRL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yume2kki <Fonvight>\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 3, Line 4, Pos (8,8)
+#. ID 1, Page 3, Line 16, Pos (8,8)
+msgid "..."
+msgstr "..."
+
+#. ID 1, Page 3, Line 6, Pos (8,8)
+msgid "...You'll be okay!"
+msgstr "...Всё будет в порядке!"
+
+#. ID 1, Page 3, Line 8, Pos (8,8)
+msgid "You don't have to worry anymore."
+msgstr "Больше тебе не нужно беспокоиться."
+
+#. ID 1, Page 3, Line 10, Pos (8,8)
+msgid ""
+"They won't find you,\n"
+"as long as you stay here."
+msgstr ""
+"Они не найдут тебя,\n"
+"пока ты остаёшься здесь."
+
+#. ID 1, Page 3, Line 13, Pos (8,8)
+msgid ""
+"And I'm sure if we wait long enough, they\n"
+"will stop looking for you altogether!"
+msgstr ""
+"Я верю, если мы подождём достаточно долго,\n"
+"они вообще перестанут тебя искать!"
+
+#. ID 1, Page 3, Line 18, Pos (8,8)
+msgid "..I think..."
+msgstr "..Наверное..."
+
+#. ID 1, Page 3, Line 20, Pos (8,8)
+msgid ""
+"But whatever happens, I will be\n"
+"here for you."
+msgstr ""
+"Но, что бы ни случилось,\n"
+"Я буду здесь ради тебя."
+
+#. ID 1, Page 3, Line 23, Pos (8,8)
+msgid "You don't have to be scared anymore."
+msgstr "Больше не нужно быть в страхе."
+
+#. ID 1, Page 3, Line 25, Pos (8,8)
+msgid ""
+"I'll give you food, books, games and\n"
+"a bed for you to sleep in."
+msgstr ""
+"У тебя будет еда, книги, игры и кровать,\n"
+"на которой ты сможешь спать."
+
+#. ID 1, Page 3, Line 28, Pos (8,8)
+msgid "I can't promise you it won't get boring..."
+msgstr "Не могу обещать, что тебе не станет скучно..."
+
+#. ID 1, Page 3, Line 30, Pos (8,8)
+msgid "But I really want you to stay safe!"
+msgstr "Но я действительно хочу, чтобы ты была в безопасности!"
+
+#. ID 1, Page 3, Line 32, Pos (8,8)
+msgid "So promise me you'll stay with me, Mikan!!"
+msgstr "Поэтому, Обещай, что останешься со мной, Микан!!"

@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAINGIRL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yume2kki <Fonvight>\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 2, Pos (4,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rVanilla$r"
+msgstr "Стиль Меню $rVanilla$r"
+
+#. ID 1, Page 1, Line 3, Pos (4,4)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 3, Pos (6,4)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 3, Pos (9,4)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 3, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 3, Pos (8,4)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 3, Pos (8,5)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 3, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 3, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 3, Pos (7,4)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 3, Pos (6,10)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 3, Pos (5,10)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 3, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 3, Pos (7,10)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 3, Pos (7,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 3, Pos (3,4)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 3, Pos (6,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Apply\n"
+"Cancel"
+msgstr ""
+"Принять\n"
+"Отмена"
+
+#. ID 1, Page 1, Line 7, Pos (4,4)
+#. ID 2, Page 1, Line 7, Pos (6,4)
+#. ID 3, Page 1, Line 7, Pos (9,4)
+#. ID 4, Page 1, Line 7, Pos (3,5)
+#. ID 5, Page 1, Line 7, Pos (8,4)
+#. ID 8, Page 1, Line 7, Pos (8,5)
+#. ID 10, Page 1, Line 7, Pos (5,4)
+#. ID 11, Page 1, Line 7, Pos (5,5)
+#. ID 12, Page 1, Line 7, Pos (7,4)
+#. ID 16, Page 1, Line 7, Pos (4,5)
+#. ID 19, Page 1, Line 7, Pos (7,5)
+#. ID 20, Page 1, Line 7, Pos (3,4)
+#. ID 21, Page 1, Line 7, Pos (6,5)
+msgid "Menu type successfully changed!"
+msgstr "Стиль Меню успешно изменён!"
+
+#. ID 2, Page 1, Line 2, Pos (6,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rTobacco$r"
+msgstr "Стиль Меню $rTobacco$r"
+
+#. ID 3, Page 1, Line 2, Pos (9,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rCopper$r"
+msgstr "Стиль Меню $rCopper$r"
+
+#. ID 4, Page 1, Line 2, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rPsychedelic$r"
+msgstr "Стиль Меню $rPsychedelic$r"
+
+#. ID 5, Page 1, Line 2, Pos (8,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rAcrylic$r"
+msgstr "Стиль Меню $rAcrylic$r"
+
+#. ID 8, Page 1, Line 2, Pos (8,5)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rRaspberry$r"
+msgstr "Стиль Меню $rRaspberry$r"
+
+#. ID 10, Page 1, Line 2, Pos (5,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rLicorice$r"
+msgstr "Стиль Меню $rLicorice$r"
+
+#. ID 11, Page 1, Line 2, Pos (5,5)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rVortex$r"
+msgstr "Стиль Меню $rVortex$r"
+
+#. ID 12, Page 1, Line 2, Pos (7,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rChalkboard$r"
+msgstr "Стиль Меню $rChalkboard$r"
+
+#. ID 14, Page 1, Line 2, Pos (6,10)
+#. Contains choice at line 2 (2 options)
+msgid "System Sounds $rOctopus$r"
+msgstr "Набор Звуков $rOctopus$r"
+
+#. ID 14, Page 1, Line 10, Pos (6,10)
+#. ID 15, Page 1, Line 10, Pos (5,10)
+#. ID 17, Page 1, Line 10, Pos (7,10)
+msgid "System sounds successfully changed!"
+msgstr "Набор Звуков успешно изменён!"
+
+#. ID 15, Page 1, Line 2, Pos (5,10)
+#. Contains choice at line 2 (2 options)
+msgid "System Sounds $rVanilla$r"
+msgstr "Набор Звуков $rVanilla$r"
+
+#. ID 16, Page 1, Line 2, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rSpacecraft$r"
+msgstr "Стиль Меню $rSpacecraft$r"
+
+#. ID 17, Page 1, Line 2, Pos (7,10)
+#. Contains choice at line 2 (2 options)
+msgid "System Sounds $rWood$r"
+msgstr "Набор Звуков $rWood$r"
+
+#. ID 19, Page 1, Line 2, Pos (7,5)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rTapestry$r"
+msgstr "Стиль Меню $rTapestry$r"
+
+#. ID 20, Page 1, Line 2, Pos (3,4)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rAnalog$r"
+msgstr "Стиль Меню $rAnalog$r"
+
+#. ID 21, Page 1, Line 2, Pos (6,5)
+#. Contains choice at line 2 (2 options)
+msgid "Menu Type $rMoss$r"
+msgstr "Стиль Меню $rMoss$r"

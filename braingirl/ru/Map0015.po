@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAINGIRL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yume2kki <Fonvight>\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 2, Pos (2,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rHeartbeat$r by Polygon Matic"
+msgstr "$rHeartbeat$r от Polygon Matic"
+
+#. ID 1, Page 1, Line 3, Pos (2,5)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 3, Pos (6,5)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 3, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 3, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 3, Pos (2,6)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 3, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 3, Pos (8,5)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 3, Pos (9,5)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 3, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 3, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 3, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 3, Pos (7,6)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 3, Pos (6,6)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 3, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 3, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 3, Pos (7,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 3, Pos (17,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 3, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 3, Pos (8,6)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 1, Line 3, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 26, Page 1, Line 3, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 3, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 3, Pos (12,6)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 1, Line 3, Pos (13,6)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 3, Pos (14,6)
+#. Choice (2 options, embedded in a message)
+#. ID 32, Page 1, Line 3, Pos (15,6)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 3, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 3, Pos (16,6)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 3, Pos (2,7)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 3, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 3, Pos (4,7)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 3, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 3, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 3, Pos (7,7)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 1, Line 3, Pos (8,7)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 43, Page 1, Line 3, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 3, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 45, Page 1, Line 3, Pos (12,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Play\n"
+"Cancel"
+msgstr ""
+"Воспроизвести\n"
+"Отмена"
+
+#. ID 2, Page 1, Line 2, Pos (6,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rRecovery$r by Polygon Matic"
+msgstr "$rRecovery$r от Polygon Matic"
+
+#. ID 3, Page 1, Line 2, Pos (3,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rWhat a nice day$r by A Place in the Sun"
+msgstr "$rWhat a nice day$r от A Place in the Sun"
+
+#. ID 4, Page 1, Line 2, Pos (4,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rSheep Rave$r by MillieAmp"
+msgstr "$rSheep Rave$r от MillieAmp"
+
+#. ID 5, Page 1, Line 2, Pos (2,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rYure Yure$r by Polygon Matic"
+msgstr "$rYure Yure$r от Polygon Matic"
+
+#. ID 6, Page 1, Line 2, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rHeartbeat - Prophecy$r by Succ2#5751"
+msgstr "$rHeartbeat - Prophecy$r от Succ2#5751"
+
+#. ID 7, Page 1, Line 2, Pos (8,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rVista$r by Polygon Matic"
+msgstr "$rVista$r от Polygon Matic"
+
+#. ID 10, Page 1, Line 2, Pos (9,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rSunshine Vista$r by Polygon Matic"
+msgstr "$rSunshine Vista$r от Polygon Matic"
+
+#. ID 11, Page 1, Line 2, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rMidnight Vista$r by Polygon Matic"
+msgstr "$rMidnight Vista$r от Polygon Matic"
+
+#. ID 12, Page 1, Line 2, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rRising Vista$r by Polygon Matic"
+msgstr "$rRising Vista$r от Polygon Matic"
+
+#. ID 13, Page 1, Line 2, Pos (5,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rDepressed Deer$r by Polygon Matic"
+msgstr "$rDepressed Deer$r от Polygon Matic"
+
+#. ID 14, Page 1, Line 2, Pos (7,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rGakuzen$r by Stk"
+msgstr "$rGakuzen$r от Stk"
+
+#. ID 15, Page 1, Line 2, Pos (6,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rSlaughtered Deer$r by Polygon Matic"
+msgstr "$rSlaughtered Deer$r от Polygon Matic"
+
+#. ID 16, Page 1, Line 2, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rGeardog$r by MillieAmp"
+msgstr "$rGeardog$r от MillieAmp"
+
+#. ID 17, Page 1, Line 2, Pos (5,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rGeardog - Core$r by MillieAmp"
+msgstr "$rGeardog - Core$r от MillieAmp"
+
+#. ID 18, Page 1, Line 2, Pos (7,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rMidnight Recovery$r by Polygon Matic"
+msgstr "$rMidnight Recovery$r от Polygon Matic"
+
+#. ID 21, Page 1, Line 2, Pos (17,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rCrossed Eyes$r by Stk"
+msgstr "$rCrossed Eyes$r от Stk"
+
+#. ID 23, Page 1, Line 2, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rMelancholic Vista$r by Polygon Matic"
+msgstr "$rMelancholic Vista$r от Polygon Matic"
+
+#. ID 24, Page 1, Line 2, Pos (8,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rBeer Stains$r by Polygon Matic"
+msgstr "$rBeer Stains$r от Polygon Matic"
+
+#. ID 25, Page 1, Line 2, Pos (9,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rFurther$r by Stk"
+msgstr "$rFurther$r от Stk"
+
+#. ID 26, Page 1, Line 2, Pos (11,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rZofukuki$r by Polygon Matic"
+msgstr "$rZofukuki$r от Polygon Matic"
+
+#. ID 27, Page 1, Line 2, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rYellowman$r by MillieAmp"
+msgstr "$rYellowman$r от MillieAmp"
+
+#. ID 29, Page 1, Line 2, Pos (12,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rNTRGRL$r by CGA // CGA"
+msgstr "$rNTRGRL$r от CGA // CGA"
+
+#. ID 30, Page 1, Line 2, Pos (13,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rDrag me down$r by MillieAmp"
+msgstr "$rDrag me down$r от MillieAmp"
+
+#. ID 31, Page 1, Line 2, Pos (14,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rSpider Spider$r by MillieAmp"
+msgstr "$rSpider Spider$r от MillieAmp"
+
+#. ID 32, Page 1, Line 2, Pos (15,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rSmells like Roaches$r by Stk"
+msgstr "$rSmells like Roaches$r от Stk"
+
+#. ID 33, Page 1, Line 2, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+msgid "$rLeave me alone$r by MillieAmp"
+msgstr "$rLeave me alone$r от MillieAmp"
+
+#. ID 34, Page 1, Line 2, Pos (16,6)
+#. Contains choice at line 2 (2 options)
+msgid "$rHolding Cell$r by MillieAmp"
+msgstr "$rHolding Cell$r от MillieAmp"
+
+#. ID 35, Page 1, Line 2, Pos (2,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rPower Room$r by MillieAmp"
+msgstr "$rPower Room$r от MillieAmp"
+
+#. ID 36, Page 1, Line 2, Pos (3,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rA past yet to see$r by Stk"
+msgstr "$rA past yet to see$r от Stk"
+
+#. ID 37, Page 1, Line 2, Pos (4,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rKeeps going on forever$r by A Place in the Sun"
+msgstr "$rKeeps going on forever$r от A Place in the Sun"
+
+#. ID 38, Page 1, Line 2, Pos (5,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rWeird Icecram Girl$r by MillieAmp"
+msgstr "$rWeird Icecram Girl$r от MillieAmp"
+
+#. ID 39, Page 1, Line 2, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rJellyfish Massacre$r by Stk"
+msgstr "$rJellyfish Massacre$r от Stk"
+
+#. ID 40, Page 1, Line 2, Pos (7,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rCan't Focus$r by MillieAmp"
+msgstr "$rCan't Focus$r от MillieAmp"
+
+#. ID 41, Page 1, Line 2, Pos (8,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rEternal Synapses$r by cachi01"
+msgstr "$rEternal Synapses$r от cachi01"
+
+#. ID 42, Page 1, Line 2, Pos (9,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rFireside$r by MillieAmp"
+msgstr "$rFireside$r от MillieAmp"
+
+#. ID 43, Page 1, Line 2, Pos (10,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rReturn?$r by Stk"
+msgstr "$rReturn?$r от Stk"
+
+#. ID 44, Page 1, Line 2, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rCloudtops$r by MillieAmp"
+msgstr "$rCloudtops$r от MillieAmp"
+
+#. ID 45, Page 1, Line 2, Pos (12,7)
+#. Contains choice at line 2 (2 options)
+msgid "$rLimb Oh!$r by Stk"
+msgstr "$rLimb Oh!$r от Stk"
