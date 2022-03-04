@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 56, Page 1, Line 6, Pos (99,39)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　　 くろでんわ\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　 검은 전화기\\<\\|\\^"
+
+#. ID 67, Page 8, Line 13, Pos (102,39)
+msgid ""
+"\\>ベンチイベントです。　3つのイベントを\n"
+"\\>コピペしてください。"
+msgstr ""
+"\\>벤치 이벤트입니다.　3개의 이벤트를\n"
+"\\>복사해주세요."
+
+#. ID 67, Page 8, Line 15, Pos (102,39)
+msgid "\\>特別な意図が無い限りベンチは統一しましょう。"
+msgstr "\\>특별한 이벤트가 없다면 벤치는 통일됩니다."
+
+#. ID 67, Page 8, Line 16, Pos (102,39)
+msgid ""
+"\\>各部屋にあったカラーを使ってください。\n"
+"\\>オリジナルカラーを作ってもよいでしょう。"
+msgstr ""
+"\\>각 방에 맞는 색상을 사용하세요.\n"
+"\\>나만의 컬러를 만드셔도 됩니다."
