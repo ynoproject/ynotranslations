@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 55, Page 1, Line 6, Pos (12,76)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　 ようせい\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　   요정\\<\\|\\^"
+
+#. ID 82, Page 1, Line 15, Pos (13,230)
+#. ID 83, Page 1, Line 6, Pos (13,228)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：８\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　  메뉴 타입: 8\\<\\|\\|\\^"
+
+#. ID 84, Page 1, Line 1, Pos (6,200)
+msgid "ここは0階のはず。"
+msgstr "이 곳은 0층일겁니다."
+
+#. ID 93, Page 1, Line 1, Pos (6,170)
+msgid "ここは6階のはず。"
+msgstr "이 곳은 6층일겁니다."
+
+#. ID 109, Page 1, Line 20, Pos (11,172)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""

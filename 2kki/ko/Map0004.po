@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 5, Page 2, Line 10, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 5, Page 2, Line 76, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おおかみ"
+msgstr "늑대"
+
+#. ID 5, Page 2, Line 11, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 85, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バイク"
+msgstr "바이크"
+
+#. ID 5, Page 2, Line 18, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテ"
+msgstr "트윈테일"
+
+#. ID 5, Page 2, Line 19, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 68, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めがね"
+msgstr "안경"
+
+#. ID 5, Page 2, Line 26, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 5, Page 2, Line 125, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "はにわ"
+msgstr "하니와"
+
+#. ID 5, Page 2, Line 27, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 133, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ケーキ"
+msgstr "케이크"
+
+#. ID 5, Page 2, Line 34, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "レインコート"
+msgstr "우비"
+
+#. ID 5, Page 2, Line 44, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "くろでんわ"
+msgstr "검은 전화기"
+
+#. ID 5, Page 2, Line 48, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おとこのこ"
+msgstr "낭자아이"
+
+#. ID 5, Page 2, Line 52, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "チェーンソー"
+msgstr "전기톱"
+
+#. ID 5, Page 2, Line 56, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "カンテラ"
+msgstr "등불"
+
+#. ID 5, Page 2, Line 60, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ようせい"
+msgstr "요정"
+
+#. ID 5, Page 2, Line 64, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うちゅうふく"
+msgstr "우주복"
+
+#. ID 5, Page 2, Line 72, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "にじ"
+msgstr "무지개"
+
+#. ID 5, Page 2, Line 80, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めだま"
+msgstr "눈알"
+
+#. ID 5, Page 2, Line 81, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ばくだん"
+msgstr "폭탄"
+
+#. ID 5, Page 2, Line 89, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "まいこ"
+msgstr "마이코"
+
+#. ID 5, Page 2, Line 93, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテール"
+msgstr "트윈테일"
+
+#. ID 5, Page 2, Line 97, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ぺんぎん"
+msgstr "펭귄"
+
+#. ID 5, Page 2, Line 101, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "むし"
+msgstr "벌레"
+
+#. ID 5, Page 2, Line 105, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バネ"
+msgstr "스프링"
+
+#. ID 5, Page 2, Line 109, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "とうめい"
+msgstr "투명"
+
+#. ID 5, Page 2, Line 113, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "がくラン"
+msgstr "가쿠란"
+
+#. ID 5, Page 2, Line 117, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ギプス"
+msgstr "깁스"
+
+#. ID 5, Page 2, Line 121, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "せのび"
+msgstr "까치발"
+
+#. ID 5, Page 2, Line 129, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "トロンボーン"
+msgstr "트럼본"
+
+#. ID 5, Page 2, Line 137, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "こども"
+msgstr "어린이"
+
+#. ID 5, Page 2, Line 141, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "あかずきん"
+msgstr "빨간 망토"
+
+#. ID 5, Page 2, Line 145, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ティッシュ"
+msgstr "화장지"
+
+#. ID 5, Page 2, Line 149, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "コウモリ"
+msgstr "박쥐"
+
+#. ID 5, Page 2, Line 153, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ポリゴン"
+msgstr "폴리곤"
+
+#. ID 5, Page 2, Line 157, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "てるてる"
+msgstr "테루테루"
+
+#. ID 5, Page 2, Line 158, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ぼうず"
+msgstr "보즈"
+
+#. ID 5, Page 2, Line 162, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マージナル"
+msgstr "마지널"
+
+#. ID 5, Page 2, Line 166, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ドラムかん"
+msgstr "드럼캔"
+
+#. ID 5, Page 2, Line 170, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おはか"
+msgstr "무덤"
+
+#. ID 5, Page 2, Line 174, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ふみきり"
+msgstr "건널목"
+
+#. ID 5, Page 2, Line 178, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うさみみ"
+msgstr "토끼귀"
+
+#. ID 5, Page 2, Line 182, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "サイコロ"
+msgstr "주사위"
+
+#. ID 5, Page 2, Line 186, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "なし（エフェ"
+msgstr "없음"
+
+#. ID 5, Page 2, Line 187, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "クト解除）"
+msgstr "(이펙트 해제)"
+
+#. ID 5, Page 3, Line 21, Pos (13,5)
+msgid ""
+"\\>※お気に入りエフェクトに登録\n"
+"\\>　　★ \\N[2]\\N[3] ★\n"
+"\\>　シフトキー長押しで発動"
+msgstr ""
+"\\>※ 즐겨찾기 이펙트 등록됨\n"
+"\\>　　★ \\N[2]\\N[3] ★\n"
+"\\> 　Shift키를 길게 눌러 발동"
+
+#. ID 5, Page 3, Line 24, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マップ到達"
+msgstr "맵 도달"
+
+#. ID 5, Page 3, Line 25, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "デフォルト1"
+msgstr "기본 1"
+
+#. ID 11, Page 1, Line 40, Pos (6,7)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
