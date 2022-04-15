@@ -1,0 +1,634 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (11,3)
+msgid "긶긞긤긲긅깛"
+msgstr ""
+
+#. ID 3, Page 1, Line 3, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 1, Line 2, Pos (12,1)
+#. ID 9, Page 1, Line 3, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 3, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 3, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 3, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 1, Line 3, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 1, Line 5, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 3, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 24, Page 1, Line 5, Pos (13,9)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 3, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 3, Pos (17,7)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 3, Pos (11,9)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 1, Line 3, Pos (13,7)
+#. Contains choice at line 2 (2 options)
+#. ID 34, Page 1, Line 3, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 3, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 1, Line 4, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 4, Pos (13,11)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 3, Pos (17,9)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 1, Line 3, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 1, Line 3, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 1, Line 3, Pos (11,13)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 1, Line 3, Pos (13,13)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 3, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 1, Line 3, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "긄긲긃긏긣봨딙"
+msgstr ""
+
+#. ID 3, Page 1, Line 4, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 24, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 4, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 24, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 4, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 24, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 4, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 24, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 4, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 24, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 24, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 6, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 26, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 24, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 6, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 26, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 4, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 24, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 4, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 24, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 4, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 24, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 4, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 24, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 4, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 24, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 4, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 24, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 5, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 25, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 5, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 25, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 4, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 24, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 4, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 24, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 4, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 24, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 4, Pos (11,13)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 24, Pos (11,13)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 4, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 24, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 4, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 24, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 4, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 24, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"궥귡\n"
+"궢궶궋"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (11,3)
+msgid "긶긞긤긲긅깛봨딙"
+msgstr ""
+
+#. ID 3, Page 1, Line 23, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 1, Line 23, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 23, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 23, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 23, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 1, Line 23, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 1, Line 25, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 23, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 22, Page 1, Line 3, Pos (11,1)
+#. ID 24, Page 1, Line 25, Pos (13,9)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 23, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 23, Pos (17,7)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 23, Pos (11,9)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 1, Line 23, Pos (13,7)
+#. Contains choice at line 2 (2 options)
+#. ID 34, Page 1, Line 23, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 23, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 1, Line 24, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 24, Pos (13,11)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 23, Pos (17,9)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 1, Line 23, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 1, Line 23, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 1, Line 23, Pos (11,13)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 1, Line 23, Pos (13,13)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 23, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 1, Line 23, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "긄긲긃긏긣롦벦"
+msgstr ""
+
+#. ID 3, Page 1, Line 26, Pos (11,3)
+msgid "긶긞긤긲긅깛롦벦"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (7,1)
+#. Contains choice at line 2 (3 options)
+msgid "긄깛긣깋깛긚궻봶똧귩궖귕궲궺"
+msgstr ""
+
+#. ID 8, Page 1, Line 2, Pos (7,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"1\n"
+"2\n"
+"3"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (15,3)
+msgid "궣귛궎귣"
+msgstr ""
+
+#. ID 9, Page 1, Line 6, Pos (15,3)
+msgid "궣귛궎귣봨딙"
+msgstr ""
+
+#. ID 9, Page 1, Line 26, Pos (15,3)
+msgid "궣귛궎귣롦벦"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (8,1)
+msgid "궼귘궘궼궢귡귝갏"
+msgstr ""
+
+#. ID 10, Page 1, Line 2, Pos (8,1)
+#. Choice (4 options)
+msgid ""
+"귅궰궎\n"
+"궼귘궋\n"
+"궼궇귘궋\n"
+"�뫊"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "궋궰궳귖긜�긳됀�궸궶귡귝갏"
+msgstr ""
+
+#. ID 11, Page 1, Line 2, Pos (9,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"궥귡\n"
+"궋궋"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (13,3)
+msgid "궲궰긬귽긵"
+msgstr ""
+
+#. ID 12, Page 1, Line 6, Pos (13,3)
+msgid "궲궰긬귽긵봨딙"
+msgstr ""
+
+#. ID 12, Page 1, Line 26, Pos (13,3)
+msgid "궲궰긬귽긵롦벦"
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (17,3)
+msgid "긾긩귺귽�궔귦궋궋"
+msgstr ""
+
+#. ID 15, Page 1, Line 6, Pos (17,3)
+msgid "긾긩귺귽봨딙"
+msgstr ""
+
+#. ID 15, Page 1, Line 26, Pos (17,3)
+msgid "긾긩귺귽롦벦"
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (11,5)
+msgid "궧귪궥궋귅궘�귅궘갷갎"
+msgstr ""
+
+#. ID 16, Page 1, Line 6, Pos (11,5)
+msgid "궧귪궥궋귅궘봨딙"
+msgstr ""
+
+#. ID 16, Page 1, Line 26, Pos (11,5)
+msgid "궧귪궥궋귅궘롦벦"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (13,5)
+msgid "궺궞�룷궠궋궴궞귣궸볺귢귡귝궎궸궶귟귏궢궫갃"
+msgstr ""
+
+#. ID 18, Page 1, Line 6, Pos (13,5)
+msgid "궺궞봨딙"
+msgstr ""
+
+#. ID 18, Page 1, Line 26, Pos (13,5)
+msgid "궺궞롦벦"
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (15,5)
+msgid ""
+"귌궎궖�뻷룛�렔�롎\n"
+"귌궎궖귽긹깛긣귩궵궎궢궲귖띿귟궫궔궯궫궔귞\n"
+"띿궯궭귗궯궫갃"
+msgstr ""
+
+#. ID 19, Page 1, Line 8, Pos (15,5)
+msgid "귌궎궖봨딙"
+msgstr ""
+
+#. ID 19, Page 1, Line 28, Pos (15,5)
+msgid "귌궎궖롦벦"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (10,1)
+msgid "긽긦깄��귽긵빾뛛"
+msgstr ""
+
+#. ID 20, Page 1, Line 2, Pos (10,1)
+#. Choice (4 options)
+msgid ""
+"�귽긵flow\n"
+"�귽긵fc\n"
+"�귽긵dot\n"
+"렅"
+msgstr ""
+
+#. ID 20, Page 1, Line 5, Pos (10,1)
+msgid "긽긦깄��귽긵flow"
+msgstr ""
+
+#. ID 20, Page 1, Line 10, Pos (10,1)
+msgid "긽긦깄��귽긵fc"
+msgstr ""
+
+#. ID 20, Page 1, Line 15, Pos (10,1)
+msgid "긽긦깄��귽긵긤긞긣"
+msgstr ""
+
+#. ID 20, Page 1, Line 19, Pos (10,1)
+#. Choice (4 options)
+msgid ""
+"�귽긵orange\n"
+"�귽긵flower\n"
+"�귽긵sugar\n"
+"�귽긵rust"
+msgstr ""
+
+#. ID 20, Page 1, Line 22, Pos (10,1)
+msgid "긽긦깄��귽긵orange"
+msgstr ""
+
+#. ID 20, Page 1, Line 27, Pos (10,1)
+msgid "긽긦깄��귽긵flower"
+msgstr ""
+
+#. ID 20, Page 1, Line 32, Pos (10,1)
+msgid "긽긦깄��귽긵sugar"
+msgstr ""
+
+#. ID 20, Page 1, Line 37, Pos (10,1)
+msgid "긽긦깄��귽긵rust"
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (17,5)
+msgid "귚궎귢궋"
+msgstr ""
+
+#. ID 21, Page 1, Line 6, Pos (17,5)
+msgid "귚궎귢궋봨딙"
+msgstr ""
+
+#. ID 21, Page 1, Line 26, Pos (17,5)
+msgid "귚궎귢궋롦벦"
+msgstr ""
+
+#. ID 24, Page 1, Line 1, Pos (13,9)
+msgid ""
+"궎궳\n"
+"긾긩럔긞긞됀닩궋귝궔귦궋궋궋귝긅긾긩럔긅긅�귺귺귺귺긞귺�긞긞갏\n"
+"갏갏"
+msgstr ""
+
+#. ID 24, Page 1, Line 8, Pos (13,9)
+msgid "궎궳봨딙"
+msgstr ""
+
+#. ID 24, Page 1, Line 28, Pos (13,9)
+msgid "궎궳롦벦"
+msgstr ""
+
+#. ID 25, Page 1, Line 1, Pos (14,1)
+#. Contains choice at line 2 (2 options)
+msgid ".궔궩궘궩궎궭."
+msgstr ""
+
+#. ID 25, Page 1, Line 2, Pos (14,1)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 3, Pos (3,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"궼궋\n"
+"궋궋궑"
+msgstr ""
+
+#. ID 25, Page 1, Line 4, Pos (14,1)
+msgid "긽긦깄�궻궴궘귊궰궔귞갃"
+msgstr ""
+
+#. ID 27, Page 1, Line 1, Pos (11,7)
+msgid "긼귽긞긚깑"
+msgstr ""
+
+#. ID 27, Page 1, Line 6, Pos (11,7)
+msgid "긼귽긞긚깑봨딙"
+msgstr ""
+
+#. ID 27, Page 1, Line 26, Pos (11,7)
+msgid "긼귽긞긚깑롦벦"
+msgstr ""
+
+#. ID 28, Page 1, Line 1, Pos (17,7)
+msgid "궬귡귏�벍띿믁돿갃댾쁝뒾궇귟갃"
+msgstr ""
+
+#. ID 28, Page 1, Line 6, Pos (17,7)
+msgid "궬귡귏봨딙"
+msgstr ""
+
+#. ID 28, Page 1, Line 26, Pos (17,7)
+msgid "궬귡귏롦벦"
+msgstr ""
+
+#. ID 29, Page 1, Line 1, Pos (3,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"긊긚�긚긏긟귽깛긡�깑ver\n"
+"궧궯궔궘띿궯궫궻궳갃"
+msgstr ""
+
+#. ID 29, Page 1, Line 6, Pos (3,13)
+msgid "ver.긟귽깛긡�깑on"
+msgstr ""
+
+#. ID 29, Page 1, Line 11, Pos (3,13)
+msgid "ver.긟귽깛긡�깑off"
+msgstr ""
+
+#. ID 31, Page 1, Line 1, Pos (11,9)
+msgid "긚깋귽��귆귝귆귝떗돸갃"
+msgstr ""
+
+#. ID 31, Page 1, Line 6, Pos (11,9)
+msgid "긚깋귽�봨딙"
+msgstr ""
+
+#. ID 31, Page 1, Line 26, Pos (11,9)
+msgid "긚깋귽�롦벦"
+msgstr ""
+
+#. ID 33, Page 1, Line 1, Pos (13,7)
+msgid "긊긚�긚긏�뷄륂궸됀닩궋"
+msgstr ""
+
+#. ID 33, Page 1, Line 6, Pos (13,7)
+msgid "긊긚�긚긏봨딙"
+msgstr ""
+
+#. ID 33, Page 1, Line 26, Pos (13,7)
+msgid "긊긚�긚긏롦벦"
+msgstr ""
+
+#. ID 34, Page 1, Line 1, Pos (15,7)
+msgid "궖궔궋�귘궯궰궚궔귖궢귢궶궋갃"
+msgstr ""
+
+#. ID 34, Page 1, Line 6, Pos (15,7)
+msgid "궖궔궋봨딙"
+msgstr ""
+
+#. ID 34, Page 1, Line 26, Pos (15,7)
+msgid "궖궔궋롦벦"
+msgstr ""
+
+#. ID 35, Page 1, Line 1, Pos (15,9)
+msgid "궶궋궪궎�깏깈긥궋귝갃"
+msgstr ""
+
+#. ID 35, Page 1, Line 6, Pos (15,9)
+msgid "궶궋궪궎봨딙"
+msgstr ""
+
+#. ID 35, Page 1, Line 26, Pos (15,9)
+msgid "궶궋궪궎롦벦"
+msgstr ""
+
+#. ID 36, Page 1, Line 1, Pos (11,11)
+msgid ""
+"궚귪궣귙궎\n"
+"긤긞긣궕룷궠궘궲뙥궑궸궘궋갃"
+msgstr ""
+
+#. ID 36, Page 1, Line 7, Pos (11,11)
+msgid "궚귪궣귙궎봨딙"
+msgstr ""
+
+#. ID 36, Page 1, Line 27, Pos (11,11)
+msgid "궚귪궣귙궎롦벦"
+msgstr ""
+
+#. ID 37, Page 1, Line 1, Pos (13,11)
+msgid ""
+"궢궫궋\n"
+"븙뿉�뫬갃"
+msgstr ""
+
+#. ID 37, Page 1, Line 7, Pos (13,11)
+msgid "궢궫궋봨딙"
+msgstr ""
+
+#. ID 37, Page 1, Line 27, Pos (13,11)
+msgid "궢궫궋롦벦"
+msgstr ""
+
+#. ID 38, Page 1, Line 1, Pos (17,9)
+msgid "긖귽긑긢깏긞긏�"
+msgstr ""
+
+#. ID 38, Page 1, Line 6, Pos (17,9)
+msgid "긖귽긑긢깏긞긏봨딙"
+msgstr ""
+
+#. ID 38, Page 1, Line 26, Pos (17,9)
+msgid "긖귽긑긢깏긞긏롦벦"
+msgstr ""
+
+#. ID 39, Page 1, Line 1, Pos (15,11)
+msgid "궘귣긲�긤"
+msgstr ""
+
+#. ID 39, Page 1, Line 6, Pos (15,11)
+msgid "궘귣긲�긤봨딙"
+msgstr ""
+
+#. ID 39, Page 1, Line 26, Pos (15,11)
+msgid "궘귣긲�긤롦벦"
+msgstr ""
+
+#. ID 40, Page 1, Line 1, Pos (17,11)
+msgid "궧궋귅궘"
+msgstr ""
+
+#. ID 40, Page 1, Line 6, Pos (17,11)
+msgid "궧궋귅궘봨딙"
+msgstr ""
+
+#. ID 40, Page 1, Line 26, Pos (17,11)
+msgid "궧궋귅궘롦벦"
+msgstr ""
+
+#. ID 42, Page 1, Line 1, Pos (11,13)
+msgid "긡깒긮"
+msgstr ""
+
+#. ID 42, Page 1, Line 6, Pos (11,13)
+msgid "긡깒긮봨딙"
+msgstr ""
+
+#. ID 42, Page 1, Line 26, Pos (11,13)
+msgid "긡깒긮롦벦"
+msgstr ""
+
+#. ID 44, Page 1, Line 1, Pos (13,13)
+msgid "궋귢궦귒"
+msgstr ""
+
+#. ID 44, Page 1, Line 6, Pos (13,13)
+msgid "궋귢궦귒봨딙"
+msgstr ""
+
+#. ID 44, Page 1, Line 26, Pos (13,13)
+msgid "궋귢궦귒롦벦"
+msgstr ""
+
+#. ID 46, Page 1, Line 1, Pos (15,13)
+msgid "궢귛궘귆궰"
+msgstr ""
+
+#. ID 46, Page 1, Line 6, Pos (15,13)
+msgid "궢귛궘귆궰봨딙"
+msgstr ""
+
+#. ID 46, Page 1, Line 26, Pos (15,13)
+msgid "궢귛궘귆궰롦벦"
+msgstr ""
+
+#. ID 47, Page 1, Line 1, Pos (17,13)
+msgid "긤깒긚"
+msgstr ""
+
+#. ID 47, Page 1, Line 6, Pos (17,13)
+msgid "긤깒긚봨딙"
+msgstr ""
+
+#. ID 47, Page 1, Line 26, Pos (17,13)
+msgid "긤깒긚롦벦"
+msgstr ""
+
