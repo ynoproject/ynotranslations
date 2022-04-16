@@ -1,0 +1,575 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "사비츠키"
+msgstr ""
+
+#. ID 2
+msgctxt "actors.name"
+msgid "rust"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.name"
+msgid "기상"
+msgstr ""
+
+#. ID 1
+msgctxt "skills.description"
+msgid "자신의 방으로 돌아갑니다."
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "가속장치"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.description"
+msgid "디버깅 전용"
+msgstr ""
+
+#. ID 1
+#. ID 2
+#. ID 36
+msgctxt "items.name"
+msgid "헤드폰"
+msgstr ""
+
+#. ID 1
+#. ID 2
+msgctxt "items.description"
+msgid "'헤드폰'을 쓴다."
+msgstr ""
+
+#. ID 3
+#. ID 4
+#. ID 37
+msgctxt "items.name"
+msgid "쇠파이프"
+msgstr ""
+
+#. ID 3
+#. ID 4
+msgctxt "items.description"
+msgid "'쇠파이프'를 가진다."
+msgstr ""
+
+#. ID 5
+#. ID 6
+#. ID 38
+msgctxt "items.name"
+msgid "유령"
+msgstr ""
+
+#. ID 5
+#. ID 6
+msgctxt "items.description"
+msgid "'유령'이 된다."
+msgstr ""
+
+#. ID 7
+#. ID 8
+#. ID 39
+msgctxt "items.name"
+msgid "모노아이"
+msgstr ""
+
+#. ID 7
+#. ID 8
+msgctxt "items.description"
+msgid "'모노아이'가 된다."
+msgstr ""
+
+#. ID 9
+#. ID 10
+#. ID 40
+msgctxt "items.name"
+msgid "잠수복"
+msgstr ""
+
+#. ID 9
+#. ID 10
+msgctxt "items.description"
+msgid "'잠수복'을 입는다."
+msgstr ""
+
+#. ID 11
+#. ID 12
+#. ID 41
+msgctxt "items.name"
+msgid "고양이"
+msgstr ""
+
+#. ID 11
+#. ID 12
+msgctxt "items.description"
+msgid "'고양이'가 된다."
+msgstr ""
+
+#. ID 13
+#. ID 14
+#. ID 42
+msgctxt "items.name"
+msgid "빗자루"
+msgstr ""
+
+#. ID 13
+#. ID 14
+msgctxt "items.description"
+msgid "'빗자루'에 오른다."
+msgstr ""
+
+#. ID 15
+#. ID 16
+#. ID 43
+msgctxt "items.name"
+msgid "물뿌리개"
+msgstr ""
+
+#. ID 15
+#. ID 16
+msgctxt "items.description"
+msgid "'물뿌리개'를 가진다."
+msgstr ""
+
+#. ID 17
+#. ID 18
+#. ID 44
+msgctxt "items.name"
+msgid "호루라기"
+msgstr ""
+
+#. ID 17
+#. ID 18
+msgctxt "items.description"
+msgid "'호루라기(휘슬)'을 목에 건다."
+msgstr ""
+
+#. ID 19
+#. ID 20
+#. ID 45
+msgctxt "items.name"
+msgid "가스마스크"
+msgstr ""
+
+#. ID 19
+#. ID 20
+msgctxt "items.description"
+msgid "'가스마스크'를 쓴다."
+msgstr ""
+
+#. ID 21
+#. ID 22
+#. ID 46
+msgctxt "items.name"
+msgid "기계"
+msgstr ""
+
+#. ID 21
+#. ID 22
+msgctxt "items.description"
+msgid "'기계'가 된다."
+msgstr ""
+
+#. ID 23
+#. ID 24
+#. ID 47
+msgctxt "items.name"
+msgid "달마"
+msgstr ""
+
+#. ID 23
+#. ID 24
+msgctxt "items.description"
+msgid "'달마'가 된다."
+msgstr ""
+
+#. ID 25
+#. ID 26
+#. ID 48
+msgctxt "items.name"
+msgid "슬라임"
+msgstr ""
+
+#. ID 25
+#. ID 26
+msgctxt "items.description"
+msgid "'슬라임'이 된다."
+msgstr ""
+
+#. ID 27
+#. ID 28
+#. ID 49
+msgctxt "items.name"
+msgid "팔"
+msgstr ""
+
+#. ID 27
+#. ID 28
+msgctxt "items.description"
+msgid "'팔'이 된다."
+msgstr ""
+
+#. ID 29
+#. ID 60
+msgctxt "items.name"
+msgid "::::::::::::::::::::"
+msgstr ""
+
+#. ID 30
+msgctxt "items.name"
+msgid "가짜 게임설명"
+msgstr ""
+
+#. ID 30
+msgctxt "items.description"
+msgid "긟긏�깑럅뾩궻뒯댾궋궔귞맯귏귢궫럀븿"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "잠버릇"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "평상시"
+msgstr ""
+
+#. ID 33
+msgctxt "items.name"
+msgid "마음에 듬"
+msgstr ""
+
+#. ID 34
+msgctxt "items.name"
+msgid "가죽구두"
+msgstr ""
+
+#. ID 35
+msgctxt "items.name"
+msgid "없음"
+msgstr ""
+
+#. ID 50
+#. ID 61
+#. ID 62
+msgctxt "items.name"
+msgid "내장"
+msgstr ""
+
+#. ID 51
+#. ID 63
+#. ID 64
+msgctxt "items.name"
+msgid "사이키델릭"
+msgstr ""
+
+#. ID 52
+#. ID 65
+#. ID 66
+msgctxt "items.name"
+msgid "권총"
+msgstr ""
+
+#. ID 53
+#. ID 67
+#. ID 68
+msgctxt "items.name"
+msgid "시체"
+msgstr ""
+
+#. ID 54
+#. ID 69
+#. ID 70
+msgctxt "items.name"
+msgid "검은후드"
+msgstr ""
+
+#. ID 55
+#. ID 71
+#. ID 72
+msgctxt "items.name"
+msgid "교복"
+msgstr ""
+
+#. ID 56
+#. ID 73
+#. ID 74
+msgctxt "items.name"
+msgid "텔레비전"
+msgstr ""
+
+#. ID 57
+#. ID 75
+#. ID 76
+msgctxt "items.name"
+msgid "식물"
+msgstr ""
+
+#. ID 58
+#. ID 77
+#. ID 78
+msgctxt "items.name"
+msgid "문신"
+msgstr ""
+
+#. ID 59
+#. ID 79
+#. ID 80
+msgctxt "items.name"
+msgid "드레스"
+msgstr ""
+
+#. ID 61
+#. ID 62
+msgctxt "items.description"
+msgid "'내장'이 나온다."
+msgstr ""
+
+#. ID 63
+#. ID 64
+msgctxt "items.description"
+msgid "'사이키델릭'이 된다."
+msgstr ""
+
+#. ID 65
+#. ID 66
+msgctxt "items.description"
+msgid "'권총'을 가진다."
+msgstr ""
+
+#. ID 67
+#. ID 68
+msgctxt "items.description"
+msgid "'시체'가 된다."
+msgstr ""
+
+#. ID 69
+#. ID 70
+msgctxt "items.description"
+msgid "'검은후드'을 입는다."
+msgstr ""
+
+#. ID 71
+#. ID 72
+msgctxt "items.description"
+msgid "'교복'을 입는다."
+msgstr ""
+
+#. ID 73
+#. ID 74
+msgctxt "items.description"
+msgid "'텔레비전'이 된다."
+msgstr ""
+
+#. ID 75
+#. ID 76
+msgctxt "items.description"
+msgid "'식물'이 된다."
+msgstr ""
+
+#. ID 77
+#. ID 78
+msgctxt "items.description"
+msgid "'문신'을 새긴다."
+msgstr ""
+
+#. ID 79
+#. ID 80
+msgctxt "items.description"
+msgid "'드레스'를 입는다."
+msgstr ""
+
+#. ID 100
+msgctxt "items.name"
+msgid "게임 설명"
+msgstr ""
+
+#. ID 100
+msgctxt "items.description"
+msgid "게임 설명을 본다."
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "원"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "이펙트"
+msgstr ""
+
+msgctxt "terms.command_skill"
+msgid "특수"
+msgstr ""
+
+msgctxt "terms.menu_equipment"
+msgid "나"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "."
+msgstr ""
+
+msgctxt "terms.menu_quit"
+msgid "끝내기"
+msgstr ""
+
+msgctxt "terms.new_game"
+msgid ".flow"
+msgstr ""
+
+msgctxt "terms.load_game"
+msgid "이어서"
+msgstr ""
+
+msgctxt "terms.exit_game"
+msgid "끝내기"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "$g"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$g"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "이펙트"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "버릇"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "옷"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "스커트"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "구두"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "파일을 저장합니다."
+msgstr ""
+
+msgctxt "terms.load_game_message"
+msgid "기록을 불러옵니다."
+msgstr ""
+
+msgctxt "terms.file"
+msgid "."
+msgstr ""
+
+msgctxt "terms.exit_game_message"
+msgid "정말로 종료하나요?"
+msgstr ""
+
+msgctxt "terms.yes"
+msgid "네"
+msgstr ""
+
+msgctxt "terms.no"
+msgid "아니오"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+
