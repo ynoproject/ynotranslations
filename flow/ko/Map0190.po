@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 5, Page 1, Line 4, Pos (10,7)
-msgid "　　　　　  　 .메뉴 타입 flower."
-msgstr ""
+msgid "　　　　　  　 .メニュータイプflower."
+msgstr "　　　　　  　 .메뉴 타입 flower."
 

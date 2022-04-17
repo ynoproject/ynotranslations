@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 3, Page 1, Line 5, Pos (4,2)
-msgid "　　　　　　　　    .모노아이."
-msgstr ""
+msgid "　　　　　　　　    .モノアイ."
+msgstr "　　　　　　　　    .모노아이."
 

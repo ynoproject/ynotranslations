@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 157, Page 1, Line 6, Pos (72,74)
-msgid "　　　　　  　　　　　.팔."
-msgstr ""
+msgid "　　　　　  　　　　　.うで."
+msgstr "　　　　　  　　　　　.팔."
 
