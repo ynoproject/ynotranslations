@@ -9,6 +9,7 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 2, Page 1, Line 20, Pos (14,8)
-msgid "                Change Menu Type"
-msgstr "                 ★메뉴 타입 변경★"
+#. ID 2, Page 3, Line 20, Pos (14,8)
+msgid "                 ★메뉴 타입 변경★"
+msgstr ""
 

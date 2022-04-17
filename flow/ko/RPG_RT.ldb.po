@@ -10,215 +10,215 @@ msgstr ""
 
 #. ID 1
 msgctxt "actors.name"
-msgid "사비츠키"
-msgstr ""
+msgid "さびつき"
+msgstr "사비츠키"
 
 #. ID 2
 msgctxt "actors.name"
-msgid "rust"
-msgstr ""
+msgid "錆"
+msgstr "rust"
 
 #. ID 1
 msgctxt "skills.name"
-msgid "기상"
-msgstr ""
+msgid "おきる"
+msgstr "기상"
 
 #. ID 1
 msgctxt "skills.description"
-msgid "자신의 방으로 돌아갑니다."
-msgstr ""
+msgid "じぶんのへやにもどる。"
+msgstr "자신의 방으로 돌아갑니다."
 
 #. ID 2
 msgctxt "skills.name"
-msgid "가속장치"
-msgstr ""
+msgid "かそくそうち"
+msgstr "가속장치"
 
 #. ID 2
 msgctxt "skills.description"
-msgid "디버깅 전용"
-msgstr ""
+msgid "デバッグせんよう"
+msgstr "디버깅 전용"
 
 #. ID 1
 #. ID 2
 #. ID 36
 msgctxt "items.name"
-msgid "헤드폰"
-msgstr ""
+msgid "ヘッドフォン"
+msgstr "헤드폰"
 
 #. ID 1
 #. ID 2
 msgctxt "items.description"
-msgid "'헤드폰'을 쓴다."
-msgstr ""
+msgid "｢ヘッドフォン｣をかぶる。"
+msgstr "'헤드폰'을 쓴다."
 
 #. ID 3
 #. ID 4
 #. ID 37
 msgctxt "items.name"
-msgid "쇠파이프"
-msgstr ""
+msgid "てつパイプ"
+msgstr "쇠파이프"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
-msgid "'쇠파이프'를 가진다."
-msgstr ""
+msgid "｢てつパイプ｣をもつ。"
+msgstr "'쇠파이프'를 쥔다."
 
 #. ID 5
 #. ID 6
 #. ID 38
 msgctxt "items.name"
-msgid "유령"
-msgstr ""
+msgid "ゆうれい"
+msgstr "유령"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
-msgid "'유령'이 된다."
-msgstr ""
+msgid "｢ゆうれい｣になる。"
+msgstr "'유령'이 된다."
 
 #. ID 7
 #. ID 8
 #. ID 39
 msgctxt "items.name"
-msgid "모노아이"
-msgstr ""
+msgid "モノアイ"
+msgstr "모노아이"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
-msgid "'모노아이'가 된다."
-msgstr ""
+msgid "｢モノアイ｣になる。"
+msgstr "'모노아이'가 된다."
 
 #. ID 9
 #. ID 10
 #. ID 40
 msgctxt "items.name"
-msgid "잠수복"
-msgstr ""
+msgid "せんすいふく"
+msgstr "잠수복"
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
-msgid "'잠수복'을 입는다."
-msgstr ""
+msgid "｢せんすいふく｣をかぶる。"
+msgstr "'잠수복'을 입는다."
 
 #. ID 11
 #. ID 12
 #. ID 41
 msgctxt "items.name"
-msgid "고양이"
-msgstr ""
+msgid "ねこ"
+msgstr "고양이"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
-msgid "'고양이'가 된다."
-msgstr ""
+msgid "｢ねこ｣になる。"
+msgstr "'고양이'가 된다."
 
 #. ID 13
 #. ID 14
 #. ID 42
 msgctxt "items.name"
-msgid "빗자루"
-msgstr ""
+msgid "ほうき"
+msgstr "빗자루"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
-msgid "'빗자루'에 오른다."
-msgstr ""
+msgid "｢ほうき｣にのる。"
+msgstr "'빗자루'를 탄다."
 
 #. ID 15
 #. ID 16
 #. ID 43
 msgctxt "items.name"
-msgid "물뿌리개"
-msgstr ""
+msgid "じょうろ"
+msgstr "물뿌리개"
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
-msgid "'물뿌리개'를 가진다."
-msgstr ""
+msgid "｢じょうろ｣をもつ。"
+msgstr "'물뿌리개'를 쥔다."
 
 #. ID 17
 #. ID 18
 #. ID 44
 msgctxt "items.name"
-msgid "호루라기"
-msgstr ""
+msgid "ホイッスル"
+msgstr "호루라기"
 
 #. ID 17
 #. ID 18
 msgctxt "items.description"
-msgid "'호루라기(휘슬)'을 목에 건다."
-msgstr ""
+msgid "｢ホイッスル｣をくわえる。"
+msgstr "'호루라기'를 목에 건다."
 
 #. ID 19
 #. ID 20
 #. ID 45
 msgctxt "items.name"
-msgid "가스마스크"
-msgstr ""
+msgid "ガスマスク"
+msgstr "가스마스크"
 
 #. ID 19
 #. ID 20
 msgctxt "items.description"
-msgid "'가스마스크'를 쓴다."
-msgstr ""
+msgid "｢ガスマスク｣をかぶる。"
+msgstr "'가스마스크'를 쓴다."
 
 #. ID 21
 #. ID 22
 #. ID 46
 msgctxt "items.name"
-msgid "기계"
-msgstr ""
+msgid "きかい"
+msgstr "기계"
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
-msgid "'기계'가 된다."
-msgstr ""
+msgid "｢きかい｣になる。"
+msgstr "'기계'가 된다."
 
 #. ID 23
 #. ID 24
 #. ID 47
 msgctxt "items.name"
-msgid "달마"
-msgstr ""
+msgid "だるま"
+msgstr "달마"
 
 #. ID 23
 #. ID 24
 msgctxt "items.description"
-msgid "'달마'가 된다."
-msgstr ""
+msgid "｢だるま｣になる。"
+msgstr "'달마'가 된다."
 
 #. ID 25
 #. ID 26
 #. ID 48
 msgctxt "items.name"
-msgid "슬라임"
-msgstr ""
+msgid "スライム"
+msgstr "슬라임"
 
 #. ID 25
 #. ID 26
 msgctxt "items.description"
-msgid "'슬라임'이 된다."
-msgstr ""
+msgid "｢スライム｣になる。"
+msgstr "'슬라임'이 된다."
 
 #. ID 27
 #. ID 28
 #. ID 49
 msgctxt "items.name"
-msgid "팔"
-msgstr ""
+msgid "うで"
+msgstr "팔"
 
 #. ID 27
 #. ID 28
 msgctxt "items.description"
-msgid "'팔'이 된다."
-msgstr ""
+msgid "｢うで｣がふえる。"
+msgstr "'팔'이 늘어난다."
 
 #. ID 29
 #. ID 60
@@ -228,214 +228,214 @@ msgstr ""
 
 #. ID 30
 msgctxt "items.name"
-msgid "가짜 게임설명"
-msgstr ""
+msgid "にせゲームのせつめい"
+msgstr "가짜 게임설명"
 
 #. ID 30
 msgctxt "items.description"
-msgid "긟긏�깑럅뾩궻뒯댾궋궔귞맯귏귢궫럀븿"
-msgstr ""
+msgid "ツクール仕様の勘違いから生まれた産物"
+msgstr "쯔꾸르 사양의 착오로 생긴 산물"
 
 #. ID 31
 msgctxt "items.name"
-msgid "잠버릇"
-msgstr ""
+msgid "ねぐせ"
+msgstr "잠버릇"
 
 #. ID 32
 msgctxt "items.name"
-msgid "평상시"
-msgstr ""
+msgid "いつもの"
+msgstr "평상시"
 
 #. ID 33
 msgctxt "items.name"
-msgid "마음에 듬"
-msgstr ""
+msgid "おきにいり"
+msgstr "마음에 듦"
 
 #. ID 34
 msgctxt "items.name"
-msgid "가죽구두"
-msgstr ""
+msgid "かわぐつ"
+msgstr "가죽구두"
 
 #. ID 35
 msgctxt "items.name"
-msgid "없음"
-msgstr ""
+msgid "なし"
+msgstr "없음"
 
 #. ID 50
 #. ID 61
 #. ID 62
 msgctxt "items.name"
-msgid "내장"
-msgstr ""
+msgid "ないぞう"
+msgstr "내장"
 
 #. ID 51
 #. ID 63
 #. ID 64
 msgctxt "items.name"
-msgid "사이키델릭"
-msgstr ""
+msgid "サイケデリック"
+msgstr "사이키델릭"
 
 #. ID 52
 #. ID 65
 #. ID 66
 msgctxt "items.name"
-msgid "권총"
-msgstr ""
+msgid "けんじゅう"
+msgstr "권총"
 
 #. ID 53
 #. ID 67
 #. ID 68
 msgctxt "items.name"
-msgid "시체"
-msgstr ""
+msgid "したい"
+msgstr "시체"
 
 #. ID 54
 #. ID 69
 #. ID 70
 msgctxt "items.name"
-msgid "검은후드"
-msgstr ""
+msgid "くろフード"
+msgstr "검은후드"
 
 #. ID 55
 #. ID 71
 #. ID 72
 msgctxt "items.name"
-msgid "교복"
-msgstr ""
+msgid "せいふく"
+msgstr "교복"
 
 #. ID 56
 #. ID 73
 #. ID 74
 msgctxt "items.name"
-msgid "텔레비전"
-msgstr ""
+msgid "テレビ"
+msgstr "텔레비전"
 
 #. ID 57
 #. ID 75
 #. ID 76
 msgctxt "items.name"
-msgid "식물"
-msgstr ""
+msgid "しょくぶつ"
+msgstr "식물"
 
 #. ID 58
 #. ID 77
 #. ID 78
 msgctxt "items.name"
-msgid "문신"
-msgstr ""
+msgid "いれずみ"
+msgstr "문신"
 
 #. ID 59
 #. ID 79
 #. ID 80
 msgctxt "items.name"
-msgid "드레스"
-msgstr ""
+msgid "ドレス"
+msgstr "드레스"
 
 #. ID 61
 #. ID 62
 msgctxt "items.description"
-msgid "'내장'이 나온다."
-msgstr ""
+msgid "｢ないぞう｣がでる。"
+msgstr "'내장'이 나온다."
 
 #. ID 63
 #. ID 64
 msgctxt "items.description"
-msgid "'사이키델릭'이 된다."
-msgstr ""
+msgid "｢サイケデリック｣になる。"
+msgstr "'사이키델릭'이 된다."
 
 #. ID 65
 #. ID 66
 msgctxt "items.description"
-msgid "'권총'을 가진다."
-msgstr ""
+msgid "｢けんじゅう｣をもつ。"
+msgstr "'권총'을 가진다."
 
 #. ID 67
 #. ID 68
 msgctxt "items.description"
-msgid "'시체'가 된다."
-msgstr ""
+msgid "｢したい｣になる。"
+msgstr "'시체'가 된다."
 
 #. ID 69
 #. ID 70
 msgctxt "items.description"
-msgid "'검은후드'을 입는다."
-msgstr ""
+msgid "「くろフード」のふくをきる。"
+msgstr "'검은후드'을 입는다."
 
 #. ID 71
 #. ID 72
 msgctxt "items.description"
-msgid "'교복'을 입는다."
-msgstr ""
+msgid "「せいふく」をきる。"
+msgstr "'교복'을 입는다."
 
 #. ID 73
 #. ID 74
 msgctxt "items.description"
-msgid "'텔레비전'이 된다."
-msgstr ""
+msgid "「テレビ」になる。"
+msgstr "'텔레비전'이 된다."
 
 #. ID 75
 #. ID 76
 msgctxt "items.description"
-msgid "'식물'이 된다."
-msgstr ""
+msgid "「しょくぶつ」になる。"
+msgstr "'식물'이 된다."
 
 #. ID 77
 #. ID 78
 msgctxt "items.description"
-msgid "'문신'을 새긴다."
-msgstr ""
+msgid "「いれずみ」をほる。"
+msgstr "'문신'을 새긴다."
 
 #. ID 79
 #. ID 80
 msgctxt "items.description"
-msgid "'드레스'를 입는다."
-msgstr ""
+msgid "「ドレス」をきる。"
+msgstr "'드레스'를 입는다."
 
 #. ID 100
 msgctxt "items.name"
-msgid "게임 설명"
-msgstr ""
+msgid "ゲームのせつめい"
+msgstr "게임 설명"
 
 #. ID 100
 msgctxt "items.description"
-msgid "게임 설명을 본다."
-msgstr ""
+msgid "ゲームのせつめいをみる。"
+msgstr "게임 설명을 본다."
 
 msgctxt "terms.gold"
-msgid "원"
-msgstr ""
+msgid "円"
+msgstr "엔"
 
 msgctxt "terms.command_item"
-msgid "이펙트"
-msgstr ""
+msgid "エフェクト"
+msgstr "이펙트"
 
 msgctxt "terms.command_skill"
-msgid "특수"
-msgstr ""
+msgid "とくべつ"
+msgstr "특수"
 
 msgctxt "terms.menu_equipment"
-msgid "나"
-msgstr ""
+msgid "じぶん"
+msgstr "나"
 
 msgctxt "terms.menu_save"
 msgid "."
 msgstr ""
 
 msgctxt "terms.menu_quit"
-msgid "끝내기"
-msgstr ""
+msgid "おわりにする"
+msgstr "끝내기"
 
 msgctxt "terms.new_game"
 msgid ".flow"
-msgstr ""
+msgstr ".flow"
 
 msgctxt "terms.load_game"
-msgid "이어서"
-msgstr ""
+msgid "きろく"
+msgstr "이어서"
 
 msgctxt "terms.exit_game"
-msgid "끝내기"
-msgstr ""
+msgid "おわる"
+msgstr "끝내기"
 
 msgctxt "terms.level"
 msgid "E"
@@ -454,48 +454,48 @@ msgid "$g"
 msgstr ""
 
 msgctxt "terms.weapon"
-msgid "이펙트"
-msgstr ""
+msgid "エフェクト"
+msgstr "이펙트"
 
 msgctxt "terms.shield"
-msgid "버릇"
-msgstr ""
+msgid "かみ"
+msgstr "헤어"
 
 msgctxt "terms.armor"
-msgid "옷"
-msgstr ""
+msgid "ふく"
+msgstr "옷"
 
 msgctxt "terms.helmet"
-msgid "스커트"
-msgstr ""
+msgid "スカート"
+msgstr "스커트"
 
 msgctxt "terms.accessory"
-msgid "구두"
-msgstr ""
+msgid "くつ"
+msgstr "구두"
 
 msgctxt "terms.save_game_message"
-msgid "파일을 저장합니다."
-msgstr ""
+msgid "きろくをつける"
+msgstr "파일을 저장합니다."
 
 msgctxt "terms.load_game_message"
-msgid "기록을 불러옵니다."
-msgstr ""
+msgid "きろくをひらく"
+msgstr "기록을 불러옵니다."
 
 msgctxt "terms.file"
 msgid "."
 msgstr ""
 
 msgctxt "terms.exit_game_message"
-msgid "정말로 종료하나요?"
-msgstr ""
+msgid "おわりにしますか？"
+msgstr "정말로 종료하나요?"
 
 msgctxt "terms.yes"
-msgid "네"
-msgstr ""
+msgid "はい"
+msgstr "네"
 
 msgctxt "terms.no"
-msgid "아니오"
-msgstr ""
+msgid "いいえ"
+msgstr "아니오"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"

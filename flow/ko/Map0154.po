@@ -23,6 +23,6 @@ msgstr ""
 #. ID 26, Page 4, Line 57, Pos (23,20)
 #. ID 31, Page 4, Line 58, Pos (23,18)
 #. ID 32, Page 4, Line 57, Pos (23,19)
-msgid "　　　　　  　 .메뉴 타입 sugar."
-msgstr ""
+msgid "　　　　　  　 .メニュータイプsugar."
+msgstr "　　　　　  　 .메뉴 타입 sugar."
 

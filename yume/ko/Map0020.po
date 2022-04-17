@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 3, Page 1, Line 5, Pos (80,82)
-msgid "                      Neon"
-msgstr "                     ★네온★"
+msgid "                     ★네온★"
+msgstr ""
 

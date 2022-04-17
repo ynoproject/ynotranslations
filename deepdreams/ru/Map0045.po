@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yume2kki <Fonvight>\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 1, Page 1, Line 3, Pos (70,52)
+msgid "Get System: Spiderlily"
+msgstr "Получено Оформление: Spiderlily"

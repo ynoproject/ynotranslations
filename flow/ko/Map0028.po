@@ -13,6 +13,6 @@ msgstr ""
 #. ID 4, Page 2, Line 5, Pos (11,6)
 #. ID 4, Page 3, Line 5, Pos (11,6)
 #. ID 4, Page 4, Line 5, Pos (11,6)
-msgid "　　　　　　　　     .잠수복."
-msgstr ""
+msgid "　　　　　　　　  .せんすいふく."
+msgstr "　　　　　　　　     .잠수복."
 
