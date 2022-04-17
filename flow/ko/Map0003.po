@@ -10,7 +10,7 @@ msgstr ""
 
 #. ID 3, Page 1, Line 1, Pos (11,3)
 msgid "ヘッドフォン"
-msgstr ""
+msgstr "헤드폰"
 
 #. ID 3, Page 1, Line 3, Pos (11,3)
 #. Contains choice at line 2 (2 options)
@@ -62,7 +62,7 @@ msgstr ""
 #. ID 47, Page 1, Line 3, Pos (17,13)
 #. Contains choice at line 2 (2 options)
 msgid "エフェクト破棄"
-msgstr ""
+msgstr "이펙트 파기"
 
 #. ID 3, Page 1, Line 4, Pos (11,3)
 #. Choice (2 options, embedded in a message)
@@ -164,10 +164,12 @@ msgid ""
 "する\n"
 "しない"
 msgstr ""
+"한다\n"
+"하지 않는다"
 
 #. ID 3, Page 1, Line 6, Pos (11,3)
 msgid "ヘッドフォン破棄"
-msgstr ""
+msgstr "헤드폰 파기"
 
 #. ID 3, Page 1, Line 23, Pos (11,3)
 #. Contains choice at line 2 (2 options)
@@ -219,40 +221,32 @@ msgstr ""
 #. ID 47, Page 1, Line 23, Pos (17,13)
 #. Contains choice at line 2 (2 options)
 msgid "エフェクト取得"
-msgstr ""
+msgstr "이펙트 취득"
 
 #. ID 3, Page 1, Line 26, Pos (11,3)
 msgid "ヘッドフォン取得"
-msgstr ""
+msgstr "헤드폰 취득"
 
 #. ID 8, Page 1, Line 1, Pos (7,1)
 #. Contains choice at line 2 (3 options)
 msgid "エントランスの背景をきめてね"
-msgstr ""
-
-#. ID 8, Page 1, Line 2, Pos (7,1)
-#. Choice (3 options, embedded in a message)
-msgid ""
-"1\n"
-"2\n"
-"3"
-msgstr ""
+msgstr "문의 방 배경을 정해 주세요"
 
 #. ID 9, Page 1, Line 1, Pos (15,3)
 msgid "じょうろ"
-msgstr ""
+msgstr "물뿌리개"
 
 #. ID 9, Page 1, Line 6, Pos (15,3)
 msgid "じょうろ破棄"
-msgstr ""
+msgstr "물뿌리개 파기"
 
 #. ID 9, Page 1, Line 26, Pos (15,3)
 msgid "じょうろ取得"
-msgstr ""
+msgstr "물뿌리개 취득"
 
 #. ID 10, Page 1, Line 1, Pos (8,1)
 msgid "はやくはしるよ！"
-msgstr ""
+msgstr "빠르게 달리자구!"
 
 #. ID 10, Page 1, Line 2, Pos (8,1)
 #. Choice (4 options)
@@ -262,11 +256,15 @@ msgid ""
 "はあやい\n"
 "神速"
 msgstr ""
+"보통\n"
+"빠름\n"
+"빠아름\n"
+"신속"
 
 #. ID 11, Page 1, Line 1, Pos (9,1)
 #. Contains choice at line 2 (2 options)
 msgid "いつでもセーブ可能になるよ！"
-msgstr ""
+msgstr "언제든지 세이브 가능이라구!"
 
 #. ID 11, Page 1, Line 2, Pos (9,1)
 #. Choice (2 options, embedded in a message)
@@ -274,54 +272,56 @@ msgid ""
 "する\n"
 "いい"
 msgstr ""
+"한다\n"
+"ㄴㄴ"
 
 #. ID 12, Page 1, Line 1, Pos (13,3)
 msgid "てつパイプ"
-msgstr ""
+msgstr "쇠파이프"
 
 #. ID 12, Page 1, Line 6, Pos (13,3)
 msgid "てつパイプ破棄"
-msgstr ""
+msgstr "쇠파이프 파기"
 
 #. ID 12, Page 1, Line 26, Pos (13,3)
 msgid "てつパイプ取得"
-msgstr ""
+msgstr "쇠파이프 취득"
 
 #. ID 15, Page 1, Line 1, Pos (17,3)
 msgid "モノアイ　かわいい"
-msgstr ""
+msgstr "모노아이 귀여어어"
 
 #. ID 15, Page 1, Line 6, Pos (17,3)
 msgid "モノアイ破棄"
-msgstr ""
+msgstr "모노아이 파기"
 
 #. ID 15, Page 1, Line 26, Pos (17,3)
 msgid "モノアイ取得"
-msgstr ""
+msgstr "모노아이 취득"
 
 #. ID 16, Page 1, Line 1, Pos (11,5)
 msgid "せんすいふく　ふく…？"
-msgstr ""
+msgstr "잠수복 복...?"
 
 #. ID 16, Page 1, Line 6, Pos (11,5)
 msgid "せんすいふく破棄"
-msgstr ""
+msgstr "잠수복 파기"
 
 #. ID 16, Page 1, Line 26, Pos (11,5)
 msgid "せんすいふく取得"
-msgstr ""
+msgstr "잠수복 취득"
 
 #. ID 18, Page 1, Line 1, Pos (13,5)
 msgid "ねこ　小さいところに入れるようになりました。"
-msgstr ""
+msgstr "고양이 조그마한 곳에 넣게 되었습니다."
 
 #. ID 18, Page 1, Line 6, Pos (13,5)
 msgid "ねこ破棄"
-msgstr ""
+msgstr "고양이 파기"
 
 #. ID 18, Page 1, Line 26, Pos (13,5)
 msgid "ねこ取得"
-msgstr ""
+msgstr "고양이 취득"
 
 #. ID 19, Page 1, Line 1, Pos (15,5)
 msgid ""
@@ -329,18 +329,21 @@ msgid ""
 "ほうきイベントをどうしても作りたかったから\n"
 "作っちゃった。"
 msgstr ""
+"빗자루 마녀 + 자전거\n"
+"빗자루 이벤트 꼭 만들어보고 싶어서\n"
+"만들어버렸어."
 
 #. ID 19, Page 1, Line 8, Pos (15,5)
 msgid "ほうき破棄"
-msgstr ""
+msgstr "빗자루 파기"
 
 #. ID 19, Page 1, Line 28, Pos (15,5)
 msgid "ほうき取得"
-msgstr ""
+msgstr "빗자루 취득"
 
 #. ID 20, Page 1, Line 1, Pos (10,1)
 msgid "メニュータイプ変更"
-msgstr ""
+msgstr "메뉴 타입 변경"
 
 #. ID 20, Page 1, Line 2, Pos (10,1)
 #. Choice (4 options)
@@ -350,18 +353,22 @@ msgid ""
 "タイプdot\n"
 "次"
 msgstr ""
+"타입flow\n"
+"타입fc\n"
+"타입dot\n"
+"다음"
 
 #. ID 20, Page 1, Line 5, Pos (10,1)
 msgid "メニュータイプflow"
-msgstr ""
+msgstr "메뉴타입flow"
 
 #. ID 20, Page 1, Line 10, Pos (10,1)
 msgid "メニュータイプfc"
-msgstr ""
+msgstr "메뉴타입fc"
 
 #. ID 20, Page 1, Line 15, Pos (10,1)
 msgid "メニュータイプドット"
-msgstr ""
+msgstr "메뉴타입dot"
 
 #. ID 20, Page 1, Line 19, Pos (10,1)
 #. Choice (4 options)
@@ -371,34 +378,38 @@ msgid ""
 "タイプsugar\n"
 "タイプrust"
 msgstr ""
+"타입orange\n"
+"타입flower\n"
+"타입sugar\n"
+"타입rust"
 
 #. ID 20, Page 1, Line 22, Pos (10,1)
 msgid "メニュータイプorange"
-msgstr ""
+msgstr "메뉴타입orange"
 
 #. ID 20, Page 1, Line 27, Pos (10,1)
 msgid "メニュータイプflower"
-msgstr ""
+msgstr "메뉴타입flower"
 
 #. ID 20, Page 1, Line 32, Pos (10,1)
 msgid "メニュータイプsugar"
-msgstr ""
+msgstr "메뉴타입sugar"
 
 #. ID 20, Page 1, Line 37, Pos (10,1)
 msgid "メニュータイプrust"
-msgstr ""
+msgstr "메뉴타입rust"
 
 #. ID 21, Page 1, Line 1, Pos (17,5)
 msgid "ゆうれい"
-msgstr ""
+msgstr "유령"
 
 #. ID 21, Page 1, Line 6, Pos (17,5)
 msgid "ゆうれい破棄"
-msgstr ""
+msgstr "유령 파기"
 
 #. ID 21, Page 1, Line 26, Pos (17,5)
 msgid "ゆうれい取得"
-msgstr ""
+msgstr "유령 취득"
 
 #. ID 24, Page 1, Line 1, Pos (13,9)
 msgid ""
@@ -406,19 +417,22 @@ msgid ""
 "モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！\n"
 "！！"
 msgstr ""
+"팔\n"
+"모노코오옷존나귀여워어어ㅓㅓ요ㅗㅇ모노코오오오아ㅏ아ㅏㅏ아아ㅏ!\n"
+"!!"
 
 #. ID 24, Page 1, Line 8, Pos (13,9)
 msgid "うで破棄"
-msgstr ""
+msgstr "팔 파기"
 
 #. ID 24, Page 1, Line 28, Pos (13,9)
 msgid "うで取得"
-msgstr ""
+msgstr "팔 취득"
 
 #. ID 25, Page 1, Line 1, Pos (14,1)
 #. Contains choice at line 2 (2 options)
 msgid ".かそくそうち."
-msgstr ""
+msgstr ".가속장치."
 
 #. ID 25, Page 1, Line 2, Pos (14,1)
 #. Choice (2 options, embedded in a message)
@@ -428,34 +442,36 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
+"네\n"
+"아니오"
 
 #. ID 25, Page 1, Line 4, Pos (14,1)
 msgid "メニューのとくべつから。"
-msgstr ""
+msgstr "메뉴의 특별함으로."
 
 #. ID 27, Page 1, Line 1, Pos (11,7)
 msgid "ホイッスル"
-msgstr ""
+msgstr "호루라기"
 
 #. ID 27, Page 1, Line 6, Pos (11,7)
 msgid "ホイッスル破棄"
-msgstr ""
+msgstr "호루라기 파기"
 
 #. ID 27, Page 1, Line 26, Pos (11,7)
 msgid "ホイッスル取得"
-msgstr ""
+msgstr "호루라기 취득"
 
 #. ID 28, Page 1, Line 1, Pos (17,7)
 msgid "だるま　動作追加。違和感あり。"
-msgstr ""
+msgstr "달마 동작추가. 위화감있음."
 
 #. ID 28, Page 1, Line 6, Pos (17,7)
 msgid "だるま破棄"
-msgstr ""
+msgstr "달마 파기"
 
 #. ID 28, Page 1, Line 26, Pos (17,7)
 msgid "だるま取得"
-msgstr ""
+msgstr "달마 취득"
 
 #. ID 29, Page 1, Line 1, Pos (3,13)
 #. Contains choice at line 3 (2 options)
@@ -463,172 +479,178 @@ msgid ""
 "ガスマスクツインテールver\n"
 "せっかく作ったので。"
 msgstr ""
+"가스마스크 트윈테일ver\n"
+"모처럼 만들어봤어."
 
 #. ID 29, Page 1, Line 6, Pos (3,13)
 msgid "ver.ツインテールon"
-msgstr ""
+msgstr "ver.트윈테일on"
 
 #. ID 29, Page 1, Line 11, Pos (3,13)
 msgid "ver.ツインテールoff"
-msgstr ""
+msgstr "ver.트윈테일off"
 
 #. ID 31, Page 1, Line 1, Pos (11,9)
 msgid "スライム　ぶよぶよ強化。"
-msgstr ""
+msgstr "슬라임 말랑말랑 강화"
 
 #. ID 31, Page 1, Line 6, Pos (11,9)
 msgid "スライム破棄"
-msgstr ""
+msgstr "슬라임 파기"
 
 #. ID 31, Page 1, Line 26, Pos (11,9)
 msgid "スライム取得"
-msgstr ""
+msgstr "슬라임 취득"
 
 #. ID 33, Page 1, Line 1, Pos (13,7)
 msgid "ガスマスク　非常に可愛い"
-msgstr ""
+msgstr "가스마스크 진짜 귀여워"
 
 #. ID 33, Page 1, Line 6, Pos (13,7)
 msgid "ガスマスク破棄"
-msgstr ""
+msgstr "가스마스크 파기"
 
 #. ID 33, Page 1, Line 26, Pos (13,7)
 msgid "ガスマスク取得"
-msgstr ""
+msgstr "가스마스크 취득"
 
 #. ID 34, Page 1, Line 1, Pos (15,7)
 msgid "きかい　やっつけかもしれない。"
-msgstr ""
+msgstr "기계 해치울지도 몰라."
 
 #. ID 34, Page 1, Line 6, Pos (15,7)
 msgid "きかい破棄"
-msgstr ""
+msgstr "기계 파기"
 
 #. ID 34, Page 1, Line 26, Pos (15,7)
 msgid "きかい取得"
-msgstr ""
+msgstr "기계 취득"
 
 #. ID 35, Page 1, Line 1, Pos (15,9)
 msgid "ないぞう　リョナいよ。"
-msgstr ""
+msgstr "내장 료나있음."
 
 #. ID 35, Page 1, Line 6, Pos (15,9)
 msgid "ないぞう破棄"
-msgstr ""
+msgstr "내장 파기"
 
 #. ID 35, Page 1, Line 26, Pos (15,9)
 msgid "ないぞう取得"
-msgstr ""
+msgstr "내장 취득"
 
 #. ID 36, Page 1, Line 1, Pos (11,11)
 msgid ""
 "けんじゅう\n"
 "ドットが小さくて見えにくい。"
 msgstr ""
+"권총\n"
+"도트가 작아서 안 보여."
 
 #. ID 36, Page 1, Line 7, Pos (11,11)
 msgid "けんじゅう破棄"
-msgstr ""
+msgstr "권총 파기"
 
 #. ID 36, Page 1, Line 27, Pos (11,11)
 msgid "けんじゅう取得"
-msgstr ""
+msgstr "권총 취득"
 
 #. ID 37, Page 1, Line 1, Pos (13,11)
 msgid ""
 "したい\n"
 "腐乱死体。"
 msgstr ""
+"시체\n"
+"썩은시체."
 
 #. ID 37, Page 1, Line 7, Pos (13,11)
 msgid "したい破棄"
-msgstr ""
+msgstr "시체 파기"
 
 #. ID 37, Page 1, Line 27, Pos (13,11)
 msgid "したい取得"
-msgstr ""
+msgstr "시체 취득"
 
 #. ID 38, Page 1, Line 1, Pos (17,9)
 msgid "サイケデリック　"
-msgstr ""
+msgstr "사이키델릭"
 
 #. ID 38, Page 1, Line 6, Pos (17,9)
 msgid "サイケデリック破棄"
-msgstr ""
+msgstr "사이키델릭 파기"
 
 #. ID 38, Page 1, Line 26, Pos (17,9)
 msgid "サイケデリック取得"
-msgstr ""
+msgstr "사이키델릭 취득"
 
 #. ID 39, Page 1, Line 1, Pos (15,11)
 msgid "くろフード"
-msgstr ""
+msgstr "검은후드"
 
 #. ID 39, Page 1, Line 6, Pos (15,11)
 msgid "くろフード破棄"
-msgstr ""
+msgstr "검은후드 파기"
 
 #. ID 39, Page 1, Line 26, Pos (15,11)
 msgid "くろフード取得"
-msgstr ""
+msgstr "검은후드 취득"
 
 #. ID 40, Page 1, Line 1, Pos (17,11)
 msgid "せいふく"
-msgstr ""
+msgstr "교복"
 
 #. ID 40, Page 1, Line 6, Pos (17,11)
 msgid "せいふく破棄"
-msgstr ""
+msgstr "교복 파기"
 
 #. ID 40, Page 1, Line 26, Pos (17,11)
 msgid "せいふく取得"
-msgstr ""
+msgstr "교복 취득"
 
 #. ID 42, Page 1, Line 1, Pos (11,13)
 msgid "テレビ"
-msgstr ""
+msgstr "텔레비전"
 
 #. ID 42, Page 1, Line 6, Pos (11,13)
 msgid "テレビ破棄"
-msgstr ""
+msgstr "텔레비전 파기"
 
 #. ID 42, Page 1, Line 26, Pos (11,13)
 msgid "テレビ取得"
-msgstr ""
+msgstr "텔레비전 취득"
 
 #. ID 44, Page 1, Line 1, Pos (13,13)
 msgid "いれずみ"
-msgstr ""
+msgstr "문신"
 
 #. ID 44, Page 1, Line 6, Pos (13,13)
 msgid "いれずみ破棄"
-msgstr ""
+msgstr "문신 파기"
 
 #. ID 44, Page 1, Line 26, Pos (13,13)
 msgid "いれずみ取得"
-msgstr ""
+msgstr "문신 취득"
 
 #. ID 46, Page 1, Line 1, Pos (15,13)
 msgid "しょくぶつ"
-msgstr ""
+msgstr "식물"
 
 #. ID 46, Page 1, Line 6, Pos (15,13)
 msgid "しょくぶつ破棄"
-msgstr ""
+msgstr "식물 파기"
 
 #. ID 46, Page 1, Line 26, Pos (15,13)
 msgid "しょくぶつ取得"
-msgstr ""
+msgstr "식물 취득"
 
 #. ID 47, Page 1, Line 1, Pos (17,13)
 msgid "ドレス"
-msgstr ""
+msgstr "드레스"
 
 #. ID 47, Page 1, Line 6, Pos (17,13)
 msgid "ドレス破棄"
-msgstr ""
+msgstr "드레스 파기"
 
 #. ID 47, Page 1, Line 26, Pos (17,13)
 msgid "ドレス取得"
-msgstr ""
+msgstr "드레스 취득"
 
