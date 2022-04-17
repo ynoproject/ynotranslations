@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 15, Page 2, Line 4, Pos (12,7)
-msgid "　　　　　  　 .메뉴 타입 rust."
-msgstr ""
+msgid "　　　　　  　 .メニュータイプrust."
+msgstr "　　　　　  　 .메뉴 타입 rust."
 

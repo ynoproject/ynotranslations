@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 32, Page 1, Line 5, Pos (47,31)
-msgid "　　　　　　　　　　 .기계."
-msgstr ""
+msgid "　　　　　  　　　　.きかい."
+msgstr "　　　　　　　　　　 .기계."
 

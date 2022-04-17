@@ -11,13 +11,13 @@ msgstr ""
 #. ID 3, Page 1, Line 5, Pos (34,23)
 #. ID 3, Page 1, Line 10, Pos (34,23)
 #. ID 3, Page 1, Line 15, Pos (34,23)
-msgid "그래픽 변경"
-msgstr ""
+msgid "グラフィック変更"
+msgstr "그래픽 변경"
 
 #. ID 4, Page 1, Line 5, Pos (36,25)
 #. Contains choice at line 2 (3 options)
-msgid "메뉴 타입 orange"
-msgstr ""
+msgid "メニュータイプorange"
+msgstr "메뉴 타입 orange"
 
 #. ID 4, Page 1, Line 6, Pos (36,25)
 #. Choice (3 options, embedded in a message)
@@ -30,28 +30,31 @@ msgstr ""
 #. ID 4, Page 1, Line 74, Pos (36,25)
 #. Choice (3 options, embedded in a message)
 msgid ""
+"へんこう\n"
+"つぎ\n"
+"やめる"
+msgstr ""
 "변경\n"
 "다음\n"
 "그만두기"
-msgstr ""
 
 #. ID 4, Page 1, Line 22, Pos (36,25)
 #. Contains choice at line 2 (3 options)
-msgid "메뉴 타입 flower"
-msgstr ""
+msgid "メニュータイプflower"
+msgstr "메뉴 타입 flower"
 
 #. ID 4, Page 1, Line 39, Pos (36,25)
 #. Contains choice at line 2 (3 options)
-msgid "메뉴 타입 sugar"
-msgstr ""
+msgid "メニュータイプsugar"
+msgstr "메뉴 타입 sugar"
 
 #. ID 4, Page 1, Line 56, Pos (36,25)
 #. Contains choice at line 2 (3 options)
-msgid "메뉴 타입 rust"
-msgstr ""
+msgid "メニュータイプrust"
+msgstr "메뉴 타입 rust"
 
 #. ID 4, Page 1, Line 73, Pos (36,25)
 #. Contains choice at line 2 (3 options)
-msgid "메뉴 타입 smile"
-msgstr ""
+msgid "メニュータイプsmile"
+msgstr "메뉴 타입 smile"
 

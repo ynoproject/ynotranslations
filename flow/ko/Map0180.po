@@ -10,23 +10,25 @@ msgstr ""
 
 #. ID 14, Page 1, Line 1, Pos (6,7)
 #. Contains choice at line 2 (2 options)
-msgid "전부 버립니까?"
-msgstr ""
+msgid "すべて　すてますか　？"
+msgstr "전부 버립니까?"
 
 #. ID 14, Page 1, Line 2, Pos (6,7)
 #. Choice (2 options, embedded in a message)
 msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
 "네\n"
 "아니오"
-msgstr ""
 
 #. ID 14, Page 1, Line 54, Pos (6,7)
-msgid "버렸습니다."
-msgstr ""
+msgid "すてました。"
+msgstr "버렸습니다."
 
 #. ID 14, Page 1, Line 60, Pos (6,7)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
-msgid "랯"
+msgid "錆"
 msgstr ""
 

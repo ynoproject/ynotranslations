@@ -11,32 +11,43 @@ msgstr ""
 #. ID 15, Page 1, Line 12, Pos (0,1)
 #. ID 15, Page 1, Line 25, Pos (0,1)
 msgid ""
+"☆\\V[72]点＋\\V[75]\n"
+"\n"
+"☆HI－SCORE　 \\V[79]点＋\\V[80]"
+msgstr ""
 "☆\\V[72]점＋\\V[75]\n"
 "\n"
 "☆HI－SCORE　 \\V[79]점＋\\V[80]"
-msgstr ""
 
 #. ID 15, Page 1, Line 17, Pos (0,1)
 #. ID 15, Page 1, Line 30, Pos (0,1)
 msgid ""
+"☆\\V[72]点\n"
+"\n"
+"☆HI－SCORE　 \\V[79]点"
+msgstr ""
 "☆\\V[72]점\n"
 "\n"
 "☆HI－SCORE　 \\V[79]점"
-msgstr ""
 
 #. ID 15, Page 1, Line 46, Pos (0,1)
 #. ID 15, Page 1, Line 59, Pos (0,1)
 msgid ""
+"\\V[72]点＋\\V[75]\n"
+"\n"
+"HI－SCORE　 \\V[76]点＋\\V[77]"
+msgstr ""
 "\\V[72]점＋\\V[75]\n"
 "\n"
 "HI－SCORE　 \\V[76]점＋\\V[77]"
-msgstr ""
 
 #. ID 15, Page 1, Line 51, Pos (0,1)
 #. ID 15, Page 1, Line 64, Pos (0,1)
 msgid ""
+"\\V[72]点\n"
+"\n"
+"HI－SCORE　 \\V[76]点"
+msgstr ""
 "\\V[72]점\n"
 "\n"
 "HI－SCORE　 \\V[76]점"
-msgstr ""
-

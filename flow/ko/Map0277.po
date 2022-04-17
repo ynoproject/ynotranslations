@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 6, Page 2, Line 21, Pos (28,22)
-msgid "　　　　　　　　   .쇠파이프."
-msgstr ""
+msgid "　　　　　　　　   .てつパイプ."
+msgstr "　　　　　　　　   .쇠파이프."
 
