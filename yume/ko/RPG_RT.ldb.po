@@ -10,764 +10,347 @@ msgstr ""
 
 #. ID 1
 msgctxt "actors.name"
-msgid "마도츠키"
-msgstr ""
+msgid "Madotsuki"
+msgstr "마도츠키"
 
 #. ID 1
 #. ID 2
 msgctxt "items.name"
-msgid "개구리"
-msgstr ""
+msgid "Frog"
+msgstr "개구리"
 
 #. ID 1
 #. ID 2
 msgctxt "items.description"
-msgid "개구리로 변한다."
-msgstr ""
+msgid "Transform into a frog."
+msgstr "개구리로 변한다."
 
 #. ID 3
 #. ID 4
 msgctxt "items.name"
-msgid "우산"
-msgstr ""
+msgid "Umbrella"
+msgstr "우산"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
-msgid "우산을 쓴다."
-msgstr ""
+msgid "Use an umbrella."
+msgstr "우산을 쓴다."
 
 #. ID 5
 #. ID 6
 msgctxt "items.name"
-msgid "모자와 머플러"
-msgstr ""
+msgid "Hat & Scarf"
+msgstr "모자와 머플러"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
-msgid "모자와 머플러를 쓴다."
-msgstr ""
+msgid "Don a hat & scarf."
+msgstr "모자와 머플러를 쓴다."
 
 #. ID 7
 #. ID 8
 msgctxt "items.name"
-msgid "설녀"
-msgstr ""
+msgid "Snow Woman"
+msgstr "설녀"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
-msgid "설녀로 변한다."
-msgstr ""
+msgid "Morph into a Snow Woman."
+msgstr "설녀로 변한다."
 
 #. ID 9
 #. ID 10
 msgctxt "items.name"
-msgid "식칼"
-msgstr ""
+msgid "Kitchen Knife"
+msgstr "식칼"
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
-msgid "식칼을 든다."
-msgstr ""
+msgid "Equip a kitchen knife."
+msgstr "식칼을 든다."
 
 #. ID 11
 #. ID 12
 msgctxt "items.name"
-msgid "눈달린 손"
-msgstr ""
+msgid "Eye Palm"
+msgstr "눈달린 손"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
-msgid "눈달린 손으로 변한다."
-msgstr ""
+msgid "Warp into an Eye Palm."
+msgstr "눈달린 손으로 변한다."
 
 #. ID 13
 #. ID 14
 msgctxt "items.name"
-msgid "살찌기"
-msgstr ""
+msgid "Fatten"
+msgstr "살찌기"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
-msgid "살이 찐다."
-msgstr ""
+msgid "Balloon in size."
+msgstr "살이 찐다."
 
 #. ID 15
 #. ID 16
 msgctxt "items.name"
-msgid "소인"
-msgstr ""
+msgid "Midget"
+msgstr "소인"
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
-msgid "크기가 작아진다."
-msgstr ""
+msgid "Shrink in size."
+msgstr "크기가 작아진다."
 
 #. ID 17
 #. ID 18
 msgctxt "items.name"
-msgid "피리"
-msgstr ""
+msgid "Flute"
+msgstr "피리"
 
 #. ID 17
 #. ID 18
 msgctxt "items.description"
-msgid "피리를 든다."
-msgstr ""
+msgid "Brandish a flute."
+msgstr "피리를 든다."
 
 #. ID 19
 #. ID 20
 msgctxt "items.name"
-msgid "네온"
-msgstr ""
+msgid "Neon"
+msgstr "네온"
 
 #. ID 19
 #. ID 20
 msgctxt "items.description"
-msgid "네온사인처럼 빛난다."
-msgstr ""
+msgid "Glow like a neon sign."
+msgstr "네온사인처럼 빛난다."
 
 #. ID 21
 #. ID 22
 msgctxt "items.name"
-msgid "달걀 귀신"
-msgstr ""
+msgid "Faceless Ghost"
+msgstr "달걀 귀신"
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
-msgid "달걀 귀신으로 변한다."
-msgstr ""
+msgid "Materialize as a faceless ghost."
+msgstr "달걀 귀신으로 변한다."
 
 #. ID 23
 #. ID 24
 msgctxt "items.name"
-msgid "잘린 목"
-msgstr ""
+msgid "Severed Head"
+msgstr "잘린 목"
 
 #. ID 23
 #. ID 24
 msgctxt "items.description"
-msgid "잘린 목으로 변한다."
-msgstr ""
+msgid "Be reduced to a severed head."
+msgstr "잘린 목으로 변한다."
 
 #. ID 25
 #. ID 26
 msgctxt "items.name"
-msgid "타올"
-msgstr ""
+msgid "Towel"
+msgstr "타올"
 
 #. ID 25
 #. ID 26
 msgctxt "items.description"
-msgid "타올로 감싼다."
-msgstr ""
+msgid "Wrap yourself in a towel."
+msgstr "타올로 감싼다."
 
 #. ID 27
 #. ID 28
 msgctxt "items.name"
-msgid "고양이"
-msgstr ""
+msgid "Cat"
+msgstr "고양이"
 
 #. ID 27
 #. ID 28
 msgctxt "items.description"
-msgid "고양이 귀와 꼬리가 자란다."
-msgstr ""
+msgid "Sprout cat-ears and a tail."
+msgstr "고양이 귀와 꼬리가 자란다."
 
 #. ID 29
 #. ID 30
 msgctxt "items.name"
-msgid "전등"
-msgstr ""
+msgid "Lamp"
+msgstr "전등"
 
 #. ID 29
 #. ID 30
 msgctxt "items.description"
-msgid "전등으로 변한다."
-msgstr ""
+msgid "Change into a lamp."
+msgstr "전등으로 변한다."
 
 #. ID 31
 #. ID 32
 msgctxt "items.name"
-msgid "자전거"
-msgstr ""
+msgid "Bicycle"
+msgstr "자전거"
 
 #. ID 31
 #. ID 32
 msgctxt "items.description"
-msgid "자전거를 탄다."
-msgstr ""
+msgid "Mount a bicycle."
+msgstr "자전거를 탄다."
 
 #. ID 33
 #. ID 34
 msgctxt "items.name"
-msgid "긴 머리"
-msgstr ""
+msgid "Long Hair"
+msgstr "긴 머리"
 
 #. ID 33
 #. ID 34
 msgctxt "items.description"
-msgid "긴 머리가 자란다."
-msgstr ""
+msgid "Grow long hair."
+msgstr "긴 머리가 자란다."
 
 #. ID 35
 #. ID 36
 msgctxt "items.name"
-msgid "똥 머리"
-msgstr ""
+msgid "Poo Hair"
+msgstr "똥 머리"
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
-msgid "똥 머리가 자란다."
-msgstr ""
+msgid "Grow poo hair."
+msgstr "똥 머리가 자란다."
 
 #. ID 37
 #. ID 38
 msgctxt "items.name"
-msgid "금발"
-msgstr ""
+msgid "Blonde"
+msgstr "금발"
 
 #. ID 37
 #. ID 38
 msgctxt "items.description"
-msgid "금발이 자란다."
-msgstr ""
+msgid "Grow long blonde hair."
+msgstr "금발이 자란다."
 
 #. ID 39
 #. ID 40
 msgctxt "items.name"
-msgid "삼각 두건"
-msgstr ""
+msgid "Spirit Headband"
+msgstr "삼각 두건"
 
 #. ID 39
 #. ID 40
 msgctxt "items.description"
-msgid "삼각 두건을 쓴다."
-msgstr ""
+msgid "Put on a Spirit Headband."
+msgstr "삼각 두건을 쓴다."
 
 #. ID 41
 #. ID 42
 msgctxt "items.name"
-msgid "마녀"
-msgstr ""
+msgid "Witch"
+msgstr "마녀"
 
 #. ID 41
 #. ID 42
 msgctxt "items.description"
-msgid "마녀로 변한다."
-msgstr ""
+msgid "Become a witch incarnate."
+msgstr "마녀로 변한다."
 
 #. ID 43
 #. ID 44
 msgctxt "items.name"
-msgid "도깨비"
-msgstr ""
+msgid "Oni"
+msgstr "도깨비"
 
 #. ID 43
 #. ID 44
 msgctxt "items.description"
-msgid "도깨비로 변한다."
-msgstr ""
+msgid "Reconstitute as an oni."
+msgstr "도깨비로 변한다."
 
 #. ID 45
 #. ID 46
 msgctxt "items.name"
-msgid "말랑말랑"
-msgstr ""
+msgid "Squish-Squish"
+msgstr "말랑말랑"
 
 #. ID 45
 #. ID 46
 msgctxt "items.description"
-msgid "몸이 말랑말랑해진다."
-msgstr ""
+msgid "Change into a squishy blob."
+msgstr "몸이 말랑말랑해진다."
 
 #. ID 47
 #. ID 48
 msgctxt "items.name"
-msgid "신호등"
-msgstr ""
+msgid "Traffic Light"
+msgstr "신호등"
 
 #. ID 47
 #. ID 48
 msgctxt "items.description"
-msgid "신호등으로 변한다."
-msgstr ""
+msgid "Change into a traffic light."
+msgstr "신호등으로 변한다."
 
 #. ID 57
 msgctxt "items.name"
-msgid "게임 설명"
-msgstr ""
+msgid "Tutorial"
+msgstr "게임 설명"
 
 #. ID 57
 msgctxt "items.description"
-msgid "게임 설명을 본다."
-msgstr ""
-
-msgctxt "terms.special_combat"
-msgid "먩맕뛘똼궻�긿깛긚갏"
-msgstr ""
-
-msgctxt "terms.escape_failure"
-msgid "벀궛먛귢궶궔궯궫갏"
-msgstr ""
-
-msgctxt "terms.victory"
-msgid "먰궋궸룦궯궫갏"
-msgstr ""
-
-msgctxt "terms.defeat"
-msgid "븠궚궲궢귏궯궫갋갋갋"
-msgstr ""
-
-msgctxt "terms.exp_received"
-msgid "궻똮뙮뭠귩둳벦갏"
-msgstr ""
-
-msgctxt "terms.gold_recieved_a"
-msgid "궓뗠귩"
-msgstr ""
-
-msgctxt "terms.gold_recieved_b"
-msgid "롨궸볺귢궫갏"
-msgstr ""
-
-msgctxt "terms.item_recieved"
-msgid "귩롨궸볺귢궫갏"
-msgstr ""
-
-msgctxt "terms.attacking"
-msgid "궻뛘똼갏"
-msgstr ""
-
-msgctxt "terms.enemy_critical"
-msgid "됵륲궻덇똼갏갏"
-msgstr ""
-
-msgctxt "terms.actor_critical"
-msgid "믃뜣궻덇똼갏갏"
-msgstr ""
-
-msgctxt "terms.defending"
-msgid "궼릆귩롧궯궲궋귡갏"
-msgstr ""
-
-msgctxt "terms.observing"
-msgid "궼뾩럔귩뙥궲궋귡갋갋갋"
-msgstr ""
-
-msgctxt "terms.focus"
-msgid "궼쀍귩궫귕궲궋귡갋갋갋"
-msgstr ""
-
-msgctxt "terms.autodestruction"
-msgid "궼렔뵚궢궫갏"
-msgstr ""
-
-msgctxt "terms.enemy_escape"
-msgid "궼벀궛궲궢귏궯궫갏"
-msgstr ""
-
-msgctxt "terms.enemy_transform"
-msgid "궼럓귩빾궑궫갏"
-msgstr ""
-
-msgctxt "terms.enemy_damaged"
-msgid "궻�긽�긙귩�궑궫갏"
-msgstr ""
-
-msgctxt "terms.enemy_undamaged"
-msgid "궸�긽�긙귩�궑귞귢궶궋갏"
-msgstr ""
-
-msgctxt "terms.actor_damaged"
-msgid "궻�긽�긙귩롷궚궫갏"
-msgstr ""
-
-msgctxt "terms.actor_undamaged"
-msgid "궼�긽�긙귩롷궚궲궋궶궋갏"
-msgstr ""
-
-msgctxt "terms.skill_failure_a"
-msgid "궸궼뚼궔궶궔궯궫갏"
-msgstr ""
-
-msgctxt "terms.skill_failure_b"
-msgid "궼빟딠궬궯궫갏"
-msgstr ""
-
-msgctxt "terms.skill_failure_c"
-msgid "궼뼭귞궶궔궯궫갏"
-msgstr ""
-
-msgctxt "terms.dodge"
-msgid "궼뛘똼귩궔귦궢궫갏"
-msgstr ""
-
-msgctxt "terms.use_item"
-msgid "귩럊궯궫갏"
-msgstr ""
-
-msgctxt "terms.hp_recovery"
-msgid "됷븳궢궫갏"
-msgstr ""
-
-msgctxt "terms.parameter_increase"
-msgid "뤵궕궯궫갏"
-msgstr ""
-
-msgctxt "terms.parameter_decrease"
-msgid "돷궕궯궫갏"
-msgstr ""
-
-msgctxt "terms.enemy_hp_absorbed"
-msgid "묭궯궫갏"
-msgstr ""
-
-msgctxt "terms.actor_hp_absorbed"
-msgid "묭귦귢궫갏"
-msgstr ""
-
-msgctxt "terms.resistance_increase"
-msgid "궸떗궘궶궯궫갏"
-msgstr ""
-
-msgctxt "terms.resistance_decrease"
-msgid "궸롢궘궶궯궫갏"
-msgstr ""
-
-msgctxt "terms.level_up"
-msgid "궸궶궯궫갏"
-msgstr ""
-
-msgctxt "terms.skill_learned"
-msgid "귩둶궑궫갏"
-msgstr ""
-
-msgctxt "terms.shop_greeting1"
-msgid "걏궋귞궯궢귗궋귏궧걐"
-msgstr ""
-
-msgctxt "terms.shop_regreeting1"
-msgid "걏귌궔궸궟뾭뙊궼궟궡궋귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_buy1"
-msgid "뛶볺궥귡"
-msgstr ""
-
-msgctxt "terms.shop_sell1"
-msgid "봽땛궥귡"
-msgstr ""
-
-msgctxt "terms.shop_leave1"
-msgid "귘귕귡"
-msgstr ""
-
-msgctxt "terms.shop_buy_select1"
-msgid "걏돺귩궓봼궋뤵궛궸궶귟귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_buy_number1"
-msgid "걏궋궘궰궓봼궋뤵궛궸궶귟귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_purchased1"
-msgid "걏뻽뱗궇귟궕궴궎궟궡궋귏궥걐"
-msgstr ""
-
-msgctxt "terms.shop_sell_select1"
-msgid "걏돺귩궓봽귟궸궶귟귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_sell_number1"
-msgid "걏궋궘궰궓봽귟궸궶귟귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_sold1"
-msgid "걏뻽뱗궇귟궕궴궎궟궡궋귏궥걐"
-msgstr ""
-
-msgctxt "terms.shop_greeting2"
-msgid "걏궋귞궯궢귗궋갏�뜞볷궼궵귪궶뾭궬궋갎걐"
-msgstr ""
-
-msgctxt "terms.shop_regreeting2"
-msgid "걏귌궔궸귖뾭궕궇귡궔궋갎걐"
-msgstr ""
-
-msgctxt "terms.shop_buy2"
-msgid "뛶볺궥귡"
-msgstr ""
-
-msgctxt "terms.shop_sell2"
-msgid "봽땛궥귡"
-msgstr ""
-
-msgctxt "terms.shop_leave2"
-msgid "귘귕귡"
-msgstr ""
-
-msgctxt "terms.shop_buy_select2"
-msgid "걏돺귩봼궎귪궬궋갎걐"
-msgstr ""
-
-msgctxt "terms.shop_buy_number2"
-msgid "걏궋궘궰봼궎귪궬궋갎걐"
-msgstr ""
-
-msgctxt "terms.shop_purchased2"
-msgid "걏궇귟궕궴귝궯갏걐"
-msgstr ""
-
-msgctxt "terms.shop_sell_select2"
-msgid "걏돺귩봽귡귪궬궋갎걐"
-msgstr ""
-
-msgctxt "terms.shop_sell_number2"
-msgid "걏궋궘궰봽귡귪궬궋갎걐"
-msgstr ""
-
-msgctxt "terms.shop_sold2"
-msgid "걏궇귟궕궴귝궯갏걐"
-msgstr ""
-
-msgctxt "terms.shop_greeting3"
-msgid "걏궞귪궸궭궼갃궵귪궶궟뾭궳궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_regreeting3"
-msgid "걏귌궔궸귖궟뾭궕궇귟귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_buy3"
-msgid "뛶볺궥귡"
-msgstr ""
-
-msgctxt "terms.shop_sell3"
-msgid "봽땛궥귡"
-msgstr ""
-
-msgctxt "terms.shop_leave3"
-msgid "귘귕귡"
-msgstr ""
-
-msgctxt "terms.shop_buy_select3"
-msgid "걏돺귩봼궯궲궘귢귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_buy_number3"
-msgid "걏궋궘궰봼궯궲궘귢귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_purchased3"
-msgid "걏궵궎귖궇귟궕궴궎걐"
-msgstr ""
-
-msgctxt "terms.shop_sell_select3"
-msgid "걏돺귩봽궯궲궘귢귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_sell_number3"
-msgid "걏궋궘궰봽궯궲궘귢귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.shop_sold3"
-msgid "걏궵궎귖궇귟궕궴궎걐"
-msgstr ""
-
-msgctxt "terms.inn_a_greeting_1"
-msgid "걏뢧뵎뿿뗠궼"
-msgstr ""
-
-msgctxt "terms.inn_a_greeting_2"
-msgid "궸궶귟귏궥갃"
-msgstr ""
-
-msgctxt "terms.inn_a_greeting_3"
-msgid "�궓뵎귏귟궸궶귟귏궥궔갎걐"
-msgstr ""
-
-msgctxt "terms.inn_a_accept"
-msgid "뵎귏귡"
-msgstr ""
-
-msgctxt "terms.inn_a_cancel"
-msgid "뵎귏귞궶궋"
-msgstr ""
-
-msgctxt "terms.inn_b_greeting_1"
-msgid "걏덇뵎"
-msgstr ""
-
-msgctxt "terms.inn_b_greeting_2"
-msgid "궬궕"
-msgstr ""
-
-msgctxt "terms.inn_b_greeting_3"
-msgid "�뵎귏궯궲궋궘궔궋갎걐"
-msgstr ""
-
-msgctxt "terms.inn_b_accept"
-msgid "뵎귏귡"
-msgstr ""
-
-msgctxt "terms.inn_b_cancel"
-msgid "뵎귏귞궶궋"
-msgstr ""
-
-msgctxt "terms.possessed_items"
-msgid "룋렃릶"
-msgstr ""
-
-msgctxt "terms.equipped_items"
-msgid "몧뷈릶"
-msgstr ""
-
-msgctxt "terms.gold"
-msgid "엔"
-msgstr ""
-
-msgctxt "terms.command_attack"
-msgid "뛘똼"
-msgstr ""
-
-msgctxt "terms.command_defend"
-msgid "뻞뚥"
-msgstr ""
+msgid "Review the game's tutorial."
+msgstr "게임 설명을 본다."
 
 msgctxt "terms.command_item"
-msgid "이펙트"
-msgstr ""
+msgid "Effect"
+msgstr "이펙트"
 
 msgctxt "terms.menu_quit"
-msgid "게임 종료"
-msgstr ""
+msgid "Quit Game"
+msgstr "게임 종료"
 
 msgctxt "terms.new_game"
-msgid "새 게임"
-msgstr ""
+msgid "New Game"
+msgstr "새 게임"
 
 msgctxt "terms.load_game"
-msgid "꿈 일기"
-msgstr ""
+msgid "Dream Diary"
+msgstr "꿈 일기"
 
 msgctxt "terms.exit_game"
-msgid "종료"
-msgstr ""
-
-msgctxt "terms.lvl_short"
-msgid "E"
-msgstr ""
-
-msgctxt "terms.hp_short"
-msgid "$k"
-msgstr ""
+msgid "Quit"
+msgstr "종료"
 
 msgctxt "terms.save_game_message"
-msgid "일기 쓰기"
-msgstr ""
+msgid "Write in Diary"
+msgstr "일기 쓰기"
 
 msgctxt "terms.load_game_message"
-msgid "일기 읽기"
-msgstr ""
+msgid "Read Diary"
+msgstr "일기 읽기"
 
 msgctxt "terms.file"
-msgid "페이지"
-msgstr ""
+msgid "Page"
+msgstr "페이지"
 
 msgctxt "terms.exit_game_message"
-msgid "그만두겠습니까?"
-msgstr ""
+msgid "Do you want to quit?"
+msgstr "그만두겠습니까?"
 
 msgctxt "terms.yes"
-msgid "예"
-msgstr ""
+msgid "Yes"
+msgstr "예"
 
 msgctxt "terms.no"
-msgid "아니오"
-msgstr ""
-
-msgctxt "terms.easyrpg_item_number_separator"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_skill_cost_separator"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_equipment_arrow"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_status_scene_name"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_status_scene_class"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_status_scene_title"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_status_scene_condition"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_status_scene_front"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_status_scene_back"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_order_scene_confirm"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_order_scene_redo"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_double_attack"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_defend"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_observe"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_charge"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_selfdestruct"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_escape"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_skill"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_item"
-msgid "default_term"
-msgstr ""
-
+msgid "No"
+msgstr "아니오"

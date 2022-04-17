@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 1, Page 2, Line 18, Pos (12,6)
-msgid "             â˜…ì˜ìì— ì•‰ì€ ì±„ë¡œ ì´ë™â˜…"
-msgstr ""
+msgid "                 Move while seated"
+msgstr "             ¡ÚÀÇÀÚ¿¡ ¾ÉÀº Ã¤·Î ÀÌµ¿¡Ú"
 
