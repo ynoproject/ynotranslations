@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 6, Page 1, Line 5, Pos (21,16)
-msgid "                   ★달걀 귀신★"
-msgstr ""
+msgid "                 Faceless Ghost"
+msgstr "                   �ڴް� �ͽš�"
 
