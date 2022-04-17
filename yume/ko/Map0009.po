@@ -9,98 +9,98 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 14, Page 2, Line 4, Pos (13,12)
-msgid "                     â˜…ì„¤ë…€â˜…"
-msgstr ""
+msgid "                   Snow Woman"
+msgstr "                     ¡Ú¼³³à¡Ú"
 
 #. ID 15, Page 2, Line 4, Pos (16,10)
-msgid "                    â˜…ê°œêµ¬ë¦¬â˜…"
-msgstr ""
+msgid "                      Frog"
+msgstr "                    ¡Ú°³±¸¸®¡Ú"
 
 #. ID 16, Page 2, Line 4, Pos (14,15)
-msgid "                     â˜…ìš°ì‚°â˜…"
-msgstr ""
+msgid "                     Umbrella"
+msgstr "                     ¡Ú¿ì»ê¡Ú"
 
 #. ID 17, Page 2, Line 4, Pos (14,11)
-msgid "                 â˜…ëª¨ìì™€ ë¨¸í”ŒëŸ¬â˜…"
-msgstr ""
+msgid "                    Hat & Scarf"
+msgstr "                 ¡Ú¸ğÀÚ¿Í ¸ÓÇÃ·¯¡Ú"
 
 #. ID 18, Page 2, Line 5, Pos (12,14)
-msgid "                   â˜…ëˆˆë‹¬ë¦° ì†â˜…"
-msgstr ""
+msgid "                    Eye Palm"
+msgstr "                   ¡Ú´«´Ş¸° ¼Õ¡Ú"
 
 #. ID 19, Page 2, Line 5, Pos (12,16)
-msgid "                     â˜…ì‚´ì°Œê¸°â˜…"
-msgstr ""
+msgid "                     Get fat"
+msgstr "                     ¡Ú»ìÂî±â¡Ú"
 
 #. ID 20, Page 2, Line 4, Pos (13,18)
-msgid "                     â˜…ì†Œì¸â˜…"
-msgstr ""
+msgid "                      Midget"
+msgstr "                     ¡Ú¼ÒÀÎ¡Ú"
 
 #. ID 21, Page 2, Line 4, Pos (14,19)
-msgid "                     â˜…í”¼ë¦¬â˜…"
-msgstr ""
+msgid "                     Whistle"
+msgstr "                     ¡ÚÇÇ¸®¡Ú"
 
 #. ID 22, Page 2, Line 4, Pos (15,17)
-msgid "                     â˜…ë„¤ì˜¨â˜…"
-msgstr ""
+msgid "                       Neon"
+msgstr "                     ¡Ú³×¿Â¡Ú"
 
 #. ID 23, Page 2, Line 4, Pos (16,20)
-msgid "                   â˜…ë‹¬ê±€ ê·€ì‹ â˜…"
-msgstr ""
+msgid "                 Faceless Ghost"
+msgstr "                   ¡Ú´Ş°¿ ±Í½Å¡Ú"
 
 #. ID 24, Page 2, Line 4, Pos (18,20)
-msgid "                    â˜…ì˜ë¦° ëª©â˜…"
-msgstr ""
+msgid "                    Talking Head"
+msgstr "                    ¡ÚÀß¸° ¸ñ¡Ú"
 
 #. ID 25, Page 2, Line 4, Pos (19,13)
-msgid "                    â˜…ë˜¥ ë¨¸ë¦¬â˜…"
-msgstr ""
+msgid "                     Poo Hair"
+msgstr "                    ¡Ú¶Ë ¸Ó¸®¡Ú"
 
 #. ID 26, Page 2, Line 4, Pos (20,15)
-msgid "                     â˜…ì‹ì¹¼â˜…"
-msgstr ""
+msgid "                   Kitchen Knife"
+msgstr "                     ¡Ú½ÄÄ®¡Ú"
 
 #. ID 27, Page 2, Line 4, Pos (20,19)
-msgid "                   â˜…ì‚¼ê° ë‘ê±´â˜…"
-msgstr ""
+msgid "                  Spirit Headband"
+msgstr "                   ¡Ú»ï°¢ µÎ°Ç¡Ú"
 
 #. ID 28, Page 2, Line 4, Pos (21,18)
-msgid "                     â˜…íƒ€ì˜¬â˜…"
-msgstr ""
+msgid "                      Towel"
+msgstr "                     ¡ÚÅ¸¿Ã¡Ú"
 
 #. ID 29, Page 2, Line 4, Pos (22,16)
-msgid "                    â˜…ê³ ì–‘ì´â˜…"
-msgstr ""
+msgid "                         Cat"
+msgstr "                    ¡Ú°í¾çÀÌ¡Ú"
 
 #. ID 30, Page 2, Line 4, Pos (22,14)
-msgid "                     â˜…ì „ë“±â˜…"
-msgstr ""
+msgid "                       Lamp"
+msgstr "                     ¡ÚÀüµî¡Ú"
 
 #. ID 31, Page 2, Line 4, Pos (20,11)
-msgid "                    â˜…ê¸´ ë¨¸ë¦¬â˜…"
-msgstr ""
+msgid "                    Long Hair"
+msgstr "                    ¡Ú±ä ¸Ó¸®¡Ú"
 
 #. ID 32, Page 2, Line 4, Pos (21,12)
-msgid "                    â˜…ìì „ê±°â˜…"
-msgstr ""
+msgid "                     Bicycle "
+msgstr "                    ¡ÚÀÚÀü°Å¡Ú"
 
 #. ID 33, Page 2, Line 4, Pos (18,10)
-msgid "                     â˜…ê¸ˆë°œâ˜…"
-msgstr ""
+msgid "                     Blonde"
+msgstr "                     ¡Ú±İ¹ß¡Ú"
 
 #. ID 34, Page 2, Line 4, Pos (15,13)
-msgid "                     â˜…ë§ˆë…€â˜…"
-msgstr ""
+msgid "                      Witch"
+msgstr "                     ¡Ú¸¶³à¡Ú"
 
 #. ID 35, Page 2, Line 4, Pos (17,12)
-msgid "                    â˜…ë„ê¹¨ë¹„â˜…"
-msgstr ""
+msgid "                      Devil"
+msgstr "                    ¡Úµµ±úºñ¡Ú"
 
 #. ID 36, Page 2, Line 4, Pos (17,18)
-msgid "                   â˜…ë§ë‘ë§ë‘â˜…"
-msgstr ""
+msgid "                    Squish-Squish"
+msgstr "                   ¡Ú¸»¶û¸»¶û¡Ú"
 
 #. ID 37, Page 2, Line 4, Pos (19,17)
-msgid "                    â˜…ì‹ í˜¸ë“±â˜…"
-msgstr ""
+msgid "                   Traffic Light"
+msgstr "                    ¡Ú½ÅÈ£µî¡Ú"
 
