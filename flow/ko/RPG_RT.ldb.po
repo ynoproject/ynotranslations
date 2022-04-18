@@ -16,7 +16,7 @@ msgstr "사비츠키"
 #. ID 2
 msgctxt "actors.name"
 msgid "錆"
-msgstr "rust"
+msgstr "러스트"
 
 #. ID 1
 msgctxt "skills.name"
@@ -239,12 +239,12 @@ msgstr "쯔꾸르 사양의 착오로 생긴 산물"
 #. ID 31
 msgctxt "items.name"
 msgid "ねぐせ"
-msgstr "잠버릇"
+msgstr "부스스"
 
 #. ID 32
 msgctxt "items.name"
 msgid "いつもの"
-msgstr "평상시"
+msgstr "평상복"
 
 #. ID 33
 msgctxt "items.name"
