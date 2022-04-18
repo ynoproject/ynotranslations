@@ -10,4 +10,4 @@ msgstr ""
 
 #. ID 2, Page 1, Line 5, Pos (99,12)
 msgid "                     Bicycle"
-msgstr "                    ¡ÚÀÚÀü°Å¡Ú"
+msgstr "                    ★자전거★"
