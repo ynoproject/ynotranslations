@@ -47,31 +47,31 @@ msgstr ""
 #. ID 6, Page 4, Line 941, Pos (12,5)
 msgid ""
 "\n"
-"\\>　× No.   ×\n"
+"\\>　／ No.   ／\n"
 "\\>♪再生中：カーソル移動音 \\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　× No.   ×\n"
+"\\>　／ No.   ／\n"
 "\\>♪ Now Playing: Cursor Sound \\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 946, Pos (12,5)
 msgid ""
 "\n"
-"\\>　× No.   ×\n"
+"\\>　／ No.   ／\n"
 "\\>♪再生中：決定音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　× No.   ×\n"
+"\\>　／ No.   ／\n"
 "\\>♪ Now Playing: Select Sound\\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 951, Pos (12,5)
 msgid ""
 "\n"
-"\\>　× No.   ×\n"
+"\\>　／ No.   ／\n"
 "\\>♪再生中：キャンセル音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　× No.   ×\n"
+"\\>　／ No.   ／\n"
 "\\>♪ Now Playing: Cancel Sound\\<\\.\\.\\^"
 
 #. ID 6, Page 5, Line 330, Pos (12,5)
@@ -601,11 +601,11 @@ msgstr ""
 #. ID 6, Page 6, Line 968, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
-"\\>訪れた世界： \\C[4]\\V[71]ヵ所ぐらい\\C[0]\n"
+"\\>訪れた世界： \\C[4]\\V[71]ヵ所\\C[0]ぐらい\n"
 "\\>　　殺傷数： \\C[4]\\v[3936]回\\C[0](無機物も含む)"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
-"\\>Worlds Visited: \\C[4]\\V[71] (approximate)\\C[0]\n"
+"\\>Worlds Visited: \\C[4]\\V[71]\\C[0] (approximate)\n"
 "\\>Body Count    : \\C[4]\\v[3936]\\C[0] (includes inanimate objects)"
 
 #. ID 6, Page 6, Line 998, Pos (12,5)
