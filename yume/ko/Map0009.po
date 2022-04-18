@@ -103,4 +103,3 @@ msgstr "                   ★말랑말랑★"
 #. ID 37, Page 2, Line 4, Pos (19,17)
 msgid "                   Traffic Light"
 msgstr "                    ★신호등★"
-
