@@ -15,7 +15,7 @@ msgstr ""
 #. ID 39, Page 1, Line 262, Pos (2,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\> MENU"
-msgstr ""
+msgstr "\\> 메뉴"
 
 #. ID 36, Page 1, Line 252, Pos (2,1)
 #. Choice (2 options, embedded in a message)
@@ -23,12 +23,16 @@ msgid ""
 "\\>END MINI-GAME\n"
 "\\>OPTION"
 msgstr ""
+"\\>미니게임 종료E\n"
+"\\>옵션"
 
 #. ID 39, Page 1, Line 113, Pos (2,5)
 msgid ""
 "\\>【エラー】\n"
 "\\>ピースの移動処理が完了しませんでした \\<\\|\\|"
 msgstr ""
+"\\>【에러】\n"
+"\\>퍼즐의 이동 처리가 완료되지 않았습니다 \\<\\|\\|"
 
 #. ID 39, Page 1, Line 188, Pos (2,5)
 #. Choice (3 options, embedded in a message)
@@ -37,11 +41,14 @@ msgid ""
 "\\>QUIT PUZZLE\n"
 "\\>でばっぐ"
 msgstr ""
+"\\>힌트\n"
+"\\>퍼즐 나가기\n"
+"\\>디버그"
 
 #. ID 39, Page 1, Line 196, Pos (2,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\> MENU > でばっぐ"
-msgstr ""
+msgstr "\\> 메뉴 > 디버그"
 
 #. ID 39, Page 1, Line 197, Pos (2,5)
 #. Choice (2 options, embedded in a message)
@@ -49,6 +56,8 @@ msgid ""
 "\\>イベントID確認もーど\n"
 "\\>完成した状態にする"
 msgstr ""
+"\\>이벤트ID 확인 모드\n"
+"\\>완성 상태로 만들기"
 
 #. ID 39, Page 1, Line 263, Pos (2,5)
 #. Choice (2 options, embedded in a message)
@@ -56,16 +65,18 @@ msgid ""
 "\\>HINT\n"
 "\\>QUIT PUZZLE"
 msgstr ""
+"\\>힌트\n"
+"\\>퍼즐 나가기"
 
 #. ID 39, Page 2, Line 22, Pos (2,5)
 #. Contains choice at line 2 (1 options)
 msgid "\\>完成したけど、まだ続ける？"
-msgstr ""
+msgstr "\\>완성되었지만, 계속하시겠습니까?"
 
 #. ID 39, Page 2, Line 23, Pos (2,5)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Y / N"
-msgstr ""
+msgstr "\\>예 / 아니오"
 
 #. ID 39, Page 2, Line 105, Pos (2,5)
 msgid ""
@@ -74,6 +85,10 @@ msgid ""
 "\n"
 "\\>　　　　　　　　  Congratulations!"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\\>　　　　　　　　        축하합니다!"
 
 #. ID 39, Page 2, Line 111, Pos (2,5)
 msgid ""
@@ -82,11 +97,15 @@ msgid ""
 "\n"
 "\\>                    New Record!!"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\\>                        신기록!!"
 
 #. ID 40, Page 3, Line 11, Pos (1,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> MENU > OPTION"
-msgstr ""
+msgstr "\\> 메뉴 > 옵션"
 
 #. ID 40, Page 3, Line 12, Pos (1,5)
 #. Choice (3 options, embedded in a message)
@@ -95,11 +114,14 @@ msgid ""
 "\\>Control Type (Now:\\V[1471])\n"
 "\\>Close"
 msgstr ""
+"\\>배경화면     (현재:\\V[1463])\n"
+"\\>조작 타입    (현재:\\V[1471])\n"
+"\\>닫기"
 
 #. ID 40, Page 3, Line 14, Pos (1,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> MENU > OPTION > Wallpaper (Now:\\V[1463])"
-msgstr ""
+msgstr "\\> 메뉴 > 옵션 > 배경화면 (현재:\\V[1463])"
 
 #. ID 40, Page 3, Line 15, Pos (1,5)
 #. Choice (3 options, embedded in a message)
@@ -108,11 +130,14 @@ msgid ""
 "\\>Type 2\n"
 "\\>Type 3 (PC Wallpaper)"
 msgstr ""
+"\\>타입 1 (기본)\n"
+"\\>타입 2\n"
+"\\>타입 3 (PC 배경화면)"
 
 #. ID 40, Page 3, Line 30, Pos (1,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\> MENU > OPTION > Control Type (Now:\\V[1471])"
-msgstr ""
+msgstr "\\> 메뉴 > 옵션 > 조작 타입 (현재:\\V[1471])"
 
 #. ID 40, Page 3, Line 31, Pos (1,5)
 #. Choice (2 options, embedded in a message)
@@ -120,6 +145,8 @@ msgid ""
 "\\>Type 1 (Cursor)\n"
 "\\>Type 2 (Space)"
 msgstr ""
+"\\>타입 1 (커서)\n"
+"\\>타입 2 (공백)"
 
 #. ID 40, Page 4, Line 30, Pos (1,5)
 #. ChangeHeroName (Actor 1)
@@ -134,4 +161,7 @@ msgid ""
 "\n"
 "\\>                     Get Ready　　　　　　　　　 \\<\\|\\|\\^"
 msgstr ""
-
+"\n"
+"\n"
+"\n"
+"\\>                      준비...　  　　 　　　　　 \\<\\|\\|\\^"
