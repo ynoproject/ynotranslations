@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 2, Page 1, Line 5, Pos (65,81)
 msgid "                   Hat & Scarf"
-msgstr "                 ¡Ú¸ğÀÚ¿Í ¸ÓÇÃ·¯¡Ú"
+msgstr "                 â˜…ëª¨ìì™€ ë¨¸í”ŒëŸ¬â˜…"
 

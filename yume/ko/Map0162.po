@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 29, Page 1, Line 5, Pos (10,12)
 msgid "                   Poo Hair"
-msgstr "                    ¡Ú¶Ë ¸Ó¸®¡Ú"
+msgstr "                    â˜…ë˜¥ ë¨¸ë¦¬â˜…"
 

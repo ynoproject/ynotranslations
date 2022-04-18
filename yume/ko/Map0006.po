@@ -10,5 +10,4 @@ msgstr ""
 
 #. ID 1, Page 2, Line 18, Pos (12,6)
 msgid "                 Move while seated"
-msgstr "             ¡ÚÀÇÀÚ¿¡ ¾ÉÀº Ã¤·Î ÀÌµ¿¡Ú"
-
+msgstr "             â˜…ì˜ìì— ì•‰ì€ ì±„ë¡œ ì´ë™â˜…"

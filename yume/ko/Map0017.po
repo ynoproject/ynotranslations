@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 2, Page 1, Line 5, Pos (103,71)
 msgid "                    Eye Palm"
-msgstr "                   ¡Ú´«´Ş¸° ¼Õ¡Ú"
+msgstr "                   â˜…ëˆˆë‹¬ë¦° ì†â˜…"
 
