@@ -11,7 +11,7 @@ msgstr ""
 #. ID 2, Page 2, Line 100, Pos (1,2)
 #. Contains choice at line 2 (2 options)
 msgid "スタート地点に戻ります。"
-msgstr ""
+msgstr "스타트 지점으로 돌아갑니다"
 
 #. ID 2, Page 2, Line 101, Pos (1,2)
 #. Choice (2 options, embedded in a message)
@@ -23,12 +23,16 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
+"네\n"
+"아니오"
 
 #. ID 2, Page 2, Line 138, Pos (1,2)
 msgid ""
 "\n"
 "　　　　　　　現在位置をセーブしました"
 msgstr ""
+"\n"
+"　　　　　　　현위치를 세이브했습니다"
 
 #. ID 3, Page 1, Line 3, Pos (212,226)
 #. ID 195, Page 1, Line 3, Pos (170,221)
@@ -38,6 +42,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　霜　柱　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　　　서릿발　　　　　　　　　　　"
 
 #. ID 10, Page 1, Line 3, Pos (129,13)
 #. ID 184, Page 1, Line 3, Pos (103,13)
@@ -47,6 +53,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　樹　氷　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　　　상고대　　　　　　　　　　　"
 
 #. ID 13, Page 1, Line 3, Pos (89,57)
 #. ID 26, Page 1, Line 3, Pos (282,54)
@@ -56,10 +64,12 @@ msgid ""
 "\n"
 "　　　　　　　　　　　あられ　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　　　우　박　　　　　　　　　　　"
 
 #. ID 14, Page 1, Line 2, Pos (206,207)
 msgid "EniaruK."
-msgstr ""
+msgstr "네둡어."
 
 #. ID 15, Page 1, Line 3, Pos (16,68)
 #. ID 187, Page 1, Line 3, Pos (200,113)
@@ -69,19 +79,23 @@ msgid ""
 "\n"
 "　　　　　　　　　　　雪　華　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　　　눈　꽃　　　　　　　　　　　"
 
 #. ID 16, Page 1, Line 2, Pos (105,143)
 msgid ""
 "Eniorih awokoK.\n"
 "Oyiiaberus ukasnat irukkuY."
 msgstr ""
+"어넓 는기여.\n"
+"해 록도하색탐 히천천."
 
 #. ID 21, Page 1, Line 3, Pos (281,76)
 #. ID 21, Page 1, Line 11, Pos (281,76)
 #. ID 21, Page 2, Line 3, Pos (281,76)
 #. ID 21, Page 2, Line 11, Pos (281,76)
 msgid "AwitinnoK."
-msgstr ""
+msgstr "녕안."
 
 #. ID 21, Page 1, Line 4, Pos (281,76)
 #. ID 21, Page 1, Line 12, Pos (281,76)
@@ -94,7 +108,7 @@ msgstr ""
 #. ID 139, Page 2, Line 12, Pos (187,83)
 #. ID 144, Page 1, Line 3, Pos (57,275)
 msgid "・・・・・・・・・・"
-msgstr ""
+msgstr ".........."
 
 #. ID 47, Page 2, Line 63, Pos (275,204)
 msgid "　　　　　　　　　　　BAD END"
@@ -106,64 +120,66 @@ msgstr ""
 
 #. ID 51, Page 1, Line 2, Pos (78,110)
 msgid "EniumaS."
-msgstr ""
+msgstr "네춥."
 
 #. ID 53, Page 1, Line 2, Pos (56,275)
 #. ID 144, Page 1, Line 2, Pos (57,275)
 msgid "？OnomisagaS？"
-msgstr ""
+msgstr "?건물 는찾?"
 
 #. ID 53, Page 1, Line 4, Pos (56,275)
 #. ID 144, Page 1, Line 4, Pos (57,275)
 msgid "…An ianariS."
-msgstr ""
+msgstr "...걸는겠르모."
 
 #. ID 55, Page 1, Line 2, Pos (93,91)
 #. Contains choice at line 2 (2 options)
 #. ID 213, Page 1, Line 2, Pos (125,272)
 #. Contains choice at line 2 (2 options)
 msgid "？Iisoh irooK？"
-msgstr ""
+msgstr "?까줄 음얼?"
 
 #. ID 55, Page 1, Line 5, Pos (93,91)
 #. ID 213, Page 1, Line 5, Pos (125,272)
 msgid "OzuoD"
-msgstr ""
+msgstr "기여"
 
 #. ID 55, Page 1, Line 10, Pos (93,91)
 #. ID 213, Page 1, Line 10, Pos (125,272)
 msgid "EnettabnaG"
-msgstr ""
+msgstr "내힘"
 
 #. ID 139, Page 1, Line 3, Pos (187,83)
 #. ID 139, Page 1, Line 11, Pos (187,83)
 #. ID 139, Page 2, Line 3, Pos (187,83)
 #. ID 139, Page 2, Line 11, Pos (187,83)
 msgid "AranuoyaS."
-msgstr ""
+msgstr "히녕안."
 
 #. ID 140, Page 1, Line 2, Pos (70,110)
 msgid ""
 "Anii ukuh onimiK.\n"
 "UosakattA."
 msgstr ""
+"여보아좋 옷 의너.\n"
+"아같 것 할뜻따."
 
 #. ID 141, Page 1, Line 2, Pos (53,43)
 msgid "Enadikuy omedamokoD."
-msgstr ""
+msgstr "네이눈 통온."
 
 #. ID 142, Page 1, Line 2, Pos (235,128)
 msgid "♪IrukkuyoG♪"
-msgstr ""
+msgstr "♪요세내보 게하긋느♪"
 
 #. ID 143, Page 1, Line 2, Pos (167,68)
 msgid "Enii oturakutiM."
-msgstr ""
+msgstr "네겠좋 면으찾."
 
 #. ID 145, Page 1, Line 2, Pos (161,264)
 #. ID 146, Page 1, Line 2, Pos (162,264)
 msgid "Asijano omittok awonura agonomisagaS."
-msgstr ""
+msgstr "야지가찬마 도나 어있 이것 는있 고찾."
 
 #. ID 165, Page 1, Line 3, Pos (38,260)
 #. ID 166, Page 1, Line 3, Pos (192,222)
@@ -173,8 +189,10 @@ msgid ""
 "\n"
 "　　　　　　　　　　　氷　柱　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　　　고드름　　　　　　　　　　　"
 
 #. ID 167, Page 1, Line 2, Pos (43,237)
 msgid "AdnianeroboN."
-msgstr ""
+msgstr "어없 수 갈라올."
 
