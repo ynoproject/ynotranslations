@@ -313,7 +313,7 @@ msgstr "게임 설명을 본다."
 
 msgctxt "terms.gold"
 msgid "\\"
-msgstr "원\"
+msgstr "원\n"
 
 msgctxt "terms.command_item"
 msgid "Effect"
