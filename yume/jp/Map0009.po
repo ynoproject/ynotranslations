@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 2, Line 4, Pos (13,12)
+msgid "                   Snow Woman"
+msgstr "　　　　　　　　　★ゆきおんな★"
+
+#. ID 15, Page 2, Line 4, Pos (16,10)
+msgid "                      Frog"
+msgstr "　　　　　　　　　　★かえる★"
+
+#. ID 16, Page 2, Line 4, Pos (14,15)
+msgid "                     Umbrella"
+msgstr "　　　　　　　　　　　★かさ★"
+
+#. ID 17, Page 2, Line 4, Pos (14,11)
+msgid "                    Hat & Scarf"
+msgstr "　　　　　　　　★ぼうしとマフラー★"
+
+#. ID 18, Page 2, Line 5, Pos (12,14)
+msgid "                    Eye Palm"
+msgstr "　　　　　　　　　★めだまうで★"
+
+#. ID 19, Page 2, Line 5, Pos (12,16)
+msgid "                     Get fat"
+msgstr "　　　　　　　　　　★ふとる★"
+
+#. ID 20, Page 2, Line 4, Pos (13,18)
+msgid "                      Midget"
+msgstr "　　　　　　　　　　★こびと★"
+
+#. ID 21, Page 2, Line 4, Pos (14,19)
+msgid "                     Whistle"
+msgstr "            　　　　　★ふえ★"
+
+#. ID 22, Page 2, Line 4, Pos (15,17)
+msgid "                       Neon"
+msgstr "　　　　　　　　　　★ネオン★"
+
+#. ID 23, Page 2, Line 4, Pos (16,20)
+msgid "                 Faceless Ghost"
+msgstr "　　　　　 　　　★のっぺらぼう★"
+
+#. ID 24, Page 2, Line 4, Pos (18,20)
+msgid "                    Talking Head"
+msgstr "　　　　　　　　 　★なまくび★"
+
+#. ID 25, Page 2, Line 4, Pos (19,13)
+msgid "                     Poo Hair"
+msgstr "　　　　　　　　　★ウンコヘアー★"
+
+#. ID 26, Page 2, Line 4, Pos (20,15)
+msgid "                   Kitchen Knife"
+msgstr "　　　　　　　　　★ほうちょう★"
+
+#. ID 27, Page 2, Line 4, Pos (20,19)
+msgid "                  Spirit Headband"
+msgstr "　　　　　　　　　　★△ずきん★"
+
+#. ID 28, Page 2, Line 4, Pos (21,18)
+msgid "                      Towel"
+msgstr "　　　　　　　　　　★タオル★"
+
+#. ID 29, Page 2, Line 4, Pos (22,16)
+msgid "                         Cat"
+msgstr "　　　　　　　　　　　★ねこ★"
+
+#. ID 30, Page 2, Line 4, Pos (22,14)
+msgid "                       Lamp"
+msgstr "　　　　　　　　　　★でんとう★"
+
+#. ID 31, Page 2, Line 4, Pos (20,11)
+msgid "                    Long Hair"
+msgstr "　　　　　　　　　★ロングヘアー★"
+
+#. ID 32, Page 2, Line 4, Pos (21,12)
+msgid "                     Bicycle "
+msgstr "　　　　　　　　　★じてんしゃ★"
+
+#. ID 33, Page 2, Line 4, Pos (18,10)
+msgid "                     Blonde"
+msgstr "　　　　　　　　　　★ブロンド★"
+
+#. ID 34, Page 2, Line 4, Pos (15,13)
+msgid "                      Witch"
+msgstr "　　　　　　　　　　★まじょ★"
+
+#. ID 35, Page 2, Line 4, Pos (17,12)
+msgid "                      Devil"
+msgstr "　　　　　　　 　　　★おに★"
+
+#. ID 36, Page 2, Line 4, Pos (17,18)
+msgid "                    Squish-Squish"
+msgstr "　　　　　　　 　　★ぶよぶよ★"
+
+#. ID 37, Page 2, Line 4, Pos (19,17)
+msgid "                   Traffic Light"
+msgstr "　　　　　　　　　　★しんごう★"
+

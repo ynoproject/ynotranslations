@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 143, Page 1, Line 8, Pos (17,59)
+msgid "                     Megaphone"
+msgstr "                      麦克风"
+
+#. ID 143, Page 1, Line 11, Pos (17,59)
+msgid "Press 1 to make a random sound."
+msgstr "按1产生随机的声音。"
+

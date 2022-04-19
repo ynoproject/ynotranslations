@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 7, Pos (6,27)
+msgid "                      Scooter"
+msgstr "                    キックボード"
+
+#. ID 3, Page 2, Line 7, Pos (7,25)
+msgid "                      Doodle"
+msgstr "                     らくがき"
+
+#. ID 4, Page 2, Line 7, Pos (9,24)
+msgid "                       Sick"
+msgstr "                     びょうき"
+
+#. ID 5, Page 2, Line 8, Pos (11,25)
+msgid "                      Glitch"
+msgstr "                       バグ"
+
+#. ID 6, Page 2, Line 7, Pos (12,27)
+msgid "                      8-bit"
+msgstr "                      8ビット"
+
+#. ID 7, Page 2, Line 7, Pos (11,29)
+msgid "                       Nerd"
+msgstr "                      オタク"
+
+#. ID 8, Page 2, Line 7, Pos (9,30)
+msgid "                    Monochrome"
+msgstr "                   モノクローム"
+
+#. ID 9, Page 2, Line 7, Pos (7,29)
+msgid "                       Bald"
+msgstr "                     つるつる"
+
+#. ID 10, Page 2, Line 7, Pos (9,22)
+msgid "                    Megaphone"
+msgstr "                     メガホン"
+
+#. ID 11, Page 2, Line 7, Pos (11,22)
+msgid "                       Blob"
+msgstr "                     スライム"
+
+#. ID 12, Page 2, Line 7, Pos (13,23)
+msgid "                      Wrench"
+msgstr "                      レンチ"
+
+#. ID 13, Page 2, Line 7, Pos (14,25)
+msgid "                     Raincoat"
+msgstr "                    あまがっぱ"
+
+#. ID 14, Page 2, Line 7, Pos (14,27)
+msgid "                       Scarf"
+msgstr "                      マフラー"
+
+#. ID 15, Page 2, Line 7, Pos (14,29)
+msgid "                      Classic"
+msgstr "                      おふる"
+
+#. ID 16, Page 2, Line 7, Pos (13,31)
+msgid "                        TV"
+msgstr "                      テレビ"
+
+#. ID 17, Page 2, Line 7, Pos (11,32)
+msgid "                        Fox"
+msgstr "                      きつね"
+
+#. ID 18, Page 2, Line 7, Pos (9,32)
+msgid "                   Candle holder"
+msgstr "                      ろうそく"
+
+#. ID 19, Page 2, Line 7, Pos (7,32)
+msgid "                    Clockworker"
+msgstr "                    とけいじかけ"
+
+#. ID 20, Page 2, Line 7, Pos (5,31)
+msgid "                    Diving suit"
+msgstr "                  ウェットスーツ"
+
+#. ID 21, Page 2, Line 7, Pos (4,29)
+msgid "                      Mercury"
+msgstr "                     すいぎん"
+
+#. ID 22, Page 2, Line 7, Pos (4,27)
+msgid "                   Healing aura"
+msgstr "                  マイナスイオン"
+
+#. ID 23, Page 2, Line 7, Pos (4,25)
+msgid "                       Wood"
+msgstr "                      きぼり"
+
+#. ID 24, Page 2, Line 7, Pos (5,23)
+msgid "                      Tomato"
+msgstr "                      トマト"
+
+#. ID 25, Page 2, Line 7, Pos (7,22)
+msgid "                     Lab coat"
+msgstr "                      はくい"
+

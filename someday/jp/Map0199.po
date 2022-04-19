@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 8, Pos (20,74)
+msgid "                      Tomato"
+msgstr "                        トマト"
+
+#. ID 56, Page 1, Line 7, Pos (17,32)
+#. Choice (4 options)
+msgid ""
+"Grape Sodanium - 360 N\n"
+"Liquid Dream - 350 N\n"
+"Spoiled Mentsuyu - 45 N\n"
+"Don't buy anything"
+msgstr ""
+"Grape Sodanium - 360 N\n"
+"Liquid Dream - 350 N\n"
+"腐っためんつゆ - 45 N\n"
+"何も買わない"
+
+#. ID 56, Page 1, Line 14, Pos (17,32)
+#. ID 56, Page 1, Line 49, Pos (17,32)
+msgid "You won a free drink!"
+msgstr "無料ドリンクGET！"
+
+#. ID 56, Page 1, Line 20, Pos (17,32)
+#. ID 56, Page 1, Line 55, Pos (17,32)
+#. ID 56, Page 1, Line 83, Pos (17,32)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 56, Page 1, Line 39, Pos (17,32)
+#. ID 56, Page 1, Line 74, Pos (17,32)
+#. ID 56, Page 1, Line 120, Pos (17,32)
+msgid "You don't have enough N!"
+msgstr "Nが足りない!"
+

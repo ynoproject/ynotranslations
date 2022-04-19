@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 22, Page 1, Line 1, Pos (8,10)
+msgid "Choose !"
+msgstr "Choose !"
+
+#. ID 22, Page 1, Line 3, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "Gravure ?"
+msgstr "Gravure ?"
+
+#. ID 22, Page 1, Line 4, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 17, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 30, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 43, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 56, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 69, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 81, Pos (8,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Yes\n"
+"No"
+
+#. ID 22, Page 1, Line 16, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "Crazy Maze ?"
+msgstr "Crazy Maze ?"
+
+#. ID 22, Page 1, Line 29, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "Azur ?"
+msgstr "Azur ?"
+
+#. ID 22, Page 1, Line 42, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "Bubbles ?"
+msgstr "Bubbles ?"
+
+#. ID 22, Page 1, Line 55, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "-EPACSE- ?"
+msgstr "-EPACSE- ?"
+
+#. ID 22, Page 1, Line 68, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "Sunflower ?"
+msgstr "Sunflower ?"
+
+#. ID 22, Page 1, Line 80, Pos (8,10)
+#. Contains choice at line 2 (2 options)
+msgid "Normal ?"
+msgstr "Normal ?"
+

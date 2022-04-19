@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "ƒeƒXƒgƒ}ƒbƒv1"
+msgstr "ѓeѓXѓgѓ}ѓbѓv1"
+
+#. ID 3
+msgid "ƒQ[ƒ€ƒXƒ^[ƒg"
+msgstr "ѓQЃ[ѓЂѓXѓ^Ѓ[ѓg"
+
+#. ID 4
+msgid "Œ»ŽÀ‚Ì•”‰®"
+msgstr "Њ»ЋА‚М•”‰®"
+
+#. ID 5
+msgid "00000016"
+msgstr "00000016"
+
+#. ID 6
+msgid "–²‚Ì•”‰®"
+msgstr "–І‚М•”‰®"
+
+#. ID 7
+msgid "–²ƒxƒ‰ƒ“ƒ_A"
+msgstr "–Іѓxѓ‰ѓ“ѓ_A"
+
+#. ID 8
+msgid "–²ƒxƒ‰ƒ“ƒ_B"
+msgstr "–Іѓxѓ‰ѓ“ѓ_B"
+
+#. ID 9
+msgid "”à•”‰®"
+msgstr "”а•”‰®"
+
+#. ID 10
+msgid "¡01‚©‚¦‚é"
+msgstr "ЃЎ01‚©‚¦‚й"
+
+#. ID 11
+msgid "¡02–XŽqƒ}ƒt"
+msgstr "ЃЎ02–XЋqѓ}ѓt"
+
+#. ID 12
+msgid "¡03‚©‚³"
+msgstr "ЃЎ03‚©‚і"
+
+#. ID 13
+msgid "¡04•ï’š"
+msgstr "ЃЎ04•п’љ"
+
+#. ID 14
+msgid "¡05á—"
+msgstr "ЃЎ05ђбЏ—"
+
+#. ID 15
+msgid "¡06”¯Œ^"
+msgstr "ЃЎ06”ЇЊ^"
+
+#. ID 16
+msgid "¡07Ž©“]ŽÔ"
+msgstr "ЃЎ07Ћ©“]ЋФ"
+
+#. ID 17
+msgid "¡08–Ú‹Ê˜r"
+msgstr "ЃЎ08–Ъ‹Кr"
+
+#. ID 18
+msgid "¡09¬l"
+msgstr "ЃЎ09Џ¬ђl"
+
+#. ID 19
+msgid "¡10”LŽ¨"
+msgstr "ЃЎ10”LЋЁ"
+
+#. ID 20
+msgid "¡11ƒlƒIƒ“"
+msgstr "ЃЎ11ѓlѓIѓ“"
+
+#. ID 21
+msgid "¡12“d“•"
+msgstr "ЃЎ12“d“•"
+
+#. ID 22
+msgid "‚©‚Ü‚­‚ç‚P"
+msgstr "‚©‚Ь‚­‚з‚P"
+
+#. ID 23
+msgid "‚©‚Ü‚­‚ç‚Q"
+msgstr "‚©‚Ь‚­‚з‚Q"
+
+#. ID 24
+msgid "‚©‚Ü‚­‚ç‚R"
+msgstr "‚©‚Ь‚­‚з‚R"
+
+#. ID 25
+msgid "‚©‚Ü‚­‚ç‚S"
+msgstr "‚©‚Ь‚­‚з‚S"
+
+#. ID 26
+msgid "‚©‚Ü‚­‚ç‚T"
+msgstr "‚©‚Ь‚­‚з‚T"
+
+#. ID 27
+msgid "‚©‚Ü‚­‚ç‚U"
+msgstr "‚©‚Ь‚­‚з‚U"
+
+#. ID 28
+msgid "‚©‚Ü‚­‚ç‚V"
+msgstr "‚©‚Ь‚­‚з‚V"
+
+#. ID 29
+msgid "“d“•¬•”‰®‚P"
+msgstr "“d“•Џ¬•”‰®‚P"
+
+#. ID 30
+msgid "“d“•¬•”‰®‚Q"
+msgstr "“d“•Џ¬•”‰®‚Q"
+
+#. ID 31
+msgid "“d“•¬•”‰®‚R"
+msgstr "“d“•Џ¬•”‰®‚R"
+
+#. ID 32
+msgid "“d“•¬•”‰®‚S"
+msgstr "“d“•Џ¬•”‰®‚S"
+
+#. ID 33
+msgid "“d“•¬•”‰®‚T"
+msgstr "“d“•Џ¬•”‰®‚T"
+
+#. ID 34
+msgid "‰f‘œ"
+msgstr "‰f‘њ"
+
+#. ID 35
+msgid "Ž‡‚`"
+msgstr "Ћ‡‚`"
+
+#. ID 36
+msgid "Ž‡‚a"
+msgstr "Ћ‡‚a"
+
+#. ID 37
+msgid "ƒlƒIƒ“ƒ^ƒCƒ‹‚`"
+msgstr "ѓlѓIѓ“ѓ^ѓCѓ‹‚`"
+
+#. ID 38
+msgid "ƒlƒIƒ“ƒ^ƒCƒ‹‚a"
+msgstr "ѓlѓIѓ“ѓ^ѓCѓ‹‚a"
+
+#. ID 39
+msgid "ƒ`ƒFƒbƒN‚`"
+msgstr "ѓ`ѓFѓbѓN‚`"
+
+#. ID 40
+msgid "ƒ`ƒFƒbƒN‚a"
+msgstr "ѓ`ѓFѓbѓN‚a"
+
+#. ID 41
+msgid "‚Æ‚°"
+msgstr "‚Ж‚°"
+
+#. ID 42
+msgid "“¹˜H"
+msgstr "“№H"
+
+#. ID 43
+msgid "“¹˜H‚`"
+msgstr "“№H‚`"
+
+#. ID 44
+msgid "“¹˜H‚a"
+msgstr "“№H‚a"
+
+#. ID 45
+msgid "“¹˜H‚b"
+msgstr "“№H‚b"
+
+#. ID 46
+msgid "“¹˜H‚c"
+msgstr "“№H‚c"
+
+#. ID 47
+msgid "Ô‚`"
+msgstr "ђФ‚`"
+
+#. ID 48
+msgid "‘«‚ ‚Æ‚`"
+msgstr "‘«‚ ‚Ж‚`"
+
+#. ID 49
+msgid "‘«‚ ‚Æ‚a"
+msgstr "‘«‚ ‚Ж‚a"
+
+#. ID 50
+msgid "28"
+msgstr "28"
+
+#. ID 51
+msgid "»‚`"
+msgstr "Ќ»‚`"
+
+#. ID 52
+msgid "»‚a"
+msgstr "Ќ»‚a"
+
+#. ID 53
+msgid "»‚b"
+msgstr "Ќ»‚b"
+
+#. ID 54
+msgid "»‚c"
+msgstr "Ќ»‚c"
+
+#. ID 55
+msgid "»‚d"
+msgstr "Ќ»‚d"
+
+#. ID 56
+msgid "»‚e"
+msgstr "Ќ»‚e"
+
+#. ID 57
+msgid "»‚f"
+msgstr "Ќ»‚f"
+
+#. ID 58
+msgid "»‚g"
+msgstr "Ќ»‚g"
+
+#. ID 59
+msgid "»‚h"
+msgstr "Ќ»‚h"
+
+#. ID 60
+msgid "»‚i"
+msgstr "Ќ»‚i"
+
+#. ID 61
+msgid "»‚j"
+msgstr "Ќ»‚j"
+
+#. ID 62
+msgid "»‚k"
+msgstr "Ќ»‚k"
+
+#. ID 63
+msgid "»‚l"
+msgstr "Ќ»‚l"
+
+#. ID 64
+msgid "»ŠK’i"
+msgstr "Ќ»ЉK’i"
+
+#. ID 65
+msgid "¬‰®‚Ì’†‚`"
+msgstr "Џ¬‰®‚М’†‚`"
+
+#. ID 66
+msgid "39"
+msgstr "39"
+
+#. ID 67
+msgid "Ô‚a"
+msgstr "ђФ‚a"
+
+#. ID 68
+msgid "“y‚`"
+msgstr "“y‚`"
+
+#. ID 69
+msgid "“y‚a"
+msgstr "“y‚a"
+
+#. ID 70
+msgid "‚Ç‚Ô_001"
+msgstr "‚З‚Ф_001"
+
+#. ID 71
+msgid "‚Ç‚Ô_002"
+msgstr "‚З‚Ф_002"
+
+#. ID 72
+msgid "‚Ç‚Ô_003"
+msgstr "‚З‚Ф_003"
+
+#. ID 73
+msgid "‚Ç‚Ô_004"
+msgstr "‚З‚Ф_004"
+
+#. ID 74
+msgid "‚Ç‚Ô_005"
+msgstr "‚З‚Ф_005"
+
+#. ID 75
+msgid "‚Ç‚Ô_006"
+msgstr "‚З‚Ф_006"
+
+#. ID 76
+msgid "ƒfƒp[ƒg‚`"
+msgstr "ѓfѓpЃ[ѓg‚`"
+
+#. ID 77
+msgid "ƒfƒp[ƒg‚a"
+msgstr "ѓfѓpЃ[ѓg‚a"
+
+#. ID 78
+msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚`"
+msgstr "ѓGѓ“ѓgѓ‰ѓ“ѓX‚`"
+
+#. ID 79
+msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚a"
+msgstr "ѓGѓ“ѓgѓ‰ѓ“ѓX‚a"
+
+#. ID 80
+msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚b"
+msgstr "ѓGѓ“ѓgѓ‰ѓ“ѓX‚b"
+
+#. ID 81
+msgid "Ô‚¢•”‰®"
+msgstr "ђФ‚ў•”‰®"
+
+#. ID 82
+msgid "ƒfƒp[ƒg‚b"
+msgstr "ѓfѓpЃ[ѓg‚b"
+
+#. ID 83
+msgid "000029"
+msgstr "000029"
+
+#. ID 84
+msgid "Ž÷ŠC‚P"
+msgstr "ЋчЉC‚P"
+
+#. ID 85
+msgid "ƒTƒuƒ}ƒbƒv"
+msgstr "ѓTѓuѓ}ѓbѓv"
+
+#. ID 86
+msgid "Ž÷ŠC‚Q"
+msgstr "ЋчЉC‚Q"
+
+#. ID 87
+msgid "Ž÷ŠC“dŽÔ‚`"
+msgstr "ЋчЉC“dЋФ‚`"
+
+#. ID 88
+msgid "“dŽÔŽÔ“à"
+msgstr "“dЋФЋФ“а"
+
+#. ID 89
+msgid "Ž÷ŠC“dŽÔ‚a"
+msgstr "ЋчЉC“dЋФ‚a"
+
+#. ID 90
+msgid "Ž÷ŠC‚R"
+msgstr "ЋчЉC‚R"
+
+#. ID 91
+msgid "Ž÷ŠC‚S"
+msgstr "ЋчЉC‚S"
+
+#. ID 92
+msgid "50"
+msgstr "50"
+
+#. ID 93
+msgid "ŠÝ"
+msgstr "ЉЭ"
+
+#. ID 94
+msgid "ƒ‚ƒm"
+msgstr "ѓ‚ѓm"
+
+#. ID 95
+msgid "ƒ‚ƒm001"
+msgstr "ѓ‚ѓm001"
+
+#. ID 96
+msgid "ƒ‚ƒm002"
+msgstr "ѓ‚ѓm002"
+
+#. ID 97
+msgid "ƒ‚ƒm003"
+msgstr "ѓ‚ѓm003"
+
+#. ID 98
+msgid "ƒ‚ƒm004"
+msgstr "ѓ‚ѓm004"
+
+#. ID 99
+msgid "ƒ‚ƒm005"
+msgstr "ѓ‚ѓm005"
+
+#. ID 100
+msgid "ƒ‚ƒm006"
+msgstr "ѓ‚ѓm006"
+
+#. ID 101
+msgid "ƒ‚ƒm007"
+msgstr "ѓ‚ѓm007"
+
+#. ID 102
+msgid "ƒ‚ƒm008"
+msgstr "ѓ‚ѓm008"
+
+#. ID 103
+msgid "ƒ‚ƒm009"
+msgstr "ѓ‚ѓm009"
+
+#. ID 104
+msgid "ƒ‚ƒm010"
+msgstr "ѓ‚ѓm010"
+
+#. ID 105
+msgid "ƒ‚ƒm011"
+msgstr "ѓ‚ѓm011"
+
+#. ID 106
+msgid "ƒ‚ƒm012"
+msgstr "ѓ‚ѓm012"
+
+#. ID 107
+msgid "ƒ‚ƒm013"
+msgstr "ѓ‚ѓm013"
+
+#. ID 108
+msgid "0034"
+msgstr "0034"
+
+#. ID 109
+msgid "ó£‚Ì‰Æ"
+msgstr "ђуђЈ‚М‰Ж"
+
+#. ID 110
+msgid "0025"
+msgstr "0025"
+
+#. ID 111
+msgid "000026"
+msgstr "000026"
+
+#. ID 112
+msgid "0027"
+msgstr "0027"
+
+#. ID 113
+msgid "Œö‰€ŠR"
+msgstr "Њц‰ЂЉR"
+
+#. ID 114
+msgid "•»"
+msgstr "•»"
+
+#. ID 115
+msgid "ƒŒƒ“ƒK‚Ì’†‚`"
+msgstr "ѓЊѓ“ѓK‚М’†‚`"
+
+#. ID 116
+msgid "ƒŒƒ“ƒK‚Ì’†‚a"
+msgstr "ѓЊѓ“ѓK‚М’†‚a"
+
+#. ID 117
+msgid "ƒŒƒ“ƒK‚Ì’†‚b"
+msgstr "ѓЊѓ“ѓK‚М’†‚b"
+
+#. ID 118
+msgid "‚e‚b“ü‚èŒû‚`"
+msgstr "‚e‚b“ь‚иЊы‚`"
+
+#. ID 119
+msgid "‚e‚bƒ}ƒbƒv"
+msgstr "‚e‚bѓ}ѓbѓv"
+
+#. ID 120
+msgid "‚e‚b‰Æ"
+msgstr "‚e‚b‰Ж"
+
+#. ID 121
+msgid "‚e‚b‰Æ‚Ì’†"
+msgstr "‚e‚b‰Ж‚М’†"
+
+#. ID 122
+msgid "‚e‚b’n‰º001"
+msgstr "‚e‚b’n‰є001"
+
+#. ID 123
+msgid "‚e‚b’n‰º002"
+msgstr "‚e‚b’n‰є002"
+
+#. ID 124
+msgid "‚e‚b’n‰º003"
+msgstr "‚e‚b’n‰є003"
+
+#. ID 125
+msgid "‚e‚b’n‰º004"
+msgstr "‚e‚b’n‰є004"
+
+#. ID 126
+msgid "‚e‚b’n‰º005"
+msgstr "‚e‚b’n‰є005"
+
+#. ID 127
+msgid "‚e‚b’n‰º006"
+msgstr "‚e‚b’n‰є006"
+
+#. ID 128
+msgid "‚e‚b’n‰º007"
+msgstr "‚e‚b’n‰є007"
+
+#. ID 129
+msgid "‚e‚b’n‰º008"
+msgstr "‚e‚b’n‰є008"
+
+#. ID 130
+msgid "‚e‚b’n‰º009"
+msgstr "‚e‚b’n‰є009"
+
+#. ID 131
+msgid "‚e‚b’n‰º010"
+msgstr "‚e‚b’n‰є010"
+
+#. ID 132
+msgid "‚e‚b’n‰º011"
+msgstr "‚e‚b’n‰є011"
+
+#. ID 133
+msgid "‚e‚b’n‰º012"
+msgstr "‚e‚b’n‰є012"
+
+#. ID 134
+msgid "‚e‚b’n‰º013"
+msgstr "‚e‚b’n‰є013"
+
+#. ID 135
+msgid "‚e‚b’n‰º014"
+msgstr "‚e‚b’n‰є014"
+
+#. ID 136
+msgid "‚e‚b’n‰º015"
+msgstr "‚e‚b’n‰є015"
+
+#. ID 137
+msgid "‚e‚b’n‰º016"
+msgstr "‚e‚b’n‰є016"
+
+#. ID 138
+msgid "‚e‚b’n‰º017"
+msgstr "‚e‚b’n‰є017"
+
+#. ID 139
+msgid "‚e‚b’n‰º018"
+msgstr "‚e‚b’n‰є018"
+
+#. ID 140
+msgid "‚e‚b’n‰º019"
+msgstr "‚e‚b’n‰є019"
+
+#. ID 141
+msgid "‚e‚b’n‰º020"
+msgstr "‚e‚b’n‰є020"
+
+#. ID 142
+msgid "‚e‚b’n‰º021"
+msgstr "‚e‚b’n‰є021"
+
+#. ID 143
+msgid "‚e‚b’n‰º022"
+msgstr "‚e‚b’n‰є022"
+
+#. ID 144
+msgid "‚e‚b“ü‚èŒû‚a"
+msgstr "‚e‚b“ь‚иЊы‚a"
+
+#. ID 145
+msgid "‚e‚b¬ƒ}ƒbƒv001"
+msgstr "‚e‚bЏ¬ѓ}ѓbѓv001"
+
+#. ID 146
+msgid "‚e‚b¬ƒ}ƒbƒv002"
+msgstr "‚e‚bЏ¬ѓ}ѓbѓv002"
+
+#. ID 147
+msgid "‚e‚b‘º001"
+msgstr "‚e‚b‘є001"
+
+#. ID 148
+msgid "‚e‚bÀÞÝ¼Þ®Ý001"
+msgstr "‚e‚bАЮЭјЮ®Э001"
+
+#. ID 149
+msgid "‚e‚bÀÞÝ¼Þ®Ý002"
+msgstr "‚e‚bАЮЭјЮ®Э002"
+
+#. ID 150
+msgid "‚e‚bÀÞÝ¼Þ®Ý003"
+msgstr "‚e‚bАЮЭјЮ®Э003"
+
+#. ID 151
+msgid "‚e‚b‘º002"
+msgstr "‚e‚b‘є002"
+
+#. ID 152
+msgid "‚e‚b‘º’n‰º"
+msgstr "‚e‚b‘є’n‰є"
+
+#. ID 153
+msgid "‚e‚b¬ƒ}ƒbƒv003"
+msgstr "‚e‚bЏ¬ѓ}ѓbѓv003"
+
+#. ID 154
+msgid "‚e‚b‘º003"
+msgstr "‚e‚b‘є003"
+
+#. ID 155
+msgid "ƒtƒ@ƒ~ƒQ[‚P"
+msgstr "ѓtѓ@ѓ~ѓQЃ[‚P"
+
+#. ID 156
+msgid "ƒGƒ“ƒfƒBƒ“ƒO"
+msgstr "ѓGѓ“ѓfѓBѓ“ѓO"
+
+#. ID 157
+msgid "‚e‚bÀÞÝ¼Þ®Ý002?"
+msgstr "‚e‚bАЮЭјЮ®Э002?"
+
+#. ID 158
+msgid "‚e‚b‘S‘Ì"
+msgstr "‚e‚b‘S‘М"
+
+#. ID 159
+msgid "ƒxƒbƒh‚Ì’†‚ÌŠK’i"
+msgstr "ѓxѓbѓh‚М’†‚МЉK’i"
+
+#. ID 160
+msgid "‘qŒÉ‘O’Ê˜H"
+msgstr "‘qЊЙ‘O’КH"
+
+#. ID 161
+msgid "‘qŒÉ‘O’Ê˜Hi‰Šj"
+msgstr "‘qЊЙ‘O’КHЃi‰ЉЃj"
+
+#. ID 162
+msgid "0036"
+msgstr "0036"
+
+#. ID 163
+msgid "‰F’ˆ‘D“ü‚èŒû"
+msgstr "‰F’€‘D“ь‚иЊы"
+
+#. ID 164
+msgid "000000164"
+msgstr "000000164"
+
+#. ID 165
+msgid "000000165"
+msgstr "000000165"
+
+#. ID 166
+msgid "000000166"
+msgstr "000000166"
+
+#. ID 167
+msgid "‰F’ˆ‘DoŒû"
+msgstr "‰F’€‘DЏoЊ"
+
+#. ID 168
+msgid "‰Î¯_01"
+msgstr "‰ОђЇ_01"
+
+#. ID 169
+msgid "‰Î¯_02"
+msgstr "‰ОђЇ_02"
+
+#. ID 170
+msgid "‰Î¯_03"
+msgstr "‰ОђЇ_03"
+
+#. ID 171
+msgid "‰Î¯_04"
+msgstr "‰ОђЇ_04"
+
+#. ID 172
+msgid "‰Î¯_05"
+msgstr "‰ОђЇ_05"
+
+#. ID 173
+msgid "‰Î¯’n‰º_01"
+msgstr "‰ОђЇ’n‰є_01"
+
+#. ID 174
+msgid "‰Î¯’n‰º_02"
+msgstr "‰ОђЇ’n‰є_02"
+
+#. ID 175
+msgid "ƒfƒp[ƒg‚c"
+msgstr "ѓfѓpЃ[ѓg‚c"
+
+#. ID 176
+msgid "000000000013"
+msgstr "000000000013"
+
+#. ID 177
+msgid "‚Ù‚¤‚«‚Å”òs"
+msgstr "‚Щ‚¤‚«‚Е”тЌs"
+

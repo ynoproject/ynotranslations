@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 23, Page 1, Line 15, Pos (3,3)
+#. ID 24, Page 1, Line 15, Pos (7,3)
+#. ID 25, Page 1, Line 15, Pos (11,3)
+#. ID 26, Page 1, Line 15, Pos (15,3)
+#. ID 27, Page 1, Line 15, Pos (3,7)
+#. ID 28, Page 1, Line 15, Pos (7,7)
+#. ID 29, Page 1, Line 15, Pos (11,7)
+#. ID 30, Page 1, Line 15, Pos (15,7)
+msgid "                Menu scheme changed!"
+msgstr "                   菜单样式改变！"
+

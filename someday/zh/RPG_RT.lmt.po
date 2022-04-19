@@ -1,0 +1,1153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "Room"
+msgstr "Room"
+
+#. ID 3
+msgid "Nexus"
+msgstr "Nexus"
+
+#. ID 4
+msgid "Lava"
+msgstr "Lava"
+
+#. ID 5
+msgid "8-bit"
+msgstr "8-bit"
+
+#. ID 6
+msgid "Data"
+msgstr "Data"
+
+#. ID 7
+msgid "Purple Polka-Dot"
+msgstr "Purple Polka-Dot"
+
+#. ID 8
+msgid "Alphanumeric"
+msgstr "Alphanumeric"
+
+#. ID 9
+msgid "Compootah Desktop"
+msgstr "Compootah Desktop"
+
+#. ID 10
+msgid "Dark"
+msgstr "Dark"
+
+#. ID 11
+msgid "Doodle"
+msgstr "Doodle"
+
+#. ID 12
+msgid "Mountain"
+msgstr "Mountain"
+
+#. ID 13
+msgid "SPACE"
+msgstr "SPACE"
+
+#. ID 14
+msgid "Grassland"
+msgstr "Grassland"
+
+#. ID 15
+msgid "School Entrance"
+msgstr "School Entrance"
+
+#. ID 16
+msgid "Haunted House"
+msgstr "Haunted House"
+
+#. ID 17
+msgid "Folder 1"
+msgstr "Folder 1"
+
+#. ID 18
+msgid "School Halls"
+msgstr "School Halls"
+
+#. ID 19
+#. ID 265
+msgid "Playground"
+msgstr "Playground"
+
+#. ID 20
+msgid "Folder 2"
+msgstr "Folder 2"
+
+#. ID 21
+msgid "Folder 3"
+msgstr "Folder 3"
+
+#. ID 22
+msgid "Folder 4"
+msgstr "Folder 4"
+
+#. ID 23
+msgid "Folder 5"
+msgstr "Folder 5"
+
+#. ID 24
+msgid "Folder 4.1"
+msgstr "Folder 4.1"
+
+#. ID 25
+msgid "Folder 4.2"
+msgstr "Folder 4.2"
+
+#. ID 26
+msgid "Window"
+msgstr "Window"
+
+#. ID 27
+msgid "Garden"
+msgstr "Garden"
+
+#. ID 28
+msgid "Haunted Hall"
+msgstr "Haunted Hall"
+
+#. ID 29
+#. ID 231
+msgid "Fake Room"
+msgstr "Fake Room"
+
+#. ID 30
+msgid "Internet"
+msgstr "Internet"
+
+#. ID 31
+msgid "Neon"
+msgstr "Neon"
+
+#. ID 32
+msgid "Tubes"
+msgstr "Tubes"
+
+#. ID 33
+msgid "Changing Room"
+msgstr "Changing Room"
+
+#. ID 34
+msgid "Changing Room2"
+msgstr "Changing Room2"
+
+#. ID 35
+msgid "Rusty Tubes"
+msgstr "Rusty Tubes"
+
+#. ID 36
+msgid "Ice Home"
+msgstr "Ice Home"
+
+#. ID 37
+msgid "Hexagon Realm"
+msgstr "Hexagon Realm"
+
+#. ID 38
+msgid "Forest"
+msgstr "Forest"
+
+#. ID 39
+msgid "Post-it"
+msgstr "Post-it"
+
+#. ID 40
+msgid "Tree Path"
+msgstr "Tree Path"
+
+#. ID 41
+msgid "Question"
+msgstr "Question"
+
+#. ID 42
+msgid "Decision Path"
+msgstr "Decision Path"
+
+#. ID 43
+msgid "Pink Maze"
+msgstr "Pink Maze"
+
+#. ID 44
+msgid "Rain"
+msgstr "Rain"
+
+#. ID 45
+msgid "INSTRUCTIONS (S)"
+msgstr "INSTRUCTIONS (S)"
+
+#. ID 46
+msgid "Clock Tower"
+msgstr "Clock Tower"
+
+#. ID 47
+msgid "Tower Entrance"
+msgstr "Tower Entrance"
+
+#. ID 48
+msgid "Folder 43"
+msgstr "Folder 43"
+
+#. ID 49
+msgid "Folder 62"
+msgstr "Folder 62"
+
+#. ID 50
+msgid "Folder 4096"
+msgstr "Folder 4096"
+
+#. ID 51
+msgid "Folder 5AÑ$"
+msgstr "Folder 5A�$"
+
+#. ID 52
+msgid "Folder ƒoƒO"
+msgstr "Folder 僶僌"
+
+#. ID 53
+msgid "<<õ|ï€Ä"
+msgstr "<<鮸飥�"
+
+#. ID 54
+msgid "Glitch World"
+msgstr "Glitch World"
+
+#. ID 55
+msgid "Neon Path"
+msgstr "Neon Path"
+
+#. ID 56
+msgid "Data 2"
+msgstr "Data 2"
+
+#. ID 57
+msgid "Ice"
+msgstr "Ice"
+
+#. ID 58
+msgid "Flip Swap Path"
+msgstr "Flip Swap Path"
+
+#. ID 59
+msgid "Rainbow"
+msgstr "Rainbow"
+
+#. ID 60
+msgid "Rainbow Path"
+msgstr "Rainbow Path"
+
+#. ID 61
+msgid "Tsukitsuki's Bedroom"
+msgstr "Tsukitsuki's Bedroom"
+
+#. ID 62
+msgid "Tsukitsuki's Balcony"
+msgstr "Tsukitsuki's Balcony"
+
+#. ID 63
+msgid "Folder 6"
+msgstr "Folder 6"
+
+#. ID 64
+msgid "Playground 2"
+msgstr "Playground 2"
+
+#. ID 65
+msgid "Bullying Ground"
+msgstr "Bullying Ground"
+
+#. ID 66
+msgid "Desert"
+msgstr "Desert"
+
+#. ID 67
+msgid "Beach"
+msgstr "Beach"
+
+#. ID 68
+msgid "Caves"
+msgstr "Caves"
+
+#. ID 69
+msgid "Caves Exit"
+msgstr "Caves Exit"
+
+#. ID 70
+msgid "Caves Entrance"
+msgstr "Caves Entrance"
+
+#. ID 71
+msgid "Rage Path"
+msgstr "Rage Path"
+
+#. ID 72
+msgid "Deserted School Halls"
+msgstr "Deserted School Halls"
+
+#. ID 73
+msgid "Other Bullying Ground"
+msgstr "Other Bullying Ground"
+
+#. ID 74
+msgid "Sewers"
+msgstr "Sewers"
+
+#. ID 75
+msgid "Sewers Exit"
+msgstr "Sewers Exit"
+
+#. ID 76
+msgid "Seabed"
+msgstr "Seabed"
+
+#. ID 77
+msgid "Tuna Path"
+msgstr "Tuna Path"
+
+#. ID 78
+msgid "Flying Tuna"
+msgstr "Flying Tuna"
+
+#. ID 79
+msgid "Shoreline"
+msgstr "Shoreline"
+
+#. ID 80
+msgid "Rain (Inescapable)"
+msgstr "Rain (Inescapable)"
+
+#. ID 81
+msgid "Testing Area Ent."
+msgstr "Testing Area Ent."
+
+#. ID 82
+msgid "Moon"
+msgstr "Moon"
+
+#. ID 83
+msgid "Test 1"
+msgstr "Test 1"
+
+#. ID 84
+msgid "Test 2"
+msgstr "Test 2"
+
+#. ID 85
+msgid "Test 3"
+msgstr "Test 3"
+
+#. ID 86
+msgid "Test 4"
+msgstr "Test 4"
+
+#. ID 87
+msgid "Test 5"
+msgstr "Test 5"
+
+#. ID 88
+msgid "Test 6"
+msgstr "Test 6"
+
+#. ID 89
+msgid "Test 7"
+msgstr "Test 7"
+
+#. ID 90
+msgid "Test 8"
+msgstr "Test 8"
+
+#. ID 91
+msgid "Test 9"
+msgstr "Test 9"
+
+#. ID 92
+msgid "Test 10"
+msgstr "Test 10"
+
+#. ID 93
+msgid "Test End 1"
+msgstr "Test End 1"
+
+#. ID 94
+msgid "deep"
+msgstr "deep"
+
+#. ID 95
+msgid "Fog 1"
+msgstr "Fog 1"
+
+#. ID 96
+msgid "Rusty Tubes End"
+msgstr "Rusty Tubes End"
+
+#. ID 97
+msgid "Fog 2"
+msgstr "Fog 2"
+
+#. ID 98
+msgid "Fog 3"
+msgstr "Fog 3"
+
+#. ID 99
+msgid "1st Floor"
+msgstr "1st Floor"
+
+#. ID 100
+msgid "Hospital Entrance"
+msgstr "Hospital Entrance"
+
+#. ID 101
+msgid "Room 101"
+msgstr "Room 101"
+
+#. ID 102
+msgid "Room 102"
+msgstr "Room 102"
+
+#. ID 103
+msgid "Room 103"
+msgstr "Room 103"
+
+#. ID 104
+msgid "2nd Floor"
+msgstr "2nd Floor"
+
+#. ID 105
+msgid "3rd Floor"
+msgstr "3rd Floor"
+
+#. ID 106
+msgid "4th Floor"
+msgstr "4th Floor"
+
+#. ID 107
+msgid "Room 105"
+msgstr "Room 105"
+
+#. ID 108
+msgid "Room 106"
+msgstr "Room 106"
+
+#. ID 109
+msgid "Room 109"
+msgstr "Room 109"
+
+#. ID 110
+msgid "Room 113"
+msgstr "Room 113"
+
+#. ID 111
+msgid "Room 116"
+msgstr "Room 116"
+
+#. ID 112
+msgid "Room 203"
+msgstr "Room 203"
+
+#. ID 113
+msgid "Room 205"
+msgstr "Room 205"
+
+#. ID 114
+msgid "Room 208"
+msgstr "Room 208"
+
+#. ID 115
+msgid "Room 210"
+msgstr "Room 210"
+
+#. ID 116
+msgid "Room 213"
+msgstr "Room 213"
+
+#. ID 117
+msgid "Room 214"
+msgstr "Room 214"
+
+#. ID 118
+msgid "Room 404"
+msgstr "Room 404"
+
+#. ID 119
+msgid "Room 402"
+msgstr "Room 402"
+
+#. ID 120
+msgid "Room 408"
+msgstr "Room 408"
+
+#. ID 121
+msgid "Room 301"
+msgstr "Room 301"
+
+#. ID 122
+msgid "Room 308"
+msgstr "Room 308"
+
+#. ID 123
+msgid "Room 302"
+msgstr "Room 302"
+
+#. ID 124
+msgid "Room 305"
+msgstr "Room 305"
+
+#. ID 125
+msgid "Room 407"
+msgstr "Room 407"
+
+#. ID 126
+msgid "Room 309"
+msgstr "Room 309"
+
+#. ID 127
+msgid "Room 311"
+msgstr "Room 311"
+
+#. ID 128
+msgid "Art Gallery"
+msgstr "Art Gallery"
+
+#. ID 129
+msgid "Room 314"
+msgstr "Room 314"
+
+#. ID 130
+msgid "Room 315"
+msgstr "Room 315"
+
+#. ID 131
+msgid "Room 413"
+msgstr "Room 413"
+
+#. ID 132
+msgid "Room 416"
+msgstr "Room 416"
+
+#. ID 133
+msgid "Blur Path"
+msgstr "Blur Path"
+
+#. ID 134
+msgid "Oblivion"
+msgstr "Oblivion"
+
+#. ID 135
+msgid "?"
+msgstr "?"
+
+#. ID 136
+msgid "White Canvas"
+msgstr "White Canvas"
+
+#. ID 137
+msgid "Wave Path"
+msgstr "Wave Path"
+
+#. ID 138
+msgid "No Rain"
+msgstr "No Rain"
+
+#. ID 139
+msgid "Debug Room"
+msgstr "Debug Room"
+
+#. ID 140
+msgid "Sewers Back"
+msgstr "Sewers Back"
+
+#. ID 141
+msgid "Shower"
+msgstr "Shower"
+
+#. ID 142
+msgid "Taps"
+msgstr "Taps"
+
+#. ID 143
+msgid "Deep Internet"
+msgstr "Deep Internet"
+
+#. ID 144
+msgid "det'ok"
+msgstr "det'ok"
+
+#. ID 145
+msgid "COMPUTER"
+msgstr "COMPUTER"
+
+#. ID 146
+msgid "."
+msgstr "."
+
+#. ID 147
+msgid "Test 11"
+msgstr "Test 11"
+
+#. ID 148
+msgid "Test 12"
+msgstr "Test 12"
+
+#. ID 149
+msgid "Test 13"
+msgstr "Test 13"
+
+#. ID 150
+msgid "Test 14"
+msgstr "Test 14"
+
+#. ID 151
+msgid "Test 15"
+msgstr "Test 15"
+
+#. ID 152
+msgid "Test 16"
+msgstr "Test 16"
+
+#. ID 153
+msgid "Test 16a"
+msgstr "Test 16a"
+
+#. ID 154
+msgid "Test 17"
+msgstr "Test 17"
+
+#. ID 155
+msgid "Test 18"
+msgstr "Test 18"
+
+#. ID 156
+msgid "Test 19"
+msgstr "Test 19"
+
+#. ID 157
+msgid "Room 401"
+msgstr "Room 401"
+
+#. ID 158
+msgid "Test 20"
+msgstr "Test 20"
+
+#. ID 159
+msgid "Test End 2"
+msgstr "Test End 2"
+
+#. ID 160
+msgid "Water Path"
+msgstr "Water Path"
+
+#. ID 161
+msgid "Letter Path"
+msgstr "Letter Path"
+
+#. ID 162
+msgid "Grid Path"
+msgstr "Grid Path"
+
+#. ID 163
+msgid "Pink Path"
+msgstr "Pink Path"
+
+#. ID 164
+msgid "Upper World"
+msgstr "Upper World"
+
+#. ID 165
+msgid "Static World"
+msgstr "Static World"
+
+#. ID 166
+msgid "Downer World"
+msgstr "Downer World"
+
+#. ID 167
+msgid "Dynamic World"
+msgstr "Dynamic World"
+
+#. ID 168
+msgid "Waiting Room"
+msgstr "Waiting Room"
+
+#. ID 169
+msgid "Solve The Puzzle 1"
+msgstr "Solve The Puzzle 1"
+
+#. ID 170
+msgid "hatuyume"
+msgstr "hatuyume"
+
+#. ID 171
+msgid "Solve The Puzzle 3"
+msgstr "Solve The Puzzle 3"
+
+#. ID 172
+msgid "Solve The Puzzle 2"
+msgstr "Solve The Puzzle 2"
+
+#. ID 173
+msgid "Solve The Puzzle 4"
+msgstr "Solve The Puzzle 4"
+
+#. ID 174
+msgid "Fuzzy House"
+msgstr "Fuzzy House"
+
+#. ID 175
+msgid "Folder 4.3"
+msgstr "Folder 4.3"
+
+#. ID 176
+msgid "Sewers Back 2"
+msgstr "Sewers Back 2"
+
+#. ID 177
+msgid "Sewers Back 3"
+msgstr "Sewers Back 3"
+
+#. ID 178
+msgid "Big City"
+msgstr "Big City"
+
+#. ID 179
+msgid "Other"
+msgstr "Other"
+
+#. ID 180
+msgid "Stairway"
+msgstr "Stairway"
+
+#. ID 181
+msgid "Station 1"
+msgstr "Station 1"
+
+#. ID 182
+msgid "Speedway"
+msgstr "Speedway"
+
+#. ID 183
+msgid "Station 2"
+msgstr "Station 2"
+
+#. ID 184
+msgid "Station 3"
+msgstr "Station 3"
+
+#. ID 185
+msgid "Station 4"
+msgstr "Station 4"
+
+#. ID 186
+msgid "Station 5"
+msgstr "Station 5"
+
+#. ID 187
+msgid "Station 6"
+msgstr "Station 6"
+
+#. ID 188
+msgid "Station 7"
+msgstr "Station 7"
+
+#. ID 189
+msgid "endleSSStation"
+msgstr "endleSSStation"
+
+#. ID 190
+msgid "endleSSStairway"
+msgstr "endleSSStairway"
+
+#. ID 191
+msgid "The Void"
+msgstr "The Void"
+
+#. ID 192
+msgid "Mall Entrance"
+msgstr "Mall Entrance"
+
+#. ID 193
+msgid "Mall"
+msgstr "Mall"
+
+#. ID 194
+#. ID 241
+msgid "Outside"
+msgstr "Outside"
+
+#. ID 195
+msgid "Level 2"
+msgstr "Level 2"
+
+#. ID 196
+msgid "ZApNeF"
+msgstr "ZApNeF"
+
+#. ID 197
+msgid "Select Level"
+msgstr "Select Level"
+
+#. ID 198
+msgid "Record"
+msgstr "Record"
+
+#. ID 199
+msgid "Level 1"
+msgstr "Level 1"
+
+#. ID 200
+msgid "Edible"
+msgstr "Edible"
+
+#. ID 201
+msgid "Circles"
+msgstr "Circles"
+
+#. ID 202
+msgid "A Snowy Day"
+msgstr "A Snowy Day"
+
+#. ID 203
+msgid "Home"
+msgstr "Home"
+
+#. ID 204
+msgid "Level 3"
+msgstr "Level 3"
+
+#. ID 205
+msgid "run"
+msgstr "run"
+
+#. ID 206
+msgid "Upper World (Inesc.)"
+msgstr "Upper World (Inesc.)"
+
+#. ID 207
+msgid "Lamppost"
+msgstr "Lamppost"
+
+#. ID 208
+msgid "Level"
+msgstr "Level"
+
+#. ID 209
+msgid "Nice Town"
+msgstr "Nice Town"
+
+#. ID 210
+msgid "Level 4"
+msgstr "Level 4"
+
+#. ID 211
+msgid "Nice Square"
+msgstr "Nice Square"
+
+#. ID 212
+msgid "High School Entrance"
+msgstr "High School Entrance"
+
+#. ID 213
+msgid "High School 1"
+msgstr "High School 1"
+
+#. ID 214
+msgid "High School 0"
+msgstr "High School 0"
+
+#. ID 215
+msgid "High School 2"
+msgstr "High School 2"
+
+#. ID 216
+msgid "Space View"
+msgstr "Space View"
+
+#. ID 217
+msgid "Space Flight"
+msgstr "Space Flight"
+
+#. ID 218
+msgid "High School 3"
+msgstr "High School 3"
+
+#. ID 219
+msgid "High School 4"
+msgstr "High School 4"
+
+#. ID 220
+msgid "Pajizo"
+msgstr "Pajizo"
+
+#. ID 221
+msgid "PARTAY"
+msgstr "PARTAY"
+
+#. ID 222
+msgid "Room 307"
+msgstr "Room 307"
+
+#. ID 223
+msgid "Level 5"
+msgstr "Level 5"
+
+#. ID 224
+msgid "Level 6"
+msgstr "Level 6"
+
+#. ID 225
+msgid "Ending 1"
+msgstr "Ending 1"
+
+#. ID 226
+msgid "Level 7"
+msgstr "Level 7"
+
+#. ID 227
+msgid "Empty Level"
+msgstr "Empty Level"
+
+#. ID 228
+msgid "Wobble"
+msgstr "Wobble"
+
+#. ID 229
+msgid "ENDGAME"
+msgstr "ENDGAME"
+
+#. ID 230
+msgid "Fake Menu"
+msgstr "Fake Menu"
+
+#. ID 232
+msgid "Glitch Nexus"
+msgstr "Glitch Nexus"
+
+#. ID 233
+msgid "Fake Room 2"
+msgstr "Fake Room 2"
+
+#. ID 234
+msgid "Fake Window"
+msgstr "Fake Window"
+
+#. ID 235
+msgid "Fake Window 2"
+msgstr "Fake Window 2"
+
+#. ID 236
+msgid "WHAT"
+msgstr "WHAT"
+
+#. ID 237
+msgid "Split"
+msgstr "Split"
+
+#. ID 238
+msgid "Exit 2"
+msgstr "Exit 2"
+
+#. ID 239
+msgid "Split 2"
+msgstr "Split 2"
+
+#. ID 240
+msgid "Bar"
+msgstr "Bar"
+
+#. ID 242
+msgid "Other Bar"
+msgstr "Other Bar"
+
+#. ID 243
+msgid "Exit"
+msgstr "Exit"
+
+#. ID 244
+msgid "Meta Nexus"
+msgstr "Meta Nexus"
+
+#. ID 245
+msgid "The Lake"
+msgstr "The Lake"
+
+#. ID 246
+msgid "Majestic"
+msgstr "Majestic"
+
+#. ID 247
+msgid "Level 8"
+msgstr "Level 8"
+
+#. ID 248
+msgid "Level 9"
+msgstr "Level 9"
+
+#. ID 249
+msgid "Kondo's Hall"
+msgstr "Kondo's Hall"
+
+#. ID 250
+msgid "Ending 2"
+msgstr "Ending 2"
+
+#. ID 251
+msgid "Kondo's Hall 2"
+msgstr "Kondo's Hall 2"
+
+#. ID 252
+msgid "Room (End)"
+msgstr "Room (End)"
+
+#. ID 253
+msgid "Window (End)"
+msgstr "Window (End)"
+
+#. ID 254
+msgid "Ending 3"
+msgstr "Ending 3"
+
+#. ID 255
+msgid "Menu Change"
+msgstr "Menu Change"
+
+#. ID 256
+msgid "Lava Path"
+msgstr "Lava Path"
+
+#. ID 257
+msgid "Pink Path 2"
+msgstr "Pink Path 2"
+
+#. ID 258
+msgid "Thread World"
+msgstr "Thread World"
+
+#. ID 259
+msgid "Red"
+msgstr "Red"
+
+#. ID 260
+msgid "Orange"
+msgstr "Orange"
+
+#. ID 261
+msgid "Shooting Star"
+msgstr "Shooting Star"
+
+#. ID 262
+msgid "Memory Graveyard"
+msgstr "Memory Graveyard"
+
+#. ID 263
+msgid "Purple"
+msgstr "Purple"
+
+#. ID 264
+msgid "Void"
+msgstr "Void"
+
+#. ID 266
+msgid "Turquoise"
+msgstr "Turquoise"
+
+#. ID 267
+msgid "Mountain B"
+msgstr "Mountain B"
+
+#. ID 268
+msgid "Ice B"
+msgstr "Ice B"
+
+#. ID 269
+msgid "Not Fuzzy House"
+msgstr "Not Fuzzy House"
+
+#. ID 270
+msgid "Forest B"
+msgstr "Forest B"
+
+#. ID 271
+msgid "Desert B"
+msgstr "Desert B"
+
+#. ID 272
+msgid "Art Gallery (Dark)"
+msgstr "Art Gallery (Dark)"
+
+#. ID 273
+msgid "..."
+msgstr "..."
+
+#. ID 274
+msgid "Overgrown Caves"
+msgstr "Overgrown Caves"
+
+#. ID 275
+msgid "Overgrown Path"
+msgstr "Overgrown Path"
+
+#. ID 276
+msgid "Green"
+msgstr "Green"
+
+#. ID 277
+msgid "walk"
+msgstr "walk"
+
+#. ID 278
+msgid "walk2"
+msgstr "walk2"
+
+#. ID 279
+msgid "not"
+msgstr "not"
+
+#. ID 280
+msgid "Space Party!"
+msgstr "Space Party!"
+
+#. ID 281
+msgid "Yellow"
+msgstr "Yellow"
+
+#. ID 282
+msgid "Ship Wing"
+msgstr "Ship Wing"
+
+#. ID 283
+msgid "Dance Flood"
+msgstr "Dance Flood"
+
+#. ID 284
+msgid "Dance Entrance"
+msgstr "Dance Entrance"
+
+#. ID 285
+msgid "The Wetness Switch"
+msgstr "The Wetness Switch"
+
+#. ID 286
+msgid "Blue"
+msgstr "Blue"
+
+#. ID 287
+msgid "Cliff (Bad)"
+msgstr "Cliff (Bad)"
+
+#. ID 288
+msgid "Cliff (Good)"
+msgstr "Cliff (Good)"
+
+#. ID 289
+msgid "Relaxing Room"
+msgstr "Relaxing Room"
+

@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 2, Line 4, Pos (13,12)
+msgid "                   Snow Woman"
+msgstr "                 Снежная Королева"
+
+#. ID 15, Page 2, Line 4, Pos (16,10)
+msgid "                      Frog"
+msgstr "                     Лягушка"
+
+#. ID 16, Page 2, Line 4, Pos (14,15)
+msgid "                     Umbrella"
+msgstr "                     Зонтик"
+
+#. ID 17, Page 2, Line 4, Pos (14,11)
+msgid "                    Hat & Scarf"
+msgstr "                  Шапка и Шарф"
+
+#. ID 18, Page 2, Line 5, Pos (12,14)
+msgid "                    Eye Palm"
+msgstr "                      Хамса"
+
+#. ID 19, Page 2, Line 5, Pos (12,16)
+msgid "                     Get fat"
+msgstr "                   Откормленная"
+
+#. ID 20, Page 2, Line 4, Pos (13,18)
+msgid "                      Midget"
+msgstr "                     Лилипут"
+
+#. ID 21, Page 2, Line 4, Pos (14,19)
+msgid "                     Whistle"
+msgstr "                      Флейта"
+
+#. ID 22, Page 2, Line 4, Pos (15,17)
+msgid "                       Neon"
+msgstr "                       Неон"
+
+#. ID 23, Page 2, Line 4, Pos (16,20)
+msgid "                 Faceless Ghost"
+msgstr "                 Безликий Призрак"
+
+#. ID 24, Page 2, Line 4, Pos (18,20)
+msgid "                    Talking Head"
+msgstr "                Отрубленная Голова"
+
+#. ID 25, Page 2, Line 4, Pos (19,13)
+msgid "                     Poo Hair"
+msgstr "                     Дерьмосы"
+
+#. ID 26, Page 2, Line 4, Pos (20,15)
+msgid "                   Kitchen Knife"
+msgstr "                   Кухонный Нож"
+
+#. ID 27, Page 2, Line 4, Pos (20,19)
+msgid "                  Spirit Headband"
+msgstr "                Треугольная Повязка"
+
+#. ID 28, Page 2, Line 4, Pos (21,18)
+msgid "                      Towel"
+msgstr "                    Полотенце"
+
+#. ID 29, Page 2, Line 4, Pos (22,16)
+msgid "                         Cat"
+msgstr "                      Кошка"
+
+#. ID 30, Page 2, Line 4, Pos (22,14)
+msgid "                       Lamp"
+msgstr "                      Лампа"
+
+#. ID 31, Page 2, Line 4, Pos (20,11)
+msgid "                    Long Hair"
+msgstr "                  Длинные Волосы"
+
+#. ID 32, Page 2, Line 4, Pos (21,12)
+msgid "                     Bicycle "
+msgstr "                    Велосипед"
+
+#. ID 33, Page 2, Line 4, Pos (18,10)
+msgid "                     Blonde"
+msgstr "                    Блондинка"
+
+#. ID 34, Page 2, Line 4, Pos (15,13)
+msgid "                      Witch"
+msgstr "                      Ведьма"
+
+#. ID 35, Page 2, Line 4, Pos (17,12)
+msgid "                      Devil"
+msgstr "                    Демон Они"
+
+#. ID 36, Page 2, Line 4, Pos (17,18)
+msgid "                    Squish-Squish"
+msgstr "                    Хлюп-Хлюп"
+
+#. ID 37, Page 2, Line 4, Pos (19,17)
+msgid "                   Traffic Light"
+msgstr "                    Светофор"
+
