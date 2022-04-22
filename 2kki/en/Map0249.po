@@ -16,18 +16,22 @@ msgid ""
 "　　　　　　　　　せつめい\n"
 "　　　　　　　 ゲームをおわる"
 msgstr ""
+"　　　　　　　　    Start\n"
+"　　  　　　　  　  Load\n"
+"　　　　　　　 　Description\n"
+"　　　　　  　     Finish"
 
 #. ID 1, Page 1, Line 7, Pos (2,1)
 msgid "　　　　　　　データが初期化されました"
-msgstr ""
+msgstr "　　　　　　　  Data initialized"
 
 #. ID 1, Page 1, Line 63, Pos (2,1)
 msgid "セーブデータがありません"
-msgstr ""
+msgstr "Save data does not exist"
 
 #. ID 1, Page 1, Line 68, Pos (2,1)
 msgid "迷路の中に落ちている5種類+αの氷を集めるゲームです。"
-msgstr ""
+msgstr "It is a game to collect 5 kinds of +α ice in a maze."
 
 #. ID 1, Page 1, Line 69, Pos (2,1)
 msgid ""
@@ -36,12 +40,18 @@ msgid ""
 "セーブ：現在地を記録します\n"
 "おわる：ここに戻ります"
 msgstr ""
+"Item: Check the ice that you collected\n"
+"Return: Return to initial position\n"
+"Save: Save your current location\n"
+"Quit: Back to Title Screen"
 
 #. ID 1, Page 1, Line 73, Pos (2,1)
 msgid ""
 "一度クリアする、最初からプレイすると\n"
 "位置情報、取得した氷のデータが初期化されます。"
 msgstr ""
+"After you clear, play from the beginning\n"
+"will initialize save location and ice data."
 
 #. ID 1, Page 1, Line 75, Pos (2,1)
 msgid ""
@@ -49,6 +59,9 @@ msgid ""
 "「つづきから」を選択した場合、\n"
 "セーブした場所からスタートします。"
 msgstr ""
+"Also, this in-game save is a simple save.\n"
+"If you selected「Load」,\n"
+"Start from the saved location."
 
 #. ID 1, Page 1, Line 79, Pos (2,1)
 msgid ""
@@ -56,6 +69,9 @@ msgid ""
 "氷を一気に取得できるキャラクターが\n"
 "どこかに出現しました。"
 msgstr ""
+"★Clear Reward★\n"
+"NPC that give all the ice at once\n"
+"appears in certain places."
 
 #. ID 1, Page 1, Line 85, Pos (2,1)
 msgid ""
@@ -63,6 +79,9 @@ msgid ""
 "デバッグモードでシフトを押すと\n"
 "うろつきの等速になります。"
 msgstr ""
+"If you keep loading saves, it makes you fast.\n"
+"Press the shift key in debug mode,\n"
+"It makes usual speed of Urotsuki."
 
 #. ID 1, Page 1, Line 88, Pos (2,1)
 msgid ""
@@ -70,4 +89,6 @@ msgid ""
 "その辺ふよふよしてるのを30個集めたらBADです。\n"
 "99個以上取ると多分表示がバグります。"
 msgstr ""
-
+"Bifurcation of Good/Bad ending is powder ice.\n"
+"If you collect 30, it's Bad.\n"
+"If you collect more than 99, will get a bug."
