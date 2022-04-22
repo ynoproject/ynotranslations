@@ -50,8 +50,8 @@ msgid ""
 "一度クリアする、最初からプレイすると\n"
 "位置情報、取得した氷のデータが初期化されます。"
 msgstr ""
-"After you clear, play from the beginning\n"
-"will initialize save location and ice data."
+"if you clear the game and restart again,\n"
+"it will initialize save location and ice data"
 
 #. ID 1, Page 1, Line 75, Pos (2,1)
 msgid ""
