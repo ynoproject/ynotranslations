@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 7, Pos (6,27)
+msgid "                      Scooter"
+msgstr "                      滑板车"
+
+#. ID 3, Page 2, Line 7, Pos (7,25)
+msgid "                      Doodle"
+msgstr "                       涂鸦"
+
+#. ID 4, Page 2, Line 7, Pos (9,24)
+msgid "                       Sick"
+msgstr "                       生病"
+
+#. ID 5, Page 2, Line 8, Pos (11,25)
+msgid "                      Glitch"
+msgstr "                       故障"
+
+#. ID 6, Page 2, Line 7, Pos (12,27)
+msgid "                      8-bit"
+msgstr "                      8-比特"
+
+#. ID 7, Page 2, Line 7, Pos (11,29)
+msgid "                       Nerd"
+msgstr "                      书呆子"
+
+#. ID 8, Page 2, Line 7, Pos (9,30)
+msgid "                    Monochrome"
+msgstr "                       黑白"
+
+#. ID 9, Page 2, Line 7, Pos (7,29)
+msgid "                       Bald"
+msgstr "                       光头"
+
+#. ID 10, Page 2, Line 7, Pos (9,22)
+msgid "                    Megaphone"
+msgstr "                     麦克风"
+
+#. ID 11, Page 2, Line 7, Pos (11,22)
+msgid "                       Blob"
+msgstr "                       一滴"
+
+#. ID 12, Page 2, Line 7, Pos (13,23)
+msgid "                      Wrench"
+msgstr "                       扳手"
+
+#. ID 13, Page 2, Line 7, Pos (14,25)
+msgid "                     Raincoat"
+msgstr "                      雨衣"
+
+#. ID 14, Page 2, Line 7, Pos (14,27)
+msgid "                       Scarf"
+msgstr "                       围巾"
+
+#. ID 15, Page 2, Line 7, Pos (14,29)
+msgid "                      Classic"
+msgstr "                       经典"
+
+#. ID 16, Page 2, Line 7, Pos (13,31)
+msgid "                        TV"
+msgstr "                      电视机"
+
+#. ID 17, Page 2, Line 7, Pos (11,32)
+msgid "                        Fox"
+msgstr "                        狐狸"
+
+#. ID 18, Page 2, Line 7, Pos (9,32)
+msgid "                   Candle holder"
+msgstr "                       蜡烛台"
+
+#. ID 19, Page 2, Line 7, Pos (7,32)
+msgid "                    Clockworker"
+msgstr "                      钟表匠"
+
+#. ID 20, Page 2, Line 7, Pos (5,31)
+msgid "                    Diving suit"
+msgstr "                      潜水服"
+
+#. ID 21, Page 2, Line 7, Pos (4,29)
+msgid "                      Mercury"
+msgstr "                       水银"
+
+#. ID 22, Page 2, Line 7, Pos (4,27)
+msgid "                   Healing aura"
+msgstr "                     治愈光芒"
+
+#. ID 23, Page 2, Line 7, Pos (4,25)
+msgid "                       Wood"
+msgstr "                       木头"
+
+#. ID 24, Page 2, Line 7, Pos (5,23)
+msgid "                      Tomato"
+msgstr "                      西红柿"
+
+#. ID 25, Page 2, Line 7, Pos (7,22)
+msgid "                     Lab coat"
+msgstr "                      实验服"
+

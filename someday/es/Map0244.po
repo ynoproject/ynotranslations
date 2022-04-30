@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 2, Line 7, Pos (6,27)
+msgid "                      Scooter"
+msgstr "                     Patinete"
+
+#. ID 3, Page 2, Line 7, Pos (7,25)
+msgid "                      Doodle"
+msgstr "                     Garabato"
+
+#. ID 4, Page 2, Line 7, Pos (9,24)
+msgid "                       Sick"
+msgstr "                      Enfermo"
+
+#. ID 5, Page 2, Line 8, Pos (11,25)
+msgid "                      Glitch"
+msgstr "                      Glitch"
+
+#. ID 6, Page 2, Line 7, Pos (12,27)
+msgid "                      8-bit"
+msgstr "                      8-bit"
+
+#. ID 7, Page 2, Line 7, Pos (11,29)
+msgid "                       Nerd"
+msgstr "                       Nerd"
+
+#. ID 8, Page 2, Line 7, Pos (9,30)
+msgid "                    Monochrome"
+msgstr "                     Monocromo"
+
+#. ID 9, Page 2, Line 7, Pos (7,29)
+msgid "                       Bald"
+msgstr "                       Calvo"
+
+#. ID 10, Page 2, Line 7, Pos (9,22)
+msgid "                    Megaphone"
+msgstr "                     Megafono"
+
+#. ID 11, Page 2, Line 7, Pos (11,22)
+msgid "                       Blob"
+msgstr "                     Gelatina"
+
+#. ID 12, Page 2, Line 7, Pos (13,23)
+msgid "                      Wrench"
+msgstr "                   Llave inglesa"
+
+#. ID 13, Page 2, Line 7, Pos (14,25)
+msgid "                     Raincoat"
+msgstr "                    Impermeable"
+
+#. ID 14, Page 2, Line 7, Pos (14,27)
+msgid "                       Scarf"
+msgstr "                      Bufanda"
+
+#. ID 15, Page 2, Line 7, Pos (14,29)
+msgid "                      Classic"
+msgstr "                      Clasico"
+
+#. ID 16, Page 2, Line 7, Pos (13,31)
+msgid "                        TV"
+msgstr "                     Televisor"
+
+#. ID 17, Page 2, Line 7, Pos (11,32)
+msgid "                        Fox"
+msgstr "                       Zorro"
+
+#. ID 18, Page 2, Line 7, Pos (9,32)
+msgid "                   Candle holder"
+msgstr "                    Sujetavelas"
+
+#. ID 19, Page 2, Line 7, Pos (7,32)
+msgid "                    Clockworker"
+msgstr "                     Relojero"
+
+#. ID 20, Page 2, Line 7, Pos (5,31)
+msgid "                    Diving suit"
+msgstr "                  Traje de buceo"
+
+#. ID 21, Page 2, Line 7, Pos (4,29)
+msgid "                      Mercury"
+msgstr "                     Mercurio"
+
+#. ID 22, Page 2, Line 7, Pos (4,27)
+msgid "                   Healing aura"
+msgstr "                   Aura curativa"
+
+#. ID 23, Page 2, Line 7, Pos (4,25)
+msgid "                       Wood"
+msgstr "                      Madera"
+
+#. ID 24, Page 2, Line 7, Pos (5,23)
+msgid "                      Tomato"
+msgstr "                      Tomate"
+
+#. ID 25, Page 2, Line 7, Pos (7,22)
+msgid "                     Lab coat"
+msgstr "               Bata de laboratorio"
+

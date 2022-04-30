@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 41, Page 1, Line 8, Pos (134,63)
+#. ID 41, Page 2, Line 8, Pos (134,63)
+#. ID 42, Page 1, Line 7, Pos (84,35)
+#. ID 42, Page 2, Line 7, Pos (84,35)
+#. ID 43, Page 1, Line 8, Pos (13,87)
+#. ID 43, Page 2, Line 8, Pos (13,87)
+#. ID 44, Page 1, Line 8, Pos (110,116)
+#. ID 44, Page 2, Line 8, Pos (110,116)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 174, Page 1, Line 4, Pos (144,17)
+#. ID 175, Page 1, Line 4, Pos (145,17)
+msgid ""
+"                     \n"
+"\n"
+"                       Gossip"
+msgstr ""
+"                     \n"
+"\n"
+"                       Commère"
+

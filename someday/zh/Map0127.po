@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (51,98)
+msgid "DFVJD WF FDG T KAIQWNTP SFNUE"
+msgstr "DFVJD WF FDG T KAIQWNTP SFNUE"
+
+#. ID 3, Page 1, Line 5, Pos (47,84)
+msgid "opn."
+msgstr "opn."
+
+#. ID 4, Page 1, Line 5, Pos (51,84)
+msgid "pRASZNE yQELy"
+msgstr "pRASZNE yQELy"
+
+#. ID 5, Page 1, Line 5, Pos (55,84)
+msgid "znul de apiwogn"
+msgstr "znul de apiwogn"
+
+#. ID 6, Page 1, Line 5, Pos (59,84)
+msgid "Dskametga"
+msgstr "Dskametga"
+
+#. ID 7, Page 1, Line 5, Pos (36,67)
+msgid "Tebalyne Axcerhnep"
+msgstr "Tebalyne Axcerhnep"
+
+#. ID 8, Page 1, Line 5, Pos (41,67)
+msgid "Osiibtyirf guartnol"
+msgstr "Osiibtyirf guartnol"
+
+#. ID 9, Page 1, Line 5, Pos (36,98)
+msgid "amhan dseqle feSn"
+msgstr "amhan dseqle feSn"
+
+#. ID 10, Page 1, Line 5, Pos (32,98)
+msgid "Ipta Ouy Seban"
+msgstr "Ipta Ouy Seban"
+
+#. ID 11, Page 1, Line 5, Pos (55,49)
+#. ID 12, Page 2, Line 5, Pos (86,49)
+msgid "SbvQa RejffthWI BVme7"
+msgstr "SbvQa RejffthWI BVme7"
+
+#. ID 35, Page 1, Line 5, Pos (24,35)
+msgid "UbshbD qiuUEPcU"
+msgstr "UbshbD qiuUEPcU"
+
+#. ID 36, Page 1, Line 5, Pos (28,35)
+msgid "RCrc"
+msgstr "RCrc"
+
+#. ID 46, Page 1, Line 4, Pos (29,73)
+msgid "eul nabmwek"
+msgstr "eul nabmwek"
+
+#. ID 47, Page 1, Line 4, Pos (48,55)
+msgid "TRole sWQepI"
+msgstr "TRole sWQepI"
+
+#. ID 52, Page 1, Line 4, Pos (26,85)
+msgid "????"
+msgstr "????"
+
+#. ID 62, Page 1, Line 4, Pos (52,27)
+msgid "fEOcom DFjier"
+msgstr "fEOcom DFjier"
+
+#. ID 68, Page 1, Line 4, Pos (52,23)
+msgid "oKAra faNsWElgeITop"
+msgstr "oKAra faNsWElgeITop"
+
+#. ID 69, Page 1, Line 4, Pos (62,27)
+msgid "tuJlyec dpa'now noQs"
+msgstr "tuJlyec dpa'now noQs"
+
+#. ID 80, Page 1, Line 4, Pos (62,23)
+msgid "jynweyTha"
+msgstr "jynweyTha"
+
+#. ID 81, Page 1, Line 5, Pos (37,84)
+msgid "skanzh"
+msgstr "skanzh"
+
+#. ID 82, Page 1, Line 5, Pos (42,49)
+msgid "elhhh djiodf dVBa"
+msgstr "elhhh djiodf dVBa"
+
+#. ID 87, Page 1, Line 4, Pos (29,55)
+msgid "97 OGGOWUP"
+msgstr "97 OGGOWUP"
+
+#. ID 88, Page 1, Line 5, Pos (33,84)
+msgid "jjjjjjjjnnnnnnnneeeeeeeeeeeeooooooo"
+msgstr "jjjjjjjjnnnnnnnneeeeeeeeeeeeooooooo"
+
+#. ID 99, Page 1, Line 5, Pos (35,49)
+msgid "720F7U1F7J8"
+msgstr "720F7U1F7J8"
+
+#. ID 99, Page 2, Line 3, Pos (35,49)
+msgid "999A9A9A9A9"
+msgstr "999A9A9A9A9"
+
+#. ID 100, Page 1, Line 4, Pos (41,88)
+msgid "unmnyn IPal"
+msgstr "unmnyn IPal"
+

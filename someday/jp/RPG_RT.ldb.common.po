@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Line 23
+#. ChangeHeroName (Actor 1)
+#. ID 19, Line 29
+#. ChangeHeroName (Actor 1)
+#. ID 47, Line 18
+#. ChangeHeroName (Actor 1)
+#. ID 79, Line 33
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr ""
+
+#. ID 31, Line 15
+#. ID 32, Line 16
+#. ID 32, Line 32
+#. ID 32, Line 48
+#. ID 32, Line 63
+#. ID 33, Line 16
+#. ID 33, Line 32
+#. ID 33, Line 48
+#. ID 33, Line 63
+#. ID 34, Line 16
+#. ID 34, Line 32
+#. ID 34, Line 47
+#. ID 48, Line 16
+#. ID 48, Line 31
+#. ID 49, Line 19
+msgid "                Menu scheme changed!"
+msgstr ""
+
+#. ID 60, Line 159
+#, fuzzy
+msgid ""
+"Congratulations!\n"
+"You completed the entire game at 100%!"
+msgstr ""
+"おめでとうございます！\n"
+"100パーセントクリアしました!"
+
+#. ID 60, Line 161
+#, fuzzy
+msgid ""
+"But did you know...\n"
+"\\....that interacting with the four-leaf clover\n"
+"at the forest enables the Lucky Mode?"
+msgstr ""
+"しかし…知っているの？\n"
+"\\.森で四つ葉のクローバーに触ると、\n"
+"ラッキーモードを有効にします！"
+
+#. ID 60, Line 164
+#, fuzzy
+msgid ""
+"In Lucky Mode, random events appear more often!\n"
+"\\|Ssssh... \\.don't tell anyone..."
+msgstr ""
+"ラッキーモードでは、ランダムな確率イベントが\n"
+"より頻繁に発生します！\n"
+"\\|シーッ… \\.誰にも言わないで…"
+

@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "ƒeƒXƒgƒ}ƒbƒv1"
+msgstr "テストマップ1"
+
+#. ID 3
+msgid "ƒQ[ƒ€ƒXƒ^[ƒg"
+msgstr "ゲームスタート"
+
+#. ID 4
+msgid "Œ»ŽÀ‚Ì•”‰®"
+msgstr "現実の部屋"
+
+#. ID 5
+msgid "00000016"
+msgstr "ベランダ"
+
+#. ID 6
+msgid "–²‚Ì•”‰®"
+msgstr "夢の部屋"
+
+#. ID 7
+msgid "–²ƒxƒ‰ƒ“ƒ_A"
+msgstr "夢ベランダA"
+
+#. ID 8
+msgid "–²ƒxƒ‰ƒ“ƒ_B"
+msgstr "夢ベランダB"
+
+#. ID 9
+msgid "”à•”‰®"
+msgstr "扉部屋"
+
+#. ID 10
+msgid "¡01‚©‚¦‚é"
+msgstr "■01かえる"
+
+#. ID 11
+msgid "¡02–XŽqƒ}ƒt"
+msgstr "■02帽子マフ"
+
+#. ID 12
+msgid "¡03‚©‚³"
+msgstr "■03かさ"
+
+#. ID 13
+msgid "¡04•ï’š"
+msgstr "■04包丁"
+
+#. ID 14
+msgid "¡05á—"
+msgstr "■05雪女"
+
+#. ID 15
+msgid "¡06”¯Œ^"
+msgstr "■06髪型"
+
+#. ID 16
+msgid "¡07Ž©“]ŽÔ"
+msgstr "■07自転車"
+
+#. ID 17
+msgid "¡08–Ú‹Ê˜r"
+msgstr "■08目玉腕"
+
+#. ID 18
+msgid "¡09¬l"
+msgstr "■09小人"
+
+#. ID 19
+msgid "¡10”LŽ¨"
+msgstr "■10猫耳"
+
+#. ID 20
+msgid "¡11ƒlƒIƒ“"
+msgstr "■11ネオン"
+
+#. ID 21
+msgid "¡12“d“•"
+msgstr "■12電燈"
+
+#. ID 22
+msgid "‚©‚Ü‚­‚ç‚P"
+msgstr "かまくら１"
+
+#. ID 23
+msgid "‚©‚Ü‚­‚ç‚Q"
+msgstr "かまくら２"
+
+#. ID 24
+msgid "‚©‚Ü‚­‚ç‚R"
+msgstr "かまくら３"
+
+#. ID 25
+msgid "‚©‚Ü‚­‚ç‚S"
+msgstr "かまくら４"
+
+#. ID 26
+msgid "‚©‚Ü‚­‚ç‚T"
+msgstr "かまくら５"
+
+#. ID 27
+msgid "‚©‚Ü‚­‚ç‚U"
+msgstr "かまくら６"
+
+#. ID 28
+msgid "‚©‚Ü‚­‚ç‚V"
+msgstr "かまくら７"
+
+#. ID 29
+msgid "“d“•¬•”‰®‚P"
+msgstr "電燈小部屋１"
+
+#. ID 30
+msgid "“d“•¬•”‰®‚Q"
+msgstr "電燈小部屋２"
+
+#. ID 31
+msgid "“d“•¬•”‰®‚R"
+msgstr "電燈小部屋３"
+
+#. ID 32
+msgid "“d“•¬•”‰®‚S"
+msgstr "電燈小部屋４"
+
+#. ID 33
+msgid "“d“•¬•”‰®‚T"
+msgstr "電燈小部屋５"
+
+#. ID 34
+msgid "‰f‘œ"
+msgstr "映像"
+
+#. ID 35
+msgid "Ž‡‚`"
+msgstr "紫Ａ"
+
+#. ID 36
+msgid "Ž‡‚a"
+msgstr "紫Ｂ"
+
+#. ID 37
+msgid "ƒlƒIƒ“ƒ^ƒCƒ‹‚`"
+msgstr "ネオンタイルＡ"
+
+#. ID 38
+msgid "ƒlƒIƒ“ƒ^ƒCƒ‹‚a"
+msgstr "ネオンタイルＢ"
+
+#. ID 39
+msgid "ƒ`ƒFƒbƒN‚`"
+msgstr "チェックＡ"
+
+#. ID 40
+msgid "ƒ`ƒFƒbƒN‚a"
+msgstr "チェックＢ"
+
+#. ID 41
+msgid "‚Æ‚°"
+msgstr "とげ"
+
+#. ID 42
+msgid "“¹˜H"
+msgstr "道路"
+
+#. ID 43
+msgid "“¹˜H‚`"
+msgstr "道路Ａ"
+
+#. ID 44
+msgid "“¹˜H‚a"
+msgstr "道路Ｂ"
+
+#. ID 45
+msgid "“¹˜H‚b"
+msgstr "道路Ｃ"
+
+#. ID 46
+msgid "“¹˜H‚c"
+msgstr "道路Ｄ"
+
+#. ID 47
+msgid "Ô‚`"
+msgstr "赤Ａ"
+
+#. ID 48
+msgid "‘«‚ ‚Æ‚`"
+msgstr "足あとＡ"
+
+#. ID 49
+msgid "‘«‚ ‚Æ‚a"
+msgstr "足あとＢ"
+
+#. ID 50
+msgid "28"
+msgstr "砂"
+
+#. ID 51
+msgid "»‚`"
+msgstr "砂Ａ"
+
+#. ID 52
+msgid "»‚a"
+msgstr "砂Ｂ"
+
+#. ID 53
+msgid "»‚b"
+msgstr "砂Ｃ"
+
+#. ID 54
+msgid "»‚c"
+msgstr "砂Ｄ"
+
+#. ID 55
+msgid "»‚d"
+msgstr "砂Ｅ"
+
+#. ID 56
+msgid "»‚e"
+msgstr "砂Ｆ"
+
+#. ID 57
+msgid "»‚f"
+msgstr "砂Ｇ"
+
+#. ID 58
+msgid "»‚g"
+msgstr "砂Ｈ"
+
+#. ID 59
+msgid "»‚h"
+msgstr "砂Ｉ"
+
+#. ID 60
+msgid "»‚i"
+msgstr "砂Ｊ"
+
+#. ID 61
+msgid "»‚j"
+msgstr "砂Ｋ"
+
+#. ID 62
+msgid "»‚k"
+msgstr "砂Ｌ"
+
+#. ID 63
+msgid "»‚l"
+msgstr "砂Ｍ"
+
+#. ID 64
+msgid "»ŠK’i"
+msgstr "砂階段"
+
+#. ID 65
+msgid "¬‰®‚Ì’†‚`"
+msgstr "小屋の中Ａ"
+
+#. ID 66
+msgid "39"
+msgstr "土"
+
+#. ID 67
+msgid "Ô‚a"
+msgstr "赤Ｂ"
+
+#. ID 68
+msgid "“y‚`"
+msgstr "土Ａ"
+
+#. ID 69
+msgid "“y‚a"
+msgstr "土Ｂ"
+
+#. ID 70
+msgid "‚Ç‚Ô_001"
+msgstr "どぶ_001"
+
+#. ID 71
+msgid "‚Ç‚Ô_002"
+msgstr "どぶ_002"
+
+#. ID 72
+msgid "‚Ç‚Ô_003"
+msgstr "どぶ_003"
+
+#. ID 73
+msgid "‚Ç‚Ô_004"
+msgstr "どぶ_004"
+
+#. ID 74
+msgid "‚Ç‚Ô_005"
+msgstr "どぶ_005"
+
+#. ID 75
+msgid "‚Ç‚Ô_006"
+msgstr "どぶ_006"
+
+#. ID 76
+msgid "ƒfƒp[ƒg‚`"
+msgstr "デパートＡ"
+
+#. ID 77
+msgid "ƒfƒp[ƒg‚a"
+msgstr "デパートＢ"
+
+#. ID 78
+msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚`"
+msgstr "エントランスＡ"
+
+#. ID 79
+msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚a"
+msgstr "エントランスＢ"
+
+#. ID 80
+msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚b"
+msgstr "エントランスＣ"
+
+#. ID 81
+msgid "Ô‚¢•”‰®"
+msgstr "赤い部屋"
+
+#. ID 82
+msgid "ƒfƒp[ƒg‚b"
+msgstr "デパートＣ"
+
+#. ID 83
+msgid "000029"
+msgstr "座敷洞"
+
+#. ID 84
+msgid "Ž÷ŠC‚P"
+msgstr "樹海１"
+
+#. ID 85
+msgid "ƒTƒuƒ}ƒbƒv"
+msgstr "サブマップ"
+
+#. ID 86
+msgid "Ž÷ŠC‚Q"
+msgstr "樹海２"
+
+#. ID 87
+msgid "Ž÷ŠC“dŽÔ‚`"
+msgstr "樹海電車Ａ"
+
+#. ID 88
+msgid "“dŽÔŽÔ“à"
+msgstr "電車車内"
+
+#. ID 89
+msgid "Ž÷ŠC“dŽÔ‚a"
+msgstr "樹海電車Ｂ"
+
+#. ID 90
+msgid "Ž÷ŠC‚R"
+msgstr "樹海３"
+
+#. ID 91
+msgid "Ž÷ŠC‚S"
+msgstr "樹海４"
+
+#. ID 92
+msgid "50"
+msgstr "橋"
+
+#. ID 93
+msgid "ŠÝ"
+msgstr "岸"
+
+#. ID 94
+msgid "ƒ‚ƒm"
+msgstr "モノ"
+
+#. ID 95
+msgid "ƒ‚ƒm001"
+msgstr "モノ001"
+
+#. ID 96
+msgid "ƒ‚ƒm002"
+msgstr "モノ002"
+
+#. ID 97
+msgid "ƒ‚ƒm003"
+msgstr "モノ003"
+
+#. ID 98
+msgid "ƒ‚ƒm004"
+msgstr "モノ004"
+
+#. ID 99
+msgid "ƒ‚ƒm005"
+msgstr "モノ005"
+
+#. ID 100
+msgid "ƒ‚ƒm006"
+msgstr "モノ006"
+
+#. ID 101
+msgid "ƒ‚ƒm007"
+msgstr "モノ007"
+
+#. ID 102
+msgid "ƒ‚ƒm008"
+msgstr "モノ008"
+
+#. ID 103
+msgid "ƒ‚ƒm009"
+msgstr "モノ009"
+
+#. ID 104
+msgid "ƒ‚ƒm010"
+msgstr "モノ010"
+
+#. ID 105
+msgid "ƒ‚ƒm011"
+msgstr "モノ011"
+
+#. ID 106
+msgid "ƒ‚ƒm012"
+msgstr "モノ012"
+
+#. ID 107
+msgid "ƒ‚ƒm013"
+msgstr "モノ013"
+
+#. ID 108
+msgid "0034"
+msgstr "浅瀬"
+
+#. ID 109
+msgid "ó£‚Ì‰Æ"
+msgstr "浅瀬の家"
+
+#. ID 110
+msgid "0025"
+msgstr "兄弟"
+
+#. ID 111
+msgid "000026"
+msgstr "湖回廊"
+
+#. ID 112
+msgid "0027"
+msgstr "公園"
+
+#. ID 113
+msgid "Œö‰€ŠR"
+msgstr "公園崖"
+
+#. ID 114
+msgid "•»"
+msgstr "塀"
+
+#. ID 115
+msgid "ƒŒƒ“ƒK‚Ì’†‚`"
+msgstr "レンガの中Ａ"
+
+#. ID 116
+msgid "ƒŒƒ“ƒK‚Ì’†‚a"
+msgstr "レンガの中Ｂ"
+
+#. ID 117
+msgid "ƒŒƒ“ƒK‚Ì’†‚b"
+msgstr "レンガの中Ｃ"
+
+#. ID 118
+msgid "‚e‚b“ü‚èŒû‚`"
+msgstr "ＦＣ入り口Ａ"
+
+#. ID 119
+msgid "‚e‚bƒ}ƒbƒv"
+msgstr "ＦＣマップ"
+
+#. ID 120
+msgid "‚e‚b‰Æ"
+msgstr "ＦＣ家"
+
+#. ID 121
+msgid "‚e‚b‰Æ‚Ì’†"
+msgstr "ＦＣ家の中"
+
+#. ID 122
+msgid "‚e‚b’n‰º001"
+msgstr "ＦＣ地下001"
+
+#. ID 123
+msgid "‚e‚b’n‰º002"
+msgstr "ＦＣ地下002"
+
+#. ID 124
+msgid "‚e‚b’n‰º003"
+msgstr "ＦＣ地下003"
+
+#. ID 125
+msgid "‚e‚b’n‰º004"
+msgstr "ＦＣ地下004"
+
+#. ID 126
+msgid "‚e‚b’n‰º005"
+msgstr "ＦＣ地下005"
+
+#. ID 127
+msgid "‚e‚b’n‰º006"
+msgstr "ＦＣ地下006"
+
+#. ID 128
+msgid "‚e‚b’n‰º007"
+msgstr "ＦＣ地下007"
+
+#. ID 129
+msgid "‚e‚b’n‰º008"
+msgstr "ＦＣ地下008"
+
+#. ID 130
+msgid "‚e‚b’n‰º009"
+msgstr "ＦＣ地下009"
+
+#. ID 131
+msgid "‚e‚b’n‰º010"
+msgstr "ＦＣ地下010"
+
+#. ID 132
+msgid "‚e‚b’n‰º011"
+msgstr "ＦＣ地下011"
+
+#. ID 133
+msgid "‚e‚b’n‰º012"
+msgstr "ＦＣ地下012"
+
+#. ID 134
+msgid "‚e‚b’n‰º013"
+msgstr "ＦＣ地下013"
+
+#. ID 135
+msgid "‚e‚b’n‰º014"
+msgstr "ＦＣ地下014"
+
+#. ID 136
+msgid "‚e‚b’n‰º015"
+msgstr "ＦＣ地下015"
+
+#. ID 137
+msgid "‚e‚b’n‰º016"
+msgstr "ＦＣ地下016"
+
+#. ID 138
+msgid "‚e‚b’n‰º017"
+msgstr "ＦＣ地下017"
+
+#. ID 139
+msgid "‚e‚b’n‰º018"
+msgstr "ＦＣ地下018"
+
+#. ID 140
+msgid "‚e‚b’n‰º019"
+msgstr "ＦＣ地下019"
+
+#. ID 141
+msgid "‚e‚b’n‰º020"
+msgstr "ＦＣ地下020"
+
+#. ID 142
+msgid "‚e‚b’n‰º021"
+msgstr "ＦＣ地下021"
+
+#. ID 143
+msgid "‚e‚b’n‰º022"
+msgstr "ＦＣ地下022"
+
+#. ID 144
+msgid "‚e‚b“ü‚èŒû‚a"
+msgstr "ＦＣ入り口Ｂ"
+
+#. ID 145
+msgid "‚e‚b¬ƒ}ƒbƒv001"
+msgstr "ＦＣ小マップ001"
+
+#. ID 146
+msgid "‚e‚b¬ƒ}ƒbƒv002"
+msgstr "ＦＣ小マップ002"
+
+#. ID 147
+msgid "‚e‚b‘º001"
+msgstr "ＦＣ村001"
+
+#. ID 148
+msgid "‚e‚bÀÞÝ¼Þ®Ý001"
+msgstr "ＦＣﾀﾞﾝｼﾞｮﾝ001"
+
+#. ID 149
+msgid "‚e‚bÀÞÝ¼Þ®Ý002"
+msgstr "ＦＣﾀﾞﾝｼﾞｮﾝ002"
+
+#. ID 150
+msgid "‚e‚bÀÞÝ¼Þ®Ý003"
+msgstr "ＦＣﾀﾞﾝｼﾞｮﾝ003"
+
+#. ID 151
+msgid "‚e‚b‘º002"
+msgstr "ＦＣ村002"
+
+#. ID 152
+msgid "‚e‚b‘º’n‰º"
+msgstr "ＦＣ村地下"
+
+#. ID 153
+msgid "‚e‚b¬ƒ}ƒbƒv003"
+msgstr "ＦＣ小マップ003"
+
+#. ID 154
+msgid "‚e‚b‘º003"
+msgstr "ＦＣ村003"
+
+#. ID 155
+msgid "ƒtƒ@ƒ~ƒQ[‚P"
+msgstr "ファミゲー１"
+
+#. ID 156
+msgid "ƒGƒ“ƒfƒBƒ“ƒO"
+msgstr "エンディング"
+
+#. ID 157
+msgid "‚e‚bÀÞÝ¼Þ®Ý002?"
+msgstr "ＦＣﾀﾞﾝｼﾞｮﾝ002?"
+
+#. ID 158
+msgid "‚e‚b‘S‘Ì"
+msgstr "ＦＣ全体"
+
+#. ID 159
+msgid "ƒxƒbƒh‚Ì’†‚ÌŠK’i"
+msgstr "ベッドの中の階段"
+
+#. ID 160
+msgid "‘qŒÉ‘O’Ê˜H"
+msgstr "倉庫前通路"
+
+#. ID 161
+msgid "‘qŒÉ‘O’Ê˜Hi‰Šj"
+msgstr "倉庫前通路（炎）"
+
+#. ID 162
+msgid "0036"
+msgstr "倉庫"
+
+#. ID 163
+msgid "‰F’ˆ‘D“ü‚èŒû"
+msgstr "宇宙船入り口"
+
+#. ID 164
+msgid "000000164"
+msgstr "宇宙船_01"
+
+#. ID 165
+msgid "000000165"
+msgstr "宇宙船_02"
+
+#. ID 166
+msgid "000000166"
+msgstr "宇宙船_03"
+
+#. ID 167
+msgid "‰F’ˆ‘DoŒû"
+msgstr "宇宙船出口"
+
+#. ID 168
+msgid "‰Î¯_01"
+msgstr "火星_01"
+
+#. ID 169
+msgid "‰Î¯_02"
+msgstr "火星_02"
+
+#. ID 170
+msgid "‰Î¯_03"
+msgstr "火星_03"
+
+#. ID 171
+msgid "‰Î¯_04"
+msgstr "火星_04"
+
+#. ID 172
+msgid "‰Î¯_05"
+msgstr "火星_05"
+
+#. ID 173
+msgid "‰Î¯’n‰º_01"
+msgstr "火星地下_01"
+
+#. ID 174
+msgid "‰Î¯’n‰º_02"
+msgstr "火星地下_02"
+
+#. ID 175
+msgid "ƒfƒp[ƒg‚c"
+msgstr "デパートＤ"
+
+#. ID 176
+msgid "000000000013"
+msgstr "デパート屋上"
+
+#. ID 177
+msgid "‚Ù‚¤‚«‚Å”òs"
+msgstr "ほうきで飛行"
+

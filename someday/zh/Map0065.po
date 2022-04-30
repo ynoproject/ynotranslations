@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 30, Page 1, Line 7, Pos (36,162)
+#. Choice (4 options)
+msgid ""
+"Kaokola - 320 N\n"
+"Liquid Dream - 500 N\n"
+"7 Moop - 350 N\n"
+"Don't buy anything"
+msgstr ""
+"Kaokola - 320 N\n"
+"Liquid Dream - 500 N\n"
+"7 Moop - 350 N\n"
+"什么都不买"
+
+#. ID 30, Page 1, Line 14, Pos (36,162)
+#. ID 30, Page 1, Line 49, Pos (36,162)
+#. ID 30, Page 1, Line 84, Pos (36,162)
+#. ID 30, Page 2, Line 17, Pos (36,162)
+#. ID 30, Page 2, Line 52, Pos (36,162)
+#. ID 30, Page 2, Line 87, Pos (36,162)
+msgid "You won a free drink!"
+msgstr "你赢得一杯免费饮料！"
+
+#. ID 30, Page 1, Line 20, Pos (36,162)
+#. ID 30, Page 1, Line 55, Pos (36,162)
+#. ID 30, Page 1, Line 90, Pos (36,162)
+#. ID 30, Page 2, Line 23, Pos (36,162)
+#. ID 30, Page 2, Line 58, Pos (36,162)
+#. ID 30, Page 2, Line 93, Pos (36,162)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 30, Page 1, Line 39, Pos (36,162)
+#. ID 30, Page 1, Line 74, Pos (36,162)
+#. ID 30, Page 1, Line 109, Pos (36,162)
+#. ID 30, Page 2, Line 42, Pos (36,162)
+#. ID 30, Page 2, Line 77, Pos (36,162)
+#. ID 30, Page 2, Line 112, Pos (36,162)
+msgid "You don't have enough N!"
+msgstr "你没有足够的N!"
+
+#. ID 30, Page 2, Line 9, Pos (36,162)
+msgid "50% OFF on all drinks!"
+msgstr "所有饮料半价！"
+
+#. ID 30, Page 2, Line 10, Pos (36,162)
+#. Choice (4 options)
+msgid ""
+"Kaokola - 160 N\n"
+"Liquid Dream - 250 N\n"
+"7 Moop - 175 N\n"
+"Don't buy anything"
+msgstr ""
+"Kaokola - 160 N\n"
+"Liquid Dream - 250 N\n"
+"7 Moop - 175 N\n"
+"什么都不买"
+

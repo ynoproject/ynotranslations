@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 90, Page 1, Line 7, Pos (49,49)
+#. ChangeHeroName (Actor 1)
+#. ID 94, Page 1, Line 5, Pos (23,64)
+#. ChangeHeroName (Actor 1)
+#. ID 95, Page 1, Line 5, Pos (92,18)
+#. ChangeHeroName (Actor 1)
+#. ID 121, Page 1, Line 5, Pos (73,9)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Itsuki"
+
+#. ID 96, Page 1, Line 4, Pos (34,90)
+msgid ""
+"EHIPED·(·$H¿TY·$!!!!!\n"
+"999999999999999DEHXIPNSDBZZZNHHIPA\n"
+"O0a!!!!!!!!!?????"
+msgstr ""
+"EHIPED·(·$H¿TY·$!!!!!\n"
+"999999999999999DEHXIPNSDBZZZNHHIPA\n"
+"O0a!!!!!!!!!?????"
+
+#. ID 97, Page 1, Line 4, Pos (9,62)
+msgid ""
+"PPPPPPP28904y6¡(=·&T%¿\"IPiP!\n"
+"OOOOOOOOOOOOOOOOOOOOOAAAAAAAAAN\n"
+"¨ÇSÑ_SDÑ^f`s´´!"
+msgstr ""
+"PPPPPPP28904y6¡(=·&T%¿\"IPiP!\n"
+"OOOOOOOOOOOOOOOOOOOOOAAAAAAAAAN\n"
+"¨ÇSÑ_SDÑ^f`s´´!"
+
+#. ID 98, Page 1, Line 4, Pos (83,70)
+msgid ""
+"KOPSXJN*HWWO&(?$W\"-><-\n"
+"DDUVB ÑFGV-----APPPN<3!!!1!!1"
+msgstr ""
+"KOPSXJN*HWWO&(?$W\"-><-\n"
+"DDUVB ÑFGV-----APPPN<3!!!1!!1"
+

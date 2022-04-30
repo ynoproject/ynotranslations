@@ -1,0 +1,1430 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Itsuki"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Dreamer"
+msgstr "Soñador"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "Rise up"
+msgstr "Alzate"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Defeat your bullies"
+msgstr "Derrota a tus abusones"
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "‚ÌUŒ‚I"
+msgstr "‚ÌUŒ‚I"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Fallen"
+msgstr "Caido"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Break the ice"
+msgstr "Rompe el hielo"
+
+#. ID 3
+msgctxt "skills.name"
+msgid "Kondo"
+msgstr "Kondo"
+
+#. ID 3
+msgctxt "skills.description"
+msgid "%À?"
+msgstr "%À?"
+
+#. ID 4
+msgctxt "skills.name"
+msgid "Paralyzed"
+msgstr "Paralizado"
+
+#. ID 4
+msgctxt "skills.description"
+msgid "Open the door to your nightmares"
+msgstr "Abre la puerta a tus pesadillas"
+
+#. ID 5
+msgctxt "skills.name"
+msgid "Oxidation"
+msgstr "Oxidacion"
+
+#. ID 5
+msgctxt "skills.description"
+msgid "Discover the truth among the tubes"
+msgstr "Descubre la verdad entre los tubos"
+
+#. ID 6
+msgctxt "skills.name"
+msgid "Reduction"
+msgstr "Reduccion"
+
+#. ID 6
+msgctxt "skills.description"
+msgid "Get away safely"
+msgstr "Escapa sano y salvo"
+
+#. ID 7
+msgctxt "skills.name"
+msgid "Snow"
+msgstr "Nieve"
+
+#. ID 7
+msgctxt "skills.description"
+msgid "Make it snow in the ice world"
+msgstr "Haz que nieve en el mundo de hielo"
+
+#. ID 8
+msgctxt "skills.name"
+msgid "Silent laughter"
+msgstr "Risa silenciosa"
+
+#. ID 8
+msgctxt "skills.description"
+msgid "No one is on your side"
+msgstr "Nadie esta de tu parte"
+
+#. ID 9
+msgctxt "skills.name"
+msgid "AAAA99999"
+msgstr "AAAA99999"
+
+#. ID 9
+msgctxt "skills.description"
+msgid "Change everything to A's and 9's"
+msgstr "Cambialo todo a aes y nueves"
+
+#. ID 10
+msgctxt "skills.name"
+msgid "Zero"
+msgstr "Cero"
+
+#. ID 10
+msgctxt "skills.description"
+msgid "Break the box with zero N"
+msgstr "Rompe la caja con cero N"
+
+#. ID 11
+msgctxt "skills.name"
+msgid "Lucky"
+msgstr "Afortunado"
+
+#. ID 11
+msgctxt "skills.description"
+msgid "Find the four-leaf clover!"
+msgstr "Encuentra el trebol de cuatro hojas!"
+
+#. ID 12
+msgctxt "skills.name"
+msgid "Shame"
+msgstr "Verguenza"
+
+#. ID 12
+msgctxt "skills.description"
+msgid "Try to change your past"
+msgstr "Intenta cambiar tu pasado"
+
+#. ID 13
+msgctxt "skills.name"
+msgid "Fulgurites"
+msgstr "Fulguritas"
+
+#. ID 13
+msgctxt "skills.description"
+msgid "Tear down all the fulgurites at the desert"
+msgstr "Derriba todas las fulguritas en el desierto"
+
+#. ID 14
+msgctxt "skills.name"
+msgid "Rainbow"
+msgstr "Arco iris"
+
+#. ID 14
+msgctxt "skills.description"
+msgid "Make it rain in the beach"
+msgstr "Haz que llueva en la playa"
+
+#. ID 15
+msgctxt "skills.name"
+msgid "Perspective"
+msgstr "Perspectiva"
+
+#. ID 15
+msgctxt "skills.description"
+msgid "It's just another one"
+msgstr "Solo es uno mas"
+
+#. ID 16
+msgctxt "skills.name"
+msgid "Colours"
+msgstr "Colores"
+
+#. ID 16
+msgctxt "skills.description"
+msgid "Some species of fish are fascinating"
+msgstr "Algunas especies de peces son fascinantes"
+
+#. ID 17
+msgctxt "skills.name"
+msgid "Tinnitus"
+msgstr "Acufeno"
+
+#. ID 17
+msgctxt "skills.description"
+msgid "Have a blast at the neon world"
+msgstr "Pasalo en grande en el mundo de neon"
+
+#. ID 18
+msgctxt "skills.name"
+msgid "Test subject"
+msgstr "Sujeto de prueba"
+
+#. ID 18
+msgctxt "skills.description"
+msgid "Complete ten tests at the testing area"
+msgstr "Completa diez pruebas en el area de pruebas"
+
+#. ID 19
+msgctxt "skills.name"
+msgid "A thousand pictures"
+msgstr "Mil imagenes"
+
+#. ID 19
+msgctxt "skills.description"
+msgid "How can I forget such beauty?"
+msgstr "Como puedo olvidar tal belleza?"
+
+#. ID 20
+msgctxt "skills.name"
+msgid "Canvas"
+msgstr "Lienzo"
+
+#. ID 20
+msgctxt "skills.description"
+msgid "Paint on the floor at the art gallery"
+msgstr "Pinta en el suelo del museo"
+
+#. ID 21
+msgctxt "skills.name"
+msgid "On fire"
+msgstr "Ardiendo"
+
+#. ID 21
+msgctxt "skills.description"
+msgid "You can't kill time"
+msgstr "No puedes matar al tiempo"
+
+#. ID 22
+msgctxt "skills.name"
+msgid "Habit"
+msgstr "Vicio"
+
+#. ID 22
+msgctxt "skills.description"
+msgid "It's under control"
+msgstr "Esta bajo control"
+
+#. ID 23
+msgctxt "skills.name"
+msgid "Test devourer"
+msgstr "Devorador de pruebas"
+
+#. ID 23
+msgctxt "skills.description"
+msgid "Complete all twenty tests at the testing area"
+msgstr "Completa las veinte pruebas del area de pruebas"
+
+#. ID 24
+msgctxt "skills.name"
+msgid "Hatsuyume"
+msgstr "Hatsuyume"
+
+#. ID 24
+msgctxt "skills.description"
+msgid "Complete the Hatsuyume puzzle"
+msgstr "Completa el puzle Hatsuyume"
+
+#. ID 25
+msgctxt "skills.name"
+msgid "Empty"
+msgstr "Vacio"
+
+#. ID 25
+msgctxt "skills.description"
+msgid "Reach the limit of your mind"
+msgstr "Alcanza el limite de tu mente"
+
+#. ID 26
+msgctxt "skills.name"
+msgid "Dizziness"
+msgstr "Mareo"
+
+#. ID 26
+msgctxt "skills.description"
+msgid "Circles... everywhere..."
+msgstr "Circulos... por todas partes..."
+
+#. ID 27
+msgctxt "skills.name"
+msgid "A snowy day"
+msgstr "Un dia nevado"
+
+#. ID 27
+msgctxt "skills.description"
+msgid "Recall someone's memories"
+msgstr "Recuerda las memorias de alguien"
+
+#. ID 28
+msgctxt "skills.name"
+msgid "Stranger"
+msgstr "Desconocido"
+
+#. ID 28
+msgctxt "skills.description"
+msgid "Escape the shady stranger"
+msgstr "Huye del desconocido sospechoso"
+
+#. ID 29
+msgctxt "skills.name"
+msgid "Trapped"
+msgstr "Atrapado"
+
+#. ID 29
+msgctxt "skills.description"
+msgid "Finish the fake Zapnef level"
+msgstr "Termina el nivel falso de Zapnef"
+
+#. ID 30
+msgctxt "skills.name"
+msgid "Careful cruise"
+msgstr "Crucero cauto"
+
+#. ID 30
+msgctxt "skills.description"
+msgid "Learn how to drive a spaceship"
+msgstr "Aprende a pilotar una nave espacial"
+
+#. ID 31
+msgctxt "skills.name"
+msgid "Platformer"
+msgstr "Plataformero"
+
+#. ID 31
+msgctxt "skills.description"
+msgid "Complete all nine levels of Zapnef"
+msgstr "Completa los nueve niveles de Zapnef"
+
+#. ID 32
+msgctxt "skills.name"
+msgid "Wasps"
+msgstr "Avispas"
+
+#. ID 32
+msgctxt "skills.description"
+msgid "Kill the wasp in the forest and return"
+msgstr "Mata a la avispa del bosque y vuelve"
+
+#. ID 1
+msgctxt "items.name"
+msgid "Scooter"
+msgstr "Patinete"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Ride a scooter"
+msgstr "Monta un patinete"
+
+#. ID 2
+msgctxt "items.name"
+msgid "Doodle"
+msgstr "Garabato"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Become a doodle"
+msgstr "Conviertete en un garabato"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Sick"
+msgstr "Enfermo"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Get sick"
+msgstr "Ponte enfermo"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Glitch"
+msgstr "Glitch"
+
+#. ID 4
+msgctxt "items.description"
+msgid "."
+msgstr "."
+
+#. ID 5
+msgctxt "items.name"
+msgid "8-bit"
+msgstr "8-bit"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Change to low resolution"
+msgstr "Cambia a baja resolucion"
+
+#. ID 6
+msgctxt "items.name"
+msgid "Nerd"
+msgstr "Nerd"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Become a nerd"
+msgstr "Conviertete en un nerd"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Monochrome"
+msgstr "Monocromo"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Become a monochrome child"
+msgstr "Conviertete en un chico monocromatico"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Bald"
+msgstr "Calvo"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Go bald"
+msgstr "Quedate calvo"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Megaphone"
+msgstr "Megafono"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Become a megaphone"
+msgstr "Conviertete en un megafono"
+
+#. ID 10
+msgctxt "items.name"
+msgid "Blob"
+msgstr "Gelatina"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Become a colourful blob"
+msgstr "Conviertete en una colorida gelatina"
+
+#. ID 11
+msgctxt "items.name"
+msgid "Wrench"
+msgstr "Llave inglesa"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Wield a handy wrench"
+msgstr "Lleva una practica llave inglesa"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Raincoat"
+msgstr "Impermeable"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Wear a raincoat"
+msgstr "Lleva un impermeable"
+
+#. ID 13
+msgctxt "items.name"
+msgid "Scarf"
+msgstr "Bufanda"
+
+#. ID 13
+msgctxt "items.description"
+msgid "Wear a warm scarf"
+msgstr "Lleva una calida bufanda"
+
+#. ID 14
+msgctxt "items.name"
+msgid "Classic"
+msgstr "Clasico"
+
+#. ID 14
+msgctxt "items.description"
+msgid "Look like a hikikomori"
+msgstr "Vistete como un hikikomori"
+
+#. ID 15
+msgctxt "items.name"
+msgid "TV"
+msgstr "Televisor"
+
+#. ID 15
+msgctxt "items.description"
+msgid "Get a TV for a head"
+msgstr "Ten un televisor por cabeza"
+
+#. ID 16
+msgctxt "items.name"
+msgid "Fox"
+msgstr "Zorro"
+
+#. ID 16
+msgctxt "items.description"
+msgid "Grow fox ears and a tail"
+msgstr "Adquiere orejas y cola de zorro"
+
+#. ID 17
+msgctxt "items.name"
+msgid "Candle holder"
+msgstr "Sujetavelas"
+
+#. ID 17
+msgctxt "items.description"
+msgid "Be a candle holder"
+msgstr "Conviertete en un sujetavelas"
+
+#. ID 18
+msgctxt "items.name"
+msgid "Clockworker"
+msgstr "Relojero"
+
+#. ID 18
+msgctxt "items.description"
+msgid "Become a clockworker"
+msgstr "Conviertete en un relojero"
+
+#. ID 19
+msgctxt "items.name"
+msgid "Diving suit"
+msgstr "Traje de buceo"
+
+#. ID 19
+msgctxt "items.description"
+msgid "Wear a diving suit"
+msgstr "Lleva un traje de buceo"
+
+#. ID 20
+msgctxt "items.name"
+msgid "Mercury"
+msgstr "Mercurio"
+
+#. ID 20
+msgctxt "items.description"
+msgid "Become solid mercury"
+msgstr "Conviertete en mercurio solido"
+
+#. ID 21
+msgctxt "items.name"
+msgid "Healing aura"
+msgstr "Aura curativa"
+
+#. ID 21
+msgctxt "items.description"
+msgid "Emit a healing aura"
+msgstr "Emite un aura curativa"
+
+#. ID 22
+msgctxt "items.name"
+msgid "Wood"
+msgstr "Madera"
+
+#. ID 22
+msgctxt "items.description"
+msgid "Become a wooden doll"
+msgstr "Conviertete en una figura de madera"
+
+#. ID 23
+msgctxt "items.name"
+msgid "Tomato"
+msgstr "Tomate"
+
+#. ID 23
+msgctxt "items.description"
+msgid "Get a tomato for a head"
+msgstr "Ten un tomate por cabeza"
+
+#. ID 24
+msgctxt "items.name"
+msgid "Lab coat"
+msgstr "Bata de laboratorio"
+
+#. ID 24
+msgctxt "items.description"
+msgid "Wear a lab coat"
+msgstr "Lleva una bata de laboratorio"
+
+#. ID 25
+msgctxt "items.name"
+msgid "Baku"
+msgstr "Baku"
+
+#. ID 25
+msgctxt "items.description"
+msgid "Become a dream eater"
+msgstr "Conviertete en un baku"
+
+#. ID 26
+msgctxt "items.name"
+msgid "(Scooter)"
+msgstr "(Patinete)"
+
+#. ID 26
+msgctxt "items.description"
+msgid "Get impatient"
+msgstr "Impacientate"
+
+#. ID 27
+msgctxt "items.name"
+msgid "(Doodle)"
+msgstr "(Garabato)"
+
+#. ID 27
+msgctxt "items.description"
+msgid "Be random"
+msgstr "Se espontaneo"
+
+#. ID 28
+msgctxt "items.name"
+msgid "(Sick)"
+msgstr "(Enfermo)"
+
+#. ID 28
+msgctxt "items.description"
+msgid "Pretend to be sick"
+msgstr "Finge estar enfermo"
+
+#. ID 29
+msgctxt "items.name"
+msgid "(Glitch)"
+msgstr "(Glitch)"
+
+#. ID 29
+msgctxt "items.description"
+msgid "Act stupid"
+msgstr "Haz el tonto"
+
+#. ID 30
+msgctxt "items.name"
+msgid "(8-bit)"
+msgstr "(8-bit)"
+
+#. ID 30
+msgctxt "items.description"
+msgid "Get nostalgic"
+msgstr "Sientete nostalgico"
+
+#. ID 31
+msgctxt "items.name"
+msgid "(Nerd)"
+msgstr "(Nerd)"
+
+#. ID 31
+msgctxt "items.description"
+msgid "Act nerdy"
+msgstr "Actua como un nerd"
+
+#. ID 32
+msgctxt "items.name"
+msgid "(Monochrome)"
+msgstr "(Monocromo)"
+
+#. ID 32
+msgctxt "items.description"
+msgid "Feel alienated"
+msgstr "Sientete alienado"
+
+#. ID 33
+msgctxt "items.name"
+msgid "(Bald)"
+msgstr "(Calvo)"
+
+#. ID 33
+msgctxt "items.description"
+msgid "Worry about your hair"
+msgstr "Preocupate por tu pelo"
+
+#. ID 34
+msgctxt "items.name"
+msgid "(Megaphone)"
+msgstr "(Megafono)"
+
+#. ID 34
+msgctxt "items.description"
+msgid "Draw attention"
+msgstr "Llama la atencion"
+
+#. ID 35
+msgctxt "items.name"
+msgid "(Blob)"
+msgstr "(Gelatina)"
+
+#. ID 35
+msgctxt "items.description"
+msgid "Have colourful thoughts"
+msgstr "Ten pensamientos coloridos"
+
+#. ID 36
+msgctxt "items.name"
+msgid "(Wrench)"
+msgstr "(Llave inglesa)"
+
+#. ID 36
+msgctxt "items.description"
+msgid "Want to beat someone"
+msgstr "Desea golpear a alguien"
+
+#. ID 37
+msgctxt "items.name"
+msgid "(Raincoat)"
+msgstr "(Impermeable)"
+
+#. ID 37
+msgctxt "items.description"
+msgid "Wish to stop raining"
+msgstr "Desea que deje de llover"
+
+#. ID 38
+msgctxt "items.name"
+msgid "(Scarf)"
+msgstr "(Bufanda)"
+
+#. ID 38
+msgctxt "items.description"
+msgid "Pretend to be who you are not"
+msgstr "Finge ser quien no eres"
+
+#. ID 39
+msgctxt "items.name"
+msgid "(Classic)"
+msgstr "(Clasico)"
+
+#. ID 39
+msgctxt "items.description"
+msgid "Be like the rest"
+msgstr "Se como el resto"
+
+#. ID 40
+msgctxt "items.name"
+msgid "(TV)"
+msgstr "(Televisor)"
+
+#. ID 40
+msgctxt "items.description"
+msgid "Be addicted to television"
+msgstr "Se un adicto a la tele"
+
+#. ID 41
+msgctxt "items.name"
+msgid "(Fox)"
+msgstr "(Zorro)"
+
+#. ID 41
+msgctxt "items.description"
+msgid "Show your cute side"
+msgstr "Muestra tu lado adorable"
+
+#. ID 42
+msgctxt "items.name"
+msgid "(Candle holder)"
+msgstr "(Sujetavelas)"
+
+#. ID 42
+msgctxt "items.description"
+msgid "Keep your hopes up high"
+msgstr "No pierdas la esperanza"
+
+#. ID 43
+msgctxt "items.name"
+msgid "(Clockworker)"
+msgstr "(Relojero)"
+
+#. ID 43
+msgctxt "items.description"
+msgid "Want to go back in time"
+msgstr "Desea volver al pasado"
+
+#. ID 44
+msgctxt "items.name"
+msgid "(Diving suit)"
+msgstr "(Traje de buceo)"
+
+#. ID 44
+msgctxt "items.description"
+msgid "Remember the summer days"
+msgstr "Recuerda los dias de verano"
+
+#. ID 45
+msgctxt "items.name"
+msgid "(Mercury)"
+msgstr "(Mercurio)"
+
+#. ID 45
+msgctxt "items.description"
+msgid "Try to go unnoticed"
+msgstr "Intenta pasar desapercibido"
+
+#. ID 46
+msgctxt "items.name"
+msgid "(Healing aura)"
+msgstr "(Aura curativa)"
+
+#. ID 46
+msgctxt "items.description"
+msgid "Be helpful"
+msgstr "Se servicial"
+
+#. ID 47
+msgctxt "items.name"
+msgid "(Wood)"
+msgstr "(Madera)"
+
+#. ID 47
+msgctxt "items.description"
+msgid "Be empathic"
+msgstr "Se empatico"
+
+#. ID 48
+msgctxt "items.name"
+msgid "(Tomato)"
+msgstr "(Tomate)"
+
+#. ID 48
+msgctxt "items.description"
+msgid "Be passionate"
+msgstr "Se apasionado"
+
+#. ID 49
+msgctxt "items.name"
+msgid "(Lab coat)"
+msgstr "(Bata de lab.)"
+
+#. ID 49
+msgctxt "items.description"
+msgid "Be interested in science"
+msgstr "Interesate por la ciencia"
+
+#. ID 50
+msgctxt "items.name"
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#. ID 50
+msgctxt "items.description"
+msgid "See the game's instructions"
+msgstr "Mira las instrucciones del juego"
+
+#. ID 51
+msgctxt "items.name"
+msgid "(Baku)"
+msgstr "(Baku)"
+
+#. ID 51
+msgctxt "items.description"
+msgid "Don't be afraid to be yourself"
+msgstr "No tengas miedo de ser tu mismo"
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "‚Í“|‚ê‚½I"
+msgstr "‚Í“|‚ê‚½I"
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "‚ð“|‚µ‚½I"
+msgstr "‚ð“|‚µ‚½I"
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "‚Í—§‚¿ã‚ª‚Á‚½I"
+msgstr "‚Í—§‚¿ã‚ª‚Á‚½I"
+
+msgctxt "terms.special_combat"
+msgid "vd"
+msgstr "vd"
+
+msgctxt "terms.escape_failure"
+msgid "Failed to escape!"
+msgstr "que va"
+
+msgctxt "terms.victory"
+msgid "Victory!"
+msgstr "MMMMMM YE"
+
+msgctxt "terms.defeat"
+msgid "Annihilated..."
+msgstr "rip in pieces"
+
+msgctxt "terms.exp_received"
+msgid " experience points!"
+msgstr "Doubt"
+
+msgctxt "terms.gold_recieved_a"
+msgid "Found"
+msgstr ":0"
+
+msgctxt "terms.gold_recieved_b"
+msgid "!"
+msgstr "!"
+
+msgctxt "terms.item_recieved"
+msgid " found!"
+msgstr "GET^^"
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr "‚ÌUŒ‚I"
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr "‰ïS‚ÌˆêŒ‚II"
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr "’É¦‚ÌˆêŒ‚II"
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr "‚ÍŽ©”š‚µ‚½I"
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr "‚ÍŽp‚ð•Ï‚¦‚½I"
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr "‚Í•½‹C‚¾‚Á‚½I"
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr "‚Í–°‚ç‚È‚©‚Á‚½I"
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr "‚ðŽg‚Á‚½I"
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr "‰ñ•œ‚µ‚½I"
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr "ã‚ª‚Á‚½I"
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr "‰º‚ª‚Á‚½I"
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr "’D‚Á‚½I"
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr "’D‚í‚ê‚½I"
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr "‚É‹­‚­‚È‚Á‚½I"
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr "‚ÉŽã‚­‚È‚Á‚½I"
+
+msgctxt "terms.level_up"
+msgid " obtained!"
+msgstr "nnnN,"
+
+msgctxt "terms.skill_learned"
+msgid " was learned!"
+msgstr "y tal"
+
+msgctxt "terms.battle_start"
+msgid "yo wanna fight"
+msgstr "quierez pelea"
+
+msgctxt "terms.miss"
+msgid "Miss!"
+msgstr "acho no"
+
+msgctxt "terms.shop_greeting1"
+msgid "howzit, howaya"
+msgstr "que pasa isha"
+
+msgctxt "terms.shop_regreeting1"
+msgid "more?"
+msgstr "mas?"
+
+msgctxt "terms.shop_buy1"
+msgid "Buy"
+msgstr "c o m p r a"
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr "v e n d e"
+
+msgctxt "terms.shop_leave1"
+msgid "Finished"
+msgstr "byexd,"
+
+msgctxt "terms.shop_buy_select1"
+msgid "which"
+msgstr "cual"
+
+msgctxt "terms.shop_buy_number1"
+msgid "h'many"
+msgstr "cuantos"
+
+msgctxt "terms.shop_purchased1"
+msgid "'twas nice"
+msgstr "tuvo bien"
+
+msgctxt "terms.shop_sell_select1"
+msgid "whatcha givin"
+msgstr "que me das"
+
+msgctxt "terms.shop_sell_number1"
+msgid "gimme"
+msgstr "dame"
+
+msgctxt "terms.shop_sold1"
+msgid "go away"
+msgstr "vete"
+
+msgctxt "terms.shop_greeting2"
+msgid "oi"
+msgstr "eji"
+
+msgctxt "terms.shop_regreeting2"
+msgid "yo"
+msgstr "yo"
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr "buuy"
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr "seel"
+
+msgctxt "terms.shop_leave2"
+msgid "Finished"
+msgstr "Fineshid"
+
+msgctxt "terms.shop_buy_select2"
+msgid "nyeh"
+msgstr "nyeh"
+
+msgctxt "terms.shop_buy_number2"
+msgid "MMMMMMMMMMMMMM"
+msgstr "MMMMMMMMMMMMMM"
+
+msgctxt "terms.shop_purchased2"
+msgid "arigatou gozaimasu"
+msgstr "arigatou gozaimasu"
+
+msgctxt "terms.shop_sell_select2"
+msgid "meap"
+msgstr "meap"
+
+msgctxt "terms.shop_sell_number2"
+msgid "t. t. t. t. t."
+msgstr "t. t. t. t. t."
+
+msgctxt "terms.shop_sold2"
+msgid "ARE YOU \"·&()=$(?"
+msgstr "ARE YOU \"·&()=$(?"
+
+msgctxt "terms.shop_greeting3"
+msgid "What are you interested in today?"
+msgstr "im giving up on trying"
+
+msgctxt "terms.shop_regreeting3"
+msgid "Can I interest you in anything else?"
+msgstr "to sell you things that you ain't buying"
+
+msgctxt "terms.shop_buy3"
+msgid "Buy"
+msgstr "it's"
+
+msgctxt "terms.shop_sell3"
+msgid "Sell"
+msgstr "your"
+
+msgctxt "terms.shop_leave3"
+msgid "Finished"
+msgstr "move"
+
+msgctxt "terms.shop_buy_select3"
+msgid "What would you like to buy?"
+msgstr "i've made up my mind"
+
+msgctxt "terms.shop_buy_number3"
+msgid "How many of those would you like?"
+msgstr "time is running out"
+
+msgctxt "terms.shop_purchased3"
+msgid "Thank you for your patronage."
+msgstr "make a moooooove"
+
+msgctxt "terms.shop_sell_select3"
+msgid "What would you like to sell?"
+msgstr "oh we can go on"
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many of those would you like to sell?"
+msgstr "do you understand"
+
+msgctxt "terms.shop_sold3"
+msgid "Thank you for your patronage."
+msgstr "it's all in your h e a d"
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "It is a mere"
+msgstr "a measly"
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " to stay here."
+msgstr "gems"
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Would you like to stay?"
+msgstr "nnnnnn? nxn"
+
+msgctxt "terms.inn_a_accept"
+msgid "Stay"
+msgstr "n,"
+
+msgctxt "terms.inn_a_cancel"
+msgid "Forget it"
+msgstr "n."
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "It's only"
+msgstr "just a few"
+
+msgctxt "terms.inn_b_greeting_2"
+msgid " for a warm bed."
+msgstr "bolts"
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "How about spending the night?"
+msgstr "ahhhh, ye?"
+
+msgctxt "terms.inn_b_accept"
+msgid "Stay"
+msgstr "n?"
+
+msgctxt "terms.inn_b_cancel"
+msgid "Forget it"
+msgstr "n!"
+
+msgctxt "terms.possessed_items"
+msgid "In Possession"
+msgstr ":J"
+
+msgctxt "terms.equipped_items"
+msgid "Equipped"
+msgstr "padd!nb3"
+
+msgctxt "terms.gold"
+msgid "N"
+msgstr "N"
+
+msgctxt "terms.battle_fight"
+msgid "Fight"
+msgstr "Luchar"
+
+msgctxt "terms.battle_auto"
+msgid "Auto"
+msgstr "Auto"
+
+msgctxt "terms.battle_escape"
+msgid "Escape"
+msgstr "Escapar"
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr "UŒ‚"
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr "–hŒä"
+
+msgctxt "terms.command_item"
+msgid "Effects"
+msgstr "Efectos"
+
+msgctxt "terms.command_skill"
+msgid "Feats"
+msgstr "Logros"
+
+msgctxt "terms.menu_equipment"
+msgid "Equip"
+msgstr "Equipar"
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr "Guardar"
+
+msgctxt "terms.menu_quit"
+msgid "Quit"
+msgstr "Salir"
+
+msgctxt "terms.new_game"
+msgid "New"
+msgstr "Nuevo"
+
+msgctxt "terms.load_game"
+msgid "Blog"
+msgstr "Blog"
+
+msgctxt "terms.exit_game"
+msgid "Quit"
+msgstr "Salir"
+
+msgctxt "terms.status"
+msgid "Status"
+msgstr "Status"
+
+msgctxt "terms.row"
+msgid "Row"
+msgstr "Fila"
+
+msgctxt "terms.order"
+msgid "Order"
+msgstr "Orden"
+
+msgctxt "terms.wait_on"
+msgid "Wait"
+msgstr "Esperar"
+
+msgctxt "terms.wait_off"
+msgid "Active"
+msgstr "Activo"
+
+msgctxt "terms.level"
+msgid "Level"
+msgstr "Nivel"
+
+msgctxt "terms.exp_short"
+msgid "Ex"
+msgstr "Ex"
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr "E"
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr "$k"
+
+msgctxt "terms.sp_cost"
+msgid "MP Use"
+msgstr "magia."
+
+msgctxt "terms.attack"
+msgid "Attack"
+msgstr "Ataque"
+
+msgctxt "terms.defense"
+msgid "Defense"
+msgstr "Defensa"
+
+msgctxt "terms.spirit"
+msgid "Mystic"
+msgstr "Mystic"
+
+msgctxt "terms.agility"
+msgid "Agility"
+msgstr "Agilidad"
+
+msgctxt "terms.weapon"
+msgid "Weapon"
+msgstr "Arma"
+
+msgctxt "terms.shield"
+msgid "Shield"
+msgstr "Escudo"
+
+msgctxt "terms.armor"
+msgid "Armor"
+msgstr "Armadura"
+
+msgctxt "terms.helmet"
+msgid "Helmet"
+msgstr "Casco"
+
+msgctxt "terms.accessory"
+msgid "Accessory"
+msgstr "Accesorio"
+
+msgctxt "terms.save_game_message"
+msgid "Write on which entry?"
+msgstr "Escribir en que entrada?"
+
+msgctxt "terms.load_game_message"
+msgid "Open which entry?"
+msgstr "Abrir que entrada?"
+
+msgctxt "terms.file"
+msgid "Entry"
+msgstr "Entrada"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you really want to quit?"
+msgstr "Realmente quieres salir?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "Si"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "No"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr "default_term"
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr "default_term"
+

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 9, Pos (13,37)
+#. ID 14, Page 1, Line 15, Pos (13,37)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 15, Page 1, Line 11, Pos (14,37)
+msgid "Menu : Gravure"
+msgstr "Menu : Gravure"
+
+#. ID 15, Page 1, Line 23, Pos (14,37)
+msgid ""
+"                     \n"
+"                       \n"
+"                      Shopping"
+msgstr ""
+"                     \n"
+"                       \n"
+"                      Shopping"
+

@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 150, Page 1, Line 8, Pos (173,24)
+msgid "                        Fox"
+msgstr "                        狐狸"
+
+#. ID 150, Page 1, Line 11, Pos (173,24)
+msgid "Interact with ledges to jump over them."
+msgstr "可以跳过挡住的物体。"
+

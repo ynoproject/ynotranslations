@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 26, Page 1, Line 7, Pos (4,4)
+#. Choice (4 options)
+msgid ""
+"Kaokola - 320 N\n"
+"Liquid Dream - 500 N\n"
+"7 Moop - 350 N\n"
+"Don't buy anything"
+msgstr ""
+"Kaokola - 320 N\n"
+"Liquid Dream - 500 N\n"
+"7 Moop - 350 N\n"
+"何も買わない"
+
+#. ID 26, Page 1, Line 14, Pos (4,4)
+#. ID 26, Page 1, Line 45, Pos (4,4)
+#. ID 26, Page 1, Line 70, Pos (4,4)
+msgid "You won a free drink!"
+msgstr "無料ドリンクGET！"
+
+#. ID 26, Page 1, Line 19, Pos (4,4)
+#. ID 26, Page 1, Line 50, Pos (4,4)
+#. ID 26, Page 1, Line 75, Pos (4,4)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 26, Page 1, Line 35, Pos (4,4)
+#. ID 26, Page 1, Line 60, Pos (4,4)
+#. ID 26, Page 1, Line 85, Pos (4,4)
+msgid "You don't have enough N!"
+msgstr "Nが足りない!"
+
+#. ID 27, Page 1, Line 1, Pos (10,1)
+#. Contains choice at line 2 (2 options)
+msgid "Lose all effects?"
+msgstr "すべてのエフェクトを失うか？"
+
+#. ID 27, Page 1, Line 2, Pos (10,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 29, Page 1, Line 17, Pos (3,7)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Itsuki"
+
+#. ID 33, Page 1, Line 1, Pos (7,1)
+msgid "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr "ぐるぐるしろう!!!!!!!!!!!!!!!!!!!!!!!!!!"
+
+#. ID 33, Page 1, Line 5, Pos (7,1)
+msgid "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
+msgstr "デバッグエリア!! イェーイイイィィィイィイィ!!!"
+
+#. ID 45, Page 1, Line 1, Pos (3,1)
+msgid ""
+"---- ---- ---- ---- ---- ---- ---- ---- ---- ----.\n"
+"This is the longest possible line in a text box...\n"
+"So. Basically, fifty characters. No more, no less.\n"
+"And you can only fit four lines per message. Cool."
+msgstr ""
+"---- ---- ---- ---- ---- ---- ---- ---- ---- ----.\n"
+"Esta es la linea mas larga que cabe en una cajita.\n"
+"Basicamente cincuenta caracteres. Ni mas ni menos.\n"
+"Solo puedes meter cuatro lineas por mensaje. Guay."
+
