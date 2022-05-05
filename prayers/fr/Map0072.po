@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Answered Prayers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yume2kki <Fonvight>\n"
+"Language-Team: Fonvight\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 2.4.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. ID 2, Page 1, Line 2, Pos (1,0)
+#. ID 2, Page 1, Line 12, Pos (1,0)
+#. ID 2, Page 1, Line 26, Pos (1,0)
+#. ID 2, Page 1, Line 51, Pos (1,0)
+#. ID 2, Page 1, Line 59, Pos (1,0)
+#. ID 2, Page 1, Line 67, Pos (1,0)
+#. ID 2, Page 1, Line 73, Pos (1,0)
+#. ID 2, Page 2, Line 2, Pos (1,0)
+#. ID 7, Page 1, Line 3, Pos (0,2)
+#. ID 7, Page 1, Line 13, Pos (0,2)
+#. ID 7, Page 1, Line 27, Pos (0,2)
+#. ID 7, Page 1, Line 52, Pos (0,2)
+#. ID 7, Page 1, Line 60, Pos (0,2)
+#. ID 7, Page 1, Line 68, Pos (0,2)
+#. ID 7, Page 1, Line 74, Pos (0,2)
+#. ID 7, Page 2, Line 2, Pos (0,2)
+msgid "ChiMiko: \"...\""
+msgstr "ChiMiko: \"...\""
+
+#. ID 2, Page 1, Line 5, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 6, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's staring at your broken sandals)"
+msgstr "(Elle regarde attentivement vos sandales cassées)"
+
+#. ID 2, Page 1, Line 7, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 8, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Ask her to fix them.\n"
+"Nevermind"
+msgstr ""
+"Demandez-lui de les réparer.\n"
+"Non merci"
+
+#. ID 2, Page 1, Line 14, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 15, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's holding up 4 fingers.)"
+msgstr "(Elle tient 4 doigts.)"
+
+#. ID 2, Page 1, Line 18, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 19, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Give her 400 Nat.\n"
+"Forget It."
+msgstr ""
+"Donne lui 400 Nat.\n"
+"Oublie ça."
+
+#. ID 2, Page 1, Line 44, Pos (1,0)
+#. ID 7, Page 1, Line 45, Pos (0,2)
+msgid "\"Broken Sandals\" became \"Tall Geta\"!"
+msgstr "\"Sandales cassées\" deviennent \"Grandes Geta\"!"
+
+#. ID 2, Page 1, Line 49, Pos (1,0)
+#. ID 7, Page 1, Line 50, Pos (0,2)
+msgid "Fluorette: \"Th-thank you.\""
+msgstr "Fluorette: \"Me-merci.\""
+
+#. ID 2, Page 1, Line 56, Pos (1,0)
+#. ID 7, Page 1, Line 57, Pos (0,2)
+msgid ""
+"Fluorette: \"...Oh wait... I don't have enough\n"
+"money. ...Sorry...\""
+msgstr ""
+"Fluorette: \"...Oh attendez...Je n'ai pas assez\n"
+"d'argent. ...Désolée...\""
+
+#. ID 10, Page 1, Line 7, Pos (0,3)
+#. ID 10, Page 3, Line 7, Pos (0,3)
+#. ID 13, Page 1, Line 7, Pos (0,5)
+msgid "Learned Prayer \"Phantom\"!"
+msgstr "Vous avez appris la prière \"Fantôme\"!"
+
+#. ID 12, Page 1, Line 6, Pos (0,4)
+msgid "Found \"Broken Sandals\"!"
+msgstr "\"Sandales cassées\" trouvées !"
