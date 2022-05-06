@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -23,31 +27,31 @@ msgstr "青蛙"
 #. ID 2
 msgctxt "items.description"
 msgid "Transform into a frog."
-msgstr "變身成「青蛙」。"
+msgstr "变身成「青蛙」。"
 
 #. ID 3
 #. ID 4
 msgctxt "items.name"
 msgid "Umbrella"
-msgstr "傘"
+msgstr "伞"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "Use an umbrella."
-msgstr "撐起「傘」。"
+msgstr "撑起「伞」。"
 
 #. ID 5
 #. ID 6
 msgctxt "items.name"
 msgid "Hat & Scarf"
-msgstr "帽子和圍巾"
+msgstr "帽子和围巾"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
 msgid "Don a hat & scarf."
-msgstr "戴上「帽子和圍巾」。"
+msgstr "戴上「帽子和围巾」。"
 
 #. ID 7
 #. ID 8
@@ -59,7 +63,7 @@ msgstr "雪女"
 #. ID 8
 msgctxt "items.description"
 msgid "Morph into a Snow Woman."
-msgstr "變成「雪女」。"
+msgstr "变成「雪女」。"
 
 #. ID 9
 #. ID 10
@@ -83,19 +87,19 @@ msgstr "眼珠手"
 #. ID 12
 msgctxt "items.description"
 msgid "Warp into an Eye Palm."
-msgstr "變成「眼珠手」。"
+msgstr "变成「眼珠手」。"
 
 #. ID 13
 #. ID 14
 msgctxt "items.name"
 msgid "Fatten"
-msgstr "變胖"
+msgstr "变胖"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
 msgid "Balloon in size."
-msgstr "變胖。"
+msgstr "变胖。"
 
 #. ID 15
 #. ID 16
@@ -107,7 +111,7 @@ msgstr "小人"
 #. ID 16
 msgctxt "items.description"
 msgid "Shrink in size."
-msgstr "變小。"
+msgstr "变小。"
 
 #. ID 17
 #. ID 18
@@ -125,37 +129,37 @@ msgstr "拿起「笛子」。"
 #. ID 20
 msgctxt "items.name"
 msgid "Neon"
-msgstr "霓虹燈"
+msgstr "霓虹灯"
 
 #. ID 19
 #. ID 20
 msgctxt "items.description"
 msgid "Glow like a neon sign."
-msgstr "點亮「霓虹燈」。"
+msgstr "点亮「霓虹灯」。"
 
 #. ID 21
 #. ID 22
 msgctxt "items.name"
 msgid "Faceless Ghost"
-msgstr "無臉妖怪"
+msgstr "无脸妖怪"
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
 msgid "Materialize as a faceless ghost."
-msgstr "變成「無臉妖怪」。"
+msgstr "变成「无脸妖怪」。"
 
 #. ID 23
 #. ID 24
 msgctxt "items.name"
 msgid "Severed Head"
-msgstr "頭顱"
+msgstr "头颅"
 
 #. ID 23
 #. ID 24
 msgctxt "items.description"
 msgid "Be reduced to a severed head."
-msgstr "變成「頭顱」。"
+msgstr "变成「头颅」。"
 
 #. ID 25
 #. ID 26
@@ -173,85 +177,85 @@ msgstr "裹起「毛毯」。"
 #. ID 28
 msgctxt "items.name"
 msgid "Cat"
-msgstr "貓"
+msgstr "猫"
 
 #. ID 27
 #. ID 28
 msgctxt "items.description"
 msgid "Sprout cat-ears and a tail."
-msgstr "戴上「貓」的耳朵和尾巴。"
+msgstr "戴上「猫」的耳朵和尾巴。"
 
 #. ID 29
 #. ID 30
 msgctxt "items.name"
 msgid "Lamp"
-msgstr "路燈"
+msgstr "路灯"
 
 #. ID 29
 #. ID 30
 msgctxt "items.description"
 msgid "Change into a lamp."
-msgstr "變成「路燈」。"
+msgstr "变成「路灯」。"
 
 #. ID 31
 #. ID 32
 msgctxt "items.name"
 msgid "Bicycle"
-msgstr "腳踏車"
+msgstr "自行车"
 
 #. ID 31
 #. ID 32
 msgctxt "items.description"
 msgid "Mount a bicycle."
-msgstr "騎上「腳踏車」。"
+msgstr "骑上「自行车」。"
 
 #. ID 33
 #. ID 34
 msgctxt "items.name"
 msgid "Long Hair"
-msgstr "長髮"
+msgstr "长发"
 
 #. ID 33
 #. ID 34
 msgctxt "items.description"
 msgid "Grow long hair."
-msgstr "變成「長髮」。"
+msgstr "变成「长发」。"
 
 #. ID 35
 #. ID 36
 msgctxt "items.name"
 msgid "Poo Hair"
-msgstr "大便頭"
+msgstr "大便头"
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
 msgid "Grow poo hair."
-msgstr "變成「大便頭」。"
+msgstr "变成「大便头」。"
 
 #. ID 37
 #. ID 38
 msgctxt "items.name"
 msgid "Blonde"
-msgstr "金髮"
+msgstr "金发"
 
 #. ID 37
 #. ID 38
 msgctxt "items.description"
 msgid "Grow long blonde hair."
-msgstr "變成金色長髮。"
+msgstr "变成金色长发。"
 
 #. ID 39
 #. ID 40
 msgctxt "items.name"
 msgid "Spirit Headband"
-msgstr "△頭巾"
+msgstr "△头巾"
 
 #. ID 39
 #. ID 40
 msgctxt "items.description"
 msgid "Put on a Spirit Headband."
-msgstr "戴上「△頭巾」。"
+msgstr "戴上「△头巾」。"
 
 #. ID 41
 #. ID 42
@@ -263,7 +267,7 @@ msgstr "魔女"
 #. ID 42
 msgctxt "items.description"
 msgid "Become a witch incarnate."
-msgstr "變成「魔女」。"
+msgstr "变成「魔女」。"
 
 #. ID 43
 #. ID 44
@@ -275,41 +279,41 @@ msgstr "鬼"
 #. ID 44
 msgctxt "items.description"
 msgid "Reconstitute as an oni."
-msgstr "變成「鬼」。"
+msgstr "变成「鬼」。"
 
 #. ID 45
 #. ID 46
 msgctxt "items.name"
 msgid "Squish-Squish"
-msgstr "軟綿綿"
+msgstr "软绵绵"
 
 #. ID 45
 #. ID 46
 msgctxt "items.description"
 msgid "Change into a squishy blob."
-msgstr "身體變得「軟綿綿」。"
+msgstr "身体变得「软绵绵」。"
 
 #. ID 47
 #. ID 48
 msgctxt "items.name"
 msgid "Traffic Light"
-msgstr "紅綠燈"
+msgstr "红绿灯"
 
 #. ID 47
 #. ID 48
 msgctxt "items.description"
 msgid "Change into a traffic light."
-msgstr "變成「紅綠燈」。"
+msgstr "变成「红绿灯」。"
 
 #. ID 57
 msgctxt "items.name"
 msgid "Tutorial"
-msgstr "游戲的說明"
+msgstr "游戏的说明"
 
 #. ID 57
 msgctxt "items.description"
 msgid "Review the game's tutorial."
-msgstr "再看一遍游戲的說明。"
+msgstr "再看一遍游戏的说明。"
 
 msgctxt "terms.special_combat"
 msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
@@ -649,15 +653,15 @@ msgstr "效果"
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
-msgstr "結束夢境"
+msgstr "结束梦境"
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr "開始夢境"
+msgstr "开始梦境"
 
 msgctxt "terms.load_game"
 msgid "Dream Diary"
-msgstr "夢日記"
+msgstr "梦日记"
 
 msgctxt "terms.exit_game"
 msgid "Quit"
@@ -673,11 +677,11 @@ msgstr "$k"
 
 msgctxt "terms.save_game_message"
 msgid "Write in Diary"
-msgstr "寫入【夢日記】"
+msgstr "写入【梦日记】"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "讀取【夢日記】"
+msgstr "读取【梦日记】"
 
 msgctxt "terms.file"
 msgid "Page"
@@ -685,7 +689,7 @@ msgstr "PAGE"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you want to quit?"
-msgstr "要結束夢境了嗎？"
+msgstr "要结束梦境了吗？"
 
 msgctxt "terms.yes"
 msgid "Yes"
@@ -770,4 +774,3 @@ msgstr "default_term"
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr "default_term"
-

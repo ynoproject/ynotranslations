@@ -14,7 +14,7 @@ msgstr ""
 
 #. ID 2, Page 1, Line 20, Pos (14,8)
 msgid "                Change Menu Type"
-msgstr "　　　　　　　　 ★選單類型轉換★"
+msgstr "　　　　　　　　 ★菜单类型转换★"
 
 #. ID 2, Page 3, Line 20, Pos (14,8)
 msgid "@@@@@@šƒƒjƒ…[ƒ^ƒCƒvƒ`ƒFƒ“ƒWš"
