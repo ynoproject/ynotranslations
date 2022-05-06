@@ -9,706 +9,706 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 2
-msgid "ƒeƒXƒgƒ}ƒbƒv1"
-msgstr "TestMap1"
+msgid "TestMap1"
+msgstr ""
 
 #. ID 3
-msgid "ƒQ[ƒ€ƒXƒ^[ƒg"
-msgstr "Game Start"
+msgid "Game Start"
+msgstr ""
 
 #. ID 4
-msgid "Œ»ŽÀ‚Ì•”‰®"
-msgstr "Real Room"
+msgid "Real Room"
+msgstr ""
 
 #. ID 5
-msgid "00000016"
-msgstr "Balcony"
+msgid "Balcony"
+msgstr ""
 
 #. ID 6
-msgid "–²‚Ì•”‰®"
-msgstr "Dream Room"
+msgid "Dream Room"
+msgstr ""
 
 #. ID 7
-msgid "–²ƒxƒ‰ƒ“ƒ_A"
-msgstr "Dream Balcony 1"
+msgid "Dream Balcony 1"
+msgstr ""
 
 #. ID 8
-msgid "–²ƒxƒ‰ƒ“ƒ_B"
-msgstr "Dream Balcony 2"
+msgid "Dream Balcony 2"
+msgstr ""
 
 #. ID 9
-msgid "”à•”‰®"
-msgstr "Door Room"
+msgid "Door Room"
+msgstr ""
 
 #. ID 10
-msgid "¡01‚©‚¦‚é"
-msgstr "<01>Frog"
+msgid "<01>Frog"
+msgstr ""
 
 #. ID 11
-msgid "¡02–XŽqƒ}ƒt"
-msgstr "<02>Hat"
+msgid "<02>Hat"
+msgstr ""
 
 #. ID 12
-msgid "¡03‚©‚³"
-msgstr "<03>Umbrella"
+msgid "<03>Umbrella"
+msgstr ""
 
 #. ID 13
-msgid "¡04•ï’š"
-msgstr "<04>Knife"
+msgid "<04>Knife"
+msgstr ""
 
 #. ID 14
-msgid "¡05á—"
-msgstr "<05>Snow woman"
+msgid "<05>Snow woman"
+msgstr ""
 
 #. ID 15
-msgid "¡06”¯Œ^"
-msgstr "<06>Hairstyle"
+msgid "<06>Hairstyle"
+msgstr ""
 
 #. ID 16
-msgid "¡07Ž©“]ŽÔ"
-msgstr "<07>Bike"
+msgid "<07>Bike"
+msgstr ""
 
 #. ID 17
-msgid "¡08–Ú‹Ê˜r"
-msgstr "<08>EyeballArm"
+msgid "<08>EyeballArm"
+msgstr ""
 
 #. ID 18
-msgid "¡09¬l"
-msgstr "<09>LittleMan"
+msgid "<09>LittleMan"
+msgstr ""
 
 #. ID 19
-msgid "¡10”LŽ¨"
-msgstr "<10>CatEar"
+msgid "<10>CatEar"
+msgstr ""
 
 #. ID 20
-msgid "¡11ƒlƒIƒ“"
-msgstr "<11>Neon"
+msgid "<11>Neon"
+msgstr ""
 
 #. ID 21
-msgid "¡12“d“•"
-msgstr "<12>Lamp"
+msgid "<12>Lamp"
+msgstr ""
 
 #. ID 22
-msgid "‚©‚Ü‚­‚ç‚P"
-msgstr "Kamakura1"
+msgid "Kamakura1"
+msgstr ""
 
 #. ID 23
-msgid "‚©‚Ü‚­‚ç‚Q"
-msgstr "Kamakura2"
+msgid "Kamakura2"
+msgstr ""
 
 #. ID 24
-msgid "‚©‚Ü‚­‚ç‚R"
-msgstr "Kamakura3"
+msgid "Kamakura3"
+msgstr ""
 
 #. ID 25
-msgid "‚©‚Ü‚­‚ç‚S"
-msgstr "Kamakura4"
+msgid "Kamakura4"
+msgstr ""
 
 #. ID 26
-msgid "‚©‚Ü‚­‚ç‚T"
-msgstr "Kamakura5"
+msgid "Kamakura5"
+msgstr ""
 
 #. ID 27
-msgid "‚©‚Ü‚­‚ç‚U"
-msgstr "Kamakura6"
+msgid "Kamakura6"
+msgstr ""
 
 #. ID 28
-msgid "‚©‚Ü‚­‚ç‚V"
-msgstr "Kamakura7"
+msgid "Kamakura7"
+msgstr ""
 
 #. ID 29
-msgid "“d“•¬•”‰®‚P"
-msgstr "Lamp House 1"
+msgid "Lamp House 1"
+msgstr ""
 
 #. ID 30
-msgid "“d“•¬•”‰®‚Q"
-msgstr "Lamp House 2"
+msgid "Lamp House 2"
+msgstr ""
 
 #. ID 31
-msgid "“d“•¬•”‰®‚R"
-msgstr "Lamp House 3"
+msgid "Lamp House 3"
+msgstr ""
 
 #. ID 32
-msgid "“d“•¬•”‰®‚S"
-msgstr "Lamp House 4"
+msgid "Lamp House 4"
+msgstr ""
 
 #. ID 33
-msgid "“d“•¬•”‰®‚T"
-msgstr "Lamp House 5"
+msgid "Lamp House 5"
+msgstr ""
 
 #. ID 34
-msgid "‰f‘œ"
-msgstr "Animation"
+msgid "Animation"
+msgstr ""
 
 #. ID 35
-msgid "Ž‡‚`"
-msgstr "Purple A"
+msgid "Purple A"
+msgstr ""
 
 #. ID 36
-msgid "Ž‡‚a"
-msgstr "Purple B"
+msgid "Purple B"
+msgstr ""
 
 #. ID 37
-msgid "ƒlƒIƒ“ƒ^ƒCƒ‹‚`"
-msgstr "Neon Tile A"
+msgid "Neon Tile A"
+msgstr ""
 
 #. ID 38
-msgid "ƒlƒIƒ“ƒ^ƒCƒ‹‚a"
-msgstr "Neon Tile B"
+msgid "Neon Tile B"
+msgstr ""
 
 #. ID 39
-msgid "ƒ`ƒFƒbƒN‚`"
-msgstr "Check A"
+msgid "Check A"
+msgstr ""
 
 #. ID 40
-msgid "ƒ`ƒFƒbƒN‚a"
-msgstr "Check B"
+msgid "Check B"
+msgstr ""
 
 #. ID 41
-msgid "‚Æ‚°"
-msgstr "Toke"
+msgid "Toke"
+msgstr ""
 
 #. ID 42
-msgid "“¹˜H"
-msgstr "Road"
+msgid "Road"
+msgstr ""
 
 #. ID 43
-msgid "“¹˜H‚`"
-msgstr "Road A"
+msgid "Road A"
+msgstr ""
 
 #. ID 44
-msgid "“¹˜H‚a"
-msgstr "Road B"
+msgid "Road B"
+msgstr ""
 
 #. ID 45
-msgid "“¹˜H‚b"
-msgstr "Road C"
+msgid "Road C"
+msgstr ""
 
 #. ID 46
-msgid "“¹˜H‚c"
-msgstr "Road D"
+msgid "Road D"
+msgstr ""
 
 #. ID 47
-msgid "Ô‚`"
-msgstr "Red A"
+msgid "Red A"
+msgstr ""
 
 #. ID 48
-msgid "‘«‚ ‚Æ‚`"
-msgstr "Footprint A"
+msgid "Footprint A"
+msgstr ""
 
 #. ID 49
-msgid "‘«‚ ‚Æ‚a"
-msgstr "Footprint B"
+msgid "Footprint B"
+msgstr ""
 
 #. ID 50
-msgid "28"
-msgstr "Sand"
+msgid "Sand"
+msgstr ""
 
 #. ID 51
-msgid "»‚`"
-msgstr "Sand A"
+msgid "Sand A"
+msgstr ""
 
 #. ID 52
-msgid "»‚a"
-msgstr "Sand B"
+msgid "Sand B"
+msgstr ""
 
 #. ID 53
-msgid "»‚b"
-msgstr "Sand C"
+msgid "Sand C"
+msgstr ""
 
 #. ID 54
-msgid "»‚c"
-msgstr "Sand D"
+msgid "Sand D"
+msgstr ""
 
 #. ID 55
-msgid "»‚d"
-msgstr "Sand E"
+msgid "Sand E"
+msgstr ""
 
 #. ID 56
-msgid "»‚e"
-msgstr "Sand F"
+msgid "Sand F"
+msgstr ""
 
 #. ID 57
-msgid "»‚f"
-msgstr "Sand G"
+msgid "Sand G"
+msgstr ""
 
 #. ID 58
-msgid "»‚g"
-msgstr "Sand H"
+msgid "Sand H"
+msgstr ""
 
 #. ID 59
-msgid "»‚h"
-msgstr "Sand I"
+msgid "Sand I"
+msgstr ""
 
 #. ID 60
-msgid "»‚i"
-msgstr "Sand J"
+msgid "Sand J"
+msgstr ""
 
 #. ID 61
-msgid "»‚j"
-msgstr "Sand K"
+msgid "Sand K"
+msgstr ""
 
 #. ID 62
-msgid "»‚k"
-msgstr "Sand L"
+msgid "Sand L"
+msgstr ""
 
 #. ID 63
-msgid "»‚l"
-msgstr "Sand M"
+msgid "Sand M"
+msgstr ""
 
 #. ID 64
-msgid "»ŠK’i"
-msgstr "Sand stair"
+msgid "Sand stair"
+msgstr ""
 
 #. ID 65
-msgid "¬‰®‚Ì’†‚`"
-msgstr "House Inside A"
+msgid "House Inside A"
+msgstr ""
 
 #. ID 66
-msgid "39"
-msgstr "Earth"
+msgid "Earth"
+msgstr ""
 
 #. ID 67
-msgid "Ô‚a"
-msgstr "Red B"
+msgid "Red B"
+msgstr ""
 
 #. ID 68
-msgid "“y‚`"
-msgstr "Earth A"
+msgid "Earth A"
+msgstr ""
 
 #. ID 69
-msgid "“y‚a"
-msgstr "Earth B"
+msgid "Earth B"
+msgstr ""
 
 #. ID 70
-msgid "‚Ç‚Ô_001"
-msgstr "Dobu_001"
+msgid "Dobu_001"
+msgstr ""
 
 #. ID 71
-msgid "‚Ç‚Ô_002"
-msgstr "Dobu_002"
+msgid "Dobu_002"
+msgstr ""
 
 #. ID 72
-msgid "‚Ç‚Ô_003"
-msgstr "Dobu_003"
+msgid "Dobu_003"
+msgstr ""
 
 #. ID 73
-msgid "‚Ç‚Ô_004"
-msgstr "Dobu_004"
+msgid "Dobu_004"
+msgstr ""
 
 #. ID 74
-msgid "‚Ç‚Ô_005"
-msgstr "Dobu_005"
+msgid "Dobu_005"
+msgstr ""
 
 #. ID 75
-msgid "‚Ç‚Ô_006"
-msgstr "Dobu_006"
+msgid "Dobu_006"
+msgstr ""
 
 #. ID 76
-msgid "ƒfƒp[ƒg‚`"
-msgstr "Department A"
+msgid "Department A"
+msgstr ""
 
 #. ID 77
-msgid "ƒfƒp[ƒg‚a"
-msgstr "Department B"
+msgid "Department B"
+msgstr ""
 
 #. ID 78
-msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚`"
-msgstr "Entrance A"
+msgid "Entrance A"
+msgstr ""
 
 #. ID 79
-msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚a"
-msgstr "Entrance B"
+msgid "Entrance B"
+msgstr ""
 
 #. ID 80
-msgid "ƒGƒ“ƒgƒ‰ƒ“ƒX‚b"
-msgstr "Entrance C"
+msgid "Entrance C"
+msgstr ""
 
 #. ID 81
-msgid "Ô‚¢•”‰®"
-msgstr "Red Room"
+msgid "Red Room"
+msgstr ""
 
 #. ID 82
-msgid "ƒfƒp[ƒg‚b"
-msgstr "Department C"
+msgid "Department C"
+msgstr ""
 
 #. ID 83
-msgid "000029"
-msgstr "Dobu Hole"
+msgid "Dobu Hole"
+msgstr ""
 
 #. ID 84
-msgid "Ž÷ŠC‚P"
-msgstr "Trees 1"
+msgid "Trees 1"
+msgstr ""
 
 #. ID 85
-msgid "ƒTƒuƒ}ƒbƒv"
-msgstr "Submap"
+msgid "Submap"
+msgstr ""
 
 #. ID 86
-msgid "Ž÷ŠC‚Q"
-msgstr "Trees 2"
+msgid "Trees 2"
+msgstr ""
 
 #. ID 87
-msgid "Ž÷ŠC“dŽÔ‚`"
-msgstr "Trees Train A"
+msgid "Trees Train A"
+msgstr ""
 
 #. ID 88
-msgid "“dŽÔŽÔ“à"
-msgstr "Train inside"
+msgid "Train inside"
+msgstr ""
 
 #. ID 89
-msgid "Ž÷ŠC“dŽÔ‚a"
-msgstr "Trees Train B"
+msgid "Trees Train B"
+msgstr ""
 
 #. ID 90
-msgid "Ž÷ŠC‚R"
-msgstr "Trees 3"
+msgid "Trees 3"
+msgstr ""
 
 #. ID 91
-msgid "Ž÷ŠC‚S"
-msgstr "Trees 4"
+msgid "Trees 4"
+msgstr ""
 
 #. ID 92
-msgid "50"
-msgstr "Orange"
+msgid "Orange"
+msgstr ""
 
 #. ID 93
-msgid "ŠÝ"
-msgstr "Shore"
+msgid "Shore"
+msgstr ""
 
 #. ID 94
-msgid "ƒ‚ƒm"
-msgstr "Monochrome"
+msgid "Monochrome"
+msgstr ""
 
 #. ID 95
-msgid "ƒ‚ƒm001"
-msgstr "Monochrome001"
+msgid "Monochrome001"
+msgstr ""
 
 #. ID 96
-msgid "ƒ‚ƒm002"
-msgstr "Monochrome002"
+msgid "Monochrome002"
+msgstr ""
 
 #. ID 97
-msgid "ƒ‚ƒm003"
-msgstr "Monochrome003"
+msgid "Monochrome003"
+msgstr ""
 
 #. ID 98
-msgid "ƒ‚ƒm004"
-msgstr "Monochrome004"
+msgid "Monochrome004"
+msgstr ""
 
 #. ID 99
-msgid "ƒ‚ƒm005"
-msgstr "Monochrome005"
+msgid "Monochrome005"
+msgstr ""
 
 #. ID 100
-msgid "ƒ‚ƒm006"
-msgstr "Monochrome006"
+msgid "Monochrome006"
+msgstr ""
 
 #. ID 101
-msgid "ƒ‚ƒm007"
-msgstr "Monochrome007"
+msgid "Monochrome007"
+msgstr ""
 
 #. ID 102
-msgid "ƒ‚ƒm008"
-msgstr "Monochrome008"
+msgid "Monochrome008"
+msgstr ""
 
 #. ID 103
-msgid "ƒ‚ƒm009"
-msgstr "Monochrome009"
+msgid "Monochrome009"
+msgstr ""
 
 #. ID 104
-msgid "ƒ‚ƒm010"
-msgstr "Monochrome010"
+msgid "Monochrome010"
+msgstr ""
 
 #. ID 105
-msgid "ƒ‚ƒm011"
-msgstr "Monochrome011"
+msgid "Monochrome011"
+msgstr ""
 
 #. ID 106
-msgid "ƒ‚ƒm012"
-msgstr "Monochrome012"
+msgid "Monochrome012"
+msgstr ""
 
 #. ID 107
-msgid "ƒ‚ƒm013"
-msgstr "Monochrome013"
+msgid "Monochrome013"
+msgstr ""
 
 #. ID 108
-msgid "0034"
-msgstr "Shallows"
+msgid "Shallows"
+msgstr ""
 
 #. ID 109
-msgid "ó£‚Ì‰Æ"
-msgstr "Shallows House"
+msgid "Shallows House"
+msgstr ""
 
 #. ID 110
-msgid "0025"
-msgstr "Brothers"
+msgid "Brothers"
+msgstr ""
 
 #. ID 111
-msgid "000026"
-msgstr "Lake corridor"
+msgid "Lake corridor"
+msgstr ""
 
 #. ID 112
-msgid "0027"
-msgstr "Park"
+msgid "Park"
+msgstr ""
 
 #. ID 113
-msgid "Œö‰€ŠR"
-msgstr "Park Cliff"
+msgid "Park Cliff"
+msgstr ""
 
 #. ID 114
-msgid "•»"
-msgstr "Fence"
+msgid "Fence"
+msgstr ""
 
 #. ID 115
-msgid "ƒŒƒ“ƒK‚Ì’†‚`"
-msgstr "In bricks A"
+msgid "In bricks A"
+msgstr ""
 
 #. ID 116
-msgid "ƒŒƒ“ƒK‚Ì’†‚a"
-msgstr "In bricks B"
+msgid "In bricks B"
+msgstr ""
 
 #. ID 117
-msgid "ƒŒƒ“ƒK‚Ì’†‚b"
-msgstr "In bricks C"
+msgid "In bricks C"
+msgstr ""
 
 #. ID 118
-msgid "‚e‚b“ü‚èŒû‚`"
-msgstr "FC Entrance A"
+msgid "FC Entrance A"
+msgstr ""
 
 #. ID 119
-msgid "‚e‚bƒ}ƒbƒv"
-msgstr "FC Map"
+msgid "FC Map"
+msgstr ""
 
 #. ID 120
-msgid "‚e‚b‰Æ"
-msgstr "FC Home"
+msgid "FC Home"
+msgstr ""
 
 #. ID 121
-msgid "‚e‚b‰Æ‚Ì’†"
-msgstr "FC in the home"
+msgid "FC in the home"
+msgstr ""
 
 #. ID 122
-msgid "‚e‚b’n‰º001"
-msgstr "FC Underground 001"
+msgid "FC Underground 001"
+msgstr ""
 
 #. ID 123
-msgid "‚e‚b’n‰º002"
-msgstr "FC Underground 002"
+msgid "FC Underground 002"
+msgstr ""
 
 #. ID 124
-msgid "‚e‚b’n‰º003"
-msgstr "FC Underground 003"
+msgid "FC Underground 003"
+msgstr ""
 
 #. ID 125
-msgid "‚e‚b’n‰º004"
-msgstr "FC Underground 004"
+msgid "FC Underground 004"
+msgstr ""
 
 #. ID 126
-msgid "‚e‚b’n‰º005"
-msgstr "FC Underground 005"
+msgid "FC Underground 005"
+msgstr ""
 
 #. ID 127
-msgid "‚e‚b’n‰º006"
-msgstr "FC Underground 006"
+msgid "FC Underground 006"
+msgstr ""
 
 #. ID 128
-msgid "‚e‚b’n‰º007"
-msgstr "FC Underground 007"
+msgid "FC Underground 007"
+msgstr ""
 
 #. ID 129
-msgid "‚e‚b’n‰º008"
-msgstr "FC Underground 008"
+msgid "FC Underground 008"
+msgstr ""
 
 #. ID 130
-msgid "‚e‚b’n‰º009"
-msgstr "FC Underground 009"
+msgid "FC Underground 009"
+msgstr ""
 
 #. ID 131
-msgid "‚e‚b’n‰º010"
-msgstr "FC Underground 010"
+msgid "FC Underground 010"
+msgstr ""
 
 #. ID 132
-msgid "‚e‚b’n‰º011"
-msgstr "FC Underground 011"
+msgid "FC Underground 011"
+msgstr ""
 
 #. ID 133
-msgid "‚e‚b’n‰º012"
-msgstr "FC Underground 012"
+msgid "FC Underground 012"
+msgstr ""
 
 #. ID 134
-msgid "‚e‚b’n‰º013"
-msgstr "FC Underground 013"
+msgid "FC Underground 013"
+msgstr ""
 
 #. ID 135
-msgid "‚e‚b’n‰º014"
-msgstr "FC Underground 014"
+msgid "FC Underground 014"
+msgstr ""
 
 #. ID 136
-msgid "‚e‚b’n‰º015"
-msgstr "FC Underground 015"
+msgid "FC Underground 015"
+msgstr ""
 
 #. ID 137
-msgid "‚e‚b’n‰º016"
-msgstr "FC Underground 016"
+msgid "FC Underground 016"
+msgstr ""
 
 #. ID 138
-msgid "‚e‚b’n‰º017"
-msgstr "FC Underground 017"
+msgid "FC Underground 017"
+msgstr ""
 
 #. ID 139
-msgid "‚e‚b’n‰º018"
-msgstr "FC Underground 018"
+msgid "FC Underground 018"
+msgstr ""
 
 #. ID 140
-msgid "‚e‚b’n‰º019"
-msgstr "FC Underground 019"
+msgid "FC Underground 019"
+msgstr ""
 
 #. ID 141
-msgid "‚e‚b’n‰º020"
-msgstr "FC Underground 020"
+msgid "FC Underground 020"
+msgstr ""
 
 #. ID 142
-msgid "‚e‚b’n‰º021"
-msgstr "FC Underground 021"
+msgid "FC Underground 021"
+msgstr ""
 
 #. ID 143
-msgid "‚e‚b’n‰º022"
-msgstr "FC Underground 022"
+msgid "FC Underground 022"
+msgstr ""
 
 #. ID 144
-msgid "‚e‚b“ü‚èŒû‚a"
-msgstr "FC Entrance B"
+msgid "FC Entrance B"
+msgstr ""
 
 #. ID 145
-msgid "‚e‚b¬ƒ}ƒbƒv001"
-msgstr "FC little map 001"
+msgid "FC little map 001"
+msgstr ""
 
 #. ID 146
-msgid "‚e‚b¬ƒ}ƒbƒv002"
-msgstr "FC little map 002"
+msgid "FC little map 002"
+msgstr ""
 
 #. ID 147
-msgid "‚e‚b‘º001"
-msgstr "FC Village 001"
+msgid "FC Village 001"
+msgstr ""
 
 #. ID 148
-msgid "‚e‚bÀÞÝ¼Þ®Ý001"
-msgstr "FC Down 001"
+msgid "FC Down 001"
+msgstr ""
 
 #. ID 149
-msgid "‚e‚bÀÞÝ¼Þ®Ý002"
-msgstr "FC Down 002"
+msgid "FC Down 002"
+msgstr ""
 
 #. ID 150
-msgid "‚e‚bÀÞÝ¼Þ®Ý003"
-msgstr "FC Down 003"
+msgid "FC Down 003"
+msgstr ""
 
 #. ID 151
-msgid "‚e‚b‘º002"
-msgstr "FC Village 002"
+msgid "FC Village 002"
+msgstr ""
 
 #. ID 152
-msgid "‚e‚b‘º’n‰º"
-msgstr "FC Village Undg."
+msgid "FC Village Undg."
+msgstr ""
 
 #. ID 153
-msgid "‚e‚b¬ƒ}ƒbƒv003"
-msgstr "FC little map 003"
+msgid "FC little map 003"
+msgstr ""
 
 #. ID 154
-msgid "‚e‚b‘º003"
-msgstr "FC Village 003"
+msgid "FC Village 003"
+msgstr ""
 
 #. ID 155
-msgid "ƒtƒ@ƒ~ƒQ[‚P"
-msgstr "FamiGame"
+msgid "FamiGame"
+msgstr ""
 
 #. ID 156
-msgid "ƒGƒ“ƒfƒBƒ“ƒO"
-msgstr "Ending"
+msgid "Ending"
+msgstr ""
 
 #. ID 157
-msgid "‚e‚bÀÞÝ¼Þ®Ý002?"
-msgstr "FC down 002?"
+msgid "FC down 002?"
+msgstr ""
 
 #. ID 158
-msgid "‚e‚b‘S‘Ì"
-msgstr "FC All"
+msgid "FC All"
+msgstr ""
 
 #. ID 159
-msgid "ƒxƒbƒh‚Ì’†‚ÌŠK’i"
-msgstr "Stairs in the bed"
+msgid "Stairs in the bed"
+msgstr ""
 
 #. ID 160
-msgid "‘qŒÉ‘O’Ê˜H"
-msgstr "Road to Warehouse"
+msgid "Road to Warehouse"
+msgstr ""
 
 #. ID 161
-msgid "‘qŒÉ‘O’Ê˜Hi‰Šj"
-msgstr "Road to Warehouse(fire)"
+msgid "Road to Warehouse(fire)"
+msgstr ""
 
 #. ID 162
-msgid "0036"
-msgstr "Warehouse"
+msgid "Warehouse"
+msgstr ""
 
 #. ID 163
-msgid "‰F’ˆ‘D“ü‚èŒû"
-msgstr "Entrance to spaceship"
+msgid "Entrance to spaceship"
+msgstr ""
 
 #. ID 164
-msgid "000000164"
-msgstr "Spaceship_01"
+msgid "Spaceship_01"
+msgstr ""
 
 #. ID 165
-msgid "000000165"
-msgstr "Spaceship_02"
+msgid "Spaceship_02"
+msgstr ""
 
 #. ID 166
-msgid "000000166"
-msgstr "Spaceship_03"
+msgid "Spaceship_03"
+msgstr ""
 
 #. ID 167
-msgid "‰F’ˆ‘DoŒû"
-msgstr "Spaceship Exit"
+msgid "Spaceship Exit"
+msgstr ""
 
 #. ID 168
-msgid "‰Î¯_01"
-msgstr "Mars_01"
+msgid "Mars_01"
+msgstr ""
 
 #. ID 169
-msgid "‰Î¯_02"
-msgstr "Mars_02"
+msgid "Mars_02"
+msgstr ""
 
 #. ID 170
-msgid "‰Î¯_03"
-msgstr "Mars_03"
+msgid "Mars_03"
+msgstr ""
 
 #. ID 171
-msgid "‰Î¯_04"
-msgstr "Mars_04"
+msgid "Mars_04"
+msgstr ""
 
 #. ID 172
-msgid "‰Î¯_05"
-msgstr "Mars_05"
+msgid "Mars_05"
+msgstr ""
 
 #. ID 173
-msgid "‰Î¯’n‰º_01"
-msgstr "Mars Down_01"
+msgid "Mars Down_01"
+msgstr ""
 
 #. ID 174
-msgid "‰Î¯’n‰º_02"
-msgstr "Mars Down_02"
+msgid "Mars Down_02"
+msgstr ""
 
 #. ID 175
-msgid "ƒfƒp[ƒg‚c"
-msgstr "Department D"
+msgid "Department D"
+msgstr ""
 
 #. ID 176
-msgid "000000000013"
-msgstr "Department Roof"
+msgid "Department Roof"
+msgstr ""
 
 #. ID 177
-msgid "‚Ù‚¤‚«‚Å”òs"
-msgstr "Broom Fly"
+msgid "Broom Fly"
+msgstr ""
 

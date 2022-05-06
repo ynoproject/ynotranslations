@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 121, Page 1, Line 5, Pos (92,7)
-msgid "                     Fatten"
-msgstr "　　　　　　　　　　 ★變胖★"
+msgid "　　　　　　　　　　 ★变胖★"
+msgstr ""
 

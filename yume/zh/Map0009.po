@@ -9,98 +9,98 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 14, Page 2, Line 4, Pos (13,12)
-msgid "                   Snow Woman"
-msgstr "　　　　　　　　　　 ★雪女★"
+msgid "　　　　　　　　　　 ★雪女★"
+msgstr ""
 
 #. ID 15, Page 2, Line 4, Pos (16,10)
-msgid "                      Frog"
-msgstr "　　　　　　　　　　 ★青蛙★"
+msgid "　　　　　　　　　　 ★青蛙★"
+msgstr ""
 
 #. ID 16, Page 2, Line 4, Pos (14,15)
-msgid "                     Umbrella"
-msgstr "　　　　　　　　　　　 ★傘★"
+msgid "　　　　　　　　　　　 ★伞★"
+msgstr ""
 
 #. ID 17, Page 2, Line 4, Pos (14,11)
-msgid "                    Hat & Scarf"
-msgstr "　　　　　　　　　 ★帽子和圍巾★"
+msgid "　　　　　　　　　 ★帽子和围巾★"
+msgstr ""
 
 #. ID 18, Page 2, Line 5, Pos (12,14)
-msgid "                    Eye Palm"
-msgstr "　　　　　　　　　　★眼珠手★"
+msgid "　　　　　　　　　　★眼珠手★"
+msgstr ""
 
 #. ID 19, Page 2, Line 5, Pos (12,16)
-msgid "                     Get fat"
-msgstr "　　　　　　　　　　 ★變胖★"
+msgid "　　　　　　　　　　 ★变胖★"
+msgstr ""
 
 #. ID 20, Page 2, Line 4, Pos (13,18)
-msgid "                      Midget"
-msgstr "　　　　　　　　　　 ★小人★"
+msgid "　　　　　　　　　　 ★小人★"
+msgstr ""
 
 #. ID 21, Page 2, Line 4, Pos (14,19)
-msgid "                     Whistle"
-msgstr "            　　　　　★笛子★"
+msgid "            　　　　　★笛子★"
+msgstr ""
 
 #. ID 22, Page 2, Line 4, Pos (15,17)
-msgid "                       Neon"
-msgstr "　　　　　　　　　　★霓虹燈★"
+msgid "　　　　　　　　　　★霓虹灯★"
+msgstr ""
 
 #. ID 23, Page 2, Line 4, Pos (16,20)
-msgid "                 Faceless Ghost"
-msgstr "　　　　　 　　　　★無臉妖怪★"
+msgid "　　　　　 　　　　★无脸妖怪★"
+msgstr ""
 
 #. ID 24, Page 2, Line 4, Pos (18,20)
-msgid "                    Talking Head"
-msgstr "　　　　　　　　 　　★頭顱★"
+msgid "　　　　　　　　 　　★头颅★"
+msgstr ""
 
 #. ID 25, Page 2, Line 4, Pos (19,13)
-msgid "                     Poo Hair"
-msgstr "　　　　　　　　　　 ★大便頭★"
+msgid "　　　　　　　　　　 ★大便头★"
+msgstr ""
 
 #. ID 26, Page 2, Line 4, Pos (20,15)
-msgid "                   Kitchen Knife"
-msgstr "　　　　　　　　　　 ★菜刀★"
+msgid "　　　　　　　　　　 ★菜刀★"
+msgstr ""
 
 #. ID 27, Page 2, Line 4, Pos (20,19)
-msgid "                  Spirit Headband"
-msgstr "　　　　　　　　　　 ★△頭巾★"
+msgid "　　　　　　　　　　 ★△头巾★"
+msgstr ""
 
 #. ID 28, Page 2, Line 4, Pos (21,18)
-msgid "                      Towel"
-msgstr "　　　　　　　　　　 ★毛毯★"
+msgid "　　　　　　　　　　 ★毛毯★"
+msgstr ""
 
 #. ID 29, Page 2, Line 4, Pos (22,16)
-msgid "                         Cat"
-msgstr "　　　　　　　　　　　 ★貓★"
+msgid "　　　　　　　　　　　 ★猫★"
+msgstr ""
 
 #. ID 30, Page 2, Line 4, Pos (22,14)
-msgid "                       Lamp"
-msgstr "　　　　　　　　　　　★路燈★"
+msgid "　　　　　　　　　　　★路灯★"
+msgstr ""
 
 #. ID 31, Page 2, Line 4, Pos (20,11)
-msgid "                    Long Hair"
-msgstr "　　　　　　　　　　　★長髮★"
+msgid "　　　　　　　　　　　★长发★"
+msgstr ""
 
 #. ID 32, Page 2, Line 4, Pos (21,12)
-msgid "                     Bicycle "
-msgstr "　　　　　　　　　　★腳踏車★"
+msgid "　　　　　　　　　　★自行车★"
+msgstr ""
 
 #. ID 33, Page 2, Line 4, Pos (18,10)
-msgid "                     Blonde"
-msgstr "　　　　　　　　　　　★金髮★"
+msgid "　　　　　　　　　　　★金发★"
+msgstr ""
 
 #. ID 34, Page 2, Line 4, Pos (15,13)
-msgid "                      Witch"
-msgstr "　　　　　　　　　　 ★魔女★"
+msgid "　　　　　　　　　　 ★魔女★"
+msgstr ""
 
 #. ID 35, Page 2, Line 4, Pos (17,12)
-msgid "                      Devil"
-msgstr "　　　　　　　 　　　 ★鬼★"
+msgid "　　　　　　　 　　　 ★鬼★"
+msgstr ""
 
 #. ID 36, Page 2, Line 4, Pos (17,18)
-msgid "                    Squish-Squish"
-msgstr "　　　　　　　 　　 ★軟綿綿★"
+msgid "　　　　　　　 　　 ★软绵绵★"
+msgstr ""
 
 #. ID 37, Page 2, Line 4, Pos (19,17)
-msgid "                   Traffic Light"
-msgstr "　　　　　　　　　　 ★紅綠燈★"
+msgid "　　　　　　　　　　 ★红绿灯★"
+msgstr ""
 

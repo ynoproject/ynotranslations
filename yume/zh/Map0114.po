@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 14, Page 1, Line 5, Pos (97,40)
-msgid "                  Spirit Headband"
-msgstr "　　　　　　　　　  ★△頭巾★"
+msgid "　　　　　　　　　  ★△头巾★"
+msgstr ""
 
