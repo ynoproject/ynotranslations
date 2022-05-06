@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 3, Page 1, Line 5, Pos (29,115)
-msgid "　　　　　　　　　　 ★毛毯★"
-msgstr ""
+msgid "                      Towel"
+msgstr "　　　　　　　　　　 ★毛毯★"
 

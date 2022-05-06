@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 119, Line 6
 msgid "\\$\\.\\.\\^"
-msgstr ""
+msgstr "\\$\\.\\.\\^"
 

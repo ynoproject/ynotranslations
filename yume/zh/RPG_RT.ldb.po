@@ -1,773 +1,776 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 1
 msgctxt "actors.name"
-msgid "附窗子"
-msgstr ""
+msgid "Madotsuki"
+msgstr "附窗子"
 
 #. ID 1
 #. ID 2
 msgctxt "items.name"
-msgid "青蛙"
-msgstr ""
+msgid "Frog"
+msgstr "青蛙"
 
 #. ID 1
 #. ID 2
 msgctxt "items.description"
-msgid "变身成「青蛙」。"
-msgstr ""
+msgid "Transform into a frog."
+msgstr "变身成「青蛙」。"
 
 #. ID 3
 #. ID 4
 msgctxt "items.name"
-msgid "伞"
-msgstr ""
+msgid "Umbrella"
+msgstr "伞"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
-msgid "撑起「伞」。"
-msgstr ""
+msgid "Use an umbrella."
+msgstr "撑起「伞」。"
 
 #. ID 5
 #. ID 6
 msgctxt "items.name"
-msgid "帽子和围巾"
-msgstr ""
+msgid "Hat & Scarf"
+msgstr "帽子和围巾"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
-msgid "戴上「帽子和围巾」。"
-msgstr ""
+msgid "Don a hat & scarf."
+msgstr "戴上「帽子和围巾」。"
 
 #. ID 7
 #. ID 8
 msgctxt "items.name"
-msgid "雪女"
-msgstr ""
+msgid "Snow Woman"
+msgstr "雪女"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
-msgid "变成「雪女」。"
-msgstr ""
+msgid "Morph into a Snow Woman."
+msgstr "变成「雪女」。"
 
 #. ID 9
 #. ID 10
 msgctxt "items.name"
-msgid "菜刀"
-msgstr ""
+msgid "Kitchen Knife"
+msgstr "菜刀"
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
-msgid "拿起「菜刀」。"
-msgstr ""
+msgid "Equip a kitchen knife."
+msgstr "拿起「菜刀」。"
 
 #. ID 11
 #. ID 12
 msgctxt "items.name"
-msgid "眼珠手"
-msgstr ""
+msgid "Eye Palm"
+msgstr "眼珠手"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
-msgid "变成「眼珠手」。"
-msgstr ""
+msgid "Warp into an Eye Palm."
+msgstr "变成「眼珠手」。"
 
 #. ID 13
 #. ID 14
 msgctxt "items.name"
-msgid "变胖"
-msgstr ""
+msgid "Fatten"
+msgstr "变胖"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
-msgid "变胖。"
-msgstr ""
+msgid "Balloon in size."
+msgstr "变胖。"
 
 #. ID 15
 #. ID 16
 msgctxt "items.name"
-msgid "小人"
-msgstr ""
+msgid "Midget"
+msgstr "小人"
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
-msgid "变小。"
-msgstr ""
+msgid "Shrink in size."
+msgstr "变小。"
 
 #. ID 17
 #. ID 18
 msgctxt "items.name"
-msgid "笛子"
-msgstr ""
+msgid "Flute"
+msgstr "笛子"
 
 #. ID 17
 #. ID 18
 msgctxt "items.description"
-msgid "拿起「笛子」。"
-msgstr ""
+msgid "Brandish a flute."
+msgstr "拿起「笛子」。"
 
 #. ID 19
 #. ID 20
 msgctxt "items.name"
-msgid "霓虹灯"
-msgstr ""
+msgid "Neon"
+msgstr "霓虹灯"
 
 #. ID 19
 #. ID 20
 msgctxt "items.description"
-msgid "点亮「霓虹灯」。"
-msgstr ""
+msgid "Glow like a neon sign."
+msgstr "点亮「霓虹灯」。"
 
 #. ID 21
 #. ID 22
 msgctxt "items.name"
-msgid "无脸妖怪"
-msgstr ""
+msgid "Faceless Ghost"
+msgstr "无脸妖怪"
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
-msgid "变成「无脸妖怪」。"
-msgstr ""
+msgid "Materialize as a faceless ghost."
+msgstr "变成「无脸妖怪」。"
 
 #. ID 23
 #. ID 24
 msgctxt "items.name"
-msgid "头颅"
-msgstr ""
+msgid "Severed Head"
+msgstr "头颅"
 
 #. ID 23
 #. ID 24
 msgctxt "items.description"
-msgid "变成「头颅」。"
-msgstr ""
+msgid "Be reduced to a severed head."
+msgstr "变成「头颅」。"
 
 #. ID 25
 #. ID 26
 msgctxt "items.name"
-msgid "毛毯"
-msgstr ""
+msgid "Towel"
+msgstr "毛毯"
 
 #. ID 25
 #. ID 26
 msgctxt "items.description"
-msgid "裹起「毛毯」。"
-msgstr ""
+msgid "Wrap yourself in a towel."
+msgstr "裹起「毛毯」。"
 
 #. ID 27
 #. ID 28
 msgctxt "items.name"
-msgid "猫"
-msgstr ""
+msgid "Cat"
+msgstr "猫"
 
 #. ID 27
 #. ID 28
 msgctxt "items.description"
-msgid "戴上「猫」的耳朵和尾巴。"
-msgstr ""
+msgid "Sprout cat-ears and a tail."
+msgstr "戴上「猫」的耳朵和尾巴。"
 
 #. ID 29
 #. ID 30
 msgctxt "items.name"
-msgid "路灯"
-msgstr ""
+msgid "Lamp"
+msgstr "路灯"
 
 #. ID 29
 #. ID 30
 msgctxt "items.description"
-msgid "变成「路灯」。"
-msgstr ""
+msgid "Change into a lamp."
+msgstr "变成「路灯」。"
 
 #. ID 31
 #. ID 32
 msgctxt "items.name"
-msgid "自行车"
-msgstr ""
+msgid "Bicycle"
+msgstr "自行车"
 
 #. ID 31
 #. ID 32
 msgctxt "items.description"
-msgid "骑上「自行车」。"
-msgstr ""
+msgid "Mount a bicycle."
+msgstr "骑上「自行车」。"
 
 #. ID 33
 #. ID 34
 msgctxt "items.name"
-msgid "长发"
-msgstr ""
+msgid "Long Hair"
+msgstr "长发"
 
 #. ID 33
 #. ID 34
 msgctxt "items.description"
-msgid "变成「长发」。"
-msgstr ""
+msgid "Grow long hair."
+msgstr "变成「长发」。"
 
 #. ID 35
 #. ID 36
 msgctxt "items.name"
-msgid "大便头"
-msgstr ""
+msgid "Poo Hair"
+msgstr "大便头"
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
-msgid "变成「大便头」。"
-msgstr ""
+msgid "Grow poo hair."
+msgstr "变成「大便头」。"
 
 #. ID 37
 #. ID 38
 msgctxt "items.name"
-msgid "金发"
-msgstr ""
+msgid "Blonde"
+msgstr "金发"
 
 #. ID 37
 #. ID 38
 msgctxt "items.description"
-msgid "变成金色长发。"
-msgstr ""
+msgid "Grow long blonde hair."
+msgstr "变成金色长发。"
 
 #. ID 39
 #. ID 40
 msgctxt "items.name"
-msgid "△头巾"
-msgstr ""
+msgid "Spirit Headband"
+msgstr "△头巾"
 
 #. ID 39
 #. ID 40
 msgctxt "items.description"
-msgid "戴上「△头巾」。"
-msgstr ""
+msgid "Put on a Spirit Headband."
+msgstr "戴上「△头巾」。"
 
 #. ID 41
 #. ID 42
 msgctxt "items.name"
-msgid "魔女"
-msgstr ""
+msgid "Witch"
+msgstr "魔女"
 
 #. ID 41
 #. ID 42
 msgctxt "items.description"
-msgid "变成「魔女」。"
-msgstr ""
+msgid "Become a witch incarnate."
+msgstr "变成「魔女」。"
 
 #. ID 43
 #. ID 44
 msgctxt "items.name"
-msgid "鬼"
-msgstr ""
+msgid "Oni"
+msgstr "鬼"
 
 #. ID 43
 #. ID 44
 msgctxt "items.description"
-msgid "变成「鬼」。"
-msgstr ""
+msgid "Reconstitute as an oni."
+msgstr "变成「鬼」。"
 
 #. ID 45
 #. ID 46
 msgctxt "items.name"
-msgid "软绵绵"
-msgstr ""
+msgid "Squish-Squish"
+msgstr "软绵绵"
 
 #. ID 45
 #. ID 46
 msgctxt "items.description"
-msgid "身体变得「软绵绵」。"
-msgstr ""
+msgid "Change into a squishy blob."
+msgstr "身体变得「软绵绵」。"
 
 #. ID 47
 #. ID 48
 msgctxt "items.name"
-msgid "红绿灯"
-msgstr ""
+msgid "Traffic Light"
+msgstr "红绿灯"
 
 #. ID 47
 #. ID 48
 msgctxt "items.description"
-msgid "变成「红绿灯」。"
-msgstr ""
+msgid "Change into a traffic light."
+msgstr "变成「红绿灯」。"
 
 #. ID 57
 msgctxt "items.name"
-msgid "游戏的说明"
-msgstr ""
+msgid "Tutorial"
+msgstr "游戏的说明"
 
 #. ID 57
 msgctxt "items.description"
-msgid "再看一遍游戏的说明。"
-msgstr ""
+msgid "Review the game's tutorial."
+msgstr "再看一遍游戏的说明。"
 
 msgctxt "terms.special_combat"
-msgid "愭惂峌寕偺僠儍儞僗両"
-msgstr ""
+msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
+msgstr "���"
 
 msgctxt "terms.escape_failure"
-msgid "摝偘愗傟側偐偭偨両"
-msgstr ""
+msgid "“¦‚°Ø‚ê‚È‚©‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.victory"
-msgid "愴偄偵彑偭偨両"
-msgstr ""
+msgid "í‚¢‚ÉŸ‚Á‚½I"
+msgstr "�"
 
 msgctxt "terms.defeat"
-msgid "晧偗偰偟傑偭偨丒丒丒"
-msgstr ""
+msgid "•‰‚¯‚Ä‚µ‚Ü‚Á‚½EEE"
+msgstr "�"
 
 msgctxt "terms.exp_received"
-msgid "偺宱尡抣傪妉摼両"
-msgstr ""
+msgid "‚ÌŒoŒ±’l‚ðŠl“¾I"
+msgstr ""
 
 msgctxt "terms.gold_recieved_a"
-msgid "偍嬥傪"
-msgstr ""
+msgid "‚¨‹à‚ð"
+msgstr ""
 
 msgctxt "terms.gold_recieved_b"
-msgid "庤偵擖傟偨両"
-msgstr ""
+msgid "Žè‚É“ü‚ê‚½I"
+msgstr ""
 
 msgctxt "terms.item_recieved"
-msgid "傪庤偵擖傟偨両"
-msgstr ""
+msgid "‚ðŽè‚É“ü‚ê‚½I"
+msgstr ""
 
 msgctxt "terms.attacking"
-msgid "偺峌寕両"
-msgstr ""
+msgid "‚ÌUŒ‚I"
+msgstr "�"
 
 msgctxt "terms.enemy_critical"
-msgid "夛怱偺堦寕両両"
-msgstr ""
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr "�"
 
 msgctxt "terms.actor_critical"
-msgid "捝崷偺堦寕両両"
-msgstr ""
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr "�"
 
 msgctxt "terms.defending"
-msgid "偼恎傪庣偭偰偄傞両"
-msgstr ""
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr ""
 
 msgctxt "terms.observing"
-msgid "偼條巕傪尒偰偄傞丒丒丒"
-msgstr ""
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr ""
 
 msgctxt "terms.focus"
-msgid "偼椡傪偨傔偰偄傞丒丒丒"
-msgstr ""
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr ""
 
 msgctxt "terms.autodestruction"
-msgid "偼帺敋偟偨両"
-msgstr ""
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr "�"
 
 msgctxt "terms.enemy_escape"
-msgid "偼摝偘偰偟傑偭偨両"
-msgstr ""
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.enemy_transform"
-msgid "偼巔傪曄偊偨両"
-msgstr ""
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr ""
 
 msgctxt "terms.enemy_damaged"
-msgid "偺僟儊乕僕傪梌偊偨両"
-msgstr ""
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr "�"
 
 msgctxt "terms.enemy_undamaged"
-msgid "偵僟儊乕僕傪梌偊傜傟側偄両"
-msgstr ""
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr "�"
 
 msgctxt "terms.actor_damaged"
-msgid "偺僟儊乕僕傪庴偗偨両"
-msgstr ""
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr "�"
 
 msgctxt "terms.actor_undamaged"
-msgid "偼僟儊乕僕傪庴偗偰偄側偄両"
-msgstr ""
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr "�"
 
 msgctxt "terms.skill_failure_a"
-msgid "偵偼岠偐側偐偭偨両"
-msgstr ""
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.skill_failure_b"
-msgid "偼暯婥偩偭偨両"
-msgstr ""
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.skill_failure_c"
-msgid "偼柊傜側偐偭偨両"
-msgstr ""
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.dodge"
-msgid "偼峌寕傪偐傢偟偨両"
-msgstr ""
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr "�"
 
 msgctxt "terms.use_item"
-msgid "傪巊偭偨両"
-msgstr ""
+msgid "‚ðŽg‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.hp_recovery"
-msgid "夞暅偟偨両"
-msgstr ""
+msgid "‰ñ•œ‚µ‚½I"
+msgstr "�"
 
 msgctxt "terms.parameter_increase"
-msgid "忋偑偭偨両"
-msgstr ""
+msgid "ã‚ª‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.parameter_decrease"
-msgid "壓偑偭偨両"
-msgstr ""
+msgid "‰º‚ª‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.enemy_hp_absorbed"
-msgid "扗偭偨両"
-msgstr ""
+msgid "’D‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.actor_hp_absorbed"
-msgid "扗傢傟偨両"
-msgstr ""
+msgid "’D‚í‚ê‚½I"
+msgstr ""
 
 msgctxt "terms.resistance_increase"
-msgid "偵嫮偔側偭偨両"
-msgstr ""
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.resistance_decrease"
-msgid "偵庛偔側偭偨両"
-msgstr ""
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.level_up"
-msgid "偵側偭偨両"
-msgstr ""
+msgid "‚É‚È‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.skill_learned"
-msgid "傪妎偊偨両"
-msgstr ""
+msgid "‚ðŠo‚¦‚½I"
+msgstr ""
 
 msgctxt "terms.shop_greeting1"
-msgid "乽偄傜偭偟傖偄傑偣乿"
-msgstr ""
+msgid "u‚¢‚ç‚Á‚µ‚á‚¢‚Ü‚¹v"
+msgstr ""
 
 msgctxt "terms.shop_regreeting1"
-msgid "乽傎偐偵偛梡審偼偛偞偄傑偡偐丠乿"
-msgstr ""
+msgid "u‚Ù‚©‚É‚²—pŒ‚Í‚²‚´‚¢‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_buy1"
-msgid "峸擖偡傞"
-msgstr ""
+msgid "w“ü‚·‚é"
+msgstr ""
 
 msgctxt "terms.shop_sell1"
-msgid "攧媝偡傞"
-msgstr ""
+msgid "”„‹p‚·‚é"
+msgstr "�"
 
 msgctxt "terms.shop_leave1"
-msgid "傗傔傞"
-msgstr ""
+msgid "‚â‚ß‚é"
+msgstr ""
 
 msgctxt "terms.shop_buy_select1"
-msgid "乽壗傪偍攦偄忋偘偵側傝傑偡偐丠乿"
-msgstr ""
+msgid "u‰½‚ð‚¨”ƒ‚¢ã‚°‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_buy_number1"
-msgid "乽偄偔偮偍攦偄忋偘偵側傝傑偡偐丠乿"
-msgstr ""
+msgid "u‚¢‚­‚Â‚¨”ƒ‚¢ã‚°‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_purchased1"
-msgid "乽枅搙偁傝偑偲偆偛偞偄傑偡乿"
-msgstr ""
+msgid "u–ˆ“x‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·v"
+msgstr "��"
 
 msgctxt "terms.shop_sell_select1"
-msgid "乽壗傪偍攧傝偵側傝傑偡偐丠乿"
-msgstr ""
+msgid "u‰½‚ð‚¨”„‚è‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_sell_number1"
-msgid "乽偄偔偮偍攧傝偵側傝傑偡偐丠乿"
-msgstr ""
+msgid "u‚¢‚­‚Â‚¨”„‚è‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_sold1"
-msgid "乽枅搙偁傝偑偲偆偛偞偄傑偡乿"
-msgstr ""
+msgid "u–ˆ“x‚ ‚è‚ª‚Æ‚¤‚²‚´‚¢‚Ü‚·v"
+msgstr "��"
 
 msgctxt "terms.shop_greeting2"
-msgid "乽偄傜偭偟傖偄両丂崱擔偼偳傫側梡偩偄丠乿"
-msgstr ""
+msgid "u‚¢‚ç‚Á‚µ‚á‚¢I@¡“ú‚Í‚Ç‚ñ‚È—p‚¾‚¢Hv"
+msgstr ""
 
 msgctxt "terms.shop_regreeting2"
-msgid "乽傎偐偵傕梡偑偁傞偐偄丠乿"
-msgstr ""
+msgid "u‚Ù‚©‚É‚à—p‚ª‚ ‚é‚©‚¢Hv"
+msgstr "�"
 
 msgctxt "terms.shop_buy2"
-msgid "峸擖偡傞"
-msgstr ""
+msgid "w“ü‚·‚é"
+msgstr ""
 
 msgctxt "terms.shop_sell2"
-msgid "攧媝偡傞"
-msgstr ""
+msgid "”„‹p‚·‚é"
+msgstr "�"
 
 msgctxt "terms.shop_leave2"
-msgid "傗傔傞"
-msgstr ""
+msgid "‚â‚ß‚é"
+msgstr ""
 
 msgctxt "terms.shop_buy_select2"
-msgid "乽壗傪攦偆傫偩偄丠乿"
-msgstr ""
+msgid "u‰½‚ð”ƒ‚¤‚ñ‚¾‚¢Hv"
+msgstr "�"
 
 msgctxt "terms.shop_buy_number2"
-msgid "乽偄偔偮攦偆傫偩偄丠乿"
-msgstr ""
+msgid "u‚¢‚­‚Â”ƒ‚¤‚ñ‚¾‚¢Hv"
+msgstr "�"
 
 msgctxt "terms.shop_purchased2"
-msgid "乽偁傝偑偲傛偭両乿"
-msgstr ""
+msgid "u‚ ‚è‚ª‚Æ‚æ‚ÁIv"
+msgstr "�"
 
 msgctxt "terms.shop_sell_select2"
-msgid "乽壗傪攧傞傫偩偄丠乿"
-msgstr ""
+msgid "u‰½‚ð”„‚é‚ñ‚¾‚¢Hv"
+msgstr "�"
 
 msgctxt "terms.shop_sell_number2"
-msgid "乽偄偔偮攧傞傫偩偄丠乿"
-msgstr ""
+msgid "u‚¢‚­‚Â”„‚é‚ñ‚¾‚¢Hv"
+msgstr "�"
 
 msgctxt "terms.shop_sold2"
-msgid "乽偁傝偑偲傛偭両乿"
-msgstr ""
+msgid "u‚ ‚è‚ª‚Æ‚æ‚ÁIv"
+msgstr "�"
 
 msgctxt "terms.shop_greeting3"
-msgid "乽偙傫偵偪偼丅偳傫側偛梡偱偡偐丠乿"
-msgstr ""
+msgid "u‚±‚ñ‚É‚¿‚ÍB‚Ç‚ñ‚È‚²—p‚Å‚·‚©Hv"
+msgstr ""
 
 msgctxt "terms.shop_regreeting3"
-msgid "乽傎偐偵傕偛梡偑偁傝傑偡偐丠乿"
-msgstr ""
+msgid "u‚Ù‚©‚É‚à‚²—p‚ª‚ ‚è‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_buy3"
-msgid "峸擖偡傞"
-msgstr ""
+msgid "w“ü‚·‚é"
+msgstr ""
 
 msgctxt "terms.shop_sell3"
-msgid "攧媝偡傞"
-msgstr ""
+msgid "”„‹p‚·‚é"
+msgstr "�"
 
 msgctxt "terms.shop_leave3"
-msgid "傗傔傞"
-msgstr ""
+msgid "‚â‚ß‚é"
+msgstr ""
 
 msgctxt "terms.shop_buy_select3"
-msgid "乽壗傪攦偭偰偔傟傑偡偐丠乿"
-msgstr ""
+msgid "u‰½‚ð”ƒ‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_buy_number3"
-msgid "乽偄偔偮攦偭偰偔傟傑偡偐丠乿"
-msgstr ""
+msgid "u‚¢‚­‚Â”ƒ‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_purchased3"
-msgid "乽偳偆傕偁傝偑偲偆乿"
-msgstr ""
+msgid "u‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤v"
+msgstr "�"
 
 msgctxt "terms.shop_sell_select3"
-msgid "乽壗傪攧偭偰偔傟傑偡偐丠乿"
-msgstr ""
+msgid "u‰½‚ð”„‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_sell_number3"
-msgid "乽偄偔偮攧偭偰偔傟傑偡偐丠乿"
-msgstr ""
+msgid "u‚¢‚­‚Â”„‚Á‚Ä‚­‚ê‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.shop_sold3"
-msgid "乽偳偆傕偁傝偑偲偆乿"
-msgstr ""
+msgid "u‚Ç‚¤‚à‚ ‚è‚ª‚Æ‚¤v"
+msgstr "�"
 
 msgctxt "terms.inn_a_greeting_1"
-msgid "乽廻攽椏嬥偼"
-msgstr ""
+msgid "uh”‘—¿‹à‚Í"
+msgstr "�"
 
 msgctxt "terms.inn_a_greeting_2"
-msgid "偵側傝傑偡丅"
-msgstr ""
+msgid "‚É‚È‚è‚Ü‚·B"
+msgstr ""
 
 msgctxt "terms.inn_a_greeting_3"
-msgid "丂偍攽傑傝偵側傝傑偡偐丠乿"
-msgstr ""
+msgid "@‚¨”‘‚Ü‚è‚É‚È‚è‚Ü‚·‚©Hv"
+msgstr "�"
 
 msgctxt "terms.inn_a_accept"
-msgid "攽傑傞"
-msgstr ""
+msgid "”‘‚Ü‚é"
+msgstr "�"
 
 msgctxt "terms.inn_a_cancel"
-msgid "攽傑傜側偄"
-msgstr ""
+msgid "”‘‚Ü‚ç‚È‚¢"
+msgstr "�"
 
 msgctxt "terms.inn_b_greeting_1"
-msgid "乽堦攽"
-msgstr ""
+msgid "uˆê”‘"
+msgstr "�"
 
 msgctxt "terms.inn_b_greeting_2"
-msgid "偩偑"
-msgstr ""
+msgid "‚¾‚ª"
+msgstr ""
 
 msgctxt "terms.inn_b_greeting_3"
-msgid "丂攽傑偭偰偄偔偐偄丠乿"
-msgstr ""
+msgid "@”‘‚Ü‚Á‚Ä‚¢‚­‚©‚¢Hv"
+msgstr "�"
 
 msgctxt "terms.inn_b_accept"
-msgid "攽傑傞"
-msgstr ""
+msgid "”‘‚Ü‚é"
+msgstr "�"
 
 msgctxt "terms.inn_b_cancel"
-msgid "攽傑傜側偄"
-msgstr ""
+msgid "”‘‚Ü‚ç‚È‚¢"
+msgstr "�"
 
 msgctxt "terms.possessed_items"
-msgid "強帩悢"
-msgstr ""
+msgid "ŠŽ”"
+msgstr "���"
 
 msgctxt "terms.equipped_items"
-msgid "憰旛悢"
-msgstr ""
+msgid "‘•”õ”"
+msgstr "��"
 
 msgctxt "terms.gold"
-msgid "日元"
-msgstr ""
+msgid "\\"
+msgstr "日元"
 
 msgctxt "terms.command_attack"
-msgid "峌寕"
-msgstr ""
+msgid "UŒ‚"
+msgstr "�"
 
 msgctxt "terms.command_defend"
-msgid "杊屼"
-msgstr ""
+msgid "–hŒä"
+msgstr ""
 
 msgctxt "terms.command_item"
-msgid "效果"
-msgstr ""
+msgid "Effect"
+msgstr "效果"
 
 msgctxt "terms.menu_quit"
-msgid "结束梦境"
-msgstr ""
+msgid "Quit Game"
+msgstr "结束梦境"
 
 msgctxt "terms.new_game"
-msgid "开始梦境"
-msgstr ""
+msgid "New Game"
+msgstr "开始梦境"
 
 msgctxt "terms.load_game"
-msgid "梦日记"
-msgstr ""
+msgid "Dream Diary"
+msgstr "梦日记"
 
 msgctxt "terms.exit_game"
-msgid "退出"
-msgstr ""
+msgid "Quit"
+msgstr "退出"
 
 msgctxt "terms.lvl_short"
-msgid "Ｅ"
-msgstr ""
+msgid "E"
+msgstr "Ｅ"
 
 msgctxt "terms.hp_short"
 msgid "$k"
-msgstr ""
+msgstr "$k"
 
 msgctxt "terms.save_game_message"
-msgid "写入【梦日记】"
-msgstr ""
+msgid "Write in Diary"
+msgstr "写入【梦日记】"
 
 msgctxt "terms.load_game_message"
-msgid "读取【梦日记】"
-msgstr ""
+msgid "Read Diary"
+msgstr "读取【梦日记】"
 
 msgctxt "terms.file"
-msgid "PAGE"
-msgstr ""
+msgid "Page"
+msgstr "PAGE"
 
 msgctxt "terms.exit_game_message"
-msgid "要结束梦境了吗？"
-msgstr ""
+msgid "Do you want to quit?"
+msgstr "要结束梦境了吗？"
 
 msgctxt "terms.yes"
-msgid "是"
-msgstr ""
+msgid "Yes"
+msgstr "是"
 
 msgctxt "terms.no"
-msgid "否"
-msgstr ""
+msgid "No"
+msgstr "否"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_skill_cost_separator"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_equipment_arrow"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_status_scene_name"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_status_scene_class"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_status_scene_title"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_status_scene_condition"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_status_scene_front"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_status_scene_back"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_order_scene_confirm"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_order_scene_redo"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_double_attack"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_defend"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_observe"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_charge"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_selfdestruct"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_escape"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_skill"
 msgid "default_term"
-msgstr ""
+msgstr "default_term"
 
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
-msgstr ""
-
+msgstr "default_term"

@@ -9,6 +9,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans"
 
 #. ID 2, Page 1, Line 5, Pos (14,14)
-msgid "　　　　　　　　　　 ★青蛙★"
-msgstr ""
+msgid "                      Frog"
+msgstr "　　　　　　　　　　 ★青蛙★"
 
