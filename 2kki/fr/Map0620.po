@@ -81,9 +81,9 @@ msgid ""
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
 "\\>$s$t$u$v: Séléction du Morceau\n"
-"\\>Z       : Jouer le Morceau・Ajouter Morceau No.\n"
+"\\>Z       : Jouer le morceau・Ajouter morceau n°\n"
 "\\>X       : Retourner au menu\n"
-"\\>Shift   : Voir les infos du Morceau・Ajouter"
+"\\>Shift   : Voir les infos du morceau・Ajouter"
 
 #. ID 1, Page 1, Line 1810, Pos (19,14)
 msgid ""
@@ -92,10 +92,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v: Séléction du Morceau\n"
-"\\>Z       : Jouer le Morceau・Changer de Variant\n"
+"\\>$s$t$u$v: Sélection du Morceau\n"
+"\\>Z       : Jouer morceau・Changer variante\n"
 "\\>X       : Retourner au menu\n"
-"\\>Shift   : Voir les infos du Morceau・Ajouter"
+"\\>Shift   : Voir infos morceau・Ajouter"
 
 #. ID 1, Page 1, Line 1823, Pos (19,14)
 msgid ""
@@ -106,7 +106,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[0]Options du Menu disponibles[1/3]\n"
 "\\>・Retour à l'écran du PC\n"
-"\\>・Passer à l'ancienne Salle de Son\n"
+"\\>・Passer à l'ancienne salle de son\n"
 "\\>・Afficher les instructions"
 
 #. ID 1, Page 1, Line 1829, Pos (19,14)
@@ -118,7 +118,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[0]Options du Menu disponibles[1/3]\n"
 "\\>・Retour à l'écran du PC\n"
-"\\>・Passer à l'Ancienne Salle de Son\\_/\\_Salle de Son ED\n"
+"\\>・Passer à l'ancienne salle de son\\_/\\_ED\n"
 "\\>・Afficher les instructions"
 
 #. ID 1, Page 1, Line 1841, Pos (19,14)
@@ -129,9 +129,9 @@ msgid ""
 "\\>・演奏を止める"
 msgstr ""
 "\\>\\C[10]■ \\C[0]Options du Menu disponibles[2/3]\n"
-"\\>・Changer le Mode de Lecture\n"
-"\\>・Paramètres de Lecture Automatique\n"
-"\\>・Arrêter le Morceau "
+"\\>・Changer le mode de lecture\n"
+"\\>・Paramètres de lecture automatique\n"
+"\\>・Arrêter le morceau "
 
 #. ID 1, Page 1, Line 1852, Pos (19,14)
 msgid ""
@@ -142,7 +142,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[0]Options du Menu disponibles[3/3]\n"
 "\\>・Écouter et ajouter des morceaux\n"
-"\\>・Changer de Playlist\\_/\\_Tout retirer\n"
+"\\>・Changer de playlist\\_/\\_Tout retirer\n"
 "\\>・Paramètres avancés"
 
 #. ID 1, Page 1, Line 1859, Pos (19,14)
@@ -159,7 +159,7 @@ msgstr "Recherche de Morceau"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "未解放箇所を探す"
-msgstr "Locked Track Search"
+msgstr "Recherche de Morceau Verrouillé"
 
 #. ID 1, Page 1, Line 1865, Pos (19,14)
 msgid ""
@@ -180,7 +180,7 @@ msgid ""
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Comment ajouter un morceau à une playlist\n"
+"\\>\\C[10]■ \\C[0]Ajouter des Morceaux à la Playlist\n"
 "\\>\n"
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
@@ -191,9 +191,9 @@ msgid ""
 "\\>\n"
 "\\>Shiftダイアログから選択"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Comment ajouter un morceau à une playlist\n"
+"\\>\\C[10]■ \\C[0]Ajouter des Morceaux à la Playlist\n"
 "\\>\n"
-"\\>Select from shift dialog"
+"\\>Sélectionner à partir du dialogue Maj"
 
 #. ID 1, Page 1, Line 1910, Pos (19,14)
 #. Choice (2 options)
@@ -202,7 +202,7 @@ msgid ""
 "\\>ギブアップ"
 msgstr ""
 "\\>Afficher l'indice\n"
-"\\>Abandonne"
+"\\>Abandonner"
 
 #. ID 1, Page 1, Line 1925, Pos (19,14)
 msgid ""
@@ -351,9 +351,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[119]秒\\C[0]経過"
 msgstr ""
-"\\>Ordre des morceaux   : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Play Time       : \\C[4]\\V[119]s\\C[0] in"
+"\\>Ordre des Morceaux : \\C[4]\\N[6]\\C[0]\n"
+"\\>Condition de Temps Écoulé : \\C[4]\\N[1]\\C[0]\n"
+"\\>Durée de Lecture           : \\C[4]\\V[119]s\\C[0] in"
 
 #. ID 1, Page 1, Line 2154, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -362,9 +362,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[593]分\\V[594]秒\\C[0]経過"
 msgstr ""
-"\\>Ordre des morceaux         : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Play Time           : \\C[4]\\V[593]m \\V[594]s\\C[0] in"
+"\\>Ordre des Morceaux : \\C[4]\\N[6]\\C[0]\n"
+"\\>Condition de Temps Écoulé : \\C[4]\\N[1]\\C[0]\n"
+"\\>Durée de Lecture           : \\C[4]\\V[593]m \\V[594]s\\C[0] in"
 
 #. ID 1, Page 1, Line 2177, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -373,9 +373,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>ループ回数：\\C[4]\\V[593]回\\C[0]"
 msgstr ""
-"\\>Ordre des morceaux         : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Nombre de répétitions          : \\C[4]\\V[593] Times\\C[0]"
+"\\>Ordre des Morceaux : \\C[4]\\N[6]\\C[0]\n"
+"\\>Condition de Temps Écoulé : \\C[4]\\N[1]\\C[0]\n"
+"\\>Nombre de Répétitions          : \\C[4]\\V[593] Fois\\C[0]"
 
 #. ID 1, Page 1, Line 2201, Pos (19,14)
 msgid ""
@@ -383,14 +383,14 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の選曲方法を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Définir l'ordre des morceaux\\C[0] (Paramètre actuel: \\C[4]\\N[6]\\C[0]）\n"
+"\\>\\C[10]■ \\C[6]Définir l'ordre des morceaux\\C[0] (Réglage actuel : \\C[4]\\N[6]\\C[0]）\n"
 "\\>\n"
 "\\>> Vous pouvez changer l'ordre de passage des morceaux"
 
 #. ID 1, Page 1, Line 2204, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]選曲タイプの設定\\C[0]（現在：\\C[4]\\N[6]\\C[0]）"
-msgstr "\\>\\C[10]■ \\C[6]Définir l'ordre des morceaux\\C[0] (Paramètre actuel: \\C[4]\\N[6]\\C[0]）"
+msgstr "\\>\\C[10]■ \\C[6]Définir l'ordre des morceaux\\C[0] (Réglage actuel : \\C[4]\\N[6]\\C[0]）"
 
 #. ID 1, Page 1, Line 2205, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -409,9 +409,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の切替条件を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Elapse Condition\\C[0] (Paramètre actuel: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Cond. de Temps Écoulé\\C[0] (Réglage act. : \\C[4]\\N[1]\\C[0])\n"
 "\\>\n"
-"\\>> Vous pouvez changer quand le prochain morceau passera."
+"\\>> Vous pouvez changer quand le prochain morceau jouera."
 
 #. ID 1, Page 1, Line 2225, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -419,7 +419,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]切替条件の設定\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Elapse Condition\\C[0] (Paramètre actuel: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Cond. de Temps Écoulé\\C[0] (Réglage act. : \\C[4]\\N[1]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2227, Pos (19,14)
@@ -428,8 +428,8 @@ msgid ""
 "\\>・時間経過\n"
 "\\>・ループ回数"
 msgstr ""
-"\\>・Time Elapsed\n"
-"\\>・Nombre de répétitions"
+"\\>・Temps Écoulé\n"
+"\\>・Nombre de Répétitions"
 
 #. ID 1, Page 1, Line 2248, Pos (19,14)
 msgid ""
@@ -438,10 +438,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Paramètres de temps écoulé\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
 "\\>\n"
 "\\>> Combien de temps chaque morceau doit-il durer ? (1~9999)\n"
-"\\>  (Paramètre actuel: \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>    (Réglage actuel : \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2252, Pos (19,14)
 msgid ""
@@ -449,9 +449,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Paramètres de temps écoulé\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
 "\\>\n"
-"\\>  (Paramètre actuel: \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>  (Réglage actuel : \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2267, Pos (19,14)
 msgid ""
@@ -460,10 +460,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Paramètres de temps écoulé\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
 "\\>\n"
 "\\>> Combien de temps chaque morceau doit-il durer ? (1~9999)\n"
-"\\>> (Paramètre actuel: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>> (Réglage actuel : \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2271, Pos (19,14)
 msgid ""
@@ -471,9 +471,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Paramètres de temps écoulé\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
 "\\>\n"
-"\\>> (Paramètre actuel: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>> (Réglage actuel : \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2288, Pos (19,14)
 msgid ""
@@ -482,10 +482,10 @@ msgid ""
 "\\>＞何回に設定しますか？（1～9）\n"
 "\\>　（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Paramètres du nombre de répétitions\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Paramètres du Nombre de Répétitions\\C[0]\n"
 "\\>\n"
 "\\>> Combien de fois les morceaux doivent-ils se répéter ? (1~9)\n"
-"\\>  (Paramètre actuel: \\C[4]\\V[119] Times\\C[0]  0 pour laisser inchangé)"
+"\\>(Réglage actuel: \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2292, Pos (19,14)
 msgid ""
@@ -493,9 +493,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Paramètres du nombre de répétitions\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Paramètres du Nombre de Répétitions\\C[0]\n"
 "\\>\n"
-"\\>  (Paramètre actuel: \\C[4]\\V[119] Times\\C[0]  0 pour laisser inchangé)"
+"\\>  (Réglage actuel: \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2318, Pos (19,14)
 msgid ""
@@ -537,8 +537,8 @@ msgid ""
 "\\>操作ラグの時間：\\C[4]\\V[109]\\C[0]　　　 （標準：5）\n"
 "\\>次の項目へ"
 msgstr ""
-"\\>Bruitages: \\C[4]\\N[6]\\C[0]　　(Default: On)\n"
-"\\>Temps de délai   : \\C[4]\\V[109]\\C[0]　　　 (Default: 5)\n"
+"\\>Bruitages       : \\C[4]\\N[6]\\C[0]　  　(Par défaut : On)\n"
+"\\>Temps de délai  : \\C[4]\\V[109]\\C[0]　　　 (Par défaut : 5)\n"
 "\\>Page suivante"
 
 #. ID 1, Page 1, Line 2466, Pos (19,14)
@@ -547,9 +547,9 @@ msgid ""
 "\\>\n"
 "\\>＞操作音の有無を選べます"
 msgstr ""
-"\\>\\C[10]■\\C[6]Bruitages\\C[0] (Paramètre actuel: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■\\C[6]Bruitages\\C[0] (Réglage actuel : \\C[4]\\N[6]\\C[0])\n"
 "\\>\n"
-"\\>> Vous pouvez choisir d'activer ou non les bruitages"
+"\\>> Vous pouvez choisir d'activer ou non les sons"
 
 #. ID 1, Page 1, Line 2469, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -557,7 +557,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]操作時の効果音\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■\\C[6]Bruitages\\C[0] (Paramètre actuel: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■\\C[6]Bruitages\\C[0] (Réglage actuel : \\C[4]\\N[6]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2471, Pos (19,14)
@@ -576,6 +576,10 @@ msgid ""
 "\\>＞キー入力が反映されるまでの\n"
 "\\>　時間を設定してください（0～9）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Temps de délai\\C[0]\n"
+"\\>\n"
+"\\>＞ Veuillez entrer le temps de délai qu'aura la\n"
+"\\>　 touche (0～9）"
 
 #. ID 1, Page 1, Line 2498, Pos (19,14)
 msgid ""
@@ -583,6 +587,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[109]\\C[0]  標準：5  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Temps de délai\\C[0]\n"
+"\\>\n"
+"\\>＞（Actuel : \\C[4]\\V[109]\\C[0]  Normal : 5  0 conserve l'état act.）"
 
 #. ID 1, Page 1, Line 2539, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -603,8 +610,8 @@ msgid ""
 "\\>未解放の通知　：\\C[4]\\N[1]\\C[0]　　（標準：なし）\n"
 "\\>前の項目へ"
 msgstr ""
-"\\>Vitesse de transition   : \\C[4]\\N[6]\\C[0] (Par défaut: Lente)\n"
-"\\>Notification verrouillée: \\C[4]\\N[1]\\C[0]  (Par défaut: Off)\n"
+"\\>Vitesse de transition   : \\C[4]\\N[6]\\C[0] (Défaut : Lente)\n"
+"\\>Notification verrouillée : \\C[4]\\N[1]\\C[0]  (Défaut : Off)\n"
 "\\>Page précédente"
 
 #. ID 1, Page 1, Line 2572, Pos (19,14)
@@ -613,6 +620,9 @@ msgid ""
 "\\>\n"
 "\\>＞演出変更時の切り替え方式を選べます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Vitesse de transition\\C[0]（Actuel：\\C[4]\\N[6]\\C[0]）\n"
+"\\>\n"
+"\\>＞Vous pouvez régler la transition entre les morceaux"
 
 #. ID 1, Page 1, Line 2575, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -620,6 +630,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]切り替え方式\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Vitesse de transition\\C[0]（Actuel：\\C[4]\\N[6]\\C[0]）\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2577, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -627,6 +639,8 @@ msgid ""
 "\\>・\\C[\\V[592]]ゆっくり\\C[0]（標準）\n"
 "\\>・\\C[\\V[593]]てきぱき\\C[0]"
 msgstr ""
+"\\>・\\C[\\V[592]]Lente\\C[0] (Défaut)\n"
+"\\>・\\C[\\V[593]]Rapide\\C[0]"
 
 #. ID 1, Page 1, Line 2614, Pos (19,14)
 msgid ""
@@ -635,6 +649,10 @@ msgid ""
 "\\>＞曲リストの未解放箇所を選択した時\n"
 "\\>　どう処理するか選べます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Notification verrouillée\\C[0]（Actuel：\\C[4]\\N[1]\\C[0]）\n"
+"\\>\n"
+"\\>＞Vous pouvez choisir quoi faire lorsque vous\n"
+"\\>　sélectionnez un morceau verrouillé"
 
 #. ID 1, Page 1, Line 2618, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -642,6 +660,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]未解放の通知\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Notification verrouillée\\C[0]（Actuel：\\C[4]\\N[1]\\C[0]）\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2620, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -649,6 +669,8 @@ msgid ""
 "\\>・\\C[\\V[592]]なし\\C[0]：飛ばして解放演出を流します（標準）\n"
 "\\>・\\C[\\V[593]]あり\\C[0]：演奏を止めてお知らせします"
 msgstr ""
+"\\>・\\C[\\V[592]]Off\\C[0]：Passera et jouera le prochain morceau disponible（Defaut）\n"
+"\\>・\\C[\\V[593]]On\\C[0]：La musique s'arrêtera pour vous le notifier"
 
 #. ID 1, Page 1, Line 2665, Pos (19,14)
 msgid ""
@@ -745,9 +767,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の演出です"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Changement de morceau\\C[0]\n"
 "\\>\n"
-"\\>> Ce variant est verrouillé"
+"\\>> Cette variante est verrouillée"
 
 #. ID 1, Page 2, Line 597, Pos (19,14)
 msgid ""
@@ -901,7 +923,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Changement de Mode de Lecture\\C[0]\n"
 "\\>\n"
-"\\>> Switched to \\N[6] Mode\\N[1]"
+"\\>> Changement vers le Mode \\N[6]\\N[1]"
 
 #. ID 1, Page 2, Line 898, Pos (19,14)
 msgid ""
@@ -932,10 +954,9 @@ msgid ""
 "\\>\n"
 "\\>＞どこからチェックを開始しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Vérification des morceaux verrouillés\n"
-"\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Vérification des Morceaux Verrouillés\\C[0]\n"
 "\\>\n"
-"\\>> À partir de quel morceau souhaitez-vous commencer la recherche ?\\<\\!"
+"\\>> De quel morceau voulez-vous commencer la recherche ?\\<\\!"
 
 #. ID 1, Page 2, Line 994, Pos (19,14)
 #. Choice (1 options, embedded in a message)
@@ -985,14 +1006,14 @@ msgid ""
 "\\>\n"
 "\\>＞未解放No.：\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Vérification des morceaux verrouillés\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Vérification des Morceaux Verrouillés\\C[0]\n"
 "\\>\n"
-"\\>> Morceau verrouillé No.: \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
+"\\>> Morceau verrouillé n° : \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 
 #. ID 1, Page 2, Line 1041, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>次へ = Z / 終了 = X"
-msgstr "\\>Prochain = Z / Finir = X"
+msgstr "\\>Suivant = Z / Finir = X"
 
 #. ID 1, Page 2, Line 1061, Pos (19,14)
 msgid ""
@@ -1000,7 +1021,7 @@ msgid ""
 "\\>\n"
 "\\>＞未解放箇所は見つかりませんでした"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Vérification des morceaux verrouillés\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Vérification des Morceaux Verrouillés\\C[0]\n"
 "\\>\n"
 "\\>> Aucun morceau verrouillé "
 
@@ -1010,9 +1031,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲を聞きながら登録できます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Écouter et enregistrer des morceaux\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Écouter et Enregistrer des Morceaux\\C[0]\n"
 "\\>\n"
-"\\>> Vous pouvez enregistrer des morceaux quand vous les avez écoutés"
+"\\>> Vous pouvez enregistrer les morceaux déjà écoutés"
 
 #. ID 1, Page 2, Line 1113, Pos (19,14)
 msgid ""
@@ -1021,7 +1042,7 @@ msgid ""
 "\\>＞曲名が暗くなっているのが未登録です\n"
 "\\>　指定No.が未解放の場合は飛ばします"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Écouter et enregistrer des morceaux\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Écouter et Enregistrer des Morceaux\\C[0]\n"
 "\\>\n"
 "\\>> Les morceaux non enregistrés apparaîtront en noir\n"
 "\\>  Les morceaux verrouillés seront passés"
@@ -1033,33 +1054,31 @@ msgid ""
 "\\>＞未解放曲が長く続く箇所があると\n"
 "\\>　切り替えに\\C[1]時間がかかります"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Écouter et enregistrer des morceaux\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Écouter et Enregistrer des Morceaux\\C[0]\n"
 "\\>\n"
-"\\>> Si il y a plusieurs morceaux verrouillés à la suite,\n"
-"\\>  il se pourrait que \\C[1]ça prenne du temps"
+"\\>> S'il y a plusieurs morceaux verrouillés à la suite,\n"
+"\\>  il se pourrait que \\C[1]cela prenne du temps"
 
 #. ID 1, Page 2, Line 1125, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Écouter et Enregistrer des Morceaux\\C[0]\n"
 "\\>\n"
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
 
 #. ID 1, Page 2, Line 1129, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
 "\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
 "\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register Playable TracksC[0]\n"
+"\\>\\C[10]■ \\C[6]Enregistrer des Morceaux Jouables\\C[0]\n"
 "\\>\n"
 "\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
 "\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
@@ -1091,7 +1110,7 @@ msgstr ""
 #. ID 1, Page 2, Line 1323, Pos (19,14)
 #. Contains choice at line 2 (2 options)
 msgid "\\>SRNo.：\\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
-msgstr "\\>Morceau No.: \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
+msgstr "\\>Morceau n° : \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
 
 #. ID 1, Page 2, Line 1292, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1101,8 +1120,8 @@ msgid ""
 "\\>メモリー登録 / 終了"
 msgstr ""
 "\\>Suivant = Z / Précédent = X\n"
-"\\>Jouer Morceau No.\n"
-"\\>Ajouter à la playlist / Quitter"
+"\\>Jouer Morceau n°\n"
+"\\>Ajouter à la Playlist / Quitter"
 
 #. ID 1, Page 2, Line 1305, Pos (19,14)
 msgid ""
@@ -1110,9 +1129,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Définir Morceau No.\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Définir Morceau n°\\C[0]\n"
 "\\>\n"
-"\\>> Veuillez spécifier le Morceau no. (\\C[1]1~\\V[111]\\C[0]  0 pour annuler）"
+"\\>> Spécifiez le n° du morceau (\\C[1]1~\\V[111]\\C[0] 0 pour annuler）"
 
 #. ID 1, Page 2, Line 1324, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1133,7 +1152,7 @@ msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
 "\\>> Sélectionnez le numéro de la playlist à ajouter\n"
-"\\>  (Mettre 0 pour No. 10)"
+"\\>  (Mettre 0 pour n° 10)"
 
 #. ID 1, Page 2, Line 1333, Pos (19,14)
 #. ID 1, Page 2, Line 1949, Pos (19,14)
@@ -1144,10 +1163,9 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>　 (Mettre 0 pour No. 10)"
+"\\>　 (Mettre 0 pour n° 10)"
 
 #. ID 1, Page 2, Line 1346, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1155,7 +1173,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Registered track to playlist slot no. \\V[101]"
+"\\>> Enregistrer le morceau dans la playlist à l'emplacement n°\\V[101]"
 
 #. ID 1, Page 2, Line 1414, Pos (19,14)
 msgid ""
@@ -1164,10 +1182,10 @@ msgid ""
 "\\>＞ジャンプ先No.を指定してください\n"
 "\\>　（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Définir la position du curseur\\C[0] (Actuelle: \\C[4]No.\\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Définir la Position du Curseur\\C[0] (Act. : \\C[4]N°\\V[110]\\C[0])\n"
 "\\>\n"
-"\\>> Veuillez spécifier à quel morceau voulez-vous aller\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 pour annuler  \\V[591] et au-delà sont aléatoires)"
+"\\>> Veuillez spécifier à quel morceau sauter\n"
+"\\> (\\C[1]1~\\V[111]\\C[0] 0 pour annuler \\V[591] et plus sont aléatoires)"
 
 #. ID 1, Page 2, Line 1418, Pos (19,14)
 msgid ""
@@ -1175,9 +1193,9 @@ msgid ""
 "\\>\n"
 "\\>＞（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Définir la position du curseur\\C[0] (Actuelle: \\C[4]No. \\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Définir la Position du Curseur\\C[0] (Act. : \\C[4]No. \\V[110]\\C[0])\n"
 "\\>\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 pour annuler  \\V[591] et au-delà sont aléatoires)"
+"\\>(\\C[1]1~\\V[111]\\C[0] 0 pour annuler \\V[591] et plus sont aléatoires)"
 
 #. ID 1, Page 2, Line 1579, Pos (19,14)
 msgid ""
@@ -1185,9 +1203,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にジャンプします\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Définir la position du curseur\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Définir la Position du Curseur\\C[0]\n"
 "\\>\n"
-"\\>> Aller au morceau no. \\V[110]\\<\\.\\.\\^"
+"\\>> Aller au morceau n° \\V[110]\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 1616, Pos (19,14)
 msgid ""
@@ -1241,7 +1259,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Afficher les Infos du Morceau\\C[0]\n"
 "\\>\n"
-"\\>> Le Morceau n'a pas pu être joué"
+"\\>> Le morceau n'a pas pu être joué"
 
 #. ID 1, Page 2, Line 1778, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -1253,13 +1271,12 @@ msgstr ""
 
 #. ID 1, Page 2, Line 1842, Pos (19,14)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：\\C[4]\\V[591]\\C[0])"
 msgstr ""
-"\\>Nom du fichier: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Morceau No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: \\C[4]\\V[591]\\C[0])"
+"\\>Nom du fichier : \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>Morceau n° : \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: \\C[4]\\V[591]\\C[0])"
 
 #. ID 1, Page 2, Line 1844, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1268,17 +1285,16 @@ msgid ""
 "\\>PC画面BGMに登録"
 msgstr ""
 "\\>Retirer de la Playlist\n"
-"\\>Utiliser en tant que musique de fond du PC"
+"\\>Utiliser en tant que Musique de fond du PC"
 
 #. ID 1, Page 2, Line 1860, Pos (19,14)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：---)"
 msgstr ""
-"\\>Nom du fichier: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Morceau No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: ---)"
+"\\>Nom du fichier : \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>Piste n° : \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Emplacement Playlist : ---)"
 
 #. ID 1, Page 2, Line 1862, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1287,10 +1303,9 @@ msgid ""
 "\\>PC画面BGMに登録"
 msgstr ""
 "\\>Ajouter à la Playlist\n"
-"\\>Utiliser en tant que musique de fond du PC"
+"\\>Utiliser en tant que Musique de fond du PC"
 
 #. ID 1, Page 2, Line 1888, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーを消去\\C[0]\n"
 "\\>\n"
@@ -1298,10 +1313,9 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Retirer de la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Le Morceau a été retiré de slot no. \\V[122]"
+"\\>> Le morceau a été retiré de l'emplacement n° \\V[122]"
 
 #. ID 1, Page 2, Line 1908, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーを消去\\C[0]\n"
 "\\>\n"
@@ -1309,10 +1323,9 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Retirer de la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Le Morceau a été retiré de slot no. \\V[591]"
+"\\>> Le morceau a été retiré de l'emplacement n° \\V[591]"
 
 #. ID 1, Page 2, Line 1929, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1320,7 +1333,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Le Morceau a été ajouté au slot no. \\V[592]"
+"\\>> Le morceau a été retiré de l'emplacement n° \\V[592]"
 
 #. ID 1, Page 2, Line 1937, Pos (19,14)
 msgid ""
@@ -1330,7 +1343,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Il n'y a plus de place disponible dans votre Playlist"
+"\\>> Il n'y a plus de place disponible dans votre playlist"
 
 #. ID 1, Page 2, Line 1940, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1341,7 +1354,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Voulez-vous écraser le Morceau actuel ?\\<\\!"
+"\\>> Voulez-vous écraser le morceau actuel ?\\<\\!"
 
 #. ID 1, Page 2, Line 1945, Pos (19,14)
 msgid ""
@@ -1352,8 +1365,8 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Entrer le no. de la slot à écraser\n"
-"\\>  (Entrez 0 pour slot no. 10)"
+"\\>> Entrer le n° de l'emplacement à écraser\n"
+"\\>  (Entrez 0 pour emplacement n° 10)"
 
 #. ID 1, Page 2, Line 1964, Pos (19,14)
 msgid ""
@@ -1363,7 +1376,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Slot no. \\V[592] a bien été écrasée"
+"\\>> L'emplacement n° \\V[592] a bien été écrasé"
 
 #. ID 1, Page 2, Line 1984, Pos (19,14)
 msgid ""
@@ -1371,9 +1384,9 @@ msgid ""
 "\\>\n"
 "\\>＞SR No.\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]を登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Utiliser en tant que musique de fond du PC\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Utiliser en tant que Musique de Fond du PC\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] a bien été ajoutée"
+"\\>> Le morceau n° \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] a bien été ajouté"
 
 #. ID 1, Page 2, Line 1996, Pos (19,14)
 msgid ""
@@ -1382,7 +1395,7 @@ msgid ""
 "\\>＞PCの \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
 "\\>＞登録した曲を設定できます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Utiliser en tant que musique de fond du PC\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Utiliser en tant que Musique de Fond du PC\\C[0]\n"
 "\\>\n"
 "\\>> PCの \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
 "\\>> 登録した曲を設定できます"
@@ -1586,17 +1599,16 @@ msgstr ""
 
 #. ID 1, Page 4, Line 428, Pos (19,14)
 #. ID 1, Page 4, Line 1167, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>　　　　　 \\C[4]☆ \\C[0]Unlocked Info \\C[4]★\\C[0]\n"
 "\\>\\C[1]♪\\C[0]Music  ：\\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
 "\\>\\C[1]♪\\C[0]Pattern：\\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
 "\\>\\C[1]♪\\C[0]Rate   ：\\C[4]\\V[591]％\\C[0] (\\N[6]\\V[5]％\\C[0])"
 msgstr ""
-"\\>　　　　　 \\C[4]☆ \\C[0]Unlocked Info \\C[4]★\\C[0]\n"
+"\\>　　　　　 \\C[4]☆ \\C[0]Information Déverrouillée \\C[4]★\\C[0]\n"
 "\\>\\C[1]♪\\C[0]Morceau  : \\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
-"\\>\\C[1]♪\\C[0]Variant: \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
-"\\>\\C[1]♪\\C[0]Note   : \\C[4]\\V[591]%\\C[0] (\\N[6]\\V[5]%\\C[0])"
+"\\>\\C[1]♪\\C[0]Variante : \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
+"\\>\\C[1]♪\\C[0]Note     : \\C[4]\\V[591]%\\C[0] (\\N[6]\\V[5]%\\C[0])"
 
 #. ID 1, Page 4, Line 440, Pos (19,14)
 msgid ""
@@ -1606,7 +1618,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Notice\\C[0]\n"
 "\\>\n"
-"\\>> Tous les Morceaux ont été déverrouillés !"
+"\\>> Tous les morceaux ont été déverrouillés !"
 
 #. ID 1, Page 4, Line 443, Pos (19,14)
 msgid ""
@@ -1618,7 +1630,7 @@ msgstr ""
 "\\>\\C[10]■ \\C[6]Notice\\C[0]\n"
 "\\>\n"
 "\\>> L'option de menu \"Recherche de Morceau verrouillé\"\n"
-"\\>  a été changé à \"Recherche de Morceau\""
+"\\>  a été remplacée par \"Recherche de Morceau\""
 
 #. ID 1, Page 4, Line 457, Pos (19,14)
 msgid ""
@@ -1812,7 +1824,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Le Morceau n'a pas pu être ajouté"
+"\\>> Le morceau n'a pas pu être ajouté"
 
 #. ID 1, Page 5, Line 371, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1823,7 +1835,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Voulez-vous entrer le No. d'un Morceau ?\\<\\!"
+"\\>> Voulez-vous entrer le n° d'un morceau ?\\<\\!"
 
 #. ID 1, Page 5, Line 378, Pos (19,14)
 msgid ""
@@ -1833,7 +1845,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Entrez un no. de Morceau (\\C[1]1~\\V[111]\\C[0] 0 pour annuler)"
+"\\>> Entrez un n° de morceau (\\C[1]1~\\V[111]\\C[0] 0 pour annuler)"
 
 #. ID 1, Page 5, Line 404, Pos (19,14)
 msgid ""
@@ -1843,13 +1855,13 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Entrez le no. d'un Variant de Morceau (\\C[1]1~\\V[104]\\C[0] 0 pour annuler)"
+"\\>> Entrez le n° de la variante de morceau (\\C[1]1~\\V[104]\\C[0] 0 pour annuler)"
 
 #. ID 1, Page 5, Line 434, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演出"
-msgstr "Variant"
+msgstr "Variante"
 
 #. ID 1, Page 5, Line 437, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -1858,7 +1870,6 @@ msgid "曲"
 msgstr "Morceau"
 
 #. ID 1, Page 5, Line 440, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1866,10 +1877,9 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> This \\N[6] is locked"
+"\\>> Ce \\N[6] est verrouillé"
 
 #. ID 1, Page 5, Line 468, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1877,7 +1887,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
-"\\>> Le Morceau no. \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] a été ajouté au slot no. \\V[110]"
+"\\>> Le morceau n° \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] a été ajouté à l'emplacement n° \\V[110]"
 
 #. ID 1, Page 5, Line 527, Pos (19,14)
 msgid ""
@@ -1887,7 +1897,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Recherche de Morceau\\C[0]\n"
 "\\>\n"
-"\\>> Temps écoulé: \\V[35]s"
+"\\>> Temps écoulé : \\V[35]s"
 
 #. ID 1, Page 5, Line 532, Pos (19,14)
 msgid ""
@@ -1934,7 +1944,7 @@ msgid ""
 msgstr ""
 "\\>Quitter la Salle de Son\n"
 "\\>Changer de Mode\n"
-"\\>Options avancées\n"
+"\\>Options Avancées\n"
 "\\>Afficher les Instructions"
 
 #. ID 1, Page 5, Line 625, Pos (19,14)
@@ -1970,7 +1980,7 @@ msgid ""
 "\\>\\C[4]退室して\\N[6]へ戻る\\C[0]\n"
 "\\>旧SRへ移動"
 msgstr ""
-"\\>\\C[4]Quitter la Salle et retourner à \\N[6]\\C[0]\n"
+"\\>\\C[4]Quitter et revenir à \\N[6]\\C[0]\n"
 "\\>Aller dans l'Ancienne Salle de Son"
 
 #. ID 1, Page 5, Line 650, Pos (19,14)
@@ -1985,9 +1995,9 @@ msgid ""
 "\\>旧SRへ移動\n"
 "\\>SREDを見る"
 msgstr ""
-"\\>\\C[4]Quitter la Salle et retourner à \\N[6]\\C[0]\n"
+"\\>\\C[4]Quitter la Salle et revenir à \\N[6]\\C[0]\n"
 "\\>Aller dans l'Ancienne Salle de Son\n"
-"\\>Voir Salle de Son ED"
+"\\>Voir la Salle de Son ED"
 
 #. ID 1, Page 5, Line 668, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -2007,7 +2017,7 @@ msgid ""
 "\\>自動曲送りの設定\n"
 "\\>演奏を止める"
 msgstr ""
-"\\>Passer au \\N[6] Mode\n"
+"\\>Passer au Mode \\N[6]\n"
 "\\>Paramètres de l'Autoplay\n"
 "\\>Arrêter le Morceau actuel"
 
@@ -2031,10 +2041,9 @@ msgstr ""
 
 #. ID 1, Page 5, Line 734, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#, fuzzy
 msgctxt "actors.name"
 msgid "カーソルジャンプ"
-msgstr "Cursor Jump"
+msgstr "Saut de Curseur"
 
 #. ID 1, Page 5, Line 744, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -2093,12 +2102,11 @@ msgstr ""
 
 #. ID 1, Page 5, Line 790, Pos (19,14)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\> 交換\n"
 "\\> 全消去"
 msgstr ""
-"\\> Swap\n"
+"\\> Échanger\n"
 "\\> Tout Supprimer"
 
 #. ID 1, Page 5, Line 794, Pos (19,14)
