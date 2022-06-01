@@ -1,17 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: Membres français du serveur discord de YNO\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 2.4.2\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -53,7 +52,7 @@ msgstr "?????"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "デバッグ"
-msgstr "Debug"
+msgstr "Débug"
 
 #. ID 14, Line 43
 #. ChangeHeroName (Actor 8)
@@ -277,7 +276,7 @@ msgid ""
 "\\>\\C[\\V[1]] 0010 (おなまえ)\n"
 "\\>\\N[1]"
 msgstr ""
-"\\>\\C[\\V[1]] 0010 (name)\n"
+"\\>\\C[\\V[1]] 0010 (nom)\n"
 "\\>\\N[1]"
 
 #. ID 43, Line 40
@@ -288,10 +287,10 @@ msgid ""
 "\\>マップ移動\n"
 "\\>内部データ表示"
 msgstr ""
-"\\>Change Walk Speed\n"
-"\\>Change Effects/Mask/Money\n"
-"\\>Set Map\n"
-"\\>Display Internal Data"
+"\\>Options de vitesse de mouvement\n"
+"\\>Changement d'Effets/Masques/Argent\n"
+"\\>Définir carte\n"
+"\\>Affichage des données interne"
 
 #. ID 43, Line 47
 #. Choice (4 options)
@@ -304,7 +303,7 @@ msgstr ""
 "\\>>>>>>　　Hypervitesse\n"
 "\\>>>>>　 Rapide\n"
 "\\>>>>　Un petit peu plus rapide que la normale.\n"
-"\\>>　Lent　* Cancel for default"
+"\\>>　Lent　* Annuler pour defaut"
 
 #. ID 43, Line 71
 msgid "\\>歩行速度 \\V[45] になりました。"
@@ -318,10 +317,10 @@ msgid ""
 "\\>所持金変更\n"
 "\\>デバッグ破棄"
 msgstr ""
-"\\>Obtain or Discard All Effects\n"
-"\\>Current Mask\n"
-"\\>Money\n"
-"\\>Discard Debug"
+"\\>Obtenir ou Enlever tout les Effets\n"
+"\\>Masque actuel\n"
+"\\>Argent\n"
+"\\>Enlever Débug"
 
 #. ID 43, Line 83
 #. Choice (2 options)
@@ -329,8 +328,8 @@ msgid ""
 "\\>エフェクト全取得\n"
 "\\>エフェクト全未取得"
 msgstr ""
-"\\>Obtain all effects\n"
-"\\>Discard all effects"
+"\\>Obtenir tout les effets\n"
+"\\>Enlever tout les effets"
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
@@ -338,13 +337,13 @@ msgstr "Tous les effets sont obtenus"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "Tous les effets ont été éparpillés"
+msgstr "Tous les effets ont été défaussés"
 
 #. ID 43, Line 126
 msgid ""
 "\\>◆お面屋の変身 ( 0 でキャンセル)\n"
 "\\>1～エフェ / 51～エフェMIX / 100～すっぴんランダム\n"
-"\\>/ 500000～その他Ev用"
+"\\>/ 500000～その他Ev用　　　現在の値:\\V[3930]"
 msgstr ""
 
 #. ID 43, Line 141
@@ -361,6 +360,10 @@ msgid ""
 "\\>扉部屋\n"
 "\\>1つ前のMAP"
 msgstr ""
+"\\>Saisie de l'ID de carte\n"
+"\\>Salle de Débug\n"
+"\\>Nexus\n"
+"\\>Carte précédente"
 
 #. ID 43, Line 172
 msgid ""
@@ -425,12 +428,12 @@ msgid ""
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
 "\\!\\>　　　セーブデータの引継ぎ処理を行います。"
 msgstr ""
-"\\>     Votre sauvegarde n'est pas dans la version la plus récente..\n"
-"\\>　　　　　　SaveData \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
-"\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
-"\\!\\>La sauvegarde va donc se mettre à jour vers une version plus récente."
+"\\>           Votre sauvegarde est obsolète.\n"
+"\\>        Données de sauvegarde \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
+"\\>　　　　                  Jeu \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
+"\\!\\>       Mise à jour de la sauvegarde en cours."
 
-#. ID 62, Line 195
+#. ID 62, Line 230
 msgid ""
 "\n"
 "\n"
@@ -440,9 +443,9 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>Votre sauvegarde a été mise à jour."
+"\\>        Votre sauvegarde a été mise à jour."
 
-#. ID 62, Line 217
+#. ID 62, Line 252
 #. ChangeHeroName (Actor 1)
 #. ID 269, Line 6
 #. ChangeHeroName (Actor 1)
@@ -454,7 +457,7 @@ msgctxt "actors.name"
 msgid "うろつき"
 msgstr "Urotsuki"
 
-#. ID 62, Line 225
+#. ID 62, Line 260
 msgid "\\>　　　　　　　　　　　　　　　　　　　　　　　　　\\^\\"
 msgstr ""
 
@@ -6524,163 +6527,175 @@ msgid ""
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2128
+#. ID 85, Line 2123
+msgid ""
+"\\>\\C[\\V[1]] 1399\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 85, Line 2139
+msgid ""
+"\\>\\C[\\V[1]] 1400\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 85, Line 2160
 msgid ""
 "\\>\\C[\\V[1]] 1401 (kappa)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2144
+#. ID 85, Line 2176
 msgid ""
 "\\>\\C[\\V[1]] 1402 (kappa)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2166
+#. ID 85, Line 2198
 msgid ""
 "\\>\\C[\\V[1]] 1411 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2183
+#. ID 85, Line 2215
 msgid ""
 "\\>\\C[\\V[1]] 1412 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2200
+#. ID 85, Line 2232
 msgid ""
 "\\>\\C[\\V[1]] 1415 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2217
+#. ID 85, Line 2249
 msgid ""
 "\\>\\C[\\V[1]] 1416 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2234
+#. ID 85, Line 2266
 msgid ""
 "\\>\\C[\\V[1]] 1417 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2251
+#. ID 85, Line 2283
 msgid ""
 "\\>\\C[\\V[1]] 1420 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2273
+#. ID 85, Line 2305
 msgid ""
 "\\>\\C[\\V[1]] 1422 吐き気\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2289
+#. ID 85, Line 2321
 msgid ""
 "\\>\\C[\\V[1]] 1423 五線譜\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2305
+#. ID 85, Line 2337
 msgid ""
 "\\>\\C[\\V[1]] 1425 ｸﾞﾘｰﾝﾎﾞｰｲ\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2321
+#. ID 85, Line 2353
 msgid ""
 "\\>\\C[\\V[1]] 1426 亀池\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2337
+#. ID 85, Line 2369
 msgid ""
 "\\>\\C[\\V[1]] 1427 暁座\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2353
+#. ID 85, Line 2385
 msgid ""
 "\\>\\C[\\V[1]] 1428 マミールーム\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2369
+#. ID 85, Line 2401
 msgid ""
 "\\>\\C[\\V[1]] 1429 キリキリ\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2400
+#. ID 85, Line 2432
 msgid ""
 "\\>\\C[\\V[1]] 1434 映し雲\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2441
+#. ID 85, Line 2473
 msgid ""
 "\\>\\C[\\V[1]] 1452 (maptsuki)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2492
+#. ID 85, Line 2524
 msgid ""
 "\\>\\C[\\V[1]] 1482 (srd)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2509
+#. ID 85, Line 2541
 msgid ""
 "\\>\\C[\\V[1]] 1486 (srd)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2526
+#. ID 85, Line 2558
 msgid ""
 "\\>\\C[\\V[1]] 1488 (srd)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2547
+#. ID 85, Line 2579
 msgid ""
 "\\>\\C[\\V[1]] 1493 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2562
+#. ID 85, Line 2594
 msgid ""
 "\\>\\C[\\V[1]] 1494 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2577
+#. ID 85, Line 2609
 msgid ""
 "\\>\\C[\\V[1]] 1495 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2592
+#. ID 85, Line 2624
 msgid ""
 "\\>\\C[\\V[1]] 1496 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2607
+#. ID 85, Line 2639
 msgid ""
 "\\>\\C[\\V[1]] 1497 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2622
+#. ID 85, Line 2654
 msgid ""
 "\\>\\C[\\V[1]] 1498 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 85, Line 2637
+#. ID 85, Line 2669
 msgid ""
 "\\>\\C[\\V[1]] 1500 (Kontentsu)\n"
 "\\>\\N[1]"
@@ -6704,397 +6719,403 @@ msgid ""
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 108
+#. ID 86, Line 112
 msgid ""
 "\\>\\C[\\V[1]] 1532 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 120
+#. ID 86, Line 128
 msgid ""
 "\\>\\C[\\V[1]] 1533 (軟体)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 147
+#. ID 86, Line 155
 msgid ""
 "\\>\\C[\\V[1]] 1542 三路通路\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 168
+#. ID 86, Line 176
 msgid ""
 "\\>\\C[\\V[1]] 1543 仮面族の世界\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 189
+#. ID 86, Line 197
 msgid ""
 "\\>\\C[\\V[1]] 1544 マンマルン\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 210
+#. ID 86, Line 218
 msgid ""
 "\\>\\C[\\V[1]] 1545 蟲毒\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 231
+#. ID 86, Line 239
 msgid ""
 "\\>\\C[\\V[1]] 1546 サボテン砂漠\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 252
+#. ID 86, Line 260
 msgid ""
 "\\>\\C[\\V[1]] 1548 笑刑場\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 273
+#. ID 86, Line 281
 msgid ""
 "\\>\\C[\\V[1]] 1549 落書き通路\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 294
+#. ID 86, Line 302
 msgid ""
 "\\>\\C[\\V[1]] 1550 アトリエ\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 315
+#. ID 86, Line 323
 msgid ""
 "\\>\\C[\\V[1]] 1651 穴ぼこ\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 336
+#. ID 86, Line 344
 msgid ""
 "\\>\\C[\\V[1]] 1652 夢研究所\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 357
+#. ID 86, Line 365
 msgid ""
 "\\>\\C[\\V[1]] 1653 白黒広場\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 378
+#. ID 86, Line 386
 msgid ""
 "\\>\\C[\\V[1]] 1654 白黒迷路\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 399
+#. ID 86, Line 407
 msgid "\\>\\C[\\V[1]] 1656 タワーズ"
 msgstr ""
 
-#. ID 86, Line 419
+#. ID 86, Line 427
 msgid ""
 "\\>\\C[\\V[1]] 1655 槍民族の世界\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 440
+#. ID 86, Line 448
 msgid ""
 "\\>\\C[\\V[1]] 1657 胞子の森\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 469
+#. ID 86, Line 477
 msgid ""
 "\\>\\C[\\V[1]] 1551 (廃墟商店３・香水店)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 484
+#. ID 86, Line 492
 msgid ""
 "\\>\\C[\\V[1]] 1552 (ランプ・煉瓦街エリア)\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 565
+#. ID 86, Line 573
 msgid ""
 "\\>\\C[\\V[1]] 1621 蒸気シルエット\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 580
+#. ID 86, Line 588
 msgid ""
 "\\>\\C[\\V[1]] 1622 駄菓子屋\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 595
+#. ID 86, Line 603
 msgid ""
 "\\>\\C[\\V[1]] 1623 サバ砂漠\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 610
+#. ID 86, Line 618
 msgid ""
 "\\>\\C[\\V[1]] 1624 木材世界\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 625
+#. ID 86, Line 633
 msgid ""
 "\\>\\C[\\V[1]] 1625 ブルーブルースペース\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 640
+#. ID 86, Line 648
 msgid ""
 "\\>\\C[\\V[1]] 1626 タツノコ館\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 655
+#. ID 86, Line 663
 msgid ""
 "\\>\\C[\\V[1]] 1627 ホットケーキ深淵\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 670
+#. ID 86, Line 678
 msgid ""
 "\\>\\C[\\V[1]] 1628 停止風車\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 685
+#. ID 86, Line 693
 msgid ""
 "\\>\\C[\\V[1]] 1629 牛柄パネル\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 700
+#. ID 86, Line 708
 msgid ""
 "\\>\\C[\\V[1]] 1630 身崩\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 722
+#. ID 86, Line 730
 msgid ""
 "\\>\\C[\\V[1]] 1632 ゐ 蓮華公園\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 737
+#. ID 86, Line 745
 msgid ""
 "\\>\\C[\\V[1]] 1691 空鈴々\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 749
+#. ID 86, Line 757
 msgid ""
 "\\>\\C[\\V[1]] 1692 妄毒\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 761
+#. ID 86, Line 769
 msgid ""
 "\\>\\C[\\V[1]] 1693 甲羅\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 773
+#. ID 86, Line 781
 msgid ""
 "\\>\\C[\\V[1]] 1694 月風鳥花\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 785
+#. ID 86, Line 793
 msgid ""
 "\\>\\C[\\V[1]] 1695 音々ピラミッド\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 797
+#. ID 86, Line 805
 msgid ""
 "\\>\\C[\\V[1]] 1696 瞋恚\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 809
+#. ID 86, Line 817
 msgid ""
 "\\>\\C[\\V[1]] 1697 機械塔&死生廻\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 821
+#. ID 86, Line 829
 msgid ""
 "\\>\\C[\\V[1]] 1698 未定義の海&蕃茄\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 832
+#. ID 86, Line 840
 msgid ""
 "\\>\\C[\\V[1]] 1699 副葬牢&海B\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 844
+#. ID 86, Line 852
 msgid ""
 "\\>\\C[\\V[1]] 1700 幽晶鶏モ愛酒\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 856
+#. ID 86, Line 864
 msgid ""
 "\\>\\C[\\V[1]] 1721 ピーポー\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 868
+#. ID 86, Line 876
 msgid ""
 "\\>\\C[\\V[1]] 1722 ヒートアイス山　ヒートサイド\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 880
+#. ID 86, Line 888
 msgid ""
 "\\>\\C[\\V[1]] 1723 ヒートアイス山　アイスサイド\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 892
+#. ID 86, Line 900
 msgid ""
 "\\>\\C[\\V[1]] 1724 サケ\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 904
+#. ID 86, Line 912
 msgid ""
 "\\>\\C[\\V[1]] 1725 祈祷or青空パネル\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 916
+#. ID 86, Line 924
 msgid ""
 "\\>\\C[\\V[1]] 1726 祈祷or電柱\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 928
+#. ID 86, Line 936
 msgid ""
 "\\>\\C[\\V[1]] 1727 冷蔵庫orハトレス\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 940
+#. ID 86, Line 948
 msgid ""
 "\\>\\C[\\V[1]] 1728 缶再空港\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 952
+#. ID 86, Line 960
 msgid ""
 "\\>\\C[\\V[1]] 1729 ふらんねるの巣\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 964
+#. ID 86, Line 972
 msgid ""
 "\\>\\C[\\V[1]] 1730 ヌミョンドロ\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 979
+#. ID 86, Line 987
 msgid ""
 "\\>\\C[\\V[1]] 1702 図形\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 991
+#. ID 86, Line 999
 msgid ""
 "\\>\\C[\\V[1]] 1703 図形家\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1003
+#. ID 86, Line 1011
 msgid ""
 "\\>\\C[\\V[1]] 1704 ストレース\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1015
+#. ID 86, Line 1023
 msgid ""
 "\\>\\C[\\V[1]] 1705 レースワン\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1027
+#. ID 86, Line 1035
 msgid ""
 "\\>\\C[\\V[1]] 1706 レース警告\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1039
+#. ID 86, Line 1047
 msgid ""
 "\\>\\C[\\V[1]] 1707 レースイン\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1051
+#. ID 86, Line 1059
 msgid ""
 "\\>\\C[\\V[1]] 1708 最終レース\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1063
+#. ID 86, Line 1071
 msgid ""
 "\\>\\C[\\V[1]] 1709 黄管板\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1075
+#. ID 86, Line 1083
 msgid ""
 "\\>\\C[\\V[1]] 1710 ペン禁雪白\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1087
+#. ID 86, Line 1095
 msgid ""
 "\\>\\C[\\V[1]] 1711 岩旋鉱\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1099
+#. ID 86, Line 1107
 msgid ""
 "\\>\\C[\\V[1]] 1712 絵楽\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1111
+#. ID 86, Line 1119
 msgid ""
 "\\>\\C[\\V[1]] 1713 桃青花\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1123
+#. ID 86, Line 1131
 msgid ""
 "\\>\\C[\\V[1]] 1714 個人部屋\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1138
+#. ID 86, Line 1149
 msgid ""
 "\\>\\C[\\V[1]] 1731 Autumn\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1148
+#. ID 86, Line 1162
 msgid ""
-"\\>\\C[\\V[1]] 1736 Autumn\n"
+"\\>\\C[\\V[1]] 1736 opal archive\n"
 "\\>\\N[1]"
 msgstr ""
 
-#. ID 86, Line 1161
+#. ID 86, Line 1177
 msgid ""
-"\\>\\C[\\V[1]] 1739 Autumn\n"
+"\\>\\C[\\V[1]] 1739 spider\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 86, Line 1191
+msgid ""
+"\\>\\C[\\V[1]] 1644 Center\n"
 "\\>\\N[1]"
 msgstr ""
 
@@ -7385,4 +7406,12 @@ msgid ""
 "\\>\\\\V[0015] == \\V[15]\\<\\|\\|\\|\\|\\|\n"
 "\n"
 "\\>　　　　　　　　　　　　　　　　　　? _(:3」∠)_"
+msgstr ""
+
+#. ID 299, Line 16
+msgid ""
+"\\>エラー：異常な場所に居ます\n"
+"\\>(Map\\v[1460])\n"
+"\n"
+"\\>決定キーでタイトル画面へ戻ります"
 msgstr ""
