@@ -688,6 +688,8 @@ msgid ""
 "\\>前回セーブまでの死亡回数：\\v[1262]\n"
 "\\>ロードしますか？"
 msgstr ""
+"\\>Deaths since last save: \\v[1262]\n"
+"\\>Do you want to load?"
 
 #. ID 9, Page 3, Line 74, Pos (9,10)
 #. Choice (2 options, embedded in a message)

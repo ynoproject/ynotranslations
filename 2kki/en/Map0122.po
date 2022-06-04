@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 37, Page 1, Line 2, Pos (147,63)
+msgid "開かない。鍵がかかっている"
+msgstr ""
+
+#. ID 164, Page 1, Line 5, Pos (185,38)
+#. Contains choice at line 3 (2 options)
+#. ID 207, Page 2, Line 16, Pos (34,71)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\c[4]前回の記録\\c[0] \n"
+"\\>　DEAD: \\c[2]\\v[1262]\\c[0]"
+msgstr ""
+"\\>\\c[4]PREVIOUS RECORD\\c[0] \n"
+"\\>　DEATHS: \\c[2]\\v[1262]\\c[0]"
+
+#. ID 164, Page 1, Line 7, Pos (185,38)
+#. Choice (2 options, embedded in a message)
+#. ID 164, Page 1, Line 33, Pos (185,38)
+#. Choice (2 options, embedded in a message)
+#. ID 207, Page 2, Line 18, Pos (34,71)
+#. Choice (2 options, embedded in a message)
+#. ID 207, Page 2, Line 44, Pos (34,71)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>記録する\n"
+"\\>記録しない"
+msgstr ""
+"\\>Record\n"
+"\\>Don't Record"
+
+#. ID 164, Page 1, Line 15, Pos (185,38)
+#. Contains choice at line 2 (2 options)
+#. ID 164, Page 1, Line 41, Pos (185,38)
+#. Contains choice at line 2 (2 options)
+#. ID 207, Page 2, Line 26, Pos (34,71)
+#. Contains choice at line 2 (2 options)
+#. ID 207, Page 2, Line 52, Pos (34,71)
+#. Contains choice at line 2 (2 options)
+msgid "記録が完了しました。ゲームを終了しますか。"
+msgstr "Recording completed. Do you want to quit the game?"
+
+#. ID 164, Page 1, Line 16, Pos (185,38)
+#. Choice (2 options, embedded in a message)
+#. ID 164, Page 1, Line 42, Pos (185,38)
+#. Choice (2 options, embedded in a message)
+#. ID 207, Page 2, Line 27, Pos (34,71)
+#. Choice (2 options, embedded in a message)
+#. ID 207, Page 2, Line 53, Pos (34,71)
+#. Choice (2 options, embedded in a message)
+#. ID 244, Page 1, Line 16, Pos (78,46)
+#. Choice (2 options, embedded in a message)
+#. ID 268, Page 1, Line 2, Pos (12,28)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Yes\n"
+"No"
+
+#. ID 164, Page 1, Line 31, Pos (185,38)
+#. Contains choice at line 3 (2 options)
+#. ID 207, Page 2, Line 42, Pos (34,71)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\c[4]前回の記録\\c[0] \n"
+"\\>　NO DATA"
+msgstr ""
+"\\>\\c[4]PREVIOUS RECORD\\c[0] \n"
+"\\>　NO DATA"
+
+#. ID 244, Page 1, Line 9, Pos (78,46)
+#. ID 264, Page 1, Line 9, Pos (23,64)
+msgid ""
+"体験版はここまでです。\n"
+"\n"
+"完全版完成まで待っててね！！"
+msgstr ""
+
+#. ID 244, Page 1, Line 12, Pos (78,46)
+#. ID 264, Page 1, Line 12, Pos (23,64)
+msgid ""
+"製作：\n"
+"製作スレ3　>>148\n"
+"↑V↑（仮）"
+msgstr ""
+
+#. ID 244, Page 1, Line 15, Pos (78,46)
+#. Contains choice at line 2 (2 options)
+msgid "ﾂﾂﾞｹﾙ?"
+msgstr ""
+
+#. ID 267, Page 1, Line 1, Pos (10,28)
+#. Contains choice at line 2 (2 options)
+msgid "ﾊｼﾞﾒｶﾗ"
+msgstr ""
+
+#. ID 267, Page 1, Line 2, Pos (10,28)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ＹＥＳ\n"
+"ＮＯ"
+msgstr ""
+
+#. ID 268, Page 1, Line 1, Pos (12,28)
+#. Contains choice at line 2 (2 options)
+msgid "ﾅﾝﾀﾞﾔﾒﾙﾉｶ"
+msgstr ""
+
+#. ID 269, Page 1, Line 1, Pos (3,21)
+#. Contains choice at line 2 (2 options)
+msgid "ｵｸｼﾞｮｳ"
+msgstr ""
+
+#. ID 269, Page 1, Line 2, Pos (3,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"YES\n"
+"NO"
+msgstr ""
+
+#. ID 276, Page 3, Line 3, Pos (186,8)
+msgid "ﾂｶﾏｴﾀ････"
+msgstr "YOU DIED...."
+
+#. ID 437, Page 2, Line 1, Pos (161,31)
+msgid "動かない。"
+msgstr ""

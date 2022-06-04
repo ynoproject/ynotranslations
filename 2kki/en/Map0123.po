@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 286, Page 1, Line 1, Pos (24,9)
+#. Contains choice at line 2 (2 options)
+#. ID 286, Page 2, Line 14, Pos (24,9)
+#. Contains choice at line 2 (2 options)
+#. ID 286, Page 2, Line 40, Pos (24,9)
+#. Contains choice at line 2 (2 options)
+#. ID 301, Page 1, Line 30, Pos (3,1)
+#. Contains choice at line 2 (2 options)
+msgid "END?"
+msgstr ""
+
+#. ID 286, Page 1, Line 2, Pos (24,9)
+#. Choice (2 options, embedded in a message)
+#. ID 286, Page 2, Line 6, Pos (24,9)
+#. Choice (2 options, embedded in a message)
+#. ID 286, Page 2, Line 15, Pos (24,9)
+#. Choice (2 options, embedded in a message)
+#. ID 286, Page 2, Line 32, Pos (24,9)
+#. Choice (2 options, embedded in a message)
+#. ID 286, Page 2, Line 41, Pos (24,9)
+#. Choice (2 options, embedded in a message)
+#. ID 287, Page 1, Line 31, Pos (56,10)
+#. Choice (2 options, embedded in a message)
+#. ID 301, Page 1, Line 31, Pos (3,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Y\n"
+"N"
+msgstr ""
+
+#. ID 286, Page 2, Line 2, Pos (24,9)
+msgid ""
+"\\>\\c[4]前回の記録\\c[0] \n"
+"\\>　DEAD: \\c[2]\\v[1262]\\c[0]"
+msgstr ""
+"\\>\\c[4]PREVIOUS RECORD\\c[0] \n"
+"\\>　DEATHS: \\c[2]\\v[1262]\\c[0]"
+
+#. ID 286, Page 2, Line 5, Pos (24,9)
+#. Contains choice at line 2 (2 options)
+#. ID 286, Page 2, Line 31, Pos (24,9)
+#. Contains choice at line 2 (2 options)
+msgid "SAVE?"
+msgstr ""
+
+#. ID 286, Page 2, Line 28, Pos (24,9)
+msgid ""
+"\\>\\c[4]前回の記録\\c[0] \n"
+"\\>　NO DATA"
+msgstr ""
+"\\>\\c[4]PREVIOUS RECORD\\c[0] \n"
+"\\>　NO DATA"
+
+#. ID 287, Page 1, Line 30, Pos (56,10)
+#. Contains choice at line 2 (2 options)
+msgid "Re?"
+msgstr ""
+
+#. ID 287, Page 1, Line 132, Pos (56,10)
+#. ID 301, Page 1, Line 122, Pos (3,1)
+msgid "ゲーム中の音楽募集中"
+msgstr "In-game music wanted!"
+
+#. ID 301, Page 1, Line 4, Pos (3,1)
+#. Choice (3 options)
+msgid ""
+"\\>プレイ中のミニゲームに戻る\n"
+"\\>作者の説明を読む\n"
+"\\>ゲームを終了する"
+msgstr ""
+
+#. ID 301, Page 1, Line 8, Pos (3,1)
+msgid "大変長らく更新せずすいませんでした。"
+msgstr ""
+
+#. ID 301, Page 1, Line 9, Pos (3,1)
+msgid ""
+"･変更点\n"
+"ミニゲームのマップ変更・追加\n"
+"今更ながらに主人公キャラの変更（結構やっつけ）"
+msgstr ""
+
+#. ID 301, Page 1, Line 12, Pos (3,1)
+msgid ""
+"なお、ゲーム中はセーブが\n"
+"できないようになっております。"
+msgstr ""
+
+#. ID 301, Page 1, Line 14, Pos (3,1)
+msgid "※メニューも開けないように設定してます"
+msgstr ""
+
+#. ID 301, Page 1, Line 15, Pos (3,1)
+msgid ""
+"なお、止める際にはわざと死ぬか、\n"
+"それか仮面の子に話しかけてください。"
+msgstr ""
+
+#. ID 301, Page 1, Line 17, Pos (3,1)
+msgid ""
+"\\>【更新者メモ】\\<\n"
+"半年以上放置されていたため、製作ルールに基づき\n"
+"製作者以外による改変が可能になっています"
+msgstr ""
+
+#. ID 301, Page 1, Line 20, Pos (3,1)
+msgid ""
+"\\>【更新者メモ】\\<\n"
+"バグが修正されたほか、\n"
+"メニューが開けるようになっています\n"
+"（※セーブはできません）"
+msgstr ""
+
+#. ID 301, Page 1, Line 24, Pos (3,1)
+msgid ""
+"\\>【更新者メモ】\\<\n"
+"やめる場合はメニューから「ゲームを終了する」を\n"
+"選択してください"
+msgstr ""

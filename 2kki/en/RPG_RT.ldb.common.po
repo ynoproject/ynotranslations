@@ -7250,7 +7250,7 @@ msgstr ""
 
 #. ID 238, Line 30
 msgid "\\>\\c[4]DEAD\\c[0]: \\v[1204]"
-msgstr ""
+msgstr "\\>\\c[4]DEATHS\\c[0]: \\v[1204]"
 
 #. ID 238, Line 34
 msgid ""
@@ -7258,6 +7258,9 @@ msgid ""
 "\\>目的。ゲームを終了する際はわざと死ぬかメニューの\n"
 "\\>「Quit」を選択してください。"
 msgstr ""
+"\\>Your goal is to rescue a classmate missing in an\n"
+"\\>uninhabited building. To exit the game, either\n"
+"\\>die intentionally or select \"Quit\" from the menu."
 
 #. ID 238, Line 37
 msgid ""
@@ -7266,6 +7269,9 @@ msgid ""
 "\\>最後に記録した時の進行状況から再開することが\n"
 "\\>出来ます。"
 msgstr ""
+"\\>There are places in the game that let you record\n"
+"\\>your progress. By recording your progress, you\n"
+"\\>can resume ↑V↑ from where you last left off."
 
 #. ID 238, Line 44
 #. Contains choice at line 2 (2 options)
