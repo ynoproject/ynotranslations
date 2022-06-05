@@ -36,7 +36,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　  Menu Type: 8\\<\\|\\|\\^"
+"\\>　　　　　　　    Style de menu:8\\<\\|\\|\\^"
 
 #. ID 84, Page 1, Line 1, Pos (6,200)
 msgid "ここは0階のはず。"

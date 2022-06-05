@@ -112,7 +112,7 @@ msgstr "Se pincer la joue"
 #. ID 2
 msgctxt "skills.description"
 msgid "ほほをつねって、ゆめからさめる"
-msgstr "Pincez vous la joue et réveillez vous de votre rêve"
+msgstr "Pincez vous la joue et réveillez vous"
 
 #. ID 1
 #. ID 3
@@ -9789,13 +9789,13 @@ msgstr ""
 #. ID 12
 msgctxt "items.name"
 msgid "バイク"
-msgstr "Scooter"
+msgstr "Moto"
 
 #. ID 12
 #. ID 53
 msgctxt "items.description"
 msgid "「バイク」にのる"
-msgstr "Faites du scooter"
+msgstr "Conduisez une moto"
 
 #. ID 13
 msgctxt "items.name"
@@ -9817,7 +9817,7 @@ msgstr "Tronçonneuse"
 #. ID 55
 msgctxt "items.description"
 msgid "「チェーンソー」をもつ"
-msgstr "Tenez une tronçonneuse"
+msgstr "Brandissez une tronçonneuse"
 
 #. ID 15
 msgctxt "items.name"
@@ -9850,7 +9850,7 @@ msgstr "Astronaute"
 #. ID 58
 msgctxt "items.description"
 msgid "「うちゅうふく」をきる"
-msgstr "Enfilez une combinaison d'astronaute"
+msgstr "Enfilez une combinaison spatiale"
 
 #. ID 18
 msgctxt "items.name"
@@ -9927,7 +9927,7 @@ msgstr "Couettes"
 #. ID 65
 msgctxt "items.description"
 msgid "「ツインテール」のかみがたになる"
-msgstr "Obtenez la coiffure d'une tsundere"
+msgstr "Coiffez vous à la manière d'une tsundere"
 
 #. ID 25
 msgctxt "items.name"
@@ -9938,7 +9938,7 @@ msgstr "Pingouin"
 #. ID 66
 msgctxt "items.description"
 msgid "「ぺんぎん」になりきる"
-msgstr "Portez une tenue de pengouin"
+msgstr "Portez une tenue de pingouin"
 
 #. ID 26
 msgctxt "items.name"
@@ -9982,7 +9982,7 @@ msgstr "Gakuran"
 #. ID 70
 msgctxt "items.description"
 msgid "「がくラン」をきて マントをはおる"
-msgstr "Portez un uniforme à cape masculin"
+msgstr "Portez un uniforme d'écolier japonais avec une cape"
 
 #. ID 30
 msgctxt "items.name"
@@ -9993,7 +9993,7 @@ msgstr "Plâtre"
 #. ID 71
 msgctxt "items.description"
 msgid "「ギプス」をつける"
-msgstr "Votre bras est enveloppé dans du plâtre"
+msgstr "Votre bras se retrouve enveloppé dans un plâtre"
 
 #. ID 31
 msgctxt "items.name"
@@ -10004,7 +10004,7 @@ msgstr "Étirement"
 #. ID 72
 msgctxt "items.description"
 msgid "「せのび」する"
-msgstr "Deviens étiré"
+msgstr "Devenez étirée"
 
 #. ID 32
 msgctxt "items.name"
@@ -10015,7 +10015,7 @@ msgstr "Haniwa"
 #. ID 73
 msgctxt "items.description"
 msgid "「はにわ」になる"
-msgstr "Devenez une statue d'haniwa"
+msgstr "Devenez une statue haniwa"
 
 #. ID 33
 msgctxt "items.name"
@@ -10026,7 +10026,7 @@ msgstr "Trombone"
 #. ID 74
 msgctxt "items.description"
 msgid "「トロンボーン」をもつ"
-msgstr "Tenez un trombone (doot doot)"
+msgstr "Tenez un trombone (pouet pouet)"
 
 #. ID 34
 msgctxt "items.name"
@@ -10059,7 +10059,7 @@ msgstr "Chaperon rouge"
 #. ID 77
 msgctxt "items.description"
 msgid "「あかずきん」をかぶる"
-msgstr "Portez un chaperon rouge"
+msgstr "Devenez le petit chaperon rouge"
 
 #. ID 37
 msgctxt "items.name"
@@ -10070,7 +10070,7 @@ msgstr "Mouchoir"
 #. ID 78
 msgctxt "items.description"
 msgid "「ティッシュ」のケースになる"
-msgstr "Votre tête devient une boîte à mouchoirs"
+msgstr "Votre tête devient une boîte de mouchoirs"
 
 #. ID 38
 msgctxt "items.name"
@@ -10092,7 +10092,7 @@ msgstr "Polygone"
 #. ID 80
 msgctxt "items.description"
 msgid "「ポリゴン」っぽくなる"
-msgstr "Devenez polygonal"
+msgstr "Devenez polygonale"
 
 #. ID 40
 msgctxt "items.name"
@@ -10103,7 +10103,7 @@ msgstr "Teru Teru Bōzu"
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Changez vous en poupée de papier"
+msgstr "Changez vous en poupée de papier japonaise"
 
 #. ID 41
 msgctxt "items.name"
@@ -10119,13 +10119,13 @@ msgstr "Devenez un travailleur marginal vif"
 #. ID 42
 msgctxt "items.name"
 msgid "ドラムかん"
-msgstr "Tonneau"
+msgstr "Baril"
 
 #. ID 42
 #. ID 83
 msgctxt "items.description"
 msgid "からだが「ドラムかん」になる"
-msgstr "Votre corps devient un tonneau metallique"
+msgstr "Votre corps devient un baril métallique"
 
 #. ID 43
 msgctxt "items.name"
@@ -10147,7 +10147,7 @@ msgstr "Croisement"
 #. ID 85
 msgctxt "items.description"
 msgid "「ふみきり」になる"
-msgstr "Votre tête devient un feu de croisement de train"
+msgstr "Votre tête devient un panneau de passage à niveau"
 
 #. ID 45
 msgctxt "items.name"
@@ -10174,7 +10174,7 @@ msgstr "Devenez un dé"
 #. ID 47
 msgctxt "items.name"
 msgid "バイク＋おおかみ"
-msgstr "Scooter + Loup"
+msgstr "Moto + Loup"
 
 #. ID 47
 #. ID 88
@@ -10195,7 +10195,7 @@ msgstr "Instructions"
 #. ID 50
 msgctxt "items.description"
 msgid "「ゲームのせつめい」をみる"
-msgstr "Voir les instructions de jeu"
+msgstr "Voir les instructions du jeu"
 
 #. ID 52
 msgctxt "items.name"
@@ -10205,7 +10205,7 @@ msgstr ""
 #. ID 53
 msgctxt "items.name"
 msgid " バイク"
-msgstr " Scooter"
+msgstr " Moto"
 
 #. ID 54
 msgctxt "items.name"
@@ -10355,7 +10355,7 @@ msgstr " Marginal"
 #. ID 83
 msgctxt "items.name"
 msgid " ドラムかん"
-msgstr " Tonneau"
+msgstr " Baril"
 
 #. ID 84
 msgctxt "items.name"
@@ -10380,7 +10380,7 @@ msgstr " Dé"
 #. ID 88
 msgctxt "items.name"
 msgid " バイク＋おおかみ"
-msgstr " Scooter + Loup"
+msgstr " Moto + Loup"
 
 #. ID 89
 msgctxt "items.name"
@@ -10550,7 +10550,7 @@ msgstr "Se reveiller"
 
 msgctxt "terms.menu_equipment"
 msgid "じょうたい"
-msgstr "Statut"
+msgstr "État"
 
 msgctxt "terms.menu_quit"
 msgid "おわる"
@@ -10558,15 +10558,15 @@ msgstr "Quitter"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "  Commencer "
+msgstr " Commencer"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr "  Continuer "
+msgstr " Continuer"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "   Quitter   "
+msgstr "  Quitter"
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"
@@ -10582,11 +10582,11 @@ msgstr ""
 
 msgctxt "terms.save_game_message"
 msgid "◆どのファイルに書きますか？"
-msgstr "◆ Quel fichier voulez vous sauvegarder?"
+msgstr "◆ À quel emplacement souhaitez-vous sauvegarder ?"
 
 msgctxt "terms.load_game_message"
 msgid "◆どのファイルを読みますか？"
-msgstr "◆ Quel fichier voulez vous charger?"
+msgstr "◆ Quel fichier souhaitez-vous charger ?"
 
 msgctxt "terms.file"
 msgid "◆ファイル"
