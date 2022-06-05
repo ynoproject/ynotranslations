@@ -46,7 +46,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　 　 Scooter\\<\\|\\^"
+"\\>　　　　　　　 　 　   Moto\\<\\|\\^"
 
 #. ID 34, Page 2, Line 4, Pos (17,18)
 msgid ""

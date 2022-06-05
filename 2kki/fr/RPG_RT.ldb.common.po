@@ -58,7 +58,7 @@ msgstr "Débug"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Scooter"
+msgstr "Moto"
 
 #. ID 14, Line 47
 #. ChangeHeroName (Actor 8)
@@ -238,7 +238,7 @@ msgstr "Marginal"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ドラムかん"
-msgstr "Tonneau"
+msgstr "Baril"
 
 #. ID 14, Line 167
 #. ChangeHeroName (Actor 8)
@@ -289,8 +289,8 @@ msgid ""
 msgstr ""
 "\\>Options de vitesse de mouvement\n"
 "\\>Changement d'Effets/Masques/Argent\n"
-"\\>Définir carte\n"
-"\\>Affichage des données interne"
+"\\>Changer de map\n"
+"\\>Affichage des données internes"
 
 #. ID 43, Line 47
 #. Choice (4 options)
@@ -300,10 +300,10 @@ msgid ""
 "\\>>>>　ﾃﾞﾌｫより少し速(自転車並?\n"
 "\\>>　遅い　※キャンセルでDefault"
 msgstr ""
-"\\>>>>>>　　Hypervitesse\n"
+"\\>>>>>>　　Très Rapide\n"
 "\\>>>>>　 Rapide\n"
-"\\>>>>　Un petit peu plus rapide que la normale.\n"
-"\\>>　Lent　* Annuler pour defaut"
+"\\>>>>　Un peu plus rapide que la normale.\n"
+"\\>>　Lent　* Annuler pour vitesse par défaut"
 
 #. ID 43, Line 71
 msgid "\\>歩行速度 \\V[45] になりました。"
@@ -317,7 +317,7 @@ msgid ""
 "\\>所持金変更\n"
 "\\>デバッグ破棄"
 msgstr ""
-"\\>Obtenir ou Enlever tout les Effets\n"
+"\\>Obtenir ou Retirer tout les Effets\n"
 "\\>Masque actuel\n"
 "\\>Argent\n"
 "\\>Enlever Débug"
@@ -329,7 +329,7 @@ msgid ""
 "\\>エフェクト全未取得"
 msgstr ""
 "\\>Obtenir tout les effets\n"
-"\\>Enlever tout les effets"
+"\\>Retirer tout les effets"
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
@@ -337,7 +337,7 @@ msgstr "Tous les effets sont obtenus"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "Tous les effets ont été défaussés"
+msgstr "Tous les effets ont été retirés"
 
 #. ID 43, Line 126
 msgid ""
@@ -443,7 +443,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>        Votre sauvegarde a été mise à jour."
+"\\>      Votre sauvegarde a bien été mise à jour."
 
 #. ID 62, Line 252
 #. ChangeHeroName (Actor 1)
@@ -7272,7 +7272,7 @@ msgstr ""
 
 #. ID 238, Line 30
 msgid "\\>\\c[4]DEAD\\c[0]: \\v[1204]"
-msgstr ""
+msgstr "\\>\\c[4]MORTS\\c[0]: \\v[1204]"
 
 #. ID 238, Line 34
 msgid ""
@@ -7280,6 +7280,9 @@ msgid ""
 "\\>目的。ゲームを終了する際はわざと死ぬかメニューの\n"
 "\\>「Quit」を選択してください。"
 msgstr ""
+"\\>Votre but est secourir un élève perdu dans un\n"
+"\\>immeuble inhabité. Pour quitter le jeu, mourrez\n"
+"\\>sciemment ou sélectionnez quitter dans le menu."
 
 #. ID 238, Line 37
 msgid ""
@@ -7288,11 +7291,15 @@ msgid ""
 "\\>最後に記録した時の進行状況から再開することが\n"
 "\\>出来ます。"
 msgstr ""
+"\\>Il y'a des points de sauvegardes dans le jeu.\n"
+"\\>En sauvegardant, vous pourrez continuer ↑V↑\n"
+"\\>depuis le dernier endroit où vous avez \n"
+"\\>sauvegardé."
 
 #. ID 238, Line 44
 #. Contains choice at line 2 (2 options)
 msgid "END?"
-msgstr ""
+msgstr "FIN?"
 
 #. ID 238, Line 45
 #. Choice (2 options, embedded in a message)
@@ -7302,6 +7309,8 @@ msgid ""
 "Y\n"
 "N"
 msgstr ""
+"O\n"
+"N"
 
 #. ID 239, Line 9
 #. Contains choice at line 2 (2 options)

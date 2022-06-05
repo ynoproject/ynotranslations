@@ -463,7 +463,7 @@ msgid ""
 "\\>・デフォルトに戻す\n"
 "\\>・設定終了"
 msgstr ""
-"\\>・Thème de menu et bruitages\n"
+"\\>・Style de menu et bruitages\n"
 "\\>・Musique d'écran d'accueil de l'ordi\n"
 "\\>・Revenir par défaut\n"
 "\\>・Fermer"
@@ -475,7 +475,7 @@ msgid ""
 "\\>メニュータイプ / 効果音 / PC画面BGM"
 msgstr ""
 "\\>Revenir aux réglages par défaut.\n"
-"\\>Thème de menu / Bruitages / Musique de l'ordinateur"
+"\\>Style de menu / Bruitages / Musique de l'ordinateur"
 
 #. ID 6, Page 6, Line 822, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -491,7 +491,7 @@ msgid ""
 "\\>メニュータイプ / 効果音 / PC画面BGM\n"
 "\\>…をデフォルトに戻しました。"
 msgstr ""
-"\\>Thème de menu / Bruitages / Musique d'écran PC\n"
+"\\>Style de menu / Bruitages / Musique d'écran PC\n"
 "\\>Revenu par défaut"
 
 #. ID 6, Page 6, Line 915, Pos (12,5)
@@ -707,6 +707,8 @@ msgid ""
 "\\>前回セーブまでの死亡回数：\\v[1262]\n"
 "\\>ロードしますか？"
 msgstr ""
+"\\>Morts depuis la dernière sauvegarde: \\v[1262]\n"
+"\\>Voulez-vous charger?"
 
 #. ID 9, Page 3, Line 74, Pos (9,10)
 #. Choice (2 options, embedded in a message)
@@ -749,7 +751,7 @@ msgstr "Loup"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Scooter"
+msgstr "Moto"
 
 #. ID 12, Page 2, Line 18, Pos (13,5)
 #. ChangeHeroName (Actor 2)
