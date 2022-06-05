@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 70, Page 1, Line 9, Pos (4,42)
+msgid ""
+"↑Ｖ↑は現在製作中のため、\n"
+"プレイできるのはここまでになります。\n"
+"プレイ頂きありがとうございました。"
+msgstr ""
+"↑V↑ is currently in production.\n"
+"So, this is all you can play for now.\n"
+"Thank you for playing."
+
+#. ID 70, Page 1, Line 98, Pos (4,42)
+#. ID 298, Page 1, Line 113, Pos (10,25)
+msgid "ゲーム中の音楽募集中"
+msgstr "In-game music wanted!"
+
+#. ID 298, Page 1, Line 3, Pos (10,25)
+msgid "ﾂｶﾏｴﾀ････"
+msgstr "YOU DIED...."
+
+#. ID 298, Page 1, Line 12, Pos (10,25)
+#. Contains choice at line 2 (2 options)
+msgid "Re?"
+msgstr ""
+
+#. ID 298, Page 1, Line 13, Pos (10,25)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Y\n"
+"N"
+msgstr ""
