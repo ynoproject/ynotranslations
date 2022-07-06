@@ -447,7 +447,7 @@ msgstr ""
 
 #. ID 25, Page 1, Line 4, Pos (14,1)
 msgid "メニューのとくべつから。"
-msgstr "메뉴의 특별함으로."
+msgstr "메뉴의 특수에서 사용."
 
 #. ID 27, Page 1, Line 1, Pos (11,7)
 msgid "ホイッスル"

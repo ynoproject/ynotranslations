@@ -13,7 +13,7 @@ msgctxt "actors.name"
 msgid "さびつき"
 msgstr "사비츠키"
 
-#. ID 2
+#. ID 1
 msgctxt "actors.name"
 msgid "錆"
 msgstr "러스트"
