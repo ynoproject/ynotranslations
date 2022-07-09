@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 14, Page 2, Line 4, Pos (13,12)
+msgid "                   Snow Woman"
+msgstr "                 Femme des neiges"
+
+#. ID 15, Page 2, Line 4, Pos (16,10)
+msgid "                      Frog"
+msgstr "                    Grenouille"
+
+#. ID 16, Page 2, Line 4, Pos (14,15)
+msgid "                     Umbrella"
+msgstr "                    Parapluie"
+
+#. ID 17, Page 2, Line 4, Pos (14,11)
+msgid "                    Hat & Scarf"
+msgstr "                Écharpe et bonnet"
+
+#. ID 18, Page 2, Line 5, Pos (12,14)
+msgid "                    Eye Palm"
+msgstr "                     Paum'œil"
+
+#. ID 19, Page 2, Line 5, Pos (12,16)
+msgid "                     Get fat"
+msgstr "                  Engraissement"
+
+#. ID 20, Page 2, Line 4, Pos (13,18)
+msgid "                      Midget"
+msgstr "                      Naine"
+
+#. ID 21, Page 2, Line 4, Pos (14,19)
+msgid "                     Whistle"
+msgstr "                      Flûte"
+
+#. ID 22, Page 2, Line 4, Pos (15,17)
+msgid "                       Neon"
+msgstr "                       Néon"
+
+#. ID 23, Page 2, Line 4, Pos (16,20)
+msgid "                 Faceless Ghost"
+msgstr "               Fantôme sans visage"
+
+#. ID 24, Page 2, Line 4, Pos (18,20)
+msgid "                    Talking Head"
+msgstr "                   Tête coupée"
+
+#. ID 25, Page 2, Line 4, Pos (19,13)
+msgid "                     Poo Hair"
+msgstr "                  Cheveux cacas"
+
+#. ID 26, Page 2, Line 4, Pos (20,15)
+msgid "                   Kitchen Knife"
+msgstr "                     Couteau"
+
+#. ID 27, Page 2, Line 4, Pos (20,19)
+msgid "                  Spirit Headband"
+msgstr "                Bandeau spirituel"
+
+#. ID 28, Page 2, Line 4, Pos (21,18)
+msgid "                      Towel"
+msgstr "                    Serviette"
+
+#. ID 29, Page 2, Line 4, Pos (22,16)
+msgid "                         Cat"
+msgstr "                       Chat"
+
+#. ID 30, Page 2, Line 4, Pos (22,14)
+msgid "                       Lamp"
+msgstr "                      Lampe"
+
+#. ID 31, Page 2, Line 4, Pos (20,11)
+msgid "                    Long Hair"
+msgstr "                  Longs cheveux"
+
+#. ID 32, Page 2, Line 4, Pos (21,12)
+msgid "                     Bicycle "
+msgstr "                    Bicyclette "
+
+#. ID 33, Page 2, Line 4, Pos (18,10)
+msgid "                     Blonde"
+msgstr "                      Blonde"
+
+#. ID 34, Page 2, Line 4, Pos (15,13)
+msgid "                      Witch"
+msgstr "                     Sorcière"
+
+#. ID 35, Page 2, Line 4, Pos (17,12)
+msgid "                      Devil"
+msgstr "                       Oni"
+
+#. ID 36, Page 2, Line 4, Pos (17,18)
+msgid "                    Squish-Squish"
+msgstr "                    Squish-Squish"
+
+#. ID 37, Page 2, Line 4, Pos (19,17)
+msgid "                   Traffic Light"
+msgstr "                Feu de circulation"
