@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 911, Page 1, Line 4, Pos (24,28)
+msgid "Get Alter: Gelatinous"
+msgstr "Alter obtenu: Gélatineux"
