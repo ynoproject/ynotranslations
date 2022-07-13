@@ -309,12 +309,12 @@ msgstr "Change-toi en un feu de circulation."
 #. ID 57
 msgctxt "items.name"
 msgid "Tutorial"
-msgstr "Tutoriel"
+msgstr "Instructions"
 
 #. ID 57
 msgctxt "items.description"
 msgid "Review the game's tutorial."
-msgstr "Revoir le tutoriel du jeu."
+msgstr "Relire les instructions du jeu."
 
 msgctxt "terms.special_combat"
 msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
