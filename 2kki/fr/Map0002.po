@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 6, Page 2, Line 92, Pos (12,5)
 #. ChangeHeroName (Actor 7)
@@ -434,7 +434,7 @@ msgstr "Activé"
 #. ID 6, Page 6, Line 770, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
-msgstr "\\>Evènements de texte en rêve　Choix actuel: \\C[4]\\N[2]\\C[0]"
+msgstr "\\>Événements de texte en rêve　Choix actuel: \\C[4]\\N[2]\\C[0]"
 
 #. ID 6, Page 6, Line 771, Pos (12,5)
 #. Choice (3 options, embedded in a message)
