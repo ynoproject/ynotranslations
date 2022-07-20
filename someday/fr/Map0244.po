@@ -14,7 +14,7 @@ msgstr ""
 
 #. ID 2, Page 2, Line 7, Pos (6,27)
 msgid "                      Scooter"
-msgstr "                      Scooter"
+msgstr "                    Trottinette"
 
 #. ID 3, Page 2, Line 7, Pos (7,25)
 msgid "                      Doodle"

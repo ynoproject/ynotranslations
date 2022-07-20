@@ -350,12 +350,12 @@ msgstr "Tuer les guêpes dans la forêt et revenir."
 #. ID 1
 msgctxt "items.name"
 msgid "Scooter"
-msgstr "Scooter"
+msgstr "Trottinette"
 
 #. ID 1
 msgctxt "items.description"
 msgid "Ride a scooter"
-msgstr "Conduis un scooter."
+msgstr "Conduis une trottinette."
 
 #. ID 2
 msgctxt "items.name"
@@ -600,7 +600,7 @@ msgstr "Deviens un mangeur de rêves."
 #. ID 26
 msgctxt "items.name"
 msgid "(Scooter)"
-msgstr "(Scooter)"
+msgstr "(Trottinette)"
 
 #. ID 26
 msgctxt "items.description"
