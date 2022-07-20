@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Braingirl\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 7, Page 1, Line 3, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "Always run is turned ON"
+msgstr "Toujours courir est activé"
+
+#. ID 7, Page 1, Line 4, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Deactivate\n"
+"Cancel"
+msgstr ""
+"Désactiver\n"
+"Annuler"
+
+#. ID 7, Page 1, Line 15, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "Always run is turned OFF"
+msgstr "Toujours courir est désactivé"
+
+#. ID 7, Page 1, Line 16, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Activate\n"
+"Cancel"
+msgstr ""
+"Activer\n"
+"Annuler"
