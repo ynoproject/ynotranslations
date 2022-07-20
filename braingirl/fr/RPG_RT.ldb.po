@@ -107,7 +107,7 @@ msgstr "Pantalon de travail"
 #. ID 16
 msgctxt "items.name"
 msgid "Safety Steel Shoes"
-msgstr "Chaussures sécurisés"
+msgstr "Chaussures solides"
 
 #. ID 17
 msgctxt "items.name"
