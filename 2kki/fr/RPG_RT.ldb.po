@@ -10380,7 +10380,7 @@ msgstr " Dé"
 #. ID 88
 msgctxt "items.name"
 msgid " バイク＋おおかみ"
-msgstr " Moto + Loup"
+msgstr ""
 
 #. ID 89
 msgctxt "items.name"
