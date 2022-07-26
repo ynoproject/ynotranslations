@@ -955,7 +955,7 @@ msgstr "Marginal"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ドラムかん"
-msgstr "Tonneau"
+msgstr "Baril"
 
 #. ID 12, Page 2, Line 170, Pos (13,5)
 #. ChangeHeroName (Actor 2)
