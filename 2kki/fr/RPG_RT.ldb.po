@@ -112,7 +112,7 @@ msgstr "Se pincer la joue"
 #. ID 2
 msgctxt "skills.description"
 msgid "ほほをつねって、ゆめからさめる"
-msgstr "Pincez vous la joue et réveillez vous"
+msgstr "Pincez-vous la joue et réveillez-vous"
 
 #. ID 1
 #. ID 3
@@ -9905,7 +9905,7 @@ msgstr "Téléphone"
 #. ID 63
 msgctxt "items.description"
 msgid "「くろでんわ」になる"
-msgstr "Voter tête devient un téléphone à cadran"
+msgstr "Votre tête devient un téléphone à cadran"
 
 #. ID 23
 msgctxt "items.name"
@@ -9927,7 +9927,7 @@ msgstr "Couettes"
 #. ID 65
 msgctxt "items.description"
 msgid "「ツインテール」のかみがたになる"
-msgstr "Coiffez vous à la manière d'une tsundere"
+msgstr "Coiffez-vous à la manière d'une tsundere"
 
 #. ID 25
 msgctxt "items.name"
@@ -10103,7 +10103,7 @@ msgstr "Teru Teru Bōzu"
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Changez vous en poupée de papier japonaise"
+msgstr "Changez-vous en poupée de papier japonaise"
 
 #. ID 41
 msgctxt "items.name"
@@ -10594,7 +10594,7 @@ msgstr "◆ Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "おわっても よろしいですか？"
-msgstr "Êtes vous sûr de vouloir quitter?"
+msgstr "Êtes-vous sûr de vouloir quitter?"
 
 msgctxt "terms.yes"
 msgid "はい"
