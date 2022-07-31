@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume 2kki french translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 1, Line 11, Pos (2,1)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\<\\|\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 23, Pos (2,1)
+msgid ""
+"\\>\n"
+"\\>　ゆめ２っき　スタッフクレジット　\n"
+"\\>\n"
+"\\>　　\\n[6]\\n[6]\\^"
+msgstr ""
+
+#. ID 1, Page 1, Line 262, Pos (2,1)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\S[5]　　　　 Her dream\\s[10] is still going on."
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\S[5]　　　　   Son rêve\\s[10] continue encore."
+
+#. ID 1, Page 1, Line 281, Pos (2,1)
+msgid ""
+"\n"
+"\n"
+"\n"
+"                                     　ED　No.\\V[59]"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"                                     　FIN　No.\\V[59]"
+
+#. ID 2, Page 1, Line 13, Pos (4,1)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\^"
+msgstr ""
+
+#. ID 2, Page 1, Line 17, Pos (4,1)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\|\\|\\.\\.\\^"
+msgstr ""

@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume 2kki French Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 1, Line 17, Pos (1,1)
+#. Contains choice at line 2 (2 options)
+msgid "\\>"
+msgstr ""
+
+#. ID 1, Page 1, Line 18, Pos (1,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>Debug Mode\n"
+"\\>Time Trial Mode"
+msgstr ""
+"\\>Debug Mode\n"
+"\\>Contre-la-montre"
+
+#. ID 1, Page 1, Line 38, Pos (1,1)
+msgid "\\>　　　　　　　　　　　　　　　　　　　　　　　　　\\^\\"
+msgstr ""
+
+#. ID 1, Page 1, Line 132, Pos (1,1)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　Time Trial Mode\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　Contre-la-montre\\<\\|\\^"
+
+#. ID 1, Page 1, Line 148, Pos (1,1)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　　　デバッグ\\<\\|\\^"
+msgstr ""

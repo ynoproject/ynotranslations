@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 5, Page 2, Line 10, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -14,7 +18,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おおかみ"
-msgstr "Loup"
+msgstr "Loup "
 
 #. ID 5, Page 2, Line 11, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -22,13 +26,13 @@ msgstr "Loup"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Scooter"
+msgstr "Moto"
 
 #. ID 5, Page 2, Line 18, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Couettes"
+msgstr "Couettes "
 
 #. ID 5, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -44,7 +48,7 @@ msgstr "Lunettes"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "はにわ"
-msgstr "Haniwa"
+msgstr "Haniwa "
 
 #. ID 5, Page 2, Line 27, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -226,7 +230,7 @@ msgstr "Marginal"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ドラムかん"
-msgstr "Tonneau"
+msgstr "Baril"
 
 #. ID 5, Page 2, Line 170, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -256,7 +260,7 @@ msgstr "Dé"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "なし（エフェ"
-msgstr "Aucun (Annulation"
+msgstr "Aucun (Annulation "
 
 #. ID 5, Page 2, Line 187, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -289,4 +293,3 @@ msgstr ""
 #. ID 11, Page 1, Line 40, Pos (6,7)
 msgid "\\$\\.\\.\\.\\^"
 msgstr ""
-

@@ -1,0 +1,563 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume 2kki french translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 1, Line 31, Pos (0,0)
+#. ID 1, Page 2, Line 31, Pos (0,0)
+#. ID 1, Page 4, Line 8, Pos (0,0)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>                          ED No.--- 「君への労い」"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>                          FIN No.--- 「君への労い」"
+
+#. ID 11, Page 1, Line 2, Pos (3,8)
+#. Contains choice at line 3 (1 options)
+msgid ""
+"\\>スタッフ名簿を見ますか？\n"
+"\\>(Xキー押しっぱで文章ウェイトが消えます)\\<\\!"
+msgstr ""
+
+#. ID 11, Page 1, Line 4, Pos (3,8)
+#. Choice (1 options, embedded in a message)
+msgid "\\>Z = 見る / X = 見ない"
+msgstr ""
+
+#. ID 27, Page 2, Line 8, Pos (2,7)
+msgid ""
+"\\>　★企画\n"
+"\\>　>>1\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 12, Pos (2,7)
+msgid ""
+"\\>　★メインシステム\n"
+"\\>　20　　　　　30　　　　　　 hal\n"
+"\\>　INT　　　　 kuraud　　　　 ◆9G87ZOr0ks\n"
+"\\>　ゆきひつじ  12部屋目の310\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 18, Pos (2,7)
+msgid ""
+"\\>　★マップデザイン\n"
+"\\>　A　　 hal　 20\n"
+"\\>　710　 INT　 418\n"
+"\\>　ぴぬ　dedp　kuraud\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 23, Pos (2,7)
+msgid ""
+"\\>　★マップデザイン\n"
+"\\>　sabamiso　oudn　　　　　　　　百八十五号\n"
+"\\>　Bokun　　 ぜんまいヶ原の住人　Jekyle\n"
+"\\>　n3　　　　◆9G87ZOr0ks　　　　◆tKp9vEGEfhCD\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 28, Pos (2,7)
+msgid ""
+"\\>　★マップデザイン\n"
+"\\>　Zoo　　　　 ゆきひつじ　　　◆wXeoWvpbbM\n"
+"\\>　うをのぞき　◆G/OTz1VptjfD　Tonden\n"
+"\\>　わたる　　　Ca　　　　　　　イェリス\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 33, Pos (2,7)
+msgid ""
+"\\>　★マップデザイン\n"
+"\\>　GALAXY　　　　 モセニテ　みけ\n"
+"\\>　spelude(幻想)　natl　　　アノン\n"
+"\\>　985            黒九      juda\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 39, Pos (2,7)
+msgid ""
+"\\>　★ミニゲーム\n"
+"\\>　945　　　　　 　　YOM　　　　　　　　 kuraud\n"
+"\\>　↑V↑(ｳｪｳﾞｨｱｯﾌﾟ)　ぜんまいヶ原の住人　Jekyle\n"
+"\\>　◆yXu.N9nxhI　　　◆G/OTz1VptjfD\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 45, Pos (2,7)
+msgid ""
+"\\>　★グラフィック\n"
+"\\>　getabaki     　932　　　　ASDF\n"
+"\\>　uxiru　　　　　762　　　　EltWelt\n"
+"\\>　まっくろ　　　 ryu-1-sou　峰\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 50, Pos (2,7)
+msgid ""
+"\\>　★グラフィック\n"
+"\\>　さおみー　gyomusuper　　　　　　 workev\n"
+"\\>　こな　　　ゆゆ　　　　　　　　　 ◆LK1hIc.d6k\n"
+"\\>　NN　　 　【関電64.2%】【24.9m】　有珠川\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 55, Pos (2,7)
+msgid ""
+"\\>　★グラフィック\n"
+"\\>　トカキ　ゆみかん　とーん\n"
+"\\>　アノン　workey\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 60, Pos (2,7)
+msgid ""
+"\\>　★ミュージック＆サウンド\n"
+"\\>　99　　　　ASDF　575\n"
+"\\>　626　　　 932　 外外\n"
+"\\>　qs0UrDFJ　den　 RIMA\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 65, Pos (2,7)
+msgid ""
+"\\>　★ミュージック＆サウンド\n"
+"\\>　音師竹内　かめりあ　　EltWelt\n"
+"\\>　LSD　　　 ラギー　　　向詠にいち\n"
+"\\>　ふ～た　　VANEGI_3je　ロント\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 70, Pos (2,7)
+msgid ""
+"\\>　★ミュージック＆サウンド\n"
+"\\>　アノン　SAKAI NO OWARI　 砂丘の旅人\n"
+"\\>　n3　　　zetsu　　　　　　REO\n"
+"\\>　みけ　 トニー・トウゴウ　dedp\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 75, Pos (2,7)
+msgid ""
+"\\>　★ミュージック＆サウンド\n"
+"\\>　L　　　　　　　MAYA AKAI　Yuri\n"
+"\\>　spelude(幻想)　イェリス　 P.Lin*\n"
+"\\>　985\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 81, Pos (2,7)
+msgid ""
+"\\>　★図書館\n"
+"\\>　>>1　　　 20　　　145\n"
+"\\>　hal　　　 826　　 893\n"
+"\\>　sabamiso　kuraud　Gaku\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 86, Pos (2,7)
+msgid ""
+"\\>　★図書館\n"
+"\\>　Glaple　　　　　710　　　　　　イェリス\n"
+"\\>　◆tKp9vEGEfhCD　spelude(幻想)　natl\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 91, Pos (2,7)
+msgid ""
+"\\>　★デバッグ\n"
+"\\>　名無しさん\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 95, Pos (2,7)
+msgid ""
+"\\>　★pixiv\n"
+"\\>　ぁもゆ　　　lu　　 稲塚 春\n"
+"\\>　yuanshang　 こな\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 100, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　yuanshang　ヤミキノ　　白くま\n"
+"\\>　山上下　　 凪果さな　　Eltwelt\n"
+"\\>　lol　　　　十人十ゐろ　YUKI\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 105, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　エダマメ.　 稲荷　　　　幸付き\n"
+"\\>　黒天　　　　きな子もち　蒼空飴\n"
+"\\>　マリナ　　　懺悔　　　　FOUNCID\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 110, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　こ（び）　CHiHiR0　　 けるお\n"
+"\\>　陸　　　　ハリネズミ　ツピー\n"
+"\\>　みあ　　　戀雅　鵺　　うつがめ\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 114, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　鳩豆　　上埜月　ノア\n"
+"\\>　富ゑ　　月狗使　kinago\n"
+"\\>　イドラ　Lupa　　よじお\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 119, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　蒼色　　　　水利　　　ころんば\n"
+"\\>　aki　　　　 アルツ　　路地裏\n"
+"\\>　Cat_Bible　 壱峪ひろ　ナゴー\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 124, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　蒼椈森Haya　ウィル　　　　　若\n"
+"\\>　mero　　　　ろーずまゆたん　あまた　ゆきえ\n"
+"\\>　流。　　　　にゃー　　　　　きなこもっちもち\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 129, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　彼岸花　　aruva　 あしなべ\n"
+"\\>　神埼由羅　もけ子　福野04\n"
+"\\>　志樹　　　tanita　まりしゃん\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 134, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　あきつ　　 東雲くらげ　もちもち\n"
+"\\>　getabaki　 らう　　　　まこっち\n"
+"\\>　柑橘箱　　 闇月夜　　　190\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 139, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　蒼　　　　アベル　れもん氏\n"
+"\\>　さおみー　凡　　　Level.21\n"
+"\\>　こな　　　dedp　　ぁもゆ\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 144, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　oudn　　20　　 へっどふぉん\n"
+"\\>　178　　 kmn　　ゆゆ\n"
+"\\>　カイズ　Torii　わたる\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 149, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　ラギー　ティクルポポ　みけ\n"
+"\\>　カワシ　こと　　　　　とーん\n"
+"\\>　KYOU　　胃の結　　　　オレンジ１００％\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 154, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　竹ノ花　　　　　向詠にいち　NN\n"
+"\\>　気々付き　　　　こげ兎　　　えいり\n"
+"\\>　ネコノハヤシロ　おぽ子　　　miharu\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 159, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　ガン★ガゼ　　　日陰　　にんふぇあ\n"
+"\\>　ninoruko　　　　クスゥ　arkham\n"
+"\\>　メロンまっちゃ　モカ　　TaSK\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 164, Pos (2,7)
+msgid ""
+"\\>　★PC壁紙\n"
+"\\>　アマクサ　　　　　　　chugo　　 mizkura\n"
+"\\>　さんびゃくななじゅう　なそあん　凹にゃん\n"
+"\\>　かわわらわ\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 170, Pos (2,7)
+msgid ""
+"\\>　★パズル絵柄\n"
+"\\>　ヤミキノ　レンツァイ　白くま\n"
+"\\>　彼方　　　睡魔　　　　ゆうし\n"
+"\\>　緋翠　　　鳩豆　　　　矢車小怪\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 175, Pos (2,7)
+msgid ""
+"\\>　★パズル絵柄\n"
+"\\>　みあ　　まっくろ　きな子もち\n"
+"\\>　幸付き　青蓮華　　壱峪ひろ\n"
+"\\>　あきつ　216チロ　 toto\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 180, Pos (2,7)
+msgid ""
+"\\>　★パズル絵柄\n"
+"\\>　メガネ山　さおみー　dario\n"
+"\\>　ツピー　　まこっち　巴\n"
+"\\>　NaTiru　　婿　　　　ﾐﾗ\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 185, Pos (2,7)
+msgid ""
+"\\>　★パズル絵柄\n"
+"\\>　ころんば　chico　　　　　 RPG-7\n"
+"\\>　蒼　　　　かしもち(春蝶)　とーん\n"
+"\\>　miharu　　ＢＳＬ　　　　　NN\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 191, Pos (2,7)
+msgid ""
+"\\>　★素材・ロダ管理\n"
+"\\>　モノクログリーン\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 195, Pos (2,7)
+msgid ""
+"\\>　★製作協力\n"
+"\\>　kt　724　おされ丸\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 199, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　ゆめにっきっぽいゲームを作るスレうｐロダ\n"
+"\\>　びたちー素材館\n"
+"\\>　ザ・マッチメイカァズ\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 204, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　ULTIMATEゲーム事業部 フリー効果音\n"
+"\\>　機械庭工房\n"
+"\\>　Free音素材「音楽室」\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 209, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　効果音源\n"
+"\\>　白螺子屋\n"
+"\\>　First Seed Material\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 214, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　Looseleaf\n"
+"\\>　ヒラノ\n"
+"\\>　On-Jin～音人～ (http://on-jin.com/)\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 219, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　音の杜\n"
+"\\>　akiroom\n"
+"\\>　acoustica\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 224, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　つーの素材クラブ\n"
+"\\>　HOP　STEP　αデジタル増刊号２\n"
+"\\>　(http://2nd.geocities.jp/hopstep_a/)\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 229, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　SWEET POISON CANDY\n"
+"\\>　音の葉っぱ～効果音・ｼﾞﾝｸﾞﾙ・BGMのﾌﾘｰ音素材集～\n"
+"\\>　(http://otonohappa.web.fc2.com/)\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 234, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　フリー音楽素材 Senses Circuit\n"
+"\\>　(http://www.senses-circuit.com/)\n"
+"\\>　Illustration\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 239, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　フリー素材屋Hoshino\n"
+"\\>　Frash Cafe\n"
+"\\>　効果音.net\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 244, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　LoopForest (http://loopforest.com/)\n"
+"\\>　Gally's Graphics Gate\n"
+"\\>　粋屋\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 249, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　花と写真\n"
+"\\>　ＣＧ素材集（テクスチャー素材集）\n"
+"\\>　100 Free High Quality Wooden Texture Packs\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 254, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　YASU pochi Guitar Diary\n"
+"\\>　ひょうぶろぐ\n"
+"\\>　Gatoblanco\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 259, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　効果音ラボ \n"
+"\\>　ありそでなさそな効果音\n"
+"\\>　Music is VFR (http://musicisvfr.com/)\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 264, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　ポケットサウンド (http://pocket-se.info/)\n"
+"\\>　くらげ工匠\n"
+"\\>　WEB WAVE LIB\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 269, Pos (2,7)
+msgid ""
+"\\>　★素材サイト\n"
+"\\>　無料写真素材　写真AC\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 273, Pos (2,7)
+msgid ""
+"\\>　★参考\n"
+"\\>　星のるつぼ　－星の名前のデータベース－\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 277, Pos (2,7)
+msgid ""
+"\\>　★ツール\n"
+"\\>　RPGツクール2000\n"
+"\\>　ツクールでつくーる\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 282, Pos (2,7)
+msgid ""
+"\\>　★まとめサイト\n"
+"\\>　ゆめにっきっぽいゲームを作るスレまとめ Wiki\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 286, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\\<\\N[6]\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 291, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　.\\<\\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 294, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　..\\<\\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 297, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　...\\<\\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 300, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　...\\<\\S[2]and \\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 303, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　...and \\<\\S[4]DREAMY \\.PLAYERS\\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 306, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　...and DREAMY PLAYERS.\\<\\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 309, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　...and DREAMY PLAYERS..\\<\\|\\^"
+msgstr ""
+
+#. ID 27, Page 2, Line 312, Pos (2,7)
+msgid ""
+"\\>　★製作\n"
+"\\>　ゆめにっきっぽいゲームを作るスレ住人\n"
+"\\>　...and DREAMY PLAYERS...\\<\\|\\|\\|\\|\\|\\^"
+msgstr ""
+
+#. ID 27, Page 3, Line 129, Pos (2,7)
+#, fuzzy
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"                          \\S[4]ED No.\\.\\C[5]-\\.-\\.-\\S[5]\\| 「皆への労い」\\|"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"                          \\S[4]FIN No.\\.\\C[5]-\\.-\\.-\\S[5]\\| 「皆への労い」\\|"
+
+#. ID 27, Page 3, Line 149, Pos (2,7)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr ""
+
+#. ID 27, Page 3, Line 150, Pos (2,7)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "デフォルト3"
+msgstr ""
+
+#. ID 27, Page 4, Line 20, Pos (2,7)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\|\\|\\|"
+msgstr ""
