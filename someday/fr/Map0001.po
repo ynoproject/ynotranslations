@@ -29,7 +29,7 @@ msgid ""
 "from a previous version of this game.\n"
 "(v0.0\\V[10])"
 msgstr ""
-"Je suis désolé, mais il semblerai que votre\n"
+"Je suis désolée, mais il semblerai que votre\n"
 "sauvegarde provienne d'une ancienne version.\n"
 "(v0.0\\V[10])"
 

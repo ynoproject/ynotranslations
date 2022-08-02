@@ -19,5 +19,5 @@ msgstr "                       Bois"
 #. ID 185, Page 1, Line 11, Pos (125,101)
 msgid "Interact with marked places to teleport."
 msgstr ""
-"Interagis avec les points marqués\n"
+"Interagissez avec les points marqués\n"
 "pour vous téléporter."

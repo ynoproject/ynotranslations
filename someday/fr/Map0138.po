@@ -46,7 +46,7 @@ msgstr "Vous n'avez pas assez de N!"
 #. ID 27, Page 1, Line 1, Pos (10,1)
 #. Contains choice at line 2 (2 options)
 msgid "Lose all effects?"
-msgstr "Perdre tous ses effets?"
+msgstr "Perdre tous les effets?"
 
 #. ID 27, Page 1, Line 2, Pos (10,1)
 #. Choice (2 options, embedded in a message)
