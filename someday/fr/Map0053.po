@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 9, Pos (36,45)
+msgid ""
+"\n"
+"\n"
+"\n"
+"                       ."
+msgstr ""
+"\n"
+"\n"
+"\n"
+"                       ."
+
+#. ID 3, Page 1, Line 7, Pos (62,43)
+msgid "\\C[2]Are you Kondo?"
+msgstr "\\C[2]Es-tu Kondo?"
+
+#. ID 3, Page 2, Line 16, Pos (62,43)
+msgid "\\C[2]Yes, it's him."
+msgstr "\\C[2]Oui, c'est lui."
+
+#. ID 3, Page 2, Line 35, Pos (62,43)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Itsuki"

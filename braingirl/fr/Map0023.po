@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAINGIRL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 3, Line 4, Pos (8,8)
+#. ID 1, Page 3, Line 16, Pos (8,8)
+msgid "..."
+msgstr "..."
+
+#. ID 1, Page 3, Line 6, Pos (8,8)
+msgid "...You'll be okay!"
+msgstr "...Tout ira bien!"
+
+#. ID 1, Page 3, Line 8, Pos (8,8)
+msgid "You don't have to worry anymore."
+msgstr "Tu n'auras plus à t'inquiéter désormais."
+
+#. ID 1, Page 3, Line 10, Pos (8,8)
+msgid ""
+"They won't find you,\n"
+"as long as you stay here."
+msgstr ""
+"Ils ne te trouveront pas, du moment\n"
+"que tu restes ici."
+
+#. ID 1, Page 3, Line 13, Pos (8,8)
+msgid ""
+"And I'm sure if we wait long enough, they\n"
+"will stop looking for you altogether!"
+msgstr ""
+"Et je pense même que si on attend assez, ils \n"
+"arrêteront de te chercher!"
+
+#. ID 1, Page 3, Line 18, Pos (8,8)
+msgid "..I think..."
+msgstr "..Je pense..."
+
+#. ID 1, Page 3, Line 20, Pos (8,8)
+msgid ""
+"But whatever happens, I will be\n"
+"here for you."
+msgstr "Mais quoi qu'il arrive, je serai là pour toi."
+
+#. ID 1, Page 3, Line 23, Pos (8,8)
+msgid "You don't have to be scared anymore."
+msgstr "Tu n'as plus à avoir peur."
+
+#. ID 1, Page 3, Line 25, Pos (8,8)
+msgid ""
+"I'll give you food, books, games and\n"
+"a bed for you to sleep in."
+msgstr ""
+"Je te donnerai nourriture, livres,\n"
+"jeux et un lit pour que tu puisses dormir."
+
+#. ID 1, Page 3, Line 28, Pos (8,8)
+msgid "I can't promise you it won't get boring..."
+msgstr ""
+"Je ne peux pas te promettre que ça\n"
+"ne deviendra pas ennuyant..."
+
+#. ID 1, Page 3, Line 30, Pos (8,8)
+msgid "But I really want you to stay safe!"
+msgstr "Mais je veux vraiment que tu restes en sécurité!"
+
+#. ID 1, Page 3, Line 32, Pos (8,8)
+msgid "So promise me you'll stay with me, Mikan!!"
+msgstr "Donc promets-moi de rester avec moi, Mikan!!"

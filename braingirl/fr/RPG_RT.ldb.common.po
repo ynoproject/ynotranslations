@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BRAINGIRL\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 15, Line 16
+#. Choice (4 options)
+msgid ""
+"Save\n"
+"Music\n"
+"Extras\n"
+"Close"
+msgstr ""
+"Sauvegarder\n"
+"Musique\n"
+"Extras\n"
+"Fermer"
+
+#. ID 15, Line 35
+#. Choice (3 options)
+msgid ""
+"Menu Settings\n"
+"Debug Mode\n"
+"Return"
+msgstr ""
+"Paramètres du Menu\n"
+"Debug Mode\n"
+"Retour"
+
+#. ID 15, Line 50
+msgid ""
+"You can enter the terminal room by using the code\n"
+"5552 on the metal payphone. Debug Mode is\n"
+"permanent for the current save state."
+msgstr ""
+"Vous pouvez entrer dans la salle du terminal\n"
+"avec le code 5552 sur la cabine téléphonique.\n"
+"Le Debug Mode est permanent sur une sauvegarde."
+
+#. ID 15, Line 55
+msgid ""
+"Debug mode grants you access to the terminal room \n"
+"and other test-related features. Saving your game \n"
+"before proceeding is recommended."
+msgstr ""
+"Le Debug mode vous donne accès à la salle du\n"
+"terminal et d'autres fonctions de tests. Sauver\n"
+"votre partie avant de l'activer est recommandé."
+
+#. ID 15, Line 58
+#. Contains choice at line 2 (2 options)
+msgid "Turn on Debug Mode? This cannot be undone."
+msgstr "Activer le Debug Mode? Cela ne peut être annulé."
+
+#. ID 15, Line 59
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 15, Line 62
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#. ID 15, Line 64
+msgid ""
+"DEBUG MODE INITIATED.\n"
+"You can enter the terminal room by using the code\n"
+"5552 on the metal payphone"
+msgstr ""
+"INITIATION DU DEBUG MODE.\n"
+"Vous pouvez entrer dans la salle du terminal\n"
+"avec le code 5552 sur la cabine téléphonique."

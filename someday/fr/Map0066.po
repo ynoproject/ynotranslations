@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 55, Page 1, Line 8, Pos (15,10)
+msgid "                    Diving suit"
+msgstr "                 Combi. de plongée"
+
+#. ID 61, Page 2, Line 10, Pos (5,10)
+#. Choice (4 options)
+msgid ""
+"FRUIX - 220 N\n"
+"The Other Lime - 220 N\n"
+"7 Moop - 300 N\n"
+"Don't buy anything"
+msgstr ""
+"FRUIX - 220 N\n"
+"The Other Lime - 220 N\n"
+"7 Moop - 300 N\n"
+"Ne rien acheter"
+
+#. ID 61, Page 2, Line 17, Pos (5,10)
+#. ID 61, Page 2, Line 52, Pos (5,10)
+#. ID 61, Page 2, Line 87, Pos (5,10)
+msgid "You won a free drink!"
+msgstr "Vous avez gagné une boisson gratuite!"
+
+#. ID 61, Page 2, Line 23, Pos (5,10)
+#. ID 61, Page 2, Line 58, Pos (5,10)
+#. ID 61, Page 2, Line 93, Pos (5,10)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 61, Page 2, Line 42, Pos (5,10)
+#. ID 61, Page 2, Line 77, Pos (5,10)
+#. ID 61, Page 2, Line 112, Pos (5,10)
+msgid "You don't have enough N!"
+msgstr "Vous n'avez pas assez de N!"

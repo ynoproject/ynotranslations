@@ -682,7 +682,7 @@ msgstr "Écrire dans le journal?"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "Lire quel page du journal?"
+msgstr "Lire quelle page du journal?"
 
 msgctxt "terms.file"
 msgid "Page"
