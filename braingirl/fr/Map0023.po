@@ -31,16 +31,16 @@ msgid ""
 "They won't find you,\n"
 "as long as you stay here."
 msgstr ""
-"Ils ne te trouveront pas,\n"
-"du moment que tu restes ici."
+"Ils ne te trouveront pas, du moment\n"
+"que tu restes ici."
 
 #. ID 1, Page 3, Line 13, Pos (8,8)
 msgid ""
 "And I'm sure if we wait long enough, they\n"
 "will stop looking for you altogether!"
 msgstr ""
-"Et je pense même que si on attend assez,\n"
-"ils arrêteront de nous chercher!"
+"Et je pense même que si on attend assez, ils \n"
+"arrêteront de te chercher!"
 
 #. ID 1, Page 3, Line 18, Pos (8,8)
 msgid "..I think..."
@@ -50,9 +50,7 @@ msgstr "..Je pense..."
 msgid ""
 "But whatever happens, I will be\n"
 "here for you."
-msgstr ""
-"Mais quoi qu'il arrive, je serais\n"
-"là pour toi."
+msgstr "Mais quoi qu'il arrive, je serai là pour toi."
 
 #. ID 1, Page 3, Line 23, Pos (8,8)
 msgid "You don't have to be scared anymore."
@@ -64,11 +62,13 @@ msgid ""
 "a bed for you to sleep in."
 msgstr ""
 "Je te donnerai nourriture, livres,\n"
-"jeux et un lit pour dormir."
+"jeux et un lit pour que tu puisses dormir."
 
 #. ID 1, Page 3, Line 28, Pos (8,8)
 msgid "I can't promise you it won't get boring..."
-msgstr "Je ne peux te promettre qu'on ne s'ennuiera pas..."
+msgstr ""
+"Je ne peux pas te promettre que ça\n"
+"ne deviendra pas ennuyant..."
 
 #. ID 1, Page 3, Line 30, Pos (8,8)
 msgid "But I really want you to stay safe!"
