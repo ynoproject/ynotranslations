@@ -522,7 +522,7 @@ msgstr "Ver. couettes ON!"
 
 #. ID 29, Page 1, Line 11, Pos (3,13)
 msgid "ver.ツインテールoff"
-msgstr "Ver couettes. OFF!"
+msgstr "Ver. couettes OFF!"
 
 #. ID 31, Page 1, Line 1, Pos (11,9)
 msgid "スライム　ぶよぶよ強化。"
