@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume2kki\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 5, Page 1, Line 44, Pos (7,0)
+#. ID 5, Page 1, Line 86, Pos (7,0)
+msgid "\\^"
+msgstr ""
+
+#. ID 5, Page 1, Line 462, Pos (7,0)
+msgid ""
+"\\>調:\\V[9] 左:\\V[2]    中:\\V[3]    右:\\V[4]\n"
+"\\>　      左:\\V[5] 中:\\V[6] 右:\\V[7]"
+msgstr ""
+"\\>Итог:\\V[9]\n"
+"\\>Лево:\\V[2]Центр:\\V[3]Право:\\V[4]\n"
+"\\>Лево:\\V[5]Центр:\\V[6]Право:\\V[7]"

@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume2kki\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 41, Page 1, Line 7, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "自転車に乗る？"
+msgstr "Сесть на велосипед?"
+
+#. ID 41, Page 1, Line 8, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 3, Line 8, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 5, Line 5, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 41, Page 1, Line 19, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "Andar na bicicleta?"
+msgstr ""
+
+#. ID 41, Page 1, Line 20, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 3, Line 20, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 5, Line 25, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Sim\n"
+"Nao"
+msgstr ""
+
+#. ID 41, Page 1, Line 31, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "Ride that bike?"
+msgstr ""
+
+#. ID 41, Page 1, Line 32, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 3, Line 32, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 5, Line 45, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 41, Page 1, Line 43, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "?Montar esa bicicleta?"
+msgstr ""
+
+#. ID 41, Page 1, Line 44, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 3, Line 44, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+#. ID 41, Page 5, Line 65, Pos (0,77)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Si\n"
+"No"
+msgstr ""
+
+#. ID 41, Page 2, Line 7, Pos (0,77)
+msgid "★ うろつきが自転車に乗った"
+msgstr "★ Уроцуки залезла на велосипед."
+
+#. ID 41, Page 2, Line 11, Pos (0,77)
+msgid "★ Urotsuki subiu na bicicleta."
+msgstr ""
+
+#. ID 41, Page 2, Line 15, Pos (0,77)
+msgid "★ Urotsuki got on the bike."
+msgstr ""
+
+#. ID 41, Page 2, Line 19, Pos (0,77)
+msgid "★ Urotsuki se subio a la bicicleta."
+msgstr ""
+
+#. ID 41, Page 3, Line 7, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "自転車を降りますか？"
+msgstr "Слезть с велосипеда?"
+
+#. ID 41, Page 3, Line 19, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "Descer da bicicleta?"
+msgstr ""
+
+#. ID 41, Page 3, Line 31, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "Get off the bike?"
+msgstr ""
+
+#. ID 41, Page 3, Line 43, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "?Bajar de la bicicleta?"
+msgstr ""
+
+#. ID 41, Page 4, Line 7, Pos (0,77)
+msgid "★ うろつきは自転車から降りた。"
+msgstr "★ Уроцуки слезла с велосипеда."
+
+#. ID 41, Page 4, Line 12, Pos (0,77)
+msgid "★ Urotsuki desceu da bicicleta."
+msgstr ""
+
+#. ID 41, Page 4, Line 17, Pos (0,77)
+msgid "★ Urotsuki got off the bike,"
+msgstr ""
+
+#. ID 41, Page 4, Line 22, Pos (0,77)
+msgid "★ Urotsuki se bajo de la bicicleta."
+msgstr ""
+
+#. ID 41, Page 5, Line 4, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "このバナナを捕まえますか？"
+msgstr "Взять банан?"
+
+#. ID 41, Page 5, Line 8, Pos (0,77)
+msgid "★ うろつきがバナナを取った。"
+msgstr "★ Уроцуки взяла банан."
+
+#. ID 41, Page 5, Line 14, Pos (0,77)
+msgid "☆ うろつきはバナナナンバー1を手に入れました！☆"
+msgstr "☆ Уроцуки получила Банан 1-й!☆"
+
+#. ID 41, Page 5, Line 18, Pos (0,77)
+msgid "★ うろつきはバナナをそのまま残しました。"
+msgstr "★ Уроцуки оставила банан лежать."
+
+#. ID 41, Page 5, Line 24, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "Pegar esta banana?"
+msgstr ""
+
+#. ID 41, Page 5, Line 28, Pos (0,77)
+msgid "★ Urotsuki pegou a banana."
+msgstr ""
+
+#. ID 41, Page 5, Line 34, Pos (0,77)
+msgid "☆ Urotsuki obteve a banana numero 1! ☆"
+msgstr ""
+
+#. ID 41, Page 5, Line 38, Pos (0,77)
+msgid "★ Urotsuki deixou a banana onde estava."
+msgstr ""
+
+#. ID 41, Page 5, Line 44, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "Catch this banana?"
+msgstr ""
+
+#. ID 41, Page 5, Line 48, Pos (0,77)
+msgid "★ Urotsuki took the banana."
+msgstr ""
+
+#. ID 41, Page 5, Line 54, Pos (0,77)
+msgid "☆ Urotsuki got banana number 1! ☆"
+msgstr ""
+
+#. ID 41, Page 5, Line 58, Pos (0,77)
+msgid "★ Urotsuki left the banana where it is"
+msgstr ""
+
+#. ID 41, Page 5, Line 64, Pos (0,77)
+#. Contains choice at line 2 (2 options)
+msgid "?Coger el platano?"
+msgstr ""
+
+#. ID 41, Page 5, Line 72, Pos (0,77)
+msgid "★ Urotsuki tomo el platano."
+msgstr ""
+
+#. ID 41, Page 5, Line 74, Pos (0,77)
+msgid "☆ !Urotsuki consiguio el platano numero 1! ☆"
+msgstr ""
+
+#. ID 41, Page 5, Line 78, Pos (0,77)
+msgid "★ Urotsuki dejo el platano donde estaba."
+msgstr ""

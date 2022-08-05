@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume2kki\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 5, Page 1, Line 67, Pos (0,4)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцуки"
+
+#. ID 5, Page 1, Line 68, Pos (0,4)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Сноход"
+
+#. ID 5, Page 1, Line 74, Pos (0,4)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "■■■■"
+msgstr "■■■■■■■"
+
+#. ID 5, Page 1, Line 75, Pos (0,4)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "■■■"
+msgstr "■■■■■■"
+
+#. ID 56, Page 1, Line 17, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "《デバッグ用》ﾚｱEvに移行"
+msgstr ""
+
+#. ID 56, Page 1, Line 18, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
