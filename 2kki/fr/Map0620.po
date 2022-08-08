@@ -80,7 +80,7 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v: Séléction du Morceau\n"
+"\\>$s$t$u$v: Sélection du Morceau\n"
 "\\>Z       : Jouer le morceau・Ajouter morceau n°\n"
 "\\>X       : Retourner au menu\n"
 "\\>Shift   : Voir les infos du morceau・Ajouter"
@@ -95,7 +95,7 @@ msgstr ""
 "\\>$s$t$u$v: Sélection du Morceau\n"
 "\\>Z       : Jouer morceau・Changer var.\n"
 "\\>X       : Retourner au menu\n"
-"\\>Shift   : Voir infos morceau・Ajouter"
+"\\>Maj     : Voir infos morceau・Ajouter"
 
 #. ID 1, Page 1, Line 1823, Pos (19,14)
 msgid ""
@@ -131,7 +131,7 @@ msgstr ""
 "\\>\\C[10]■ \\C[0]Options du Menu disponibles[2/3]\n"
 "\\>・Changer le mode de lecture\n"
 "\\>・Paramètres de lecture automatique\n"
-"\\>・Arrêter le morceau "
+"\\>・Arrêter le morceau"
 
 #. ID 1, Page 1, Line 1852, Pos (19,14)
 msgid ""
@@ -333,7 +333,7 @@ msgstr "Temps restant"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "ループ回数"
-msgstr "Nombre de répétitions"
+msgstr "Nbr. de répétitions"
 
 #. ID 1, Page 1, Line 2136, Pos (19,14)
 #. Contains choice at line 2 (3 options)
@@ -352,8 +352,8 @@ msgid ""
 "\\>時間　　　：\\C[4]\\V[119]秒\\C[0]経過"
 msgstr ""
 "\\>Ordre des Morceaux : \\C[4]\\N[6]\\C[0]\n"
-"\\>Condition de Temps Écoulé : \\C[4]\\N[1]\\C[0]\n"
-"\\>Durée de Lecture           : \\C[4]\\V[119]s\\C[0] in"
+"\\>Condition de chang. morceau: \\C[4]\\N[1]\\C[0]\n"
+"\\>Durée de Lecture           : \\C[4]\\V[119]s\\C[0]"
 
 #. ID 1, Page 1, Line 2154, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -363,8 +363,8 @@ msgid ""
 "\\>時間　　　：\\C[4]\\V[593]分\\V[594]秒\\C[0]経過"
 msgstr ""
 "\\>Ordre des Morceaux : \\C[4]\\N[6]\\C[0]\n"
-"\\>Condition de Temps Écoulé : \\C[4]\\N[1]\\C[0]\n"
-"\\>Durée de Lecture           : \\C[4]\\V[593]m \\V[594]s\\C[0] in"
+"\\>Condition de chang. morceau: \\C[4]\\N[1]\\C[0]\n"
+"\\>Durée de Lecture           : \\C[4]\\V[593]m \\V[594]s\\C[0]"
 
 #. ID 1, Page 1, Line 2177, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -374,7 +374,7 @@ msgid ""
 "\\>ループ回数：\\C[4]\\V[593]回\\C[0]"
 msgstr ""
 "\\>Ordre des Morceaux : \\C[4]\\N[6]\\C[0]\n"
-"\\>Condition de Temps Écoulé : \\C[4]\\N[1]\\C[0]\n"
+"\\>Condition de chang. morceau: \\C[4]\\N[1]\\C[0]\n"
 "\\>Nombre de Répétitions          : \\C[4]\\V[593] Fois\\C[0]"
 
 #. ID 1, Page 1, Line 2201, Pos (19,14)
@@ -383,14 +383,15 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の選曲方法を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Définir l'ordre des morceaux\\C[0] (Réglage actuel : \\C[4]\\N[6]\\C[0]）\n"
+"\\>\\C[10]■ \\C[6]Ordre des morceaux\\C[0] (Actuel : \\C[4]\\N[6]\\C[0])\n"
 "\\>\n"
-"\\>> Vous pouvez changer l'ordre de passage des morceaux"
+"\\>> Vous pouvez changer l'ordre de passage des\n"
+"\\>  morceaux"
 
 #. ID 1, Page 1, Line 2204, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]選曲タイプの設定\\C[0]（現在：\\C[4]\\N[6]\\C[0]）"
-msgstr "\\>\\C[10]■ \\C[6]Définir l'ordre des morceaux\\C[0] (Réglage actuel : \\C[4]\\N[6]\\C[0]）"
+msgstr "\\>\\C[10]■ \\C[6]Ordre des morceaux\\C[0] (Actuel : \\C[4]\\N[6]\\C[0])"
 
 #. ID 1, Page 1, Line 2205, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -409,9 +410,10 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の切替条件を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Cond. de Temps Écoulé\\C[0] (Réglage act. : \\C[4]\\N[1]\\C[0])\n"
-"\\>\n"
-"\\>> Vous pouvez changer quand le prochain morceau jouera."
+"\\>\\C[10]■ \\C[6]Condition de changement de morceau\n"
+"\\>  \\C[0] (Act. : \\C[4]\\N[1]\\C[0])\n"
+"\\>> Vous pouvez changer quand le prochain\n"
+"\\>  morceau jouera."
 
 #. ID 1, Page 1, Line 2225, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -419,8 +421,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]切替条件の設定\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Cond. de Temps Écoulé\\C[0] (Réglage act. : \\C[4]\\N[1]\\C[0])\n"
-"\\>"
+"\\>\\C[10]■ \\C[6]Condition de changement de morceau\n"
+"\\>  \\C[0] (Act. : \\C[4]\\N[1]\\C[0])"
 
 #. ID 1, Page 1, Line 2227, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -439,9 +441,9 @@ msgid ""
 "\\>　（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
 "\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
-"\\>\n"
-"\\>> Combien de temps chaque morceau doit-il durer ? (1~9999)\n"
-"\\>    (Réglage actuel : \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>> Combien de temps chaque morceau doit-il durer ?\n"
+"\\>    (1~9999) (Réglage actuel : \\C[4]\\V[119]s\\C[0]   \n"
+"\\>    0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2252, Pos (19,14)
 msgid ""
@@ -461,9 +463,9 @@ msgid ""
 "\\>　（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
 "\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
-"\\>\n"
-"\\>> Combien de temps chaque morceau doit-il durer ? (1~9999)\n"
-"\\>> (Réglage actuel : \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>> Combien de temps chaque morceau doit-il durer ?\n"
+"\\>    (1~9999)(Réglage actuel : \\C[4]\\V[592]m \\V[593]s\\C[0]\n"
+"\\>    = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2271, Pos (19,14)
 msgid ""
@@ -472,8 +474,8 @@ msgid ""
 "\\>＞（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
 "\\>\\C[10]■ \\C[6]Paramètres de Temps Écoulé\\C[0]\n"
-"\\>\n"
-"\\>> (Réglage actuel : \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
+"\\>> (Réglage actuel : \\C[4]\\V[592]m \\V[593]s\\C[0] \n"
+"\\>  = \\C[4]\\V[119]s\\C[0]  0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2288, Pos (19,14)
 msgid ""
@@ -483,9 +485,9 @@ msgid ""
 "\\>　（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
 "\\>\\C[10]■ \\C[6]Paramètres du Nombre de Répétitions\\C[0]\n"
-"\\>\n"
-"\\>> Combien de fois les morceaux doivent-ils se répéter ? (1~9)\n"
-"\\>(Réglage actuel: \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
+"\\>> Combien de fois les morceaux doivent-ils\n"
+"\\>  se répéter ? (1~9) (Réglage actuel:\n"
+"\\>  \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2292, Pos (19,14)
 msgid ""
@@ -495,7 +497,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Paramètres du Nombre de Répétitions\\C[0]\n"
 "\\>\n"
-"\\>  (Réglage actuel: \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
+"\\>> (Réglage actuel: \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2318, Pos (19,14)
 msgid ""
@@ -589,7 +591,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■\\C[6] Temps de délai\\C[0]\n"
 "\\>\n"
-"\\>＞（Actuel : \\C[4]\\V[109]\\C[0]  Normal : 5  0 conserve l'état act.）"
+"\\>＞（Actuel: \\C[4]\\V[109]\\C[0]  Normal : 5  0 conserve l'état act.）"
 
 #. ID 1, Page 1, Line 2539, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -601,7 +603,7 @@ msgstr "Rapide"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ゆっくり"
-msgstr "Lent"
+msgstr "Lente"
 
 #. ID 1, Page 1, Line 2553, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -622,7 +624,8 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■\\C[6] Vitesse de transition\\C[0]（Actuel：\\C[4]\\N[6]\\C[0]）\n"
 "\\>\n"
-"\\>＞Vous pouvez régler la transition entre les morceaux"
+"\\>＞Vous pouvez régler la transition entre\n"
+"\\>　les morceaux"
 
 #. ID 1, Page 1, Line 2575, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -669,8 +672,8 @@ msgid ""
 "\\>・\\C[\\V[592]]なし\\C[0]：飛ばして解放演出を流します（標準）\n"
 "\\>・\\C[\\V[593]]あり\\C[0]：演奏を止めてお知らせします"
 msgstr ""
-"\\>・\\C[\\V[592]]Off\\C[0]：Passera et jouera le prochain morceau disponible（Defaut）\n"
-"\\>・\\C[\\V[593]]On\\C[0]：La musique s'arrêtera pour vous le notifier"
+"\\>・\\C[\\V[592]]Off\\C[0]: Passera au prochain morceau (Défaut)\n"
+"\\>・\\C[\\V[593]]On\\C[0]: La musique s'arrêtera pour vous le notifier"
 
 #. ID 1, Page 1, Line 2665, Pos (19,14)
 msgid ""
@@ -1023,7 +1026,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Vérification des Morceaux Verrouillés\\C[0]\n"
 "\\>\n"
-"\\>> Aucun morceau verrouillé "
+"\\>> Aucun morceau verrouillé"
 
 #. ID 1, Page 2, Line 1110, Pos (19,14)
 msgid ""
@@ -1276,7 +1279,7 @@ msgid ""
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：\\C[4]\\V[591]\\C[0])"
 msgstr ""
 "\\>Nom du fichier : \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Morceau n° : \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: \\C[4]\\V[591]\\C[0])"
+"\\>Morceau n° : \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Emplacement Playlist: \\C[4]\\V[591]\\C[0])"
 
 #. ID 1, Page 2, Line 1844, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1997,7 +2000,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]Retourner à l'\\N[6]\\C[0]\n"
 "\\>Aller dans l'Ancienne Salle de Son\n"
-"\\>Voir la Salle de Son ED"
+"\\>Voir la FIN Salle de Son"
 
 #. ID 1, Page 5, Line 668, Pos (19,14)
 #. ChangeHeroName (Actor 1)

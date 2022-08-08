@@ -10174,7 +10174,7 @@ msgstr "Devenez un dé"
 #. ID 47
 msgctxt "items.name"
 msgid "バイク＋おおかみ"
-msgstr "Moto + Loup"
+msgstr ""
 
 #. ID 47
 #. ID 88

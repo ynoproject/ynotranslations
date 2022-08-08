@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 7, Pos (26,3)
 msgid "Ｐ獲得：通常クリア！"
@@ -26,11 +26,15 @@ msgstr "Point non acquis : Terminé rapidement"
 
 #. ID 2, Page 1, Line 28, Pos (26,3)
 msgid "Ｐ獲得：チップ回収クリア！"
-msgstr "Point acquis : Terminé avec tous les jetons collectés!"
+msgstr ""
+"Point acquis : Terminé avec tous les \n"
+"jetons collectés!"
 
 #. ID 2, Page 1, Line 33, Pos (26,3)
 msgid "Ｐ未獲得：チップ回収クリア"
-msgstr "Point acquis : Terminé avec tous les jetons collectés"
+msgstr ""
+"Point non acquis : Terminé avec tous les\n"
+"jetons collectés"
 
 #. ID 2, Page 1, Line 41, Pos (26,3)
 msgid "Ｐ獲得：ノーミスクリア！"
@@ -38,12 +42,16 @@ msgstr "Point acquis: Terminé parfaitement!"
 
 #. ID 2, Page 1, Line 46, Pos (26,3)
 msgid "Ｐ未獲得：ノーミスクリア"
-msgstr "Point acquis: Terminé parfaitement"
+msgstr "Point non acquis: Terminé parfaitement"
 
 #. ID 2, Page 1, Line 54, Pos (26,3)
 msgid "Ｐ獲得：全セーブポイント通過クリア！"
-msgstr "Point acquis : Terminé avec tous les points de passage!"
+msgstr ""
+"Point acquis : Terminé avec tous les points\n"
+"de passage!"
 
 #. ID 2, Page 1, Line 59, Pos (26,3)
 msgid "Ｐ未獲得：全セーブポイント通過クリア"
-msgstr "Point acquis : Terminé avec tous les points de passage"
+msgstr ""
+"Point non acquis : Terminé avec tous les points\n"
+"de passage"
