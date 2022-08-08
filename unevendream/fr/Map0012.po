@@ -15,5 +15,5 @@ msgstr ""
 #. ID 10, Page 1, Line 2, Pos (21,26)
 msgid "There are currently no maps created for this area."
 msgstr ""
-"Il n'y a actuellement aucune map \n"
-"créée pour cette zone."
+"Il n'y a actuellement aucune map créée pour cette\n"
+"zone."
