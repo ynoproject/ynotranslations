@@ -554,7 +554,7 @@ msgid ""
 "Fo' sho'\n"
 "No"
 msgstr ""
-"Pour' sûre'\n"
+"Pou' sûw'\n"
 "Non"
 
 #. ID 77, Page 1, Line 11, Pos (8,4)
