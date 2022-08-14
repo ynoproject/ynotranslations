@@ -1,31 +1,66 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Yume 2kki french translation\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.1.1\n"
 
-#. ID 1, Page 1, Line 74, Pos (2,0)
+#. ID 1, Page 1, Line 60, Pos (2,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ハイスコアデータ消去 - Delete High Score Data\n"
+"\\>消したデータは戻せません。よろしいですか？"
+msgstr ""
+
+#. ID 1, Page 1, Line 62, Pos (2,0)
+#. Choice (2 options, embedded in a message)
+#. ID 1, Page 1, Line 66, Pos (2,0)
+#. Choice (2 options, embedded in a message)
+#, fuzzy
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>ハイスコアデータ消去 - Effacer le Meilleur Score\n"
+"\\>消したデータは戻せません。よろしいですか？"
+
+#. ID 1, Page 1, Line 64, Pos (2,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\n"
+"\\|\\S[2]後悔しませんね？"
+msgstr ""
+
+#. ID 1, Page 1, Line 70, Pos (2,0)
+msgid "\\>ハイスコアデータを削除しました。"
+msgstr ""
+
+#. ID 1, Page 1, Line 105, Pos (2,0)
 msgid ""
 "\\>Debug\n"
-"\\>Random Seed (0:input cancel)"
+"\\>Random Seed"
 msgstr ""
 
-#. ID 1, Page 3, Line 26, Pos (2,0)
+#. ID 1, Page 1, Line 108, Pos (2,0)
+msgid ""
+"\\>Debug\n"
+"\\>Speed"
+msgstr ""
+
+#. ID 1, Page 3, Line 27, Pos (2,0)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
-msgid " MAX!"
+msgid " ☆"
 msgstr ""
 
-#. ID 1, Page 3, Line 30, Pos (2,0)
+#. ID 1, Page 3, Line 31, Pos (2,0)
 msgid ""
 "\\>　　　　　　 　　GAME OVER\\<\\|\n"
 "\\>                 EvID:\\V[69]\n"
@@ -33,19 +68,19 @@ msgid ""
 "\\>                SCORE:\\V[79]"
 msgstr ""
 
-#. ID 1, Page 3, Line 36, Pos (2,0)
+#. ID 1, Page 3, Line 37, Pos (2,0)
 msgid ""
 "\\>　　　　　　 　　GAME OVER\\<\\|\n"
-"\n"
+"\\>                \n"
 "\\>                SPEED:\\V[10]\\N[2]\\<\\.\n"
 "\\>                SCORE:\\V[79]"
 msgstr ""
 "\\>　　　　　　 　　GAME OVER\\<\\|\n"
-"\n"
+"\\>                \n"
 "\\>                VITESSE:\\V[10]\\N[2]\\<\\.\n"
 "\\>                SCORE:\\V[79]"
 
-#. ID 1, Page 3, Line 45, Pos (2,0)
+#. ID 1, Page 3, Line 46, Pos (2,0)
 msgid ""
 "\\>　　　　　　  　HIGH SCORE!\n"
 "\\>                    \\V[79]"
