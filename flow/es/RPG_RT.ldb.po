@@ -243,7 +243,7 @@ msgstr "Un producto de la incomprensión de la especificación Tscool. [???]"
 #. ID 31
 msgctxt "items.name"
 msgid "ねぐせ"
-msgstr "Cabello de la Cama"
+msgstr "Desordenado"
 
 #. ID 32
 msgctxt "items.name"
@@ -407,7 +407,7 @@ msgstr "Mirar las Instrucciones del Juego."
 
 msgctxt "terms.gold"
 msgid "円"
-msgstr "Yenes"
+msgstr "￥"
 
 msgctxt "terms.command_item"
 msgid "エフェクト"
@@ -415,7 +415,7 @@ msgstr "Efectos"
 
 msgctxt "terms.command_skill"
 msgid "とくべつ"
-msgstr "Especial"
+msgstr "Acciones"
 
 msgctxt "terms.menu_equipment"
 msgid "じぶん"
