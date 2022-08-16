@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 14, Page 1, Line 1, Pos (6,7)
+#. Contains choice at line 2 (2 options)
+msgid "すべて　すてますか　？"
+msgstr "¿Quieres dejarlo todo?"
+
+#. ID 14, Page 1, Line 2, Pos (6,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Sí\n"
+"No"
+
+#. ID 14, Page 1, Line 54, Pos (6,7)
+msgid "すてました。"
+msgstr "Desechados."
+
+#. ID 14, Page 1, Line 60, Pos (6,7)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "錆"
+msgstr "Rust"
