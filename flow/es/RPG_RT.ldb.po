@@ -291,7 +291,7 @@ msgstr "Revólver"
 #. ID 68
 msgctxt "items.name"
 msgid "したい"
-msgstr "Cádaver"
+msgstr "Cadáver"
 
 #. ID 54
 #. ID 69
@@ -357,7 +357,7 @@ msgstr "Equipar un Revólver."
 #. ID 68
 msgctxt "items.description"
 msgid "｢したい｣になる。"
-msgstr "Convertirse en un Cádaver."
+msgstr "Convertirse en un Cadáver."
 
 #. ID 69
 #. ID 70
