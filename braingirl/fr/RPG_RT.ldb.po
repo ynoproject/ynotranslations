@@ -52,7 +52,7 @@ msgstr "$tInstructions"
 #. ID 7
 msgctxt "items.name"
 msgid "$rMarble Soda"
-msgstr "$r Soda de marbre"
+msgstr "$rSoda de marbre"
 
 #. ID 6
 #. ID 7
