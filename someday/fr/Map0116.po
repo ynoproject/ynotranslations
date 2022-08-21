@@ -14,16 +14,16 @@ msgstr ""
 
 #. ID 2, Page 1, Line 8, Pos (10,8)
 msgid "                   Healing aura"
-msgstr "                   Aura de guérison"
+msgstr "                 Aura de guérison"
 
 #. ID 2, Page 1, Line 11, Pos (10,8)
 msgid "Interact with injured characters to heal them."
 msgstr ""
-"Interagissez avec les personnes\n"
-"blessées pour les soigner."
+"Interagissez avec les personnes blessées pour les\n"
+"soigner."
 
 #. ID 2, Page 1, Line 12, Pos (10,8)
 msgid "Interact with damaged places to fix them."
 msgstr ""
-"Interagissez avec les endroits\n"
-"endommagés pour les réparer."
+"Interagissez avec les endroits endommagés pour les\n"
+"réparer."

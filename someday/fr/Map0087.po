@@ -19,5 +19,5 @@ msgstr "                      Mercure"
 #. ID 1, Page 1, Line 11, Pos (26,23)
 msgid "Interact with gaps on walls to go through them."
 msgstr ""
-"Interagissez avec les trous dans les \n"
-"murs pour passer de l'autre côté."
+"Interagissez avec les trous dans les murs pour\n"
+"passer de l'autre côté."
