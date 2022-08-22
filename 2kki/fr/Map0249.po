@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1, Page 1, Line 4, Pos (2,1)
 #. Choice (4 options)
@@ -16,6 +20,10 @@ msgid ""
 "　　　　　　　　　せつめい\n"
 "　　　　　　　 ゲームをおわる"
 msgstr ""
+"　　　　　　　　    Commencer\n"
+"　　　　　　　　    Continuer\n"
+"            　       Synopsis\n"
+"　　　　　　　       Quitter"
 
 #. ID 1, Page 1, Line 7, Pos (2,1)
 msgid "　　　　　　　データが初期化されました"
@@ -70,4 +78,3 @@ msgid ""
 "その辺ふよふよしてるのを30個集めたらBADです。\n"
 "99個以上取ると多分表示がバグります。"
 msgstr ""
-
