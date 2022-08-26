@@ -1354,10 +1354,3 @@ msgid ""
 "この機能はまだ未完成です"
 msgstr ""
 
-#. ID 30, Page 1, Line 2, Pos (1,10)
-#. Choice (2 options)
-msgid ""
-"!\n"
-"."
-msgstr ""
-
