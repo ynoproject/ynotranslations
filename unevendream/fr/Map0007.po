@@ -43,6 +43,10 @@ msgstr "Hé, c'est Backbeat Anthem. Obtenir KUBOEFFET03?"
 #. Choice (2 options, embedded in a message)
 #. ID 76, Page 1, Line 2, Pos (23,3)
 #. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 40, Pos (28,4)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 55, Pos (28,4)
+#. Choice (2 options, embedded in a message)
 msgid ""
 "Yes\n"
 "No"
@@ -157,7 +161,6 @@ msgstr "Événements en Braille:"
 
 #. ID 71, Page 1, Line 2, Pos (21,4)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "ENG\n"
 "JPN\n"
@@ -168,7 +171,6 @@ msgstr ""
 "Ne pas changer."
 
 #. ID 71, Page 1, Line 6, Pos (21,4)
-#, fuzzy
 msgid ""
 "All Braille Easter eggs will now be displayed in English \n"
 "Braille/Grade 2 Braille.\n"
@@ -331,7 +333,7 @@ msgid ""
 msgstr ""
 
 #. ID 76, Page 1, Line 19, Pos (23,3)
-msgid "Menbers And Contributors:"
+msgid "Members And Contributors:"
 msgstr "Membres et contributeurs:"
 
 #. ID 76, Page 1, Line 20, Pos (23,3)
@@ -564,3 +566,81 @@ msgstr ""
 #. ID 77, Page 1, Line 15, Pos (8,4)
 msgid "OH..."
 msgstr ""
+
+#. ID 78, Page 1, Line 1, Pos (26,4)
+#. Contains choice at line 2 (2 options)
+msgid "menu unlock test"
+msgstr "test de déblocage de menu"
+
+#. ID 78, Page 1, Line 2, Pos (26,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"menu 0\n"
+"menu pc98"
+msgstr ""
+
+#. ID 79, Page 1, Line 2, Pos (28,4)
+#. Contains choice at line 2 (3 options)
+msgid "Music Room Data Management"
+msgstr "Gestion des données de la Salle des Musiques"
+
+#. ID 79, Page 1, Line 3, Pos (28,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Modify data\n"
+"Toggle debug messages\n"
+"Exit"
+msgstr ""
+"Modifier les données\n"
+"Activer les messages de debug\n"
+"Quitter"
+
+#. ID 79, Page 1, Line 6, Pos (28,4)
+#. Choice (4 options)
+msgid ""
+"Unlock specific BGM\n"
+"Unlock all\n"
+"Lock all\n"
+"Back"
+msgstr ""
+"Débloquer une piste spécifique\n"
+"Tout débloquer\n"
+"Tout bloquer\n"
+"Retour"
+
+#. ID 79, Page 1, Line 9, Pos (28,4)
+msgid "BGM ID: (1-1400)"
+msgstr "ID de la piste: (1-1400)"
+
+#. ID 79, Page 1, Line 12, Pos (28,4)
+#. ID 79, Page 1, Line 17, Pos (28,4)
+msgid "The value needs to be in the range of 1-1400!"
+msgstr "La valeur doit être entre 1 et 1400!"
+
+#. ID 79, Page 1, Line 22, Pos (28,4)
+msgid "Variation: (1-8)"
+msgstr ""
+
+#. ID 79, Page 1, Line 25, Pos (28,4)
+#. ID 79, Page 1, Line 30, Pos (28,4)
+msgid "The value needs to be in the range of 1-8!"
+msgstr "La valeur doit être entre 1 et 8!"
+
+#. ID 79, Page 1, Line 39, Pos (28,4)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 54, Pos (28,4)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr?"
+
+#. ID 79, Page 1, Line 76, Pos (28,4)
+msgid "BGM Unlock debug messages are now ON."
+msgstr ""
+"Les messages de debug de déblocage de piste sont\n"
+"maintenant activés."
+
+#. ID 79, Page 1, Line 79, Pos (28,4)
+msgid "BGM Unlock debug messages are now OFF."
+msgstr ""
+"Les messages de debug de déblocage de piste sont\n"
+"maintenant désactivés."

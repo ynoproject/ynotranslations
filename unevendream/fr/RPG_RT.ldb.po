@@ -51,7 +51,7 @@ msgstr "Se réveiller!"
 #. ID 4
 msgctxt "skills.description"
 msgid "Rise and shine!"
-msgstr "Lève toi et brille!"
+msgstr "Lève-toi et brille!"
 
 #. ID 5
 msgctxt "skills.name"
@@ -610,14 +610,20 @@ msgid "TotsuItem13Real"
 msgstr ""
 
 #. ID 77
-msgctxt "items.name"
-msgid "TotsuItem14Dream"
-msgstr ""
-
 #. ID 78
 msgctxt "items.name"
-msgid "TotsuItem14Real"
-msgstr ""
+msgid "Sandcastle"
+msgstr "Château de sable"
+
+#. ID 77
+msgctxt "items.description"
+msgid "Become a fortress amidst the sand!"
+msgstr "Deviens une forteresse sableuse!"
+
+#. ID 78
+msgctxt "items.description"
+msgid "A dream about a beach."
+msgstr "Un rêve à propos d'une plage."
 
 #. ID 79
 msgctxt "items.name"
@@ -1001,7 +1007,7 @@ msgstr "Mentalité"
 
 msgctxt "terms.save_game_message"
 msgid "Select a file to save to."
-msgstr "Choisissez le fichier où vous voulez sauvegarder."
+msgstr "Choisissez un fichier pour sauvegarder."
 
 msgctxt "terms.load_game_message"
 msgid "Select a file to load from."
