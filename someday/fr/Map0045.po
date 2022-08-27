@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 79, Page 1, Line 8, Pos (22,22)
+#. ID 79, Page 2, Line 8, Pos (22,22)
+#. ID 79, Page 3, Line 8, Pos (22,22)
+#. ID 79, Page 4, Line 8, Pos (22,22)
+#. ID 79, Page 5, Line 8, Pos (22,22)
+msgid "                    Clockworker"
+msgstr "                     Horloger"
+
+#. ID 79, Page 1, Line 11, Pos (22,22)
+#. ID 79, Page 2, Line 11, Pos (22,22)
+#. ID 79, Page 3, Line 11, Pos (22,22)
+#. ID 79, Page 4, Line 11, Pos (22,22)
+#. ID 79, Page 5, Line 11, Pos (22,22)
+msgid "Press 1 to return to the Nexus."
+msgstr "Appuyez sur 1 pour retourner au Nexus."
