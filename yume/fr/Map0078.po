@@ -19,4 +19,4 @@ msgstr "             Changer le thème du menu"
 
 #. ID 2, Page 3, Line 20, Pos (14,8)
 msgid "@@@@@@šƒƒjƒ…[ƒ^ƒCƒvƒ`ƒFƒ“ƒWš"
-msgstr ""
+msgstr "             Changer le thème du menu"
