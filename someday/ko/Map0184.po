@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 2, Line 3, Pos (9,6)
+#. Choice (2 options)
+msgid ""
+"Enter - 100 N\n"
+"Don't enter"
+msgstr ""
+"입장 - 100 N\n"
+"입장하지 않는다"
+
+#. ID 2, Page 2, Line 9, Pos (9,6)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 2, Page 2, Line 20, Pos (9,6)
+msgid "You don't have enough N!"
+msgstr "N이 부족해요!"
