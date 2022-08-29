@@ -485,7 +485,7 @@ msgstr "Classique"
 #. ID 14
 msgctxt "items.description"
 msgid "Look like a hikikomori"
-msgstr "Ressemble à un hikikomori."
+msgstr "Ressembles à un hikikomori."
 
 #. ID 15
 msgctxt "items.name"
@@ -685,7 +685,7 @@ msgstr "(Mégaphone)"
 #. ID 34
 msgctxt "items.description"
 msgid "Draw attention"
-msgstr "Attire l'attention."
+msgstr "Attires l'attention."
 
 #. ID 35
 msgctxt "items.name"
@@ -695,7 +695,7 @@ msgstr "(Blob)"
 #. ID 35
 msgctxt "items.description"
 msgid "Have colourful thoughts"
-msgstr "Aie des pensées colorées."
+msgstr "Aies des pensées colorées."
 
 #. ID 36
 msgctxt "items.name"
@@ -705,7 +705,7 @@ msgstr "(Clé anglaise)"
 #. ID 36
 msgctxt "items.description"
 msgid "Want to beat someone"
-msgstr "Aie envie de battre quelqu'un."
+msgstr "Aies envie de battre quelqu'un."
 
 #. ID 37
 msgctxt "items.name"
@@ -855,7 +855,7 @@ msgstr "(Baku)"
 #. ID 51
 msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
-msgstr "N'aie pas peur de toi-même."
+msgstr "N'aie pas peur d'être toi-même."
 
 #. ID 1
 msgctxt "states.message_actor"
