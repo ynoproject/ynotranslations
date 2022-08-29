@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: Membres français du serveur discord de YNO\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -112,7 +112,7 @@ msgstr "Se pincer la joue"
 #. ID 2
 msgctxt "skills.description"
 msgid "ほほをつねって、ゆめからさめる"
-msgstr "Pincez vous la joue et réveillez vous"
+msgstr "Pincez-vous la joue et réveillez-vous"
 
 #. ID 1
 #. ID 3
@@ -9905,7 +9905,7 @@ msgstr "Téléphone"
 #. ID 63
 msgctxt "items.description"
 msgid "「くろでんわ」になる"
-msgstr "Voter tête devient un téléphone à cadran"
+msgstr "Votre tête devient un téléphone à cadran"
 
 #. ID 23
 msgctxt "items.name"
@@ -9927,7 +9927,7 @@ msgstr "Couettes"
 #. ID 65
 msgctxt "items.description"
 msgid "「ツインテール」のかみがたになる"
-msgstr "Coiffez vous à la manière d'une tsundere"
+msgstr "Coiffez-vous à la manière d'une tsundere"
 
 #. ID 25
 msgctxt "items.name"
@@ -10103,7 +10103,7 @@ msgstr "Teru Teru Bōzu"
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Changez vous en poupée de papier japonaise"
+msgstr "Changez-vous en poupée de papier japonaise"
 
 #. ID 41
 msgctxt "items.name"
@@ -10174,7 +10174,7 @@ msgstr "Devenez un dé"
 #. ID 47
 msgctxt "items.name"
 msgid "バイク＋おおかみ"
-msgstr "Moto + Loup"
+msgstr ""
 
 #. ID 47
 #. ID 88
@@ -10380,7 +10380,7 @@ msgstr " Dé"
 #. ID 88
 msgctxt "items.name"
 msgid " バイク＋おおかみ"
-msgstr " Moto + Loup"
+msgstr ""
 
 #. ID 89
 msgctxt "items.name"
@@ -10546,7 +10546,7 @@ msgstr "Effets"
 
 msgctxt "terms.command_skill"
 msgid "おきる"
-msgstr "Se reveiller"
+msgstr "Se réveiller"
 
 msgctxt "terms.menu_equipment"
 msgid "じょうたい"
@@ -10594,7 +10594,7 @@ msgstr "◆ Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "おわっても よろしいですか？"
-msgstr "Êtes vous sûr de vouloir quitter?"
+msgstr "Êtes-vous sûr de vouloir quitter?"
 
 msgctxt "terms.yes"
 msgid "はい"

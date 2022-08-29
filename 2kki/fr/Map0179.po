@@ -1,30 +1,26 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-CreatedBy: LcfTrans"
 
-#. ID 31, Page 2, Line 4, Pos (14,18)
+#. ID 12, Page 2, Line 4, Pos (7,14)
 msgid ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　 　　くろでんわ\\<\\|\\^"
+"\\>　　　　　　　　 　　 バイク\\<\\|\\^"
 msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Téléphone\\<\\|\\^"
+"\\>　　　　　　　 　 　   Moto\\<\\|\\^"
 
-#. ID 32, Page 2, Line 4, Pos (10,14)
+#. ID 14, Page 2, Line 4, Pos (10,14)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -36,17 +32,113 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　  　　    Garçon\\<\\|\\^"
 
-#. ID 33, Page 2, Line 4, Pos (7,14)
+#. ID 16, Page 2, Line 4, Pos (14,14)
 msgid ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　 　　 バイク\\<\\|\\^"
+"\\>　　　　　　  　　 チェーンソー\\<\\|\\^"
 msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　 　   Moto\\<\\|\\^"
+"\\>　　　　　　　　　 Tronçonneuse\\<\\|\\^"
+
+#. ID 18, Page 2, Line 4, Pos (17,14)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　 カンテラ\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　 　 Lanterne\\<\\|\\^"
+
+#. ID 20, Page 2, Line 4, Pos (7,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　 ようせい\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　   Fée\\<\\|\\^"
+
+#. ID 22, Page 2, Line 4, Pos (10,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　うちゅうふく\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　  Astronaute\\<\\|\\^"
+
+#. ID 24, Page 2, Line 4, Pos (14,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　 　　 めがね\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　   Lunettes\\<\\|\\^"
+
+#. ID 26, Page 2, Line 4, Pos (17,16)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　　にじ\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　 Arc-En-Ciel\\<\\|\\^"
+
+#. ID 28, Page 2, Line 4, Pos (7,18)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　おおかみ\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　   Loup\\<\\|\\^"
+
+#. ID 30, Page 2, Line 4, Pos (10,18)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　めだまばくだん\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　   Bombe-Œil\\<\\|\\^"
+
+#. ID 32, Page 2, Line 4, Pos (14,18)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　 　　くろでんわ\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　  Téléphone\\<\\|\\^"
 
 #. ID 34, Page 2, Line 4, Pos (17,18)
 msgid ""
@@ -60,18 +152,6 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　 　　 Maiko\\<\\|\\^"
 
-#. ID 35, Page 2, Line 4, Pos (10,20)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　 ぺんぎん\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　 　  Pingouin\\<\\|\\^"
-
 #. ID 36, Page 2, Line 4, Pos (7,20)
 msgid ""
 "\\>\n"
@@ -84,55 +164,19 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　 　  Couettes\\<\\|\\^"
 
-#. ID 37, Page 2, Line 4, Pos (17,14)
+#. ID 38, Page 2, Line 4, Pos (10,20)
 msgid ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　 カンテラ\\<\\|\\^"
+"\\>　　　　　　　　　　 ぺんぎん\\<\\|\\^"
 msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　 　 Lanterne\\<\\|\\^"
+"\\>　　　　　　　　 　  Pingouin\\<\\|\\^"
 
-#. ID 38, Page 2, Line 4, Pos (14,14)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　  　　 チェーンソー\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　 Tronçonneuse\\<\\|\\^"
-
-#. ID 39, Page 2, Line 4, Pos (7,16)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　 ようせい\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　   Fée\\<\\|\\^"
-
-#. ID 40, Page 2, Line 4, Pos (10,16)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　うちゅうふく\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　  Astronaute\\<\\|\\^"
-
-#. ID 41, Page 2, Line 4, Pos (14,20)
+#. ID 40, Page 2, Line 4, Pos (14,20)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -156,31 +200,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　　 Ressort\\<\\|\\^"
 
-#. ID 43, Page 2, Line 4, Pos (14,16)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　 　　 めがね\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　   Lunettes\\<\\|\\^"
-
-#. ID 44, Page 2, Line 4, Pos (17,16)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　　にじ\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　 Arc-En-Ciel\\<\\|\\^"
-
-#. ID 45, Page 2, Line 4, Pos (7,22)
+#. ID 44, Page 2, Line 4, Pos (7,22)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -204,31 +224,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　   Gakuran\\<\\|\\^"
 
-#. ID 47, Page 2, Line 4, Pos (7,18)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　おおかみ\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　   Loup\\<\\|\\^"
-
-#. ID 48, Page 2, Line 4, Pos (10,18)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　めだまばくだん\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　   Bombe-Œil\\<\\|\\^"
-
-#. ID 49, Page 2, Line 4, Pos (14,22)
+#. ID 48, Page 2, Line 4, Pos (14,22)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -250,9 +246,9 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　 　  Étiré\\<\\|\\^"
+"\\>　　　　　　　　　  Étirement\\<\\|\\^"
 
-#. ID 51, Page 2, Line 4, Pos (7,24)
+#. ID 52, Page 2, Line 4, Pos (7,24)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -264,7 +260,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　　  Haniwa\\<\\|\\^"
 
-#. ID 52, Page 2, Line 4, Pos (10,24)
+#. ID 54, Page 2, Line 4, Pos (10,24)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -276,7 +272,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　   Trombone\\<\\|\\^"
 
-#. ID 53, Page 2, Line 4, Pos (14,24)
+#. ID 56, Page 2, Line 4, Pos (14,24)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -288,7 +284,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　　  Gâteau\\<\\|\\^"
 
-#. ID 54, Page 2, Line 4, Pos (17,24)
+#. ID 58, Page 2, Line 4, Pos (17,24)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -300,7 +296,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　    Enfant\\<\\|\\^"
 
-#. ID 55, Page 2, Line 4, Pos (7,26)
+#. ID 60, Page 2, Line 4, Pos (7,26)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -312,7 +308,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　Chaperon rouge\\<\\|\\^"
 
-#. ID 56, Page 2, Line 4, Pos (10,26)
+#. ID 62, Page 2, Line 4, Pos (10,26)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -324,43 +320,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　   Mouchoir\\<\\|\\^"
 
-#. ID 57, Page 2, Line 4, Pos (10,28)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　 　 マージナル\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　 　　 　 Marginal\\<\\|\\^"
-
-#. ID 58, Page 2, Line 4, Pos (17,26)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　　ポリゴン\\<\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　   Polygone\\<\\|\\^"
-
-#. ID 60, Page 1, Line 8, Pos (23,23)
-msgid ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　 　 マージナル\\<\\|\\|\\^"
-msgstr ""
-"\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　　   Marginal\\<\\|\\|\\^"
-
-#. ID 61, Page 2, Line 4, Pos (14,26)
+#. ID 64, Page 2, Line 4, Pos (14,26)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -372,7 +332,19 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　 　 Chauve-souris\\<\\|\\^"
 
-#. ID 62, Page 2, Line 4, Pos (7,28)
+#. ID 66, Page 2, Line 4, Pos (17,26)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　　ポリゴン\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　　   Polygone\\<\\|\\^"
+
+#. ID 68, Page 2, Line 4, Pos (7,28)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -384,7 +356,19 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　Teru Teru Bōzu\\<\\|\\^"
 
-#. ID 66, Page 2, Line 4, Pos (14,28)
+#. ID 70, Page 2, Line 4, Pos (10,28)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　 　 マージナル\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　 　　 　 Marginal\\<\\|\\^"
+
+#. ID 72, Page 2, Line 4, Pos (14,28)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -396,7 +380,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　 　　 Baril\\<\\|\\^"
 
-#. ID 67, Page 2, Line 4, Pos (17,28)
+#. ID 74, Page 2, Line 4, Pos (17,28)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -408,7 +392,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　 　　 Tombe\\<\\|\\^"
 
-#. ID 70, Page 2, Line 4, Pos (7,30)
+#. ID 76, Page 2, Line 4, Pos (7,30)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -420,7 +404,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　　　  Croisement\\<\\|\\^"
 
-#. ID 71, Page 2, Line 4, Pos (10,30)
+#. ID 78, Page 2, Line 4, Pos (10,30)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -432,7 +416,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　      Oreilles de lapin\\<\\|\\^"
 
-#. ID 76, Page 2, Line 4, Pos (14,30)
+#. ID 80, Page 2, Line 4, Pos (14,30)
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -443,3 +427,4 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>　　　　　　　　　　　  Dé\\<\\|\\^"
+
