@@ -269,15 +269,14 @@ msgid "クト解除）"
 msgstr "(Removido)"
 
 #. ID 5, Page 3, Line 21, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\>※お気に入りエフェクトに登録\n"
 "\\>　　★ \\N[2]\\N[3] ★\n"
 "\\>　シフトキー長押しで発動"
 msgstr ""
-"\\>* Favorite Effect Registered\n"
+"\\>* Efecto favorito registrado\n"
 "\\>　　★ \\N[2]\\N[3] ★\n"
-"\\> 　Press and hold shift to activate"
+"\\> 　Presiona y mantén Shift para Seleccionar"
 
 #. ID 5, Page 3, Line 24, Pos (13,5)
 #. ChangeHeroName (Actor 2)

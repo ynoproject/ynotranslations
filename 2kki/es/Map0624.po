@@ -25,7 +25,6 @@ msgstr ""
 "\\>　　　　　　　     Menú 17 (Arce)\\<\\|\\|\\^"
 
 #. ID 1, Page 1, Line 42, Pos (8,6)
-#, fuzzy
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -35,10 +34,9 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　 　　  Original Menu Type\\<\\|\\|\\^"
+"\\>　　　　 　　     Tema original\\<\\|\\|\\^"
 
 #. ID 1, Page 1, Line 58, Pos (8,6)
-#, fuzzy
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -48,7 +46,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　 　　　　Try Menu Type\\<\\|\\|\\^"
+"\\>　　　　 　　　 　 Tema de try\\<\\|\\|\\^"
 
 #. ID 6, Page 2, Line 4, Pos (1,0)
 #. Contains choice at line 2 (2 options)

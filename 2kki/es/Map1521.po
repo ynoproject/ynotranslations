@@ -15,7 +15,6 @@ msgstr ""
 
 #. ID 30, Page 1, Line 9, Pos (29,8)
 #. ID 30, Page 1, Line 27, Pos (29,8)
-#, fuzzy
 msgid ""
 "\\>\n"
 "\\>\n"
@@ -25,4 +24,4 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 Menu Type Change\\<\\|\\|\\^"
+"\\>　　　　　　       Cambiar tema\\<\\|\\|\\^"

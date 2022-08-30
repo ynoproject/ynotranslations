@@ -35,7 +35,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　 　  Temas de Menú: 8\\<\\|\\|\\^"
+"\\>　　　　　　 　  Tema de Menú: 8\\<\\|\\|\\^"
 
 #. ID 84, Page 1, Line 1, Pos (6,200)
 msgid "ここは0階のはず。"
