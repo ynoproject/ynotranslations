@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Membres français du serveur discord de YNO\n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -112,7 +112,7 @@ msgstr "Se pincer la joue"
 #. ID 2
 msgctxt "skills.description"
 msgid "ほほをつねって、ゆめからさめる"
-msgstr "Pincez vous la joue et réveillez vous"
+msgstr "Pincez-vous la joue et réveillez-vous"
 
 #. ID 1
 #. ID 3
@@ -9478,6 +9478,16 @@ msgctxt "skills.name"
 msgid "ID:1657 胞子の森"
 msgstr ""
 
+#. ID 1658
+msgctxt "skills.name"
+msgid "ID:1658 彼の庭"
+msgstr ""
+
+#. ID 1659
+msgctxt "skills.name"
+msgid "ID:1659 ハニーワ遺跡"
+msgstr ""
+
 #. ID 1661
 msgctxt "skills.name"
 msgid "ID:1661 ★-森温"
@@ -9758,6 +9768,106 @@ msgctxt "skills.name"
 msgid "ID:1740 tent"
 msgstr ""
 
+#. ID 1771
+msgctxt "skills.name"
+msgid "ID:1771"
+msgstr ""
+
+#. ID 1772
+msgctxt "skills.name"
+msgid "ID:1772"
+msgstr ""
+
+#. ID 1773
+msgctxt "skills.name"
+msgid "ID:1773"
+msgstr ""
+
+#. ID 1774
+msgctxt "skills.name"
+msgid "ID:1774"
+msgstr ""
+
+#. ID 1775
+msgctxt "skills.name"
+msgid "ID:1775"
+msgstr ""
+
+#. ID 1776
+msgctxt "skills.name"
+msgid "ID:1776"
+msgstr ""
+
+#. ID 1777
+msgctxt "skills.name"
+msgid "ID:1777"
+msgstr ""
+
+#. ID 1778
+msgctxt "skills.name"
+msgid "ID:1778"
+msgstr ""
+
+#. ID 1779
+msgctxt "skills.name"
+msgid "ID:1779"
+msgstr ""
+
+#. ID 1780
+msgctxt "skills.name"
+msgid "ID:1780"
+msgstr ""
+
+#. ID 1801
+msgctxt "skills.name"
+msgid "ID:1801 縄文"
+msgstr ""
+
+#. ID 1802
+msgctxt "skills.name"
+msgid "ID:1802 獅子座"
+msgstr ""
+
+#. ID 1803
+msgctxt "skills.name"
+msgid "ID:1803 深近郊"
+msgstr ""
+
+#. ID 1804
+msgctxt "skills.name"
+msgid "ID:1804 暗闇チーズ地"
+msgstr ""
+
+#. ID 1805
+msgctxt "skills.name"
+msgid "ID:1805 砂城弄赫"
+msgstr ""
+
+#. ID 1806
+msgctxt "skills.name"
+msgid "ID:1806 ﾃﾞｨｽｺ"
+msgstr ""
+
+#. ID 1807
+msgctxt "skills.name"
+msgid "ID:1807 目玉焼き"
+msgstr ""
+
+#. ID 1808
+msgctxt "skills.name"
+msgid "ID:1808 怒天戒冥"
+msgstr ""
+
+#. ID 1809
+msgctxt "skills.name"
+msgid "ID:1809 我執"
+msgstr ""
+
+#. ID 1810
+msgctxt "skills.name"
+msgid "ID:1810 化石発掘現場"
+msgstr ""
+
 #. ID 1
 msgctxt "items.name"
 msgid "★デバッグ★"
@@ -9905,7 +10015,7 @@ msgstr "Téléphone"
 #. ID 63
 msgctxt "items.description"
 msgid "「くろでんわ」になる"
-msgstr "Voter tête devient un téléphone à cadran"
+msgstr "Votre tête devient un téléphone à cadran"
 
 #. ID 23
 msgctxt "items.name"
@@ -9927,7 +10037,7 @@ msgstr "Couettes"
 #. ID 65
 msgctxt "items.description"
 msgid "「ツインテール」のかみがたになる"
-msgstr "Coiffez vous à la manière d'une tsundere"
+msgstr "Coiffez-vous à la manière d'une tsundere"
 
 #. ID 25
 msgctxt "items.name"
@@ -10103,7 +10213,7 @@ msgstr "Teru Teru Bōzu"
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Changez vous en poupée de papier japonaise"
+msgstr "Changez-vous en poupée de papier japonaise"
 
 #. ID 41
 msgctxt "items.name"
@@ -10174,7 +10284,7 @@ msgstr "Devenez un dé"
 #. ID 47
 msgctxt "items.name"
 msgid "バイク＋おおかみ"
-msgstr "Moto + Loup"
+msgstr ""
 
 #. ID 47
 #. ID 88
@@ -10380,7 +10490,7 @@ msgstr " Dé"
 #. ID 88
 msgctxt "items.name"
 msgid " バイク＋おおかみ"
-msgstr " Moto + Loup"
+msgstr ""
 
 #. ID 89
 msgctxt "items.name"
@@ -10390,7 +10500,7 @@ msgstr ""
 #. ID 90
 msgctxt "items.name"
 msgid "鍵"
-msgstr " Clé"
+msgstr "Clé"
 
 #. ID 90
 msgctxt "items.description"
@@ -10546,7 +10656,7 @@ msgstr "Effets"
 
 msgctxt "terms.command_skill"
 msgid "おきる"
-msgstr "Se reveiller"
+msgstr "Se réveiller"
 
 msgctxt "terms.menu_equipment"
 msgid "じょうたい"
@@ -10594,7 +10704,7 @@ msgstr "◆ Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "おわっても よろしいですか？"
-msgstr "Êtes vous sûr de vouloir quitter?"
+msgstr "Êtes-vous sûr de vouloir quitter?"
 
 msgctxt "terms.yes"
 msgid "はい"
