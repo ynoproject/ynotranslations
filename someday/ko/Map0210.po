@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 7, Pos (15,17)
+#. Choice (4 options)
+msgid ""
+"Grape Sodanium - 240 N\n"
+"Peachy Dairy - 160 N\n"
+"Freshchild - 100 N\n"
+"Don't buy anything"
+msgstr ""
+"보라색 맛 총공격 - 240 N\n"
+"복숭아같은 일기처럼 - 160 N\n"
+"상큼차일드 - 100 N\n"
+"아무것도 사지 않는다"
+
+#. ID 2, Page 1, Line 14, Pos (15,17)
+#. ID 2, Page 1, Line 49, Pos (15,17)
+msgid "You won a free drink!"
+msgstr "공짜 음료수에 당첨되셨습니다!"
+
+#. ID 2, Page 1, Line 20, Pos (15,17)
+#. ID 2, Page 1, Line 55, Pos (15,17)
+#. ID 2, Page 1, Line 83, Pos (15,17)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 2, Page 1, Line 39, Pos (15,17)
+#. ID 2, Page 1, Line 74, Pos (15,17)
+#. ID 2, Page 1, Line 100, Pos (15,17)
+msgid "You don't have enough N!"
+msgstr "N이 부족해요!"

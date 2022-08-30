@@ -1,0 +1,1434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "잇츠키"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Dreamer"
+msgstr "꿈을 꾸는 자"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "Rise up"
+msgstr "보복"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Defeat your bullies"
+msgstr "지금까지 괴롭혀온 사람들을 단죄하세요."
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "‚ÌUŒ‚I"
+msgstr "궻뛘똼갏"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Fallen"
+msgstr "바닥으로"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Break the ice"
+msgstr "얼음을 깨뜨리세요."
+
+#. ID 3
+msgctxt "skills.name"
+msgid "Kondo"
+msgstr "콘도"
+
+#. ID 3
+msgctxt "skills.description"
+msgid "%À?"
+msgstr "%ﾀ?"
+
+#. ID 4
+msgctxt "skills.name"
+msgid "Paralyzed"
+msgstr "마비됨"
+
+#. ID 4
+msgctxt "skills.description"
+msgid "Open the door to your nightmares"
+msgstr "문을 열어서 악몽과 마주하세요."
+
+#. ID 5
+msgctxt "skills.name"
+msgid "Oxidation"
+msgstr "산화"
+
+#. ID 5
+msgctxt "skills.description"
+msgid "Discover the truth among the tubes"
+msgstr "수많은 파이프 관 속에서 진실과 마주하세요."
+
+#. ID 6
+msgctxt "skills.name"
+msgid "Reduction"
+msgstr "환원"
+
+#. ID 6
+msgctxt "skills.description"
+msgid "Get away safely"
+msgstr "확실히 도망쳐서 안전을 확보하세요."
+
+#. ID 7
+msgctxt "skills.name"
+msgid "Snow"
+msgstr "눈발"
+
+#. ID 7
+msgctxt "skills.description"
+msgid "Make it snow in the ice world"
+msgstr "얼음 세계에서 눈을 내리게 하세요."
+
+#. ID 8
+msgctxt "skills.name"
+msgid "Silent laughter"
+msgstr "소리 없는 비웃음"
+
+#. ID 8
+msgctxt "skills.description"
+msgid "No one is on your side"
+msgstr "당신 편은 아무도 없었어요."
+
+#. ID 9
+msgctxt "skills.name"
+msgid "AAAA99999"
+msgstr "모든 것이 A9가 된다"
+
+#. ID 9
+msgctxt "skills.description"
+msgid "Change everything to A's and 9's"
+msgstr "하나의 세계를 오직 A와 9로만 이루게 만드세요."
+
+#. ID 10
+msgctxt "skills.name"
+msgid "Zero"
+msgstr "무"
+
+#. ID 10
+msgctxt "skills.description"
+msgid "Break the box with zero N"
+msgstr "N이 들어있지 않은 상자를 부수세요."
+
+#. ID 11
+msgctxt "skills.name"
+msgid "Lucky"
+msgstr "나는야 러키가이"
+
+#. ID 11
+msgctxt "skills.description"
+msgid "Find the four-leaf clover!"
+msgstr "네잎 클로버를 발견하세요!"
+
+#. ID 12
+msgctxt "skills.name"
+msgid "Shame"
+msgstr "부끄러움은 나의 몫"
+
+#. ID 12
+msgctxt "skills.description"
+msgid "Try to change your past"
+msgstr "과거를 바꾸려고 해보세요."
+
+#. ID 13
+msgctxt "skills.name"
+msgid "Fulgurites"
+msgstr "섬전암"
+
+#. ID 13
+msgctxt "skills.description"
+msgid "Tear down all the fulgurites at the desert"
+msgstr "사막에 흩어져 있는 모든 섬전암을 다 깨부수세요."
+
+#. ID 14
+msgctxt "skills.name"
+msgid "Rainbow"
+msgstr "무지개"
+
+#. ID 14
+msgctxt "skills.description"
+msgid "Make it rain in the beach"
+msgstr "해변에서 무지개를 만드세요."
+
+#. ID 15
+msgctxt "skills.name"
+msgid "Perspective"
+msgstr "관점"
+
+#. ID 15
+msgctxt "skills.description"
+msgid "It's just another one"
+msgstr "단지 다른 시선에서 바라본 모습일 뿐이에요."
+
+#. ID 16
+msgctxt "skills.name"
+msgid "Colours"
+msgstr "형형색색"
+
+#. ID 16
+msgctxt "skills.description"
+msgid "Some species of fish are fascinating"
+msgstr "참으로 매력을 끄는 어류들도 있어요."
+
+#. ID 17
+msgctxt "skills.name"
+msgid "Tinnitus"
+msgstr "이명"
+
+#. ID 17
+msgctxt "skills.description"
+msgid "Have a blast at the neon world"
+msgstr "네온 세계에서 귀청이 떨어지도록 신나게 즐겨보아요!"
+
+#. ID 18
+msgctxt "skills.name"
+msgid "Test subject"
+msgstr "피실험자"
+
+#. ID 18
+msgctxt "skills.description"
+msgid "Complete ten tests at the testing area"
+msgstr "실험실 10개를 돌파하세요."
+
+#. ID 19
+msgctxt "skills.name"
+msgid "A thousand pictures"
+msgstr "수많은 그림"
+
+#. ID 19
+msgctxt "skills.description"
+msgid "How can I forget such beauty?"
+msgstr "그런 아름다움을 어떻게 잊을 수 있겠나요?"
+
+#. ID 20
+msgctxt "skills.name"
+msgid "Canvas"
+msgstr "캔버스"
+
+#. ID 20
+msgctxt "skills.description"
+msgid "Paint on the floor at the art gallery"
+msgstr "미술관 바닥을 색칠해보세요."
+
+#. ID 21
+msgctxt "skills.name"
+msgid "On fire"
+msgstr "불에 휩싸이다"
+
+#. ID 21
+msgctxt "skills.description"
+msgid "You can't kill time"
+msgstr "시간을 죽일 수는 없어요."
+
+#. ID 22
+msgctxt "skills.name"
+msgid "Habit"
+msgstr "습관"
+
+#. ID 22
+msgctxt "skills.description"
+msgid "It's under control"
+msgstr "이제 좀 진정되었어요."
+
+#. ID 23
+msgctxt "skills.name"
+msgid "Test devourer"
+msgstr "헌신적인 실험정신"
+
+#. ID 23
+msgctxt "skills.description"
+msgid "Complete all twenty tests at the testing area"
+msgstr "모든 실험실을 돌파하세요."
+
+#. ID 24
+msgctxt "skills.name"
+msgid "Hatsuyume"
+msgstr "첫 꿈"
+
+#. ID 24
+msgctxt "skills.description"
+msgid "Complete the Hatsuyume puzzle"
+msgstr "첫 꿈을 표현하는 이미지 조각들을 완성시키세요."
+
+#. ID 25
+msgctxt "skills.name"
+msgid "Empty"
+msgstr "공허"
+
+#. ID 25
+msgctxt "skills.description"
+msgid "Reach the limit of your mind"
+msgstr "정신의 한계에 도달하세요."
+
+#. ID 26
+msgctxt "skills.name"
+msgid "Dizziness"
+msgstr "어지러움"
+
+#. ID 26
+msgctxt "skills.description"
+msgid "Circles... everywhere..."
+msgstr "다~시~도올고~ 도올고~"
+
+#. ID 27
+msgctxt "skills.name"
+msgid "A snowy day"
+msgstr "눈 덮인 어느 날"
+
+#. ID 27
+msgctxt "skills.description"
+msgid "Recall someone's memories"
+msgstr "누군가에 대한 기억을 회상하세요."
+
+#. ID 28
+msgctxt "skills.name"
+msgid "Stranger"
+msgstr "낮선 사람"
+
+#. ID 28
+msgctxt "skills.description"
+msgid "Escape the shady stranger"
+msgstr "수상한 사람으로부터 탈출하세요."
+
+#. ID 29
+msgctxt "skills.name"
+msgid "Trapped"
+msgstr "들어올때만 마음대로"
+
+#. ID 29
+msgctxt "skills.description"
+msgid "Finish the fake Zapnef level"
+msgstr "가짜 ZapNeF 레벨을 끝마치세요."
+
+#. ID 30
+msgctxt "skills.name"
+msgid "Careful cruise"
+msgstr "초보 운전"
+
+#. ID 30
+msgctxt "skills.description"
+msgid "Learn how to drive a spaceship"
+msgstr "우주선을 조종하는 법을 배우세요."
+
+#. ID 31
+msgctxt "skills.name"
+msgid "Platformer"
+msgstr "플랫포머"
+
+#. ID 31
+msgctxt "skills.description"
+msgid "Complete all nine levels of Zapnef"
+msgstr "아홉가지의 모든 ZapNeF 레벨을 클리어하세요."
+
+#. ID 32
+msgctxt "skills.name"
+msgid "Wasps"
+msgstr "말벌"
+
+#. ID 32
+msgctxt "skills.description"
+msgid "Kill the wasp in the forest and return"
+msgstr "숲에 있는 말벌을 죽이고 다시 돌아오세요."
+
+#. ID 1
+msgctxt "items.name"
+msgid "Scooter"
+msgstr "퀵보드"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Ride a scooter"
+msgstr "퀵보드를 타게 돼요."
+
+#. ID 2
+msgctxt "items.name"
+msgid "Doodle"
+msgstr "낙서"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Become a doodle"
+msgstr "낙서가 돼요."
+
+#. ID 3
+msgctxt "items.name"
+msgid "Sick"
+msgstr "감기"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Get sick"
+msgstr "감기에 걸리게 돼요."
+
+#. ID 4
+msgctxt "items.name"
+msgid "Glitch"
+msgstr "오류"
+
+#. ID 4
+msgctxt "items.description"
+msgid "."
+msgstr "."
+
+#. ID 5
+msgctxt "items.name"
+msgid "8-bit"
+msgstr "8 비트"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Change to low resolution"
+msgstr "저해상도에서 본 모습처럼 돼요."
+
+#. ID 6
+msgctxt "items.name"
+msgid "Nerd"
+msgstr "범생이"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Become a nerd"
+msgstr "똑똑해지지만 사회성은 떨어지게 돼요."
+
+#. ID 7
+msgctxt "items.name"
+msgid "Monochrome"
+msgstr "단색"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Become a monochrome child"
+msgstr "단색이 돼요."
+
+#. ID 8
+msgctxt "items.name"
+msgid "Bald"
+msgstr "대머리"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Go bald"
+msgstr "모발이 전부 빠져버리게 돼요."
+
+#. ID 9
+msgctxt "items.name"
+msgid "Megaphone"
+msgstr "확성기"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Become a megaphone"
+msgstr "확성기가 돼요."
+
+#. ID 10
+msgctxt "items.name"
+msgid "Blob"
+msgstr "방울"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Become a colourful blob"
+msgstr "화려한 방울이 돼요."
+
+#. ID 11
+msgctxt "items.name"
+msgid "Wrench"
+msgstr "렌치"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Wield a handy wrench"
+msgstr "간편한 랜치를 들게 돼요."
+
+#. ID 12
+msgctxt "items.name"
+msgid "Raincoat"
+msgstr "비옷"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Wear a raincoat"
+msgstr "비옷을 입게 돼요."
+
+#. ID 13
+msgctxt "items.name"
+msgid "Scarf"
+msgstr "목도리"
+
+#. ID 13
+msgctxt "items.description"
+msgid "Wear a warm scarf"
+msgstr "따뜻한 목도리를 목에 두르게 돼요."
+
+#. ID 14
+msgctxt "items.name"
+msgid "Classic"
+msgstr "고전풍"
+
+#. ID 14
+msgctxt "items.description"
+msgid "Look like a hikikomori"
+msgstr "히키코모리 같이 보이게 돼요."
+
+#. ID 15
+msgctxt "items.name"
+msgid "TV"
+msgstr "TV"
+
+#. ID 15
+msgctxt "items.description"
+msgid "Get a TV for a head"
+msgstr "머리가 TV로 바뀌게 돼요."
+
+#. ID 16
+msgctxt "items.name"
+msgid "Fox"
+msgstr "여우"
+
+#. ID 16
+msgctxt "items.description"
+msgid "Grow fox ears and a tail"
+msgstr "여우 귀와 꼬리를 가지게 돼요."
+
+#. ID 17
+msgctxt "items.name"
+msgid "Candle holder"
+msgstr "촛대"
+
+#. ID 17
+msgctxt "items.description"
+msgid "Be a candle holder"
+msgstr "촛대가 돼요."
+
+#. ID 18
+msgctxt "items.name"
+msgid "Clockworker"
+msgstr "클럭워커"
+
+#. ID 18
+msgctxt "items.description"
+msgid "Become a clockworker"
+msgstr "클럭워커가 돼요."
+
+#. ID 19
+msgctxt "items.name"
+msgid "Diving suit"
+msgstr "잠수복"
+
+#. ID 19
+msgctxt "items.description"
+msgid "Wear a diving suit"
+msgstr "잠수복을 입게 돼요."
+
+#. ID 20
+msgctxt "items.name"
+msgid "Mercury"
+msgstr "수은"
+
+#. ID 20
+msgctxt "items.description"
+msgid "Become solid mercury"
+msgstr "고체 수은이 돼요."
+
+#. ID 21
+msgctxt "items.name"
+msgid "Healing aura"
+msgstr "치유 오라"
+
+#. ID 21
+msgctxt "items.description"
+msgid "Emit a healing aura"
+msgstr "은은한 치유 오라를 방출하게 돼요."
+
+#. ID 22
+msgctxt "items.name"
+msgid "Wood"
+msgstr "나무"
+
+#. ID 22
+msgctxt "items.description"
+msgid "Become a wooden doll"
+msgstr "목각인형이 돼요."
+
+#. ID 23
+msgctxt "items.name"
+msgid "Tomato"
+msgstr "토마토"
+
+#. ID 23
+msgctxt "items.description"
+msgid "Get a tomato for a head"
+msgstr "머리가 토마토로 변해요."
+
+#. ID 24
+msgctxt "items.name"
+msgid "Lab coat"
+msgstr "실험복"
+
+#. ID 24
+msgctxt "items.description"
+msgid "Wear a lab coat"
+msgstr "실험복을 입게 돼요."
+
+#. ID 25
+msgctxt "items.name"
+msgid "Baku"
+msgstr "맥"
+
+#. ID 25
+msgctxt "items.description"
+msgid "Become a dream eater"
+msgstr "꿈을 먹는 요괴가 돼요."
+
+#. ID 26
+msgctxt "items.name"
+msgid "(Scooter)"
+msgstr "(퀵보드)"
+
+#. ID 26
+msgctxt "items.description"
+msgid "Get impatient"
+msgstr "참을성이 없어져요."
+
+#. ID 27
+msgctxt "items.name"
+msgid "(Doodle)"
+msgstr "(낙서)"
+
+#. ID 27
+msgctxt "items.description"
+msgid "Be random"
+msgstr "막나가게 돼요."
+
+#. ID 28
+msgctxt "items.name"
+msgid "(Sick)"
+msgstr "(감기)"
+
+#. ID 28
+msgctxt "items.description"
+msgid "Pretend to be sick"
+msgstr "감기에 걸린 척하게 돼요."
+
+#. ID 29
+msgctxt "items.name"
+msgid "(Glitch)"
+msgstr "(오류)"
+
+#. ID 29
+msgctxt "items.description"
+msgid "Act stupid"
+msgstr "멍청하게 행동하게 돼요."
+
+#. ID 30
+msgctxt "items.name"
+msgid "(8-bit)"
+msgstr "(8 비트)"
+
+#. ID 30
+msgctxt "items.description"
+msgid "Get nostalgic"
+msgstr "향수병에 걸리게 돼요."
+
+#. ID 31
+msgctxt "items.name"
+msgid "(Nerd)"
+msgstr "(범생이)"
+
+#. ID 31
+msgctxt "items.description"
+msgid "Act nerdy"
+msgstr "똑똑하지만 사회성이 떨어진 사람이 돼요."
+
+#. ID 32
+msgctxt "items.name"
+msgid "(Monochrome)"
+msgstr "(단색)"
+
+#. ID 32
+msgctxt "items.description"
+msgid "Feel alienated"
+msgstr "주변으로부터 고립되었다고 느끼게 돼요."
+
+#. ID 33
+msgctxt "items.name"
+msgid "(Bald)"
+msgstr "(대머리)"
+
+#. ID 33
+msgctxt "items.description"
+msgid "Worry about your hair"
+msgstr "모발 상태를 걱정하게 돼요."
+
+#. ID 34
+msgctxt "items.name"
+msgid "(Megaphone)"
+msgstr "(확성기)"
+
+#. ID 34
+msgctxt "items.description"
+msgid "Draw attention"
+msgstr "과도한 관심을 원하는 사람처럼 행동하게 돼요."
+
+#. ID 35
+msgctxt "items.name"
+msgid "(Blob)"
+msgstr "(방울)"
+
+#. ID 35
+msgctxt "items.description"
+msgid "Have colourful thoughts"
+msgstr "머리속에 꽃밭이 든 사람처럼 돼요."
+
+#. ID 36
+msgctxt "items.name"
+msgid "(Wrench)"
+msgstr "(렌치)"
+
+#. ID 36
+msgctxt "items.description"
+msgid "Want to beat someone"
+msgstr "누군가를 패고 싶어지게 돼요."
+
+#. ID 37
+msgctxt "items.name"
+msgid "(Raincoat)"
+msgstr "(비옷)"
+
+#. ID 37
+msgctxt "items.description"
+msgid "Wish to stop raining"
+msgstr "비를 멈추게 하고 싶은 마음이 들게 돼요."
+
+#. ID 38
+msgctxt "items.name"
+msgid "(Scarf)"
+msgstr "(목도리)"
+
+#. ID 38
+msgctxt "items.description"
+msgid "Pretend to be who you are not"
+msgstr "자신의 참모습을 감추는 척하게 돼요."
+
+#. ID 39
+msgctxt "items.name"
+msgid "(Classic)"
+msgstr "(고전풍)"
+
+#. ID 39
+msgctxt "items.description"
+msgid "Be like the rest"
+msgstr "다른 사람들처럼 돼요."
+
+#. ID 40
+msgctxt "items.name"
+msgid "(TV)"
+msgstr "(TV)"
+
+#. ID 40
+msgctxt "items.description"
+msgid "Be addicted to television"
+msgstr "TV에 중독되는 사람이 돼요."
+
+#. ID 41
+msgctxt "items.name"
+msgid "(Fox)"
+msgstr "(여우)"
+
+#. ID 41
+msgctxt "items.description"
+msgid "Show your cute side"
+msgstr "귀여운 모습을 보여주게 돼요."
+
+#. ID 42
+msgctxt "items.name"
+msgid "(Candle holder)"
+msgstr "(촛대)"
+
+#. ID 42
+msgctxt "items.description"
+msgid "Keep your hopes up high"
+msgstr "앞날의 희망을 가슴속에 품게 돼요."
+
+#. ID 43
+msgctxt "items.name"
+msgid "(Clockworker)"
+msgstr "(클럭워커)"
+
+#. ID 43
+msgctxt "items.description"
+msgid "Want to go back in time"
+msgstr "시간을 되돌리고 싶어지게 돼요."
+
+#. ID 44
+msgctxt "items.name"
+msgid "(Diving suit)"
+msgstr "(잠수복)"
+
+#. ID 44
+msgctxt "items.description"
+msgid "Remember the summer days"
+msgstr "여름의 화창한 날을 떠올리게 돼요."
+
+#. ID 45
+msgctxt "items.name"
+msgid "(Mercury)"
+msgstr "(수은)"
+
+#. ID 45
+msgctxt "items.description"
+msgid "Try to go unnoticed"
+msgstr "눈에 띄지 않고 그냥 넘어가려고 하게 돼요."
+
+#. ID 46
+msgctxt "items.name"
+msgid "(Healing aura)"
+msgstr "(치유 오라)"
+
+#. ID 46
+msgctxt "items.description"
+msgid "Be helpful"
+msgstr "도움을 주는 사람이 돼요."
+
+#. ID 47
+msgctxt "items.name"
+msgid "(Wood)"
+msgstr "(나무)"
+
+#. ID 47
+msgctxt "items.description"
+msgid "Be empathic"
+msgstr "단호한 사람이 돼요."
+
+#. ID 48
+msgctxt "items.name"
+msgid "(Tomato)"
+msgstr "(토마토)"
+
+#. ID 48
+msgctxt "items.description"
+msgid "Be passionate"
+msgstr "열성적인 사람이 돼요."
+
+#. ID 49
+msgctxt "items.name"
+msgid "(Lab coat)"
+msgstr "(실험복)"
+
+#. ID 49
+msgctxt "items.description"
+msgid "Be interested in science"
+msgstr "자연 과학에 관심을 가지게 돼요."
+
+#. ID 50
+msgctxt "items.name"
+msgid "Instructions"
+msgstr "설명서"
+
+#. ID 50
+msgctxt "items.description"
+msgid "See the game's instructions"
+msgstr "이 게임의 설명서를 볼 수 있어요."
+
+#. ID 51
+msgctxt "items.name"
+msgid "(Baku)"
+msgstr "(맥)"
+
+#. ID 51
+msgctxt "items.description"
+msgid "Don't be afraid to be yourself"
+msgstr "스스로를 두려워하지 않게 돼요."
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "‚Í“|‚ê‚½I"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "‚ð“|‚µ‚½I"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "‚Í—§‚¿ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid "vd"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "Failed to escape!"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "Victory!"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid "Annihilated..."
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid " experience points!"
+msgstr ""
+
+msgctxt "terms.gold_recieved_a"
+msgid "Found"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid "!"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid " found!"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid " obtained!"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid " was learned!"
+msgstr ""
+
+msgctxt "terms.battle_start"
+msgid "yo wanna fight"
+msgstr ""
+
+msgctxt "terms.miss"
+msgid "Miss!"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "howzit, howaya"
+msgstr ""
+
+msgctxt "terms.shop_regreeting1"
+msgid "more?"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid "which"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid "h'many"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid "'twas nice"
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid "whatcha givin"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid "gimme"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid "go away"
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "oi"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "yo"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "nyeh"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "MMMMMMMMMMMMMM"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "arigatou gozaimasu"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "meap"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "t. t. t. t. t."
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "ARE YOU \"·&()=$(?"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "What are you interested in today?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "Can I interest you in anything else?"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "What would you like to buy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "How many of those would you like?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "What would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many of those would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "It is a mere"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " to stay here."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Would you like to stay?"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "It's only"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid " for a warm bed."
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "How about spending the night?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "In Possession"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "Equipped"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "N"
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "Fight"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "Escape"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "Effects"
+msgstr "이펙트"
+
+msgctxt "terms.command_skill"
+msgid "Feats"
+msgstr "도전과제"
+
+msgctxt "terms.menu_equipment"
+msgid "Equip"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr "저장"
+
+msgctxt "terms.menu_quit"
+msgid "Quit"
+msgstr "종료"
+
+msgctxt "terms.new_game"
+msgid "New"
+msgstr "새 게임"
+
+msgctxt "terms.load_game"
+msgid "Blog"
+msgstr "블로그"
+
+msgctxt "terms.exit_game"
+msgid "Quit"
+msgstr "끄기"
+
+msgctxt "terms.status"
+msgid "Status"
+msgstr ""
+
+msgctxt "terms.row"
+msgid "Row"
+msgstr ""
+
+msgctxt "terms.order"
+msgid "Order"
+msgstr ""
+
+msgctxt "terms.wait_on"
+msgid "Wait"
+msgstr ""
+
+msgctxt "terms.wait_off"
+msgid "Active"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "Level"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "Ex"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.sp_cost"
+msgid "MP Use"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "Attack"
+msgstr ""
+
+msgctxt "terms.defense"
+msgid "Defense"
+msgstr ""
+
+msgctxt "terms.spirit"
+msgid "Mystic"
+msgstr ""
+
+msgctxt "terms.agility"
+msgid "Agility"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "Weapon"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "Shield"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "Armor"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "Accessory"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "Write on which entry?"
+msgstr "어떤 저장소에 데이터를 입력하시겠나요?"
+
+msgctxt "terms.load_game_message"
+msgid "Open which entry?"
+msgstr "어떤 데이터를 불러올까요?"
+
+msgctxt "terms.file"
+msgid "Entry"
+msgstr "저장소"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you really want to quit?"
+msgstr "지금 종료할까요?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "네"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "아니요"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 8, Pos (10,8)
+msgid "                   Healing aura"
+msgstr "                     치유 오라"
+
+#. ID 2, Page 1, Line 11, Pos (10,8)
+msgid "Interact with injured characters to heal them."
+msgstr "다치거나 아픈 곳을 치료할 수 있어요."
+
+#. ID 2, Page 1, Line 12, Pos (10,8)
+msgid "Interact with damaged places to fix them."
+msgstr "고장나거나 부셔진 것도 수리할 수 있어요."

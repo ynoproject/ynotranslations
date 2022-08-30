@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 8, Pos (10,8)
+msgid "                   Healing aura"
+msgstr "                 Aura de guérison"
+
+#. ID 2, Page 1, Line 11, Pos (10,8)
+msgid "Interact with injured characters to heal them."
+msgstr ""
+"Interagissez avec les personnes blessées pour les\n"
+"soigner."
+
+#. ID 2, Page 1, Line 12, Pos (10,8)
+msgid "Interact with damaged places to fix them."
+msgstr ""
+"Interagissez avec les endroits endommagés pour les\n"
+"réparer."

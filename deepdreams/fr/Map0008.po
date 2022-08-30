@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 28, Page 1, Line 2, Pos (8,4)
+#. Choice (4 options)
+msgid ""
+"System Sterling\n"
+"System Kaleidoscope\n"
+"System Arabian\n"
+"Next Page"
+msgstr ""
+"Système Sterling\n"
+"Système Kaléidoscope\n"
+"Système Arabe\n"
+"Page suivante"
+
+#. ID 28, Page 1, Line 11, Pos (8,4)
+#. ID 28, Page 1, Line 20, Pos (8,4)
+#. ID 28, Page 1, Line 31, Pos (8,4)
+#. ID 28, Page 1, Line 40, Pos (8,4)
+msgid "Locked"
+msgstr "Bloqué"
+
+#. ID 28, Page 1, Line 25, Pos (8,4)
+#. Choice (2 options)
+msgid ""
+"System Spiderlily\n"
+"System Rainbow"
+msgstr ""
+"Système Lys Araignée\n"
+"Système Arc-en-ciel"
+
+#. ID 29, Page 1, Line 3, Pos (5,4)
+msgid "Get System: Spiderlily"
+msgstr "Système obtenu: Lys Araignée"
+
+#. ID 30, Page 1, Line 3, Pos (4,4)
+msgid "Get System: Arabian"
+msgstr "Système obtenu: Arabe"
+
+#. ID 38, Page 1, Line 3, Pos (6,4)
+msgid "Get System: Kaleidoscope"
+msgstr "Système obtenu: Kaléidoscope"
+
+#. ID 47, Page 1, Line 5, Pos (17,4)
+msgid "-100"
+msgstr "-100"
+
+#. ID 47, Page 1, Line 19, Pos (17,4)
+msgid "Not enough money for purchase"
+msgstr "Pas assez d'argent pour acheter"
+
+#. ID 66, Page 1, Line 3, Pos (7,4)
+msgid "Get System: Rainbow"
+msgstr "Système obtenu: Arc-en-ciel"
+
+#. ID 85, Page 1, Line 7, Pos (20,2)
+#. Choice (2 options)
+msgid ""
+"Hos\n"
+"Deb"
+msgstr ""

@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 7, Pos (9,7)
+#. Choice (2 options)
+msgid ""
+"Call - 10 N\n"
+"Don't call"
+msgstr ""
+"Appeler - 10 N\n"
+"Ne pas appeler"
+
+#. ID 2, Page 1, Line 14, Pos (9,7)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 2, Page 1, Line 25, Pos (9,7)
+msgid "You don't have enough N!"
+msgstr "Vous n'avez pas assez de N!"

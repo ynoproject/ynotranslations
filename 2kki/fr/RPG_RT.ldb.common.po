@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -333,7 +333,7 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "Tous les effets sont obtenus"
+msgstr "Tous les effets ont été obtenus"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
@@ -7280,7 +7280,7 @@ msgid ""
 "\\>目的。ゲームを終了する際はわざと死ぬかメニューの\n"
 "\\>「Quit」を選択してください。"
 msgstr ""
-"\\>Votre but est secourir un élève perdu dans un\n"
+"\\>Votre but est de secourir un élève perdu dans un\n"
 "\\>immeuble inhabité. Pour quitter le jeu, mourrez\n"
 "\\>sciemment ou sélectionnez quitter dans le menu."
 
@@ -7291,7 +7291,7 @@ msgid ""
 "\\>最後に記録した時の進行状況から再開することが\n"
 "\\>出来ます。"
 msgstr ""
-"\\>Il y'a des points de sauvegardes dans le jeu.\n"
+"\\>Il y a des points de sauvegardes dans le jeu.\n"
 "\\>En sauvegardant, vous pourrez continuer ↑V↑\n"
 "\\>depuis le dernier endroit où vous avez \n"
 "\\>sauvegardé."

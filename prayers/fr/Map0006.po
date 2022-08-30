@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: Answered Prayers\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Yume2kki <Fonvight>\n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: Fonvight\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 2.2.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1, Page 1, Line 3, Pos (6,6)
 msgid "Learned Prayer \"Halo\"!"
@@ -19,7 +19,7 @@ msgstr "Vous avez appris la prière \"Auréole\"!"
 
 #. ID 2, Page 1, Line 4, Pos (2,6)
 msgid "Learned Prayer \"Koraiyn\"!"
-msgstr "Vous avez appris la prière \"Koariyn\"!"
+msgstr "Vous avez appris la prière \"Koraiyn\"!"
 
 #. ID 2, Page 2, Line 1, Pos (2,6)
 msgid "..."
@@ -35,7 +35,7 @@ msgid ""
 msgstr ""
 "Augmenter la vitesse\n"
 "Baisser la vitesse\n"
-"Donne moi de l'Argent\n"
+"Donne-moi de l'Argent\n"
 "Tourne!"
 
 #. ID 4, Page 2, Line 1, Pos (8,3)
@@ -48,7 +48,7 @@ msgstr "Vous avez appris la prière \"Fantôme\"!"
 
 #. ID 7, Page 1, Line 4, Pos (2,8)
 msgid "Learned Prayer \"Chromakey Dreamcoat\"!"
-msgstr "Vous avez appris la prière \"Cape d'invinsibilité\"!"
+msgstr "Vous avez appris la prière \"Cape d'invisibilité\"!"
 
 #. ID 9, Page 1, Line 6, Pos (4,6)
 msgid "Learned Prayer \"Tentacles\"!"
@@ -80,7 +80,7 @@ msgstr "Vous avez appris la prière \"Karakasa\"!"
 
 #. ID 17, Page 1, Line 2, Pos (15,5)
 msgid "Found \"Rusty Key\"!"
-msgstr "\"Clée Rouillée\" trouvée !"
+msgstr "\"Clé Rouillée\" trouvée !"
 
 #. ID 20, Page 1, Line 6, Pos (4,10)
 msgid "Learned Prayer \"Guitar\"!"

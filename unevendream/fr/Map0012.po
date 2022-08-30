@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 2, Pos (14,15)
+#. ID 8, Page 1, Line 2, Pos (21,27)
+#. ID 18, Page 1, Line 2, Pos (26,22)
+msgid "There are currently no maps created for this area."
+msgstr ""
+"Il n'y a actuellement aucune map créée pour cette\n"
+"zone."
+

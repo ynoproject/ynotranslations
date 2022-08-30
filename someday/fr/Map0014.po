@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 4, Page 1, Line 7, Pos (18,11)
+#. Choice (4 options)
+msgid ""
+"Rusted Orange - 170 N\n"
+"The Other Lime - 170 N\n"
+"Freshchild - 120 N\n"
+"Don't buy anything"
+msgstr ""
+"Rusted Orange - 170 N\n"
+"The Other Lime - 170 N\n"
+"Freshchild - 120 N\n"
+"Ne rien acheter"
+
+#. ID 4, Page 1, Line 14, Pos (18,11)
+#. ID 4, Page 1, Line 49, Pos (18,11)
+msgid "You won a free drink!"
+msgstr "Vous avez gagné une boisson gratuite!"
+
+#. ID 4, Page 1, Line 20, Pos (18,11)
+#. ID 4, Page 1, Line 55, Pos (18,11)
+#. ID 4, Page 1, Line 83, Pos (18,11)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 4, Page 1, Line 39, Pos (18,11)
+#. ID 4, Page 1, Line 74, Pos (18,11)
+#. ID 4, Page 1, Line 100, Pos (18,11)
+msgid "You don't have enough N!"
+msgstr "Vous n'avez pas assez de N!"
