@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 30, Page 1, Line 7, Pos (36,162)
 #. Choice (4 options)
@@ -28,7 +32,7 @@ msgstr ""
 #. ID 30, Page 2, Line 52, Pos (36,162)
 #. ID 30, Page 2, Line 87, Pos (36,162)
 msgid "You won a free drink!"
-msgstr ""
+msgstr "無料ドリンクGET！"
 
 #. ID 30, Page 1, Line 20, Pos (36,162)
 #. ID 30, Page 1, Line 55, Pos (36,162)
@@ -46,7 +50,7 @@ msgstr "\\$"
 #. ID 30, Page 2, Line 77, Pos (36,162)
 #. ID 30, Page 2, Line 112, Pos (36,162)
 msgid "You don't have enough N!"
-msgstr ""
+msgstr "Nが足りない!"
 
 #. ID 30, Page 2, Line 9, Pos (36,162)
 msgid "50% OFF on all drinks!"
@@ -64,4 +68,3 @@ msgstr ""
 "Liquid Dream - 250 N\n"
 "7 Moop - 175 N\n"
 "何も買わない"
-
