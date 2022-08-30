@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 29, Page 1, Line 7, Pos (9,23)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Its ki"
+msgstr "잇ㅊㅋㅣ"
+
+#. ID 30, Page 1, Line 7, Pos (9,19)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "It   i"
+msgstr "잇ㅊ  ㅣ"
+
+#. ID 31, Page 1, Line 7, Pos (9,15)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "I"
+msgstr "ㅇ"
+
+#. ID 33, Page 1, Line 7, Pos (9,11)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid " "
+msgstr " "
+
+#. ID 33, Page 1, Line 25, Pos (9,11)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "잇츠키"

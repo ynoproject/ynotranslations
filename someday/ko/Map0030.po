@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 143, Page 1, Line 8, Pos (17,59)
+msgid "                     Megaphone"
+msgstr "                      확성기"
+
+#. ID 143, Page 1, Line 11, Pos (17,59)
+msgid "Press 1 to make a random sound."
+msgstr ""
+"1번 숫자키를 누르면 \n"
+"아무 말 대잔치를 할 수 있어요."

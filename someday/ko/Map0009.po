@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 11, Page 1, Line 9, Pos (63,56)
+#. ID 16, Page 1, Line 9, Pos (62,57)
+#. ID 18, Page 1, Line 9, Pos (64,57)
+#. ID 23, Page 1, Line 9, Pos (63,58)
+msgid "                       Sick"
+msgstr "                       감기"
+
+#. ID 11, Page 1, Line 12, Pos (63,56)
+#. ID 16, Page 1, Line 12, Pos (62,57)
+#. ID 18, Page 1, Line 12, Pos (64,57)
+#. ID 23, Page 1, Line 12, Pos (63,58)
+msgid "Press 1 to sneeze."
+msgstr "1번 숫자키를 눌러서 재채기를 할 수 있어요."
