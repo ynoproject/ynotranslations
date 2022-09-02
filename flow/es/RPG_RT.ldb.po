@@ -86,13 +86,13 @@ msgstr "Convertirse en un Fantasma."
 #. ID 39
 msgctxt "items.name"
 msgid "モノアイ"
-msgstr "Ojo Monocromatico"
+msgstr "Un ojo"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
 msgid "｢モノアイ｣になる。"
-msgstr "Convertirse en un Ojo Monocromatico."
+msgstr "Tener un solo ojo."
 
 #. ID 9
 #. ID 10
@@ -345,7 +345,7 @@ msgstr "Las Vísceras se están Derramando..."
 #. ID 64
 msgctxt "items.description"
 msgid "｢サイケデリック｣になる。"
-msgstr "Convertirse en un Psicodélico"
+msgstr "Convertirse en un Psicodélico."
 
 #. ID 65
 #. ID 66
@@ -369,7 +369,7 @@ msgstr "Llevar una Capucha Negra."
 #. ID 72
 msgctxt "items.description"
 msgid "「せいふく」をきる。"
-msgstr "Llevar Uniforme."
+msgstr "Llevar un Uniforme Escolar."
 
 #. ID 73
 #. ID 74
