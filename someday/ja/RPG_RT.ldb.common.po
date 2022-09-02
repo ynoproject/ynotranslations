@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 3, Line 23
 #. ChangeHeroName (Actor 1)
@@ -18,7 +22,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "Itsuki"
-msgstr ""
+msgstr "いつき"
 
 #. ID 31, Line 15
 #. ID 32, Line 16
@@ -36,7 +40,7 @@ msgstr ""
 #. ID 48, Line 31
 #. ID 49, Line 19
 msgid "                Menu scheme changed!"
-msgstr ""
+msgstr "                 グラフィック変更!"
 
 #. ID 60, Line 159
 #, fuzzy
@@ -67,4 +71,3 @@ msgstr ""
 "ラッキーモードでは、ランダムな確率イベントが\n"
 "より頻繁に発生します！\n"
 "\\|シーッ… \\.誰にも言わないで…"
-
