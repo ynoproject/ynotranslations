@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: FukoSan\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -10331,12 +10331,12 @@ msgstr ""
 #. ID 90
 msgctxt "items.name"
 msgid "鍵"
-msgstr ""
+msgstr "Llave"
 
 #. ID 90
 msgctxt "items.description"
 msgid "格子の模様が入った鍵"
-msgstr ""
+msgstr "Una Llave con un Patrón Cuadrado"
 
 #. ID 1
 msgctxt "states.message_actor"
