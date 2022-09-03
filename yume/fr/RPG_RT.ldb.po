@@ -678,11 +678,11 @@ msgstr "$k"
 
 msgctxt "terms.save_game_message"
 msgid "Write in Diary"
-msgstr "Écrire dans le journal?"
+msgstr "Écrire dans le journal ?"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "Lire quelle page du journal?"
+msgstr "Lire quelle page du journal ?"
 
 msgctxt "terms.file"
 msgid "Page"
@@ -690,7 +690,7 @@ msgstr "Page"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you want to quit?"
-msgstr "Voulez-vous quitter?"
+msgstr "Voulez-vous quitter ?"
 
 msgctxt "terms.yes"
 msgid "Yes"
