@@ -29,7 +29,7 @@ msgstr ""
 #. ID 26, Page 1, Line 45, Pos (4,4)
 #. ID 26, Page 1, Line 70, Pos (4,4)
 msgid "You won a free drink!"
-msgstr "Vous avez gagné une boisson gratuite!"
+msgstr "Vous avez gagné une boisson gratuite !"
 
 #. ID 26, Page 1, Line 19, Pos (4,4)
 #. ID 26, Page 1, Line 50, Pos (4,4)
@@ -41,12 +41,12 @@ msgstr "\\$"
 #. ID 26, Page 1, Line 60, Pos (4,4)
 #. ID 26, Page 1, Line 85, Pos (4,4)
 msgid "You don't have enough N!"
-msgstr "Vous n'avez pas assez de N!"
+msgstr "Vous n'avez pas assez de N !"
 
 #. ID 27, Page 1, Line 1, Pos (10,1)
 #. Contains choice at line 2 (2 options)
 msgid "Lose all effects?"
-msgstr "Perdre tous les effets?"
+msgstr "Perdre tous les effets ?"
 
 #. ID 27, Page 1, Line 2, Pos (10,1)
 #. Choice (2 options, embedded in a message)
@@ -65,11 +65,11 @@ msgstr "Itsuki"
 
 #. ID 33, Page 1, Line 1, Pos (7,1)
 msgid "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
-msgstr "TOURNE!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr "TOURNE !!!!!!!!!!!!!!!!!!!!!!!!!!"
 
 #. ID 33, Page 1, Line 5, Pos (7,1)
 msgid "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
-msgstr "Salle de Debug!! OUUUuuuuUuIiiiiiIIIIIii!!!"
+msgstr "Salle de Debug !! OUUUuuuuUuIiiiiiIIIIIii !!!"
 
 #. ID 45, Page 1, Line 1, Pos (3,1)
 msgid ""

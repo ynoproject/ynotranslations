@@ -40,15 +40,15 @@ msgstr "Itsuki"
 #. ID 48, Line 31
 #. ID 49, Line 19
 msgid "                Menu scheme changed!"
-msgstr "                Thème du menu changé!"
+msgstr "                Thème du menu changé !"
 
 #. ID 60, Line 159
 msgid ""
 "Congratulations!\n"
 "You completed the entire game at 100%!"
 msgstr ""
-"Félicitations!\n"
-"Vous avez complété le jeu à 100%!"
+"Félicitations !\n"
+"Vous avez complété le jeu à 100% !"
 
 #. ID 60, Line 161
 msgid ""
@@ -58,7 +58,7 @@ msgid ""
 msgstr ""
 "Mais savais-tu...\n"
 "\\...qu'interagir avec le trèfle à quatre feuilles\n"
-"dans la forêt active le Mode Chance?"
+"dans la forêt active le Mode Chance ?"
 
 #. ID 60, Line 164
 msgid ""
@@ -66,5 +66,5 @@ msgid ""
 "\\|Ssssh... \\.don't tell anyone..."
 msgstr ""
 "En Mode Chance, les événements aléatoires\n"
-"apparaissent plus souvent!\n"
-"\\|Chuutt.. \\.ne le dit à personne..."
+"apparaissent plus souvent !\n"
+"\\|Chuutt... \\.ne le dit à personne..."

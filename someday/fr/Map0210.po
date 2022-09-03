@@ -28,7 +28,7 @@ msgstr ""
 #. ID 2, Page 1, Line 14, Pos (15,17)
 #. ID 2, Page 1, Line 49, Pos (15,17)
 msgid "You won a free drink!"
-msgstr "Vous avez gagné une boisson gratuite!"
+msgstr "Vous avez gagné une boisson gratuite !"
 
 #. ID 2, Page 1, Line 20, Pos (15,17)
 #. ID 2, Page 1, Line 55, Pos (15,17)
@@ -40,4 +40,4 @@ msgstr "\\$"
 #. ID 2, Page 1, Line 74, Pos (15,17)
 #. ID 2, Page 1, Line 100, Pos (15,17)
 msgid "You don't have enough N!"
-msgstr "Vous n'avez pas assez de N!"
+msgstr "Vous n'avez pas assez de N !"

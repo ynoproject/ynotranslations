@@ -26,7 +26,7 @@ msgstr ""
 
 #. ID 3, Page 1, Line 7, Pos (62,43)
 msgid "\\C[2]Are you Kondo?"
-msgstr "\\C[2]Es-tu Kondo?"
+msgstr "\\C[2]Es-tu Kondo ?"
 
 #. ID 3, Page 2, Line 16, Pos (62,43)
 msgid "\\C[2]Yes, it's him."

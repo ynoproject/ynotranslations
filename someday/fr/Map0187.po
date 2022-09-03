@@ -27,4 +27,4 @@ msgstr "\\$"
 
 #. ID 2, Page 2, Line 20, Pos (9,6)
 msgid "You don't have enough N!"
-msgstr "Vous n'avez pas assez de N!"
+msgstr "Vous n'avez pas assez de N !"
