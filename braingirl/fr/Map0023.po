@@ -20,7 +20,7 @@ msgstr "..."
 
 #. ID 1, Page 3, Line 6, Pos (8,8)
 msgid "...You'll be okay!"
-msgstr "...Tout ira bien!"
+msgstr "...Tout ira bien !"
 
 #. ID 1, Page 3, Line 8, Pos (8,8)
 msgid "You don't have to worry anymore."
@@ -40,7 +40,7 @@ msgid ""
 "will stop looking for you altogether!"
 msgstr ""
 "Et je pense même que si on attend assez, ils \n"
-"arrêteront de te chercher!"
+"arrêteront de te chercher !"
 
 #. ID 1, Page 3, Line 18, Pos (8,8)
 msgid "..I think..."
@@ -72,8 +72,8 @@ msgstr ""
 
 #. ID 1, Page 3, Line 30, Pos (8,8)
 msgid "But I really want you to stay safe!"
-msgstr "Mais je veux vraiment que tu restes en sécurité!"
+msgstr "Mais je veux vraiment que tu restes en sécurité !"
 
 #. ID 1, Page 3, Line 32, Pos (8,8)
 msgid "So promise me you'll stay with me, Mikan!!"
-msgstr "Donc promets-moi de rester avec moi, Mikan!!"
+msgstr "Donc promets-moi de rester avec moi, Mikan !!"

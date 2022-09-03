@@ -16,7 +16,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Mikan "
-msgstr "Mikan "
+msgstr ""
 
 #. ID 1
 msgctxt "skills.using_message1"
@@ -46,7 +46,7 @@ msgstr "Bottines rouges"
 #. ID 5
 msgctxt "items.name"
 msgid "$tInstructions"
-msgstr "$tInstructions"
+msgstr ""
 
 #. ID 6
 #. ID 7
@@ -80,7 +80,7 @@ msgstr "Portes un costume de canard"
 #. ID 11
 msgctxt "items.name"
 msgid "Sweater Dress"
-msgstr "Sweater Dress"
+msgstr ""
 
 #. ID 12
 #. ID 13
@@ -252,7 +252,7 @@ msgstr "Effets"
 
 msgctxt "terms.menu_equipment"
 msgid "Mikan"
-msgstr "Mikan"
+msgstr ""
 
 msgctxt "terms.menu_save"
 msgid "Diary"
@@ -280,11 +280,11 @@ msgstr "Effets"
 
 msgctxt "terms.lvl_short"
 msgid "E"
-msgstr "E"
+msgstr ""
 
 msgctxt "terms.hp_short"
 msgid "$k"
-msgstr "$k"
+msgstr ""
 
 msgctxt "terms.shield"
 msgid "Body"
@@ -308,11 +308,11 @@ msgstr "Choisissez un fichier à charger"
 
 msgctxt "terms.file"
 msgid "Page"
-msgstr "Page"
+msgstr ""
 
 msgctxt "terms.exit_game_message"
 msgid "Do you really want to quit?"
-msgstr "Voulez-vous vraiment quitter?"
+msgstr "Voulez-vous vraiment quitter ?"
 
 msgctxt "terms.yes"
 msgid "Yes"
@@ -401,4 +401,4 @@ msgstr ""
 #. ID 2
 msgctxt "classes.name"
 msgid "DEBUG"
-msgstr "DEBUG"
+msgstr ""

@@ -20,7 +20,7 @@ msgstr "Ajouter des CDs"
 #. ID 4, Page 1, Line 3, Pos (19,19)
 #. Contains choice at line 2 (2 options)
 msgid "Buy a Soda?"
-msgstr "Acheter un soda?"
+msgstr "Acheter un soda ?"
 
 #. ID 4, Page 1, Line 4, Pos (19,19)
 #. Choice (2 options, embedded in a message)
@@ -40,8 +40,8 @@ msgstr "Ajouter des tickets"
 #. ID 9, Page 1, Line 2, Pos (17,19)
 #. Contains choice at line 2 (2 options)
 msgid "Unlock all music?"
-msgstr "Débloquer toutes les musiques?"
+msgstr "Débloquer toutes les musiques ?"
 
 #. ID 9, Page 1, Line 5, Pos (17,19)
 msgid "All music unlocked!"
-msgstr "Toutes les musiques sont débloquées!"
+msgstr "Toutes les musiques sont débloquées !"
