@@ -25,12 +25,12 @@ msgstr "L'effet rapide 2 n'est pas réglé."
 #. ID 3, Line 179
 #. ID 3, Line 207
 msgid "Quick effect 1 is not set!"
-msgstr "L'effet rapide 1 n'est pas réglé!"
+msgstr "L'effet rapide 1 n'est pas réglé !"
 
 #. ID 3, Line 191
 #. ID 3, Line 219
 msgid "Quick effect 2 is not set!"
-msgstr "L'effet rapide 2 n'est pas réglé!"
+msgstr "L'effet rapide 2 n'est pas réglé !"
 
 #. ID 9, Line 14
 msgid "                  *Fast Forward*"
@@ -206,8 +206,8 @@ msgid ""
 "\\>M: XXXX X: XXX Y: XXX\n"
 "\\>Enter your map #:"
 msgstr ""
-"\\>M: XXXX X: XXX Y: XXX\n"
-"\\>Entrez votre map #:"
+"\\>M : XXXX X : XXX Y : XXX\n"
+"\\>Entrez votre map # :"
 
 #. ID 14, Line 96
 #. ID 108, Line 325
@@ -215,8 +215,8 @@ msgid ""
 "\\>M: \\V[0009] X: XXX Y: XXX\n"
 "\\>Enter your map X:"
 msgstr ""
-"\\>M: \\V[0009] X: XXX Y: XXX\n"
-"\\>Entrez votre map X:"
+"\\>M : \\V[0009] X : XXX Y : XXX\n"
+"\\>Entrez votre map X :"
 
 #. ID 14, Line 105
 #. ID 108, Line 334
@@ -224,8 +224,8 @@ msgid ""
 "\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
 "\\>Enter your map Y:"
 msgstr ""
-"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
-"\\>Entrez votre map Y:"
+"\\>M : \\V[0009] X : \\V[0010] Y : XXX\n"
+"\\>Entrez votre map Y :"
 
 #. ID 14, Line 129
 #. Choice (4 options)
@@ -240,24 +240,24 @@ msgstr ""
 "\\>Débloquer pos. écran\n"
 "\\>Écran titre"
 
-#. ID 77, Line 214
+#. ID 77, Line 220
 #. Contains choice at line 2 (2 options)
 msgid "Switch characters?"
-msgstr "Changer de personnage?"
+msgstr "Changer de personnage ?"
 
-#. ID 77, Line 215
+#. ID 77, Line 221
 #. Choice (2 options, embedded in a message)
 #. ID 108, Line 318
 #. Choice (2 options, embedded in a message)
 #. ID 108, Line 482
 #. Choice (2 options, embedded in a message)
-#. ID 110, Line 371
+#. ID 110, Line 396
 #. Choice (2 options, embedded in a message)
-#. ID 110, Line 391
+#. ID 110, Line 416
 #. Choice (2 options, embedded in a message)
-#. ID 110, Line 412
+#. ID 110, Line 437
 #. Choice (2 options, embedded in a message)
-#. ID 115, Line 980
+#. ID 115, Line 1135
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Yes\n"
@@ -266,17 +266,17 @@ msgstr ""
 "Oui\n"
 "Non"
 
-#. ID 77, Line 396
+#. ID 77, Line 402
 msgid "(Work in progress!)"
-msgstr "(En construction!)"
+msgstr "(En construction !)"
 
-#. ID 77, Line 422
+#. ID 77, Line 428
 #. Choice (1 options)
 msgid "Quick Effects"
 msgstr "Effets rapides"
 
-#. ID 77, Line 428
-#. ID 77, Line 478
+#. ID 77, Line 434
+#. ID 77, Line 484
 msgid ""
 "Quick Effect 1 is not set.\n"
 "Quick Effect 2 is not set."
@@ -284,8 +284,8 @@ msgstr ""
 "L'effet rapide 1 n'est pas réglé.\n"
 "L'effet rapide 2 n'est pas réglé."
 
-#. ID 77, Line 432
-#. ID 77, Line 482
+#. ID 77, Line 438
+#. ID 77, Line 488
 msgid ""
 "Quick Effect 1 is not set.\n"
 "Quick Effect 2 is set."
@@ -293,27 +293,27 @@ msgstr ""
 "L'effet rapide 1 n'est pas réglé.\n"
 "L'effet rapide 2 est réglé."
 
-#. ID 77, Line 439
-#. ID 77, Line 489
+#. ID 77, Line 445
+#. ID 77, Line 495
 msgid ""
 "Quick Effect 1 is set.\n"
 "Quick Effect 2 is not set."
 msgstr ""
 "L'effet rapide 1 est réglé.\n"
 "L'effet rapide 2 n'est pas réglé."
-
-#. ID 77, Line 443
-#. ID 77, Line 493
-msgid ""
-"Quick Effect 1 is set.\n"
-"Quick Effect 2 is set."
-msgstr ""
-"L'effet rapide 1 est réglé.\n"
-"L'effet rapide 2 est réglé."
 
 #. ID 77, Line 449
-#. Choice (2 options)
 #. ID 77, Line 499
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"L'effet rapide 1 est réglé.\n"
+"L'effet rapide 2 est réglé."
+
+#. ID 77, Line 455
+#. Choice (2 options)
+#. ID 77, Line 505
 #. Choice (2 options)
 msgid ""
 "Modify Quick Effect 1\n"
@@ -322,20 +322,20 @@ msgstr ""
 "Modifier effet rapide 1\n"
 "Modifier effet rapide 2"
 
-#. ID 77, Line 451
-#. ID 77, Line 461
-#. ID 77, Line 501
-#. ID 77, Line 511
+#. ID 77, Line 457
+#. ID 77, Line 467
+#. ID 77, Line 507
+#. ID 77, Line 517
 msgid "Select your preferred quick effect."
 msgstr "Choisissez votre effet rapide favori."
 
-#. ID 77, Line 457
-#. ID 77, Line 507
+#. ID 77, Line 463
+#. ID 77, Line 513
 msgid "Quick Effect 1 set."
 msgstr "Effet rapide 1 réglé."
 
-#. ID 77, Line 467
-#. ID 77, Line 517
+#. ID 77, Line 473
+#. ID 77, Line 523
 msgid "Quick Effect 2 set."
 msgstr "Effet rapide 2 réglé."
 
@@ -344,7 +344,7 @@ msgstr "Effet rapide 2 réglé."
 #. ID 89, Line 56
 #. ID 89, Line 68
 msgid "how did you manage to do this?"
-msgstr "comment t'as fait pour faire ça?"
+msgstr "comment t'as fait pour faire ça ?"
 
 #. ID 105, Line 15
 #. ID 105, Line 32
@@ -356,7 +356,7 @@ msgstr ""
 #. ID 108, Line 104
 #. Contains choice at line 2 (3 options)
 msgid "Current quick teleport 1: \\V[0452] X \\V[0455] Y \\V[0458]."
-msgstr "Téléporteur rapide actuel 1: \\V[0452] X \\V[0455] Y \\V[0458]."
+msgstr "Téléporteur rapide actuel 1 : \\V[0452] X \\V[0455] Y \\V[0458]."
 
 #. ID 108, Line 105
 #. Choice (3 options, embedded in a message)
@@ -378,62 +378,62 @@ msgid ""
 "\\>M: \\V[0452] X: XXX Y: XXX\n"
 "\\>Enter your map X:"
 msgstr ""
-"\\>M: \\V[0452] X: XXX Y: XXX\n"
-"\\>Entrez votre map X:"
+"\\>M : \\V[0452] X : XXX Y : XXX\n"
+"\\>Entrez votre map X :"
 
 #. ID 108, Line 129
 msgid ""
 "\\>M: \\V[0452] X: \\V[0455] Y: XXX\n"
 "\\>Enter your map Y:"
 msgstr ""
-"\\>M: \\V[0452] X: \\V[0455] Y: XXX\n"
-"\\>Entrez votre map Y:"
+"\\>M : \\V[0452] X : \\V[0455] Y : XXX\n"
+"\\>Entrez votre map Y :"
 
 #. ID 108, Line 148
 #. Contains choice at line 2 (3 options)
 msgid "Current quick teleport 2: \\V[0453] X \\V[0456] Y \\V[0459]."
-msgstr "Téléporteur rapide actuel 2: \\V[0453] X \\V[0456] Y \\V[0459]."
+msgstr "Téléporteur rapide actuel 2 : \\V[0453] X \\V[0456] Y \\V[0459]."
 
 #. ID 108, Line 164
 msgid ""
 "\\>M: \\V[0453] X: XXX Y: XXX\n"
 "\\>Enter your map X:"
 msgstr ""
-"\\>M: \\V[0453] X: XXX Y: XXX\n"
-"\\>Entrez votre map X:"
+"\\>M : \\V[0453] X : XXX Y : XXX\n"
+"\\>Entrez votre map X :"
 
 #. ID 108, Line 173
 msgid ""
 "\\>M: \\V[0453] X: \\V[0456] Y: XXX\n"
 "\\>Enter your map Y:"
 msgstr ""
-"\\>M: \\V[0453] X: \\V[0456] Y: XXX\n"
-"\\>Entrez votre map Y:"
+"\\>M : \\V[0453] X : \\V[0456] Y : XXX\n"
+"\\>Entrez votre map Y :"
 
 #. ID 108, Line 193
 #. Contains choice at line 2 (3 options)
 msgid "Current quick teleport 3: \\V[0454] X \\V[0457] Y \\V[0460]."
-msgstr "Téléporteur rapide actuel 3: \\V[0454] X \\V[0457] Y \\V[0460]."
+msgstr "Téléporteur rapide actuel 3 : \\V[0454] X \\V[0457] Y \\V[0460]."
 
 #. ID 108, Line 209
 msgid ""
 "\\>M: \\V[0454] X: XXX Y: XXX\n"
 "\\>Enter your map X:"
 msgstr ""
-"\\>M: \\V[0454] X: XXX Y: XXX\n"
-"\\>Entrez votre map X:"
+"\\>M : \\V[0454] X : XXX Y : XXX\n"
+"\\>Entrez votre map X :"
 
 #. ID 108, Line 218
 msgid ""
 "\\>M: \\V[0454] X: \\V[0457] Y: XXX\n"
 "\\>Enter your map Y:"
 msgstr ""
-"\\>M: \\V[0454] X: \\V[0457] Y: XXX\n"
-"\\>Entrez votre map Y:"
+"\\>M : \\V[0454] X : \\V[0457] Y : XXX\n"
+"\\>Entrez votre map Y :"
 
 #. ID 108, Line 237
 msgid "Preset locations:"
-msgstr "Lieux préconfigurés:"
+msgstr "Lieux préconfigurés :"
 
 #. ID 108, Line 239
 #. Choice (4 options)
@@ -475,15 +475,15 @@ msgstr ""
 #. ID 108, Line 317
 #. Contains choice at line 2 (2 options)
 msgid "Do you want to teleport to a specific spot?"
-msgstr "Voulez-vous vous téléporter à un lieu spécifique?"
+msgstr "Voulez-vous vous téléporter à un lieu spécifique ?"
 
 #. ID 108, Line 368
 msgid "Map scroll unlocked!"
-msgstr "Scrolling de la map débloqué!"
+msgstr "Scrolling de la map débloqué !"
 
 #. ID 108, Line 387
 msgid "Change your money amount:"
-msgstr "Changer votre somme d'argent:"
+msgstr "Changer votre somme d'argent :"
 
 #. ID 108, Line 388
 #. Choice (4 options)
@@ -500,20 +500,20 @@ msgstr ""
 
 #. ID 108, Line 390
 msgid "Money to set:"
-msgstr "Argent à régler:"
+msgstr "Argent à régler :"
 
 #. ID 108, Line 398
 msgid "Money to add:"
-msgstr "Argent à ajouter:"
+msgstr "Argent à ajouter :"
 
 #. ID 108, Line 405
 msgid "Money to remove:"
-msgstr "Argent à retirer:"
+msgstr "Argent à retirer :"
 
 #. ID 108, Line 422
 #. Contains choice at line 2 (3 options)
 msgid "Change all effects:"
-msgstr "Changer tous les effets:"
+msgstr "Changer tous les effets :"
 
 #. ID 108, Line 423
 #. Choice (3 options, embedded in a message)
@@ -529,7 +529,7 @@ msgstr ""
 #. ID 108, Line 459
 #. Contains choice at line 2 (3 options)
 msgid "Weather options:"
-msgstr "Options météo:"
+msgstr "Options météo :"
 
 #. ID 108, Line 460
 #. Choice (3 options, embedded in a message)
@@ -545,20 +545,41 @@ msgstr ""
 #. ID 108, Line 481
 #. Contains choice at line 2 (2 options)
 msgid "Return to main menu?"
-msgstr "Retourner au menu principal?"
+msgstr "Retourner au menu principal ?"
 
-#. ID 110, Line 369
+#. ID 110, Line 261
+#. Choice (2 options)
+msgid ""
+"Instant wallpaper notification\n"
+"Back"
+msgstr ""
+"Notification de fond d'écran instantanée\n"
+"Retour"
+
+#. ID 110, Line 264
+msgid "New wallpaper notifications are now REGULAR."
+msgstr ""
+"Les notifications de nouveau fond d'écran\n"
+"s'affichent maintenant HABITUELLEMENT."
+
+#. ID 110, Line 269
+msgid "New wallpaper notifications are now INSTANT."
+msgstr ""
+"Les notifications de nouveau fond d'écran\n"
+"s'affichent maintenant INSTANTANÉMENT."
+
+#. ID 110, Line 394
 #. Contains choice at line 3 (2 options)
-#. ID 110, Line 389
+#. ID 110, Line 414
 #. Contains choice at line 3 (2 options)
-#. ID 110, Line 410
+#. ID 110, Line 435
 #. Contains choice at line 3 (2 options)
 msgid ""
 "Previewing...\n"
 "Are you sure?"
 msgstr ""
 "Aperçu...\n"
-"Êtes-vous sûr?"
+"Êtes-vous sûr ?"
 
 #. ID 112, Line 1
 #. Contains choice at line 3 (2 options)
@@ -586,24 +607,36 @@ msgstr "                 Thème de Menu : 0"
 msgid "                   Menu Type : 4"
 msgstr "                 Thème de Menu : 4"
 
-#. ID 115, Line 953
-msgid "Jump to:"
-msgstr "Sauter à:"
+#. ID 115, Line 26
+#. Condition (Actor Name = BOGUS)
+msgctxt "actors.name"
+msgid "BOGUS"
+msgstr "TRIFOUIL"
 
-#. ID 115, Line 971
-#. ID 117, Line 122
+#. ID 115, Line 363
+#. ID 117, Line 9
+msgid "Unlocking BGM \\v[2297], variation \\v[2298]."
+msgstr "Déblocage de la piste \\v[2297], variation \\v[2298]."
+
+#. ID 115, Line 477
+#. ID 115, Line 1126
+#. ID 117, Line 123
 #. ID 123, Line 123
 msgid ""
 "BGMs unlocked: \\v[2277] / \\v[2279]\n"
 "Variations unlocked: \\v[2278] / \\v[2280]"
 msgstr ""
-"Pistes débloquées: \\v[2277] / \\v[2279]\n"
-"Variations débloquées: \\v[2278] / \\v[2280]"
+"Pistes débloquées : \\v[2277] / \\v[2279]\n"
+"Variations débloquées : \\v[2278] / \\v[2280]"
 
-#. ID 115, Line 979
+#. ID 115, Line 1108
+msgid "Jump to:"
+msgstr "Sauter à :"
+
+#. ID 115, Line 1134
 #. Contains choice at line 2 (2 options)
 msgid "Set currently playing track as the PC BGM?"
-msgstr "Régler la musique actuelle comme piste du PC?"
+msgstr "Régler la musique actuelle comme piste du PC ?"
 
 #. ID 116, Line 3
 msgid ""
@@ -839,7 +872,7 @@ msgstr ""
 "Question Mark - Way of the Dreamy Mime\n"
 "par QMark"
 
-#. ID 116, Line 163
+#. ID 116, Line 164
 msgid ""
 "Milica_BGM2\n"
 "by Milica"
@@ -848,22 +881,31 @@ msgstr ""
 "par Milica"
 
 #. ID 116, Line 169
-msgid ""
-"FD-neonpark\n"
-"by FD"
-msgstr ""
-"FD-neonpark\n"
-"par FD"
-
 #. ID 116, Line 174
 msgid ""
+"Milica_BGM2-Backbeat\n"
+"by Milica"
+msgstr ""
+"Milica_BGM2-Backbeat\n"
+"par Milica"
+
+#. ID 116, Line 182
+msgid ""
+"FD-neonpark\n"
+"by FD"
+msgstr ""
+"FD-neonpark\n"
+"par FD"
+
+#. ID 116, Line 187
+msgid ""
 "FD-neonpark2\n"
 "by FD"
 msgstr ""
 "FD-neonpark2\n"
 "par FD"
 
-#. ID 116, Line 181
+#. ID 116, Line 194
 msgid ""
 "Nexus-craziness\n"
 "by Nexus"
@@ -871,7 +913,7 @@ msgstr ""
 "Nexus-craziness\n"
 "par Nexus"
 
-#. ID 116, Line 186
+#. ID 116, Line 199
 msgid ""
 "Question Mark - Fabricamento\n"
 "by QMark"
@@ -879,7 +921,7 @@ msgstr ""
 "Question Mark - Fabricamento\n"
 "par QMark"
 
-#. ID 116, Line 191
+#. ID 116, Line 204
 msgid ""
 "Question Mark - Estrada\n"
 "by QMark"
@@ -887,7 +929,7 @@ msgstr ""
 "Question Mark - Estrada\n"
 "par QMark"
 
-#. ID 116, Line 196
+#. ID 116, Line 209
 msgid ""
 "Question Mark - 78 Skidoo\n"
 "by QMark"
@@ -895,7 +937,7 @@ msgstr ""
 "Question Mark - 78 Skidoo\n"
 "par QMark"
 
-#. ID 116, Line 201
+#. ID 116, Line 214
 msgid ""
 "FD-errorsine\n"
 "by FD"
@@ -903,7 +945,7 @@ msgstr ""
 "FD-errorsine\n"
 "par FD"
 
-#. ID 116, Line 206
+#. ID 116, Line 219
 msgid ""
 "fd-sepiaL\n"
 "by FD"
@@ -911,7 +953,7 @@ msgstr ""
 "fd-sepiaL\n"
 "par FD"
 
-#. ID 116, Line 211
+#. ID 116, Line 224
 msgid ""
 "Jojogape - Light Breeze\n"
 "by Jojogape"
@@ -919,7 +961,7 @@ msgstr ""
 "Jojogape - Light Breeze\n"
 "par Jojogape"
 
-#. ID 116, Line 216
+#. ID 116, Line 229
 msgid ""
 "Jojogape - Oil Paint Sky\n"
 "by Jojogape"
@@ -927,7 +969,7 @@ msgstr ""
 "Jojogape - Oil Paint Sky\n"
 "par Jojogape"
 
-#. ID 116, Line 221
+#. ID 116, Line 234
 msgid ""
 "Nexus-bgm013\n"
 "by Nexus"
@@ -935,7 +977,7 @@ msgstr ""
 "Nexus-bgm013\n"
 "par Nexus"
 
-#. ID 116, Line 226
+#. ID 116, Line 239
 msgid ""
 "Nexus-bgm013-1\n"
 "by Nexus"
@@ -943,7 +985,7 @@ msgstr ""
 "Nexus-bgm013-1\n"
 "par Nexus"
 
-#. ID 116, Line 231
+#. ID 116, Line 244
 msgid ""
 "Jojogape - Sea of Static\n"
 "by Jojogape"
@@ -951,7 +993,7 @@ msgstr ""
 "Jojogape - Sea of Static\n"
 "par Jojogape"
 
-#. ID 116, Line 237
+#. ID 116, Line 250
 msgid ""
 "Jojogape - Acid Waves 2\n"
 "by Jojogape"
@@ -959,7 +1001,7 @@ msgstr ""
 "Jojogape - Acid Waves 2\n"
 "par Jojogape"
 
-#. ID 116, Line 242
+#. ID 116, Line 255
 msgid ""
 "Jojogape - Acid Waves 2 back\n"
 "by Jojogape"
@@ -967,7 +1009,7 @@ msgstr ""
 "Jojogape - Acid Waves 2 back\n"
 "par Jojogape"
 
-#. ID 116, Line 249
+#. ID 116, Line 262
 msgid ""
 "EBroxas-Starfields\n"
 "by EBroxas72"
@@ -975,7 +1017,7 @@ msgstr ""
 "EBroxas-Starfields\n"
 "par EBroxas72"
 
-#. ID 116, Line 254
+#. ID 116, Line 267
 msgid ""
 "Nexus-bgm007\n"
 "by Nexus"
@@ -983,7 +1025,7 @@ msgstr ""
 "Nexus-bgm007\n"
 "par Nexus"
 
-#. ID 116, Line 259
+#. ID 116, Line 272
 msgid ""
 "Nexus-bgm005\n"
 "by Nexus"
@@ -991,7 +1033,7 @@ msgstr ""
 "Nexus-bgm005\n"
 "par Nexus"
 
-#. ID 116, Line 264
+#. ID 116, Line 277
 msgid ""
 "EBroxas72-Ominus\n"
 "by EBroxas72"
@@ -999,7 +1041,7 @@ msgstr ""
 "EBroxas72-Ominus\n"
 "par EBroxas72"
 
-#. ID 116, Line 269
+#. ID 116, Line 282
 msgid ""
 "Question Mark - cerebisected \n"
 "by QMark"
@@ -1007,7 +1049,7 @@ msgstr ""
 "Question Mark - cerebisected \n"
 "par QMark"
 
-#. ID 116, Line 274
+#. ID 116, Line 287
 msgid ""
 "QMark-BGMWhat\n"
 "by QMark"
@@ -1015,7 +1057,7 @@ msgstr ""
 "QMark-BGMWhat\n"
 "par QMark"
 
-#. ID 116, Line 279
+#. ID 116, Line 292
 msgid ""
 "QMark-PaleLavenderColored\n"
 "by QMark"
@@ -1023,7 +1065,7 @@ msgstr ""
 "QMark-PaleLavenderColored\n"
 "par QMark"
 
-#. ID 116, Line 284
+#. ID 116, Line 297
 msgid ""
 "QMark-PaleLavenderScented\n"
 "by QMark"
@@ -1031,7 +1073,7 @@ msgstr ""
 "QMark-PaleLavenderScented\n"
 "par QMark"
 
-#. ID 116, Line 289
+#. ID 116, Line 302
 msgid ""
 "001247xFD-00\n"
 "by 001247 and FD"
@@ -1039,7 +1081,7 @@ msgstr ""
 "001247xFD-00\n"
 "par 001247 et FD"
 
-#. ID 116, Line 294
+#. ID 116, Line 307
 msgid ""
 "fd-0112\n"
 "by FD"
@@ -1047,7 +1089,7 @@ msgstr ""
 "fd-0112\n"
 "par FD"
 
-#. ID 116, Line 299
+#. ID 116, Line 312
 msgid ""
 "Nexus-bgm006\n"
 "by Nexus"
@@ -1055,7 +1097,7 @@ msgstr ""
 "Nexus-bgm006\n"
 "par Nexus"
 
-#. ID 116, Line 304
+#. ID 116, Line 317
 msgid ""
 "Nexus-bgm020a\n"
 "by Nexus"
@@ -1063,7 +1105,7 @@ msgstr ""
 "Nexus-bgm020a\n"
 "par Nexus"
 
-#. ID 116, Line 309
+#. ID 116, Line 322
 msgid ""
 "Nexus-bgm020\n"
 "by Nexus"
@@ -1071,7 +1113,7 @@ msgstr ""
 "Nexus-bgm020\n"
 "par Nexus"
 
-#. ID 116, Line 314
+#. ID 116, Line 327
 msgid ""
 "fd-10002\n"
 "by FD"
@@ -1079,7 +1121,7 @@ msgstr ""
 "fd-10002\n"
 "par FD"
 
-#. ID 116, Line 319
+#. ID 116, Line 332
 msgid ""
 "Ebroxas-back\n"
 "by EBroxas72"
@@ -1087,7 +1129,7 @@ msgstr ""
 "Ebroxas-back\n"
 "par EBroxas72"
 
-#. ID 116, Line 324
+#. ID 116, Line 337
 msgid ""
 "Milica_BGM6\n"
 "by Milica"
@@ -1095,7 +1137,7 @@ msgstr ""
 "Milica_BGM6\n"
 "par Milica"
 
-#. ID 116, Line 329
+#. ID 116, Line 342
 msgid ""
 "Milica_BGM3\n"
 "by Milica"
@@ -1103,7 +1145,7 @@ msgstr ""
 "Milica_BGM3\n"
 "par Milica"
 
-#. ID 116, Line 334
+#. ID 116, Line 347
 msgid ""
 "1247-YM2612-001\n"
 "by 001247"
@@ -1111,7 +1153,7 @@ msgstr ""
 "1247-YM2612-001\n"
 "par 001247"
 
-#. ID 116, Line 339
+#. ID 116, Line 352
 msgid ""
 "Nexus-bgm021a\n"
 "by Nexus"
@@ -1119,7 +1161,7 @@ msgstr ""
 "Nexus-bgm021a\n"
 "par Nexus"
 
-#. ID 116, Line 344
+#. ID 116, Line 357
 msgid ""
 "TK-1-CrystallineDream\n"
 "by ZLD"
@@ -1127,7 +1169,7 @@ msgstr ""
 "TK-1-CrystallineDream\n"
 "par ZLD"
 
-#. ID 116, Line 349
+#. ID 116, Line 362
 msgid ""
 "Nexus-bgm014\n"
 "by Nexus"
@@ -1135,7 +1177,7 @@ msgstr ""
 "Nexus-bgm014\n"
 "par Nexus"
 
-#. ID 116, Line 354
+#. ID 116, Line 367
 msgid ""
 "EBroxas-Snowy-town\n"
 "by EBroxas72"
@@ -1143,7 +1185,7 @@ msgstr ""
 "EBroxas-Snowy-town\n"
 "par EBroxas72"
 
-#. ID 116, Line 359
+#. ID 116, Line 372
 msgid ""
 "Ebroxas-NPC song\n"
 "by EBroxas72"
@@ -1151,7 +1193,7 @@ msgstr ""
 "Ebroxas-NPC song\n"
 "par EBroxas72"
 
-#. ID 116, Line 365
+#. ID 116, Line 378
 msgid ""
 "EBroxas-Snow-inside\n"
 "by EBroxas72"
@@ -1159,7 +1201,7 @@ msgstr ""
 "EBroxas-Snow-inside\n"
 "par EBroxas72"
 
-#. ID 116, Line 370
+#. ID 116, Line 383
 msgid ""
 "EBroxas72-Snow1\n"
 "by EBroxas72"
@@ -1167,7 +1209,7 @@ msgstr ""
 "EBroxas72-Snow1\n"
 "par EBroxas72"
 
-#. ID 116, Line 375
+#. ID 116, Line 388
 msgid ""
 "EBroxas72-Snow2\n"
 "by EBroxas72"
@@ -1175,7 +1217,7 @@ msgstr ""
 "EBroxas72-Snow2\n"
 "par EBroxas72"
 
-#. ID 116, Line 382
+#. ID 116, Line 395
 msgid ""
 "EBroxas72-Waltz\n"
 "by EBroxas72"
@@ -1183,7 +1225,7 @@ msgstr ""
 "EBroxas72-Waltz\n"
 "par EBroxas72"
 
-#. ID 116, Line 387
+#. ID 116, Line 400
 msgid ""
 "EBroxas-clock\n"
 "by EBroxas72"
@@ -1191,7 +1233,7 @@ msgstr ""
 "EBroxas-clock\n"
 "par EBroxas72"
 
-#. ID 116, Line 392
+#. ID 116, Line 405
 msgid ""
 "400862_bobv2_film-01\n"
 "Stock sound"
@@ -1199,7 +1241,7 @@ msgstr ""
 "400862_bobv2_film-01\n"
 "Banque sonore"
 
-#. ID 116, Line 397
+#. ID 116, Line 410
 msgid ""
 "EBroxas72-Horse\n"
 "by EBroxas72"
@@ -1207,7 +1249,7 @@ msgstr ""
 "EBroxas72-Horse\n"
 "par EBroxas72"
 
-#. ID 116, Line 402
+#. ID 116, Line 415
 msgid ""
 "EBroxas72-church\n"
 "by EBroxas72"
@@ -1215,7 +1257,7 @@ msgstr ""
 "EBroxas72-church\n"
 "par EBroxas72"
 
-#. ID 116, Line 407
+#. ID 116, Line 420
 msgid ""
 "1247-mystical\n"
 "by 001247"
@@ -1223,7 +1265,7 @@ msgstr ""
 "1247-mystical\n"
 "par 001247"
 
-#. ID 116, Line 412
+#. ID 116, Line 425
 msgid ""
 "EBroxas-Churche\n"
 "by EBroxas72"
@@ -1231,7 +1273,7 @@ msgstr ""
 "EBroxas-Churche\n"
 "par EBroxas72"
 
-#. ID 116, Line 417
+#. ID 116, Line 430
 msgid ""
 "EBroxas-forest_normal\n"
 "by EBroxas72"
@@ -1239,7 +1281,7 @@ msgstr ""
 "EBroxas-forest_normal\n"
 "par EBroxas72"
 
-#. ID 116, Line 422
+#. ID 116, Line 435
 msgid ""
 "EBroxas-Cliffs\n"
 "by EBroxas72"
@@ -1247,7 +1289,7 @@ msgstr ""
 "EBroxas-Cliffs\n"
 "par EBroxas72"
 
-#. ID 116, Line 427
+#. ID 116, Line 440
 msgid ""
 "EBroxas-Eye-forest-Remix\n"
 "by EBroxas72"
@@ -1255,7 +1297,7 @@ msgstr ""
 "EBroxas-Eye-forest-Remix\n"
 "par EBroxas72"
 
-#. ID 116, Line 432
+#. ID 116, Line 445
 msgid ""
 "Ebroxas-forest-scary-slow2\n"
 "by EBroxas72"
@@ -1263,7 +1305,7 @@ msgstr ""
 "Ebroxas-forest-scary-slow2\n"
 "par EBroxas72"
 
-#. ID 116, Line 437
+#. ID 116, Line 450
 msgid ""
 "EBroxas-seers-room (1)\n"
 "by EBroxas72"
@@ -1271,7 +1313,7 @@ msgstr ""
 "EBroxas-seers-room (1)\n"
 "par EBroxas72"
 
-#. ID 116, Line 442
+#. ID 116, Line 455
 msgid ""
 "Nexus-crazinessb\n"
 "by Nexus"
@@ -1279,7 +1321,7 @@ msgstr ""
 "Nexus-crazinessb\n"
 "par Nexus"
 
-#. ID 116, Line 447
+#. ID 116, Line 460
 msgid ""
 "Nexus-bgm014b\n"
 "by Nexus"
@@ -1287,7 +1329,7 @@ msgstr ""
 "Nexus-bgm014b\n"
 "par Nexus"
 
-#. ID 116, Line 452
+#. ID 116, Line 465
 msgid ""
 "EBroxas-purple town outside\n"
 "by EBroxas72"
@@ -1295,7 +1337,7 @@ msgstr ""
 "EBroxas-purple town outside\n"
 "par EBroxas72"
 
-#. ID 116, Line 457
+#. ID 116, Line 470
 msgid ""
 "EBroxas-angel\n"
 "by EBroxas72"
@@ -1303,7 +1345,7 @@ msgstr ""
 "EBroxas-angel\n"
 "par EBroxas72"
 
-#. ID 116, Line 462
+#. ID 116, Line 475
 msgid ""
 "EBroxas-Nexus-13remix\n"
 "by EBroxas72"
@@ -1311,7 +1353,7 @@ msgstr ""
 "EBroxas-Nexus-13remix\n"
 "par EBroxas72"
 
-#. ID 116, Line 467
+#. ID 116, Line 480
 msgid ""
 "EBroxas-Sky-islands\n"
 "by EBroxas72"
@@ -1319,7 +1361,7 @@ msgstr ""
 "EBroxas-Sky-islands\n"
 "par EBroxas72"
 
-#. ID 116, Line 472
+#. ID 116, Line 485
 msgid ""
 "EBroxas-Dojo\n"
 "by EBroxas72"
@@ -1327,7 +1369,7 @@ msgstr ""
 "EBroxas-Dojo\n"
 "par EBroxas72"
 
-#. ID 116, Line 477
+#. ID 116, Line 490
 msgid ""
 "Ebroxas-Doodle-world\n"
 "by EBroxas72"
@@ -1335,7 +1377,7 @@ msgstr ""
 "Ebroxas-Doodle-world\n"
 "par EBroxas72"
 
-#. ID 116, Line 482
+#. ID 116, Line 495
 msgid ""
 "fd-zaku\n"
 "by FD"
@@ -1343,7 +1385,7 @@ msgstr ""
 "fd-zaku\n"
 "par FD"
 
-#. ID 116, Line 487
+#. ID 116, Line 500
 msgid ""
 "sniperbob-boardonmyheadHAHA\n"
 "by sniperbob"
@@ -1351,7 +1393,7 @@ msgstr ""
 "sniperbob-boardonmyheadHAHA\n"
 "par sniperbob"
 
-#. ID 116, Line 492
+#. ID 116, Line 505
 msgid ""
 "sniperbob-chipstuckinthroat\n"
 "by sniperbob"
@@ -1359,7 +1401,7 @@ msgstr ""
 "sniperbob-chipstuckinthroat\n"
 "par sniperbob"
 
-#. ID 116, Line 497
+#. ID 116, Line 510
 msgid ""
 "sniperbob-pencilinmynose\n"
 "by sniperbob"
@@ -1367,7 +1409,7 @@ msgstr ""
 "sniperbob-pencilinmynose\n"
 "par sniperbob"
 
-#. ID 116, Line 502
+#. ID 116, Line 515
 msgid ""
 "Ebroxas-BGM-4\n"
 "by EBroxas72"
@@ -1375,7 +1417,7 @@ msgstr ""
 "Ebroxas-BGM-4\n"
 "par EBroxas72"
 
-#. ID 116, Line 507
+#. ID 116, Line 520
 msgid ""
 "fd-296_05\n"
 "by FD"
@@ -1383,7 +1425,7 @@ msgstr ""
 "fd-296_05\n"
 "par FD"
 
-#. ID 116, Line 512
+#. ID 116, Line 525
 msgid ""
 "sniperbob-teratoma\n"
 "by sniperbob"
@@ -1391,7 +1433,7 @@ msgstr ""
 "sniperbob-teratoma\n"
 "par sniperbob"
 
-#. ID 116, Line 517
+#. ID 116, Line 530
 msgid ""
 "sniperbob-braincannibal\n"
 "by sniperbob"
@@ -1399,7 +1441,7 @@ msgstr ""
 "sniperbob-braincannibal\n"
 "par sniperbob"
 
-#. ID 116, Line 522
+#. ID 116, Line 535
 msgid ""
 "sniperbob-fingerbitingoff\n"
 "by sniperbob"
@@ -1407,7 +1449,7 @@ msgstr ""
 "sniperbob-fingerbitingoff\n"
 "par sniperbob"
 
-#. ID 116, Line 527
+#. ID 116, Line 540
 msgid ""
 "Jojogape - Acid Waves\n"
 "by Jojogape"
@@ -1415,7 +1457,7 @@ msgstr ""
 "Jojogape - Acid Waves\n"
 "par Jojogape"
 
-#. ID 116, Line 532
+#. ID 116, Line 545
 msgid ""
 "fd-tone3\n"
 "by FD"
@@ -1423,7 +1465,7 @@ msgstr ""
 "fd-tone3\n"
 "par FD"
 
-#. ID 116, Line 537
+#. ID 116, Line 550
 msgid ""
 "Ebroxas-Omonu\n"
 "by EBroxas72"
@@ -1431,7 +1473,7 @@ msgstr ""
 "Ebroxas-Omonu\n"
 "par EBroxas72"
 
-#. ID 116, Line 542
+#. ID 116, Line 555
 msgid ""
 "ebroxas-8bit-1\n"
 "by EBroxas72"
@@ -1439,7 +1481,7 @@ msgstr ""
 "ebroxas-8bit-1\n"
 "par EBroxas72"
 
-#. ID 116, Line 547
+#. ID 116, Line 560
 msgid ""
 "Ebroxas-8bit-2\n"
 "by EBroxas72"
@@ -1447,7 +1489,7 @@ msgstr ""
 "Ebroxas-8bit-2\n"
 "par EBroxas72"
 
-#. ID 116, Line 552
+#. ID 116, Line 565
 msgid ""
 "EBroxas-8bit-3\n"
 "by EBroxas72"
@@ -1455,7 +1497,7 @@ msgstr ""
 "EBroxas-8bit-3\n"
 "par EBroxas72"
 
-#. ID 116, Line 557
+#. ID 116, Line 570
 msgid ""
 "QMark-Neneon\n"
 "by QMark"
@@ -1463,7 +1505,7 @@ msgstr ""
 "QMark-Neneon\n"
 "par QMark"
 
-#. ID 116, Line 562
+#. ID 116, Line 575
 msgid ""
 "QMark-Pipeswithgrass\n"
 "by QMark"
@@ -1471,7 +1513,7 @@ msgstr ""
 "QMark-Pipeswithgrass\n"
 "par QMark"
 
-#. ID 116, Line 567
+#. ID 116, Line 580
 msgid ""
 "QMark-AstrallSky\n"
 "by QMark"
@@ -1479,7 +1521,7 @@ msgstr ""
 "QMark-AstrallSky\n"
 "par QMark"
 
-#. ID 116, Line 572
+#. ID 116, Line 585
 msgid ""
 "QMark-NaturalArcadea\n"
 "by QMark"
@@ -1487,7 +1529,7 @@ msgstr ""
 "QMark-NaturalArcadea\n"
 "par QMark"
 
-#. ID 116, Line 578
+#. ID 116, Line 591
 msgid ""
 "QMark-NeonVillage\n"
 "by QMark"
@@ -1495,7 +1537,7 @@ msgstr ""
 "QMark-NeonVillage\n"
 "par QMark"
 
-#. ID 116, Line 583
+#. ID 116, Line 596
 msgid ""
 "QMark-NeonVillageTWO\n"
 "by QMark"
@@ -1503,31 +1545,31 @@ msgstr ""
 "QMark-NeonVillageTWO\n"
 "par QMark"
 
-#. ID 116, Line 590
+#. ID 116, Line 603
 msgid ""
 "QMark-Musicboxperiod\n"
 "by QMark"
 msgstr ""
 "QMark-Musicboxperiod\n"
 "par QMark"
-
-#. ID 116, Line 595
-msgid ""
-"stylzm-wasteland\n"
-"by stylzm"
-msgstr ""
-"stylzm-wasteland\n"
-"par stylzm"
 
 #. ID 116, Line 608
 msgid ""
+"stylzm-wasteland\n"
+"by stylzm"
+msgstr ""
+"stylzm-wasteland\n"
+"par stylzm"
+
+#. ID 116, Line 621
+msgid ""
 "stylzm-machinery1\n"
 "by stylzm"
 msgstr ""
 "stylzm-machinery1\n"
 "par stylzm"
 
-#. ID 116, Line 613
+#. ID 116, Line 626
 msgid ""
 "fd-0044\n"
 "by FD"
@@ -1535,7 +1577,7 @@ msgstr ""
 "fd-0044\n"
 "par FD"
 
-#. ID 116, Line 618
+#. ID 116, Line 631
 msgid ""
 "Hashtag_underscore_abyss_ejay\n"
 "by #_"
@@ -1543,7 +1585,7 @@ msgstr ""
 "Hashtag_underscore_abyss_ejay\n"
 "par #_"
 
-#. ID 116, Line 623
+#. ID 116, Line 636
 msgid ""
 "EBroxas-Void-Murals\n"
 "by EBroxas72"
@@ -1551,7 +1593,7 @@ msgstr ""
 "EBroxas-Void-Murals\n"
 "par EBroxas72"
 
-#. ID 116, Line 628
+#. ID 116, Line 641
 msgid ""
 "Car Driving-SoundBible.com-923766101\n"
 "Stock sound"
@@ -1559,7 +1601,7 @@ msgstr ""
 "Car Driving-SoundBible.com-923766101\n"
 "Banque sonore"
 
-#. ID 116, Line 633
+#. ID 116, Line 646
 msgid ""
 "EBroxas-Dudecomplex\n"
 "by EBroxas72"
@@ -1567,7 +1609,7 @@ msgstr ""
 "EBroxas-Dudecomplex\n"
 "par EBroxas72"
 
-#. ID 116, Line 638
+#. ID 116, Line 651
 msgid ""
 "Ebroxas-globe5\n"
 "by EBroxas72"
@@ -1575,7 +1617,7 @@ msgstr ""
 "Ebroxas-globe5\n"
 "par EBroxas72"
 
-#. ID 116, Line 643
+#. ID 116, Line 656
 msgid ""
 "Ebroxas-backwardspiano\n"
 "by EBroxas72"
@@ -1583,7 +1625,7 @@ msgstr ""
 "Ebroxas-backwardspiano\n"
 "par EBroxas72"
 
-#. ID 116, Line 648
+#. ID 116, Line 661
 msgid ""
 "EBroxas72-Totsu-grave\n"
 "by EBroxas72"
@@ -1591,7 +1633,7 @@ msgstr ""
 "EBroxas72-Totsu-grave\n"
 "par EBroxas72"
 
-#. ID 116, Line 653
+#. ID 116, Line 666
 msgid ""
 "fd-noisewhite\n"
 "by FD"
@@ -1599,7 +1641,7 @@ msgstr ""
 "fd-noisewhite\n"
 "par FD"
 
-#. ID 116, Line 658
+#. ID 116, Line 671
 msgid ""
 "fd-midi9\n"
 "by FD"
@@ -1607,7 +1649,7 @@ msgstr ""
 "fd-midi9\n"
 "par FD"
 
-#. ID 116, Line 663
+#. ID 116, Line 676
 msgid ""
 "EBroxas-Starplusejapan\n"
 "by EBroxas72"
@@ -1615,7 +1657,7 @@ msgstr ""
 "EBroxas-Starplusejapan\n"
 "par EBroxas72"
 
-#. ID 116, Line 668
+#. ID 116, Line 681
 msgid ""
 "Rindre-008a That Night I Saw\n"
 "by Rindre"
@@ -1623,7 +1665,7 @@ msgstr ""
 "Rindre-008a That Night I Saw\n"
 "par Rindre"
 
-#. ID 116, Line 673
+#. ID 116, Line 686
 msgid ""
 "Jojogape - Shivers\n"
 "by Jojogape"
@@ -1631,7 +1673,7 @@ msgstr ""
 "Jojogape - Shivers\n"
 "par Jojogape"
 
-#. ID 116, Line 678
+#. ID 116, Line 691
 msgid ""
 "fd-0831g\n"
 "by FD"
@@ -1639,7 +1681,7 @@ msgstr ""
 "fd-0831g\n"
 "par FD"
 
-#. ID 116, Line 683
+#. ID 116, Line 696
 msgid ""
 "Nexus-dadladladladla1\n"
 "by Nexus"
@@ -1647,47 +1689,47 @@ msgstr ""
 "Nexus-dadladladladla1\n"
 "par Nexus"
 
-#. ID 116, Line 688
+#. ID 116, Line 701
 msgid ""
 "Nexus-playplayce2_edit\n"
 "by Nexus"
 msgstr ""
 "Nexus-playplayce2_edit\n"
-"par Nexus"
-
-#. ID 116, Line 694
-msgid ""
-"nexus-germz\n"
-"by Nexus"
-msgstr ""
-"nexus-germz\n"
-"par Nexus"
-
-#. ID 116, Line 699
-msgid ""
-"nexus-germz2\n"
-"by Nexus"
-msgstr ""
-"nexus-germz2\n"
 "par Nexus"
 
 #. ID 116, Line 707
 msgid ""
-"nexus-playplayce4\n"
+"nexus-germz\n"
 "by Nexus"
 msgstr ""
-"nexus-playplayce4\n"
+"nexus-germz\n"
 "par Nexus"
 
 #. ID 116, Line 712
 msgid ""
+"nexus-germz2\n"
+"by Nexus"
+msgstr ""
+"nexus-germz2\n"
+"par Nexus"
+
+#. ID 116, Line 720
+msgid ""
+"nexus-playplayce4\n"
+"by Nexus"
+msgstr ""
+"nexus-playplayce4\n"
+"par Nexus"
+
+#. ID 116, Line 725
+msgid ""
 "nexus-playplayce5\n"
 "by Nexus"
 msgstr ""
 "nexus-playplayce5\n"
 "par Nexus"
 
-#. ID 116, Line 719
+#. ID 116, Line 732
 msgid ""
 "Nexus-sunflower\n"
 "by Nexus"
@@ -1695,7 +1737,7 @@ msgstr ""
 "Nexus-sunflower\n"
 "par Nexus"
 
-#. ID 116, Line 724
+#. ID 116, Line 737
 msgid ""
 "Nexus-bgm009\n"
 "by Nexus"
@@ -1703,7 +1745,7 @@ msgstr ""
 "Nexus-bgm009\n"
 "par Nexus"
 
-#. ID 116, Line 729
+#. ID 116, Line 742
 msgid ""
 "nexus-bgm026\n"
 "by Nexus"
@@ -1711,7 +1753,7 @@ msgstr ""
 "nexus-bgm026\n"
 "par Nexus"
 
-#. ID 116, Line 735
+#. ID 116, Line 748
 msgid ""
 "nexus-bgm028 without noise\n"
 "by Nexus"
@@ -1719,7 +1761,7 @@ msgstr ""
 "nexus-bgm028 without noise\n"
 "par Nexus"
 
-#. ID 116, Line 740
+#. ID 116, Line 753
 msgid ""
 "nexus-bgm028\n"
 "by Nexus"
@@ -1727,7 +1769,7 @@ msgstr ""
 "nexus-bgm028\n"
 "par Nexus"
 
-#. ID 116, Line 747
+#. ID 116, Line 760
 msgid ""
 "Nexus-bgm003\n"
 "by Nexus"
@@ -1735,7 +1777,7 @@ msgstr ""
 "Nexus-bgm003\n"
 "par Nexus"
 
-#. ID 116, Line 752
+#. ID 116, Line 765
 msgid ""
 "maple-spacey\n"
 "by maple"
@@ -1743,7 +1785,7 @@ msgstr ""
 "maple-spacey\n"
 "par maple"
 
-#. ID 116, Line 757
+#. ID 116, Line 770
 msgid ""
 "maple-vwoom\n"
 "by maple"
@@ -1751,7 +1793,7 @@ msgstr ""
 "maple-vwoom\n"
 "par maple"
 
-#. ID 116, Line 762
+#. ID 116, Line 775
 msgid ""
 "maple-bubbly\n"
 "by maple"
@@ -1759,7 +1801,7 @@ msgstr ""
 "maple-bubbly\n"
 "par maple"
 
-#. ID 116, Line 767
+#. ID 116, Line 780
 msgid ""
 "maple-loop3\n"
 "by maple"
@@ -1767,7 +1809,7 @@ msgstr ""
 "maple-loop3\n"
 "par maple"
 
-#. ID 116, Line 772
+#. ID 116, Line 785
 msgid ""
 "maple-shroom\n"
 "by maple"
@@ -1775,7 +1817,7 @@ msgstr ""
 "maple-shroom\n"
 "par maple"
 
-#. ID 116, Line 778
+#. ID 116, Line 791
 msgid ""
 "maple-seaside\n"
 "by maple"
@@ -1783,7 +1825,7 @@ msgstr ""
 "maple-seaside\n"
 "par maple"
 
-#. ID 116, Line 783
+#. ID 116, Line 796
 msgid ""
 "maple-seaside2\n"
 "by maple"
@@ -1791,7 +1833,7 @@ msgstr ""
 "maple-seaside2\n"
 "par maple"
 
-#. ID 116, Line 790
+#. ID 116, Line 803
 msgid ""
 "maple-nightly\n"
 "by maple"
@@ -1799,7 +1841,7 @@ msgstr ""
 "maple-nightly\n"
 "par maple"
 
-#. ID 116, Line 795
+#. ID 116, Line 808
 msgid ""
 "fd-0831c\n"
 "by FD"
@@ -1807,7 +1849,7 @@ msgstr ""
 "fd-0831c\n"
 "par FD"
 
-#. ID 116, Line 800
+#. ID 116, Line 813
 msgid ""
 "Milica_BGM5\n"
 "by Milica"
@@ -1815,7 +1857,7 @@ msgstr ""
 "Milica_BGM5\n"
 "par Milica"
 
-#. ID 116, Line 805
+#. ID 116, Line 818
 msgid ""
 "fd-1216b\n"
 "by FD"
@@ -1823,7 +1865,7 @@ msgstr ""
 "fd-1216b\n"
 "par FD"
 
-#. ID 116, Line 810
+#. ID 116, Line 823
 msgid ""
 "Jojogape - Inside the Bell\n"
 "by Jojogape"
@@ -1831,7 +1873,7 @@ msgstr ""
 "Jojogape - Inside the Bell\n"
 "par Jojogape"
 
-#. ID 116, Line 815
+#. ID 116, Line 828
 msgid ""
 "Jojogape - Rosetta\n"
 "by Jojogape"
@@ -1839,7 +1881,7 @@ msgstr ""
 "Jojogape - Rosetta\n"
 "par Jojogape"
 
-#. ID 116, Line 820
+#. ID 116, Line 833
 msgid ""
 "Jojogape - Nothing Means\n"
 "by Jojogape"
@@ -1847,7 +1889,7 @@ msgstr ""
 "Jojogape - Nothing Means\n"
 "par Jojogape"
 
-#. ID 116, Line 825
+#. ID 116, Line 838
 msgid ""
 "Jojogape - Oxygen Wall\n"
 "by Jojogape"
@@ -1855,7 +1897,7 @@ msgstr ""
 "Jojogape - Oxygen Wall\n"
 "par Jojogape"
 
-#. ID 116, Line 830
+#. ID 116, Line 843
 msgid ""
 "Jojogape - Pre\n"
 "by Jojogape"
@@ -1863,7 +1905,7 @@ msgstr ""
 "Jojogape - Pre\n"
 "par Jojogape"
 
-#. ID 116, Line 835
+#. ID 116, Line 848
 msgid ""
 "Jojogape - Organism\n"
 "by Jojogape"
@@ -1871,7 +1913,7 @@ msgstr ""
 "Jojogape - Organism\n"
 "par Jojogape"
 
-#. ID 116, Line 840
+#. ID 116, Line 853
 msgid ""
 "fd-noisefreeze\n"
 "by FD"
@@ -1879,7 +1921,7 @@ msgstr ""
 "fd-noisefreeze\n"
 "par FD"
 
-#. ID 116, Line 845
+#. ID 116, Line 858
 msgid ""
 "Question Mark - oncologic\n"
 "by QMark"
@@ -1887,7 +1929,7 @@ msgstr ""
 "Question Mark - oncologic\n"
 "par QMark"
 
-#. ID 116, Line 850
+#. ID 116, Line 863
 msgid ""
 "Ebroxas-Flight\n"
 "by EBroxas72"
@@ -1895,7 +1937,7 @@ msgstr ""
 "Ebroxas-Flight\n"
 "par EBroxas72"
 
-#. ID 116, Line 855
+#. ID 116, Line 868
 msgid ""
 "Nexus-bgm023\n"
 "by Nexus"
@@ -1903,17 +1945,13 @@ msgstr ""
 "Nexus-bgm023\n"
 "par Nexus"
 
-#. ID 116, Line 860
+#. ID 116, Line 873
 msgid ""
 "Nexus-bgm030-8000\n"
 "by Nexus"
 msgstr ""
 "Nexus-bgm030-8000\n"
 "par Nexus"
-
-#. ID 117, Line 8
-msgid "Unlocking BGM \\v[2297], variation \\v[2298]."
-msgstr "Déblocage de la piste \\v[2297], variation \\v[2298]."
 
 #. ID 123, Line 10
 msgid "Locking BGM \\v[2297], variation \\v[2298]."
@@ -1933,4 +1971,4 @@ msgstr ""
 
 #. ID 125, Line 81
 msgid "Save update complete!"
-msgstr "Mise à jour de la sauvegarde terminée!"
+msgstr "Mise à jour de la sauvegarde terminée !"
