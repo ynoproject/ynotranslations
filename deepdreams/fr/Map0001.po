@@ -16,7 +16,7 @@ msgstr ""
 #. ID 38, Page 1, Line 1, Pos (3,9)
 #. Contains choice at line 2 (2 options)
 msgid "Feeling festive?"
-msgstr "D'humeur festive?"
+msgstr "D'humeur festive ?"
 
 #. ID 38, Page 1, Line 2, Pos (3,9)
 #. Choice (2 options, embedded in a message)

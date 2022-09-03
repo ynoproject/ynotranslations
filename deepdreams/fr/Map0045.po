@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 1, Page 1, Line 3, Pos (70,52)
 msgid "Get System: Spiderlily"
-msgstr "Système obtenu: Lys Araignée"
+msgstr "Système obtenu : Lys Araignée"

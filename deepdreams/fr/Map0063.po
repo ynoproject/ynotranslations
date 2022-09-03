@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 2, Page 1, Line 4, Pos (53,49)
 msgid "Get Alter: Monochromatic"
-msgstr "Alter obtenu: Monochromatique"
+msgstr "Alter obtenu : Monochromatique"
