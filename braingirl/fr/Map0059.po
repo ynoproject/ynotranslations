@@ -15,7 +15,7 @@ msgstr ""
 
 #. ID 69, Page 1, Line 8, Pos (76,100)
 msgid "Found the $rRaspberry$r menu theme!"
-msgstr "Thème de Menu $rFramboise$r trouvé!"
+msgstr "Thème de Menu $rFramboise$r trouvé !"
 
 #. ID 74, Page 1, Line 2, Pos (16,99)
 msgid "Warp under construction ;)"

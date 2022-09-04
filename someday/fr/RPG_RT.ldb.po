@@ -55,7 +55,7 @@ msgstr "Kondo"
 #. ID 3
 msgctxt "skills.description"
 msgid "%À?"
-msgstr "%À?"
+msgstr "%À ?"
 
 #. ID 4
 msgctxt "skills.name"
@@ -135,7 +135,7 @@ msgstr "Chanceux"
 #. ID 11
 msgctxt "skills.description"
 msgid "Find the four-leaf clover!"
-msgstr "Trouver le trèfle à quatre feuilles!"
+msgstr "Trouver le trèfle à quatre feuilles !"
 
 #. ID 12
 msgctxt "skills.name"
@@ -215,7 +215,7 @@ msgstr "Image, mille mots"
 #. ID 19
 msgctxt "skills.description"
 msgid "How can I forget such beauty?"
-msgstr "Comment puis-je oublier une telle beauté?"
+msgstr "Comment puis-je oublier une telle beauté ?"
 
 #. ID 20
 msgctxt "skills.name"
@@ -878,11 +878,11 @@ msgstr "vd"
 
 msgctxt "terms.escape_failure"
 msgid "Failed to escape!"
-msgstr "Vous n'avez pas réussi à fuir!"
+msgstr "Vous n'avez pas réussi à fuir !"
 
 msgctxt "terms.victory"
 msgid "Victory!"
-msgstr "Victoire!"
+msgstr "Victoire !"
 
 msgctxt "terms.defeat"
 msgid "Annihilated..."
@@ -890,7 +890,7 @@ msgstr "Annihilé..."
 
 msgctxt "terms.exp_received"
 msgid " experience points!"
-msgstr "points d'expériences!"
+msgstr "points d'expériences !"
 
 msgctxt "terms.gold_recieved_a"
 msgid "Found"
@@ -902,7 +902,7 @@ msgstr "!"
 
 msgctxt "terms.item_recieved"
 msgid " found!"
-msgstr "trouvé!"
+msgstr "trouvé !"
 
 msgctxt "terms.attacking"
 msgid "‚ÌUŒ‚I"
@@ -1006,11 +1006,11 @@ msgstr "に弱くなった！"
 
 msgctxt "terms.level_up"
 msgid " obtained!"
-msgstr "obtenu!"
+msgstr "obtenu !"
 
 msgctxt "terms.skill_learned"
 msgid " was learned!"
-msgstr "a été appris!"
+msgstr "a été appris !"
 
 msgctxt "terms.battle_start"
 msgid "yo wanna fight"
@@ -1018,7 +1018,7 @@ msgstr "tu veux te battre"
 
 msgctxt "terms.miss"
 msgid "Miss!"
-msgstr "Raté!"
+msgstr "Raté !"
 
 msgctxt "terms.shop_greeting1"
 msgid "howzit, howaya"
@@ -1026,7 +1026,7 @@ msgstr "c'ment ça va"
 
 msgctxt "terms.shop_regreeting1"
 msgid "more?"
-msgstr "plus?"
+msgstr "plus ?"
 
 msgctxt "terms.shop_buy1"
 msgid "Buy"
@@ -1110,11 +1110,11 @@ msgstr "ES-TU \"ｷ&()=$(?"
 
 msgctxt "terms.shop_greeting3"
 msgid "What are you interested in today?"
-msgstr "Qu'est-ce qui vous intéresserait aujourd'hui?"
+msgstr "Qu'est-ce qui vous intéresserait aujourd'hui ?"
 
 msgctxt "terms.shop_regreeting3"
 msgid "Can I interest you in anything else?"
-msgstr "Avez-vous besoin d'autre chose?"
+msgstr "Avez-vous besoin d'autre chose ?"
 
 msgctxt "terms.shop_buy3"
 msgid "Buy"
@@ -1130,11 +1130,11 @@ msgstr "Partir"
 
 msgctxt "terms.shop_buy_select3"
 msgid "What would you like to buy?"
-msgstr "Qu'allez-vous acheter aujourd'hui?"
+msgstr "Qu'allez-vous acheter aujourd'hui ?"
 
 msgctxt "terms.shop_buy_number3"
 msgid "How many of those would you like?"
-msgstr "Combien en prendrez-vous?"
+msgstr "Combien en prendrez-vous ?"
 
 msgctxt "terms.shop_purchased3"
 msgid "Thank you for your patronage."
@@ -1142,11 +1142,11 @@ msgstr "Merci de votre achat."
 
 msgctxt "terms.shop_sell_select3"
 msgid "What would you like to sell?"
-msgstr "Qu'aimeriez-vous me vendre?"
+msgstr "Qu'aimeriez-vous me vendre ?"
 
 msgctxt "terms.shop_sell_number3"
 msgid "How many of those would you like to sell?"
-msgstr "Combien en prendrez-vous?"
+msgstr "Combien en prendrez-vous ?"
 
 msgctxt "terms.shop_sold3"
 msgid "Thank you for your patronage."
@@ -1162,7 +1162,7 @@ msgstr "pour rester la nuit."
 
 msgctxt "terms.inn_a_greeting_3"
 msgid "Would you like to stay?"
-msgstr "Voudriez-vous rester?"
+msgstr "Voudriez-vous rester ?"
 
 msgctxt "terms.inn_a_accept"
 msgid "Stay"
@@ -1182,7 +1182,7 @@ msgstr "pour un bon lit."
 
 msgctxt "terms.inn_b_greeting_3"
 msgid "How about spending the night?"
-msgstr "Que diriez-vous d'y passer la nuit?"
+msgstr "Que diriez-vous d'y passer la nuit ?"
 
 msgctxt "terms.inn_b_accept"
 msgid "Stay"
@@ -1334,11 +1334,11 @@ msgstr "Accessoire"
 
 msgctxt "terms.save_game_message"
 msgid "Write on which entry?"
-msgstr "Écrire dans quelle entrée?"
+msgstr "Écrire dans quelle entrée ?"
 
 msgctxt "terms.load_game_message"
 msgid "Open which entry?"
-msgstr "Ouvrir quelle entrée?"
+msgstr "Ouvrir quelle entrée ?"
 
 msgctxt "terms.file"
 msgid "Entry"
@@ -1346,7 +1346,7 @@ msgstr "Entrée"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you really want to quit?"
-msgstr "Voulez-vous vraiment quitter?"
+msgstr "Voulez-vous vraiment quitter ?"
 
 msgctxt "terms.yes"
 msgid "Yes"

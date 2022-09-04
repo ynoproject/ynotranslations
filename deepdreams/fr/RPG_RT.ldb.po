@@ -1408,11 +1408,11 @@ msgstr "-"
 
 msgctxt "terms.save_game_message"
 msgid "Save to which file?"
-msgstr "Sauvegarder dans quel fichier?"
+msgstr "Sauvegarder dans quel fichier ?"
 
 msgctxt "terms.load_game_message"
 msgid "Load which file?"
-msgstr "Charger quel fichier?"
+msgstr "Charger quel fichier ?"
 
 msgctxt "terms.file"
 msgid "File"
@@ -1420,7 +1420,7 @@ msgstr "Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you really want to quit?"
-msgstr "Voulez-vous vraiment quitter?"
+msgstr "Voulez-vous vraiment quitter ?"
 
 msgctxt "terms.yes"
 msgid "Yes"

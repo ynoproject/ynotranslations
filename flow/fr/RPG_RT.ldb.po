@@ -492,7 +492,7 @@ msgstr ""
 
 msgctxt "terms.exit_game_message"
 msgid "おわりにしますか？"
-msgstr "Voulez-vous quitter?"
+msgstr "Voulez-vous quitter ?"
 
 msgctxt "terms.yes"
 msgid "はい"

@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 4, Page 1, Line 4, Pos (131,59)
 msgid "Get Alter: Glassy"
-msgstr "Alter obtenu: Vitreux"
+msgstr "Alter obtenu : Vitreux"

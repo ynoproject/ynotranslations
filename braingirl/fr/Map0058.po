@@ -15,12 +15,12 @@ msgstr ""
 
 #. ID 2, Page 1, Line 3, Pos (10,5)
 msgid "Already betting on the red horse!"
-msgstr "Vous êtes déjà en train de le parier!"
+msgstr "Vous êtes déjà en train de le parier !"
 
 #. ID 2, Page 1, Line 6, Pos (10,5)
 #. Contains choice at line 2 (2 options)
 msgid "Bet on the red horse?"
-msgstr "Parier sur le cheval rouge?"
+msgstr "Parier sur le cheval rouge ?"
 
 #. ID 2, Page 1, Line 7, Pos (10,5)
 #. Choice (2 options, embedded in a message)
@@ -39,28 +39,28 @@ msgstr ""
 
 #. ID 3, Page 1, Line 3, Pos (10,6)
 msgid "Already betting on the blue horse!"
-msgstr "Vous êtes déjà en train de le parier!"
+msgstr "Vous êtes déjà en train de le parier !"
 
 #. ID 3, Page 1, Line 6, Pos (10,6)
 #. Contains choice at line 2 (2 options)
 msgid "Bet on the blue horse?"
-msgstr "Parier sur le cheval bleu?"
+msgstr "Parier sur le cheval bleu ?"
 
 #. ID 4, Page 1, Line 3, Pos (10,7)
 msgid "Already betting on the green horse!"
-msgstr "Vous êtes déjà en train de le parier!"
+msgstr "Vous êtes déjà en train de le parier !"
 
 #. ID 4, Page 1, Line 6, Pos (10,7)
 #. Contains choice at line 2 (2 options)
 msgid "Bet on the green horse?"
-msgstr "Parier sur le cheval vert?"
+msgstr "Parier sur le cheval vert ?"
 
 #. ID 31, Page 1, Line 3, Pos (4,9)
 #. Contains choice at line 2 (2 options)
 #. ID 31, Page 1, Line 19, Pos (4,9)
 #. Contains choice at line 2 (1 options)
 msgid "Bet on a horse? [2CD's]"
-msgstr "Parier sur un cheval? [2 CDs]"
+msgstr "Parier sur un cheval ? [2 CDs]"
 
 #. ID 31, Page 1, Line 20, Pos (4,9)
 #. Choice (1 options, embedded in a message)

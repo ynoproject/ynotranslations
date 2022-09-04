@@ -62,4 +62,4 @@ msgstr "Pas assez d'argent pour acheter"
 #. ID 254, Page 1, Line 4, Pos (101,156)
 #. ID 255, Page 1, Line 4, Pos (102,156)
 msgid "Get Alter: Damage"
-msgstr "Alter obtenu: Endommagement"
+msgstr "Alter obtenu : Endommagement"

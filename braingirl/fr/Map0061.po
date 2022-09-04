@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 12, Page 1, Line 8, Pos (46,14)
 msgid "Found the $rMoss$r menu theme!"
-msgstr "Thème de menu $rMousse$r trouvé!"
+msgstr "Thème de menu $rMousse$r trouvé !"
