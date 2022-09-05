@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 14, Page 2, Line 4, Pos (13,12)
+msgid "                   Snow Woman"
+msgstr "　　　　　　　　　★גלש תשיא★"
+
+#. ID 15, Page 2, Line 4, Pos (16,10)
+msgid "                      Frog"
+msgstr "　　　　　　　　　　★עדרפצ★"
+
+#. ID 16, Page 2, Line 4, Pos (14,15)
+msgid "                     Umbrella"
+msgstr "　　　　　　　　　　　★היירטמ★"
+
+#. ID 17, Page 2, Line 4, Pos (14,11)
+msgid "                    Hat & Scarf"
+msgstr "　　　　　　　　★ףיעצ & עבוכ★"
+
+#. ID 18, Page 2, Line 5, Pos (12,14)
+msgid "                    Eye Palm"
+msgstr "　　　　　　　　　★די ףכ ןיע★"
+
+#. ID 19, Page 2, Line 5, Pos (12,16)
+msgid "                     Get fat"
+msgstr "　　　　　　　　　　★ןימשהל★"
+
+#. ID 20, Page 2, Line 4, Pos (13,18)
+msgid "                      Midget"
+msgstr "　　　　　　　　　　★דמג★"
+
+#. ID 21, Page 2, Line 4, Pos (14,19)
+msgid "                     Whistle"
+msgstr "            　　　　　★תילילח★"
+
+#. ID 22, Page 2, Line 4, Pos (15,17)
+msgid "                       Neon"
+msgstr "　　　　　　　　　　★ןואנ★"
+
+#. ID 23, Page 2, Line 4, Pos (16,20)
+msgid "                 Faceless Ghost"
+msgstr "　　　　　 　　　★ףוצרפ רסח חור★"
+
+#. ID 24, Page 2, Line 4, Pos (18,20)
+msgid "                    Talking Head"
+msgstr "　　　　　　　　 　★ףורע שאר★"
+
+#. ID 25, Page 2, Line 4, Pos (19,13)
+msgid "                     Poo Hair"
+msgstr "　　　　　　　　　★יקק רעיש★"
+
+#. ID 26, Page 2, Line 4, Pos (20,15)
+msgid "                   Kitchen Knife"
+msgstr "　　　　　　　　　★חבטמ ןיכס★"
+
+#. ID 27, Page 2, Line 4, Pos (20,19)
+msgid "                  Spirit Headband"
+msgstr "　　　　　　　　　　★תוחור רעישל טרס★"
+
+#. ID 28, Page 2, Line 4, Pos (21,18)
+msgid "                      Towel"
+msgstr "　　　　　　　　　　★תבגמ★"
+
+#. ID 29, Page 2, Line 4, Pos (22,16)
+msgid "                         Cat"
+msgstr "　　　　　　　　　　　★לותח★"
+
+#. ID 30, Page 2, Line 4, Pos (22,14)
+msgid "                       Lamp"
+msgstr "　　　　　　　　　　★הרונמ★"
+
+#. ID 31, Page 2, Line 4, Pos (20,11)
+msgid "                    Long Hair"
+msgstr "　　　　　　　　　★ךורא רעיש★"
+
+#. ID 32, Page 2, Line 4, Pos (21,12)
+msgid "                     Bicycle "
+msgstr "　　　　　　　　　 ★םיינפוא★ "
+
+#. ID 33, Page 2, Line 4, Pos (18,10)
+msgid "                     Blonde"
+msgstr "　　　　　　　　　　★דנולב★"
+
+#. ID 34, Page 2, Line 4, Pos (15,13)
+msgid "                      Witch"
+msgstr "　　　　　　　　　　★הפשכמ★"
+
+#. ID 35, Page 2, Line 4, Pos (17,12)
+msgid "                      Devil"
+msgstr "　　　　　　　 　　　★דש★"
+
+#. ID 36, Page 2, Line 4, Pos (17,18)
+msgid "                    Squish-Squish"
+msgstr "　　　　　　　 　　★ילˌג★"
+
+#. ID 37, Page 2, Line 4, Pos (19,17)
+msgid "                   Traffic Light"
+msgstr "　　　　　　　　　　★רוזמר★"
