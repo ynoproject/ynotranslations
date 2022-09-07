@@ -19,7 +19,7 @@ msgstr ""
 
 #. ID 11, Page 1, Line 89, Pos (20,16)
 msgid "テキストがまだない"
-msgstr ""
+msgstr "No text available"
 
 #. ID 11, Page 5, Line 28, Pos (20,16)
 #. ID 20, Page 1, Line 3, Pos (20,21)
@@ -39,7 +39,7 @@ msgstr ""
 #. ID 15, Page 1, Line 19, Pos (9,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「あかいほん」　　　著作「hal」"
-msgstr ""
+msgstr "Title: \"Red Book\"　　　Author: hal"
 
 #. ID 15, Page 1, Line 20, Pos (9,16)
 #. Choice (2 options, embedded in a message)
@@ -53,21 +53,23 @@ msgid ""
 "読む\n"
 "読まない"
 msgstr ""
+"Read\n"
+"Don't Read"
 
 #. ID 16, Page 1, Line 19, Pos (7,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（３）」　　　著作「>>826氏」"
-msgstr ""
+msgstr "Title: \"Ambiguity (3)\"　　　Author: >>826"
 
 #. ID 17, Page 1, Line 19, Pos (5,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（２）」　　　著作「>>826氏」"
-msgstr ""
+msgstr "Title: \"Ambiguity (2)\"　　　Author: >>826"
 
 #. ID 18, Page 1, Line 19, Pos (3,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（１）」　　　著作「>>826氏」"
-msgstr ""
+msgstr "Title: \"Ambiguity (1)\"　　　Author: >>826"
 
 #. ID 22, Page 1, Line 3, Pos (18,21)
 #. ID 23, Page 1, Line 3, Pos (14,21)
