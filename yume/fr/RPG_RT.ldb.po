@@ -40,7 +40,7 @@ msgstr "Parapluie"
 #. ID 4
 msgctxt "items.description"
 msgid "Use an umbrella."
-msgstr "Utilises un parapluie."
+msgstr "Utilise un parapluie."
 
 #. ID 5
 #. ID 6
@@ -52,7 +52,7 @@ msgstr "Écharpe et bonnet"
 #. ID 6
 msgctxt "items.description"
 msgid "Don a hat & scarf."
-msgstr "Portes une écharpe et un bonnet."
+msgstr "Porte une écharpe et un bonnet."
 
 #. ID 7
 #. ID 8
@@ -76,7 +76,7 @@ msgstr "Couteau"
 #. ID 10
 msgctxt "items.description"
 msgid "Equip a kitchen knife."
-msgstr "Équipes un couteau de cuisine."
+msgstr "Équipe un couteau de cuisine."
 
 #. ID 11
 #. ID 12
@@ -136,7 +136,7 @@ msgstr "Néon"
 #. ID 20
 msgctxt "items.description"
 msgid "Glow like a neon sign."
-msgstr "Brilles comme une enseigne alimentée au néon."
+msgstr "Brille comme une enseigne alimentée au néon."
 
 #. ID 21
 #. ID 22
@@ -208,7 +208,7 @@ msgstr "Bicyclette"
 #. ID 32
 msgctxt "items.description"
 msgid "Mount a bicycle."
-msgstr "Enfourches une bicyclette."
+msgstr "Enfourche une bicyclette."
 
 #. ID 33
 #. ID 34
@@ -256,7 +256,7 @@ msgstr "Bandeau spirituel"
 #. ID 40
 msgctxt "items.description"
 msgid "Put on a Spirit Headband."
-msgstr "Portes un bandeau spirituel."
+msgstr "Porte un bandeau spirituel."
 
 #. ID 41
 #. ID 42
