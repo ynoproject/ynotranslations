@@ -281,7 +281,7 @@ msgstr ""
 #. Contains choice at line 2 (2 options)
 msgid "いつでもセーブ可能になるよ！"
 msgstr ""
-"Obtenir le moyen de sauvegarder n'importe où?\n"
+"Obtenir le moyen de sauvegarder n'importe où ?\n"
 "[4ème emplacement vide dans le Menu de Pause]"
 
 #. ID 11, Page 1, Line 2, Pos (9,1)
