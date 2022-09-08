@@ -31,8 +31,8 @@ msgid ""
 "They won't find you,\n"
 "as long as you stay here."
 msgstr ""
-"Ils ne te trouveront pas, du moment\n"
-"que tu restes ici."
+"Ils ne te trouveront pas, du moment que tu\n"
+"restes ici."
 
 #. ID 1, Page 3, Line 13, Pos (8,8)
 msgid ""
@@ -61,14 +61,14 @@ msgid ""
 "I'll give you food, books, games and\n"
 "a bed for you to sleep in."
 msgstr ""
-"Je te donnerai nourriture, livres,\n"
-"jeux et un lit pour que tu puisses dormir."
+"Je te donnerai nourriture, livres, jeux et un lit\n"
+"pour que tu puisses dormir."
 
 #. ID 1, Page 3, Line 28, Pos (8,8)
 msgid "I can't promise you it won't get boring..."
 msgstr ""
-"Je ne peux pas te promettre que ça\n"
-"ne deviendra pas ennuyant..."
+"Je ne peux pas te promettre que ça ne deviendra\n"
+"pas ennuyant..."
 
 #. ID 1, Page 3, Line 30, Pos (8,8)
 msgid "But I really want you to stay safe!"

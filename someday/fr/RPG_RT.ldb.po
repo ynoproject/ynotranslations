@@ -455,7 +455,7 @@ msgstr "Clé anglaise"
 #. ID 11
 msgctxt "items.description"
 msgid "Wield a handy wrench"
-msgstr "Manies une clé anglaise."
+msgstr "Manie une clé anglaise."
 
 #. ID 12
 msgctxt "items.name"
@@ -465,7 +465,7 @@ msgstr "Imperméable"
 #. ID 12
 msgctxt "items.description"
 msgid "Wear a raincoat"
-msgstr "Portes un imperméable."
+msgstr "Porte un imperméable."
 
 #. ID 13
 msgctxt "items.name"
@@ -475,7 +475,7 @@ msgstr "Écharpe"
 #. ID 13
 msgctxt "items.description"
 msgid "Wear a warm scarf"
-msgstr "Portes une chaleureuse écharpe."
+msgstr "Porte une chaleureuse écharpe."
 
 #. ID 14
 msgctxt "items.name"
@@ -485,7 +485,7 @@ msgstr "Classique"
 #. ID 14
 msgctxt "items.description"
 msgid "Look like a hikikomori"
-msgstr "Ressembles à un hikikomori."
+msgstr "Ressemble à un hikikomori."
 
 #. ID 15
 msgctxt "items.name"
@@ -495,7 +495,7 @@ msgstr "TV"
 #. ID 15
 msgctxt "items.description"
 msgid "Get a TV for a head"
-msgstr "Remplaces ta tête par une TV."
+msgstr "Remplace ta tête par une TV."
 
 #. ID 16
 msgctxt "items.name"
@@ -535,7 +535,7 @@ msgstr "Combi. de plongée"
 #. ID 19
 msgctxt "items.description"
 msgid "Wear a diving suit"
-msgstr "Portes une combinaison de plongée."
+msgstr "Porte une combinaison de plongée."
 
 #. ID 20
 msgctxt "items.name"
@@ -575,7 +575,7 @@ msgstr "Tomate"
 #. ID 23
 msgctxt "items.description"
 msgid "Get a tomato for a head"
-msgstr "Remplaces ta tête par une tomate."
+msgstr "Remplace ta tête par une tomate."
 
 #. ID 24
 msgctxt "items.name"
@@ -585,7 +585,7 @@ msgstr "Blouse de labo."
 #. ID 24
 msgctxt "items.description"
 msgid "Wear a lab coat"
-msgstr "Portes une blouse de laboratoire."
+msgstr "Porte une blouse de laboratoire."
 
 #. ID 25
 msgctxt "items.name"
@@ -685,7 +685,7 @@ msgstr "(Mégaphone)"
 #. ID 34
 msgctxt "items.description"
 msgid "Draw attention"
-msgstr "Attires l'attention."
+msgstr "Attire l'attention."
 
 #. ID 35
 msgctxt "items.name"
@@ -695,7 +695,7 @@ msgstr "(Blob)"
 #. ID 35
 msgctxt "items.description"
 msgid "Have colourful thoughts"
-msgstr "Aies des pensées colorées."
+msgstr "Aie des pensées colorées."
 
 #. ID 36
 msgctxt "items.name"
@@ -705,7 +705,7 @@ msgstr "(Clé anglaise)"
 #. ID 36
 msgctxt "items.description"
 msgid "Want to beat someone"
-msgstr "Aies envie de battre quelqu'un."
+msgstr "Aie envie de battre quelqu'un."
 
 #. ID 37
 msgctxt "items.name"
@@ -715,7 +715,7 @@ msgstr "(Imperméable)"
 #. ID 37
 msgctxt "items.description"
 msgid "Wish to stop raining"
-msgstr "Souhaites qu'il arrête de pleuvoir."
+msgstr "Souhaite qu'il arrête de pleuvoir."
 
 #. ID 38
 msgctxt "items.name"
@@ -755,7 +755,7 @@ msgstr "(Renard)"
 #. ID 41
 msgctxt "items.description"
 msgid "Show your cute side"
-msgstr "Montres ton côté mignon."
+msgstr "Montre ton côté mignon."
 
 #. ID 42
 msgctxt "items.name"
@@ -765,7 +765,7 @@ msgstr "(Bougeoir)"
 #. ID 42
 msgctxt "items.description"
 msgid "Keep your hopes up high"
-msgstr "Gardes tes espoirs hauts."
+msgstr "Garde tes espoirs hauts."
 
 #. ID 43
 msgctxt "items.name"
@@ -795,7 +795,7 @@ msgstr "(Mercure)"
 #. ID 45
 msgctxt "items.description"
 msgid "Try to go unnoticed"
-msgstr "Essaies de passer inaperçu."
+msgstr "Essaie de passer inaperçu."
 
 #. ID 46
 msgctxt "items.name"

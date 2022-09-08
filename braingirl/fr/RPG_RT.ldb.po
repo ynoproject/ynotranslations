@@ -75,7 +75,7 @@ msgstr "$l Robe de caneton"
 #. ID 10
 msgctxt "items.description"
 msgid "Wear a Duck Outfit"
-msgstr "Portes un costume de canard"
+msgstr "Porte un costume de canard"
 
 #. ID 11
 msgctxt "items.name"
@@ -92,7 +92,7 @@ msgstr "$l Lumière"
 #. ID 13
 msgctxt "items.description"
 msgid "Light up dark places by turning into a lightsource"
-msgstr "Éclaires les lieux sombres en te changeant en lumière"
+msgstr "Éclaire les lieux sombres en te changeant en lumière"
 
 #. ID 14
 msgctxt "items.name"
