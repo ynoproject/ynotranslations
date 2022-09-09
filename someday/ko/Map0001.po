@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
@@ -9,7 +9,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.1.1\n"
 
@@ -24,7 +23,13 @@ msgstr ""
 "ZApNeF 플레이하기\n"
 "관두자"
 
-#. ID 3, Page 2, Line 19, Pos (7,6)
+#. ID 2, Page 1, Line 57, Pos (11,4)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "잇츠키"
+
+#. ID 3, Page 2, Line 20, Pos (7,6)
 msgid ""
 "I'm sorry, but you seem to be playing a save file\n"
 "from a previous version of this game.\n"
@@ -34,7 +39,17 @@ msgstr ""
 "사용하는 듯합니다.\n"
 "(v0.0\\V[10])"
 
-#. ID 3, Page 2, Line 22, Pos (7,6)
+#. ID 3, Page 2, Line 25, Pos (7,6)
+msgid ""
+"I'm sorry, but you seem to be playing a save file\n"
+"from a previous version of this game.\n"
+"(v0.\\V[10])"
+msgstr ""
+"죄송하지만, 이전 버전의 세이브파일을\n"
+"사용하는 듯합니다.\n"
+"(v0.\\V[10])"
+
+#. ID 3, Page 2, Line 30, Pos (7,6)
 msgid ""
 "Since this game has been modified, you may\n"
 "experience problems that would not occur if you\n"
@@ -52,3 +67,12 @@ msgid ""
 msgstr ""
 "새로운 도전과제를 완수하셨습니다!\n"
 "도전과제 달성 수: \\V[9]/32"
+
+#. ID 6, Page 1, Line 24, Pos (2,0)
+#. ID 6, Page 2, Line 25, Pos (2,0)
+msgid ""
+"??? ????? ???????!\n"
+"(???? ????? ???? ????)"
+msgstr ""
+"숨겨진 도전과제를 완수하셨습니다!\n"
+"(도전과제 달성도에는 포함되지 않습니다)"

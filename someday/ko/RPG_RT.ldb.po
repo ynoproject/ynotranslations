@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday Korean translation by WavyUp\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
@@ -9,7 +9,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.1.1\n"
 
@@ -347,6 +346,26 @@ msgstr "말벌"
 msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
 msgstr "숲에 있는 말벌을 죽이고 다시 돌아오세요."
+
+#. ID 33
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: À½¾Ç ¼öÁý°¡"
+msgstr "숨겨짐: 음악 수집가"
+
+#. ID 33
+msgctxt "skills.description"
+msgid "¸ðµç À½¾ÇÀ» Àá±Ý ÇØÁ¦ÇÏ¼¼¿ä."
+msgstr "모든 음악을 잠금 해제하세요."
+
+#. ID 34
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: >9000"
+msgstr "숨겨짐: >9000"
+
+#. ID 34
+msgctxt "skills.description"
+msgid "¾Æ¹« ZapNeF ·¹º§¿¡¼­ 9000Á¡À» ÃÊ°úÇÏ¿© ¿Ï·áÇÏ¼¼¿ä."
+msgstr "아무 ZapNeF 레벨에서 9000점을 초과하여 완료하세요."
 
 #. ID 1
 msgctxt "items.name"
@@ -858,6 +877,26 @@ msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
 msgstr "스스로를 두려워하지 않게 돼요."
 
+#. ID 52
+msgctxt "items.name"
+msgid "(¹öÀü: ¹Ù´Ò¶ó)"
+msgstr "(버전: 바닐라)"
+
+#. ID 52
+msgctxt "items.description"
+msgid "(¹Ù´Ò¶óÆÇÀÔ´Ï´Ù.)"
+msgstr "(바닐라판입니다.)"
+
+#. ID 53
+msgctxt "items.name"
+msgid "(¹öÀü: È®ÀåÆÇ)"
+msgstr "(버전: 확장판)"
+
+#. ID 53
+msgctxt "items.description"
+msgid "È®ÀåÆÇÀÔ´Ï´Ù."
+msgstr "확장판입니다."
+
 #. ID 1
 msgctxt "states.message_actor"
 msgid "‚Í“|‚ê‚½I"
@@ -907,7 +946,7 @@ msgstr ""
 
 msgctxt "terms.attacking"
 msgid "‚ÌUŒ‚I"
-msgstr ""
+msgstr "궻뛘똼갏"
 
 msgctxt "terms.enemy_critical"
 msgid "‰ïS‚ÌˆêŒ‚II"
@@ -1243,7 +1282,7 @@ msgstr "저장"
 
 msgctxt "terms.menu_quit"
 msgid "Quit"
-msgstr "종료"
+msgstr "끄기"
 
 msgctxt "terms.new_game"
 msgid "New"
