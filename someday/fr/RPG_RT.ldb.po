@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 1
 msgctxt "actors.name"
@@ -346,6 +342,26 @@ msgstr "Guêpes"
 msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
 msgstr "Tuer les guêpes dans la forêt et revenir."
+
+#. ID 33
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: À½¾Ç ¼öÁý°¡"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "¸ðµç À½¾ÇÀ» Àá±Ý ÇØÁ¦ÇÏ¼¼¿ä."
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: >9000"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "¾Æ¹« ZapNeF ·¹º§¿¡¼­ 9000Á¡À» ÃÊ°úÇÏ¿© ¿Ï·áÇÏ¼¼¿ä."
+msgstr ""
 
 #. ID 1
 msgctxt "items.name"
@@ -857,6 +873,26 @@ msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
 msgstr "N'aie pas peur d'être toi-même."
 
+#. ID 52
+msgctxt "items.name"
+msgid "(¹öÀü: ¹Ù´Ò¶ó)"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "(¹Ù´Ò¶óÆÇÀÔ´Ï´Ù.)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "(¹öÀü: È®ÀåÆÇ)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.description"
+msgid "È®ÀåÆÇÀÔ´Ï´Ù."
+msgstr ""
+
 #. ID 1
 msgctxt "states.message_actor"
 msgid "‚Í“|‚ê‚½I"
@@ -1006,11 +1042,11 @@ msgstr "に弱くなった！"
 
 msgctxt "terms.level_up"
 msgid " obtained!"
-msgstr "obtenu !"
+msgstr " obtenu !"
 
 msgctxt "terms.skill_learned"
 msgid " was learned!"
-msgstr "a été appris !"
+msgstr " a été appris !"
 
 msgctxt "terms.battle_start"
 msgid "yo wanna fight"
@@ -1158,7 +1194,7 @@ msgstr "Une auberge"
 
 msgctxt "terms.inn_a_greeting_2"
 msgid " to stay here."
-msgstr "pour rester la nuit."
+msgstr " pour rester la nuit."
 
 msgctxt "terms.inn_a_greeting_3"
 msgid "Would you like to stay?"
@@ -1178,7 +1214,7 @@ msgstr "C'est seulement"
 
 msgctxt "terms.inn_b_greeting_2"
 msgid " for a warm bed."
-msgstr "pour un bon lit."
+msgstr " pour un bon lit."
 
 msgctxt "terms.inn_b_greeting_3"
 msgid "How about spending the night?"
@@ -1431,3 +1467,4 @@ msgstr "default_term"
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr "default_term"
+

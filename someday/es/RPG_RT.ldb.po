@@ -343,6 +343,26 @@ msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
 msgstr "Mata a la avispa del bosque y vuelve"
 
+#. ID 33
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: À½¾Ç ¼öÁý°¡"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "¸ðµç À½¾ÇÀ» Àá±Ý ÇØÁ¦ÇÏ¼¼¿ä."
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: >9000"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "¾Æ¹« ZapNeF ·¹º§¿¡¼­ 9000Á¡À» ÃÊ°úÇÏ¿© ¿Ï·áÇÏ¼¼¿ä."
+msgstr ""
+
 #. ID 1
 msgctxt "items.name"
 msgid "Scooter"
@@ -853,6 +873,26 @@ msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
 msgstr "No tengas miedo de ser tu mismo"
 
+#. ID 52
+msgctxt "items.name"
+msgid "(¹öÀü: ¹Ù´Ò¶ó)"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "(¹Ù´Ò¶óÆÇÀÔ´Ï´Ù.)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "(¹öÀü: È®ÀåÆÇ)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.description"
+msgid "È®ÀåÆÇÀÔ´Ï´Ù."
+msgstr ""
+
 #. ID 1
 msgctxt "states.message_actor"
 msgid "‚Í“|‚ê‚½I"
@@ -1026,15 +1066,15 @@ msgstr "mas?"
 
 msgctxt "terms.shop_buy1"
 msgid "Buy"
-msgstr "c o m p r a"
+msgstr "it's"
 
 msgctxt "terms.shop_sell1"
 msgid "Sell"
-msgstr "v e n d e"
+msgstr "your"
 
 msgctxt "terms.shop_leave1"
 msgid "Finished"
-msgstr "byexd,"
+msgstr "move"
 
 msgctxt "terms.shop_buy_select1"
 msgid "which"
@@ -1070,15 +1110,15 @@ msgstr "yo"
 
 msgctxt "terms.shop_buy2"
 msgid "Buy"
-msgstr "buuy"
+msgstr "it's"
 
 msgctxt "terms.shop_sell2"
 msgid "Sell"
-msgstr "seel"
+msgstr "your"
 
 msgctxt "terms.shop_leave2"
 msgid "Finished"
-msgstr "Fineshid"
+msgstr "move"
 
 msgctxt "terms.shop_buy_select2"
 msgid "nyeh"
@@ -1134,7 +1174,7 @@ msgstr "time is running out"
 
 msgctxt "terms.shop_purchased3"
 msgid "Thank you for your patronage."
-msgstr "make a moooooove"
+msgstr "it's all in your h e a d"
 
 msgctxt "terms.shop_sell_select3"
 msgid "What would you like to sell?"
@@ -1162,11 +1202,11 @@ msgstr "nnnnnn? nxn"
 
 msgctxt "terms.inn_a_accept"
 msgid "Stay"
-msgstr "n,"
+msgstr "n?"
 
 msgctxt "terms.inn_a_cancel"
 msgid "Forget it"
-msgstr "n."
+msgstr "n!"
 
 msgctxt "terms.inn_b_greeting_1"
 msgid "It's only"
