@@ -28,7 +28,7 @@ msgstr ""
 #. ID 30, Page 2, Line 52, Pos (36,162)
 #. ID 30, Page 2, Line 87, Pos (36,162)
 msgid "You won a free drink!"
-msgstr ""
+msgstr "無料ドリンクGET！"
 
 #. ID 30, Page 1, Line 20, Pos (36,162)
 #. ID 30, Page 1, Line 55, Pos (36,162)
@@ -46,7 +46,7 @@ msgstr "\\$"
 #. ID 30, Page 2, Line 77, Pos (36,162)
 #. ID 30, Page 2, Line 112, Pos (36,162)
 msgid "You don't have enough N!"
-msgstr ""
+msgstr "Nが足りない!"
 
 #. ID 30, Page 2, Line 9, Pos (36,162)
 msgid "50% OFF on all drinks!"

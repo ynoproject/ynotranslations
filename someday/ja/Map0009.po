@@ -13,12 +13,12 @@ msgstr ""
 #. ID 18, Page 1, Line 9, Pos (64,57)
 #. ID 23, Page 1, Line 9, Pos (63,58)
 msgid "                       Sick"
-msgstr ""
+msgstr "                     びょうき"
 
 #. ID 11, Page 1, Line 12, Pos (63,56)
 #. ID 16, Page 1, Line 12, Pos (62,57)
 #. ID 18, Page 1, Line 12, Pos (64,57)
 #. ID 23, Page 1, Line 12, Pos (63,58)
 msgid "Press 1 to sneeze."
-msgstr ""
+msgstr "１キーでくしゃみをする。"
 
