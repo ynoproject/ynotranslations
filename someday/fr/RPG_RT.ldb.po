@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 1
 msgctxt "actors.name"
@@ -55,7 +51,7 @@ msgstr "Kondo"
 #. ID 3
 msgctxt "skills.description"
 msgid "%À?"
-msgstr "%À?"
+msgstr "%À ?"
 
 #. ID 4
 msgctxt "skills.name"
@@ -135,7 +131,7 @@ msgstr "Chanceux"
 #. ID 11
 msgctxt "skills.description"
 msgid "Find the four-leaf clover!"
-msgstr "Trouver le trèfle à quatre feuilles!"
+msgstr "Trouver le trèfle à quatre feuilles !"
 
 #. ID 12
 msgctxt "skills.name"
@@ -215,7 +211,7 @@ msgstr "Image, mille mots"
 #. ID 19
 msgctxt "skills.description"
 msgid "How can I forget such beauty?"
-msgstr "Comment puis-je oublier une telle beauté?"
+msgstr "Comment puis-je oublier une telle beauté ?"
 
 #. ID 20
 msgctxt "skills.name"
@@ -347,6 +343,26 @@ msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
 msgstr "Tuer les guêpes dans la forêt et revenir."
 
+#. ID 33
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: À½¾Ç ¼öÁý°¡"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "¸ðµç À½¾ÇÀ» Àá±Ý ÇØÁ¦ÇÏ¼¼¿ä."
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: >9000"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "¾Æ¹« ZapNeF ·¹º§¿¡¼­ 9000Á¡À» ÃÊ°úÇÏ¿© ¿Ï·áÇÏ¼¼¿ä."
+msgstr ""
+
 #. ID 1
 msgctxt "items.name"
 msgid "Scooter"
@@ -455,7 +471,7 @@ msgstr "Clé anglaise"
 #. ID 11
 msgctxt "items.description"
 msgid "Wield a handy wrench"
-msgstr "Manies une clé anglaise."
+msgstr "Manie une clé anglaise."
 
 #. ID 12
 msgctxt "items.name"
@@ -465,7 +481,7 @@ msgstr "Imperméable"
 #. ID 12
 msgctxt "items.description"
 msgid "Wear a raincoat"
-msgstr "Portes un imperméable."
+msgstr "Porte un imperméable."
 
 #. ID 13
 msgctxt "items.name"
@@ -475,7 +491,7 @@ msgstr "Écharpe"
 #. ID 13
 msgctxt "items.description"
 msgid "Wear a warm scarf"
-msgstr "Portes une chaleureuse écharpe."
+msgstr "Porte une chaleureuse écharpe."
 
 #. ID 14
 msgctxt "items.name"
@@ -485,7 +501,7 @@ msgstr "Classique"
 #. ID 14
 msgctxt "items.description"
 msgid "Look like a hikikomori"
-msgstr "Ressembles à un hikikomori."
+msgstr "Ressemble à un hikikomori."
 
 #. ID 15
 msgctxt "items.name"
@@ -495,7 +511,7 @@ msgstr "TV"
 #. ID 15
 msgctxt "items.description"
 msgid "Get a TV for a head"
-msgstr "Remplaces ta tête par une TV."
+msgstr "Remplace ta tête par une TV."
 
 #. ID 16
 msgctxt "items.name"
@@ -535,7 +551,7 @@ msgstr "Combi. de plongée"
 #. ID 19
 msgctxt "items.description"
 msgid "Wear a diving suit"
-msgstr "Portes une combinaison de plongée."
+msgstr "Porte une combinaison de plongée."
 
 #. ID 20
 msgctxt "items.name"
@@ -575,7 +591,7 @@ msgstr "Tomate"
 #. ID 23
 msgctxt "items.description"
 msgid "Get a tomato for a head"
-msgstr "Remplaces ta tête par une tomate."
+msgstr "Remplace ta tête par une tomate."
 
 #. ID 24
 msgctxt "items.name"
@@ -585,7 +601,7 @@ msgstr "Blouse de labo."
 #. ID 24
 msgctxt "items.description"
 msgid "Wear a lab coat"
-msgstr "Portes une blouse de laboratoire."
+msgstr "Porte une blouse de laboratoire."
 
 #. ID 25
 msgctxt "items.name"
@@ -685,7 +701,7 @@ msgstr "(Mégaphone)"
 #. ID 34
 msgctxt "items.description"
 msgid "Draw attention"
-msgstr "Attires l'attention."
+msgstr "Attire l'attention."
 
 #. ID 35
 msgctxt "items.name"
@@ -695,7 +711,7 @@ msgstr "(Blob)"
 #. ID 35
 msgctxt "items.description"
 msgid "Have colourful thoughts"
-msgstr "Aies des pensées colorées."
+msgstr "Aie des pensées colorées."
 
 #. ID 36
 msgctxt "items.name"
@@ -705,7 +721,7 @@ msgstr "(Clé anglaise)"
 #. ID 36
 msgctxt "items.description"
 msgid "Want to beat someone"
-msgstr "Aies envie de battre quelqu'un."
+msgstr "Aie envie de battre quelqu'un."
 
 #. ID 37
 msgctxt "items.name"
@@ -715,7 +731,7 @@ msgstr "(Imperméable)"
 #. ID 37
 msgctxt "items.description"
 msgid "Wish to stop raining"
-msgstr "Souhaites qu'il arrête de pleuvoir."
+msgstr "Souhaite qu'il arrête de pleuvoir."
 
 #. ID 38
 msgctxt "items.name"
@@ -755,7 +771,7 @@ msgstr "(Renard)"
 #. ID 41
 msgctxt "items.description"
 msgid "Show your cute side"
-msgstr "Montres ton côté mignon."
+msgstr "Montre ton côté mignon."
 
 #. ID 42
 msgctxt "items.name"
@@ -765,7 +781,7 @@ msgstr "(Bougeoir)"
 #. ID 42
 msgctxt "items.description"
 msgid "Keep your hopes up high"
-msgstr "Gardes tes espoirs hauts."
+msgstr "Garde tes espoirs hauts."
 
 #. ID 43
 msgctxt "items.name"
@@ -795,7 +811,7 @@ msgstr "(Mercure)"
 #. ID 45
 msgctxt "items.description"
 msgid "Try to go unnoticed"
-msgstr "Essaies de passer inaperçu."
+msgstr "Essaie de passer inaperçu."
 
 #. ID 46
 msgctxt "items.name"
@@ -857,6 +873,26 @@ msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
 msgstr "N'aie pas peur d'être toi-même."
 
+#. ID 52
+msgctxt "items.name"
+msgid "(¹öÀü: ¹Ù´Ò¶ó)"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "(¹Ù´Ò¶óÆÇÀÔ´Ï´Ù.)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "(¹öÀü: È®ÀåÆÇ)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.description"
+msgid "È®ÀåÆÇÀÔ´Ï´Ù."
+msgstr ""
+
 #. ID 1
 msgctxt "states.message_actor"
 msgid "‚Í“|‚ê‚½I"
@@ -878,11 +914,11 @@ msgstr "vd"
 
 msgctxt "terms.escape_failure"
 msgid "Failed to escape!"
-msgstr "Vous n'avez pas réussi à fuir!"
+msgstr "Vous n'avez pas réussi à fuir !"
 
 msgctxt "terms.victory"
 msgid "Victory!"
-msgstr "Victoire!"
+msgstr "Victoire !"
 
 msgctxt "terms.defeat"
 msgid "Annihilated..."
@@ -890,7 +926,7 @@ msgstr "Annihilé..."
 
 msgctxt "terms.exp_received"
 msgid " experience points!"
-msgstr "points d'expériences!"
+msgstr "points d'expériences !"
 
 msgctxt "terms.gold_recieved_a"
 msgid "Found"
@@ -902,7 +938,7 @@ msgstr "!"
 
 msgctxt "terms.item_recieved"
 msgid " found!"
-msgstr "trouvé!"
+msgstr "trouvé !"
 
 msgctxt "terms.attacking"
 msgid "‚ÌUŒ‚I"
@@ -1006,11 +1042,11 @@ msgstr "に弱くなった！"
 
 msgctxt "terms.level_up"
 msgid " obtained!"
-msgstr "obtenu!"
+msgstr " obtenu !"
 
 msgctxt "terms.skill_learned"
 msgid " was learned!"
-msgstr "a été appris!"
+msgstr " a été appris !"
 
 msgctxt "terms.battle_start"
 msgid "yo wanna fight"
@@ -1018,7 +1054,7 @@ msgstr "tu veux te battre"
 
 msgctxt "terms.miss"
 msgid "Miss!"
-msgstr "Raté!"
+msgstr "Raté !"
 
 msgctxt "terms.shop_greeting1"
 msgid "howzit, howaya"
@@ -1026,7 +1062,7 @@ msgstr "c'ment ça va"
 
 msgctxt "terms.shop_regreeting1"
 msgid "more?"
-msgstr "plus?"
+msgstr "plus ?"
 
 msgctxt "terms.shop_buy1"
 msgid "Buy"
@@ -1110,11 +1146,11 @@ msgstr "ES-TU \"ｷ&()=$(?"
 
 msgctxt "terms.shop_greeting3"
 msgid "What are you interested in today?"
-msgstr "Qu'est-ce qui vous intéresserait aujourd'hui?"
+msgstr "Qu'est-ce qui vous intéresserait aujourd'hui ?"
 
 msgctxt "terms.shop_regreeting3"
 msgid "Can I interest you in anything else?"
-msgstr "Avez-vous besoin d'autre chose?"
+msgstr "Avez-vous besoin d'autre chose ?"
 
 msgctxt "terms.shop_buy3"
 msgid "Buy"
@@ -1130,11 +1166,11 @@ msgstr "Partir"
 
 msgctxt "terms.shop_buy_select3"
 msgid "What would you like to buy?"
-msgstr "Qu'allez-vous acheter aujourd'hui?"
+msgstr "Qu'allez-vous acheter aujourd'hui ?"
 
 msgctxt "terms.shop_buy_number3"
 msgid "How many of those would you like?"
-msgstr "Combien en prendrez-vous?"
+msgstr "Combien en prendrez-vous ?"
 
 msgctxt "terms.shop_purchased3"
 msgid "Thank you for your patronage."
@@ -1142,11 +1178,11 @@ msgstr "Merci de votre achat."
 
 msgctxt "terms.shop_sell_select3"
 msgid "What would you like to sell?"
-msgstr "Qu'aimeriez-vous me vendre?"
+msgstr "Qu'aimeriez-vous me vendre ?"
 
 msgctxt "terms.shop_sell_number3"
 msgid "How many of those would you like to sell?"
-msgstr "Combien en prendrez-vous?"
+msgstr "Combien en prendrez-vous ?"
 
 msgctxt "terms.shop_sold3"
 msgid "Thank you for your patronage."
@@ -1158,11 +1194,11 @@ msgstr "Une auberge"
 
 msgctxt "terms.inn_a_greeting_2"
 msgid " to stay here."
-msgstr "pour rester la nuit."
+msgstr " pour rester la nuit."
 
 msgctxt "terms.inn_a_greeting_3"
 msgid "Would you like to stay?"
-msgstr "Voudriez-vous rester?"
+msgstr "Voudriez-vous rester ?"
 
 msgctxt "terms.inn_a_accept"
 msgid "Stay"
@@ -1178,11 +1214,11 @@ msgstr "C'est seulement"
 
 msgctxt "terms.inn_b_greeting_2"
 msgid " for a warm bed."
-msgstr "pour un bon lit."
+msgstr " pour un bon lit."
 
 msgctxt "terms.inn_b_greeting_3"
 msgid "How about spending the night?"
-msgstr "Que diriez-vous d'y passer la nuit?"
+msgstr "Que diriez-vous d'y passer la nuit ?"
 
 msgctxt "terms.inn_b_accept"
 msgid "Stay"
@@ -1334,11 +1370,11 @@ msgstr "Accessoire"
 
 msgctxt "terms.save_game_message"
 msgid "Write on which entry?"
-msgstr "Écrire dans quelle entrée?"
+msgstr "Écrire dans quelle entrée ?"
 
 msgctxt "terms.load_game_message"
 msgid "Open which entry?"
-msgstr "Ouvrir quelle entrée?"
+msgstr "Ouvrir quelle entrée ?"
 
 msgctxt "terms.file"
 msgid "Entry"
@@ -1346,7 +1382,7 @@ msgstr "Entrée"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you really want to quit?"
-msgstr "Voulez-vous vraiment quitter?"
+msgstr "Voulez-vous vraiment quitter ?"
 
 msgctxt "terms.yes"
 msgid "Yes"
@@ -1431,3 +1467,4 @@ msgstr "default_term"
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr "default_term"
+

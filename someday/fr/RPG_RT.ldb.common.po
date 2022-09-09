@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 3, Line 23
 #. ChangeHeroName (Actor 1)
@@ -40,15 +36,15 @@ msgstr "Itsuki"
 #. ID 48, Line 31
 #. ID 49, Line 19
 msgid "                Menu scheme changed!"
-msgstr "                Thème du menu changé!"
+msgstr "                Thème du menu changé !"
 
 #. ID 60, Line 159
 msgid ""
 "Congratulations!\n"
 "You completed the entire game at 100%!"
 msgstr ""
-"Félicitations!\n"
-"Vous avez complété le jeu à 100%!"
+"Félicitations !\n"
+"Vous avez complété le jeu à 100% !"
 
 #. ID 60, Line 161
 msgid ""
@@ -58,7 +54,7 @@ msgid ""
 msgstr ""
 "Mais savais-tu...\n"
 "\\...qu'interagir avec le trèfle à quatre feuilles\n"
-"dans la forêt active le Mode Chance?"
+"dans la forêt active le Mode Chance ?"
 
 #. ID 60, Line 164
 msgid ""
@@ -66,5 +62,83 @@ msgid ""
 "\\|Ssssh... \\.don't tell anyone..."
 msgstr ""
 "En Mode Chance, les événements aléatoires\n"
-"apparaissent plus souvent!\n"
-"\\|Chuutt.. \\.ne le dit à personne..."
+"apparaissent plus souvent !\n"
+"\\|Chuutt... \\.ne le dit à personne..."
+
+#. ID 171, Line 14
+#. ID 171, Line 32
+#. ID 171, Line 50
+#. ID 171, Line 68
+#. ID 171, Line 86
+#. ID 171, Line 104
+#. ID 171, Line 122
+#. ID 171, Line 140
+msgid "           ¸Þ´º ±×·¡ÇÈÀÌ º¯°æµÇ¾ú½À´Ï´Ù!"
+msgstr ""
+
+#. ID 174, Line 4
+#. Choice (3 options)
+msgid ""
+"Save\n"
+"Speed 5\n"
+"Debug Room"
+msgstr ""
+
+#. ID 174, Line 30
+#. ID 174, Line 69
+msgid "TESTMODE¸¦ »ç¿ëÇÏ°í ÀÖ½À´Ï´Ù. ¿É¼Ç ¼±ÅÃ:"
+msgstr ""
+
+#. ID 174, Line 31
+#. Choice (4 options)
+msgid ""
+"À½¾Ç ´Þ¼ºµµ(Music Rate) Ç¥½Ã\n"
+"¸ðµç À½¾Ç Àá±Ý ÇØÁ¦\n"
+"¸ðµç À½¾Ç ¸ô¼ö\n"
+"ÀúÀå"
+msgstr ""
+
+#. ID 174, Line 39
+msgid "¸ðµç À½¾ÇÀÌ Àá±Ý ÇØÁ¦µÇ¾ú½À´Ï´Ù."
+msgstr ""
+
+#. ID 174, Line 46
+msgid "¸ðµç À½¾ÇÀÌ ¸ô¼öµÇ¾ú½À´Ï´Ù."
+msgstr ""
+
+#. ID 174, Line 70
+#. Choice (4 options)
+msgid ""
+"ÀúÀå\n"
+"Scheme ÀÓÀÇ ¼±ÅÃ\n"
+"¸ðµç Scheme Àá±Ý ÇØÁ¦\n"
+"¸ðµç Scheme ¸ô¼ö"
+msgstr ""
+
+#. ID 174, Line 76
+msgid "ÇØ´ç Scheme¿¡ ÇØ´çÇÏ´Â °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä. 0 - 7"
+msgstr ""
+
+#. ID 174, Line 110
+msgid "¸ðµç SchemeÀÌ Àá±Ý ÇØÁ¦µÇ¾ú½À´Ï´Ù."
+msgstr ""
+
+#. ID 174, Line 113
+#. Contains choice at line 4 (1 options)
+msgid ""
+"!!!ÁÖÀÇ!!! ÀÌ ¿É¼ÇÀ» »ç¿ëÇÏ¸é Æ¯Á¤ ÀÌÆåÆ®, \n"
+"¸ðµç µµÀü°úÁ¦, ÀÏºÎ ÀÌº¥Æ®ÀÇ ´Þ¼ºµµ°¡ »ç¶óÁý´Ï´Ù!\n"
+"°è¼ÓÇÏ½Ã·Á¸é '¿¹'¸¦, ¾Æ´Ï¶ó¸é XÅ°¸¦ ´©¸£¼¼¿ä."
+msgstr ""
+
+#. ID 174, Line 116
+#. Choice (1 options, embedded in a message)
+msgid "¿¹"
+msgstr ""
+
+#. ID 174, Line 170
+msgid ""
+"¸ðµç SchemeÀÌ ¸ô¼ö µÇ¾ú½À´Ï´Ù.\n"
+"´ëºÎºÐÀÇ ÁøÇàµµ°¡ ÃÊ±âÈ­µÇ¾ú½À´Ï´Ù."
+msgstr ""
+

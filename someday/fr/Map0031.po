@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 6, Page 1, Line 8, Pos (13,27)
 msgid "                        TV"
@@ -19,3 +15,4 @@ msgstr "                        TV"
 #. ID 6, Page 1, Line 11, Pos (13,27)
 msgid "Press 1 to turn on and off."
 msgstr "Appuyez sur 1 pour allumer et éteindre."
+

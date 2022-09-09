@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
 #. Choice (3 options)
@@ -23,7 +19,13 @@ msgstr ""
 "Jouer à ZApNeF\n"
 "Quitter le bureau"
 
-#. ID 3, Page 2, Line 19, Pos (7,6)
+#. ID 2, Page 1, Line 57, Pos (11,4)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr ""
+
+#. ID 3, Page 2, Line 20, Pos (7,6)
 msgid ""
 "I'm sorry, but you seem to be playing a save file\n"
 "from a previous version of this game.\n"
@@ -33,7 +35,17 @@ msgstr ""
 "sauvegarde provienne d'une ancienne version.\n"
 "(v0.0\\V[10])"
 
-#. ID 3, Page 2, Line 22, Pos (7,6)
+#. ID 3, Page 2, Line 25, Pos (7,6)
+msgid ""
+"I'm sorry, but you seem to be playing a save file\n"
+"from a previous version of this game.\n"
+"(v0.\\V[10])"
+msgstr ""
+"Je suis désolée, mais il semblerai que votre\n"
+"sauvegarde provienne d'une ancienne version.\n"
+"(v0.\\V[10])"
+
+#. ID 3, Page 2, Line 30, Pos (7,6)
 msgid ""
 "Since this game has been modified, you may\n"
 "experience problems that would not occur if you\n"
@@ -49,5 +61,13 @@ msgid ""
 "You have accomplished a new feat!\n"
 "Feats: \\V[9]/32"
 msgstr ""
-"Vous avez accompli un nouvel exploit!\n"
-"Exploits: \\V[9]/32"
+"Vous avez accompli un nouvel exploit !\n"
+"Exploits : \\V[9]/32"
+
+#. ID 6, Page 1, Line 24, Pos (2,0)
+#. ID 6, Page 2, Line 25, Pos (2,0)
+msgid ""
+"??? ????? ???????!\n"
+"(???? ????? ???? ????)"
+msgstr ""
+

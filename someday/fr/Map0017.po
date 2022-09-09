@@ -8,7 +8,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans"
 
-#. ID 2, Page 1, Line 8, Pos (62,47)
-msgid "                       Scarf"
-msgstr "                     Écharpe"
+#. ID 35, Page 1, Line 8, Pos (63,64)
+#. ID 36, Page 1, Line 8, Pos (62,64)
+msgid "                       Nerd"
+msgstr "                       Nerd"
 
