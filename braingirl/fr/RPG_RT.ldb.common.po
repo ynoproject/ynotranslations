@@ -60,7 +60,7 @@ msgstr ""
 #. ID 15, Line 58
 #. Contains choice at line 2 (2 options)
 msgid "Turn on Debug Mode? This cannot be undone."
-msgstr "Activer le Debug Mode? Cela ne peut être annulé."
+msgstr "Activer le Debug Mode ? Cela ne peut être annulé."
 
 #. ID 15, Line 59
 #. Choice (2 options, embedded in a message)
@@ -75,7 +75,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "DEBUG"
-msgstr "DEBUG"
+msgstr ""
 
 #. ID 15, Line 64
 msgid ""

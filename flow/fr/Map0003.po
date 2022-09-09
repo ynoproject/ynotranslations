@@ -67,7 +67,7 @@ msgstr "Casque audio"
 #. ID 47, Page 1, Line 3, Pos (17,13)
 #. Contains choice at line 2 (2 options)
 msgid "エフェクト破棄"
-msgstr "Retirer effet?"
+msgstr "Retirer effet"
 
 #. ID 3, Page 1, Line 4, Pos (11,3)
 #. Choice (2 options, embedded in a message)
@@ -226,7 +226,7 @@ msgstr "Casque audio retiré"
 #. ID 47, Page 1, Line 23, Pos (17,13)
 #. Contains choice at line 2 (2 options)
 msgid "エフェクト取得"
-msgstr "Obtenir effet?"
+msgstr "Obtenir effet"
 
 #. ID 3, Page 1, Line 26, Pos (11,3)
 msgid "ヘッドフォン取得"
@@ -235,7 +235,7 @@ msgstr "Casque audio obtenu"
 #. ID 8, Page 1, Line 1, Pos (7,1)
 #. Contains choice at line 2 (3 options)
 msgid "エントランスの背景をきめてね"
-msgstr "Régler le fond de l'Entrée."
+msgstr "Régler le fond de l'Entrée"
 
 #. ID 8, Page 1, Line 2, Pos (7,1)
 #. Choice (3 options, embedded in a message)
@@ -262,7 +262,7 @@ msgstr "Arrosoir obtenu"
 
 #. ID 10, Page 1, Line 1, Pos (8,1)
 msgid "はやくはしるよ！"
-msgstr "Régler la vitesse?"
+msgstr "Régler la vitesse ?"
 
 #. ID 10, Page 1, Line 2, Pos (8,1)
 #. Choice (4 options)
@@ -281,7 +281,7 @@ msgstr ""
 #. Contains choice at line 2 (2 options)
 msgid "いつでもセーブ可能になるよ！"
 msgstr ""
-"Obtenir le moyen de sauvegarder n'importe où?\n"
+"Obtenir le moyen de sauvegarder n'importe où ?\n"
 "[4ème emplacement vide dans le Menu de Pause]"
 
 #. ID 11, Page 1, Line 2, Pos (9,1)
@@ -351,7 +351,7 @@ msgid ""
 msgstr ""
 "Balai [C'est comme Bicyclette + Sorcière de Yume\n"
 "Nikki. Je voulais vraiment un effet balai, donc...\n"
-"J'en ai fait un!]"
+"J'en ai fait un !]"
 
 #. ID 19, Page 1, Line 8, Pos (15,5)
 msgid "ほうき破棄"
@@ -363,7 +363,7 @@ msgstr "Balai obtenu"
 
 #. ID 20, Page 1, Line 1, Pos (10,1)
 msgid "メニュータイプ変更"
-msgstr "Changer le thème de Menu?"
+msgstr "Changer le thème de Menu"
 
 #. ID 20, Page 1, Line 2, Pos (10,1)
 #. Choice (4 options)
@@ -381,19 +381,19 @@ msgstr ""
 #. ID 20, Page 1, Line 5, Pos (10,1)
 msgid "メニュータイプflow"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu flow"
 
 #. ID 20, Page 1, Line 10, Pos (10,1)
 msgid "メニュータイプfc"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu Famicom"
 
 #. ID 20, Page 1, Line 15, Pos (10,1)
 msgid "メニュータイプドット"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu Point"
 
 #. ID 20, Page 1, Line 19, Pos (10,1)
@@ -412,25 +412,25 @@ msgstr ""
 #. ID 20, Page 1, Line 22, Pos (10,1)
 msgid "メニュータイプorange"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu Orange"
 
 #. ID 20, Page 1, Line 27, Pos (10,1)
 msgid "メニュータイプflower"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu Fleur"
 
 #. ID 20, Page 1, Line 32, Pos (10,1)
 msgid "メニュータイプsugar"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu Sucre"
 
 #. ID 20, Page 1, Line 37, Pos (10,1)
 msgid "メニュータイプrust"
 msgstr ""
-"Thème de Menu réglé sur:\n"
+"Thème de Menu réglé sur :\n"
 "Menu Rust"
 
 #. ID 21, Page 1, Line 1, Pos (17,5)
@@ -452,8 +452,8 @@ msgid ""
 "！！"
 msgstr ""
 "Bras\n"
-"[Comme Monoko: trop mignon, mignon, mignon, mignon, \n"
-"mignon!!!]"
+"[Comme Monoko : trop mignon, mignon, mignon, \n"
+"mignon, mignon !!!]"
 
 #. ID 24, Page 1, Line 8, Pos (13,9)
 msgid "うで破棄"
@@ -466,7 +466,7 @@ msgstr "Bras obtenu"
 #. ID 25, Page 1, Line 1, Pos (14,1)
 #. Contains choice at line 2 (2 options)
 msgid ".かそくそうち."
-msgstr "Accélérateur"
+msgstr ".Accélérateur."
 
 #. ID 25, Page 1, Line 2, Pos (14,1)
 #. Choice (2 options, embedded in a message)
@@ -518,11 +518,11 @@ msgstr ""
 
 #. ID 29, Page 1, Line 6, Pos (3,13)
 msgid "ver.ツインテールon"
-msgstr "Ver. couettes ON!"
+msgstr "Ver. couettes ON !"
 
 #. ID 29, Page 1, Line 11, Pos (3,13)
 msgid "ver.ツインテールoff"
-msgstr "Ver. couettes OFF!"
+msgstr "Ver. couettes OFF !"
 
 #. ID 31, Page 1, Line 1, Pos (11,9)
 msgid "スライム　ぶよぶよ強化。"

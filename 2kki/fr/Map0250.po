@@ -5,6 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,7 +15,7 @@ msgstr ""
 #. ID 2, Page 2, Line 100, Pos (1,2)
 #. Contains choice at line 2 (2 options)
 msgid "スタート地点に戻ります。"
-msgstr ""
+msgstr "Retourner au point de départ."
 
 #. ID 2, Page 2, Line 101, Pos (1,2)
 #. Choice (2 options, embedded in a message)
@@ -26,12 +27,16 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
+"Oui\n"
+"Non"
 
 #. ID 2, Page 2, Line 138, Pos (1,2)
 msgid ""
 "\n"
 "　　　　　　　現在位置をセーブしました"
 msgstr ""
+"\n"
+"Votre position actuelle a été sauvegardée."
 
 #. ID 3, Page 1, Line 3, Pos (212,226)
 #. ID 195, Page 1, Line 3, Pos (170,221)
@@ -41,6 +46,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　霜　柱　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　  Pilier gelé　　　　　　　　　　　"
 
 #. ID 10, Page 1, Line 3, Pos (129,13)
 #. ID 184, Page 1, Line 3, Pos (103,13)
@@ -50,6 +57,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　樹　氷　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　   Arbre glacé　　　　　　　　　　　"
 
 #. ID 13, Page 1, Line 3, Pos (89,57)
 #. ID 26, Page 1, Line 3, Pos (282,54)
@@ -59,6 +68,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　あられ　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　   　　Grêle　　　　　　　　　　　"
 
 #. ID 14, Page 1, Line 2, Pos (206,207)
 msgid "EniaruK."
@@ -72,6 +83,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　雪　華　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　   Flocon de neige　　　　　　　　　　　"
 
 #. ID 16, Page 1, Line 2, Pos (105,143)
 msgid ""
@@ -176,6 +189,8 @@ msgid ""
 "\n"
 "　　　　　　　　　　　氷　柱　　　　　　　　　　　"
 msgstr ""
+"\n"
+"　　　　　　　　　　Stalactite　　　　　　　　　　　"
 
 #. ID 167, Page 1, Line 2, Pos (43,237)
 msgid "AdnianeroboN."

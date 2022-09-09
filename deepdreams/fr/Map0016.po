@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 112, Page 1, Line 3, Pos (49,42)
 msgid "Get System: Arabian"
-msgstr "Système obtenu: Arabe"
+msgstr "Système obtenu : Arabe"

@@ -51,7 +51,7 @@ msgstr "Se réveiller!"
 #. ID 4
 msgctxt "skills.description"
 msgid "Rise and shine!"
-msgstr "Lève-toi et brille!"
+msgstr "Lève-toi et brille !"
 
 #. ID 5
 msgctxt "skills.name"
@@ -61,7 +61,7 @@ msgstr "Se réveiller?"
 #. ID 5
 msgctxt "skills.description"
 msgid "You're already awake!"
-msgstr "Tu es déjà réveillée!"
+msgstr "Tu es déjà réveillée !"
 
 #. ID 6
 #. ID 8
@@ -72,7 +72,7 @@ msgstr "Comment jouer"
 #. ID 6
 msgctxt "skills.description"
 msgid "Learn how to play the game!"
-msgstr "Apprends à jouer au jeu!"
+msgstr "Apprends à jouer au jeu !"
 
 #. ID 7
 #. ID 9
@@ -94,7 +94,7 @@ msgstr "Avance rapide"
 #. ID 1
 msgctxt "items.description"
 msgid "Speed up movement."
-msgstr "Accélères tes mouvements."
+msgstr "Accélère tes mouvements."
 
 #. ID 2
 msgctxt "items.description"
@@ -174,7 +174,7 @@ msgstr "Lampadaire"
 #. ID 11
 msgctxt "items.description"
 msgid "Generate light."
-msgstr "Génères de la lumière."
+msgstr "Génère de la lumière."
 
 #. ID 12
 msgctxt "items.description"
@@ -206,7 +206,7 @@ msgstr "Crayon"
 #. ID 15
 msgctxt "items.description"
 msgid "Scribble over objects and people."
-msgstr "Gribouilles sur les objets et les gens."
+msgstr "Gribouille sur les objets et les gens."
 
 #. ID 16
 msgctxt "items.description"
@@ -254,7 +254,7 @@ msgstr "Prise électrique"
 #. ID 21
 msgctxt "items.description"
 msgid "Carry a plug and a socket."
-msgstr "Portes une prise et une fiche."
+msgstr "Porte une prise et une fiche."
 
 #. ID 22
 msgctxt "items.description"
@@ -270,7 +270,7 @@ msgstr "Bouche"
 #. ID 23
 msgctxt "items.description"
 msgid "Replaces your head with a giant mouth."
-msgstr "Remplaces ta tête par une bouche géante."
+msgstr "Remplace ta tête par une bouche géante."
 
 #. ID 24
 msgctxt "items.description"
@@ -416,12 +416,12 @@ msgstr "Étoile"
 #. ID 51
 msgctxt "items.description"
 msgid "Become a shining star fit for the night sky!"
-msgstr "Deviens une brillante étoile comme le ciel étoilé!"
+msgstr "Deviens une brillante étoile comme le ciel étoilé !"
 
 #. ID 52
 msgctxt "items.description"
 msgid "A dream about stargazing."
-msgstr "Un rêve sur une nuit à la belle étoile."
+msgstr "Un rêve à propos d'une nuit à la belle étoile."
 
 #. ID 53
 #. ID 54
@@ -432,12 +432,12 @@ msgstr "Boîte à musique"
 #. ID 53
 msgctxt "items.description"
 msgid "Play a song with your head!"
-msgstr "Joues un son avec ta tête!"
+msgstr "Joue un son avec ta tête !"
 
 #. ID 54
 msgctxt "items.description"
 msgid "A dream about songbirds."
-msgstr "Un rêve sur les chants d'oiseaux."
+msgstr "Un rêve à propos de chants d'oiseaux."
 
 #. ID 55
 #. ID 56
@@ -453,7 +453,7 @@ msgstr "Les pleurs d'une demoiselle, c'est très toxique."
 #. ID 56
 msgctxt "items.description"
 msgid "A dream about a garden."
-msgstr "Un rêve avec un jardin."
+msgstr "Un rêve à propos d'un jardin."
 
 #. ID 57
 #. ID 58
@@ -464,12 +464,12 @@ msgstr ""
 #. ID 57
 msgctxt "items.description"
 msgid "Just like a superhero!"
-msgstr "Comme un super-héros!"
+msgstr "Comme un super-héros !"
 
 #. ID 58
 msgctxt "items.description"
 msgid "A dream about wind."
-msgstr "Un rêve lié au vent."
+msgstr "Un rêve à propos du vent."
 
 #. ID 59
 #. ID 60
@@ -480,7 +480,7 @@ msgstr "Lumière à UV"
 #. ID 59
 msgctxt "items.description"
 msgid "Become an ultra violet light!"
-msgstr "Deviens une lumière à ultra-violet!"
+msgstr "Deviens une lumière à ultra-violet !"
 
 #. ID 60
 msgctxt "items.description"
@@ -496,12 +496,12 @@ msgstr "Tournesol"
 #. ID 61
 msgctxt "items.description"
 msgid "A smiling flower!"
-msgstr "Une fleur souriante!"
+msgstr "Une fleur souriante !"
 
 #. ID 62
 msgctxt "items.description"
 msgid "A dream about sunlight."
-msgstr "Un rêve sur la lumière du soleil."
+msgstr "Un rêve à propos de la lumière du soleil."
 
 #. ID 63
 #. ID 64
@@ -512,12 +512,12 @@ msgstr "Bonnet de nuit"
 #. ID 63
 msgctxt "items.description"
 msgid "Sleepy in a dream?"
-msgstr "Fatiguée dans un rêve?"
+msgstr "Fatiguée dans un rêve ?"
 
 #. ID 64
 msgctxt "items.description"
 msgid "A dream about resting."
-msgstr "Un rêve sur le repos."
+msgstr "Un rêve à propos du repos."
 
 #. ID 65
 #. ID 66
@@ -528,7 +528,7 @@ msgstr "Papillon"
 #. ID 65
 msgctxt "items.description"
 msgid "Become a butterfly!"
-msgstr "Deviens un papillon!"
+msgstr "Deviens un papillon !"
 
 #. ID 66
 msgctxt "items.description"
@@ -544,12 +544,12 @@ msgstr "Sirène"
 #. ID 67
 msgctxt "items.description"
 msgid "Swim like a mermaid!"
-msgstr "Nages comme une sirène!"
+msgstr "Nage comme une sirène !"
 
 #. ID 68
 msgctxt "items.description"
 msgid "A dream about the ocean floor."
-msgstr "Un rêve sur le monde sous-marin."
+msgstr "Un rêve à propos du monde sous-marin."
 
 #. ID 69
 #. ID 70
@@ -560,7 +560,7 @@ msgstr "Queue de cheval"
 #. ID 69
 msgctxt "items.description"
 msgid "How do you like your hair done?"
-msgstr "Comment aimes-tu ta coupe de cheveux?"
+msgstr "Comment aimes-tu ta coupe de cheveux ?"
 
 #. ID 70
 msgctxt "items.description"
@@ -576,12 +576,12 @@ msgstr ""
 #. ID 71
 msgctxt "items.description"
 msgid "Arts and crafts on yourself!"
-msgstr "Arts et plis fait mains!"
+msgstr "Arts et plis faits main !"
 
 #. ID 72
 msgctxt "items.description"
 msgid "A dream about creativity."
-msgstr "Un rêve sur la créativité."
+msgstr "Un rêve à propos de la créativité."
 
 #. ID 73
 #. ID 74
@@ -592,12 +592,12 @@ msgstr ""
 #. ID 73
 msgctxt "items.description"
 msgid "Ever wanted to live inside a computer?"
-msgstr "Toujours eue envie de vivre dans un ordinateur?"
+msgstr "Toujours eue envie de vivre dans un ordinateur ?"
 
 #. ID 74
 msgctxt "items.description"
 msgid "A dream about a bright future."
-msgstr "Un rêve sur un futur radieux."
+msgstr "Un rêve à propos d'un futur radieux."
 
 #. ID 75
 msgctxt "items.name"
@@ -618,7 +618,7 @@ msgstr "Château de sable"
 #. ID 77
 msgctxt "items.description"
 msgid "Become a fortress amidst the sand!"
-msgstr "Deviens une forteresse sableuse!"
+msgstr "Deviens une forteresse sableuse !"
 
 #. ID 78
 msgctxt "items.description"
@@ -738,7 +738,7 @@ msgstr ""
 #. ID 100
 msgctxt "items.description"
 msgid "If you have this, Pat messed something up!"
-msgstr "Si vous avez ça, Pat s'est foiré quelque part!"
+msgstr "Si vous avez ça, Pat s'est foiré quelque part !"
 
 #. ID 101
 msgctxt "items.name"
@@ -748,7 +748,7 @@ msgstr "OBJET DE DEBUG"
 #. ID 101
 msgctxt "items.description"
 msgid "For developers and the curious!"
-msgstr "Pour les développeurs et les curieux!"
+msgstr "Pour les développeurs et les curieux !"
 
 #. ID 110
 msgctxt "items.name"
@@ -803,7 +803,7 @@ msgstr "Cheveux rouges"
 #. ID 116
 msgctxt "items.description"
 msgid "Soft and shiny, with some cute pigtails too!"
-msgstr "Doux et brillants, avec quelques mignonnes nattes!"
+msgstr "Doux et brillants, avec quelques mignonnes nattes !"
 
 #. ID 117
 msgctxt "items.name"
@@ -823,7 +823,7 @@ msgstr "Optimiste"
 #. ID 120
 msgctxt "items.description"
 msgid "Everything will be alright!"
-msgstr "Tout ira bien!"
+msgstr "Tout ira bien !"
 
 msgctxt "terms.attacking"
 msgid "‚ÌUŒ‚I"
@@ -1019,7 +1019,7 @@ msgstr "Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "Exit to title screen?"
-msgstr "Retourner à l'écran titre?"
+msgstr "Retourner à l'écran titre ?"
 
 msgctxt "terms.yes"
 msgid "Yes"

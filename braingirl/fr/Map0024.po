@@ -71,7 +71,7 @@ msgstr ""
 #. ID 20, Page 1, Line 7, Pos (3,4)
 #. ID 21, Page 1, Line 7, Pos (6,5)
 msgid "Menu type successfully changed!"
-msgstr "Le Thème du Menu a été changé!"
+msgstr "Le Thème du Menu a été changé !"
 
 #. ID 2, Page 1, Line 2, Pos (6,4)
 #. Contains choice at line 2 (2 options)
@@ -122,7 +122,7 @@ msgstr "Sons systèmes $rPoulpe$r"
 #. ID 15, Page 1, Line 10, Pos (5,10)
 #. ID 17, Page 1, Line 10, Pos (7,10)
 msgid "System sounds successfully changed!"
-msgstr "Les sons systèmes ont été changés!"
+msgstr "Les sons systèmes ont été changés !"
 
 #. ID 15, Page 1, Line 2, Pos (5,10)
 #. Contains choice at line 2 (2 options)

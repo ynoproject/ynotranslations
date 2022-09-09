@@ -173,7 +173,7 @@ msgstr ""
 
 #. ID 3, Page 1, Line 6, Pos (11,3)
 msgid "ヘッドフォン破棄"
-msgstr "Auriculares descartados"
+msgstr "Auriculares descartados."
 
 #. ID 3, Page 1, Line 23, Pos (11,3)
 #. Contains choice at line 2 (2 options)
@@ -307,15 +307,15 @@ msgstr "Tubo de Hierro obtenido"
 
 #. ID 15, Page 1, Line 1, Pos (17,3)
 msgid "モノアイ　かわいい"
-msgstr "Ojo Monocular [¡Lindo!]"
+msgstr "Un ojo [¡Lindo!]"
 
 #. ID 15, Page 1, Line 6, Pos (17,3)
 msgid "モノアイ破棄"
-msgstr "Ojo Monocular Descartado"
+msgstr "Un ojo Descartado"
 
 #. ID 15, Page 1, Line 26, Pos (17,3)
 msgid "モノアイ取得"
-msgstr "Ojo Monocular Obtenido"
+msgstr "Un ojo Obtenido"
 
 #. ID 16, Page 1, Line 1, Pos (11,5)
 msgid "せんすいふく　ふく…？"

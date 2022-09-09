@@ -43,28 +43,28 @@ msgstr ""
 
 #. ID 23, Page 1, Line 9, Pos (15,8)
 msgid "BGM ID: (1-1400)"
-msgstr "ID de la piste: (1-1400)"
+msgstr "ID de la piste : (1-1400)"
 
 #. ID 23, Page 1, Line 12, Pos (15,8)
 #. ID 23, Page 1, Line 17, Pos (15,8)
 msgid "The value needs to be in the range of 1-1400!"
-msgstr "La valeur doit être entre 1 et 1400!"
+msgstr "La valeur doit être entre 1 et 1400 !"
 
 #. ID 23, Page 1, Line 22, Pos (15,8)
 msgid "Variation: (1-8)"
-msgstr ""
+msgstr "Variation : (1-8)"
 
 #. ID 23, Page 1, Line 25, Pos (15,8)
 #. ID 23, Page 1, Line 30, Pos (15,8)
 msgid "The value needs to be in the range of 1-8!"
-msgstr "La valeur doit être entre 1 et 8!"
+msgstr "La valeur doit être entre 1 et 8 !"
 
 #. ID 23, Page 1, Line 39, Pos (15,8)
 #. Contains choice at line 2 (2 options)
 #. ID 23, Page 1, Line 54, Pos (15,8)
 #. Contains choice at line 2 (2 options)
 msgid "Are you sure?"
-msgstr "Êtes-vous sûr?"
+msgstr "Êtes-vous sûr ?"
 
 #. ID 23, Page 1, Line 40, Pos (15,8)
 #. Choice (2 options, embedded in a message)

@@ -15,7 +15,7 @@ msgstr ""
 #. ID 14, Page 1, Line 1, Pos (6,7)
 #. Contains choice at line 2 (2 options)
 msgid "すべて　すてますか　？"
-msgstr "Voulez-vous tout jeter?"
+msgstr "Voulez-vous tout jeter ?"
 
 #. ID 14, Page 1, Line 2, Pos (6,7)
 #. Choice (2 options, embedded in a message)

@@ -16,7 +16,7 @@ msgstr ""
 #. ID 17, Page 1, Line 2, Pos (6,3)
 #. Contains choice at line 2 (2 options)
 msgid "デバッグルーム"
-msgstr "Salle de Debug?"
+msgstr "Salle de Debug ?"
 
 #. ID 17, Page 1, Line 3, Pos (6,3)
 #. Choice (2 options, embedded in a message)

@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 1, Line 4, Pos (2,1)
+#. Choice (4 options)
+msgid ""
+"　　　　　　　　さいしょから\n"
+"　　　　　　　　 つづきから\n"
+"　　　　　　　　　せつめい\n"
+"　　　　　　　 ゲームをおわる"
+msgstr ""
+"　　　　　　　　　  Start\n"
+"　　　　　　　　　Continue\n"
+"　　　　　　　  Instructions\n"
+"　　　　　　　 　 Quit Game"
+
+#. ID 1, Page 1, Line 7, Pos (2,1)
+msgid "　　　　　　　データが初期化されました"
+msgstr "　　　　　　　Data has been initialized"
+
+#. ID 1, Page 1, Line 63, Pos (2,1)
+msgid "セーブデータがありません"
+msgstr "No save data"
+
+#. ID 1, Page 1, Line 68, Pos (2,1)
+msgid "迷路の中に落ちている5種類+αの氷を集めるゲームです。"
+msgstr ""
+"This is a game where you collect 5 (and then some)\n"
+"forms of ice that have fallen in the maze."
+
+#. ID 1, Page 1, Line 69, Pos (2,1)
+msgid ""
+"アイテム：所持してる氷を確認\n"
+"もどる：初期位置に戻ります\n"
+"セーブ：現在地を記録します\n"
+"おわる：ここに戻ります"
+msgstr ""
+"Item: Check the ice in your possession\n"
+"Return: Return to the starting position\n"
+"Save: Saves your current location\n"
+"Quit: Return to the menu"
+
+#. ID 1, Page 1, Line 73, Pos (2,1)
+msgid ""
+"一度クリアする、最初からプレイすると\n"
+"位置情報、取得した氷のデータが初期化されます。"
+msgstr ""
+"By clearing the game once, or playing from the\n"
+"start, data regarding your location and acquired\n"
+"ice will be initialized."
+
+#. ID 1, Page 1, Line 75, Pos (2,1)
+msgid ""
+"なお、このゲーム内でのセーブは簡易セーブです。\n"
+"「つづきから」を選択した場合、\n"
+"セーブした場所からスタートします。"
+msgstr ""
+"Keep in mind that saving in-game is simple.\n"
+"By selecting \"Continue\", the game starts from\n"
+"where you have last saved."
+
+#. ID 1, Page 1, Line 79, Pos (2,1)
+msgid ""
+"★既クリア特典★\n"
+"氷を一気に取得できるキャラクターが\n"
+"どこかに出現しました。"
+msgstr ""
+"★Benefits on Clearing★\n"
+"Somewhere, a character who can acquire ice\n"
+"all at once will appear."
+
+#. ID 1, Page 1, Line 85, Pos (2,1)
+msgid ""
+"何度もゲームを読み込むことで超高速にできます。\n"
+"デバッグモードでシフトを押すと\n"
+"うろつきの等速になります。"
+msgstr ""
+
+#. ID 1, Page 1, Line 88, Pos (2,1)
+msgid ""
+"GOODとBADの分かれ目は新しく実装された粉雪です。\n"
+"その辺ふよふよしてるのを30個集めたらBADです。\n"
+"99個以上取ると多分表示がバグります。"
+msgstr ""

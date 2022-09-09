@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 51, Page 1, Line 4, Pos (19,27)
 msgid "Get Alter: Toxic"
-msgstr "Alter obtenu: Toxique"
+msgstr "Alter obtenu : Toxique"

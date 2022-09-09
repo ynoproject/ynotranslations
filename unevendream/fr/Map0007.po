@@ -29,7 +29,7 @@ msgstr ""
 #. ID 2, Page 1, Line 1, Pos (5,4)
 #. Contains choice at line 2 (2 options)
 msgid "Hey, it's Backbeat Anthem. Aquire KUBOEFFECT03?"
-msgstr "Hé, c'est Backbeat Anthem. Obtenir KUBOEFFET03?"
+msgstr "Hé, c'est Backbeat Anthem. Obtenir KUBOEFFET03 ?"
 
 #. ID 2, Page 1, Line 2, Pos (5,4)
 #. Choice (2 options, embedded in a message)
@@ -97,7 +97,7 @@ msgstr "\\>Comment t'as fait pour faire ça"
 #. ID 65, Page 3, Line 1, Pos (12,4)
 #. Contains choice at line 2 (2 options)
 msgid "\\>Wanna jump?"
-msgstr "\\>Tu veux sauter?"
+msgstr "\\>Tu veux sauter ?"
 
 #. ID 65, Page 2, Line 2, Pos (12,4)
 #. Choice (2 options, embedded in a message)
@@ -116,7 +116,7 @@ msgid ""
 "\\>\"activate\" chaser? (if it catches you, you can\n"
 "\\>choose not to be warped somewhere else)"
 msgstr ""
-"\\>\"activer\" le chasseur? (si il t'attrape, tu peux\n"
+"\\>\"activer\" le chasseur ? (si il t'attrape, tu peux\n"
 "\\>choisir de ne pas te faire téléporter autre part)"
 
 #. ID 66, Page 2, Line 1, Pos (14,4)
@@ -135,11 +135,11 @@ msgstr "\\>Test aquatique"
 
 #. ID 70, Page 1, Line 1, Pos (18,4)
 msgid "wallpaper to modify:"
-msgstr "fond d'écran à modifier:"
+msgstr "fond d'écran à modifier :"
 
 #. ID 70, Page 1, Line 3, Pos (18,4)
 msgid "what do you want to do?"
-msgstr "que veux-tu faire?"
+msgstr "que veux-tu faire ?"
 
 #. ID 70, Page 1, Line 4, Pos (18,4)
 #. Choice (4 options)
@@ -157,7 +157,7 @@ msgstr ""
 #. ID 71, Page 1, Line 1, Pos (21,4)
 #. Contains choice at line 2 (3 options)
 msgid "Braille events:"
-msgstr "Événements en Braille:"
+msgstr "Événements en Braille :"
 
 #. ID 71, Page 1, Line 2, Pos (21,4)
 #. Choice (3 options, embedded in a message)
@@ -184,12 +184,12 @@ msgid ""
 "Braille."
 msgstr ""
 "Tous les Easter eggs en Braille seront affichés en \n"
-"Tenji/Japanese, Braille."
+"Tenji/Japonais, Braille."
 
 #. ID 72, Page 1, Line 1, Pos (23,5)
 #. Contains choice at line 2 (2 options)
 msgid "Play current credits?"
-msgstr "Lancer les crédits actuels?"
+msgstr "Lancer les crédits actuels ?"
 
 #. ID 72, Page 1, Line 9, Pos (23,5)
 #. ID 76, Page 1, Line 8, Pos (23,3)
@@ -197,11 +197,13 @@ msgid ""
 "Team uneven:\n"
 "\n"
 msgstr ""
+"Team uneven :\n"
+"\n"
 
 #. ID 72, Page 1, Line 12, Pos (23,5)
 #. ID 76, Page 1, Line 11, Pos (23,3)
 msgid "Administrators:"
-msgstr "Administrateurs:"
+msgstr "Administrateurs :"
 
 #. ID 72, Page 1, Line 13, Pos (23,5)
 msgid "FD"
@@ -213,7 +215,7 @@ msgstr ""
 
 #. ID 72, Page 1, Line 15, Pos (23,5)
 msgid "Members and contributors:"
-msgstr "Membres et contributeurs:"
+msgstr "Membres et contributeurs :"
 
 #. ID 72, Page 1, Line 16, Pos (23,5)
 msgid "OLM"
@@ -305,17 +307,17 @@ msgstr ""
 
 #. ID 72, Page 1, Line 42, Pos (23,5)
 msgid "Thanks for playing!"
-msgstr "Merci d'avoir joué!"
+msgstr "Merci d'avoir joué !"
 
 #. ID 75, Page 1, Line 1, Pos (19,4)
 #. Contains choice at line 2 (2 options)
 msgid "unlock all wallpapers?"
-msgstr "débloquer tous les fonds d'écrans?"
+msgstr "débloquer tous les fonds d'écrans ?"
 
 #. ID 76, Page 1, Line 1, Pos (23,3)
 #. Contains choice at line 2 (2 options)
 msgid "Play Current Credits?"
-msgstr "Jouer les crédits actuels?"
+msgstr "Jouer les crédits actuels ?"
 
 #. ID 76, Page 1, Line 12, Pos (23,3)
 msgid ""
@@ -334,7 +336,7 @@ msgstr ""
 
 #. ID 76, Page 1, Line 19, Pos (23,3)
 msgid "Members And Contributors:"
-msgstr "Membres et contributeurs:"
+msgstr "Membres et contributeurs :"
 
 #. ID 76, Page 1, Line 20, Pos (23,3)
 msgid ""
@@ -414,7 +416,7 @@ msgstr ""
 
 #. ID 76, Page 1, Line 48, Pos (23,3)
 msgid "Usages: "
-msgstr ""
+msgstr "Usages : "
 
 #. ID 76, Page 1, Line 49, Pos (23,3)
 msgid ""
@@ -610,28 +612,28 @@ msgstr ""
 
 #. ID 79, Page 1, Line 9, Pos (28,4)
 msgid "BGM ID: (1-1400)"
-msgstr "ID de la piste: (1-1400)"
+msgstr "ID de la piste : (1-1400)"
 
 #. ID 79, Page 1, Line 12, Pos (28,4)
 #. ID 79, Page 1, Line 17, Pos (28,4)
 msgid "The value needs to be in the range of 1-1400!"
-msgstr "La valeur doit être entre 1 et 1400!"
+msgstr "La valeur doit être entre 1 et 1400 !"
 
 #. ID 79, Page 1, Line 22, Pos (28,4)
 msgid "Variation: (1-8)"
-msgstr ""
+msgstr "Variation : (1-8)"
 
 #. ID 79, Page 1, Line 25, Pos (28,4)
 #. ID 79, Page 1, Line 30, Pos (28,4)
 msgid "The value needs to be in the range of 1-8!"
-msgstr "La valeur doit être entre 1 et 8!"
+msgstr "La valeur doit être entre 1 et 8 !"
 
 #. ID 79, Page 1, Line 39, Pos (28,4)
 #. Contains choice at line 2 (2 options)
 #. ID 79, Page 1, Line 54, Pos (28,4)
 #. Contains choice at line 2 (2 options)
 msgid "Are you sure?"
-msgstr "Êtes-vous sûr?"
+msgstr "Êtes-vous sûr ?"
 
 #. ID 79, Page 1, Line 76, Pos (28,4)
 msgid "BGM Unlock debug messages are now ON."
