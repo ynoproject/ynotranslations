@@ -343,6 +343,26 @@ msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
 msgstr "杀了森林里的胡蜂并回来"
 
+#. ID 33
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: À½¾Ç ¼öÁý°¡"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "¸ðµç À½¾ÇÀ» Àá±Ý ÇØÁ¦ÇÏ¼¼¿ä."
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "¼û°ÜÁü: >9000"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "¾Æ¹« ZapNeF ·¹º§¿¡¼­ 9000Á¡À» ÃÊ°úÇÏ¿© ¿Ï·áÇÏ¼¼¿ä."
+msgstr ""
+
 #. ID 1
 msgctxt "items.name"
 msgid "Scooter"
@@ -852,6 +872,26 @@ msgstr "(食梦)"
 msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
 msgstr "别怕成为自己"
+
+#. ID 52
+msgctxt "items.name"
+msgid "(¹öÀü: ¹Ù´Ò¶ó)"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "(¹Ù´Ò¶óÆÇÀÔ´Ï´Ù.)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "(¹öÀü: È®ÀåÆÇ)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.description"
+msgid "È®ÀåÆÇÀÔ´Ï´Ù."
+msgstr ""
 
 #. ID 1
 msgctxt "states.message_actor"

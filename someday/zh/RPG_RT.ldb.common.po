@@ -64,3 +64,80 @@ msgstr ""
 "在幸运模式中，随机事件会发生得更频繁！\n"
 "\\|嘘... \\.不要告诉任何人..."
 
+#. ID 171, Line 14
+#. ID 171, Line 32
+#. ID 171, Line 50
+#. ID 171, Line 68
+#. ID 171, Line 86
+#. ID 171, Line 104
+#. ID 171, Line 122
+#. ID 171, Line 140
+msgid "           ¸Þ´º ±×·¡ÇÈÀÌ º¯°æµÇ¾ú½À´Ï´Ù!"
+msgstr ""
+
+#. ID 174, Line 4
+#. Choice (3 options)
+msgid ""
+"Save\n"
+"Speed 5\n"
+"Debug Room"
+msgstr ""
+
+#. ID 174, Line 30
+#. ID 174, Line 69
+msgid "TESTMODE¸¦ »ç¿ëÇÏ°í ÀÖ½À´Ï´Ù. ¿É¼Ç ¼±ÅÃ:"
+msgstr ""
+
+#. ID 174, Line 31
+#. Choice (4 options)
+msgid ""
+"À½¾Ç ´Þ¼ºµµ(Music Rate) Ç¥½Ã\n"
+"¸ðµç À½¾Ç Àá±Ý ÇØÁ¦\n"
+"¸ðµç À½¾Ç ¸ô¼ö\n"
+"ÀúÀå"
+msgstr ""
+
+#. ID 174, Line 39
+msgid "¸ðµç À½¾ÇÀÌ Àá±Ý ÇØÁ¦µÇ¾ú½À´Ï´Ù."
+msgstr ""
+
+#. ID 174, Line 46
+msgid "¸ðµç À½¾ÇÀÌ ¸ô¼öµÇ¾ú½À´Ï´Ù."
+msgstr ""
+
+#. ID 174, Line 70
+#. Choice (4 options)
+msgid ""
+"ÀúÀå\n"
+"Scheme ÀÓÀÇ ¼±ÅÃ\n"
+"¸ðµç Scheme Àá±Ý ÇØÁ¦\n"
+"¸ðµç Scheme ¸ô¼ö"
+msgstr ""
+
+#. ID 174, Line 76
+msgid "ÇØ´ç Scheme¿¡ ÇØ´çÇÏ´Â °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä. 0 - 7"
+msgstr ""
+
+#. ID 174, Line 110
+msgid "¸ðµç SchemeÀÌ Àá±Ý ÇØÁ¦µÇ¾ú½À´Ï´Ù."
+msgstr ""
+
+#. ID 174, Line 113
+#. Contains choice at line 4 (1 options)
+msgid ""
+"!!!ÁÖÀÇ!!! ÀÌ ¿É¼ÇÀ» »ç¿ëÇÏ¸é Æ¯Á¤ ÀÌÆåÆ®, \n"
+"¸ðµç µµÀü°úÁ¦, ÀÏºÎ ÀÌº¥Æ®ÀÇ ´Þ¼ºµµ°¡ »ç¶óÁý´Ï´Ù!\n"
+"°è¼ÓÇÏ½Ã·Á¸é '¿¹'¸¦, ¾Æ´Ï¶ó¸é XÅ°¸¦ ´©¸£¼¼¿ä."
+msgstr ""
+
+#. ID 174, Line 116
+#. Choice (1 options, embedded in a message)
+msgid "¿¹"
+msgstr ""
+
+#. ID 174, Line 170
+msgid ""
+"¸ðµç SchemeÀÌ ¸ô¼ö µÇ¾ú½À´Ï´Ù.\n"
+"´ëºÎºÐÀÇ ÁøÇàµµ°¡ ÃÊ±âÈ­µÇ¾ú½À´Ï´Ù."
+msgstr ""
+
