@@ -345,22 +345,22 @@ msgstr "杀了森林里的胡蜂并回来"
 
 #. ID 33
 msgctxt "skills.name"
-msgid "¼û°ÜÁü: À½¾Ç ¼öÁý°¡"
+msgid "H: Music collector"
 msgstr ""
 
 #. ID 33
 msgctxt "skills.description"
-msgid "¸ðµç À½¾ÇÀ» Àá±Ý ÇØÁ¦ÇÏ¼¼¿ä."
+msgid "Unlock every music from Music Folders"
 msgstr ""
 
 #. ID 34
 msgctxt "skills.name"
-msgid "¼û°ÜÁü: >9000"
+msgid "H: >9000"
 msgstr ""
 
 #. ID 34
 msgctxt "skills.description"
-msgid "¾Æ¹« ZapNeF ·¹º§¿¡¼­ 9000Á¡À» ÃÊ°úÇÏ¿© ¿Ï·áÇÏ¼¼¿ä."
+msgid "Achieve 9001 or more points on any ZapNeF minigame"
 msgstr ""
 
 #. ID 1
@@ -875,22 +875,22 @@ msgstr "别怕成为自己"
 
 #. ID 52
 msgctxt "items.name"
-msgid "(¹öÀü: ¹Ù´Ò¶ó)"
+msgid "(Version: Vanilla)"
 msgstr ""
 
 #. ID 52
 msgctxt "items.description"
-msgid "(¹Ù´Ò¶óÆÇÀÔ´Ï´Ù.)"
+msgid "(It's Vanilla version.)"
 msgstr ""
 
 #. ID 53
 msgctxt "items.name"
-msgid "(¹öÀü: È®ÀåÆÇ)"
+msgid "(Version: Extended)"
 msgstr ""
 
 #. ID 53
 msgctxt "items.description"
-msgid "È®ÀåÆÇÀÔ´Ï´Ù."
+msgid "Extention pack has been applied."
 msgstr ""
 
 #. ID 1
