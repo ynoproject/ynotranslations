@@ -194,7 +194,7 @@ msgstr ""
 "And you can only fit four lines per message. Cool."
 
 #. ID 45, Page 1, Line 5, Pos (3,1)
-msgid "*ÆùÆ®¸¶´Ù ´Ù¸¨´Ï´Ù."
+msgid "*It depends on which fonts you chose earlier."
 msgstr "*폰트마다 다릅니다."
 
 #. ID 46, Page 1, Line 1, Pos (8,4)
