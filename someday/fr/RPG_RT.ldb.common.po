@@ -78,7 +78,7 @@ msgstr ""
 #. ID 171, Line 122
 #. ID 171, Line 140
 msgid "           Scheme has been changed!"
-msgstr "                     Thème changé !"
+msgstr "                  Thème changé !"
 
 #. ID 174, Line 4
 #. Choice (3 options)
@@ -150,7 +150,7 @@ msgstr ""
 "!!!ATTENTION!!! UTILISER CETTE FONCTION\n"
 "VA RÉINITIALISER CERTAINS EFFETS, EXPLOITS\n"
 "ET LA COMPLÉTION DE CERTAINS ÉVÉNEMENTS !\n"
-"Appuyez sur 'Oui' pour initialiser et 'Non' pour annuler."
+"'Oui' pour initialiser et 'Non' pour annuler."
 
 #. ID 174, Line 117
 #. Choice (1 options)
