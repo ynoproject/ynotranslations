@@ -190,7 +190,7 @@ msgstr "Certains poissons sont fascinants."
 #. ID 17
 msgctxt "skills.name"
 msgid "Tinnitus"
-msgstr "Tintement"
+msgstr "Acouphène"
 
 #. ID 17
 msgctxt "skills.description"
