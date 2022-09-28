@@ -136,15 +136,14 @@ msgid "All Schemes has been unlocked."
 msgstr "Se han desbloqueado todos los tipos de menu."
 
 #. ID 174, Line 113
-#, fuzzy
 msgid ""
 "!!!WARNING!!! USING THIS FUNCTION WILL INITIALIZE\n"
 "CERTAIN EFFECTS, ALL FEATS, \n"
 "AND CERTAIN EVENT COMPLETION CHECKER!\n"
 "Press 'Yes' to initiate and press 'No' to cancel."
 msgstr ""
-"!!!ATENCION!!! USAR ESTA FUNCION INICIALIZARA CIERTOS EFECTOS, TODOS LOS\n"
-"LOGROS, Y CIERTAS COMPROBACIONES DE FINALIZACION DE EVENTOS!\n"
+"ATENCION!!! ESTA FUNCION REINICIARA EFECTOS, TODOS\n"
+"LOS LOGROS, Y CIERTAS COMPROBACIONES DE EVENTOS!\n"
 "Pulsa 'Si' para iniciar y 'No' para cancelar."
 
 #. ID 174, Line 117
