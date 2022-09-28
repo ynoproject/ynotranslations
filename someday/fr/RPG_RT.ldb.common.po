@@ -77,7 +77,7 @@ msgstr ""
 #. ID 171, Line 104
 #. ID 171, Line 122
 #. ID 171, Line 140
-msgid "           Scheme has been changed!"
+msgid "             Scheme has been changed!"
 msgstr "                  Thème changé !"
 
 #. ID 174, Line 4
@@ -133,8 +133,8 @@ msgstr ""
 #. ID 174, Line 76
 msgid "Input value between 0-7 that corresponds to Scheme ID."
 msgstr ""
-"Entrez une valeur entre 0 et 7 correspondant\n"
-"à l'ID du thème voulu."
+"Entrez une valeur entre 0 et 7 correspondant à \n"
+"l'ID du thème voulu."
 
 #. ID 174, Line 110
 msgid "All Schemes has been unlocked."
