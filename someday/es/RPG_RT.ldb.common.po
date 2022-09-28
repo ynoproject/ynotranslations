@@ -77,7 +77,7 @@ msgstr ""
 #. ID 171, Line 104
 #. ID 171, Line 122
 #. ID 171, Line 140
-msgid "           Scheme has been changed!"
+msgid "             Scheme has been changed!"
 msgstr "              Tipo de menu cambiado!"
 
 #. ID 174, Line 4
