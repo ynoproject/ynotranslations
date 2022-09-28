@@ -111,7 +111,7 @@ msgid ""
 "Save\n"
 "Chooses arbitrary Scheme\n"
 "Unlocks all Schemes\n"
-"Confiscates all Schemes"
+"Revokes all Schemes"
 msgstr ""
 
 #. ID 174, Line 76
