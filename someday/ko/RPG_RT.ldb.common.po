@@ -76,7 +76,7 @@ msgstr ""
 #. ID 171, Line 104
 #. ID 171, Line 122
 #. ID 171, Line 140
-msgid "           Scheme has been changed!"
+msgid "             Scheme has been changed!"
 msgstr "           메뉴 그래픽이 변경되었습니다!"
 
 #. ID 174, Line 4
