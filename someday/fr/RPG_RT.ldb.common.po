@@ -94,7 +94,7 @@ msgstr ""
 #. ID 174, Line 30
 #. ID 174, Line 69
 msgid "TESTMODE is currently activated. Choose option:"
-msgstr "Le TESTMODE est actif. Choisir une option:"
+msgstr "Le TESTMODE est actif. Choisir une option :"
 
 #. ID 174, Line 31
 #. Choice (4 options)
