@@ -13,14 +13,16 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
-#. Choice (3 options)
+#. Choice (4 options)
 msgid ""
 "Save\n"
 "Play ZApNeF\n"
+"Cache Setting\n"
 "Nevermind"
 msgstr ""
 "기록하기\n"
 "ZApNeF 플레이하기\n"
+"캐시 설정\n"
 "관두자"
 
 #. ID 2, Page 1, Line 57, Pos (11,4)
@@ -28,6 +30,61 @@ msgstr ""
 msgctxt "actors.name"
 msgid "Itsuki"
 msgstr "잇츠키"
+
+#. ID 2, Page 1, Line 133, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : ON) \\<\n"
+"As you read a file, it loads all BGM and SE cache.\n"
+"Disable this option as save progress takes longer\n"
+"than usual."
+msgstr ""
+"\\> 캐시 로드 (현재 설정: ON) \\<\n"
+"게임을 로드할 때, 모든 음악 및 효과음 캐시를 불러옵니다.\n"
+"로딩 속도를 향상하고 싶다면, OFF로 전환해주세요."
+
+#. ID 2, Page 1, Line 137, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : ON) \\<"
+msgstr "\\> 캐시 로드 (현재 설정: ON) \\<"
+
+#. ID 2, Page 1, Line 138, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 160, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+"ON\n"
+"OFF"
+
+#. ID 2, Page 1, Line 141, Pos (11,4)
+#. ID 2, Page 1, Line 168, Pos (11,4)
+msgid " Current setting has been retained."
+msgstr "현재 설정을 유지합니다."
+
+#. ID 2, Page 1, Line 146, Pos (11,4)
+msgid " Cache Load has been disabled."
+msgstr "OFF로 전환합니다."
+
+#. ID 2, Page 1, Line 156, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : OFF)\\<\n"
+"Proceeds without loading cache.\n"
+"Enable this option as you experience slow down."
+msgstr ""
+"\\> 캐시 로드 (현재 설정: OFF) \\<\n"
+"캐시를 로드하지 않고 진행합니다.\n"
+"만약 진행 도중 버벅이는 현상이 있다면 ON으로 전환해주세요."
+
+#. ID 2, Page 1, Line 159, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : OFF)\\<"
+msgstr "\\> 캐시 로드 (현재 설정: OFF) \\<"
+
+#. ID 2, Page 1, Line 164, Pos (11,4)
+msgid " Cache Load has been enabled."
+msgstr "ON로 전환합니다."
 
 #. ID 3, Page 2, Line 20, Pos (7,6)
 msgid ""
