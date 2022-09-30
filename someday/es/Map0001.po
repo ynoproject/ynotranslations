@@ -13,20 +13,70 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
-#. Choice (3 options)
+#. Choice (4 options)
+#, fuzzy
 msgid ""
 "Save\n"
 "Play ZApNeF\n"
+"Cache Setting\n"
 "Nevermind"
 msgstr ""
 "Guardar\n"
 "Jugar a ZApNeF\n"
+"Cache Setting\n"
 "No importa"
 
 #. ID 2, Page 1, Line 57, Pos (11,4)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "Itsuki"
+msgstr ""
+
+#. ID 2, Page 1, Line 133, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : ON) \\<\n"
+"As you read a file, it loads all BGM and SE cache.\n"
+"Disable this option as save progress takes longer\n"
+"than usual."
+msgstr ""
+
+#. ID 2, Page 1, Line 137, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : ON) \\<"
+msgstr ""
+
+#. ID 2, Page 1, Line 138, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 160, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+
+#. ID 2, Page 1, Line 141, Pos (11,4)
+#. ID 2, Page 1, Line 168, Pos (11,4)
+msgid " Current setting has been retained."
+msgstr ""
+
+#. ID 2, Page 1, Line 146, Pos (11,4)
+msgid " Cache Load has been disabled."
+msgstr ""
+
+#. ID 2, Page 1, Line 156, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : OFF)\\<\n"
+"Proceeds without loading cache.\n"
+"Enable this option as you experience slow down."
+msgstr ""
+
+#. ID 2, Page 1, Line 159, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : OFF)\\<"
+msgstr ""
+
+#. ID 2, Page 1, Line 164, Pos (11,4)
+msgid " Cache Load has been enabled."
 msgstr ""
 
 #. ID 3, Page 2, Line 20, Pos (7,6)
