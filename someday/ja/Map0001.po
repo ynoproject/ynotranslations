@@ -1,22 +1,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
-#. Choice (3 options)
+#. Choice (4 options)
+#, fuzzy
 msgid ""
 "Save\n"
 "Play ZApNeF\n"
+"Cache Setting\n"
 "Nevermind"
 msgstr ""
 "ブログを書く\n"
 "ZApNeFをする\n"
+"Cache Setting\n"
 "なんでもない"
 
 #. ID 2, Page 1, Line 57, Pos (11,4)
@@ -24,6 +31,53 @@ msgstr ""
 msgctxt "actors.name"
 msgid "Itsuki"
 msgstr "いつき"
+
+#. ID 2, Page 1, Line 133, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : ON) \\<\n"
+"As you read a file, it loads all BGM and SE cache.\n"
+"Disable this option as save progress takes longer\n"
+"than usual."
+msgstr ""
+
+#. ID 2, Page 1, Line 137, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : ON) \\<"
+msgstr ""
+
+#. ID 2, Page 1, Line 138, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 160, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+
+#. ID 2, Page 1, Line 141, Pos (11,4)
+#. ID 2, Page 1, Line 168, Pos (11,4)
+msgid " Current setting has been retained."
+msgstr ""
+
+#. ID 2, Page 1, Line 146, Pos (11,4)
+msgid " Cache Load has been disabled."
+msgstr ""
+
+#. ID 2, Page 1, Line 156, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : OFF)\\<\n"
+"Proceeds without loading cache.\n"
+"Enable this option as you experience slow down."
+msgstr ""
+
+#. ID 2, Page 1, Line 159, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : OFF)\\<"
+msgstr ""
+
+#. ID 2, Page 1, Line 164, Pos (11,4)
+msgid " Cache Load has been enabled."
+msgstr ""
 
 #. ID 3, Page 2, Line 20, Pos (7,6)
 msgid ""
@@ -61,4 +115,3 @@ msgid ""
 "New hidden feat(s) acquired!\n"
 "(Hidden feats don't count as regular ones)"
 msgstr ""
-
