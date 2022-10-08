@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 5, Pos (12,4)
 #. Condition (Actor Name = 【壁紙ｷﾞｬﾗﾘｰへ入室する】)
@@ -336,12 +340,8 @@ msgstr "\\>Set to 'Off'."
 
 #. ID 6, Page 6, Line 656, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-msgid ""
-"\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
-""
-msgstr ""
-"\\>New Wallpaper Notifications　Current Setting: \\C[4]\\N[2]\\C[0]\n"
-""
+msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>New Wallpaper Notifications　Current Setting: \\C[4]\\N[2]\\C[0]\n"
 
 #. ID 6, Page 6, Line 674, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -761,7 +761,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おおかみ"
-msgstr "Wolf"
+msgstr "Wolf "
 
 #. ID 12, Page 2, Line 11, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -775,7 +775,7 @@ msgstr "Bike"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Twintails"
+msgstr "Twintails "
 
 #. ID 12, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -791,7 +791,7 @@ msgstr "Glasses"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "はにわ"
-msgstr "Haniwa"
+msgstr "Haniwa "
 
 #. ID 12, Page 2, Line 27, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -853,7 +853,7 @@ msgstr "Rainbow"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めだま"
-msgstr "Eyeball"
+msgstr "Eyeball "
 
 #. ID 12, Page 2, Line 81, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -1345,4 +1345,3 @@ msgid ""
 "コンティニューポイント選択画面へ移行します\n"
 "この機能はまだ未完成です"
 msgstr ""
-
