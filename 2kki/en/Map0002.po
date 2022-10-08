@@ -75,7 +75,7 @@ msgid ""
 "\\>♪再生中：カーソル移動音 \\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Now Playing: Cursor Sound \\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 951, Pos (12,5)
@@ -85,7 +85,7 @@ msgid ""
 "\\>♪再生中：決定音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Now Playing: Select Sound\\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 956, Pos (12,5)
@@ -95,7 +95,7 @@ msgid ""
 "\\>♪再生中：キャンセル音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Now Playing: Cancel Sound\\<\\.\\.\\^"
 
 #. ID 6, Page 5, Line 330, Pos (12,5)
