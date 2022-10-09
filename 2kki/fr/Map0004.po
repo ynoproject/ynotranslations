@@ -110,13 +110,13 @@ msgstr "Arc-En-Ciel"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めだま"
-msgstr "Œil"
+msgstr "Bombe-"
 
 #. ID 5, Page 2, Line 81, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ばくだん"
-msgstr "Bombe-"
+msgstr "Œil"
 
 #. ID 5, Page 2, Line 89, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -292,4 +292,11 @@ msgstr ""
 
 #. ID 11, Page 1, Line 40, Pos (6,7)
 msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 18, Page 1, Line 67, Pos (5,6)
+#. Choice (2 options)
+msgid ""
+"\\>Z:#x1 <-> Z:#x12\n"
+"\\>Exit"
 msgstr ""

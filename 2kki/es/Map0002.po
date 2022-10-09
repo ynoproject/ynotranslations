@@ -762,7 +762,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おおかみ"
-msgstr "Lobo"
+msgstr "Lobo "
 
 #. ID 12, Page 2, Line 11, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -776,7 +776,7 @@ msgstr "Moto"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Coletas"
+msgstr "Coletas "
 
 #. ID 12, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -792,7 +792,7 @@ msgstr "Gafas"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "はにわ"
-msgstr "Haniwa"
+msgstr "Haniwa "
 
 #. ID 12, Page 2, Line 27, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -854,13 +854,13 @@ msgstr "Arcoiris"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めだま"
-msgstr "Bomba Óptica"
+msgstr "Bomba "
 
 #. ID 12, Page 2, Line 81, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ばくだん"
-msgstr "Bomba"
+msgstr "Óptica"
 
 #. ID 12, Page 2, Line 89, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -956,13 +956,13 @@ msgstr "Polígono"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "てるてる"
-msgstr "Papel"
+msgstr "Muñeco de "
 
 #. ID 12, Page 2, Line 158, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ぼうず"
-msgstr "Muñeco"
+msgstr "Papel"
 
 #. ID 12, Page 2, Line 162, Pos (13,5)
 #. ChangeHeroName (Actor 2)
