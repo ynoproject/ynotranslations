@@ -52,26 +52,23 @@ msgstr ""
 
 #. ID 6, Page 4, Line 746, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\>No. \\V[46] に変更しました\n"
 "\\>文字色サンプル:\\C[0]$j通常 \\C[1]$k強調 \\C[3]$m選択不可"
 msgstr ""
-"\\>Changed to No. \\V[46]\n"
-"\\>Font Color Sample: \\C[0]$jNormal \\C[1]$kEmphasized \\C[3]$mDisabled"
+"\\>Schimbat la Nr. \\V[46]\n"
+"\\>Mostră Culoare Font:: \\C[0]$jNormal \\C[1]$kEmfatizat \\C[3]$mDez."
 
 #. ID 6, Page 4, Line 748, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>\\C[0]これでOK\n"
 "\\>選びなおす"
 msgstr ""
-"\\>\\C[0]Confirm\n"
-"\\>Reselect"
+"\\>\\C[0]Confirmă\n"
+"\\>Reselectează"
 
 #. ID 6, Page 4, Line 946, Pos (12,5)
-#, fuzzy
 msgid ""
 "\n"
 "\\>　／ No.   ／\n"
@@ -79,10 +76,9 @@ msgid ""
 msgstr ""
 "\n"
 "\\>　／       ／\n"
-"\\>♪ Now Playing: Cursor Sound \\<\\.\\.\\^"
+"\\>♪ Acum Rulează: Sunet Cursor \\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 951, Pos (12,5)
-#, fuzzy
 msgid ""
 "\n"
 "\\>　／ No.   ／\n"
@@ -90,10 +86,9 @@ msgid ""
 msgstr ""
 "\n"
 "\\>　／       ／\n"
-"\\>♪ Now Playing: Select Sound\\<\\.\\.\\^"
+"\\>♪ Acum Rulează: Sunet Anulare\\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 956, Pos (12,5)
-#, fuzzy
 msgid ""
 "\n"
 "\\>　／ No.   ／\n"
@@ -101,7 +96,7 @@ msgid ""
 msgstr ""
 "\n"
 "\\>　／       ／\n"
-"\\>♪ Now Playing: Cancel Sound\\<\\.\\.\\^"
+"\\>♪ Acum Rulează: Sunet Anulare\\<\\.\\.\\^"
 
 #. ID 6, Page 5, Line 330, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -115,19 +110,17 @@ msgstr ""
 
 #. ID 6, Page 5, Line 361, Pos (12,5)
 #. Contains choice at line 2 (2 options)
-#, fuzzy
 msgid "\\>No. \\V[1405]に変更しました"
-msgstr "\\>Changed to No. \\V[1405]"
+msgstr "\\>Schimbat la Nr.\\V[1405]"
 
 #. ID 6, Page 5, Line 362, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>これでOK\n"
 "\\>選びなおす"
 msgstr ""
-"\\>Confirm\n"
-"\\>Reselect"
+"\\>Confirmă\n"
+"\\>Reselectează"
 
 #. ID 6, Page 5, Line 365, Pos (12,5)
 msgid ""
@@ -142,30 +135,28 @@ msgstr ""
 "\\>Apasă Shift pentru a înregistra în Sound Room."
 
 #. ID 6, Page 5, Line 372, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>No. \\V[17]：\n"
 "\\>サウンドルームのメモリーからランダムに設定します。\n"
 "\\>\n"
 "\\>(メモリー登録が無い場合は無音になります。)"
 msgstr ""
-"\\>No. \\V[17]:\n"
-"\\>Set BGM randomly from sound room playlist.\n"
-"\\>(If there are no tracks registered in the playlist,\n"
-"\\>nothing will play.)"
+"\\>Nr. \\V[17]:\n"
+"\\>Setează BGM aleatoriu din playlist.\n"
+"\\>(Dacă nu există melodii înregistrate în playlist,\n"
+"\\>nu se va rula nimic.)"
 
 #. ID 6, Page 5, Line 379, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>No. \\V[17]：\n"
 "\\>サウンドルームの曲からランダムに設定します。\n"
 "\\>\n"
 "\\>(未開放曲がいっぱいあると時間がかかるかも。)"
 msgstr ""
-"\\>No. \\V[17]:\n"
-"\\>Set BGM randomly from sound room.\n"
-"\\>\n"
-"\\>(This might take a while if not many tracks are unlocked.)"
+"\\>Nr. \\V[17]:\n"
+"\\>Setează BGM aleatoriu din Sound Room.\n"
+"\\>(Asta va dura ceva timp dacă nu au fost\n"
+"\\>deblocate multe melodii.)"
 
 #. ID 6, Page 6, Line 83, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -178,35 +169,32 @@ msgid "【外部マップから壁紙を表示する】"
 msgstr ""
 
 #. ID 6, Page 6, Line 352, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]\n"
 "\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
-"\\>　!! You cannot save in Time Trial Mode !!　\n"
-"\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>First Clear: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
-"\\>\\C[2]　　　　(Includes time spent in menu screens)"
+"\\>　!! Nu poţi salva în modul Time Trial !!　\n"
+"\\>Timp Jucat:: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>Prima Completare: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
+"\\>\\C[2]　　　　(Include timpul petrecut în meniuri)"
 
 #. ID 6, Page 6, Line 358, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
 "\\>\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
 "\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
-"\\>　!! You cannot save in Time Trial Mode !!　\n"
+"\\>　!! Nu poţi salva în modul Time Trial !!　\n"
 "\\>\n"
-"\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>\\C[2]　　　　(Includes time spent in menu screens)"
+"\\>Timp Jucat: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>\\C[2]　　　　(Include timpul petrecut în meniuri)"
 
 #. ID 6, Page 6, Line 414, Pos (12,5)
-#, fuzzy
 msgid "\\>♪Secret Code：\\V[15]"
-msgstr "\\>♪ Secret Code: \\V[15]"
+msgstr "\\>♪ Cod Secret: \\V[15]"
 
 #. ID 6, Page 6, Line 420, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -216,10 +204,9 @@ msgstr "\\>♪ Secret Code: \\V[15]"
 #. ChangeHeroName (Actor 1)
 #. ID 6, Page 6, Line 441, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#, fuzzy
 msgctxt "actors.name"
 msgid "Code入力中"
-msgstr "Enter Code"
+msgstr "Scrie Codul"
 
 #. ID 6, Page 6, Line 464, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -229,26 +216,25 @@ msgstr ""
 
 #. ID 6, Page 6, Line 540, Pos (12,5)
 #. Contains choice at line 2 (3 options)
-#, fuzzy
 msgid "\\>通知機能を設定してください"
-msgstr "\\>Please set the notification function"
+msgstr "\\>Setează funcţia de notificare."
 
 #. ID 6, Page 6, Line 541, Pos (12,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "・ON\n"
 "・OFF\n"
 "・あとで設定する"
 msgstr ""
-"・On\n"
-"・Off\n"
-"・Decide Later"
+"・Pornit\n"
+"・Oprit\n"
+"・Decide mai târziu"
 
 #. ID 6, Page 6, Line 549, Pos (12,5)
-#, fuzzy
 msgid "\\>壁紙メニューのオプションで設定が変えられます"
-msgstr "\\>Setting can be changed in the wallpaper menu options"
+msgstr ""
+"\\>Setarea poate fi schimbată în setările de meniu de\n"
+"\\>fundal"
 
 #. ID 6, Page 6, Line 564, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -276,69 +262,62 @@ msgstr "On"
 
 #. ID 6, Page 6, Line 578, Pos (12,5)
 #. Contains choice at line 2 (3 options)
-#, fuzzy
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
-msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Cur. Wallpaper: No.\\C[4]\\V[19] \\C[0]Random: \\C[4]\\N[2] \\C[0]New: \\C[4]\\N[3]\\C[0]"
+msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Fundal Cur.: Nr.\\C[4]\\V[19] \\C[0]Aleatoriu: \\C[4]\\N[2] \\C[0]Nou: \\C[4]\\N[3]\\C[0]"
 
 #. ID 6, Page 6, Line 579, Pos (12,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>・壁紙を選ぶ\n"
 "\\>・壁紙を読み込み\n"
 "\\>・オプション"
 msgstr ""
-"\\>・Select Wallpaper\n"
-"\\>・Import Wallpaper\n"
-"\\>・Options"
+"\\>・Alege Fundal\n"
+"\\>・Importă Fundal\n"
+"\\>・Setări"
 
 #. ID 6, Page 6, Line 595, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
 "\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
 msgstr ""
-"\\>Use the file at in Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
-"\\>\\C[4]If the file cannot be read, the game will crash.\\C[0]"
+"\\>Foloseşte fişierul în Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
+"\\>\\C[4]Dacă fişierul nu poate fi citit, jocul se va închide.\\C[0]"
 
 #. ID 6, Page 6, Line 597, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>・壁紙を読み込む\n"
 "\\>・やめる"
 msgstr ""
-"\\>・Import Wallpaper\n"
-"\\>・Quit"
+"\\>・Importă Fundal\n"
+"\\>・Ieşire"
 
 #. ID 6, Page 6, Line 613, Pos (12,5)
 #. Contains choice at line 2 (3 options)
-#, fuzzy
 msgid "\\>\\C[4]壁紙オプション\\C[0]"
-msgstr "\\>\\C[4]Wallpaper Options\\C[0]"
+msgstr "\\>\\C[4]Setări de Fundal\\C[0]"
 
 #. ID 6, Page 6, Line 614, Pos (12,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>・ランダムモード 切替\n"
 "\\>・新着通知設定 切替\n"
 "\\>・New表示操作"
 msgstr ""
-"\\>・Random Mode Toggle\n"
-"\\>・New Wallpaper Indicator Toggle\n"
-"\\>・New Wallpaper Indicator Settings"
+"\\>・Comutare Aleatorie\n"
+"\\>・Comutare Indicator pentru Fundaluri Noi\n"
+"\\>・Setări Indicator de Fundaluri Noi"
 
 #. ID 6, Page 6, Line 623, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\C[3]\\>壁紙をランダムで自動切り替えします\n"
 "\\>現在：\\C[4]\\N[2]\\C[3]"
 msgstr ""
-"\\C[3]\\>Automatically set the wallpaper randomly\n"
-"\\>Current Setting: \\C[4]\\N[2]\\C[3]"
+"\\C[3]\\>Setează automat fundalul aleatoriu\n"
+"\\>Setare Curentă: \\C[4]\\N[2]\\C[3]"
 
 #. ID 6, Page 6, Line 625, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -363,55 +342,49 @@ msgstr "\\>Setat pe 'Off'."
 
 #. ID 6, Page 6, Line 656, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
-msgstr "\\>New Wallpaper Notifications　Current Setting: \\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>Anunţuri pentru Fundaluri Noi　Setare Curentă: \\C[4]\\N[2]\\C[0]\n"
 
 #. ID 6, Page 6, Line 674, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>"
 msgstr ""
-"\\>\\C[3]Mark or unmark all wallpapers as new\n"
+"\\>\\C[3]Marcă sau demarcă fundalele ca noi\n"
 "\\>"
 
 #. ID 6, Page 6, Line 676, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>・入手済みの全ての壁紙からNew表示を外す\n"
 "\\>・入手済みの全ての壁紙にNew表示をつける"
 msgstr ""
-"\\>・Unmark all wallpapers as new\n"
-"\\>・Mark all wallpapers as new"
+"\\>・Demarchează toate tapetele ca noi\n"
+"\\>・Marchează toate tapetele ca noi"
 
 #. ID 6, Page 6, Line 678, Pos (12,5)
 #. ChangeHeroName (Actor 2)
-#, fuzzy
 msgctxt "actors.name"
 msgid "入手済みの全ての壁紙からNew表示を外し"
-msgstr "Unmark all wallpapers as new"
+msgstr "Demarchează toate tapetele ca noi"
 
 #. ID 6, Page 6, Line 683, Pos (12,5)
 #. ChangeHeroName (Actor 2)
-#, fuzzy
 msgctxt "actors.name"
 msgid "入手済みの全ての壁紙にNew表示をつけ"
-msgstr "Mark all wallpapers as new"
+msgstr "Marchează toate tapetele ca noi"
 
 #. ID 6, Page 6, Line 693, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
 "\\>  \\C[4]\\N[2]ています。\n"
 "\\>  ・\\<\\|\\^"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Afişează toate indicatoarele pentru fundale noi\n"
 "\\>\n"
-"\\>  \\C[4]\\N[2] in progress.\n"
+"\\>  \\C[4]\\N[2] în progres.\n"
 "\\>  ・\\<\\|\\^"
 
 #. ID 6, Page 6, Line 699, Pos (12,5)
@@ -427,29 +400,27 @@ msgstr ""
 "\\>  \\C[4]Procesarea a fost întreruptă."
 
 #. ID 6, Page 6, Line 705, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
 "\\>  \\C[4]\\N[2]ています。\n"
 "\\>  ・・\\<\\|\\^"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Afişează toate indicatoarele pentru fundale noi\n"
 "\\>\n"
-"\\>  \\C[4]\\N[2] in progress.\n"
+"\\>  \\C[4]\\N[2] în progres.\n"
 "\\>  ・・\\<\\|\\^"
 
 #. ID 6, Page 6, Line 717, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
 "\\>  \\C[4]\\N[2]ています。\n"
 "\\>  ・・・\\<\\|\\^"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Afişează toate indicatoarele pentru fundale noi\n"
 "\\>\n"
-"\\>  \\C[4]\\N[2] in progress.\n"
+"\\>  \\C[4]\\N[2] în progres.\n"
 "\\>  ・・・\\<\\|\\^"
 
 #. ID 6, Page 6, Line 729, Pos (12,5)
@@ -459,9 +430,8 @@ msgid "【New表示状態を操作する】"
 msgstr ""
 
 #. ID 6, Page 6, Line 732, Pos (12,5)
-#, fuzzy
 msgid "\\>\\C[3]\\N[2]ました。"
-msgstr "\\>\\C[3]\\N[2] succeeded."
+msgstr "\\>\\C[3]\\N[2] reuşit."
 
 #. ID 6, Page 6, Line 738, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -483,21 +453,19 @@ msgstr "On"
 
 #. ID 6, Page 6, Line 773, Pos (12,5)
 #. Contains choice at line 2 (3 options)
-#, fuzzy
 msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
-msgstr "\\>In-Dream Text Events　Current Setting: \\C[4]\\N[2]\\C[0]"
+msgstr "\\>Setări Evenimente din Vis　Setarea Actuală: \\C[4]\\N[2]\\C[0]"
 
 #. ID 6, Page 6, Line 774, Pos (12,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>・アリ\n"
 "\\>・ナシ\n"
 "\\>・設定終了"
 msgstr ""
-"\\>・On\n"
-"\\>・Off\n"
-"\\>・Close Settings"
+"\\>・Pornit\n"
+"\\>・Oprit\n"
+"\\>・Închide Setările"
 
 #. ID 6, Page 6, Line 777, Pos (12,5)
 msgid "\\>アリにしました。"
@@ -509,37 +477,34 @@ msgstr "\\>Setat pe 'Off'."
 
 #. ID 6, Page 6, Line 799, Pos (12,5)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\>・メニュータイプ＆効果音変更\n"
 "\\>・PC画面BGM変更\n"
 "\\>・デフォルトに戻す\n"
 "\\>・設定終了"
 msgstr ""
-"\\>・Menu Theme and Sound Effects\n"
-"\\>・PC Screen BGM\n"
-"\\>・Revert to Default\n"
-"\\>・Close Settings"
+"\\>・Temă şi Efecte Somore\n"
+"\\>・BGM de Ecran\n"
+"\\>・Revino la Mod Implicit\n"
+"\\>・Închide Setările"
 
 #. ID 6, Page 6, Line 823, Pos (12,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\>以下の設定をデフォルトに戻します。\n"
 "\\>メニュータイプ / 効果音 / PC画面BGM"
 msgstr ""
-"\\>Revert to default settings.\n"
-"\\>Menu Theme / Sound Effects / PC Screen BGM"
+"\\>Revino la setările implicite.\n"
+"\\>Tema Meniului / Efecte Sonore / BGM de Ecran"
 
 #. ID 6, Page 6, Line 825, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>・デフォルトに戻す\n"
 "\\>・キャンセル"
 msgstr ""
-"\\>・ Default\n"
-"\\>・ Cancel"
+"\\>・ Implicit\n"
+"\\>・ Anulare"
 
 #. ID 6, Page 6, Line 833, Pos (12,5)
 msgid ""
@@ -583,47 +548,43 @@ msgstr ""
 #. Contains choice at line 2 (3 options)
 #. ID 6, Page 6, Line 1007, Pos (12,5)
 #. Contains choice at line 2 (2 options)
-#, fuzzy
 msgid "\\>\\C[4]【DATA】\\C[0]　ゆめ２っき　ver\\V[7]\\N[4]\\V[9]\\N[2]"
-msgstr "\\>\\C[4]【DATA】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
+msgstr "\\>\\C[4]【DATE】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
 
 #. ID 6, Page 6, Line 944, Pos (12,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>プレイ記録を見る\n"
 "\\>エンディングを見返す\n"
 "\\>このウィンドウを閉じる"
 msgstr ""
-"\\>View Game Record\n"
-"\\>Rewatch Endings\n"
-"\\>Close Window"
+"\\>Vezi Recordurile Jocului\n"
+"\\>Revizionează Sfârşitele\n"
+"\\>Închide Fereastra"
 
 #. ID 6, Page 6, Line 946, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
 "\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
 "\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]\n"
 "\\>(最初に入手したエフェクトは \\C[4]\\N[8]\\C[0])"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
-"\\>　　Version: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
-"\\>　　Effects: \\C[4]\\V[2]％\\C[0]\n"
-"\\> (First effect obtained was \\C[4]\\N[8]\\C[0])"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
+"\\>　　Versiune: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Efecte  : \\C[4]\\V[2]％\\C[0]\n"
+"\\> (Primul efect obţinut a fost \\C[4]\\N[8]\\C[0])"
 
 #. ID 6, Page 6, Line 950, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
 "\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
 "\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
 "\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
-"\\>Sound Room   : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
-"\\>PC Wallpapers: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
-"\\>Kura Puzzles : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
+"\\>Sound Room       : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Fundale pentru PC: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Puzzle-uri Kura  : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
 #. ID 6, Page 6, Line 955, Pos (12,5)
 msgid ""
@@ -634,117 +595,107 @@ msgid ""
 msgstr ""
 
 #. ID 6, Page 6, Line 961, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
 "\\>　　　　(メニュー画面を開いている時間を含めず)\n"
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
-"\\>Play Time  : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Includes time spent in menu screens)\n"
-"\\>First Clear: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Timp Jucat      : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>　　　　(Include timpul petrecut în meniuri)\n"
+"\\>Prima Completare: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 968, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[90] Steps\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Timpuri Dormite: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Paşi Făcuţi    : \\C[4]\\v[90] Paşi\\C[0]"
 
 #. ID 6, Page 6, Line 973, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[91]\\N[3]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[91]\\N[3]\\v[90] Steps\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Timpuri Dormite: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Paşi Făcuţi    : \\C[4]\\v[91]\\N[3]\\v[90] Paşi\\C[0]"
 
 #. ID 6, Page 6, Line 978, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
 "\\>訪れた世界： \\C[4]\\V[71]ヵ所\\C[0]ぐらい\n"
 "\\>　　殺傷数： \\C[4]\\v[3936]回\\C[0](無機物も含む)"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
-"\\>Worlds Visited: \\C[4]\\V[71]\\C[0] (approximate)\n"
-"\\>Body Count    : \\C[4]\\v[3936]\\C[0] (includes inanimate objects)"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
+"\\>Lumi Vizitate : \\C[4]\\V[71]\\C[0] (aproximate)\n"
+"\\>Nr. de Cadavre: \\C[4]\\v[3936]\\C[0] (include obiecte)"
 
 #. ID 6, Page 6, Line 1008, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>プレイ記録を見る\n"
 "\\>このウィンドウを閉じる"
 msgstr ""
-"\\>View Game Record\n"
-"\\>Close Window"
+"\\>Vezi Recordurile Jocului\n"
+"\\>Închide Fereastra"
 
 #. ID 6, Page 6, Line 1010, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
 "\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
 "\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
-"\\>　　Version: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
-"\\>　　Effects: \\C[4]\\V[2]%\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
+"\\>　　Versiune: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Efecte  : \\C[4]\\V[2]%\\C[0]"
 
 #. ID 6, Page 6, Line 1013, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
 "\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
 "\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
 "\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
-"\\>Sound Room  : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
-"\\>PC Wallpapers: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
-"\\>Kura Puzzles : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
+"\\>Sound Room       : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Fundale pentru PC: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Puzzle-uri Kura  : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
 #. ID 6, Page 6, Line 1017, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
 "\\>　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
-"\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Includes time spent in menu screens)"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
+"\\>Timp Jucat      : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>　　　　(Include timpul petrecut în meniuri)"
 
 #. ID 6, Page 6, Line 1021, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[90] Steps\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　Timpuri Dormite: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Paşi Făcuţi    : \\C[4]\\v[90] Paşi\\C[0]"
 
 #. ID 6, Page 6, Line 1026, Pos (12,5)
-#, fuzzy
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[91]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[91]\\v[90] Steps\\C[0]"
+"\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　Timpuri Dormite: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Paşi Făcuţi    : \\C[4]\\v[91]\\v[90] Paşi\\C[0]"
 
 #. ID 6, Page 6, Line 1040, Pos (12,5)
 #. ChangeHeroName (Actor 5)
@@ -1070,10 +1021,9 @@ msgstr "(Eliminat)"
 #. ChangeHeroName (Actor 4)
 #. ID 12, Page 3, Line 90, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#, fuzzy
 msgctxt "actors.name"
 msgid "\\C[1]使用中"
-msgstr "\\C[1]Enabled"
+msgstr "\\C[1]Activat"
 
 #. ID 12, Page 3, Line 26, Pos (13,5)
 #. ChangeHeroName (Actor 4)
@@ -1083,10 +1033,9 @@ msgstr "\\C[1]Enabled"
 #. ChangeHeroName (Actor 4)
 #. ID 12, Page 3, Line 94, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#, fuzzy
 msgctxt "actors.name"
 msgid "\\C[2]未使用"
-msgstr "\\C[2]Disabled"
+msgstr "\\C[2]Dezactivat"
 
 #. ID 12, Page 3, Line 36, Pos (13,5)
 #. ChangeHeroName (Actor 5)
@@ -1096,21 +1045,19 @@ msgstr "\\C[0]"
 
 #. ID 12, Page 3, Line 38, Pos (13,5)
 #. Contains choice at line 2 (3 options)
-#, fuzzy
 msgid "\\> ★ シフトキー拡張機能 ★ "
-msgstr "\\> ★ Shift Key Functionality ★ "
+msgstr "\\> ★ Funcţiunea Tastei Shift ★ "
 
 #. ID 12, Page 3, Line 39, Pos (13,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>お気に入りエフェクト　　:\\N[4]\n"
 "\\>\\N[5]クトシフトチェンジ:\\N[6]\n"
 "\\>\\C[0]やめる"
 msgstr ""
-"\\>Favorite Effect : \\N[4]\n"
-"\\>\\N[5]Effect Shift Key: \\N[6]\n"
-"\\>\\C[0]Exit"
+"\\>Efect Preferat   : \\N[4]\n"
+"\\>\\N[5]Efect Tasta Shift: \\N[6]\n"
+"\\>\\C[0]Ieşi"
 
 #. ID 12, Page 3, Line 44, Pos (13,5)
 #. ChangeHeroName (Actor 5)
@@ -1130,26 +1077,23 @@ msgstr "On"
 
 #. ID 12, Page 3, Line 51, Pos (13,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\> ★ お気に入りエフェクト ★ \n"
 "\\>※現在の設定:\\N[4]\\C[0]　\\N[2]\\N[3]"
 msgstr ""
-"\\> ★ Favorite Effect ★ \n"
-"\\>* Current Setting: \\N[4]\\C[0]　\\N[2]\\N[3]"
+"\\> ★ Efect Preferat ★ \n"
+"\\>* Setare Curentă: \\N[4]\\C[0]　\\N[2]\\N[3]"
 
 #. ID 12, Page 3, Line 53, Pos (13,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>\\N[5]\n"
 "\\>せつめい"
 msgstr ""
 "\\>\\N[5]\n"
-"\\>Help"
+"\\>Ajutor"
 
 #. ID 12, Page 3, Line 58, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\>※\"使う\"に変更しました。\n"
 "\\>　登録エフェクトを変更するときは、\n"
@@ -1157,9 +1101,9 @@ msgid ""
 "\\>　夢の中にあるこの引き出しを調べてください。"
 msgstr ""
 "\\> Setat pe 'On'.\n"
-"\\>　When you want to register an effect,\n"
-"\\>　use the drawer in your dream room\n"
-"\\>　with the effect you want to register."
+"\\>　Când vrei să înregistrezi un efect,\n"
+"\\>　foloseşte noptiera din dormitor în vis\n"
+"\\>　Cu efectul pe care vrei să-l înregistrezi."
 
 #. ID 12, Page 3, Line 64, Pos (13,5)
 #. ID 12, Page 3, Line 108, Pos (13,5)
@@ -1174,9 +1118,9 @@ msgid ""
 "　登録したエフェクトは、シフトキー長押しで\n"
 "　使用できます。"
 msgstr ""
-"\\>　★ About Favorite Effect Functionality ★\n"
-"* You may only register one effect at a time.\n"
-"  Press shift to use the registered effect."
+"\\>　★ Despre Funcţiunea Tastei Shift ★\n"
+"* Poţi înregistra un singur efect pe rând.\n"
+"  Apasă shift pentru a folosi efectul înregistrat."
 
 #. ID 12, Page 3, Line 74, Pos (13,5)
 #, fuzzy
@@ -1186,29 +1130,28 @@ msgid ""
 "　登録エフェクトにチェンジする前に使用していた\n"
 "　エフェクトに戻します。"
 msgstr ""
-"\\>　★ About Favorite Effect Functionality ★\n"
-"* If you press shift while using the registered\n"
-"  effect, it will use your previously used effect."
+"\\>　★ Despre Funcţiunea Tastei Shift ★\n"
+"* Dacă apeşi shift în timp ce foloseşti efectul\n"
+"  înregistrat, iţi va folosi efectul folosit de\n"
+"  data trecută."
 
 #. ID 12, Page 3, Line 98, Pos (13,5)
 #. Contains choice at line 3 (2 options)
-#, fuzzy
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "\\>※現在の設定:\\N[6]\\C[0]"
 msgstr ""
-"\\> ★ Effect Shift Change ★ \n"
-"\\>* Current Setting: \\N[6]\\C[0]"
+"\\> ★ Schimbare Efect cu Shift ★ \n"
+"\\>* Setare Curentă: \\N[6]\\C[0]"
 
 #. ID 12, Page 3, Line 100, Pos (13,5)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>\\N[5]\n"
 "\\>せつめい / おぷしょん"
 msgstr ""
 "\\>\\N[5]\n"
-"\\>Help / Options"
+"\\>Ajutor / Opţiuni"
 
 #. ID 12, Page 3, Line 105, Pos (13,5)
 msgid "\\>※\"使う\"に変更しました。"
@@ -1216,115 +1159,104 @@ msgstr "\\>* Setat pe 'On'."
 
 #. ID 12, Page 3, Line 119, Pos (13,5)
 #. ChangeHeroName (Actor 5)
-#, fuzzy
 msgctxt "actors.name"
 msgid "\\C[2]エフェクト解除する"
-msgstr "\\C[2]Remove Effect"
+msgstr "\\C[2]Şterge Efectul"
 
 #. ID 12, Page 3, Line 122, Pos (13,5)
 #. ChangeHeroName (Actor 5)
-#, fuzzy
 msgctxt "actors.name"
 msgid "\\C[1]なにもしない"
-msgstr "\\C[1]Do Nothing"
+msgstr "\\C[1]Nu fă Nimic"
 
 #. ID 12, Page 3, Line 126, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#, fuzzy
 msgctxt "actors.name"
 msgid "\\C[2]お気に入りエフェクト"
-msgstr "\\C[2]Favorite Effect"
+msgstr "\\C[2]Pune Efectul la Preferate"
 
 #. ID 12, Page 3, Line 129, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#, fuzzy
 msgctxt "actors.name"
 msgid "\\C[1]エフェクト解除"
-msgstr "\\C[1]Remove Effect"
+msgstr "\\C[1]Şterge Efectul"
 
 #. ID 12, Page 3, Line 132, Pos (13,5)
 #. Contains choice at line 2 (3 options)
-#, fuzzy
 msgid "\\> ★ エフェクトシフトチェンジ ★ おぷしょん"
-msgstr "\\> ★ Effect Shift Change ★ Options"
+msgstr "\\> ★ Schimbare Efect cu Shift ★ Opţiuni"
 
 #. ID 12, Page 3, Line 133, Pos (13,5)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>同じ項目を選んだ時：\\N[5]\\C[0]\n"
 "\\>上キーを押した時　：\\N[6]\\C[0]\n"
 "\\>せつめい"
 msgstr ""
-"\\>When selecting same item: \\N[5]\\C[0]\n"
-"\\>When up key is pressed  : \\N[6]\\C[0]\n"
-"\\>Help"
+"\\>Când selectezi acelaşi obiect: \\N[5]\\C[0]\n"
+"\\>Când este apăsată tasta sus  : \\N[6]\\C[0]\n"
+"\\>Ajutor"
 
 #. ID 12, Page 3, Line 138, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\>※\"なにもしない\"に変更しました。\n"
 "\n"
 "\\>現在のエフェクトと同じ項目を選んでも、\n"
 "\\>エフェクト解除しないようにします。"
 msgstr ""
-"\\>* Setat pe \"Do Nothing\".\n"
+"\\>* Setat pe \"Nu fă Nimic\".\n"
 "\n"
-"\\>Selecting the same effect as you are using\n"
-"\\>will not cancel your effect."
+"\\>Atunci când selectezi acelaşi efect pe care\n"
+"\\>îl foloseşti, nu îţi va anula efectul."
 
 #. ID 12, Page 3, Line 145, Pos (13,5)
-#, fuzzy
 msgid "\\>※\"エフェクト解除する\"に変更しました。"
-msgstr "\\>* Setat pe \"Remove Effect\"."
+msgstr "\\>* Setat pe \"Şterge Efectul\"."
 
 #. ID 12, Page 3, Line 153, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\>※\"エフェクト解除\"に変更しました。\n"
 "\n"
 "\\>上キーでエフェクト解除、\n"
 "\\>下キーでお気に入りエフェクトを選択します。"
 msgstr ""
-"\\>* Setat pe \"Remove Effect\".\n"
+"\\>* Setat pe \"Şterge Efectul\".\n"
 "\n"
-"\\>Remove your effect by pressing up.\n"
-"\\>Use your favorite effect by pressing down."
+"\\>Elimină-ţi efectul apăsând tasta sus.\n"
+"\\>Foloseşte efectul preferat atunci când apeşi tasta jos."
 
 #. ID 12, Page 3, Line 160, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\>※\"お気に入りエフェクト\"に変更しました。\n"
 "\n"
 "\\>上キーと下キーのどちらでも\n"
 "\\>お気に入りエフェクトを選択します。"
 msgstr ""
-"\\>* Setat pe \"Favorite Effect\".\n"
+"\\>* Setat pe \"Pune Efectul la Preferate\".\n"
 "\n"
-"\\>Pressing either up or down will use your\n"
-"\\>favorite effect."
+"\\>Apăsând sus sau jos îţi vei folosi\n"
+"\\>efectul preferat."
 
 #. ID 12, Page 3, Line 168, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "シフトキーでエフェクトを選ぶ画面が出る機能です。\n"
 "もちろん、いつものメニューもそのまま使えます。"
 msgstr ""
-"\\> ★ Effect Shift Change ★ \n"
-"Pressing shift displays an effect selection screen.\n"
-"You can still use the regular menu as usual."
+"\\> ★ Schimbare Efect cu Shift ★ \n"
+"Dacă apeşi tasta Shift îţi va apărea un meniu unde\n"
+"îţi poţi selecta efecte. Poţi folosi şi meniul\n"
+"obişnuit, la fel ca înainte."
 
 #. ID 12, Page 3, Line 171, Pos (13,5)
-#, fuzzy
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "また、シフトキーを押してから下キーを押すと\n"
 "お気に入りエフェクトに登録したものを選択できます。"
 msgstr ""
-"\\> ★ Effect Shift Change ★ \n"
-"You can also quickly jump to your favorite effect\n"
-"by pressing the down key."
+"\\> ★ Schimbare Efect cu Shift ★ \n"
+"Poţi şi să sari de la un efect preferat la altul\n"
+"apăsând tasta jos."
 
 #. ID 23, Page 1, Line 12, Pos (1,14)
 msgid ""
@@ -1336,23 +1268,20 @@ msgstr ""
 
 #. ID 25, Page 5, Line 45, Pos (5,6)
 #. Contains choice at line 2 (2 options)
-#, fuzzy
 msgid "\\>どちらのアルバムを見ますか？"
-msgstr "\\>View which album?"
+msgstr "\\>Vizionează care album?"
 
 #. ID 25, Page 5, Line 46, Pos (5,6)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>改変後（現行処理）ver.\n"
 "\\>改変前（元処理）ver."
 msgstr ""
-"\\>Updated version ver.\n"
-"\\>Old version ver."
+"\\>Versiune actualizată ver.\n"
+"\\>Versiune veche ver."
 
 #. ID 26, Page 1, Line 18, Pos (0,14)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\>ミニゲームＡ\n"
 "\\>ミニゲームＢ\n"
@@ -1362,7 +1291,7 @@ msgstr ""
 "\\>Minigame A\n"
 "\\>Minigame B\n"
 "\\>Minigame C\n"
-"Quit"
+"Ieşire"
 
 #. ID 26, Page 1, Line 29, Pos (0,14)
 msgid "\\>大変長らく更新せずすいませんでした。"
@@ -1394,13 +1323,12 @@ msgstr ""
 
 #. ID 26, Page 1, Line 38, Pos (0,14)
 #. Choice (2 options, embedded in a message)
-#, fuzzy
 msgid ""
 "始める\n"
 "やらない"
 msgstr ""
-"Start\n"
-"Don't Start"
+"Începe\n"
+"Nu Începe"
 
 #. ID 26, Page 4, Line 9, Pos (0,14)
 #. Choice (2 options)
@@ -1411,13 +1339,12 @@ msgstr ""
 
 #. ID 26, Page 4, Line 14, Pos (0,14)
 #. Choice (2 options)
-#, fuzzy
 msgid ""
 "\\>初めから\n"
 "\\>続きから"
 msgstr ""
 "\\>Start\n"
-"\\>Continue"
+"\\>Continuă"
 
 #. ID 26, Page 4, Line 31, Pos (0,14)
 msgid ""
