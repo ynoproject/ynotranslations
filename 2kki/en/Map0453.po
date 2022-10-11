@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "\\>                Available Actions\n"
 "\\>        Go to random … $s … Wallpaper.\n"
-"\\>          Go by 1. … $v　$t … Back by 1.\n"
+"\\>        Back by 1. … $v　$t … Go by 1.\n"
 "\\>　　　        Search … $u … by Number."
 
 #. ID 1, Page 1, Line 23, Pos (0,14)
