@@ -1,14 +1,15 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
+"Project-Id-Version: Yume 2kki Romanian Translation\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: en\n"
+"Language-Team: nekhnona, CDMilky\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.1.1\n"
 
@@ -79,10 +80,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v: Track Selection\n"
-"\\>Z       : Play Track・Reg. Track No.\n"
-"\\>X       : Go to Menu\n"
-"\\>Shift   : View Track Info・Register"
+"\\>$s$t$u$v: Selecţie de Piese\n"
+"\\>Z       : Redă Piesa・Înreg. Piesa Nr.\n"
+"\\>X       : Către Meniu\n"
+"\\>Shift   : Vezi Info. Piesei・Înreg."
 
 #. ID 1, Page 1, Line 1810, Pos (19,14)
 msgid ""
@@ -91,10 +92,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v: Track Selection\n"
-"\\>Z       : Play Track・Switch Variant\n"
-"\\>X       : Go to Menu\n"
-"\\>Shift   : View Track Info・Register"
+"\\>$s$t$u$v: Selecţie de Piese\n"
+"\\>Z       : Redă Piesa・Schimbă Varianta\n"
+"\\>X       : Către Meniu\n"
+"\\>Shift   : Vezi Info. Piesei・Înreg."
 
 #. ID 1, Page 1, Line 1823, Pos (19,14)
 msgid ""
@@ -103,10 +104,10 @@ msgid ""
 "\\>・旧SRへ切替\n"
 "\\>・操作ガイド表示"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [1/3]\n"
-"\\>・Return to PC Screen\n"
-"\\>・Switch to Old Sound Room\n"
-"\\>・Display Instructions"
+"\\>\\C[10]■ \\C[0]Opţiuni Meniu Disponibile [1/3]\n"
+"\\>・Întoarce-te la Meniu\n"
+"\\>・Schimbă la SR-ul Vechi\n"
+"\\>・Arată Instrucţiuni"
 
 #. ID 1, Page 1, Line 1829, Pos (19,14)
 msgid ""
@@ -115,10 +116,10 @@ msgid ""
 "\\>・旧SRへ切替\\_/\\_SREDの閲覧\n"
 "\\>・操作ガイド表示"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [1/3]\n"
-"\\>・Return to PC Screen\n"
-"\\>・Switch to Old Sound Room\\_/\\_Sound Room ED\n"
-"\\>・Display Instructions"
+"\\>\\C[10]■ \\C[0]Opţiuni Meniu Disponibile [1/3]\n"
+"\\>・Întoarce-te la Meniu\n"
+"\\>・Schimbă la SR-ul Vechi\\_/\\_Sfârşitul SR\n"
+"\\>・Arată Instrucţiuni"
 
 #. ID 1, Page 1, Line 1841, Pos (19,14)
 msgid ""
@@ -127,10 +128,10 @@ msgid ""
 "\\>・自動曲送りの設定\n"
 "\\>・演奏を止める"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [2/3]\n"
-"\\>・Change Play Mode\n"
-"\\>・Autoplay Settings\n"
-"\\>・Stop Current Track"
+"\\>\\C[10]■ \\C[0]Opţiuni Meniu Disponibile [2/3]\n"
+"\\>・Schimbă Modul de Redare\n"
+"\\>・Setări de Redare Automată\n"
+"\\>・Opreşte Piesa Curentă"
 
 #. ID 1, Page 1, Line 1852, Pos (19,14)
 msgid ""
@@ -139,10 +140,10 @@ msgid ""
 "\\>・メモリーの交換\\_/\\_全消去\n"
 "\\>・詳細設定の変更"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [3/3]\n"
-"\\>・Listen and Register Tracks\n"
-"\\>・Playlist Swap\\_/\\_Remove All\n"
-"\\>・Advanced Settings"
+"\\>\\C[10]■ \\C[0]Opţiuni Meniu Disponibile [3/3]\n"
+"\\>・Ascultă şi Înregistrează Piese\n"
+"\\>・Schimbă Playlist-ul\\_/\\_Şterge Tot\n"
+"\\>・Setări Avansate"
 
 #. ID 1, Page 1, Line 1859, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -150,7 +151,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "サウンドサーチ"
-msgstr "Track Search"
+msgstr "Caută Piesa"
 
 #. ID 1, Page 1, Line 1862, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -158,7 +159,7 @@ msgstr "Track Search"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "未解放箇所を探す"
-msgstr "Locked Track Search"
+msgstr "Caută Piesă Blocată"
 
 #. ID 1, Page 1, Line 1865, Pos (19,14)
 msgid ""
@@ -167,19 +168,20 @@ msgid ""
 "\\>・カーソルジャンプ\n"
 "\\>・詳細設定の変更"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [3/3]\n"
+"\\>\\C[10]■ \\C[0]Opţiuni Meniu Disponibile [3/3]\n"
 "\\>・\\N[1]\n"
-"\\>・Set Cursor Position\n"
-"\\>・Advanced Settings"
+"\\>・Setează Poziţia Cursorului\n"
+"\\>・Setări Avansate"
 
 #. ID 1, Page 1, Line 1878, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[0]メモリーモード用曲登録の方法\n"
 "\\>\n"
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
 msgstr ""
-"\\>\\C[10]■ \\C[0]How to Add Tracks to Playlist\n"
+"\\>\\C[10]■ \\C[0]Cum să Adaugi Piese la Playlist\n"
 "\\>\n"
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
@@ -190,9 +192,9 @@ msgid ""
 "\\>\n"
 "\\>Shiftダイアログから選択"
 msgstr ""
-"\\>\\C[10]■ \\C[0]How to Add Tracks to Playlist\n"
+"\\>\\C[10]■ \\C[0]Cum să Adaugi Piese la Playlist\n"
 "\\>\n"
-"\\>Select from shift dialog"
+"\\>Selectează din Dialogul Shift"
 
 #. ID 1, Page 1, Line 1910, Pos (19,14)
 #. Choice (2 options)
@@ -200,8 +202,8 @@ msgid ""
 "\\>ヒントを見る\n"
 "\\>ギブアップ"
 msgstr ""
-"\\>Show Hint\n"
-"\\>Give Up"
+"\\>Arată Indiciu\n"
+"\\>Renunţă"
 
 #. ID 1, Page 1, Line 1925, Pos (19,14)
 msgid ""
@@ -233,8 +235,8 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Autoplay\\C[0]\n"
 "\\>\n"
-"\\>> This function plays tracks automatically\n"
-"\\>  with specified conditions"
+"\\>> Funcţiunea asta rulează piese automat cu\n"
+"\\>  condiţii specificate"
 
 #. ID 1, Page 1, Line 1995, Pos (19,14)
 msgid ""
@@ -292,7 +294,7 @@ msgid ""
 "\\>詳細設定"
 msgstr ""
 "\\>\\N[6] Autoplay\n"
-"\\>Advanced Settings"
+"\\>Setări Avansate"
 
 #. ID 1, Page 1, Line 2055, Pos (19,14)
 msgid ""
@@ -314,25 +316,25 @@ msgstr "Normal"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リバース"
-msgstr "Reverse"
+msgstr "Sens Inv."
 
 #. ID 1, Page 1, Line 2113, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ランダム"
-msgstr "Random"
+msgstr "Aleatoriu"
 
 #. ID 1, Page 1, Line 2117, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "時間経過"
-msgstr "Time Elapsed"
+msgstr "Timp Petrecut"
 
 #. ID 1, Page 1, Line 2120, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "ループ回数"
-msgstr "Loop Count"
+msgstr "Număr Repetiţii"
 
 #. ID 1, Page 1, Line 2136, Pos (19,14)
 #. Contains choice at line 2 (3 options)
@@ -341,7 +343,7 @@ msgstr "Loop Count"
 #. ID 1, Page 1, Line 2176, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]自動曲送りの設定\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Autoplay Settings\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Setări Autoplay\\C[0]"
 
 #. ID 1, Page 1, Line 2137, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -350,9 +352,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[119]秒\\C[0]経過"
 msgstr ""
-"\\>Track Order     : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Play Time       : \\C[4]\\V[119]s\\C[0] in"
+"\\>Ordinea Pieselor : \\C[4]\\N[6]\\C[0]\n"
+"\\>Condiţii Expirare: \\C[4]\\N[1]\\C[0]\n"
+"\\>Timp Rulat       : \\C[4]\\V[119]s\\C[0]"
 
 #. ID 1, Page 1, Line 2154, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -361,9 +363,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[593]分\\V[594]秒\\C[0]経過"
 msgstr ""
-"\\>Track Order         : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Play Time           : \\C[4]\\V[593]m \\V[594]s\\C[0] in"
+"\\>Ordinea Pieselor : \\C[4]\\N[6]\\C[0]\n"
+"\\>Condiţii Expirare: \\C[4]\\N[1]\\C[0]\n"
+"\\>Timp Rulat       : \\C[4]\\V[593]m \\V[594]s\\C[0]"
 
 #. ID 1, Page 1, Line 2177, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -372,9 +374,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>ループ回数：\\C[4]\\V[593]回\\C[0]"
 msgstr ""
-"\\>Track Order         : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Loop Count          : \\C[4]\\V[593] Times\\C[0]"
+"\\>Ordinea Pieselor : \\C[4]\\N[6]\\C[0]\n"
+"\\>Condiţii Expirare: \\C[4]\\N[1]\\C[0]\n"
+"\\>Număr Repetiţii  : \\C[4]De \\V[593] ori\\C[0]"
 
 #. ID 1, Page 1, Line 2201, Pos (19,14)
 msgid ""
@@ -382,14 +384,14 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の選曲方法を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Track Order\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0]）\n"
+"\\>\\C[10]■ \\C[6]Setează Ordinea Pieselor\\C[0] (Set. Act.: \\C[4]\\N[6]\\C[0]）\n"
 "\\>\n"
-"\\>> You can change the order tracks play in"
+"\\>> Poţi schimba ordinea în care se vor reda piesele"
 
 #. ID 1, Page 1, Line 2204, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]選曲タイプの設定\\C[0]（現在：\\C[4]\\N[6]\\C[0]）"
-msgstr "\\>\\C[10]■ \\C[6]Set Track Order\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0]）"
+msgstr "\\>\\C[10]■ \\C[6]Setează Ordinea Pieselor\\C[0] (Set. Act.: \\C[4]\\N[6]\\C[0]）"
 
 #. ID 1, Page 1, Line 2205, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -399,8 +401,8 @@ msgid ""
 "\\>・ランダム"
 msgstr ""
 "\\>・Normal\n"
-"\\>・Reverse\n"
-"\\>・Random"
+"\\>・Sens Invers\n"
+"\\>・Aleatoriu"
 
 #. ID 1, Page 1, Line 2222, Pos (19,14)
 msgid ""
@@ -408,9 +410,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の切替条件を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Elapse Condition\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Condiţii Expirare\\C[0] (Set. Act.: \\C[4]\\N[1]\\C[0])\n"
 "\\>\n"
-"\\>> You can change when the next track plays"
+"\\>> Poţi schimba când următoarea piesă se redă"
 
 #. ID 1, Page 1, Line 2225, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -418,7 +420,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]切替条件の設定\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Elapse Condition\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Condiţii Expirare\\C[0] (Set. Act.: \\C[4]\\N[1]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2227, Pos (19,14)
@@ -427,8 +429,8 @@ msgid ""
 "\\>・時間経過\n"
 "\\>・ループ回数"
 msgstr ""
-"\\>・Time Elapsed\n"
-"\\>・Loop Count"
+"\\>・Timp Petrecut\n"
+"\\>・Număr Repetiţii"
 
 #. ID 1, Page 1, Line 2248, Pos (19,14)
 msgid ""
@@ -437,20 +439,21 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări de Scuregera Timpului\\C[0]\n"
 "\\>\n"
-"\\>> How long should each track play for? (1~9999)\n"
-"\\>  (Current Setting: \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>> Cât de mult timp să dureze fiecare pi.? (1~9999)\n"
+"\\>  (Set. Act.: \\C[4]\\V[119]s\\C[0] 0 pentru a lăsa nes.)"
 
 #. ID 1, Page 1, Line 2252, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]切替時間の設定\\C[0]\n"
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări de Scuregera Timpului\\C[0]\n"
 "\\>\n"
-"\\>  (Current Setting: \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>  (Set. Act.: \\C[4]\\V[119]s\\C[0]  0 pentru a lăsa neschimbat)"
 
 #. ID 1, Page 1, Line 2267, Pos (19,14)
 msgid ""
@@ -459,10 +462,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări de Scuregera Timpului\\C[0]\n"
 "\\>\n"
-"\\>> How long should each track play for? (1~9999)\n"
-"\\>> (Current Setting: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>> Cât de mult timp să dureze fiecare pi.? (1~9999)\n"
+"\\>> (Set. Act.: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0] 0 pentru a lăsa nes.)"
 
 #. ID 1, Page 1, Line 2271, Pos (19,14)
 msgid ""
@@ -470,9 +473,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări de Scuregera Timpului\\C[0]\n"
 "\\>\n"
-"\\>> (Current Setting: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>> (Set. Act.: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0] 0 pentru a lăsa nes.)"
 
 #. ID 1, Page 1, Line 2288, Pos (19,14)
 msgid ""
@@ -481,10 +484,10 @@ msgid ""
 "\\>＞何回に設定しますか？（1～9）\n"
 "\\>　（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Loop Count Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări Nr. Repetiţii\\C[0]\n"
 "\\>\n"
-"\\>> How many times should each track loop? (1~9)\n"
-"\\>  (Current Setting: \\C[4]\\V[119] Times\\C[0]  0 to leave unchanged)"
+"\\>> De câte ori să se repete fiecare pi.? (1~9)\n"
+"\\>  (Set. Act.: \\C[4]De \\V[119] Ori\\C[0] 0 pentru a lăsa nes.)"
 
 #. ID 1, Page 1, Line 2292, Pos (19,14)
 msgid ""
@@ -492,9 +495,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Loop Count Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări Nr. Repetiţii\\C[0]\n"
 "\\>\n"
-"\\>  (Current Setting: \\C[4]\\V[119] Times\\C[0]  0 to leave unchanged)"
+"\\>  (Set. Act.: \\C[4]De \\V[119] Ori\\C[0]  0 pentru a lăsa neschimbat)"
 
 #. ID 1, Page 1, Line 2318, Pos (19,14)
 msgid ""
@@ -502,9 +505,9 @@ msgid ""
 "\\>\n"
 "\\>＞設定を変更しました\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Autoplay Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări Autoplay\\C[0]\n"
 "\\>\n"
-"\\>> Settings have been updated\\<\\.\\.\\^"
+"\\>> Setările au fost actualizate\\<\\.\\.\\^"
 
 #. ID 1, Page 1, Line 2443, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -512,7 +515,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "なし"
-msgstr "Off"
+msgstr "Oprit"
 
 #. ID 1, Page 1, Line 2446, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -520,14 +523,14 @@ msgstr "Off"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "あり"
-msgstr "On"
+msgstr "Pornit"
 
 #. ID 1, Page 1, Line 2449, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 #. ID 1, Page 1, Line 2552, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]オプション\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Options\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Setări\\C[0]"
 
 #. ID 1, Page 1, Line 2450, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -536,9 +539,9 @@ msgid ""
 "\\>操作ラグの時間：\\C[4]\\V[109]\\C[0]　　　 （標準：5）\n"
 "\\>次の項目へ"
 msgstr ""
-"\\>Sound Effects: \\C[4]\\N[6]\\C[0]　　(Default: On)\n"
-"\\>Delay Time   : \\C[4]\\V[109]\\C[0]　　　 (Default: 5)\n"
-"\\>Next Page"
+"\\>Efecte Sonore  : \\C[4]\\N[6]\\C[0]　　(Implicit: Pornit)\n"
+"\\>Timp Întârziere: \\C[4]\\V[109]\\C[0]　　　 (Implicit: 5)\n"
+"\\>Pagina Următoare"
 
 #. ID 1, Page 1, Line 2466, Pos (19,14)
 msgid ""
@@ -546,9 +549,9 @@ msgid ""
 "\\>\n"
 "\\>＞操作音の有無を選べます"
 msgstr ""
-"\\>\\C[10]■\\C[6]Sound Effects\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■\\C[6]Efecte Sonore\\C[0] (Set. Act.: \\C[4]\\N[6]\\C[0])\n"
 "\\>\n"
-"\\>> You can choose whether to enable sound effects"
+"\\>> Poţi alege dacă vrei să activezi efectele sonore"
 
 #. ID 1, Page 1, Line 2469, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -556,7 +559,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]操作時の効果音\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■\\C[6]Sound Effects\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■\\C[6]Efecte Sonore\\C[0] (Set. Act.: \\C[4]\\N[6]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2471, Pos (19,14)
@@ -565,8 +568,8 @@ msgid ""
 "\\>・\\C[\\V[593]]あり\\C[0]（標準）\n"
 "\\>・\\C[\\V[592]]なし\\C[0]"
 msgstr ""
-"\\>・\\C[\\V[593]]On\\C[0] (Default)\n"
-"\\>・\\C[\\V[592]]Off\\C[0]"
+"\\>・\\C[\\V[593]]Pornit\\C[0] (Implicit)\n"
+"\\>・\\C[\\V[592]]Oprit\\C[0]"
 
 #. ID 1, Page 1, Line 2494, Pos (19,14)
 msgid ""
@@ -587,13 +590,13 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "てきぱき"
-msgstr "Fast"
+msgstr "Rapid"
 
 #. ID 1, Page 1, Line 2542, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ゆっくり"
-msgstr "Slow"
+msgstr "Încet"
 
 #. ID 1, Page 1, Line 2553, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -602,9 +605,9 @@ msgid ""
 "\\>未解放の通知　：\\C[4]\\N[1]\\C[0]　　（標準：なし）\n"
 "\\>前の項目へ"
 msgstr ""
-"\\>Transition Speed   : \\C[4]\\N[6]\\C[0] (Default: Slow)\n"
-"\\>Locked Notification: \\C[4]\\N[1]\\C[0]  (Default: Off)\n"
-"\\>Previous Page"
+"\\>Vitezăde Tranziţie: \\C[4]\\N[6]\\C[0] (Implicit: Încet)\n"
+"\\>Notificare Blocată: \\C[4]\\N[1]\\C[0]  (Implicit: Oprit)\n"
+"\\>Pagina Anterioară"
 
 #. ID 1, Page 1, Line 2572, Pos (19,14)
 msgid ""
@@ -612,9 +615,9 @@ msgid ""
 "\\>\n"
 "\\>＞演出変更時の切り替え方式を選べます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Transition Speed\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Vitezăde Tranziţie\\C[0] (Set. Act.: \\C[4]\\N[6]\\C[0])\n"
 "\\>\n"
-"\\>> You can choose the track/variant transition speed"
+"\\>> Poţi alege viteza de tranziţie a piesei/variantei"
 
 #. ID 1, Page 1, Line 2575, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -622,7 +625,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]切り替え方式\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Transition Speed\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Vitezăde Tranziţie\\C[0] (Set. Act.: \\C[4]\\N[6]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2577, Pos (19,14)
@@ -631,8 +634,8 @@ msgid ""
 "\\>・\\C[\\V[592]]ゆっくり\\C[0]（標準）\n"
 "\\>・\\C[\\V[593]]てきぱき\\C[0]"
 msgstr ""
-"\\>・\\C[\\V[592]]Slow\\C[0] (Default)\n"
-"\\>・\\C[\\V[593]]Fast\\C[0]"
+"\\>・\\C[\\V[592]]Încet\\C[0] (Implicit)\n"
+"\\>・\\C[\\V[593]]Rapid\\C[0]"
 
 #. ID 1, Page 1, Line 2614, Pos (19,14)
 msgid ""
@@ -641,10 +644,10 @@ msgid ""
 "\\>＞曲リストの未解放箇所を選択した時\n"
 "\\>　どう処理するか選べます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Notification\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Notificare Blocată\\C[0] (Set. Act.: \\C[4]\\N[1]\\C[0])\n"
 "\\>\n"
-"\\>> You can choose what happens when\n"
-"\\>  a locked track/variant is selected"
+"\\>> Poţi alege ce se întâmplă atunci când\n"
+"\\>  o piesă/variantă blocată este selectată"
 
 #. ID 1, Page 1, Line 2618, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -652,7 +655,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]未解放の通知\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Notification\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Notificare Blocată\\C[0] (Set. Act.: \\C[4]\\N[1]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2620, Pos (19,14)
@@ -661,8 +664,8 @@ msgid ""
 "\\>・\\C[\\V[592]]なし\\C[0]：飛ばして解放演出を流します（標準）\n"
 "\\>・\\C[\\V[593]]あり\\C[0]：演奏を止めてお知らせします"
 msgstr ""
-"\\>・\\C[\\V[592]]Off\\C[0]: Skip to Next Unlocked Track/Variant (Default)\n"
-"\\>・\\C[\\V[593]]On\\C[0]: Stop Playback and Display Notification"
+"\\>・\\C[\\V[592]]Por.\\C[0]: Sari la Următoarea Pi./Var. Deblocată (Imp.)\n"
+"\\>・\\C[\\V[593]]Opr.\\C[0]:Opriţi redarea şi afişaţi notificarea"
 
 #. ID 1, Page 1, Line 2665, Pos (19,14)
 msgid ""
@@ -670,9 +673,9 @@ msgid ""
 "\\>\n"
 "\\>＞設定を変更しました\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Options\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări\\C[0]\n"
 "\\>\n"
-"\\>> Settings have been updated\\<\\.\\.\\^"
+"\\>> Setările au fost actualizate\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 118, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -756,9 +759,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の演出です"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Schimbarea Piesei\\C[0]\n"
 "\\>\n"
-"\\>> This variant is locked"
+"\\>> Varianta asta este blocată"
 
 #. ID 1, Page 2, Line 597, Pos (19,14)
 msgid ""
@@ -767,10 +770,10 @@ msgid ""
 "\\>＞演出は1種類です\n"
 "\\>　（演出変化なし）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Variant Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Schimbarea Variantei\\C[0]\n"
 "\\>\n"
-"\\>> There is one variant\n"
-"\\>  (there are no other variants)"
+"\\>> Există o singură variantă\n"
+"\\>  (nu sunt şi alte variante)"
 
 #. ID 1, Page 2, Line 617, Pos (19,14)
 msgid ""
@@ -779,10 +782,10 @@ msgid ""
 "\\>＞登録された曲・演出は未解放です\n"
 "\\>　解放条件が変わったかもしれません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Schimbarea Piesei\\C[0]\n"
 "\\>\n"
-"\\>> Registered Track・Variant is Locked\n"
-"\\>  Unlock condition may have changed"
+"\\>> Piesă Înregistrată・Varianta e Blocată\n"
+"\\>  Condiţia deblocării ar fi putut fi schimbată"
 
 #. ID 1, Page 2, Line 621, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -791,9 +794,9 @@ msgid ""
 "\\>\n"
 "\\>＞登録を消去しますか？"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Schimbare Piesă\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to unregister this track?"
+"\\>> Vrei să ştergi această piesă?"
 
 #. ID 1, Page 2, Line 624, Pos (19,14)
 #. Choice (1 options, embedded in a message)
@@ -818,9 +821,9 @@ msgid ""
 "\\>\n"
 "\\>＞\\V[110]番の曲を消去しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Unregister From Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Elimină din Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\V[110] has been unregistered"
+"\\>> Piesa nr. \\V[110] a fost eliminată"
 
 #. ID 1, Page 2, Line 633, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -861,7 +864,7 @@ msgid ""
 "\\>＞曲・演出・ヒントから\n"
 "\\>　曲No.を探し出すゲームです"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Căutare\\C[0]\n"
 "\\>\n"
 "\\>＞曲・演出・ヒントから\n"
 "\\>　曲No.を探し出すゲームです"
@@ -873,9 +876,9 @@ msgid ""
 "\\>\n"
 "\\>＞やりますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Căutare\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to play?\\<\\!"
+"\\>> Vrei să asculţi?\\<\\!"
 
 #. ID 1, Page 2, Line 856, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -915,7 +918,7 @@ msgstr "Playlist"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リスト"
-msgstr "List"
+msgstr "Listă"
 
 #. ID 1, Page 2, Line 892, Pos (19,14)
 msgid ""
@@ -923,9 +926,9 @@ msgid ""
 "\\>\n"
 "\\>＞\\N[6]モードに切り替えました\\N[1]"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Play Mode Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Schimbă Modul Redării\\C[0]\n"
 "\\>\n"
-"\\>> Switched to \\N[6] Mode\\N[1]"
+"\\>> Schimbat la Modul \\N[6]\\N[1]"
 
 #. ID 1, Page 2, Line 898, Pos (19,14)
 msgid ""
@@ -933,9 +936,9 @@ msgid ""
 "\\>\n"
 "\\>曲＆演出を10個まで登録して聞くことができます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]About Playlist Mode\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Despre Modul Playlist\\C[0]\n"
 "\\>\n"
-"\\>You can register up to 10 tracks to listen to"
+"\\>Poţi înregistra până la 10 piese pentru ascultare"
 
 #. ID 1, Page 2, Line 905, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -954,14 +957,14 @@ msgid ""
 "\\>\n"
 "\\>＞どこからチェックを開始しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Track Check\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Verificare Piese Blocate\\C[0]\n"
 "\\>\n"
-"\\>> Where do you want to start the check?\\<\\!"
+"\\>> Unde vrei să începi verificarea?\\<\\!"
 
 #. ID 1, Page 2, Line 995, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>カーソル位置 = Z / No.1 = X"
-msgstr "\\>Cursor Position = Z / No. 1 = X"
+msgstr "\\>Poziţia Cursorului = Z / No. 1 = X"
 
 #. ID 1, Page 2, Line 1023, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1006,14 +1009,14 @@ msgid ""
 "\\>\n"
 "\\>＞未解放No.：\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Track Check\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Verificare Piese Blocate\\C[0]\n"
 "\\>\n"
-"\\>> Locked Track No.: \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
+"\\>> Nr. Piesă Blocată: \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 
 #. ID 1, Page 2, Line 1042, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>次へ = Z / 終了 = X"
-msgstr "\\>Next = Z / End = X"
+msgstr "\\>Următorul = Z / Final = X"
 
 #. ID 1, Page 2, Line 1062, Pos (19,14)
 msgid ""
@@ -1021,9 +1024,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放箇所は見つかりませんでした"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Track Check\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Verificare Piese Blocate\\C[0]\n"
 "\\>\n"
-"\\>> Couldn't find any locked tracks"
+"\\>> Nu s-au putut găsi piese blocate"
 
 #. ID 1, Page 2, Line 1111, Pos (19,14)
 msgid ""
@@ -1031,9 +1034,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲を聞きながら登録できます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ascultă şi Înregistrează Piese\\C[0]\n"
 "\\>\n"
-"\\>> You can register tracks as you listen to them"
+"\\>> Poţi înregistra piese în timp ce le asculţi"
 
 #. ID 1, Page 2, Line 1114, Pos (19,14)
 msgid ""
@@ -1042,10 +1045,10 @@ msgid ""
 "\\>＞曲名が暗くなっているのが未登録です\n"
 "\\>　指定No.が未解放の場合は飛ばします"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ascultă şi Înregistrează Piese\\C[0]\n"
 "\\>\n"
-"\\>> Unregistered tracks will show as dark\n"
-"\\>  Locked tracks will be skipped"
+"\\>> Piesele neînregistrate vor apărea întunecate\n"
+"\\>  Vor fi sărite peste piesele blocate"
 
 #. ID 1, Page 2, Line 1122, Pos (19,14)
 msgid ""
@@ -1054,31 +1057,33 @@ msgid ""
 "\\>＞未解放曲が長く続く箇所があると\n"
 "\\>　切り替えに\\C[1]時間がかかります"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ascultă şi Înregistrează Piese\\C[0]\n"
 "\\>\n"
-"\\>> If there are a lot of locked tracks in a row,\n"
-"\\>  it may \\C[1]take a long time"
+"\\>> Dacă sunt mai multe piese blocate consecutive,\n"
+"\\>  s-ar putea \\C[1]să dureze mai mult timp"
 
 #. ID 1, Page 2, Line 1126, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ascultă şi Înregistrează Piese\\C[0]\n"
 "\\>\n"
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
 
 #. ID 1, Page 2, Line 1130, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
 "\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
 "\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ascultă şi Înregistrează Piese\\C[0]\n"
 "\\>\n"
 "\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
 "\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
@@ -1108,7 +1113,7 @@ msgstr ""
 #. ID 1, Page 2, Line 1324, Pos (19,14)
 #. Contains choice at line 2 (2 options)
 msgid "\\>SRNo.：\\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
-msgstr "\\>Track No.: \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
+msgstr "\\>Nr. Piesei:: \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
 
 #. ID 1, Page 2, Line 1293, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1117,9 +1122,9 @@ msgid ""
 "\\>指定No.へ移動\n"
 "\\>メモリー登録 / 終了"
 msgstr ""
-"\\>Next = Z / Previous = X\n"
-"\\>Set Track No.\n"
-"\\>Register to Playlist / Exit"
+"\\>Următorul = Z / Precedent = X\n"
+"\\>Setează Nr. Piesei\n"
+"\\>Înregistrează la Playlist / Ieşi"
 
 #. ID 1, Page 2, Line 1306, Pos (19,14)
 msgid ""
@@ -1127,9 +1132,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Track No.\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setează Nr. Piesei\\C[0]\n"
 "\\>\n"
-"\\>> Please specify the track no. (\\C[1]1~\\V[111]\\C[0]  0 to cancel）"
+"\\>> Te rog specifică nr. piesei (\\C[1]1~\\V[111]\\C[0]  0 pentru a anula）"
 
 #. ID 1, Page 2, Line 1325, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1137,8 +1142,8 @@ msgid ""
 "\\>メモリー登録\n"
 "\\>終了"
 msgstr ""
-"\\>Register to Playlist\n"
-"\\>Exit"
+"\\>Înregistrează la Playlist\n"
+"\\>Ieşi"
 
 #. ID 1, Page 2, Line 1330, Pos (19,14)
 msgid ""
@@ -1147,10 +1152,10 @@ msgid ""
 "\\>＞登録するNo.を指定してください\n"
 "\\>　 (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Înregistrează la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Select the playlist slot no. to register to\n"
-"\\>  (Select 0 for No. 10)"
+"\\>> Selectează nr. slotului pt. a înregistra în\n"
+"\\>  (Selectează 0 pentru Nr. 10)"
 
 #. ID 1, Page 2, Line 1334, Pos (19,14)
 #. ID 1, Page 2, Line 1950, Pos (19,14)
@@ -1159,9 +1164,9 @@ msgid ""
 "\\>\n"
 "\\>＞ (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Înregistrează la Playlist\\C[0]\n"
 "\\>\n"
-"\\>　 (Select 0 for No. 10)"
+"\\>　 (Selectează 0 pentru Nr. 10)"
 
 #. ID 1, Page 2, Line 1347, Pos (19,14)
 msgid ""
@@ -1169,9 +1174,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[101]に登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Înregistrează la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Registered track to playlist slot no. \\V[101]"
+"\\>> Piesă înregistrată în slotul nr. \\V[101]"
 
 #. ID 1, Page 2, Line 1415, Pos (19,14)
 msgid ""
@@ -1180,10 +1185,10 @@ msgid ""
 "\\>＞ジャンプ先No.を指定してください\n"
 "\\>　（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Cursor Position\\C[0] (Current: \\C[4]No.\\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Setează Poziţia Cursorului\\C[0] (Act.: \\C[4]No.\\V[110]\\C[0])\n"
 "\\>\n"
-"\\>> Please specify the track no. to jump to\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 to cancel  \\V[591] and above are random)"
+"\\>> Te rog specifică nr. piesei pentru a sări la\n"
+"\\>  (\\C[1]1~\\V[111]\\C[0]  0 pentru a an.  \\V[591] şi de mai sus ale."
 
 #. ID 1, Page 2, Line 1419, Pos (19,14)
 msgid ""
@@ -1191,9 +1196,9 @@ msgid ""
 "\\>\n"
 "\\>＞（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Cursor Position\\C[0] (Current: \\C[4]No. \\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Setează Poziţia Cursorului\\C[0] (Act.: \\C[4]Nr. \\V[110]\\C[0])\n"
 "\\>\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 to cancel  \\V[591] and above are random)"
+"\\>  (\\C[1]1~\\V[111]\\C[0]  0 pentru a an.  \\V[591] şi de mai sus ale."
 
 #. ID 1, Page 2, Line 1580, Pos (19,14)
 msgid ""
@@ -1201,9 +1206,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にジャンプします\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Cursor Position\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setează Poziţia Cursorului\\C[0]\n"
 "\\>\n"
-"\\>> Jump to track no. \\V[110]\\<\\.\\.\\^"
+"\\>> Sari la piesa nr. \\V[110]\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 1617, Pos (19,14)
 msgid ""
@@ -1255,9 +1260,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が演奏されていません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Display Track Info\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Afişează informaţiile piesei\\C[0]\n"
 "\\>\n"
-"\\>> Track could not be played"
+"\\>> Piesa nu a putut fii redată"
 
 #. ID 1, Page 2, Line 1779, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -1273,8 +1278,8 @@ msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：\\C[4]\\V[591]\\C[0])"
 msgstr ""
-"\\>File Name: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Track No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: \\C[4]\\V[591]\\C[0])"
+"\\>Nume Fişier: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>Nr. Piesă: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Slot Playlist: \\C[4]\\V[591]\\C[0])"
 
 #. ID 1, Page 2, Line 1845, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1282,8 +1287,8 @@ msgid ""
 "\\>メモリーを消去\n"
 "\\>PC画面BGMに登録"
 msgstr ""
-"\\>Unregister From Playlist\n"
-"\\>Register as PC Screen BGM"
+"\\>Scoate din Playlist\n"
+"\\>Înregistrează ca BGM pentru PC"
 
 #. ID 1, Page 2, Line 1861, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -1291,8 +1296,8 @@ msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：---)"
 msgstr ""
-"\\>File Name: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Track No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: ---)"
+"\\>Nume Fişier: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>Nr. Piesă: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Slot Playlist: ---)"
 
 #. ID 1, Page 2, Line 1863, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1300,8 +1305,8 @@ msgid ""
 "\\>メモリーに登録\n"
 "\\>PC画面BGMに登録"
 msgstr ""
-"\\>Register to Playlist\n"
-"\\>Register as PC Screen BGM"
+"\\>Adaugă în Playlist\n"
+"\\>Înregistrează ca BGM pentru PC"
 
 #. ID 1, Page 2, Line 1889, Pos (19,14)
 msgid ""
@@ -1309,9 +1314,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[122]を消去しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Unregister From Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Scoate din Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Track has been unregistered from slot no. \\V[122]"
+"\\>> Piesa a fost scoasă din slot-ul nr. \\V[122]"
 
 #. ID 1, Page 2, Line 1909, Pos (19,14)
 msgid ""
@@ -1319,9 +1324,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[591]を消去しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Unregister From Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Scoate din Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Track has been unregistered from slot no. \\V[591]"
+"\\>> Piesa a fost scoasă din slot-ul nr. \\V[591]"
 
 #. ID 1, Page 2, Line 1930, Pos (19,14)
 msgid ""
@@ -1329,9 +1334,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[592]に登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Track has been registered to slot no. \\V[592]"
+"\\>> Piesa a fost adăugată la slot-ul nr. \\V[592]"
 
 #. ID 1, Page 2, Line 1938, Pos (19,14)
 msgid ""
@@ -1339,9 +1344,9 @@ msgid ""
 "\\>\n"
 "\\>＞記憶枠が空いていません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> There are no free slots left in your playlist"
+"\\>> Nu mai sunt spaţii libere în playlist"
 
 #. ID 1, Page 2, Line 1941, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1350,50 +1355,54 @@ msgid ""
 "\\>\n"
 "\\>＞上書きしますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to overwrite the existing track?\\<\\!"
+"\\>> Vrei să schimbi piesa existentă?\\<\\!"
 
 #. ID 1, Page 2, Line 1946, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
 "\\>＞上書きするNo.を指定してください\n"
 "\\>　 (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
 "\\>> Enter a slot no. to overwrite\n"
 "\\>  (Enter 0 for slot no. 10)"
 
 #. ID 1, Page 2, Line 1965, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
 "\\>＞No.\\V[592]に上書きしました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
 "\\>> Slot no. \\V[592] has been overwritten"
 
 #. ID 1, Page 2, Line 1985, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
 "\\>＞SR No.\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]を登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register as PC Screen BGM\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Înregistrează ca BGM pentru PC\\C[0]\n"
 "\\>\n"
 "\\>> Track no. \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] has been registered"
 
 #. ID 1, Page 2, Line 1997, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
 "\\>＞PCの \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
 "\\>＞登録した曲を設定できます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register as PC Screen BGM\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Înregistrează ca BGM pentru PC\\C[0]\n"
 "\\>\n"
 "\\>> PCの \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
 "\\>> 登録した曲を設定できます"
@@ -1566,10 +1575,10 @@ msgid ""
 "\\>\\C[1]♪\\C[0]Pattern：\\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
 "\\>\\C[1]♪\\C[0]Rate   ：\\C[4]\\V[591]％\\C[0] (\\N[6]\\V[5]％\\C[0])"
 msgstr ""
-"\\>　　　　　 \\C[4]☆ \\C[0]Unlocked Info \\C[4]★\\C[0]\n"
-"\\>\\C[1]♪\\C[0]Track  : \\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
-"\\>\\C[1]♪\\C[0]Variant: \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
-"\\>\\C[1]♪\\C[0]Rate   : \\C[4]\\V[591]%\\C[0] (\\N[6]\\V[5]%\\C[0])"
+"\\>　　　　　 \\C[4]☆ \\C[0]Informaţii Valabile \\C[4]★\\C[0]\n"
+"\\>\\C[1]♪\\C[0]Piesă   : \\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
+"\\>\\C[1]♪\\C[0]Variantă: \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
+"\\>\\C[1]♪\\C[0]Rată    : \\C[4]\\V[591]%\\C[0] (\\N[6]\\V[5]%\\C[0])"
 
 #. ID 1, Page 4, Line 459, Pos (19,14)
 msgid ""
@@ -1577,18 +1586,19 @@ msgid ""
 "\\>\n"
 "\\>＞曲が全解放されています"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Notice\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Notiţă\\C[0]\n"
 "\\>\n"
-"\\>> All tracks have been unlocked"
+"\\>> Toate piesele au fost deblocate"
 
 #. ID 1, Page 4, Line 462, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]おしらせ\\C[0]\n"
 "\\>\n"
 "\\>＞メニューの「未解放箇所を探す」を\n"
 "\\>　「サウンドサーチ」に変更しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Notice\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Notiţă\\C[0]\n"
 "\\>\n"
 "\\>> The menu option 'Locked Track Search'\n"
 "\\>  has been changed to 'Track Search'"
@@ -1613,9 +1623,9 @@ msgid ""
 "\\>\n"
 "\\>＞メモリーの登録内容が更新されています"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Save Playlist Changes\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Salvează Schimbări la PL.\\C[0]\n"
 "\\>\n"
-"\\>> Changes were made to your playlist"
+"\\>> Există schimbări la acest playlist"
 
 #. ID 1, Page 4, Line 575, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1624,9 +1634,9 @@ msgid ""
 "\\>\n"
 "\\>＞今回のメモリーの登録状況を保存しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Save Playlist Changes\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Salvează Schimbări la PL.\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to save your playlist changes?\\<\\!"
+"\\>> Doreşti să salvezi schimbările acestuia?\\<\\!"
 
 #. ID 1, Page 4, Line 591, Pos (19,14)
 msgid ""
@@ -1634,18 +1644,19 @@ msgid ""
 "\\>\n"
 "\\>＞保存が完了しました\\<\\.\\.\\^"
 msgstr ""
-"\\>♪ \\C[6]Save Playlist Changes\\C[0]\n"
+"\\>♪ \\C[6]Salvează Schimbări la PL.\\C[0]\n"
 "\\>\n"
-"\\>> Changes has been saved\\<\\.\\.\\^"
+"\\>> Schimbările au fost salvate\\<\\.\\.\\^"
 
 #. ID 1, Page 4, Line 611, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[0]デバッグ確認\n"
 "\\>\n"
 "\\>＞SR退室に伴い\n"
 "\\>　デバッグ退避を解除します"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Debug Confirmation\n"
+"\\>\\C[10]■ \\C[0]Confirmare Debug\n"
 "\\>\n"
 "\\>＞SR退室に伴い\n"
 "\\>　デバッグ退避を解除します"
@@ -1706,9 +1717,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が登録されていません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> The track could not be registered"
+"\\>> Piesa nu a putut fi înregistrată."
 
 #. ID 1, Page 5, Line 371, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1717,9 +1728,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を直接入力して登録しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Would you like to enter a track no.?\\<\\!"
+"\\>> Doreşti să introduci un număr?\\<\\!"
 
 #. ID 1, Page 5, Line 378, Pos (19,14)
 msgid ""
@@ -1727,9 +1738,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0] 0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Enter a track no. (\\C[1]1~\\V[111]\\C[0] 0 to cancel)"
+"\\>> Introdu un nr. (Melodie) (\\C[1]1~\\V[111]\\C[0] 0 pentru anulare)"
 
 #. ID 1, Page 5, Line 404, Pos (19,14)
 msgid ""
@@ -1737,21 +1748,21 @@ msgid ""
 "\\>\n"
 "\\>＞演出No.を指定してください（\\C[1]1～\\V[104]\\C[0] 0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Enter a track variant no. (\\C[1]1~\\V[104]\\C[0] 0 to cancel)"
+"\\>> Introdu un nr. (Variantă) (\\C[1]1~\\V[104]\\C[0] 0 pentru anulare)"
 
 #. ID 1, Page 5, Line 434, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演出"
-msgstr "Variant"
+msgstr "Variantă"
 
 #. ID 1, Page 5, Line 437, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "曲"
-msgstr "Track"
+msgstr "Melodie"
 
 #. ID 1, Page 5, Line 440, Pos (19,14)
 msgid ""
@@ -1759,9 +1770,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の\\N[6]です"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> This \\N[6] is locked"
+"\\>> Acest \\N[6] este blocat."
 
 #. ID 1, Page 5, Line 468, Pos (19,14)
 msgid ""
@@ -1769,9 +1780,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にSRNo.\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]を登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]メモリー登録\\C[0]\n"
+"\\>\\C[10]■ \\C[6Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] has been registered to slot no. \\V[110]"
+"\\>> Piesa nr. \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] a fost înregistrată la slotul nr. \\V[110]"
 
 #. ID 1, Page 5, Line 527, Pos (19,14)
 msgid ""
@@ -1779,9 +1790,9 @@ msgid ""
 "\\>\n"
 "\\>＞かかった時間：\\V[35]秒"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Căutare\\C[0]\n"
 "\\>\n"
-"\\>> Time Elapsed: \\V[35]s"
+"\\>> Timp Petrecut: \\V[35]s"
 
 #. ID 1, Page 5, Line 532, Pos (19,14)
 msgid ""
@@ -1789,9 +1800,9 @@ msgid ""
 "\\>\n"
 "\\>＞かかった時間：\\V[34]分\\V[35]秒"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Căutare\\C[0]\n"
 "\\>\n"
-"\\>> Time Elapsed: \\V[34]m \\V[35]s"
+"\\>> Timp Petrecut: \\V[34]m \\V[35]s"
 
 #. ID 1, Page 5, Line 537, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1800,9 +1811,9 @@ msgid ""
 "\\>\n"
 "\\>＞もう一度やりますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Căutare\\C[0]\n"
 "\\>\n"
-"\\>> Play again?\\<\\!"
+"\\>> Rulezi din nou?\\<\\!"
 
 #. ID 1, Page 5, Line 544, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1826,28 +1837,28 @@ msgid ""
 "\\>高度な機能\n"
 "\\>操作ガイド"
 msgstr ""
-"\\>Leave Sound Room\n"
-"\\>Change Mode\n"
-"\\>Advanced Options\n"
-"\\>Display Instructions"
+"\\>Ieşi din Sound Room\n"
+"\\>Schimbă Modul\n"
+"\\>Setări Avansate\n"
+"\\>Afişează Instrucţiuni"
 
 #. ID 1, Page 5, Line 625, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "PC画面"
-msgstr "PC Screen"
+msgstr "Ecranul PC-u."
 
 #. ID 1, Page 5, Line 627, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ﾃﾞﾊﾞｯｸﾞﾙｰﾑ"
-msgstr "Debug Room"
+msgstr "Camera Debug"
 
 #. ID 1, Page 5, Line 631, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "製作者部屋"
-msgstr "Developer Room"
+msgstr "Camera Dez."
 
 #. ID 1, Page 5, Line 637, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -1855,7 +1866,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]退室先の選択\\C[0]\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Select Exit Destination\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Alege Destinaţia Ieşirii\\C[0]\n"
 "\\>"
 
 #. ID 1, Page 5, Line 639, Pos (19,14)
@@ -1864,13 +1875,13 @@ msgid ""
 "\\>\\C[4]退室して\\N[6]へ戻る\\C[0]\n"
 "\\>旧SRへ移動"
 msgstr ""
-"\\>\\C[4]Leave Room and Return to \\N[6]\\C[0]\n"
-"\\>Switch to Old Sound Room"
+"\\>\\C[4]Ieşi şi întoarce-te la \\N[6]\\C[0]\n"
+"\\>Schimbă la Sound Room-ul vechi"
 
 #. ID 1, Page 5, Line 650, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]退室先の選択\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Select Exit Destination\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Alege Destinaţia Ieşirii\\C[0]"
 
 #. ID 1, Page 5, Line 651, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1879,9 +1890,9 @@ msgid ""
 "\\>旧SRへ移動\n"
 "\\>SREDを見る"
 msgstr ""
-"\\>\\C[4]Leave Room and Return to \\N[6]\\C[0]\n"
-"\\>Switch to Old Sound Room\n"
-"\\>View Sound Room ED"
+"\\>\\C[4]Ieşi şi întoarce-te la \\N[6]\\C[0]\n"
+"\\>Schimbă la Sound Room-ul vechi\n"
+"\\>Vizionează SF Sound Room"
 
 #. ID 1, Page 5, Line 668, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1893,18 +1904,18 @@ msgstr ""
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "演奏を止める"
-msgstr "Stop Current Track"
+msgstr "Opreşte Piesa Curentă"
 
 #. ID 1, Page 5, Line 685, Pos (19,14)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "次の曲を演奏する"
-msgstr "Skip to Next Track"
+msgstr "Sari la Următoarea Pesă"
 
 #. ID 1, Page 5, Line 695, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]モード変更\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Change Mode\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Schimbă Modul\\C[0]"
 
 #. ID 1, Page 5, Line 696, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1913,8 +1924,8 @@ msgid ""
 "\\>自動曲送りの設定\n"
 "\\>\\N[5]"
 msgstr ""
-"\\>Switch to \\N[6] Mode\n"
-"\\>Autoplay Settings\n"
+"\\>Schimbă la Modul \\N[6]\n"
+"\\>Setări Autoplay\n"
 "\\>\\N[5]"
 
 #. ID 1, Page 5, Line 700, Pos (19,14)
@@ -1939,24 +1950,24 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "カーソルジャンプ"
-msgstr "Cursor Jump"
+msgstr "Sari"
 
 #. ID 1, Page 5, Line 751, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演奏可能曲を登録"
-msgstr "Listen and Register Tracks"
+msgstr "Ascultă şi Înregistrează Piese"
 
 #. ID 1, Page 5, Line 752, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "メモリーの交換 / 全消去"
-msgstr "Playlist Swap / Remove All"
+msgstr "Schimbă Playlist-ul / Elimină Toate"
 
 #. ID 1, Page 5, Line 755, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]高度な機能\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Advanced Options\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Setări Avansate\\C[0]"
 
 #. ID 1, Page 5, Line 756, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1967,7 +1978,7 @@ msgid ""
 msgstr ""
 "\\>\\N[6]\n"
 "\\>\\N[1]\n"
-"\\>Options"
+"\\>Setări"
 
 #. ID 1, Page 5, Line 770, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1993,7 +2004,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]メモリーの操作\\C[0]\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Playlist Options\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Setări pentru Playlist\\C[0]\n"
 "\\>"
 
 #. ID 1, Page 5, Line 797, Pos (19,14)
@@ -2002,8 +2013,8 @@ msgid ""
 "\\> 交換\n"
 "\\> 全消去"
 msgstr ""
-"\\> Swap\n"
-"\\> Remove All"
+"\\> Schimbă\n"
+"\\> Elimină Toate"
 
 #. ID 1, Page 5, Line 801, Pos (19,14)
 #. ChangeHeroName (Actor 1)
