@@ -23,7 +23,7 @@ msgid ""
 "\\>END MINI-GAME\n"
 "\\>OPTION"
 msgstr ""
-"\\>미니게임 종료E\n"
+"\\>미니게임 종료\n"
 "\\>옵션"
 
 #. ID 39, Page 1, Line 113, Pos (2,5)
