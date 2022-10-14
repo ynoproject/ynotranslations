@@ -10,31 +10,33 @@ msgstr ""
 
 #. ID 3, Page 1, Line 4, Pos (1,13)
 msgid "あらすじ"
-msgstr ""
+msgstr "줄거리"
 
 #. ID 3, Page 1, Line 5, Pos (1,13)
 msgid "エフェクトを全て集めたうろつき"
-msgstr ""
+msgstr "이펙트를 모두 모은 우로츠키"
 
 #. ID 3, Page 1, Line 6, Pos (1,13)
 msgid "目を覚まし、現実世界へ戻ってくるが"
-msgstr ""
+msgstr "꿈에서 깨고, 현실의 방으로 돌아오는데"
 
 #. ID 3, Page 1, Line 7, Pos (1,13)
 msgid "現実部屋のカーテンがたなびいている"
-msgstr ""
+msgstr "현실 방의 커튼이 나부끼고 있다"
 
 #. ID 3, Page 1, Line 8, Pos (1,13)
 msgid ""
 "そしてベランダに出るとそこには\n"
 "どこかで見覚えのある階段が・・・"
 msgstr ""
+"그리고 베란다로 나가면 그곳에는n"
+"어디선가 낯익은 계단이..."
 
 #. ID 7, Page 1, Line 37, Pos (7,13)
 msgid "PCの画面を開くと、「ゆめ２っき」らしきアイコンが…"
-msgstr ""
+msgstr "PC 화면을 열면, '유메2키'같은 아이콘이..."
 
 #. ID 7, Page 1, Line 38, Pos (7,13)
 msgid "クリックしてフェードアウト"
-msgstr ""
+msgstr "클릭해서 페이드아웃"
 
