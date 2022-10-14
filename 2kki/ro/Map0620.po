@@ -445,7 +445,6 @@ msgstr ""
 "\\>  (Set. Act.: \\C[4]\\V[119]s\\C[0] 0 pentru a lăsa nes.)"
 
 #. ID 1, Page 1, Line 2252, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]切替時間の設定\\C[0]\n"
 "\\>\n"
@@ -453,7 +452,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Setări de Scuregera Timpului\\C[0]\n"
 "\\>\n"
-"\\>  (Set. Act.: \\C[4]\\V[119]s\\C[0]  0 pentru a lăsa neschimbat)"
+"\\>  (Set. Act.: \\C[4]\\V[119]s\\C[0] 0 pentru a lăsa nes.)"
 
 #. ID 1, Page 1, Line 2267, Pos (19,14)
 msgid ""
@@ -1360,7 +1359,6 @@ msgstr ""
 "\\>> Vrei să schimbi piesa existentă?\\<\\!"
 
 #. ID 1, Page 2, Line 1946, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1369,11 +1367,10 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Enter a slot no. to overwrite\n"
-"\\>  (Enter 0 for slot no. 10)"
+"\\>> Scrie un nr. pentru a înlocui\n"
+"\\>  (Intră 0 pentru slotul 10)"
 
 #. ID 1, Page 2, Line 1965, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1381,10 +1378,9 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
-"\\>> Slot no. \\V[592] has been overwritten"
+"\\>> Slotul nr. \\V[592] a fost înlocuit"
 
 #. ID 1, Page 2, Line 1985, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
@@ -1392,7 +1388,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Înregistrează ca BGM pentru PC\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] has been registered"
+"\\>> Piesa nr. \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] a fost înreg."
 
 #. ID 1, Page 2, Line 1997, Pos (19,14)
 #, fuzzy
@@ -1591,7 +1587,6 @@ msgstr ""
 "\\>> Toate piesele au fost deblocate"
 
 #. ID 1, Page 4, Line 462, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]おしらせ\\C[0]\n"
 "\\>\n"
@@ -1600,8 +1595,8 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Notiţă\\C[0]\n"
 "\\>\n"
-"\\>> The menu option 'Locked Track Search'\n"
-"\\>  has been changed to 'Track Search'"
+"\\>> 'Căutare Piese Blocate'\n"
+"\\>  a fost schimbat la 'Căutare Piese'"
 
 #. ID 1, Page 4, Line 476, Pos (19,14)
 msgid ""
