@@ -1986,13 +1986,13 @@ msgstr ""
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "演奏を止める"
-msgstr ""
+msgstr "재생을 중지하기"
 
 #. ID 1, Page 5, Line 685, Pos (19,14)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "次の曲を演奏する"
-msgstr ""
+msgstr "다음 곡을 재생하기"
 
 #. ID 1, Page 5, Line 695, Pos (19,14)
 #. Contains choice at line 2 (3 options)
@@ -2006,6 +2006,9 @@ msgid ""
 "\\>自動曲送りの設定\n"
 "\\>\\N[5]"
 msgstr ""
+"\\>\\N[6] 모드로 전환\n"
+"\\>자동 곡 재생 설정\n"
+"\\>\\N[5]"
 
 #. ID 1, Page 5, Line 700, Pos (19,14)
 #. ChangeHeroName (Actor 1)
