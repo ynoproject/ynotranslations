@@ -15,6 +15,9 @@ msgid ""
 "\\>\n"
 "\\>　  　　 集めた壁紙を連続で閲覧できます"
 msgstr ""
+"\\>　  　　　   　　배경화면 앨범\n"
+"\\>\n"
+"\\>　  모은 배경화면을 연속으로 볼 수 있습니다"
 
 #. ID 1, Page 1, Line 19, Pos (0,14)
 #. ID 1, Page 2, Line 77, Pos (0,14)
@@ -26,6 +29,10 @@ msgid ""
 "\\>           1つ戻す… $v　$t …1つ送る\n"
 "\\>                       $u …No.指定"
 msgstr ""
+"\\>                    조작설명\n"
+"\\>          랜덤 표시… $s \n"
+"\\>        1칸 앞으로… $v　$t …1칸 뒤로\n"
+"\\>                       $u …No.지정"
 
 #. ID 1, Page 1, Line 23, Pos (0,14)
 #. ID 1, Page 2, Line 81, Pos (0,14)
@@ -35,6 +42,10 @@ msgid ""
 "\\>              X …メニュー\n"
 "\\>              Shift …曲のランダム変更"
 msgstr ""
+"\\>                    조작설명\n"
+"\\>              Z …조작설명 다시보기\n"
+"\\>              X …메뉴\n"
+"\\>              Shift …곡 랜덤 변경"
 
 #. ID 1, Page 3, Line 7, Pos (0,14)
 #. Choice (4 options)
@@ -44,6 +55,10 @@ msgid ""
 "\\>アルバムの詳細設定\n"
 "\\>アルバム終了"
 msgstr ""
+"\\>자동전환 기능 설정\n"
+"\\>BGM선택\n"
+"\\>앨범 상세설정\n"
+"\\>앨범 종료"
 
 #. ID 1, Page 3, Line 10, Pos (0,14)
 #. ID 1, Page 3, Line 27, Pos (0,14)
@@ -52,6 +67,9 @@ msgid ""
 "\\>\n"
 "\\>自動切り替え機能を使うか選べます"
 msgstr ""
+"\\>◆자동전환 기능 설정\n"
+"\\>\n"
+"\\>자동전환 기능을 사용할지 선택할 수 있습니다"
 
 #. ID 1, Page 3, Line 13, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -60,13 +78,16 @@ msgid ""
 "\\>\n"
 "\\>現在：使用する"
 msgstr ""
+"\\>◆자동전환 기능 설정\n"
+"\\>\n"
+"\\>현재:사용한다"
 
 #. ID 1, Page 3, Line 16, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 #. ID 1, Page 3, Line 33, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：使用する / X：使用しない"
-msgstr ""
+msgstr "\\>Z:사용한다 / X:사용하지 않는다"
 
 #. ID 1, Page 3, Line 30, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -75,6 +96,9 @@ msgid ""
 "\\>\n"
 "\\>現在：使用しない"
 msgstr ""
+"\\>◆자동전환 기능 설정\n"
+"\\>\n"
+"\\>현재:사용하지 않는다"
 
 #. ID 1, Page 3, Line 44, Pos (0,14)
 #. ID 1, Page 3, Line 165, Pos (0,14)
@@ -84,6 +108,10 @@ msgid ""
 "\\>自動切り替えの間隔を指定できます\n"
 "\\>※「11」以下は「12」に変更されます"
 msgstr ""
+"\\>◆전환 간격 설정\n"
+"\\>\n"
+"\\>자동전환 간격을 지정할 수 있습니다\n"
+"\\>* '11' 이하는 '12'로 변경됩니다"
 
 #. ID 1, Page 3, Line 48, Pos (0,14)
 msgid ""
@@ -91,6 +119,9 @@ msgid ""
 "\\>\n"
 "\\>設定可能範囲：1～9999（現在：\\V[3934]）"
 msgstr ""
+"\\>◆전환 간격 설정\n"
+"\\>\n"
+"\\>설정가능범위:1～9999 (현재:\\V[3934])"
 
 #. ID 1, Page 3, Line 57, Pos (0,14)
 #. ID 1, Page 3, Line 73, Pos (0,14)
@@ -101,6 +132,9 @@ msgid ""
 "\\>\n"
 "\\>自動切り替え時の壁紙表示順を選べます"
 msgstr ""
+"\\>◆배경화면 표시 순서 설정\n"
+"\\>\n"
+"\\>자동전환 시 배경화면 표시 순서를 선택할 수 있습니다"
 
 #. ID 1, Page 3, Line 60, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -111,6 +145,9 @@ msgid ""
 "\\>\n"
 "\\>現在：壁紙No.順"
 msgstr ""
+"\\>◆배경화면 표시 순서 설정\n"
+"\\>\n"
+"\\>현재:배경화면No.순"
 
 #. ID 1, Page 3, Line 63, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -121,7 +158,7 @@ msgstr ""
 #. ID 1, Page 3, Line 203, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：壁紙No.順 / X：ランダム"
-msgstr ""
+msgstr "\\>Z:배경화면No.순 / X:랜덤"
 
 #. ID 1, Page 3, Line 76, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -132,6 +169,9 @@ msgid ""
 "\\>\n"
 "\\>現在：ランダム"
 msgstr ""
+"\\>◆배경화면 표시 순서 설정\n"
+"\\>\n"
+"\\>현재:랜덤"
 
 #. ID 1, Page 3, Line 90, Pos (0,14)
 #. ID 1, Page 3, Line 106, Pos (0,14)
@@ -142,6 +182,9 @@ msgid ""
 "\\>\n"
 "\\>作品情報を表示するか選べます"
 msgstr ""
+"\\>◆작품정보 설정\n"
+"\\>\n"
+"\\>작품정보를 표시할 지 선택할 수 있습니다"
 
 #. ID 1, Page 3, Line 93, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -152,6 +195,9 @@ msgid ""
 "\\>\n"
 "\\>現在：表示する"
 msgstr ""
+"\\>◆작품정보 설정\n"
+"\\>\n"
+"\\>현재:표시한다"
 
 #. ID 1, Page 3, Line 96, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -162,7 +208,7 @@ msgstr ""
 #. ID 1, Page 3, Line 239, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：表示する / X：表示しない"
-msgstr ""
+msgstr "\\>Z:표시한다 / X:표시하지 않는다"
 
 #. ID 1, Page 3, Line 109, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -173,6 +219,9 @@ msgid ""
 "\\>\n"
 "\\>現在：表示しない"
 msgstr ""
+"\\>◆작품설명 설정\n"
+"\\>\n"
+"\\>현재:표시하지 않는다"
 
 #. ID 1, Page 3, Line 125, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -181,11 +230,14 @@ msgid ""
 "\\>\n"
 "\\>既定の選択肢かSR分室から曲を選べます"
 msgstr ""
+"\\>◆BGM 지정\n"
+"\\>\n"
+"\\>기정 선택지나 SR분실에서 곡을 고를 수 있습니다"
 
 #. ID 1, Page 3, Line 128, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：SR分室からBGMを取得 / X：既定のBGMから選択"
-msgstr ""
+msgstr "\\>Z:SR분실에서 BGM 가져오기 / X:기정 BGM 중에서 선택"
 
 #. ID 1, Page 3, Line 130, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -194,11 +246,14 @@ msgid ""
 "\\>\n"
 "\\>曲No.を指定しますか？"
 msgstr ""
+"\\>◆BGM 지정\n"
+"\\>\n"
+"\\>곡No.을 지정하시겠습니까?"
 
 #. ID 1, Page 3, Line 133, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：ランダムに取得 / X：No.を指定して取得"
-msgstr ""
+msgstr "\\>Z:랜덤으로 / X:No.지정하기"
 
 #. ID 1, Page 3, Line 144, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -207,11 +262,14 @@ msgid ""
 "\\>\n"
 "\\>曲を指定しますか？"
 msgstr ""
+"\\>◆BGM 지정\n"
+"\\>\n"
+"\\>곡을 지정하시겠습니까?"
 
 #. ID 1, Page 3, Line 147, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：ランダムに変更 / X：選択肢から選ぶ"
-msgstr ""
+msgstr "\\>Z:랜덤으로 변경 / X:선택지에서 고르기"
 
 #. ID 1, Page 3, Line 163, Pos (0,14)
 #. Choice (4 options)
@@ -221,6 +279,10 @@ msgid ""
 "\\>作品情報の表示\n"
 "\\>画面切り替え方法"
 msgstr ""
+"\\>자동전환 시 전환 간격\n"
+"\\>자동전환 시 배경화면 표시 순서\n"
+"\\>작품정보 표시\n"
+"\\>화면 전환 방법"
 
 #. ID 1, Page 3, Line 169, Pos (0,14)
 msgid ""
@@ -228,6 +290,9 @@ msgid ""
 "\\>\n"
 "\\>設定可能範囲：12～9999（現在：\\V[3934]）"
 msgstr ""
+"\\>◆전환 간격 설정\n"
+"\\>\n"
+"\\>설정가능범위:12～9999 (현재:\\V[3934])"
 
 #. ID 1, Page 3, Line 261, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -236,6 +301,9 @@ msgid ""
 "\\>\n"
 "\\>アルバム閲覧を終了しますか？"
 msgstr ""
+"\\>◆종료 확인\n"
+"\\>\n"
+"\\>앨범 열람을 종료하시겠습니까?"
 
 #. ID 1, Page 3, Line 264, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -244,7 +312,7 @@ msgstr ""
 #. ID 6, Page 6, Line 35, Pos (1,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：はい / X：いいえ"
-msgstr ""
+msgstr "\\>Z:네 / X:아니오"
 
 #. ID 1, Page 4, Line 9, Pos (0,14)
 #. ChangeHeroName (Actor 2)
@@ -2432,7 +2500,7 @@ msgstr ""
 
 #. ID 3, Page 1, Line 28, Pos (18,0)
 msgid "\\>No.指定（0～\\V[558]）"
-msgstr ""
+msgstr "\\>No.지정 (0～\\V[558])"
 
 #. ID 3, Page 1, Line 121, Pos (18,0)
 #. ID 5, Page 1, Line 24, Pos (0,0)
@@ -2442,6 +2510,10 @@ msgid ""
 "\\>              X …メニュー\n"
 "\\>              Shift …アルバム終了"
 msgstr ""
+"\\>                    조작설명\n"
+"\\>              Z …조작설명 다시보기\n"
+"\\>              X …메뉴\n"
+"\\>              Shift …앨범 종료"
 
 #. ID 3, Page 1, Line 142, Pos (18,0)
 #. Choice (4 options)
@@ -2451,15 +2523,19 @@ msgid ""
 "\\>アルバム終了\n"
 "\\>メニューを閉じる"
 msgstr ""
+"\\>자동전환 모드로 변경\n"
+"\\>옵션\n"
+"\\>앨범 종료\n"
+"\\>메뉴 닫기"
 
 #. ID 3, Page 1, Line 145, Pos (18,0)
 msgid "\\>自動切り替えモードに変更しました"
-msgstr ""
+msgstr "\\>자동전환 모드로 변경하였습니다"
 
 #. ID 3, Page 1, Line 146, Pos (18,0)
 #. Contains choice at line 2 (2 options)
 msgid "\\>自動切り替え時、次に表示する絵No.の選択方式"
-msgstr ""
+msgstr "\\>자동전환 시 다음에 표시할 그림 No. 선택방식"
 
 #. ID 3, Page 1, Line 147, Pos (18,0)
 #. Choice (2 options, embedded in a message)
@@ -2469,6 +2545,8 @@ msgid ""
 "\\>壁紙No.順\n"
 "\\>ランダム"
 msgstr ""
+"\\>배경화면No.순\n"
+"\\>랜덤"
 
 #. ID 3, Page 1, Line 158, Pos (18,0)
 #. ID 3, Page 2, Line 33, Pos (18,0)
@@ -2476,6 +2554,8 @@ msgid ""
 "\\>作品情報を表示しますか？\n"
 "\\>現在の設定は「表示する」です"
 msgstr ""
+"\\>작품 정보를 표시하시겠습니까?\n"
+"\\>현재 설정은 '표시한다'입니다"
 
 #. ID 3, Page 1, Line 162, Pos (18,0)
 #. ID 3, Page 2, Line 37, Pos (18,0)
@@ -2483,6 +2563,8 @@ msgid ""
 "\\>作品情報を表示しますか？\n"
 "\\>現在の設定は「表示しない」です"
 msgstr ""
+"\\>작품 정보를 표시하시겠습니까?\\n"
+"\\>현재 설정은 '표시하지 않는다'입니다"
 
 #. ID 3, Page 1, Line 166, Pos (18,0)
 #. Choice (2 options)
@@ -2492,10 +2574,12 @@ msgid ""
 "\\>表示する\n"
 "\\>表示しない"
 msgstr ""
+"\\>표시한다\n"
+"\\>표시하지 않는다"
 
 #. ID 3, Page 1, Line 179, Pos (18,0)
 msgid "\\>自動切り替えモードを解除しました"
-msgstr ""
+msgstr "\\>자동전환 모드를 해제했습니다"
 
 #. ID 3, Page 2, Line 5, Pos (18,0)
 #. Choice (4 options)
@@ -2505,6 +2589,10 @@ msgid ""
 "\\>BGM選択\n"
 "\\>次へ"
 msgstr ""
+"\\>전환 방식\n"
+"\\>전환 간격\n"
+"\\>BGM 선택\n"
+"\\>다음으로"
 
 #. ID 3, Page 2, Line 12, Pos (18,0)
 msgid ""
@@ -2512,6 +2600,9 @@ msgid ""
 "\\>現在の設定は「\\V[3934]」\n"
 "\\>初期設定は「30」です"
 msgstr ""
+"\\>전환 간격 설정(1～9999)\n"
+"\\>현재 설정은 '\\V[3934]'\n"
+"\\>초기 값은 '30'입니다"
 
 #. ID 3, Page 2, Line 30, Pos (18,0)
 #. Choice (4 options)
@@ -2521,18 +2612,26 @@ msgid ""
 "\\>メニューに戻る\n"
 "\\>前へ"
 msgstr ""
+"\\>작품정보 표시\n"
+"\\>자동전환 시 다음 No. 선택\n"
+"\\>메뉴로 돌아가기\n"
+"\\>이전으로"
 
 #. ID 3, Page 2, Line 56, Pos (18,0)
 msgid ""
 "\\>自動切り替え時、次に表示する絵No.の選択方式\n"
 "\\>現在の設定は「壁紙No.順」です"
 msgstr ""
+"\\>자동전환 시 다음에 표시할 그림 No.선택방식\n"
+"\\>현재 설정은 '배경화면No.순'입니다"
 
 #. ID 3, Page 2, Line 60, Pos (18,0)
 msgid ""
 "\\>自動切り替え時、次に表示する絵No.の選択方式\n"
 "\\>現在の設定は「ランダム」です"
 msgstr ""
+"\\>자동전환 시 다음에 표시할 그림 No.선택방식\n"
+"\\>현재 설정은 '랜덤'입니다"
 
 #. ID 3, Page 3, Line 5, Pos (18,0)
 #. Choice (4 options)
@@ -2544,6 +2643,10 @@ msgid ""
 "\\>上からランダムブロック\n"
 "\\>これ以外"
 msgstr ""
+"\\>페이드\n"
+"\\>전체 랜덤 블럭\n"
+"\\>위 쪽에서 랜덤 블럭\n"
+"\\>다른 것"
 
 #. ID 3, Page 3, Line 22, Pos (18,0)
 #. Choice (4 options)
@@ -2555,6 +2658,10 @@ msgid ""
 "\\>上下ストライプ\n"
 "\\>これ以外"
 msgstr ""
+"\\>아래 쪽에서 랜덤 블럭\n"
+"\\>블라인드 오픈\n"
+"\\>상하 스트라이프\n"
+"\\>다른 것"
 
 #. ID 3, Page 3, Line 39, Pos (18,0)
 #. Choice (4 options)
@@ -2566,6 +2673,10 @@ msgid ""
 "\\>中心から外側\n"
 "\\>これ以外"
 msgstr ""
+"\\>좌우 스트라이프\n"
+"\\>바깥에서 안쪽으로\n"
+"\\>안쪽에서 바깥으로\n"
+"\\>다른 것"
 
 #. ID 3, Page 3, Line 56, Pos (18,0)
 #. Choice (4 options)
@@ -2577,6 +2688,10 @@ msgid ""
 "\\>右からスクロール\n"
 "\\>これ以外"
 msgstr ""
+"\\>아래에서 스크롤\n"
+"\\>위에서 스크롤\n"
+"\\>오른쪽에서 스크롤\n"
+"\\>다른 것"
 
 #. ID 3, Page 3, Line 73, Pos (18,0)
 #. Choice (4 options)
@@ -2588,6 +2703,10 @@ msgid ""
 "\\>左右から結合\n"
 "\\>これ以外"
 msgstr ""
+"\\>왼쪽에서 스크롤\n"
+"\\>상하 결합\n"
+"\\>좌우 결합\n"
+"\\>다른 것"
 
 #. ID 3, Page 3, Line 90, Pos (18,0)
 #. Choice (4 options)
@@ -2599,6 +2718,10 @@ msgid ""
 "\\>モザイク\n"
 "\\>これ以外"
 msgstr ""
+"\\>상하좌우 결합\n"
+"\\>줌아웃\n"
+"\\>모자이크\n"
+"\\>다른 것"
 
 #. ID 3, Page 3, Line 107, Pos (18,0)
 #. Choice (3 options)
@@ -2609,6 +2732,9 @@ msgid ""
 "\\>瞬間表示\n"
 "\\>これ以外"
 msgstr ""
+"\\>래스터 스크롤\n"
+"\\>순간 표시\n"
+"\\>다른 것"
 
 #. ID 3, Page 4, Line 6, Pos (18,0)
 #. Choice (4 options)
@@ -2618,6 +2744,10 @@ msgid ""
 "\\>青光遅め\n"
 "\\>他の曲"
 msgstr ""
+"\\>PC오르골 느린버전\n"
+"\\>PCFC 빠른버전\n"
+"\\>青光 느린버전\n"
+"\\>다른 곡"
 
 #. ID 3, Page 4, Line 23, Pos (18,0)
 #. Choice (4 options)
@@ -2627,6 +2757,10 @@ msgid ""
 "\\>バク速め\n"
 "\\>他の曲"
 msgstr ""
+"\\>ライト 느린버전\n"
+"\\>P-ZONE 느린버전\n"
+"\\>バク 빠른버전\n"
+"\\>다른 곡"
 
 #. ID 3, Page 4, Line 40, Pos (18,0)
 #. Choice (4 options)
@@ -2636,6 +2770,10 @@ msgid ""
 "\\>お面屋速め\n"
 "\\>他の曲"
 msgstr ""
+"\\>博物館 빠른버전\n"
+"\\>飛行屋上 빠른버전\n"
+"\\>お面屋 느린버전\n"
+"\\>다른 곡"
 
 #. ID 3, Page 4, Line 57, Pos (18,0)
 #. Choice (4 options)
@@ -2645,6 +2783,10 @@ msgid ""
 "\\>士官達速め\n"
 "\\>他の曲"
 msgstr ""
+"\\>Cave 빠른버전\n"
+"\\>砂漠 빠른버전\n"
+"\\>士官達 빠른버전\n"
+"\\>다른 곡"
 
 #. ID 3, Page 4, Line 74, Pos (18,0)
 #. Choice (4 options)
@@ -2654,6 +2796,10 @@ msgid ""
 "\\>消音\n"
 "\\>他の曲"
 msgstr ""
+"\\>0109BGM1 빠른버전\n"
+"\\>0109BGM5 빠른버전\n"
+"\\>무음\n"
+"\\>다른 곡"
 
 #. ID 6, Page 1, Line 19, Pos (1,14)
 #. ChangeHeroName (Actor 1)
@@ -2687,6 +2833,9 @@ msgid ""
 "\\>\n"
 "\\>登録枚数：1～\\V[558]（現在：No.\\V[6]）"
 msgstr ""
+"\\>◆배경화면 지정\n"
+"\\>\n"
+"\\>등록 매수:1～\\V[558] (현재:No.\\V[6])"
 
 #. ID 6, Page 2, Line 32, Pos (1,14)
 msgid ""
@@ -2695,6 +2844,10 @@ msgid ""
 "\\>指定No.\\V[5]は\n"
 "\\>未取得のため設定できませんでした"
 msgstr ""
+"\\>◆배경화면 지정\n"
+"\\>\n"
+"\\>지정 No.\\V[5]은\n"
+"\\>미취득이므로 설정할 수 없습니다"
 
 #. ID 6, Page 2, Line 42, Pos (1,14)
 #. Contains choice at line 4 (1 options)
@@ -2703,6 +2856,9 @@ msgid ""
 "\\>\n"
 "\\>指定No.\\V[6]でよろしいですか？"
 msgstr ""
+"\\>◆배경화면 지정\n"
+"\\>\n"
+"\\>지정 No.\\V[6]로 괜찮으십니까?"
 
 #. ID 6, Page 5, Line 7, Pos (1,14)
 #. ChangeHeroName (Actor 1)
@@ -2720,6 +2876,9 @@ msgid ""
 "\\>\n"
 "\\>登録曲数：1～\\V[111]（現在：No.\\V[7]）"
 msgstr ""
+"\\>◆BGM 지정\n"
+"\\>\n"
+"\\>등록곡 수:1～\\V[111] (현재:No.\\V[7])"
 
 #. ID 6, Page 6, Line 26, Pos (1,14)
 msgid ""
@@ -2728,6 +2887,10 @@ msgid ""
 "\\>指定No.\\V[7]は\n"
 "\\>未開放のため再生できませんでした"
 msgstr ""
+"\\>◆BGM 지정\n"
+"\\>\n"
+"\\>지정 No.\\V[7]은\n"
+"\\>미취득이므로 재생할 수 없습니다"
 
 #. ID 6, Page 6, Line 32, Pos (1,14)
 #. Contains choice at line 4 (1 options)
@@ -2736,6 +2899,9 @@ msgid ""
 "\\>\n"
 "\\>指定No.\\V[7]でよろしいですか？"
 msgstr ""
+"\\>◆BGM 지정\n"
+"\\>\n"
+"\\>지정 No.\\V[7]로 괜찮으십니까?"
 
 #. ID 6, Page 9, Line 5, Pos (1,14)
 #. Choice (4 options)
@@ -2745,6 +2911,10 @@ msgid ""
 "\\>ループ「青光」By音師竹内 遅め\n"
 "\\>他の曲"
 msgstr ""
+"\\>yumeorugo_arr2 느림\n"
+"\\>夢オルゴールFC 빠름\n"
+"\\>ループ「青光」By音師竹内 느림\n"
+"\\>다른 곡"
 
 #. ID 6, Page 9, Line 20, Pos (1,14)
 #. Choice (4 options)
@@ -2754,6 +2924,10 @@ msgid ""
 "\\>yumenikkig_uljp00129 no name 2-169 速め\n"
 "\\>他の曲"
 msgstr ""
+"\\>ライト 느림\n"
+"\\>yumepo1 빠름\n"
+"\\>yumenikkig_uljp00129 no name 2-169 빠름\n"
+"\\>다른 곡"
 
 #. ID 6, Page 9, Line 35, Pos (1,14)
 #. Choice (4 options)
@@ -2763,6 +2937,10 @@ msgid ""
 "\\>Newtorikawamakkusu 速め\n"
 "\\>他の曲"
 msgstr ""
+"\\>yoi 빠름\n"
+"\\>tech3 빠름\n"
+"\\>Newtorikawamakkusu 빠름\n"
+"\\>다른 곡"
 
 #. ID 6, Page 9, Line 50, Pos (1,14)
 #. Choice (4 options)
@@ -2772,6 +2950,10 @@ msgid ""
 "\\>drm_oop_135 速め\n"
 "\\>他の曲"
 msgstr ""
+"\\>Cave_2 빠름\n"
+"\\>2_23 빠름\n"
+"\\>drm_oop_135 빠름\n"
+"\\>다른 곡"
 
 #. ID 6, Page 9, Line 65, Pos (1,14)
 #. Choice (4 options)
@@ -2781,4 +2963,7 @@ msgid ""
 "\\>消音\n"
 "\\>他の曲"
 msgstr ""
-
+"\\>0109BGM1 빠름\n"
+"\\>0109BGM5 빠름\n"
+"\\>무음\n"
+"\\>다른 곡"
