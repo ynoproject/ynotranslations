@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 4, Pos (1,13)
+msgid "あらすじ"
+msgstr ""
+
+#. ID 3, Page 1, Line 5, Pos (1,13)
+msgid "エフェクトを全て集めたうろつき"
+msgstr ""
+
+#. ID 3, Page 1, Line 6, Pos (1,13)
+msgid "目を覚まし、現実世界へ戻ってくるが"
+msgstr ""
+
+#. ID 3, Page 1, Line 7, Pos (1,13)
+msgid "現実部屋のカーテンがたなびいている"
+msgstr ""
+
+#. ID 3, Page 1, Line 8, Pos (1,13)
+msgid ""
+"そしてベランダに出るとそこには\n"
+"どこかで見覚えのある階段が・・・"
+msgstr ""
+
+#. ID 7, Page 1, Line 37, Pos (7,13)
+msgid "PCの画面を開くと、「ゆめ２っき」らしきアイコンが…"
+msgstr ""
+
+#. ID 7, Page 1, Line 38, Pos (7,13)
+msgid "クリックしてフェードアウト"
+msgstr ""
+
