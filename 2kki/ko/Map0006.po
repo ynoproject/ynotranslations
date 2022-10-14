@@ -1,0 +1,2462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 5, Line 7, Pos (0,0)
+msgid ""
+"\\>                                    Music：\\V[3917]/\\V[586]\n"
+"\\|\\.\\^"
+msgstr ""
+
+#. ID 1, Page 5, Line 13, Pos (0,0)
+msgid ""
+"\\>                                    Music：\\V[3917]％\n"
+"\\|\\.\\^"
+msgstr ""
+
+#. ID 1, Page 6, Line 13, Pos (0,0)
+msgid ""
+"\n"
+"\n"
+"\n"
+"\\>                 - Please Enter -                 "
+msgstr ""
+
+#. ID 3, Page 3, Line 31, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 3, Page 3, Line 46, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 31, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 50, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ループ「空中"
+msgstr ""
+
+#. ID 3, Page 3, Line 32, Pos (19,14)
+#. ChangeHeroName (Actor 3)
+#. ID 3, Page 3, Line 47, Pos (19,14)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 5, Line 32, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 5, Line 51, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "飛行」By音師"
+msgstr ""
+
+#. ID 3, Page 3, Line 33, Pos (19,14)
+#. ChangeHeroName (Actor 4)
+#. ID 3, Page 3, Line 48, Pos (19,14)
+#. ChangeHeroName (Actor 4)
+#. ID 53, Page 2, Line 52, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+#. ID 53, Page 5, Line 33, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+#. ID 53, Page 5, Line 52, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "竹内"
+msgstr ""
+
+#. ID 3, Page 3, Line 34, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+#. ID 3, Page 3, Line 82, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+#. ID 3, Page 3, Line 369, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 2, Line 252, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 2, Line 367, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 2, Line 467, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 34, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 84, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 164, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 438, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 79, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 156, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 317, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 370, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 467, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 5, Line 36, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 5, Line 90, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 5, Line 406, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 6, Line 33, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 6, Line 210, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 6, Line 346, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 7, Line 117, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 8, Line 144, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 10, Line 60, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 10, Line 167, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 11, Line 115, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 12, Line 184, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "1/2"
+msgstr ""
+
+#. ID 3, Page 3, Line 49, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+#. ID 3, Page 3, Line 95, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+#. ID 3, Page 3, Line 383, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 2, Line 268, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 2, Line 386, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 2, Line 483, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 51, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 101, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 181, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 3, Line 454, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 96, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 172, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 334, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 390, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 4, Line 484, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 5, Line 55, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 5, Line 104, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 5, Line 422, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 6, Line 50, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 6, Line 229, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 6, Line 372, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 7, Line 134, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 8, Line 158, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 10, Line 74, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 10, Line 183, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 11, Line 126, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 12, Line 202, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "2/2"
+msgstr ""
+
+#. ID 3, Page 3, Line 80, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 3, Page 3, Line 93, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 88, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 103, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kikai004"
+msgstr ""
+
+#. ID 3, Page 3, Line 110, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 121, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tiriri"
+msgstr ""
+
+#. ID 3, Page 3, Line 129, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 140, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_ann"
+msgstr ""
+
+#. ID 3, Page 3, Line 146, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 157, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_932氏ス"
+msgstr ""
+
+#. ID 3, Page 3, Line 147, Pos (19,14)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 5, Line 158, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "クラップ"
+msgstr ""
+
+#. ID 3, Page 3, Line 161, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 174, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm075"
+msgstr ""
+
+#. ID 3, Page 3, Line 169, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 182, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo8"
+msgstr ""
+
+#. ID 3, Page 3, Line 179, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 192, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "soto-C5"
+msgstr ""
+
+#. ID 3, Page 3, Line 193, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 286, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 206, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "otoshitakeut"
+msgstr ""
+
+#. ID 3, Page 3, Line 194, Pos (19,14)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 5, Line 207, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "i-ankoku"
+msgstr ""
+
+#. ID 3, Page 3, Line 207, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 231, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "error"
+msgstr ""
+
+#. ID 3, Page 3, Line 225, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 246, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 255, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "x-air-Chukka"
+msgstr ""
+
+#. ID 3, Page 3, Line 242, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 276, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Newtorikawam"
+msgstr ""
+
+#. ID 3, Page 3, Line 243, Pos (19,14)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 5, Line 277, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "akkusu"
+msgstr ""
+
+#. ID 3, Page 3, Line 257, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 291, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ym2-20-chiuk"
+msgstr ""
+
+#. ID 3, Page 3, Line 258, Pos (19,14)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 5, Line 292, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "oushin"
+msgstr ""
+
+#. ID 3, Page 3, Line 271, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 307, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "pipoq"
+msgstr ""
+
+#. ID 3, Page 3, Line 285, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 321, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 9, Line 271, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "7"
+msgstr ""
+
+#. ID 3, Page 3, Line 297, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 334, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dine"
+msgstr ""
+
+#. ID 3, Page 3, Line 314, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 351, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-a"
+msgstr ""
+
+#. ID 3, Page 3, Line 328, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 365, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-c bass"
+msgstr ""
+
+#. ID 3, Page 3, Line 343, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 380, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-c"
+msgstr ""
+
+#. ID 3, Page 3, Line 368, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 3, Page 3, Line 382, Pos (19,14)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 405, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 5, Line 421, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-d"
+msgstr ""
+
+#. ID 3, Page 5, Line 3, Pos (19,14)
+msgid ""
+"◆テンプレ\n"
+"以下をテンプレートとして、\n"
+"曲情報用のピクチャーを作りました\n"
+"　"
+msgstr ""
+
+#. ID 3, Page 5, Line 15, Pos (19,14)
+msgid ""
+"\n"
+"\n"
+"　"
+msgstr ""
+
+#. ID 3, Page 5, Line 18, Pos (19,14)
+msgid ""
+"◆作成手順\n"
+"まずは「◆文章オプション変更」で\n"
+"「ウィンドウ透明」「表示位置：上」\n"
+"「表示位置完全固定」にします。"
+msgstr ""
+
+#. ID 3, Page 5, Line 22, Pos (19,14)
+msgid ""
+"\n"
+"その後「◆文章の表示」で\n"
+"ピクチャーにしたい文章を表示させます。"
+msgstr ""
+
+#. ID 3, Page 5, Line 25, Pos (19,14)
+msgid ""
+"\n"
+"「PrtScキー」などでキャプチャして\n"
+"ウィンドウの上から80ピクセルを切り抜きます。\n"
+"（画像サイズが320x80になると思われます）"
+msgstr ""
+
+#. ID 3, Page 5, Line 29, Pos (19,14)
+msgid ""
+"\n"
+"あとは適当に透過色を設定してインポートするだけです。"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (6,8)
+#. ID 14, Page 1, Line 1, Pos (13,8)
+msgid ""
+"ハウスポッドっていう実在するスピーカーです。\n"
+"高いけどこれ欲しいんだよ～"
+msgstr ""
+
+#. ID 19, Page 2, Line 60, Pos (0,14)
+msgid ""
+"\\>　　　　　　　　　★操作方法★\n"
+"\\>「→」曲送り「←」曲戻し「↑」先頭へ「↓」最後へ\n"
+"\\>「キャンセル」一時停止\n"
+"\\>一時停止中に「決定」で再生、「キャンセル」で終了"
+msgstr ""
+
+#. ID 19, Page 5, Line 15, Pos (0,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "SRa_入室"
+msgstr ""
+
+#. ID 53, Page 1, Line 186, Pos (19,0)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "★"
+msgstr ""
+
+#. ID 53, Page 1, Line 234, Pos (19,0)
+#. ID 53, Page 1, Line 239, Pos (19,0)
+msgid "\\>               \\N[2]\\N[3]\\N[4]　\\<\\|\\.\\^"
+msgstr ""
+
+#. ID 53, Page 2, Line 35, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ym2-00_ano d"
+msgstr ""
+
+#. ID 53, Page 2, Line 36, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "eskwork"
+msgstr ""
+
+#. ID 53, Page 2, Line 50, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "OP曲「ゆめ2"
+msgstr ""
+
+#. ID 53, Page 2, Line 51, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "っき」By音師"
+msgstr ""
+
+#. ID 53, Page 2, Line 75, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumeorugo_ar"
+msgstr ""
+
+#. ID 53, Page 2, Line 76, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "r2"
+msgstr ""
+
+#. ID 53, Page 2, Line 87, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "626-ryukyu"
+msgstr ""
+
+#. ID 53, Page 2, Line 135, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 154, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 173, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 192, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 208, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "626-seagull"
+msgstr ""
+
+#. ID 53, Page 2, Line 138, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "1/5"
+msgstr ""
+
+#. ID 53, Page 2, Line 157, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "2/5"
+msgstr ""
+
+#. ID 53, Page 2, Line 176, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "3/5"
+msgstr ""
+
+#. ID 53, Page 2, Line 195, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "4/5"
+msgstr ""
+
+#. ID 53, Page 2, Line 212, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "5/5"
+msgstr ""
+
+#. ID 53, Page 2, Line 251, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 267, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo6"
+msgstr ""
+
+#. ID 53, Page 2, Line 288, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "932-warm"
+msgstr ""
+
+#. ID 53, Page 2, Line 304, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "626-tb303"
+msgstr ""
+
+#. ID 53, Page 2, Line 326, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "803-1"
+msgstr ""
+
+#. ID 53, Page 2, Line 364, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 383, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "903-suna001"
+msgstr ""
+
+#. ID 53, Page 2, Line 406, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "base"
+msgstr ""
+
+#. ID 53, Page 2, Line 429, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm1"
+msgstr ""
+
+#. ID 53, Page 2, Line 441, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo3"
+msgstr ""
+
+#. ID 53, Page 2, Line 466, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 2, Line 482, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm038"
+msgstr ""
+
+#. ID 53, Page 2, Line 502, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm052"
+msgstr ""
+
+#. ID 53, Page 2, Line 516, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm055"
+msgstr ""
+
+#. ID 53, Page 2, Line 529, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo1"
+msgstr ""
+
+#. ID 53, Page 2, Line 543, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "By音師竹内_6"
+msgstr ""
+
+#. ID 53, Page 2, Line 544, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "26-ryukyu_sa"
+msgstr ""
+
+#. ID 53, Page 2, Line 545, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "sikae"
+msgstr ""
+
+#. ID 53, Page 2, Line 561, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Color"
+msgstr ""
+
+#. ID 53, Page 2, Line 575, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_12 The "
+msgstr ""
+
+#. ID 53, Page 2, Line 576, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "Bosun Freake"
+msgstr ""
+
+#. ID 53, Page 2, Line 577, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "d"
+msgstr ""
+
+#. ID 53, Page 3, Line 31, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 48, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_63 To B"
+msgstr ""
+
+#. ID 53, Page 3, Line 32, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 3, Line 49, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "lip"
+msgstr ""
+
+#. ID 53, Page 3, Line 81, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 98, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "626-india"
+msgstr ""
+
+#. ID 53, Page 3, Line 120, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 162, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 179, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumenikkig_u"
+msgstr ""
+
+#. ID 53, Page 3, Line 121, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ljp00129 no "
+msgstr ""
+
+#. ID 53, Page 3, Line 122, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "name 2-169"
+msgstr ""
+
+#. ID 53, Page 3, Line 163, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 3, Line 180, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ljp00128"
+msgstr ""
+
+#. ID 53, Page 3, Line 200, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_e3"
+msgstr ""
+
+#. ID 53, Page 3, Line 216, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ym2-19_kuruw"
+msgstr ""
+
+#. ID 53, Page 3, Line 217, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "asiimonohaie"
+msgstr ""
+
+#. ID 53, Page 3, Line 218, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "guru"
+msgstr ""
+
+#. ID 53, Page 3, Line 232, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "uti-c"
+msgstr ""
+
+#. ID 53, Page 3, Line 246, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "uti-b"
+msgstr ""
+
+#. ID 53, Page 3, Line 260, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "uti-a2"
+msgstr ""
+
+#. ID 53, Page 3, Line 275, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tom"
+msgstr ""
+
+#. ID 53, Page 3, Line 290, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "heart beat"
+msgstr ""
+
+#. ID 53, Page 3, Line 305, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "hi"
+msgstr ""
+
+#. ID 53, Page 3, Line 319, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tm2_bird002"
+msgstr ""
+
+#. ID 53, Page 3, Line 331, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "soto-C8"
+msgstr ""
+
+#. ID 53, Page 3, Line 344, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 359, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 379, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "loda_Music_0"
+msgstr ""
+
+#. ID 53, Page 3, Line 345, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "1"
+msgstr ""
+
+#. ID 53, Page 3, Line 360, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 12, Line 64, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2"
+msgstr ""
+
+#. ID 53, Page 3, Line 380, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "3"
+msgstr ""
+
+#. ID 53, Page 3, Line 397, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Merrygo"
+msgstr ""
+
+#. ID 53, Page 3, Line 434, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 3, Line 451, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "qs0UrDFJ-tit"
+msgstr ""
+
+#. ID 53, Page 3, Line 435, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 3, Line 452, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "le"
+msgstr ""
+
+#. ID 53, Page 3, Line 475, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 19, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 35, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 74, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 92, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 115, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "qs0UrDFJ-bgm"
+msgstr ""
+
+#. ID 53, Page 3, Line 476, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "054"
+msgstr ""
+
+#. ID 53, Page 4, Line 20, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "060"
+msgstr ""
+
+#. ID 53, Page 4, Line 36, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "007"
+msgstr ""
+
+#. ID 53, Page 4, Line 75, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 4, Line 93, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "041"
+msgstr ""
+
+#. ID 53, Page 4, Line 116, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "047"
+msgstr ""
+
+#. ID 53, Page 4, Line 132, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "152-organ33"
+msgstr ""
+
+#. ID 53, Page 4, Line 155, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 171, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "zaza"
+msgstr ""
+
+#. ID 53, Page 4, Line 196, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ym2-02_chii "
+msgstr ""
+
+#. ID 53, Page 4, Line 197, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "gensyou"
+msgstr ""
+
+#. ID 53, Page 4, Line 212, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "rec2"
+msgstr ""
+
+#. ID 53, Page 4, Line 225, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm8"
+msgstr ""
+
+#. ID 53, Page 4, Line 240, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "piano2"
+msgstr ""
+
+#. ID 53, Page 4, Line 259, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "piano1"
+msgstr ""
+
+#. ID 53, Page 4, Line 273, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kura_title"
+msgstr ""
+
+#. ID 53, Page 4, Line 287, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "i-tikagai"
+msgstr ""
+
+#. ID 53, Page 4, Line 314, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 331, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 367, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 387, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 419, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 464, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 4, Line 481, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_qs0UrDF"
+msgstr ""
+
+#. ID 53, Page 4, Line 315, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 4, Line 332, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "J_bgm077"
+msgstr ""
+
+#. ID 53, Page 4, Line 368, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 4, Line 388, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "J_bgm076"
+msgstr ""
+
+#. ID 53, Page 4, Line 420, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "J_bgm_082"
+msgstr ""
+
+#. ID 53, Page 4, Line 437, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "7-9"
+msgstr ""
+
+#. ID 53, Page 4, Line 465, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 4, Line 482, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "J_bgm_081"
+msgstr ""
+
+#. ID 53, Page 4, Line 505, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_bgm-org"
+msgstr ""
+
+#. ID 53, Page 4, Line 506, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "el002"
+msgstr ""
+
+#. ID 53, Page 4, Line 519, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm9"
+msgstr ""
+
+#. ID 53, Page 6, Line 32, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 49, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-g"
+msgstr ""
+
+#. ID 53, Page 6, Line 70, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-i"
+msgstr ""
+
+#. ID 53, Page 6, Line 83, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-i_w"
+msgstr ""
+
+#. ID 53, Page 6, Line 96, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-l"
+msgstr ""
+
+#. ID 53, Page 6, Line 107, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e4"
+msgstr ""
+
+#. ID 53, Page 6, Line 125, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e5"
+msgstr ""
+
+#. ID 53, Page 6, Line 139, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kousyo"
+msgstr ""
+
+#. ID 53, Page 6, Line 152, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kura_title2"
+msgstr ""
+
+#. ID 53, Page 6, Line 165, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "oudn-01"
+msgstr ""
+
+#. ID 53, Page 6, Line 179, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "oudn-03"
+msgstr ""
+
+#. ID 53, Page 6, Line 209, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 228, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "oudn-04"
+msgstr ""
+
+#. ID 53, Page 6, Line 255, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 266, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "oudn-noisy"
+msgstr ""
+
+#. ID 53, Page 6, Line 281, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "oudn-noisy2"
+msgstr ""
+
+#. ID 53, Page 6, Line 295, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "alama beat"
+msgstr ""
+
+#. ID 53, Page 6, Line 302, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 312, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ym2-18_nouna"
+msgstr ""
+
+#. ID 53, Page 6, Line 303, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 6, Line 313, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "i matusyou"
+msgstr ""
+
+#. ID 53, Page 6, Line 345, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 371, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tm"
+msgstr ""
+
+#. ID 53, Page 6, Line 391, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "wa"
+msgstr ""
+
+#. ID 53, Page 6, Line 424, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 440, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 6, Line 456, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kana08"
+msgstr ""
+
+#. ID 53, Page 6, Line 426, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 7, Line 42, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "1/3"
+msgstr ""
+
+#. ID 53, Page 6, Line 443, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 7, Line 62, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "2/3"
+msgstr ""
+
+#. ID 53, Page 6, Line 459, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+#. ID 53, Page 7, Line 79, Pos (19,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "3/3"
+msgstr ""
+
+#. ID 53, Page 6, Line 479, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume b2"
+msgstr ""
+
+#. ID 53, Page 6, Line 493, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ライト"
+msgstr ""
+
+#. ID 53, Page 7, Line 38, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 7, Line 58, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 7, Line 75, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ループ「海」"
+msgstr ""
+
+#. ID 53, Page 7, Line 39, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 7, Line 59, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 7, Line 76, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "By音師竹内"
+msgstr ""
+
+#. ID 53, Page 7, Line 113, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 7, Line 130, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ループ「青光"
+msgstr ""
+
+#. ID 53, Page 7, Line 114, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 7, Line 131, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "」By音師竹内"
+msgstr ""
+
+#. ID 53, Page 7, Line 150, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "予兆"
+msgstr ""
+
+#. ID 53, Page 7, Line 158, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 7, Line 171, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ループ「機械"
+msgstr ""
+
+#. ID 53, Page 7, Line 159, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+#. ID 53, Page 7, Line 172, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "音」By音師竹"
+msgstr ""
+
+#. ID 53, Page 7, Line 160, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+#. ID 53, Page 7, Line 173, Pos (19,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "内"
+msgstr ""
+
+#. ID 53, Page 7, Line 185, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "152-you"
+msgstr ""
+
+#. ID 53, Page 7, Line 201, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "trom_piano"
+msgstr ""
+
+#. ID 53, Page 7, Line 213, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_noizu"
+msgstr ""
+
+#. ID 53, Page 7, Line 223, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "RIMA-bgm-far"
+msgstr ""
+
+#. ID 53, Page 7, Line 224, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "m002"
+msgstr ""
+
+#. ID 53, Page 7, Line 239, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "8"
+msgstr ""
+
+#. ID 53, Page 7, Line 252, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-h_m"
+msgstr ""
+
+#. ID 53, Page 7, Line 265, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-j_m"
+msgstr ""
+
+#. ID 53, Page 7, Line 280, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-l_m"
+msgstr ""
+
+#. ID 53, Page 7, Line 292, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d12a"
+msgstr ""
+
+#. ID 53, Page 7, Line 305, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d12b"
+msgstr ""
+
+#. ID 53, Page 7, Line 318, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d12c"
+msgstr ""
+
+#. ID 53, Page 7, Line 331, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d12d"
+msgstr ""
+
+#. ID 53, Page 7, Line 344, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d12e"
+msgstr ""
+
+#. ID 53, Page 7, Line 367, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "pinu_heart"
+msgstr ""
+
+#. ID 53, Page 8, Line 20, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "pinu_muyu"
+msgstr ""
+
+#. ID 53, Page 8, Line 36, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "pinu_soshits"
+msgstr ""
+
+#. ID 53, Page 8, Line 37, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "u"
+msgstr ""
+
+#. ID 53, Page 8, Line 53, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_23"
+msgstr ""
+
+#. ID 53, Page 8, Line 67, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_28"
+msgstr ""
+
+#. ID 53, Page 8, Line 82, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "camellia-jap"
+msgstr ""
+
+#. ID 53, Page 8, Line 83, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "anish2"
+msgstr ""
+
+#. ID 53, Page 8, Line 98, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "camellia-the"
+msgstr ""
+
+#. ID 53, Page 8, Line 99, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "mepark"
+msgstr ""
+
+#. ID 53, Page 8, Line 128, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 8, Line 157, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm6"
+msgstr ""
+
+#. ID 53, Page 8, Line 177, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-m 2"
+msgstr ""
+
+#. ID 53, Page 8, Line 191, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sounda"
+msgstr ""
+
+#. ID 53, Page 8, Line 201, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "soundb"
+msgstr ""
+
+#. ID 53, Page 8, Line 207, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "soundc"
+msgstr ""
+
+#. ID 53, Page 8, Line 213, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "soundc_2"
+msgstr ""
+
+#. ID 53, Page 8, Line 223, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "soundd"
+msgstr ""
+
+#. ID 53, Page 8, Line 236, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "pseudosound2"
+msgstr ""
+
+#. ID 53, Page 8, Line 250, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-r"
+msgstr ""
+
+#. ID 53, Page 8, Line 264, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-r melo"
+msgstr ""
+
+#. ID 53, Page 8, Line 276, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-m"
+msgstr ""
+
+#. ID 53, Page 8, Line 291, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-o"
+msgstr ""
+
+#. ID 53, Page 8, Line 304, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-o 2"
+msgstr ""
+
+#. ID 53, Page 8, Line 317, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-n"
+msgstr ""
+
+#. ID 53, Page 9, Line 20, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume a"
+msgstr ""
+
+#. ID 53, Page 9, Line 33, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_13"
+msgstr ""
+
+#. ID 53, Page 9, Line 47, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_39"
+msgstr ""
+
+#. ID 53, Page 9, Line 66, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_40"
+msgstr ""
+
+#. ID 53, Page 9, Line 81, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_45"
+msgstr ""
+
+#. ID 53, Page 9, Line 101, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_47"
+msgstr ""
+
+#. ID 53, Page 9, Line 111, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2kki bgm 02"
+msgstr ""
+
+#. ID 53, Page 9, Line 117, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2kki bgm 06"
+msgstr ""
+
+#. ID 53, Page 9, Line 127, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2kki"
+msgstr ""
+
+#. ID 53, Page 9, Line 142, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "6_3"
+msgstr ""
+
+#. ID 53, Page 9, Line 157, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0109BGM3"
+msgstr ""
+
+#. ID 53, Page 9, Line 170, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm080"
+msgstr ""
+
+#. ID 53, Page 9, Line 183, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-j"
+msgstr ""
+
+#. ID 53, Page 9, Line 196, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bin100112164"
+msgstr ""
+
+#. ID 53, Page 9, Line 197, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "61000101"
+msgstr ""
+
+#. ID 53, Page 9, Line 220, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "camellia_hys"
+msgstr ""
+
+#. ID 53, Page 9, Line 221, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ar2"
+msgstr ""
+
+#. ID 53, Page 9, Line 238, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "camellia_jap"
+msgstr ""
+
+#. ID 53, Page 9, Line 239, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "anish"
+msgstr ""
+
+#. ID 53, Page 9, Line 254, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Cave_2"
+msgstr ""
+
+#. ID 53, Page 9, Line 263, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 9, Line 270, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_no name"
+msgstr ""
+
+#. ID 53, Page 9, Line 264, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "5"
+msgstr ""
+
+#. ID 53, Page 9, Line 277, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "152-woo"
+msgstr ""
+
+#. ID 53, Page 10, Line 20, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "dedp_x_r036_"
+msgstr ""
+
+#. ID 53, Page 10, Line 21, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "4_120"
+msgstr ""
+
+#. ID 53, Page 10, Line 58, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 10, Line 73, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "enter_2"
+msgstr ""
+
+#. ID 53, Page 10, Line 94, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "for"
+msgstr ""
+
+#. ID 53, Page 10, Line 107, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yukihi1"
+msgstr ""
+
+#. ID 53, Page 10, Line 123, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-AoF"
+msgstr ""
+
+#. ID 53, Page 10, Line 138, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-BoM"
+msgstr ""
+
+#. ID 53, Page 10, Line 165, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 10, Line 181, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-CaSP"
+msgstr ""
+
+#. ID 53, Page 10, Line 204, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-ELP"
+msgstr ""
+
+#. ID 53, Page 10, Line 218, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-FiT"
+msgstr ""
+
+#. ID 53, Page 10, Line 233, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-iFF"
+msgstr ""
+
+#. ID 53, Page 10, Line 249, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-KtO"
+msgstr ""
+
+#. ID 53, Page 10, Line 263, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-LaW"
+msgstr ""
+
+#. ID 53, Page 10, Line 277, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-LI"
+msgstr ""
+
+#. ID 53, Page 10, Line 288, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-NiT"
+msgstr ""
+
+#. ID 53, Page 10, Line 295, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-RtH"
+msgstr ""
+
+#. ID 53, Page 10, Line 310, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-Tcs"
+msgstr ""
+
+#. ID 53, Page 10, Line 326, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-tSP"
+msgstr ""
+
+#. ID 53, Page 10, Line 340, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-WeR"
+msgstr ""
+
+#. ID 53, Page 10, Line 355, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "nami"
+msgstr ""
+
+#. ID 53, Page 10, Line 369, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "oudn-05"
+msgstr ""
+
+#. ID 53, Page 11, Line 20, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "RIMA-bgm-Chi"
+msgstr ""
+
+#. ID 53, Page 11, Line 21, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "p003"
+msgstr ""
+
+#. ID 53, Page 11, Line 34, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "short_bgm2"
+msgstr ""
+
+#. ID 53, Page 11, Line 47, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound2a_"
+msgstr ""
+
+#. ID 53, Page 11, Line 61, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound3d"
+msgstr ""
+
+#. ID 53, Page 11, Line 72, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound3e"
+msgstr ""
+
+#. ID 53, Page 11, Line 82, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound3f"
+msgstr ""
+
+#. ID 53, Page 11, Line 112, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 11, Line 125, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound4d"
+msgstr ""
+
+#. ID 53, Page 11, Line 150, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "twen20ty-7"
+msgstr ""
+
+#. ID 53, Page 11, Line 164, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "under a cloa"
+msgstr ""
+
+#. ID 53, Page 11, Line 165, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "k of snow"
+msgstr ""
+
+#. ID 53, Page 11, Line 179, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yoi"
+msgstr ""
+
+#. ID 53, Page 11, Line 192, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d3a"
+msgstr ""
+
+#. ID 53, Page 11, Line 205, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d4b"
+msgstr ""
+
+#. ID 53, Page 11, Line 218, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yume d11b"
+msgstr ""
+
+#. ID 53, Page 11, Line 231, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo5"
+msgstr ""
+
+#. ID 53, Page 11, Line 246, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ヴォー"
+msgstr ""
+
+#. ID 53, Page 11, Line 258, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ゆめ2っき"
+msgstr ""
+
+#. ID 53, Page 11, Line 274, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "屋敷内BGM"
+msgstr ""
+
+#. ID 53, Page 11, Line 289, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0722_3"
+msgstr ""
+
+#. ID 53, Page 11, Line 313, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "surroundings"
+msgstr ""
+
+#. ID 53, Page 11, Line 314, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "_13_Cascade"
+msgstr ""
+
+#. ID 53, Page 11, Line 326, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "風"
+msgstr ""
+
+#. ID 53, Page 12, Line 20, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "parallel"
+msgstr ""
+
+#. ID 53, Page 12, Line 33, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ゆめにっき風"
+msgstr ""
+
+#. ID 53, Page 12, Line 34, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "？"
+msgstr ""
+
+#. ID 53, Page 12, Line 49, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "電車止まる"
+msgstr ""
+
+#. ID 53, Page 12, Line 78, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm-s"
+msgstr ""
+
+#. ID 53, Page 12, Line 91, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "toji"
+msgstr ""
+
+#. ID 53, Page 12, Line 104, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_12"
+msgstr ""
+
+#. ID 53, Page 12, Line 118, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_37"
+msgstr ""
+
+#. ID 53, Page 12, Line 135, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_46"
+msgstr ""
+
+#. ID 53, Page 12, Line 150, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_52"
+msgstr ""
+
+#. ID 53, Page 12, Line 177, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 12, Line 197, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_24"
+msgstr ""
+
+#. ID 53, Page 12, Line 216, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ao"
+msgstr ""
+
+#. ID 53, Page 12, Line 229, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "innuendo"
+msgstr ""
+
+#. ID 53, Page 12, Line 241, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tech3"
+msgstr ""
+
+#. ID 53, Page 12, Line 255, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2012_0513_2"
+msgstr ""
+
+#. ID 53, Page 12, Line 266, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "夢オルゴール"
+msgstr ""
+
+#. ID 53, Page 12, Line 267, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "FC"
+msgstr ""
+
+#. ID 53, Page 12, Line 274, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0109BGM1"
+msgstr ""
+
+#. ID 53, Page 12, Line 280, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0109BGM2"
+msgstr ""
+
+#. ID 53, Page 12, Line 291, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0109BGM4"
+msgstr ""
+
+#. ID 53, Page 12, Line 299, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0109BGM5"
+msgstr ""
+
+#. ID 53, Page 13, Line 21, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "celeb"
+msgstr ""
+
+#. ID 53, Page 13, Line 35, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_loop_30"
+msgstr ""
+
+#. ID 53, Page 13, Line 44, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_loop_44"
+msgstr ""
+
+#. ID 53, Page 13, Line 51, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_loop_107"
+msgstr ""
+
+#. ID 53, Page 13, Line 52, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "_2"
+msgstr ""
+
+#. ID 53, Page 13, Line 64, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_oop_135"
+msgstr ""
+
+#. ID 53, Page 13, Line 79, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_oop_135_"
+msgstr ""
+
+#. ID 53, Page 13, Line 80, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "yugami"
+msgstr ""
+
+#. ID 53, Page 13, Line 89, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e8"
+msgstr ""
+
+#. ID 53, Page 13, Line 96, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e9"
+msgstr ""
+
+#. ID 53, Page 13, Line 103, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e10"
+msgstr ""
+
+#. ID 53, Page 13, Line 115, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e11"
+msgstr ""
+
+#. ID 53, Page 13, Line 126, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e4b"
+msgstr ""
+
+#. ID 53, Page 13, Line 144, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+#. ID 53, Page 13, Line 158, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "n3-LaW_yugam"
+msgstr ""
+
+#. ID 53, Page 13, Line 145, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "i_radio"
+msgstr ""
+
+#. ID 53, Page 13, Line 159, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "i"
+msgstr ""
+
+#. ID 53, Page 13, Line 169, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "setunai"
+msgstr ""
+
+#. ID 53, Page 13, Line 176, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo4"
+msgstr ""
+
+#. ID 53, Page 13, Line 182, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo7"
+msgstr ""
+
+#. ID 53, Page 13, Line 188, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo9"
+msgstr ""
+
+#. ID 53, Page 13, Line 194, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "yumepo10"
+msgstr ""
+
+#. ID 53, Page 13, Line 200, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0426"
+msgstr ""
+
+#. ID 53, Page 13, Line 210, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_kan_ge_d"
+msgstr ""
+
+#. ID 53, Page 13, Line 211, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "upicho01"
+msgstr ""
+
+#. ID 53, Page 14, Line 18, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_kan_ge_k"
+msgstr ""
+
+#. ID 53, Page 14, Line 19, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "aze_kouya01"
+msgstr ""
+
+#. ID 53, Page 14, Line 34, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "drm_kan_ge_m"
+msgstr ""
+
+#. ID 53, Page 14, Line 35, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "achi01"
+msgstr ""
+
+#. ID 53, Page 14, Line 49, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_38"
+msgstr ""
+
+#. ID 53, Page 14, Line 64, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "PC_音源差し"
+msgstr ""
+
+#. ID 53, Page 14, Line 65, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "替え"
+msgstr ""
+
+#. ID 53, Page 14, Line 79, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_byふーた"
+msgstr ""
+
+#. ID 53, Page 14, Line 94, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ded_ED"
+msgstr ""
+
+#. ID 53, Page 14, Line 107, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "meri-"
+msgstr ""
+
+#. ID 53, Page 14, Line 116, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tonny01"
+msgstr ""
+
+#. ID 53, Page 14, Line 125, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tonny02"
+msgstr ""
+
+#. ID 53, Page 14, Line 137, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tonny03"
+msgstr ""
+
+#. ID 53, Page 14, Line 144, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tonny04"
+msgstr ""
+
+#. ID 53, Page 14, Line 155, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tonny05"
+msgstr ""
+
+#. ID 53, Page 14, Line 170, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "tonny06"
+msgstr ""
+
+#. ID 53, Page 14, Line 185, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "VANEGI_3je_r"
+msgstr ""
+
+#. ID 53, Page 14, Line 186, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "eMIX03"
+msgstr ""
+
+#. ID 53, Page 14, Line 199, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "White Out"
+msgstr ""
+
+#. ID 53, Page 14, Line 214, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Mary's song "
+msgstr ""
+
+#. ID 53, Page 14, Line 215, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "for Ib"
+msgstr ""
+
+#. ID 53, Page 14, Line 228, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sakai 4"
+msgstr ""
+
+#. ID 53, Page 14, Line 242, Pos (19,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "RIMA-bgm-ele"
+msgstr ""
+
+#. ID 53, Page 14, Line 243, Pos (19,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "pi002"
+msgstr ""
+
+#. ID 54, Page 1, Line 31, Pos (17,0)
+msgid "\\>Music No.　1～\\V[586]"
+msgstr ""
+
+#. ID 54, Page 1, Line 308, Pos (17,0)
+#. ChangeHeroName (Actor 2)
+#. ID 55, Page 1, Line 245, Pos (15,0)
+#. ChangeHeroName (Actor 2)
+#. ID 55, Page 7, Line 25, Pos (15,0)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "デフォルト"
+msgstr ""
+
+#. ID 54, Page 1, Line 309, Pos (17,0)
+#. ChangeHeroName (Actor 3)
+#. ID 55, Page 1, Line 246, Pos (15,0)
+#. ChangeHeroName (Actor 3)
+#. ID 55, Page 7, Line 26, Pos (15,0)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "デフォルト1"
+msgstr ""
+
+#. ID 54, Page 1, Line 310, Pos (17,0)
+#. ChangeHeroName (Actor 4)
+#. ID 55, Page 1, Line 247, Pos (15,0)
+#. ChangeHeroName (Actor 4)
+#. ID 55, Page 7, Line 27, Pos (15,0)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "デフォルト2"
+msgstr ""
+
+#. ID 54, Page 1, Line 311, Pos (17,0)
+#. ChangeHeroName (Actor 5)
+#. ID 55, Page 1, Line 248, Pos (15,0)
+#. ChangeHeroName (Actor 5)
+#. ID 55, Page 7, Line 28, Pos (15,0)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "女の子"
+msgstr ""
+
+#. ID 54, Page 1, Line 312, Pos (17,0)
+#. ChangeHeroName (Actor 6)
+#. ID 55, Page 1, Line 249, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+#. ID 55, Page 7, Line 29, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "デフォルト3"
+msgstr ""
+
+#. ID 55, Page 1, Line 31, Pos (15,0)
+msgid "\\>イントロ再生時間変更　0012～9999"
+msgstr ""
+
+#. ID 55, Page 5, Line 5, Pos (15,0)
+#. Choice (3 options)
+#. ID 55, Page 6, Line 5, Pos (15,0)
+#. Choice (3 options)
+msgid ""
+"\\>曲情報の表示形式\n"
+"\\>自動切り替え時の次No.選択\n"
+"\\>サウンドルームから抜ける"
+msgstr ""
+
+#. ID 55, Page 5, Line 7, Pos (15,0)
+#. Choice (4 options)
+#. ID 55, Page 6, Line 7, Pos (15,0)
+#. Choice (4 options)
+msgid ""
+"\\>ファイル名のみ表示\n"
+"\\>作曲者名のみ表示\n"
+"\\>両方とも表示\n"
+"\\>どちらも非表示"
+msgstr ""
+
+#. ID 55, Page 5, Line 44, Pos (15,0)
+#. ID 55, Page 6, Line 28, Pos (15,0)
+msgid ""
+"\\>自動切り替え時、次に演奏する曲No.の選択方式\n"
+"\\>現在の設定は「登録No.順」です"
+msgstr ""
+
+#. ID 55, Page 5, Line 48, Pos (15,0)
+#. ID 55, Page 6, Line 32, Pos (15,0)
+msgid ""
+"\\>自動切り替え時、次に演奏する曲No.の選択方式\n"
+"\\>現在の設定は「ランダム」です"
+msgstr ""
+
+#. ID 55, Page 5, Line 52, Pos (15,0)
+#. Choice (2 options)
+#. ID 55, Page 6, Line 36, Pos (15,0)
+#. Choice (2 options)
+msgid ""
+"\\>登録No.順\n"
+"\\>ランダム"
+msgstr ""
+
+#. ID 55, Page 5, Line 67, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+#. ID 55, Page 6, Line 51, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "ﾃﾞﾊﾞｯｸﾞﾙｰﾑ"
+msgstr ""
+
+#. ID 55, Page 5, Line 71, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+#. ID 55, Page 6, Line 55, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "製作者部屋"
+msgstr ""
+
+#. ID 55, Page 5, Line 74, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+#. ID 55, Page 6, Line 58, Pos (15,0)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "PC画面"
+msgstr ""
+
+#. ID 55, Page 5, Line 79, Pos (15,0)
+#. Contains choice at line 2 (2 options)
+#. ID 55, Page 6, Line 63, Pos (15,0)
+#. Contains choice at line 2 (3 options)
+msgid "\\>退室先を選択"
+msgstr ""
+
+#. ID 55, Page 5, Line 80, Pos (15,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>退室して\\N[6]へ戻る\n"
+"\\>SR分室へ移動"
+msgstr ""
+
+#. ID 55, Page 6, Line 64, Pos (15,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>退室して\\N[6]へ戻る\n"
+"\\>SR分室へ移動\n"
+"\\>SRED閲覧"
+msgstr ""
+
