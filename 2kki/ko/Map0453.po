@@ -30,7 +30,7 @@ msgid ""
 "\\>                       $u …No.指定"
 msgstr ""
 "\\>                    조작설명\n"
-"\\>          랜덤 표시… $s \n"
+"\\>           랜덤 표시… $s \n"
 "\\>        1칸 앞으로… $v　$t …1칸 뒤로\n"
 "\\>                       $u …No.지정"
 
@@ -132,9 +132,9 @@ msgid ""
 "\\>\n"
 "\\>自動切り替え時の壁紙表示順を選べます"
 msgstr ""
-"\\>◆배경화면 표시 순서 설정\n"
+"\\>◆배경화면 표시순서 설정\n"
 "\\>\n"
-"\\>자동전환 시 배경화면 표시 순서를 선택할 수 있습니다"
+"\\>자동전환 시 배경화면 표시순서를 선택할 수 있습니다"
 
 #. ID 1, Page 3, Line 60, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -145,7 +145,7 @@ msgid ""
 "\\>\n"
 "\\>現在：壁紙No.順"
 msgstr ""
-"\\>◆배경화면 표시 순서 설정\n"
+"\\>◆배경화면 표시순서 설정\n"
 "\\>\n"
 "\\>현재:배경화면No.순"
 
@@ -232,12 +232,12 @@ msgid ""
 msgstr ""
 "\\>◆BGM 지정\n"
 "\\>\n"
-"\\>기정 선택지나 SR분실에서 곡을 고를 수 있습니다"
+"\\>정해진 선택지나 SR분실에서 곡을 고를 수 있습니다"
 
 #. ID 1, Page 3, Line 128, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：SR分室からBGMを取得 / X：既定のBGMから選択"
-msgstr "\\>Z:SR분실에서 BGM 가져오기 / X:기정 BGM 중에서 선택"
+msgstr "\\>Z:SR분실 BGM 사용 / X:정해진 BGM 중 선택"
 
 #. ID 1, Page 3, Line 130, Pos (0,14)
 #. Contains choice at line 4 (1 options)
