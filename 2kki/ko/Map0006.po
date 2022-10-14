@@ -387,6 +387,10 @@ msgid ""
 "曲情報用のピクチャーを作りました\n"
 "　"
 msgstr ""
+"◆템플릿\n"
+"아래를 템플릿으로 하여,\n"
+"곡 정보용 이미지를 만들었습니다\n"
+"　"
 
 #. ID 3, Page 5, Line 15, Pos (19,14)
 msgid ""
@@ -402,6 +406,10 @@ msgid ""
 "「ウィンドウ透明」「表示位置：上」\n"
 "「表示位置完全固定」にします。"
 msgstr ""
+"◆작성순서\n"
+"먼저 '◆문장 옵션 변경'에서\n"
+"'윈도우 투명''표시 위치:위'\n"
+"'표시위치 완전 고정'으로 합니다。"
 
 #. ID 3, Page 5, Line 22, Pos (19,14)
 msgid ""
@@ -409,6 +417,9 @@ msgid ""
 "その後「◆文章の表示」で\n"
 "ピクチャーにしたい文章を表示させます。"
 msgstr ""
+"\n"
+"그 후 '◆문장 표시'에서\n"
+"이미지로 하고 싶은 문장을 표시하게 합니다"
 
 #. ID 3, Page 5, Line 25, Pos (19,14)
 msgid ""
@@ -417,12 +428,18 @@ msgid ""
 "ウィンドウの上から80ピクセルを切り抜きます。\n"
 "（画像サイズが320x80になると思われます）"
 msgstr ""
+"\n"
+"'PrtSc 키'등으로 캡쳐해\n"
+"창 위에서 80픽셀을 잘라냅니다\n"
+"(이미지 사이즈는 320x80 일 것으로 보입니다)"
 
 #. ID 3, Page 5, Line 29, Pos (19,14)
 msgid ""
 "\n"
 "あとは適当に透過色を設定してインポートするだけです。"
 msgstr ""
+"\n"
+"나머지는 적당히 투과색을 설정하고 불러오기만 하면 됩니다"
 
 #. ID 13, Page 1, Line 1, Pos (6,8)
 #. ID 14, Page 1, Line 1, Pos (13,8)
@@ -430,6 +447,8 @@ msgid ""
 "ハウスポッドっていう実在するスピーカーです。\n"
 "高いけどこれ欲しいんだよ～"
 msgstr ""
+"하우스 팟이라고 실존하는 스피커입니다\n"
+"비싸긴 해도 이거 갖고싶어~"
 
 #. ID 19, Page 2, Line 60, Pos (0,14)
 msgid ""
@@ -438,6 +457,10 @@ msgid ""
 "\\>「キャンセル」一時停止\n"
 "\\>一時停止中に「決定」で再生、「キャンセル」で終了"
 msgstr ""
+"\\>　　　　　　　　　★조작방법★\n"
+"\\>'→'다음 곡'←'이전 곡'↑'맨 앞으로'↓'맨 뒤로\n"
+"\\>'취소 키'일시정지\n"
+"\\>일시정지 중 '결정 키'로 재생, '취소 키'로 종료"
 
 #. ID 19, Page 5, Line 15, Pos (0,14)
 #. ChangeHeroName (Actor 1)
@@ -2368,7 +2391,7 @@ msgstr ""
 
 #. ID 55, Page 1, Line 31, Pos (15,0)
 msgid "\\>イントロ再生時間変更　0012～9999"
-msgstr ""
+msgstr "\\>인트로 재생시간 변경 0012～9999"
 
 #. ID 55, Page 5, Line 5, Pos (15,0)
 #. Choice (3 options)
@@ -2379,6 +2402,9 @@ msgid ""
 "\\>自動切り替え時の次No.選択\n"
 "\\>サウンドルームから抜ける"
 msgstr ""
+"\\>곡 정보 표시 형식\n"
+"\\>자동 전환 시 다음 No.선택\n"
+"\\>사운드 룸에서 나가기"
 
 #. ID 55, Page 5, Line 7, Pos (15,0)
 #. Choice (4 options)
@@ -2390,6 +2416,10 @@ msgid ""
 "\\>両方とも表示\n"
 "\\>どちらも非表示"
 msgstr ""
+"\\>파일 이름만 표시\n"
+"\\>제작자 이름만 표시\n"
+"\\>둘 다 표시\n"
+"\\>둘 다 숨김"
 
 #. ID 55, Page 5, Line 44, Pos (15,0)
 #. ID 55, Page 6, Line 28, Pos (15,0)
@@ -2397,6 +2427,8 @@ msgid ""
 "\\>自動切り替え時、次に演奏する曲No.の選択方式\n"
 "\\>現在の設定は「登録No.順」です"
 msgstr ""
+"\\>자동 전환 시 다음에 연주할 곡 No.선택방식\n"
+"\\>현재 설정은 '등록No.순'입니다"
 
 #. ID 55, Page 5, Line 48, Pos (15,0)
 #. ID 55, Page 6, Line 32, Pos (15,0)
@@ -2404,6 +2436,8 @@ msgid ""
 "\\>自動切り替え時、次に演奏する曲No.の選択方式\n"
 "\\>現在の設定は「ランダム」です"
 msgstr ""
+"\\>자동 전환 시 다음에 연주할 곡 No.선택방식\n"
+"\\>현재 설정은 '랜덤'입니다"
 
 #. ID 55, Page 5, Line 52, Pos (15,0)
 #. Choice (2 options)
@@ -2413,6 +2447,8 @@ msgid ""
 "\\>登録No.順\n"
 "\\>ランダム"
 msgstr ""
+"\\>등록No.순\n"
+"\\>랜덤"
 
 #. ID 55, Page 5, Line 67, Pos (15,0)
 #. ChangeHeroName (Actor 6)
@@ -2420,7 +2456,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ﾃﾞﾊﾞｯｸﾞﾙｰﾑ"
-msgstr ""
+msgstr "디버그 룸"
 
 #. ID 55, Page 5, Line 71, Pos (15,0)
 #. ChangeHeroName (Actor 6)
@@ -2428,7 +2464,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "製作者部屋"
-msgstr ""
+msgstr "제작자 방"
 
 #. ID 55, Page 5, Line 74, Pos (15,0)
 #. ChangeHeroName (Actor 6)
@@ -2436,14 +2472,14 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "PC画面"
-msgstr ""
+msgstr "PC 화면"
 
 #. ID 55, Page 5, Line 79, Pos (15,0)
 #. Contains choice at line 2 (2 options)
 #. ID 55, Page 6, Line 63, Pos (15,0)
 #. Contains choice at line 2 (3 options)
 msgid "\\>退室先を選択"
-msgstr ""
+msgstr "\\>퇴실할 곳을 선택"
 
 #. ID 55, Page 5, Line 80, Pos (15,0)
 #. Choice (2 options, embedded in a message)
@@ -2451,6 +2487,8 @@ msgid ""
 "\\>退室して\\N[6]へ戻る\n"
 "\\>SR分室へ移動"
 msgstr ""
+"\\>퇴실 후 \\N[6]로 돌아가기\n"
+"\\>SR분실로 이동"
 
 #. ID 55, Page 6, Line 64, Pos (15,0)
 #. Choice (3 options, embedded in a message)
@@ -2459,4 +2497,6 @@ msgid ""
 "\\>SR分室へ移動\n"
 "\\>SRED閲覧"
 msgstr ""
-
+"\\>퇴실 후 \\N[6]로 돌아가기\n"
+"\\>SR분실로 이동"
+"\\>SRED보기"
