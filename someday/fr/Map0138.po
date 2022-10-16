@@ -12,6 +12,108 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.1.1\n"
 
+#. ID 4, Page 1, Line 7, Pos (12,11)
+msgid "                   Healing aura"
+msgstr "                 Aura de guérison"
+
+#. ID 5, Page 1, Line 7, Pos (18,9)
+msgid "                      Mercury"
+msgstr "                      Mercure"
+
+#. ID 6, Page 1, Line 7, Pos (16,9)
+msgid "                    Diving suit"
+msgstr "                 Combi. de plongée"
+
+#. ID 7, Page 1, Line 8, Pos (14,9)
+msgid "                    Clockworker"
+msgstr "                     Horloger"
+
+#. ID 7, Page 1, Line 11, Pos (14,9)
+msgid "Press 1 to return to the Nexus."
+msgstr "Appuyez sur 1 pour retourner au Nexus."
+
+#. ID 8, Page 1, Line 7, Pos (14,11)
+msgid "                       Wood"
+msgstr "                       Bois"
+
+#. ID 9, Page 1, Line 7, Pos (12,9)
+msgid "                   Candle holder"
+msgstr "                     Bougeoir"
+
+#. ID 10, Page 1, Line 8, Pos (18,7)
+msgid "                        Fox"
+msgstr "                      Renard"
+
+#. ID 10, Page 1, Line 11, Pos (18,7)
+msgid "Interact with ledges to jump over them."
+msgstr ""
+"Interagissez avec les corniches \n"
+"pour leur sauter par-dessus."
+
+#. ID 11, Page 1, Line 7, Pos (16,7)
+msgid "                        TV"
+msgstr ""
+
+#. ID 12, Page 1, Line 7, Pos (14,7)
+msgid "                      Classic"
+msgstr "                     Classique"
+
+#. ID 13, Page 1, Line 8, Pos (12,7)
+msgid "                       Scarf"
+msgstr "                      Écharpe"
+
+#. ID 14, Page 1, Line 8, Pos (18,5)
+msgid "                     Raincoat"
+msgstr "                    Imperméable"
+
+#. ID 15, Page 1, Line 7, Pos (16,5)
+msgid "                      Wrench"
+msgstr "                   Clé anglaise"
+
+#. ID 16, Page 1, Line 7, Pos (14,5)
+msgid "                       Blob"
+msgstr ""
+
+#. ID 17, Page 1, Line 8, Pos (12,5)
+msgid "                    Megaphone"
+msgstr "                    Mégaphone"
+
+#. ID 17, Page 1, Line 11, Pos (12,5)
+msgid "Press 1 to make a random sound."
+msgstr "Appuyez sur 1 pour produire un son au hasard."
+
+#. ID 18, Page 1, Line 8, Pos (18,3)
+msgid "                      Scooter"
+msgstr "                    Trottinette"
+
+#. ID 19, Page 1, Line 7, Pos (16,3)
+msgid "                    Monochrome"
+msgstr ""
+
+#. ID 20, Page 1, Line 7, Pos (14,3)
+msgid "                       Nerd"
+msgstr ""
+
+#. ID 21, Page 1, Line 8, Pos (12,3)
+msgid "                      8-bit"
+msgstr "                      8-bits"
+
+#. ID 22, Page 1, Line 8, Pos (18,1)
+msgid "                      Glitch"
+msgstr "                        Bug"
+
+#. ID 23, Page 1, Line 7, Pos (16,1)
+msgid "                       Sick"
+msgstr "                      Malade"
+
+#. ID 24, Page 1, Line 7, Pos (14,1)
+msgid "                      Doodle"
+msgstr "                   Gribouillage"
+
+#. ID 25, Page 1, Line 7, Pos (12,1)
+msgid "                       Bald"
+msgstr "                      Chauve"
+
 #. ID 26, Page 1, Line 7, Pos (4,4)
 #. Choice (4 options)
 msgid ""
@@ -63,6 +165,10 @@ msgctxt "actors.name"
 msgid "Itsuki"
 msgstr "Itsuki"
 
+#. ID 31, Page 1, Line 7, Pos (16,11)
+msgid "                      Tomato"
+msgstr "                      Tomate"
+
 #. ID 33, Page 1, Line 1, Pos (7,1)
 msgid "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
 msgstr "TOURNE !!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -70,6 +176,10 @@ msgstr "TOURNE !!!!!!!!!!!!!!!!!!!!!!!!!!"
 #. ID 33, Page 1, Line 5, Pos (7,1)
 msgid "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
 msgstr "Salle de Debug !! OUUUuuuuUuIiiiiiIIIIIii !!!"
+
+#. ID 34, Page 1, Line 7, Pos (18,11)
+msgid "                     Lab coat"
+msgstr "                  Blouse de labo."
 
 #. ID 45, Page 1, Line 1, Pos (3,1)
 msgid ""
@@ -82,3 +192,55 @@ msgstr ""
 "C'est la plus longue ligne possible dans un texte.\n"
 "Donc, cinquante caractères. Ni plus ni moins.\n"
 "Et seulement quatre lignes par message. Cool."
+
+#. ID 45, Page 1, Line 5, Pos (3,1)
+msgid "*It depends on which fonts you chose earlier."
+msgstr "*Dépend de la police utilisée précédemment."
+
+#. ID 46, Page 1, Line 1, Pos (8,4)
+#. Choice (3 options)
+msgid ""
+"Debug Room\n"
+"Kondo event #1\n"
+"Mystery Boxes"
+msgstr ""
+"Salle de Debug\n"
+"Événement de Kondo #1\n"
+"Boîtes mystères"
+
+#. ID 46, Page 1, Line 9, Pos (8,4)
+#. Choice (4 options)
+#. ID 47, Page 1, Line 9, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"#1\n"
+"#2\n"
+"#3\n"
+"#4"
+msgstr ""
+
+#. ID 47, Page 1, Line 1, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Kondo event #1\n"
+"Mystery Boxes\n"
+"Crystals"
+msgstr ""
+"Salle de Debug\n"
+"Événement de Kondo #1\n"
+"Boîtes mystères\n"
+"Cristaux"
+
+#. ID 47, Page 1, Line 29, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"RED\n"
+"ORANGE #7"
+msgstr ""
+"ROUGE\n"
+"ORANGE #7"
+
+#. ID 48, Page 1, Line 1, Pos (10,4)
+msgid "Money maximum overdrive!"
+msgstr "Surplus d'argent maximal!"

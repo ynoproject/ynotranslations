@@ -13,17 +13,81 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
-#. Choice (3 options)
+#. Choice (4 options)
 msgid ""
 "Save\n"
 "Play ZApNeF\n"
+"Cache Setting\n"
 "Nevermind"
 msgstr ""
 "Sauvegarder\n"
 "Jouer à ZApNeF\n"
+"Paramètre du cache\n"
 "Quitter le bureau"
 
-#. ID 3, Page 2, Line 19, Pos (7,6)
+#. ID 2, Page 1, Line 57, Pos (11,4)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr ""
+
+#. ID 2, Page 1, Line 133, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : ON) \\<\n"
+"As you read a file, it loads all BGM and SE cache.\n"
+"Disable this option as save progress takes longer\n"
+"than usual."
+msgstr ""
+"\\> Chargement du cache (Actuel : Activé) \\<\n"
+"Lorsque que vous chargez un fichier, toutes les\n"
+"pistes et sons sont mis en cache. Désactivez cette\n"
+"option pour rendre le chargement moins long."
+
+#. ID 2, Page 1, Line 137, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : ON) \\<"
+msgstr "\\> Chargement du cache (Actuel : Activé) \\<"
+
+#. ID 2, Page 1, Line 138, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 155, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+"Activer\n"
+"Désactiver"
+
+#. ID 2, Page 1, Line 141, Pos (11,4)
+#. ID 2, Page 1, Line 163, Pos (11,4)
+msgid " Current setting has been retained."
+msgstr " Le paramètre actuel a été conservé."
+
+#. ID 2, Page 1, Line 146, Pos (11,4)
+msgid " Cache Load has been disabled."
+msgstr " Le chargement du cache a été désactivé."
+
+#. ID 2, Page 1, Line 151, Pos (11,4)
+msgid ""
+"\\> Cache Load (Current : OFF)\\<\n"
+"Proceeds without loading cache.\n"
+"Enable this option as you experience slow down."
+msgstr ""
+"\\> Chargement du cache (Actuel : Désactivé) \\<\n"
+"Procéder sans charger le cache. Activez cette\n"
+"option si vous avez des ralentissements."
+
+#. ID 2, Page 1, Line 154, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\> Cache Load (Current : OFF)\\<"
+msgstr "\\> Chargement du cache (Actuel : Désactivé) \\<"
+
+#. ID 2, Page 1, Line 159, Pos (11,4)
+msgid " Cache Load has been enabled."
+msgstr " Le chargement du cache a été activé."
+
+#. ID 3, Page 2, Line 20, Pos (7,6)
 msgid ""
 "I'm sorry, but you seem to be playing a save file\n"
 "from a previous version of this game.\n"
@@ -33,7 +97,17 @@ msgstr ""
 "sauvegarde provienne d'une ancienne version.\n"
 "(v0.0\\V[10])"
 
-#. ID 3, Page 2, Line 22, Pos (7,6)
+#. ID 3, Page 2, Line 25, Pos (7,6)
+msgid ""
+"I'm sorry, but you seem to be playing a save file\n"
+"from a previous version of this game.\n"
+"(v0.\\V[10])"
+msgstr ""
+"Je suis désolée, mais il semblerai que votre\n"
+"sauvegarde provienne d'une ancienne version.\n"
+"(v0.\\V[10])"
+
+#. ID 3, Page 2, Line 30, Pos (7,6)
 msgid ""
 "Since this game has been modified, you may\n"
 "experience problems that would not occur if you\n"
@@ -51,3 +125,13 @@ msgid ""
 msgstr ""
 "Vous avez accompli un nouvel exploit !\n"
 "Exploits : \\V[9]/32"
+
+#. ID 6, Page 1, Line 24, Pos (2,0)
+#. ID 6, Page 2, Line 25, Pos (2,0)
+msgid ""
+"New hidden feat(s) acquired!\n"
+"(Hidden feats don't count as regular ones)"
+msgstr ""
+"Nouvel exploit caché obtenu !\n"
+"(Les exploits cachés ne comptent pas comme les \n"
+"autres)"

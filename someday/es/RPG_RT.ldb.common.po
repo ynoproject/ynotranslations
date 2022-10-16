@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 3, Line 23
 #. ChangeHeroName (Actor 1)
@@ -65,3 +69,92 @@ msgstr ""
 "aparecen con mayor frecuencia!\n"
 "\\|Ssssh... \\.no se lo cuentes a nadie..."
 
+#. ID 171, Line 14
+#. ID 171, Line 32
+#. ID 171, Line 50
+#. ID 171, Line 68
+#. ID 171, Line 86
+#. ID 171, Line 104
+#. ID 171, Line 122
+#. ID 171, Line 140
+msgid "             Scheme has been changed!"
+msgstr "              Tipo de menu cambiado!"
+
+#. ID 174, Line 4
+#. Choice (3 options)
+msgid ""
+"Save\n"
+"Speed 5\n"
+"Debug Room"
+msgstr ""
+
+#. ID 174, Line 30
+#. ID 174, Line 69
+msgid "TESTMODE is currently activated. Choose option:"
+msgstr "MODOTEST esta activado ahora. Elige una opcion:"
+
+#. ID 174, Line 31
+#. Choice (4 options)
+msgid ""
+"Displays Music Rate\n"
+"Unlocks all music\n"
+"Revokes all music\n"
+"Save"
+msgstr ""
+"Mostrar porcentaje de musica obtenida\n"
+"Desbloquear toda la musica\n"
+"Bloquear toda la musica\n"
+"Guardar"
+
+#. ID 174, Line 39
+msgid "All music has been unlocked."
+msgstr "Se ha desbloqueado toda la musica."
+
+#. ID 174, Line 46
+msgid "All music has been revoked."
+msgstr "Se ha bloqueado toda la musica."
+
+#. ID 174, Line 70
+#. Choice (4 options)
+msgid ""
+"Save\n"
+"Chooses arbitrary Scheme\n"
+"Unlocks all Schemes\n"
+"Revokes all Schemes"
+msgstr ""
+"Guardar\n"
+"Elegir menu aleatorio\n"
+"Desbloquear todos los menus\n"
+"Bloquear todos los menus"
+
+#. ID 174, Line 76
+msgid "Input value between 0-7 that corresponds to Scheme ID."
+msgstr "Introducir valor de ID de menu entre 0 y 7."
+
+#. ID 174, Line 110
+msgid "All Schemes has been unlocked."
+msgstr "Se han desbloqueado todos los tipos de menu."
+
+#. ID 174, Line 113
+msgid ""
+"!!!WARNING!!! USING THIS FUNCTION WILL INITIALIZE\n"
+"CERTAIN EFFECTS, ALL FEATS, \n"
+"AND CERTAIN EVENT COMPLETION CHECKER!\n"
+"Press 'Yes' to initiate and press 'No' to cancel."
+msgstr ""
+"ATENCION!!! ESTA FUNCION REINICIARA EFECTOS, TODOS\n"
+"LOS LOGROS, Y CIERTAS COMPROBACIONES DE EVENTOS!\n"
+"Pulsa 'Si' para iniciar y 'No' para cancelar."
+
+#. ID 174, Line 117
+#. Choice (1 options)
+msgid "Yes"
+msgstr "Si"
+
+#. ID 174, Line 171
+msgid ""
+"All Schemes has been revoked. \n"
+"Most progressions has been initialized."
+msgstr ""
+"Bloqueados todos los menus.\n"
+"La mayor parte del progreso se ha reiniciado."
