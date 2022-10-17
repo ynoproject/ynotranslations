@@ -20,7 +20,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>                          ED No.--- '당신을 향한 위로'"
+"\\>                        ED No.--- '당신을 향한 감사'"
 
 #. ID 11, Page 1, Line 2, Pos (3,8)
 #. Contains choice at line 3 (1 options)
@@ -767,7 +767,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"                          \\S[4]ED No.\\.\\C[5]-\\.-\\.-\\S[5]\\| '모두를 향한 위로'\\|"
+"                        \\S[4]ED No.\\.\\C[5]-\\.-\\.-\\S[5]\\| '모두를 향한 감사'\\|"
 
 #. ID 27, Page 3, Line 149, Pos (2,7)
 #. ChangeHeroName (Actor 1)
