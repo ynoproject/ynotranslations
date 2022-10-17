@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: 유메2키 0.118 패치 6\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: KRBlacky011\n"
-"Language: ko\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 1, Page 1, Line 1477, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -146,7 +142,7 @@ msgstr ""
 
 #. ID 1, Page 1, Line 1859, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 5, Line 736, Pos (19,14)
+#. ID 1, Page 5, Line 743, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "サウンドサーチ"
@@ -154,7 +150,7 @@ msgstr "사운드 검색"
 
 #. ID 1, Page 1, Line 1862, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 5, Line 739, Pos (19,14)
+#. ID 1, Page 5, Line 746, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "未解放箇所を探す"
@@ -734,19 +730,17 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 2, Line 853, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 937, Pos (19,14)
+#. ID 1, Page 2, Line 938, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1195, Pos (19,14)
+#. ID 1, Page 2, Line 1196, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1384, Pos (19,14)
+#. ID 1, Page 2, Line 1385, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1717, Pos (19,14)
+#. ID 1, Page 2, Line 1718, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1892, Pos (19,14)
+#. ID 1, Page 2, Line 1893, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 201, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 940, Pos (19,14)
+#. ID 1, Page 4, Line 230, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 482, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -758,17 +752,13 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 2, Line 859, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1646, Pos (19,14)
+#. ID 1, Page 2, Line 1647, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1654, Pos (19,14)
+#. ID 1, Page 2, Line 1655, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 289, Pos (19,14)
+#. ID 1, Page 4, Line 318, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 505, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 1028, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 1244, Pos (19,14)
+#. ID 1, Page 4, Line 534, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 554, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -833,13 +823,11 @@ msgstr ""
 #. Choice (1 options, embedded in a message)
 #. ID 1, Page 2, Line 686, Pos (19,14)
 #. Choice (1 options, embedded in a message)
-#. ID 1, Page 2, Line 1694, Pos (19,14)
+#. ID 1, Page 2, Line 1695, Pos (19,14)
 #. Choice (1 options, embedded in a message)
-#. ID 1, Page 2, Line 1943, Pos (19,14)
+#. ID 1, Page 2, Line 1944, Pos (19,14)
 #. Choice (1 options, embedded in a message)
-#. ID 1, Page 4, Line 559, Pos (19,14)
-#. Choice (1 options, embedded in a message)
-#. ID 1, Page 4, Line 1298, Pos (19,14)
+#. ID 1, Page 4, Line 588, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 #. ID 1, Page 5, Line 374, Pos (19,14)
 #. Choice (1 options, embedded in a message)
@@ -862,21 +850,17 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 2, Line 864, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1351, Pos (19,14)
+#. ID 1, Page 2, Line 1352, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1589, Pos (19,14)
+#. ID 1, Page 2, Line 1590, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1663, Pos (19,14)
+#. ID 1, Page 2, Line 1664, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1897, Pos (19,14)
+#. ID 1, Page 2, Line 1898, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 206, Pos (19,14)
+#. ID 1, Page 4, Line 235, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 465, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 945, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 1204, Pos (19,14)
+#. ID 1, Page 4, Line 494, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 170, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -919,11 +903,9 @@ msgstr ""
 
 #. ID 1, Page 2, Line 856, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1584, Pos (19,14)
+#. ID 1, Page 2, Line 1585, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 286, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 1025, Pos (19,14)
+#. ID 1, Page 4, Line 315, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 163, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -945,7 +927,7 @@ msgstr ""
 
 #. ID 1, Page 2, Line 885, Pos (19,14)
 #. ChangeHeroName (Actor 6)
-#. ID 1, Page 5, Line 685, Pos (19,14)
+#. ID 1, Page 5, Line 692, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "メモリー"
@@ -953,7 +935,7 @@ msgstr "메모리"
 
 #. ID 1, Page 2, Line 888, Pos (19,14)
 #. ChangeHeroName (Actor 6)
-#. ID 1, Page 5, Line 682, Pos (19,14)
+#. ID 1, Page 5, Line 689, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リスト"
@@ -981,17 +963,15 @@ msgstr ""
 
 #. ID 1, Page 2, Line 905, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 260, Pos (19,14)
+#. ID 1, Page 4, Line 289, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 999, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 5, Line 837, Pos (19,14)
+#. ID 1, Page 5, Line 844, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【ガイドを表示する】"
 msgstr ""
 
-#. ID 1, Page 2, Line 991, Pos (19,14)
+#. ID 1, Page 2, Line 992, Pos (19,14)
 #. Contains choice at line 4 (1 options)
 msgid ""
 "\\>\\C[10]■\\C[6]未解放箇所のチェック\\C[0]\n"
@@ -1002,16 +982,16 @@ msgstr ""
 "\\>\n"
 "\\>＞어디서부터 체크를 시작합니까?\\<\\!"
 
-#. ID 1, Page 2, Line 994, Pos (19,14)
+#. ID 1, Page 2, Line 995, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>カーソル位置 = Z / No.1 = X"
 msgstr "\\>커서 위치 = Z / 1번부터 = X"
 
-#. ID 1, Page 2, Line 1022, Pos (19,14)
+#. ID 1, Page 2, Line 1023, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1274, Pos (19,14)
+#. ID 1, Page 2, Line 1275, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1774, Pos (19,14)
+#. ID 1, Page 2, Line 1775, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 452, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1019,11 +999,11 @@ msgctxt "actors.name"
 msgid "【演出番号を文字列に変換する】"
 msgstr ""
 
-#. ID 1, Page 2, Line 1030, Pos (19,14)
+#. ID 1, Page 2, Line 1031, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1283, Pos (19,14)
+#. ID 1, Page 2, Line 1284, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1823, Pos (19,14)
+#. ID 1, Page 2, Line 1824, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 460, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1031,11 +1011,11 @@ msgctxt "actors.name"
 msgid "0"
 msgstr ""
 
-#. ID 1, Page 2, Line 1033, Pos (19,14)
+#. ID 1, Page 2, Line 1034, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1286, Pos (19,14)
+#. ID 1, Page 2, Line 1287, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1827, Pos (19,14)
+#. ID 1, Page 2, Line 1828, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 463, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1043,7 +1023,7 @@ msgctxt "actors.name"
 msgid "00"
 msgstr ""
 
-#. ID 1, Page 2, Line 1038, Pos (19,14)
+#. ID 1, Page 2, Line 1039, Pos (19,14)
 #. Contains choice at line 4 (1 options)
 msgid ""
 "\\>\\C[10]■\\C[6]未解放箇所のチェック\\C[0]\n"
@@ -1054,12 +1034,12 @@ msgstr ""
 "\\>\n"
 "\\>＞미해방 No.：\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 
-#. ID 1, Page 2, Line 1041, Pos (19,14)
+#. ID 1, Page 2, Line 1042, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>次へ = Z / 終了 = X"
 msgstr "\\>다음 = Z / 종료 = X"
 
-#. ID 1, Page 2, Line 1061, Pos (19,14)
+#. ID 1, Page 2, Line 1062, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]未解放箇所のチェック\\C[0]\n"
 "\\>\n"
@@ -1069,7 +1049,7 @@ msgstr ""
 "\\>\n"
 "\\>＞미해방 부분이 발견되지 않았습니다"
 
-#. ID 1, Page 2, Line 1110, Pos (19,14)
+#. ID 1, Page 2, Line 1111, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1079,7 +1059,7 @@ msgstr ""
 "\\>\n"
 "\\>＞곡을 재생하면서 등록할 수 있습니다"
 
-#. ID 1, Page 2, Line 1113, Pos (19,14)
+#. ID 1, Page 2, Line 1114, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1091,7 +1071,7 @@ msgstr ""
 "\\>＞곡 명이 어둡게 처리된 것이 미등록입니다\n"
 "\\>　지정 번호가 미해방일 경우 건너뜁니다"
 
-#. ID 1, Page 2, Line 1121, Pos (19,14)
+#. ID 1, Page 2, Line 1122, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1103,7 +1083,7 @@ msgstr ""
 "\\>＞미해방 곡이 많은 부분이 존재한다면\n"
 "\\>　전환에 \\C[1]시간이 소요됩니다"
 
-#. ID 1, Page 2, Line 1125, Pos (19,14)
+#. ID 1, Page 2, Line 1126, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1115,7 +1095,7 @@ msgstr ""
 "\\>＞목록에 별이\\C[1]1개도 없는 구간이 있을\\C[0]경우\n"
 "\\>　주의해주십시오"
 
-#. ID 1, Page 2, Line 1129, Pos (19,14)
+#. ID 1, Page 2, Line 1130, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1127,21 +1107,19 @@ msgstr ""
 "\\>＞연출 해방수 4/609일 경우、SRNo.3 D→45로는\\C[1]5초\\C[0]정도\n"
 "\\>　SRNo.45→1 A로는\\C[1]30초\\C[0]정도 멈춥니다"
 
-#. ID 1, Page 2, Line 1252, Pos (19,14)
+#. ID 1, Page 2, Line 1253, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1343, Pos (19,14)
+#. ID 1, Page 2, Line 1344, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1793, Pos (19,14)
+#. ID 1, Page 2, Line 1794, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1926, Pos (19,14)
+#. ID 1, Page 2, Line 1927, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1961, Pos (19,14)
+#. ID 1, Page 2, Line 1962, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 2, Line 1992, Pos (19,14)
+#. ID 1, Page 2, Line 1993, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 640, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 1379, Pos (19,14)
+#. ID 1, Page 4, Line 669, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 #. ID 1, Page 5, Line 422, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1149,14 +1127,14 @@ msgctxt "actors.name"
 msgid "【曲目番号と演出番号を符号化する】"
 msgstr ""
 
-#. ID 1, Page 2, Line 1291, Pos (19,14)
+#. ID 1, Page 2, Line 1292, Pos (19,14)
 #. Contains choice at line 2 (3 options)
-#. ID 1, Page 2, Line 1323, Pos (19,14)
+#. ID 1, Page 2, Line 1324, Pos (19,14)
 #. Contains choice at line 2 (2 options)
 msgid "\\>SRNo.：\\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
 msgstr "\\>SRNo.：\\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
 
-#. ID 1, Page 2, Line 1292, Pos (19,14)
+#. ID 1, Page 2, Line 1293, Pos (19,14)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>次へ = Z / 前へ = X\n"
@@ -1167,7 +1145,7 @@ msgstr ""
 "\\>지정No.로 이동\n"
 "\\>메모리 등록 / 종료"
 
-#. ID 1, Page 2, Line 1305, Pos (19,14)
+#. ID 1, Page 2, Line 1306, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]指定No.へ移動\\C[0]\n"
 "\\>\n"
@@ -1177,7 +1155,7 @@ msgstr ""
 "\\>\n"
 "\\>＞SRNo.를 지정해주세요（\\C[1]1～\\V[111]\\C[0]  0으로 취소）"
 
-#. ID 1, Page 2, Line 1324, Pos (19,14)
+#. ID 1, Page 2, Line 1325, Pos (19,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>メモリー登録\n"
@@ -1186,7 +1164,7 @@ msgstr ""
 "\\>메모리 등록\n"
 "\\>종료"
 
-#. ID 1, Page 2, Line 1329, Pos (19,14)
+#. ID 1, Page 2, Line 1330, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1198,8 +1176,8 @@ msgstr ""
 "\\>＞등록할 No.를 선택해주세요\n"
 "\\>　 (No.10일 경우 0)"
 
-#. ID 1, Page 2, Line 1333, Pos (19,14)
-#. ID 1, Page 2, Line 1949, Pos (19,14)
+#. ID 1, Page 2, Line 1334, Pos (19,14)
+#. ID 1, Page 2, Line 1950, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1209,7 +1187,7 @@ msgstr ""
 "\\>\n"
 "\\>　 (No.10일 경우 0)"
 
-#. ID 1, Page 2, Line 1346, Pos (19,14)
+#. ID 1, Page 2, Line 1347, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1219,7 +1197,7 @@ msgstr ""
 "\\>\n"
 "\\>＞No.\\V[101]에 등록되었습니다"
 
-#. ID 1, Page 2, Line 1414, Pos (19,14)
+#. ID 1, Page 2, Line 1415, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]カーソル位置の指定\\C[0]（現在：\\C[4]No.\\V[110]\\C[0]）\n"
 "\\>\n"
@@ -1231,7 +1209,7 @@ msgstr ""
 "\\>＞이동할 No.를 지정해주세요\n"
 "\\>　（\\C[1]1～\\V[111]\\C[0]  0으로 취소  \\V[591]이상으로 랜덤）"
 
-#. ID 1, Page 2, Line 1418, Pos (19,14)
+#. ID 1, Page 2, Line 1419, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]カーソル位置の指定\\C[0]（現在：\\C[4]No.\\V[110]\\C[0]）\n"
 "\\>\n"
@@ -1241,7 +1219,7 @@ msgstr ""
 "\\>\n"
 "\\>＞（\\C[1]1～\\V[111]\\C[0]  0으로 취소  \\V[591]이상으로 랜덤）"
 
-#. ID 1, Page 2, Line 1579, Pos (19,14)
+#. ID 1, Page 2, Line 1580, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]カーソル位置の指定\\C[0]\n"
 "\\>\n"
@@ -1251,7 +1229,7 @@ msgstr ""
 "\\>\n"
 "\\>＞No.\\V[110]로 이동합니다\\<\\.\\.\\^"
 
-#. ID 1, Page 2, Line 1616, Pos (19,14)
+#. ID 1, Page 2, Line 1617, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]No.?とNo.?を交換\\C[0]\n"
 "\\>\n"
@@ -1261,7 +1239,7 @@ msgstr ""
 "\\>\n"
 "\\>＞교환할 No.를 지정해주세요 (No.10이면 0을 선택)"
 
-#. ID 1, Page 2, Line 1624, Pos (19,14)
+#. ID 1, Page 2, Line 1625, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]No.\\C[1]\\V[591]\\C[6]とNo.?を交換\\C[0]\n"
 "\\>\n"
@@ -1271,7 +1249,7 @@ msgstr ""
 "\\>\n"
 "\\>＞교환할 No.를 지정해주세요 (No.10이면 0을 선택)"
 
-#. ID 1, Page 2, Line 1670, Pos (19,14)
+#. ID 1, Page 2, Line 1671, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]No.\\C[1]\\V[591]\\C[6]とNo.\\C[1]\\V[592]\\C[6]を交換\\C[0]\n"
 "\\>\n"
@@ -1281,7 +1259,7 @@ msgstr ""
 "\\>\n"
 "\\>＞교환이 완료되었습니다\\<\\.\\.\\^"
 
-#. ID 1, Page 2, Line 1691, Pos (19,14)
+#. ID 1, Page 2, Line 1692, Pos (19,14)
 #. Contains choice at line 4 (1 options)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーの全消去\\C[0]\n"
@@ -1292,7 +1270,7 @@ msgstr ""
 "\\>\n"
 "\\>＞메모리의 등록 내용을 모두 지우시겠습니까?\\<\\!"
 
-#. ID 1, Page 2, Line 1699, Pos (19,14)
+#. ID 1, Page 2, Line 1700, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーの全消去\\C[0]\n"
 "\\>\n"
@@ -1302,7 +1280,7 @@ msgstr ""
 "\\>\n"
 "\\>＞삭제되었습니다\\<\\.\\.\\^"
 
-#. ID 1, Page 2, Line 1747, Pos (19,14)
+#. ID 1, Page 2, Line 1748, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]サウンドサーチ\\C[0]\n"
 "\\>・正解だと思う位置で\\C[4]Z\\C[0]を押してください\n"
@@ -1314,7 +1292,7 @@ msgstr ""
 "\\>・\\C[4]포기\\C[0]/\\C[4]힌트\\C[0]는 메뉴에서 고를 수 있습니다\n"
 "\\>・\\C[1]커서 이동 횟수는 측정되지 않습니다"
 
-#. ID 1, Page 2, Line 1760, Pos (19,14)
+#. ID 1, Page 2, Line 1761, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]演奏曲情報の表示\\C[0]\n"
 "\\>\n"
@@ -1324,15 +1302,15 @@ msgstr ""
 "\\>\n"
 "\\>＞곡이 재생되지 않았습니다"
 
-#. ID 1, Page 2, Line 1778, Pos (19,14)
+#. ID 1, Page 2, Line 1779, Pos (19,14)
 #. ChangeHeroName (Actor 6)
-#. ID 1, Page 2, Line 1830, Pos (19,14)
+#. ID 1, Page 2, Line 1831, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid " "
 msgstr ""
 
-#. ID 1, Page 2, Line 1842, Pos (19,14)
+#. ID 1, Page 2, Line 1843, Pos (19,14)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
@@ -1341,7 +1319,7 @@ msgstr ""
 "\\>파일 명：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR 번호：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (메모리 No.：\\C[4]\\V[591]\\C[0])"
 
-#. ID 1, Page 2, Line 1844, Pos (19,14)
+#. ID 1, Page 2, Line 1845, Pos (19,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>メモリーを消去\n"
@@ -1350,7 +1328,7 @@ msgstr ""
 "\\>메모리에서 삭제\n"
 "\\>PC 배경음악으로 등록"
 
-#. ID 1, Page 2, Line 1860, Pos (19,14)
+#. ID 1, Page 2, Line 1861, Pos (19,14)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
@@ -1359,7 +1337,7 @@ msgstr ""
 "\\>파일 명：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR 번호：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (메모리 No.：---)"
 
-#. ID 1, Page 2, Line 1862, Pos (19,14)
+#. ID 1, Page 2, Line 1863, Pos (19,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>メモリーに登録\n"
@@ -1368,7 +1346,7 @@ msgstr ""
 "\\>메모리에 등록\n"
 "\\>PC 배경음악으로 등록"
 
-#. ID 1, Page 2, Line 1888, Pos (19,14)
+#. ID 1, Page 2, Line 1889, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーを消去\\C[0]\n"
 "\\>\n"
@@ -1378,7 +1356,7 @@ msgstr ""
 "\\>\n"
 "\\>＞No.\\V[122]를 지웠습니다"
 
-#. ID 1, Page 2, Line 1908, Pos (19,14)
+#. ID 1, Page 2, Line 1909, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーを消去\\C[0]\n"
 "\\>\n"
@@ -1388,7 +1366,7 @@ msgstr ""
 "\\>\n"
 "\\>＞No.\\V[591]를 지웠습니다"
 
-#. ID 1, Page 2, Line 1929, Pos (19,14)
+#. ID 1, Page 2, Line 1930, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1398,7 +1376,7 @@ msgstr ""
 "\\>\n"
 "\\>＞No.\\V[592]에 등록하였습니다"
 
-#. ID 1, Page 2, Line 1937, Pos (19,14)
+#. ID 1, Page 2, Line 1938, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1408,7 +1386,7 @@ msgstr ""
 "\\>\n"
 "\\>＞메모리 빈칸이 남아있지 않습니다"
 
-#. ID 1, Page 2, Line 1940, Pos (19,14)
+#. ID 1, Page 2, Line 1941, Pos (19,14)
 #. Contains choice at line 4 (1 options)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
@@ -1419,7 +1397,7 @@ msgstr ""
 "\\>\n"
 "\\>＞덮어쓰겠습니까?\\<\\!"
 
-#. ID 1, Page 2, Line 1945, Pos (19,14)
+#. ID 1, Page 2, Line 1946, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1431,7 +1409,7 @@ msgstr ""
 "\\>＞덮어쓸 No.을 지정해주십시오\n"
 "\\>　 (No.10이면 0 을 입력)"
 
-#. ID 1, Page 2, Line 1964, Pos (19,14)
+#. ID 1, Page 2, Line 1965, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
@@ -1441,7 +1419,7 @@ msgstr ""
 "\\>\n"
 "\\>＞No.\\V[592]에 덮어씌웠습니다"
 
-#. ID 1, Page 2, Line 1984, Pos (19,14)
+#. ID 1, Page 2, Line 1985, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
@@ -1451,7 +1429,7 @@ msgstr ""
 "\\>\n"
 "\\>＞SR No.\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]을 등록했습니다"
 
-#. ID 1, Page 2, Line 1996, Pos (19,14)
+#. ID 1, Page 2, Line 1997, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
@@ -1514,8 +1492,6 @@ msgstr ""
 
 #. ID 1, Page 4, Line 68, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 811, Pos (19,14)
-#. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "-"
 msgstr ""
@@ -1558,8 +1534,6 @@ msgstr ""
 
 #. ID 1, Page 4, Line 100, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 839, Pos (19,14)
-#. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "+"
 msgstr ""
@@ -1600,8 +1574,7 @@ msgstr ""
 "\\>＞\\C[4]◆조건분기：우로츠키의 이름… \\C[0]의 조건분기 내부에\n"
 "\\>＞올바른 이벤트 명령어가 없음"
 
-#. ID 1, Page 4, Line 247, Pos (19,14)
-#. ID 1, Page 4, Line 986, Pos (19,14)
+#. ID 1, Page 4, Line 276, Pos (19,14)
 msgid ""
 "\\>\n"
 "\\>　　　　　　　 \\C[10]■\\C[4]\\_サウンドルーム\\_\\C[10]■"
@@ -1609,8 +1582,7 @@ msgstr ""
 "\\>\n"
 "\\>　　　　　　　 \\C[10]■\\C[4]\\_사운드 룸\\_\\C[10]■"
 
-#. ID 1, Page 4, Line 250, Pos (19,14)
-#. ID 1, Page 4, Line 989, Pos (19,14)
+#. ID 1, Page 4, Line 279, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]サウンドルームについて\\C[0]\n"
 "\\>\n"
@@ -1622,7 +1594,7 @@ msgstr ""
 "\\>SR（사운드 룸）에서는、게임 내에\n"
 "\\>사용되고 있는 곡을 들을 수 있습니다"
 
-#. ID 1, Page 4, Line 254, Pos (19,14)
+#. ID 1, Page 4, Line 283, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]モードについて\\C[0]\n"
 "\\>\n"
@@ -1634,80 +1606,49 @@ msgstr ""
 "\\>입장 시에는 리스트 모드이며\n"
 "\\>곡 리스트에서 해방 현황을 확인할 수 있습니다"
 
-#. ID 1, Page 4, Line 357, Pos (19,14)
+#. ID 1, Page 4, Line 386, Pos (19,14)
 #. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 370, Pos (19,14)
+#. ID 1, Page 4, Line 399, Pos (19,14)
 #. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 383, Pos (19,14)
+#. ID 1, Page 4, Line 412, Pos (19,14)
 #. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 396, Pos (19,14)
+#. ID 1, Page 4, Line 425, Pos (19,14)
 #. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 409, Pos (19,14)
-#. ChangeHeroName (Actor 6)
-#. ID 1, Page 4, Line 1096, Pos (19,14)
-#. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 1109, Pos (19,14)
-#. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 1122, Pos (19,14)
-#. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 1135, Pos (19,14)
-#. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 1148, Pos (19,14)
+#. ID 1, Page 4, Line 438, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[6]+"
 msgstr ""
 
-#. ID 1, Page 4, Line 360, Pos (19,14)
+#. ID 1, Page 4, Line 389, Pos (19,14)
 #. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 373, Pos (19,14)
+#. ID 1, Page 4, Line 402, Pos (19,14)
 #. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 386, Pos (19,14)
+#. ID 1, Page 4, Line 415, Pos (19,14)
 #. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 399, Pos (19,14)
+#. ID 1, Page 4, Line 428, Pos (19,14)
 #. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 412, Pos (19,14)
-#. ChangeHeroName (Actor 6)
-#. ID 1, Page 4, Line 1099, Pos (19,14)
-#. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 1112, Pos (19,14)
-#. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 1125, Pos (19,14)
-#. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 1138, Pos (19,14)
-#. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 1151, Pos (19,14)
+#. ID 1, Page 4, Line 441, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]+"
 msgstr ""
 
-#. ID 1, Page 4, Line 365, Pos (19,14)
+#. ID 1, Page 4, Line 394, Pos (19,14)
 #. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 378, Pos (19,14)
+#. ID 1, Page 4, Line 407, Pos (19,14)
 #. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 391, Pos (19,14)
+#. ID 1, Page 4, Line 420, Pos (19,14)
 #. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 404, Pos (19,14)
+#. ID 1, Page 4, Line 433, Pos (19,14)
 #. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 417, Pos (19,14)
-#. ChangeHeroName (Actor 6)
-#. ID 1, Page 4, Line 1104, Pos (19,14)
-#. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 1117, Pos (19,14)
-#. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 1130, Pos (19,14)
-#. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 1143, Pos (19,14)
-#. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 1156, Pos (19,14)
+#. ID 1, Page 4, Line 446, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]"
 msgstr ""
 
-#. ID 1, Page 4, Line 428, Pos (19,14)
-#. ID 1, Page 4, Line 1167, Pos (19,14)
+#. ID 1, Page 4, Line 457, Pos (19,14)
 msgid ""
 "\\>　　　　　 \\C[4]☆ \\C[0]Unlocked Info \\C[4]★\\C[0]\n"
 "\\>\\C[1]♪\\C[0]Music  ：\\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
@@ -1719,7 +1660,7 @@ msgstr ""
 "\\>\\C[1]♪\\C[0]패턴：\\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
 "\\>\\C[1]♪\\C[0]수치：\\C[4]\\V[591]％\\C[0] (\\N[6]\\V[5]％\\C[0])"
 
-#. ID 1, Page 4, Line 440, Pos (19,14)
+#. ID 1, Page 4, Line 469, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]おしらせ\\C[0]\n"
 "\\>\n"
@@ -1729,7 +1670,7 @@ msgstr ""
 "\\>\n"
 "\\>＞곡이 전부 해방되었습니다"
 
-#. ID 1, Page 4, Line 443, Pos (19,14)
+#. ID 1, Page 4, Line 472, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]おしらせ\\C[0]\n"
 "\\>\n"
@@ -1741,7 +1682,7 @@ msgstr ""
 "\\>＞메뉴의「미해방 부분 체크」가\n"
 "\\>　「사운드 검색」으로 변경되었습니다"
 
-#. ID 1, Page 4, Line 457, Pos (19,14)
+#. ID 1, Page 4, Line 486, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[0]疑似全解放モード\n"
 "\\>\n"
@@ -1753,16 +1694,13 @@ msgstr ""
 "\\>＞곡이 전부 해방되\\C[1]었다고\\C[0]판단하여\n"
 "\\>　사운드 검색을 해금합니다"
 
-#. ID 1, Page 4, Line 546, Pos (19,14)
-#. ChangeHeroName (Actor 6)
-#. ID 1, Page 4, Line 1285, Pos (19,14)
+#. ID 1, Page 4, Line 575, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "記憶_更新"
 msgstr "메모리 업데이트"
 
-#. ID 1, Page 4, Line 553, Pos (19,14)
-#. ID 1, Page 4, Line 1292, Pos (19,14)
+#. ID 1, Page 4, Line 582, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーの保存\\C[0]\n"
 "\\>\n"
@@ -1772,9 +1710,7 @@ msgstr ""
 "\\>\n"
 "\\>＞메모리 등록 정보가 갱신되고 있습니다"
 
-#. ID 1, Page 4, Line 556, Pos (19,14)
-#. Contains choice at line 4 (1 options)
-#. ID 1, Page 4, Line 1295, Pos (19,14)
+#. ID 1, Page 4, Line 585, Pos (19,14)
 #. Contains choice at line 4 (1 options)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーの保存\\C[0]\n"
@@ -1785,8 +1721,7 @@ msgstr ""
 "\\>\n"
 "\\>＞이번 메모리의 등록현황을 저장합니까?\\<\\!"
 
-#. ID 1, Page 4, Line 572, Pos (19,14)
-#. ID 1, Page 4, Line 1311, Pos (19,14)
+#. ID 1, Page 4, Line 601, Pos (19,14)
 msgid ""
 "\\>♪\\C[6]メモリーの保存\\C[0]\n"
 "\\>\n"
@@ -1796,8 +1731,7 @@ msgstr ""
 "\\>\n"
 "\\>＞저장이 완료되었습니다\\<\\.\\.\\^"
 
-#. ID 1, Page 4, Line 592, Pos (19,14)
-#. ID 1, Page 4, Line 1331, Pos (19,14)
+#. ID 1, Page 4, Line 621, Pos (19,14)
 msgid ""
 "\\>\\C[10]■\\C[0]デバッグ確認\n"
 "\\>\n"
@@ -1809,159 +1743,41 @@ msgstr ""
 "\\>＞SR분실을 나감에 따라\n"
 "\\>　디버그 제한을 해제합니다"
 
-#. ID 1, Page 4, Line 673, Pos (19,14)
-#. ChangeHeroName (Actor 1)
-#. ID 1, Page 4, Line 1411, Pos (19,14)
+#. ID 1, Page 4, Line 702, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "うろつき"
 msgstr "우로츠키"
 
-#. ID 1, Page 4, Line 674, Pos (19,14)
-#. ChangeHeroName (Actor 2)
-#. ID 1, Page 4, Line 1412, Pos (19,14)
+#. ID 1, Page 4, Line 703, Pos (19,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "デフォルト"
 msgstr ""
 
-#. ID 1, Page 4, Line 675, Pos (19,14)
-#. ChangeHeroName (Actor 3)
-#. ID 1, Page 4, Line 1413, Pos (19,14)
+#. ID 1, Page 4, Line 704, Pos (19,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "デフォルト1"
 msgstr ""
 
-#. ID 1, Page 4, Line 676, Pos (19,14)
-#. ChangeHeroName (Actor 4)
-#. ID 1, Page 4, Line 1414, Pos (19,14)
+#. ID 1, Page 4, Line 705, Pos (19,14)
 #. ChangeHeroName (Actor 4)
 msgctxt "actors.name"
 msgid "デフォルト2"
 msgstr ""
 
-#. ID 1, Page 4, Line 677, Pos (19,14)
-#. ChangeHeroName (Actor 5)
-#. ID 1, Page 4, Line 1415, Pos (19,14)
+#. ID 1, Page 4, Line 706, Pos (19,14)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "女の子"
 msgstr ""
 
-#. ID 1, Page 4, Line 678, Pos (19,14)
-#. ChangeHeroName (Actor 6)
-#. ID 1, Page 4, Line 1416, Pos (19,14)
+#. ID 1, Page 4, Line 707, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "デフォルト3"
 msgstr ""
-
-#. ID 1, Page 4, Line 826, Pos (19,14)
-msgid ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[103]\\C[0] でエラー発生★\n"
-"\n"
-"\\>＞No.\\V[103]の演出パターンを\n"
-"\\>＞全てチェックすることができませんでした"
-msgstr ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[103]\\C[0]에서 오류발생★\n"
-"\n"
-"\\>＞No.\\V[103]의 연출 패턴을\n"
-"\\>＞전부 체크하지 못했습니다"
-
-#. ID 1, Page 4, Line 830, Pos (19,14)
-msgid ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[103]\\C[0] でエラー発生★\n"
-"\\>＞推定されるエラーの原因\n"
-"\\>＞\\C[4]◆条件分岐：変数[105… \\C[0]の下に、\n"
-"\\>＞\\C[4]◆変数の操作：[105]加算,変数[107]の値\\C[0] が無い"
-msgstr ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[103]\\C[0] 에서 오류발생★\n"
-"\\>＞추정되는 에러의 원인\n"
-"\\>＞\\C[4]◆조건분기：변수[105… \\C[0]의 아래로、\n"
-"\\>＞\\C[4]◆변수조작：[105]가산,변수[107]의 값\\C[0]이 없음"
-
-#. ID 1, Page 4, Line 843, Pos (19,14)
-msgid ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[591]\\C[0] でエラー発生★\n"
-"\n"
-"\\>＞No.\\V[591]の次の曲を\n"
-"\\>＞チェックすることができませんでした"
-msgstr ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[591]\\C[0]에서 오류발생★\n"
-"\n"
-"\\>＞No.\\V[591]의 다음 곡을\n"
-"\\>＞체크할 수가 없습니다"
-
-#. ID 1, Page 4, Line 847, Pos (19,14)
-msgid ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[591]\\C[0] でエラー発生★\n"
-"\\>＞推定されるエラーの原因(1/2)\n"
-"\\>＞\\C[4]◆条件分岐：うろつきの名前が【SRa変動チェック】\\C[0]\n"
-"\\>＞というコマンドがこの曲に無い、正確な位置に無い"
-msgstr ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[591]\\C[0]에서 오류발생★\n"
-"\\>＞추정되는 오류의 원인(1/2)\n"
-"\\>＞\\C[4]◆조건분기：우로츠키의 이름에【SRa변동 체크】\\C[0]\n"
-"\\>＞라는 명령어가 곡에 없거나、정확한 위치에 있지 않음"
-
-#. ID 1, Page 4, Line 851, Pos (19,14)
-msgid ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[591]\\C[0] でエラー発生★\n"
-"\\>＞推定されるエラーの原因(2/2)\n"
-"\\>＞\\C[4]◆条件分岐：うろつきの名前… \\C[0]の条件分岐内に\n"
-"\\>＞正しいイベントコマンドが無い"
-msgstr ""
-"\\>★MAPID:620 EVID:2[\\V[141]] MusicNo.\\C[4]\\V[591]\\C[0]에서 오류발생★\n"
-"\\>＞추정되는 오류의 원인(2/2)\n"
-"\\>＞\\C[4]◆조건분기：우로츠키의 이름… \\C[0]의 조건분기 내에\n"
-"\\>＞올바른 이벤트 명령어가 없음"
-
-#. ID 1, Page 4, Line 993, Pos (19,14)
-msgid ""
-"\\>\\C[10]■\\C[6]モードについて\\C[0]\n"
-"\\>\n"
-"\\>入室時はリストモードです\n"
-"\\>曲リストで開放状況が確認できます"
-msgstr ""
-"\\>\\C[10]■\\C[6]모드에 대하여\\C[0]\n"
-"\\>\n"
-"\\>입장 시에는 리스트 모드이며\n"
-"\\>곡 리스트에서 해방현황을 확인할 수 있습니다"
-
-#. ID 1, Page 4, Line 1179, Pos (19,14)
-msgid ""
-"\\>\\C[10]■\\C[6]おしらせ\\C[0]\n"
-"\\>\n"
-"\\>＞曲が全開放されています"
-msgstr ""
-"\\>\\C[10]■\\C[6]알림\\C[0]\n"
-"\\>\n"
-"\\>＞곡이 전부 해방되었습니다"
-
-#. ID 1, Page 4, Line 1182, Pos (19,14)
-msgid ""
-"\\>\\C[10]■\\C[6]おしらせ\\C[0]\n"
-"\\>\n"
-"\\>＞メニューの「未開放箇所を探す」を\n"
-"\\>　「サウンドサーチ」に変更しました"
-msgstr ""
-"\\>\\C[10]■\\C[6]알림\\C[0]\n"
-"\\>\n"
-"\\>＞메뉴의「미해방 장소 찾기」가\n"
-"\\>　「사운드 검색」으로 변경되었습니다"
-
-#. ID 1, Page 4, Line 1196, Pos (19,14)
-msgid ""
-"\\>\\C[10]■\\C[0]疑似全開放モード\n"
-"\\>\n"
-"\\>＞曲が全開放された\\C[1]つもり\\C[0]で処理し\n"
-"\\>　サウンドサーチを解禁します"
-msgstr ""
-"\\>\\C[10]■\\C[0]유사 전체 해방 모드\n"
-"\\>\n"
-"\\>＞곡이 전부 해방되\\C[1]었다고\\C[0]판단하여\n"
-"\\>　사운드 검색을 해금합니다"
 
 #. ID 1, Page 5, Line 49, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -2083,7 +1899,7 @@ msgstr ""
 
 #. ID 1, Page 5, Line 544, Pos (19,14)
 #. ChangeHeroName (Actor 1)
-#. ID 1, Page 5, Line 756, Pos (19,14)
+#. ID 1, Page 5, Line 763, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【サウンドサーチを開始する】"
@@ -2166,64 +1982,76 @@ msgctxt "actors.name"
 msgid "【SR分室から退室する】"
 msgstr ""
 
-#. ID 1, Page 5, Line 688, Pos (19,14)
+#. ID 1, Page 5, Line 682, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "演奏を止める"
+msgstr "재생을 중지하기"
+
+#. ID 1, Page 5, Line 685, Pos (19,14)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "次の曲を演奏する"
+msgstr "다음 곡을 재생하기"
+
+#. ID 1, Page 5, Line 695, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]モード変更\\C[0]"
 msgstr "\\>\\C[10]■\\C[6]모드 변경\\C[0]"
 
-#. ID 1, Page 5, Line 689, Pos (19,14)
+#. ID 1, Page 5, Line 696, Pos (19,14)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>\\N[6]モードに切り替え\n"
 "\\>自動曲送りの設定\n"
-"\\>演奏を止める"
+"\\>\\N[5]"
 msgstr ""
-"\\>\\N[6]모드로 전환\n"
+"\\>\\N[6] 모드로 전환\n"
 "\\>자동 곡 재생 설정\n"
-"\\>재생을 중단하기"
+"\\>\\N[5]"
 
-#. ID 1, Page 5, Line 693, Pos (19,14)
+#. ID 1, Page 5, Line 700, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【モード変更】リスト/メモリーモードに切り替え"
 msgstr ""
 
-#. ID 1, Page 5, Line 700, Pos (19,14)
+#. ID 1, Page 5, Line 707, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【モード変更】自動曲送りの設定"
 msgstr ""
 
-#. ID 1, Page 5, Line 707, Pos (19,14)
+#. ID 1, Page 5, Line 714, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
-msgid "【モード変更】演奏を止める"
+msgid "【モード変更】演奏を止める/次の曲を演奏する"
 msgstr ""
 
-#. ID 1, Page 5, Line 734, Pos (19,14)
+#. ID 1, Page 5, Line 741, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "カーソルジャンプ"
 msgstr "커서 점프"
 
-#. ID 1, Page 5, Line 744, Pos (19,14)
+#. ID 1, Page 5, Line 751, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演奏可能曲を登録"
 msgstr "재생 가능곡 등록"
 
-#. ID 1, Page 5, Line 745, Pos (19,14)
+#. ID 1, Page 5, Line 752, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "メモリーの交換 / 全消去"
 msgstr "메모리 교환 / 전체 삭제"
 
-#. ID 1, Page 5, Line 748, Pos (19,14)
+#. ID 1, Page 5, Line 755, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]高度な機能\\C[0]"
 msgstr "\\>\\C[10]■\\C[6]고급 기능\\C[0]"
 
-#. ID 1, Page 5, Line 749, Pos (19,14)
+#. ID 1, Page 5, Line 756, Pos (19,14)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>\\N[6]\n"
@@ -2234,25 +2062,25 @@ msgstr ""
 "\\>\\N[1]\n"
 "\\>옵션"
 
-#. ID 1, Page 5, Line 763, Pos (19,14)
+#. ID 1, Page 5, Line 770, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【高度な機能】未解放箇所を探す"
 msgstr ""
 
-#. ID 1, Page 5, Line 772, Pos (19,14)
+#. ID 1, Page 5, Line 779, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【高度な機能】演奏可能曲を登録"
 msgstr ""
 
-#. ID 1, Page 5, Line 782, Pos (19,14)
+#. ID 1, Page 5, Line 789, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【高度な機能】カーソルジャンプ"
 msgstr ""
 
-#. ID 1, Page 5, Line 788, Pos (19,14)
+#. ID 1, Page 5, Line 795, Pos (19,14)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>\\C[10]■\\C[6]メモリーの操作\\C[0]\n"
@@ -2261,7 +2089,7 @@ msgstr ""
 "\\>\\C[10]■\\C[6]메모리 조작\\C[0]\n"
 "\\>"
 
-#. ID 1, Page 5, Line 790, Pos (19,14)
+#. ID 1, Page 5, Line 797, Pos (19,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\> 交換\n"
@@ -2270,25 +2098,25 @@ msgstr ""
 "\\> 교환\n"
 "\\> 전체 삭제"
 
-#. ID 1, Page 5, Line 794, Pos (19,14)
+#. ID 1, Page 5, Line 801, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【高度な機能】メモリーの交換"
 msgstr ""
 
-#. ID 1, Page 5, Line 801, Pos (19,14)
+#. ID 1, Page 5, Line 808, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【高度な機能】メモリーの全消去"
 msgstr ""
 
-#. ID 1, Page 5, Line 812, Pos (19,14)
+#. ID 1, Page 5, Line 819, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【高度な機能】オプション"
 msgstr ""
 
-#. ID 1, Page 5, Line 863, Pos (19,14)
+#. ID 1, Page 5, Line 870, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【演奏曲の情報を表示する】"
@@ -2320,259 +2148,261 @@ msgctxt "actors.name"
 msgid "qs0UrDFJ-title"
 msgstr ""
 
-#. ID 2, Page 1, Line 130, Pos (18,14)
+#. ID 2, Page 1, Line 128, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qs0UrDFJ-title_Rv"
 msgstr ""
 
-#. ID 2, Page 1, Line 166, Pos (18,14)
+#. ID 2, Page 1, Line 167, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 185, Pos (18,14)
+#. ID 2, Page 1, Line 186, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "OP曲「ゆめ2っき」By音師竹内"
 msgstr ""
 
-#. ID 2, Page 1, Line 202, Pos (18,14)
+#. ID 2, Page 1, Line 203, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "VANEGI_3je_reMIX03"
 msgstr ""
 
-#. ID 2, Page 1, Line 219, Pos (18,14)
+#. ID 2, Page 1, Line 220, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "VANEGI_3je_reMIX04"
 msgstr ""
 
-#. ID 2, Page 1, Line 250, Pos (18,14)
+#. ID 2, Page 1, Line 251, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 268, Pos (18,14)
+#. ID 2, Page 1, Line 269, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 285, Pos (18,14)
+#. ID 2, Page 1, Line 286, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumeorugo_arr2"
 msgstr ""
 
-#. ID 2, Page 1, Line 301, Pos (18,14)
+#. ID 2, Page 1, Line 302, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "夢オルゴールFC"
 msgstr ""
 
-#. ID 2, Page 1, Line 320, Pos (18,14)
+#. ID 2, Page 1, Line 321, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "PC_音源差し替え"
 msgstr ""
 
-#. ID 2, Page 1, Line 339, Pos (18,14)
+#. ID 2, Page 1, Line 340, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "CAI06VPX"
 msgstr ""
 
-#. ID 2, Page 1, Line 372, Pos (18,14)
+#. ID 2, Page 1, Line 373, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 391, Pos (18,14)
+#. ID 2, Page 1, Line 392, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 412, Pos (18,14)
+#. ID 2, Page 1, Line 413, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "626-ryukyu"
 msgstr ""
 
-#. ID 2, Page 1, Line 446, Pos (18,14)
+#. ID 2, Page 1, Line 447, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 463, Pos (18,14)
+#. ID 2, Page 1, Line 464, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 480, Pos (18,14)
+#. ID 2, Page 1, Line 481, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 497, Pos (18,14)
+#. ID 2, Page 1, Line 498, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 515, Pos (18,14)
+#. ID 2, Page 1, Line 516, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 532, Pos (18,14)
+#. ID 2, Page 1, Line 533, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 546, Pos (18,14)
+#. ID 2, Page 1, Line 547, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "626-seagull"
 msgstr ""
 
-#. ID 2, Page 1, Line 580, Pos (18,14)
+#. ID 2, Page 1, Line 581, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 599, Pos (18,14)
+#. ID 2, Page 1, Line 600, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 615, Pos (18,14)
+#. ID 2, Page 1, Line 616, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumepo6"
 msgstr ""
 
-#. ID 2, Page 1, Line 651, Pos (18,14)
+#. ID 2, Page 1, Line 652, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 667, Pos (18,14)
+#. ID 2, Page 1, Line 668, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "932-warm"
 msgstr ""
 
-#. ID 2, Page 1, Line 697, Pos (18,14)
+#. ID 2, Page 1, Line 698, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 714, Pos (18,14)
+#. ID 2, Page 1, Line 715, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 729, Pos (18,14)
+#. ID 2, Page 1, Line 730, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "626-tb303"
 msgstr ""
 
-#. ID 2, Page 1, Line 764, Pos (18,14)
+#. ID 2, Page 1, Line 765, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "803-1"
 msgstr ""
 
-#. ID 2, Page 1, Line 795, Pos (18,14)
+#. ID 2, Page 1, Line 796, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 813, Pos (18,14)
+#. ID 2, Page 1, Line 814, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 830, Pos (18,14)
+#. ID 2, Page 1, Line 831, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 847, Pos (18,14)
+#. ID 2, Page 1, Line 848, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 862, Pos (18,14)
+#. ID 2, Page 1, Line 863, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 880, Pos (18,14)
+#. ID 2, Page 1, Line 881, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "903-suna001"
 msgstr ""
 
-#. ID 2, Page 1, Line 914, Pos (18,14)
+#. ID 2, Page 1, Line 915, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 931, Pos (18,14)
+#. ID 2, Page 1, Line 932, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "base"
 msgstr ""
 
-#. ID 2, Page 1, Line 964, Pos (18,14)
+#. ID 2, Page 1, Line 965, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 981, Pos (18,14)
+#. ID 2, Page 1, Line 982, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_21"
 msgstr ""
 
-#. ID 2, Page 1, Line 1015, Pos (18,14)
+#. ID 2, Page 1, Line 1016, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1034, Pos (18,14)
+#. ID 2, Page 1, Line 1035, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 1, Line 1059, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumepo3"
 msgstr ""
 
-#. ID 2, Page 1, Line 1068, Pos (18,14)
+#. ID 2, Page 1, Line 1093, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1087, Pos (18,14)
+#. ID 2, Page 1, Line 1112, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1103, Pos (18,14)
+#. ID 2, Page 1, Line 1128, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1118, Pos (18,14)
+#. ID 2, Page 1, Line 1143, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm038"
 msgstr ""
 
-#. ID 2, Page 1, Line 1153, Pos (18,14)
+#. ID 2, Page 1, Line 1178, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1171, Pos (18,14)
+#. ID 2, Page 1, Line 1196, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm052"
 msgstr ""
 
-#. ID 2, Page 1, Line 1201, Pos (18,14)
+#. ID 2, Page 1, Line 1226, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1217, Pos (18,14)
+#. ID 2, Page 1, Line 1242, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1233, Pos (18,14)
+#. ID 2, Page 1, Line 1258, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm055"
 msgstr ""
 
-#. ID 2, Page 1, Line 1268, Pos (18,14)
+#. ID 2, Page 1, Line 1293, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1286, Pos (18,14)
+#. ID 2, Page 1, Line 1311, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumepo1"
 msgstr ""
 
-#. ID 2, Page 1, Line 1316, Pos (18,14)
+#. ID 2, Page 1, Line 1341, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "By音師竹内_626-ryukyu_sasikae"
 msgstr ""
 
-#. ID 2, Page 1, Line 1347, Pos (18,14)
+#. ID 2, Page 1, Line 1372, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1363, Pos (18,14)
+#. ID 2, Page 1, Line 1388, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Color"
 msgstr ""
 
-#. ID 2, Page 1, Line 1394, Pos (18,14)
+#. ID 2, Page 1, Line 1419, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_12 The Bosun Freaked"
 msgstr ""
 
-#. ID 2, Page 1, Line 1424, Pos (18,14)
+#. ID 2, Page 1, Line 1449, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1439, Pos (18,14)
+#. ID 2, Page 1, Line 1464, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_63 To Blip"
 msgstr ""
 
-#. ID 2, Page 1, Line 1474, Pos (18,14)
+#. ID 2, Page 1, Line 1499, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1494, Pos (18,14)
+#. ID 2, Page 1, Line 1519, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1512, Pos (18,14)
+#. ID 2, Page 1, Line 1537, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1531, Pos (18,14)
+#. ID 2, Page 1, Line 1556, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1550, Pos (18,14)
+#. ID 2, Page 1, Line 1575, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "626-india"
 msgstr ""
 
-#. ID 2, Page 1, Line 1584, Pos (18,14)
+#. ID 2, Page 1, Line 1609, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumenikkig_uljp00129 no name 2-169 "
 msgstr ""
 
-#. ID 2, Page 1, Line 1615, Pos (18,14)
+#. ID 2, Page 1, Line 1640, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1636, Pos (18,14)
+#. ID 2, Page 1, Line 1661, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 1, Line 1654, Pos (18,14)
+#. ID 2, Page 1, Line 1679, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumenikkig_uljp00128"
 msgstr ""
 
-#. ID 2, Page 1, Line 1686, Pos (18,14)
+#. ID 2, Page 1, Line 1711, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_e3"
@@ -2678,133 +2508,135 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 2, Line 573, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 2, Line 593, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "loda_Music_03"
 msgstr ""
 
-#. ID 2, Page 2, Line 609, Pos (18,14)
+#. ID 2, Page 2, Line 629, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 626, Pos (18,14)
+#. ID 2, Page 2, Line 646, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 642, Pos (18,14)
+#. ID 2, Page 2, Line 662, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Merrygo"
 msgstr ""
 
-#. ID 2, Page 2, Line 673, Pos (18,14)
+#. ID 2, Page 2, Line 693, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "oudn-02"
 msgstr ""
 
-#. ID 2, Page 2, Line 704, Pos (18,14)
+#. ID 2, Page 2, Line 724, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 721, Pos (18,14)
+#. ID 2, Page 2, Line 741, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 738, Pos (18,14)
+#. ID 2, Page 2, Line 758, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qs0UrDFJ-bgm054"
 msgstr ""
 
-#. ID 2, Page 2, Line 771, Pos (18,14)
+#. ID 2, Page 2, Line 791, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 785, Pos (18,14)
+#. ID 2, Page 2, Line 805, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qs0UrDFJ-bgm060"
 msgstr ""
 
-#. ID 2, Page 2, Line 819, Pos (18,14)
+#. ID 2, Page 2, Line 839, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 836, Pos (18,14)
+#. ID 2, Page 2, Line 856, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 853, Pos (18,14)
+#. ID 2, Page 2, Line 873, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 867, Pos (18,14)
+#. ID 2, Page 2, Line 887, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qs0UrDFJ-bgm007"
 msgstr ""
 
-#. ID 2, Page 2, Line 901, Pos (18,14)
+#. ID 2, Page 2, Line 921, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 918, Pos (18,14)
+#. ID 2, Page 2, Line 938, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 935, Pos (18,14)
+#. ID 2, Page 2, Line 955, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 950, Pos (18,14)
+#. ID 2, Page 2, Line 970, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qs0UrDFJ-bgm041"
 msgstr ""
 
-#. ID 2, Page 2, Line 983, Pos (18,14)
+#. ID 2, Page 2, Line 1003, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1000, Pos (18,14)
+#. ID 2, Page 2, Line 1020, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1017, Pos (18,14)
+#. ID 2, Page 2, Line 1037, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qs0UrDFJ-bgm047"
 msgstr ""
 
-#. ID 2, Page 2, Line 1050, Pos (18,14)
-#. ChangeHeroName (Actor 2)
 #. ID 2, Page 2, Line 1070, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 2, Line 1090, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "152-organ33"
 msgstr ""
 
-#. ID 2, Page 2, Line 1103, Pos (18,14)
+#. ID 2, Page 2, Line 1123, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1122, Pos (18,14)
+#. ID 2, Page 2, Line 1142, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "zaza"
 msgstr ""
 
-#. ID 2, Page 2, Line 1153, Pos (18,14)
+#. ID 2, Page 2, Line 1173, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ym2-02_chii gensyou"
 msgstr ""
 
-#. ID 2, Page 2, Line 1185, Pos (18,14)
+#. ID 2, Page 2, Line 1205, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1202, Pos (18,14)
+#. ID 2, Page 2, Line 1222, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1221, Pos (18,14)
+#. ID 2, Page 2, Line 1241, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1238, Pos (18,14)
+#. ID 2, Page 2, Line 1258, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 2, Line 1251, Pos (18,14)
+#. ID 2, Page 2, Line 1271, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "rec2"
 msgstr ""
 
-#. ID 2, Page 2, Line 1285, Pos (18,14)
+#. ID 2, Page 2, Line 1305, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "oudn-06"
 msgstr ""
 
-#. ID 2, Page 2, Line 1316, Pos (18,14)
+#. ID 2, Page 2, Line 1336, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "piano1"
 msgstr ""
 
-#. ID 2, Page 2, Line 1333, Pos (18,14)
+#. ID 2, Page 2, Line 1353, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "piano2"
 msgstr ""
 
-#. ID 2, Page 2, Line 1350, Pos (18,14)
+#. ID 2, Page 2, Line 1370, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "trom_piano"
@@ -2854,179 +2686,185 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 3, Line 300, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 316, Pos (18,14)
+#. ID 2, Page 3, Line 315, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_qs0UrDFJ_bgm076"
 msgstr ""
 
-#. ID 2, Page 3, Line 350, Pos (18,14)
+#. ID 2, Page 3, Line 349, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 366, Pos (18,14)
+#. ID 2, Page 3, Line 365, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 383, Pos (18,14)
+#. ID 2, Page 3, Line 382, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 398, Pos (18,14)
+#. ID 2, Page 3, Line 397, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 418, Pos (18,14)
+#. ID 2, Page 3, Line 417, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 443, Pos (18,14)
+#. ID 2, Page 3, Line 442, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_qs0UrDFJ_bgm_082"
 msgstr ""
 
-#. ID 2, Page 3, Line 478, Pos (18,14)
+#. ID 2, Page 3, Line 477, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 497, Pos (18,14)
+#. ID 2, Page 3, Line 496, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "7-9"
 msgstr ""
 
-#. ID 2, Page 3, Line 527, Pos (18,14)
+#. ID 2, Page 3, Line 526, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 543, Pos (18,14)
+#. ID 2, Page 3, Line 542, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 562, Pos (18,14)
+#. ID 2, Page 3, Line 561, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 578, Pos (18,14)
+#. ID 2, Page 3, Line 577, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 595, Pos (18,14)
+#. ID 2, Page 3, Line 593, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 613, Pos (18,14)
+#. ID 2, Page 3, Line 611, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_qs0UrDFJ_bgm_081"
 msgstr ""
 
-#. ID 2, Page 3, Line 647, Pos (18,14)
+#. ID 2, Page 3, Line 645, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_bgm-orgel002"
 msgstr ""
 
-#. ID 2, Page 3, Line 678, Pos (18,14)
+#. ID 2, Page 3, Line 676, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 693, Pos (18,14)
+#. ID 2, Page 3, Line 691, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm9"
 msgstr ""
 
-#. ID 2, Page 3, Line 735, Pos (18,14)
+#. ID 2, Page 3, Line 733, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ループ「空中飛行」By音師竹内※ほうき・乗り物等のエフェクト時　"
 msgstr ""
 
-#. ID 2, Page 3, Line 766, Pos (18,14)
+#. ID 2, Page 3, Line 764, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 785, Pos (18,14)
+#. ID 2, Page 3, Line 783, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 803, Pos (18,14)
+#. ID 2, Page 3, Line 801, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 820, Pos (18,14)
+#. ID 2, Page 3, Line 818, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kikai004"
 msgstr ""
 
-#. ID 2, Page 3, Line 849, Pos (18,14)
+#. ID 2, Page 3, Line 847, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "tiriri"
 msgstr ""
 
-#. ID 2, Page 3, Line 883, Pos (18,14)
+#. ID 2, Page 3, Line 881, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 902, Pos (18,14)
+#. ID 2, Page 3, Line 900, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_ann"
 msgstr ""
 
-#. ID 2, Page 3, Line 936, Pos (18,14)
+#. ID 2, Page 3, Line 934, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 953, Pos (18,14)
+#. ID 2, Page 3, Line 951, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "dedp_932氏スクラップ"
 msgstr ""
 
-#. ID 2, Page 3, Line 984, Pos (18,14)
+#. ID 2, Page 3, Line 982, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1000, Pos (18,14)
+#. ID 2, Page 3, Line 998, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1017, Pos (18,14)
+#. ID 2, Page 3, Line 1015, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1040, Pos (18,14)
+#. ID 2, Page 3, Line 1038, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm075"
 msgstr ""
 
-#. ID 2, Page 3, Line 1071, Pos (18,14)
+#. ID 2, Page 3, Line 1069, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumepo8"
 msgstr ""
 
-#. ID 2, Page 3, Line 1104, Pos (18,14)
+#. ID 2, Page 3, Line 1102, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1119, Pos (18,14)
+#. ID 2, Page 3, Line 1117, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 3, Line 1134, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "soto-C5"
 msgstr ""
 
-#. ID 2, Page 3, Line 1153, Pos (18,14)
+#. ID 2, Page 3, Line 1168, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "otoshitakeuti-ankoku"
 msgstr ""
 
-#. ID 2, Page 3, Line 1184, Pos (18,14)
+#. ID 2, Page 3, Line 1199, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1201, Pos (18,14)
+#. ID 2, Page 3, Line 1216, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 3, Line 1238, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "error"
 msgstr ""
 
-#. ID 2, Page 3, Line 1236, Pos (18,14)
+#. ID 2, Page 3, Line 1273, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1254, Pos (18,14)
+#. ID 2, Page 3, Line 1291, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "x-air-Chukka"
 msgstr ""
 
-#. ID 2, Page 3, Line 1285, Pos (18,14)
+#. ID 2, Page 3, Line 1322, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1302, Pos (18,14)
+#. ID 2, Page 3, Line 1339, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 3, Line 1354, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Newtorikawamakkusu"
 msgstr ""
 
-#. ID 2, Page 3, Line 1333, Pos (18,14)
+#. ID 2, Page 3, Line 1388, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ym2-20-chiukoushin"
 msgstr ""
 
-#. ID 2, Page 3, Line 1366, Pos (18,14)
+#. ID 2, Page 3, Line 1421, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1385, Pos (18,14)
+#. ID 2, Page 3, Line 1440, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 3, Line 1400, Pos (18,14)
+#. ID 2, Page 3, Line 1455, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "pipoq"
 msgstr ""
 
-#. ID 2, Page 3, Line 1433, Pos (18,14)
+#. ID 2, Page 3, Line 1488, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "7"
@@ -3278,213 +3116,213 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 5, Line 117, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 133, Pos (18,14)
+#. ID 2, Page 5, Line 132, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 150, Pos (18,14)
+#. ID 2, Page 5, Line 149, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 168, Pos (18,14)
+#. ID 2, Page 5, Line 167, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ループ「青光」By音師竹内"
 msgstr ""
 
-#. ID 2, Page 5, Line 203, Pos (18,14)
+#. ID 2, Page 5, Line 202, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Coulomb_on_Board"
 msgstr ""
 
-#. ID 2, Page 5, Line 235, Pos (18,14)
+#. ID 2, Page 5, Line 234, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ループ「機械音」By音師竹内"
 msgstr ""
 
-#. ID 2, Page 5, Line 266, Pos (18,14)
+#. ID 2, Page 5, Line 265, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "152-you"
 msgstr ""
 
-#. ID 2, Page 5, Line 296, Pos (18,14)
+#. ID 2, Page 5, Line 295, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 312, Pos (18,14)
+#. ID 2, Page 5, Line 311, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 328, Pos (18,14)
+#. ID 2, Page 5, Line 327, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "無重力散歩＠アノン"
 msgstr ""
 
-#. ID 2, Page 5, Line 362, Pos (18,14)
+#. ID 2, Page 5, Line 361, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 375, Pos (18,14)
+#. ID 2, Page 5, Line 374, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 396, Pos (18,14)
+#. ID 2, Page 5, Line 395, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Crime_Anon"
 msgstr ""
 
-#. ID 2, Page 5, Line 427, Pos (18,14)
+#. ID 2, Page 5, Line 426, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "RIMA-bgm-farm002"
 msgstr ""
 
-#. ID 2, Page 5, Line 459, Pos (18,14)
+#. ID 2, Page 5, Line 458, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "8"
 msgstr ""
 
-#. ID 2, Page 5, Line 491, Pos (18,14)
+#. ID 2, Page 5, Line 490, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm-h_m"
 msgstr ""
 
-#. ID 2, Page 5, Line 523, Pos (18,14)
+#. ID 2, Page 5, Line 522, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm-j_m"
 msgstr ""
 
-#. ID 2, Page 5, Line 554, Pos (18,14)
+#. ID 2, Page 5, Line 553, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm-l_m"
 msgstr ""
 
-#. ID 2, Page 5, Line 586, Pos (18,14)
+#. ID 2, Page 5, Line 585, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d12a"
 msgstr ""
 
-#. ID 2, Page 5, Line 604, Pos (18,14)
+#. ID 2, Page 5, Line 603, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d12b"
 msgstr ""
 
-#. ID 2, Page 5, Line 622, Pos (18,14)
+#. ID 2, Page 5, Line 621, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d12c"
 msgstr ""
 
-#. ID 2, Page 5, Line 640, Pos (18,14)
+#. ID 2, Page 5, Line 639, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d12d"
 msgstr ""
 
-#. ID 2, Page 5, Line 658, Pos (18,14)
+#. ID 2, Page 5, Line 657, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d12e"
 msgstr ""
 
-#. ID 2, Page 5, Line 692, Pos (18,14)
+#. ID 2, Page 5, Line 691, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "985_m_1"
 msgstr ""
 
-#. ID 2, Page 5, Line 721, Pos (18,14)
+#. ID 2, Page 5, Line 720, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 741, Pos (18,14)
+#. ID 2, Page 5, Line 740, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 758, Pos (18,14)
+#. ID 2, Page 5, Line 757, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "moseni_luna"
 msgstr ""
 
-#. ID 2, Page 5, Line 791, Pos (18,14)
+#. ID 2, Page 5, Line 790, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "moseni_leaf"
 msgstr ""
 
-#. ID 2, Page 5, Line 823, Pos (18,14)
+#. ID 2, Page 5, Line 822, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 846, Pos (18,14)
+#. ID 2, Page 5, Line 845, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 861, Pos (18,14)
+#. ID 2, Page 5, Line 860, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "moseni_lotus"
 msgstr ""
 
-#. ID 2, Page 5, Line 895, Pos (18,14)
+#. ID 2, Page 5, Line 894, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Morse_Chord"
 msgstr ""
 
-#. ID 2, Page 5, Line 926, Pos (18,14)
+#. ID 2, Page 5, Line 925, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "deepsleep"
 msgstr ""
 
-#. ID 2, Page 5, Line 959, Pos (18,14)
+#. ID 2, Page 5, Line 958, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "pinu_heart"
 msgstr ""
 
-#. ID 2, Page 5, Line 995, Pos (18,14)
+#. ID 2, Page 5, Line 994, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "pinu_muyu"
 msgstr ""
 
-#. ID 2, Page 5, Line 1027, Pos (18,14)
+#. ID 2, Page 5, Line 1026, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "pinu_soshitsu"
 msgstr ""
 
-#. ID 2, Page 5, Line 1058, Pos (18,14)
+#. ID 2, Page 5, Line 1057, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1074, Pos (18,14)
+#. ID 2, Page 5, Line 1073, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1097, Pos (18,14)
+#. ID 2, Page 5, Line 1096, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_23"
 msgstr ""
 
-#. ID 2, Page 5, Line 1131, Pos (18,14)
+#. ID 2, Page 5, Line 1130, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1149, Pos (18,14)
+#. ID 2, Page 5, Line 1148, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1166, Pos (18,14)
+#. ID 2, Page 5, Line 1165, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1182, Pos (18,14)
+#. ID 2, Page 5, Line 1181, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1199, Pos (18,14)
+#. ID 2, Page 5, Line 1198, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1221, Pos (18,14)
+#. ID 2, Page 5, Line 1220, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1235, Pos (18,14)
+#. ID 2, Page 5, Line 1234, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_28"
 msgstr ""
 
-#. ID 2, Page 5, Line 1271, Pos (18,14)
+#. ID 2, Page 5, Line 1270, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 5, Line 1302, Pos (18,14)
+#. ID 2, Page 5, Line 1301, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "camellia_japanish"
 msgstr ""
 
-#. ID 2, Page 5, Line 1289, Pos (18,14)
+#. ID 2, Page 5, Line 1288, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "camellia-japanish2"
@@ -3656,37 +3494,39 @@ msgstr ""
 
 #. ID 2, Page 6, Line 990, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 6, Line 1005, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_47"
 msgstr ""
 
-#. ID 2, Page 6, Line 1021, Pos (18,14)
+#. ID 2, Page 6, Line 1039, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 6, Line 1037, Pos (18,14)
+#. ID 2, Page 6, Line 1055, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 6, Line 1053, Pos (18,14)
+#. ID 2, Page 6, Line 1071, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e31"
 msgstr ""
 
-#. ID 2, Page 6, Line 1084, Pos (18,14)
+#. ID 2, Page 6, Line 1102, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 6, Line 1100, Pos (18,14)
+#. ID 2, Page 6, Line 1118, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "gr@ネコノハ"
 msgstr ""
 
-#. ID 2, Page 6, Line 1132, Pos (18,14)
+#. ID 2, Page 6, Line 1150, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2kki"
 msgstr ""
 
-#. ID 2, Page 6, Line 1165, Pos (18,14)
+#. ID 2, Page 6, Line 1183, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 6, Line 1180, Pos (18,14)
+#. ID 2, Page 6, Line 1198, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "6_3"
@@ -3852,65 +3692,69 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 7, Line 1045, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 7, Line 1061, Pos (18,14)
+#. ID 2, Page 7, Line 1060, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 7, Line 1079, Pos (18,14)
+#. ID 2, Page 7, Line 1078, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 7, Line 1097, Pos (18,14)
+#. ID 2, Page 7, Line 1096, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 7, Line 1114, Pos (18,14)
+#. ID 2, Page 7, Line 1113, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-FiT"
 msgstr ""
 
-#. ID 2, Page 7, Line 1148, Pos (18,14)
+#. ID 2, Page 7, Line 1147, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-iFF"
 msgstr ""
 
-#. ID 2, Page 7, Line 1178, Pos (18,14)
+#. ID 2, Page 7, Line 1177, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 7, Line 1193, Pos (18,14)
+#. ID 2, Page 7, Line 1192, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-KtO"
 msgstr ""
 
-#. ID 2, Page 7, Line 1227, Pos (18,14)
+#. ID 2, Page 7, Line 1226, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-LaW"
 msgstr ""
 
-#. ID 2, Page 7, Line 1244, Pos (18,14)
+#. ID 2, Page 7, Line 1243, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-LaW_yugami"
 msgstr ""
 
-#. ID 2, Page 7, Line 1259, Pos (18,14)
+#. ID 2, Page 7, Line 1258, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-LaWoS"
 msgstr ""
 
-#. ID 2, Page 7, Line 1293, Pos (18,14)
+#. ID 2, Page 7, Line 1292, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 7, Line 1306, Pos (18,14)
+#. ID 2, Page 7, Line 1305, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 7, Line 1323, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 7, Line 1345, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-LI"
 msgstr ""
 
-#. ID 2, Page 7, Line 1343, Pos (18,14)
+#. ID 2, Page 7, Line 1382, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-NiT"
 msgstr ""
 
-#. ID 2, Page 7, Line 1375, Pos (18,14)
+#. ID 2, Page 7, Line 1414, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e28"
@@ -3940,215 +3784,223 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 8, Line 170, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 187, Pos (18,14)
+#. ID 2, Page 8, Line 186, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 204, Pos (18,14)
+#. ID 2, Page 8, Line 203, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-WeR"
 msgstr ""
 
-#. ID 2, Page 8, Line 238, Pos (18,14)
+#. ID 2, Page 8, Line 237, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 251, Pos (18,14)
+#. ID 2, Page 8, Line 250, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 270, Pos (18,14)
+#. ID 2, Page 8, Line 269, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 287, Pos (18,14)
+#. ID 2, Page 8, Line 286, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 305, Pos (18,14)
+#. ID 2, Page 8, Line 304, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 323, Pos (18,14)
+#. ID 2, Page 8, Line 322, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nami"
 msgstr ""
 
-#. ID 2, Page 8, Line 354, Pos (18,14)
+#. ID 2, Page 8, Line 353, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 369, Pos (18,14)
+#. ID 2, Page 8, Line 368, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "oudn-05"
 msgstr ""
 
-#. ID 2, Page 8, Line 401, Pos (18,14)
+#. ID 2, Page 8, Line 400, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "RIMA-bgm-Chip003"
 msgstr ""
 
-#. ID 2, Page 8, Line 433, Pos (18,14)
+#. ID 2, Page 8, Line 432, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "short_bgm2"
 msgstr ""
 
-#. ID 2, Page 8, Line 464, Pos (18,14)
+#. ID 2, Page 8, Line 463, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 498, Pos (18,14)
+#. ID 2, Page 8, Line 497, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound2a_"
 msgstr ""
 
-#. ID 2, Page 8, Line 481, Pos (18,14)
+#. ID 2, Page 8, Line 480, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound2a"
 msgstr ""
 
-#. ID 2, Page 8, Line 529, Pos (18,14)
+#. ID 2, Page 8, Line 528, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 547, Pos (18,14)
+#. ID 2, Page 8, Line 546, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound3d"
 msgstr ""
 
-#. ID 2, Page 8, Line 577, Pos (18,14)
+#. ID 2, Page 8, Line 576, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 595, Pos (18,14)
+#. ID 2, Page 8, Line 594, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 613, Pos (18,14)
+#. ID 2, Page 8, Line 612, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 626, Pos (18,14)
+#. ID 2, Page 8, Line 625, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 8, Line 645, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound3e"
 msgstr ""
 
-#. ID 2, Page 8, Line 662, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 678, Pos (18,14)
+#. ID 2, Page 8, Line 679, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 8, Line 695, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 8, Line 712, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound3f"
 msgstr ""
 
-#. ID 2, Page 8, Line 729, Pos (18,14)
+#. ID 2, Page 8, Line 746, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 745, Pos (18,14)
+#. ID 2, Page 8, Line 762, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 764, Pos (18,14)
+#. ID 2, Page 8, Line 781, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound4d"
 msgstr ""
 
-#. ID 2, Page 8, Line 795, Pos (18,14)
+#. ID 2, Page 8, Line 812, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "twen20ty-7"
 msgstr ""
 
-#. ID 2, Page 8, Line 827, Pos (18,14)
+#. ID 2, Page 8, Line 844, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 8, Line 858, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "under a cloak of snow"
 msgstr ""
 
-#. ID 2, Page 8, Line 858, Pos (18,14)
+#. ID 2, Page 8, Line 892, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 877, Pos (18,14)
+#. ID 2, Page 8, Line 911, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yoi"
 msgstr ""
 
-#. ID 2, Page 8, Line 914, Pos (18,14)
+#. ID 2, Page 8, Line 948, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d3a"
 msgstr ""
 
-#. ID 2, Page 8, Line 944, Pos (18,14)
+#. ID 2, Page 8, Line 978, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d4b"
 msgstr ""
 
-#. ID 2, Page 8, Line 975, Pos (18,14)
+#. ID 2, Page 8, Line 1009, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yume d11b"
 msgstr ""
 
-#. ID 2, Page 8, Line 1007, Pos (18,14)
+#. ID 2, Page 8, Line 1041, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1020, Pos (18,14)
+#. ID 2, Page 8, Line 1054, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 8, Line 1072, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 8, Line 1096, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumepo5"
 msgstr ""
 
-#. ID 2, Page 8, Line 1055, Pos (18,14)
+#. ID 2, Page 8, Line 1131, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1077, Pos (18,14)
+#. ID 2, Page 8, Line 1153, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ヴォー"
 msgstr ""
 
-#. ID 2, Page 8, Line 1109, Pos (18,14)
+#. ID 2, Page 8, Line 1185, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ゆめ2っき"
 msgstr ""
 
-#. ID 2, Page 8, Line 1140, Pos (18,14)
+#. ID 2, Page 8, Line 1216, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "屋敷内BGM"
 msgstr ""
 
-#. ID 2, Page 8, Line 1171, Pos (18,14)
+#. ID 2, Page 8, Line 1247, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1186, Pos (18,14)
+#. ID 2, Page 8, Line 1262, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1202, Pos (18,14)
+#. ID 2, Page 8, Line 1278, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "0722_3"
 msgstr ""
 
-#. ID 2, Page 8, Line 1242, Pos (18,14)
+#. ID 2, Page 8, Line 1318, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "185Go_Sea_map1"
 msgstr ""
 
-#. ID 2, Page 8, Line 1261, Pos (18,14)
+#. ID 2, Page 8, Line 1337, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1310, Pos (18,14)
+#. ID 2, Page 8, Line 1386, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "185Go_Sea_map2"
 msgstr ""
 
-#. ID 2, Page 8, Line 1278, Pos (18,14)
+#. ID 2, Page 8, Line 1354, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "185Go_Sea_map3"
 msgstr ""
 
-#. ID 2, Page 8, Line 1294, Pos (18,14)
+#. ID 2, Page 8, Line 1370, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "185Go_Sea_map4"
 msgstr ""
 
-#. ID 2, Page 8, Line 1345, Pos (18,14)
+#. ID 2, Page 8, Line 1421, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1361, Pos (18,14)
+#. ID 2, Page 8, Line 1437, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1377, Pos (18,14)
+#. ID 2, Page 8, Line 1453, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1394, Pos (18,14)
+#. ID 2, Page 8, Line 1470, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 8, Line 1413, Pos (18,14)
+#. ID 2, Page 8, Line 1489, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "風"
@@ -4168,13 +4020,15 @@ msgstr ""
 
 #. ID 2, Page 9, Line 83, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 9, Line 98, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yama-noisy"
 msgstr ""
 
-#. ID 2, Page 9, Line 118, Pos (18,14)
+#. ID 2, Page 9, Line 136, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 145, Pos (18,14)
+#. ID 2, Page 9, Line 163, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 22, Line 49, Pos (18,14)
 #. ChangeHeroName (Actor 3)
@@ -4182,171 +4036,175 @@ msgctxt "actors.name"
 msgid "2"
 msgstr ""
 
-#. ID 2, Page 9, Line 178, Pos (18,14)
+#. ID 2, Page 9, Line 196, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm-s"
 msgstr ""
 
-#. ID 2, Page 9, Line 209, Pos (18,14)
+#. ID 2, Page 9, Line 227, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 230, Pos (18,14)
+#. ID 2, Page 9, Line 248, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "toji"
 msgstr ""
 
-#. ID 2, Page 9, Line 260, Pos (18,14)
+#. ID 2, Page 9, Line 278, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "水族館@ネコノハ"
 msgstr ""
 
-#. ID 2, Page 9, Line 293, Pos (18,14)
+#. ID 2, Page 9, Line 311, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 332, Pos (18,14)
+#. ID 2, Page 9, Line 350, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 348, Pos (18,14)
+#. ID 2, Page 9, Line 366, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_37"
 msgstr ""
 
-#. ID 2, Page 9, Line 311, Pos (18,14)
+#. ID 2, Page 9, Line 329, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_38"
 msgstr ""
 
-#. ID 2, Page 9, Line 382, Pos (18,14)
+#. ID 2, Page 9, Line 400, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 396, Pos (18,14)
+#. ID 2, Page 9, Line 414, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_46"
 msgstr ""
 
-#. ID 2, Page 9, Line 431, Pos (18,14)
+#. ID 2, Page 9, Line 449, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_52"
 msgstr ""
 
-#. ID 2, Page 9, Line 462, Pos (18,14)
+#. ID 2, Page 9, Line 480, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 479, Pos (18,14)
+#. ID 2, Page 9, Line 497, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 494, Pos (18,14)
+#. ID 2, Page 9, Line 512, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_24"
 msgstr ""
 
-#. ID 2, Page 9, Line 527, Pos (18,14)
+#. ID 2, Page 9, Line 545, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 549, Pos (18,14)
+#. ID 2, Page 9, Line 567, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yama-loop2"
 msgstr ""
 
-#. ID 2, Page 9, Line 582, Pos (18,14)
+#. ID 2, Page 9, Line 600, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 598, Pos (18,14)
+#. ID 2, Page 9, Line 616, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "innuendo"
 msgstr ""
 
-#. ID 2, Page 9, Line 632, Pos (18,14)
+#. ID 2, Page 9, Line 650, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 648, Pos (18,14)
+#. ID 2, Page 9, Line 666, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 664, Pos (18,14)
+#. ID 2, Page 9, Line 682, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 9, Line 699, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "tech3"
 msgstr ""
 
-#. ID 2, Page 9, Line 702, Pos (18,14)
+#. ID 2, Page 9, Line 737, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2012_0513_2"
 msgstr ""
 
-#. ID 2, Page 9, Line 734, Pos (18,14)
+#. ID 2, Page 9, Line 769, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 749, Pos (18,14)
+#. ID 2, Page 9, Line 784, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 767, Pos (18,14)
+#. ID 2, Page 9, Line 802, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 785, Pos (18,14)
+#. ID 2, Page 9, Line 820, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ねおん@ネコノハ"
 msgstr ""
 
-#. ID 2, Page 9, Line 819, Pos (18,14)
+#. ID 2, Page 9, Line 854, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 836, Pos (18,14)
+#. ID 2, Page 9, Line 871, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "youyake_anon"
 msgstr ""
 
-#. ID 2, Page 9, Line 865, Pos (18,14)
+#. ID 2, Page 9, Line 900, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 880, Pos (18,14)
+#. ID 2, Page 9, Line 915, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 9, Line 944, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e17"
 msgstr ""
 
-#. ID 2, Page 9, Line 922, Pos (18,14)
+#. ID 2, Page 9, Line 980, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 937, Pos (18,14)
+#. ID 2, Page 9, Line 995, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 954, Pos (18,14)
+#. ID 2, Page 9, Line 1012, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "0109BGM4"
 msgstr ""
 
-#. ID 2, Page 9, Line 988, Pos (18,14)
+#. ID 2, Page 9, Line 1046, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 1006, Pos (18,14)
+#. ID 2, Page 9, Line 1064, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "0109BGM5"
 msgstr ""
 
-#. ID 2, Page 9, Line 1039, Pos (18,14)
+#. ID 2, Page 9, Line 1097, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "celeb"
 msgstr ""
 
-#. ID 2, Page 9, Line 1071, Pos (18,14)
+#. ID 2, Page 9, Line 1129, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_loop_30"
 msgstr ""
 
-#. ID 2, Page 9, Line 1105, Pos (18,14)
+#. ID 2, Page 9, Line 1163, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "怪奇工事_Anon"
 msgstr ""
 
-#. ID 2, Page 9, Line 1138, Pos (18,14)
+#. ID 2, Page 9, Line 1196, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 9, Line 1154, Pos (18,14)
+#. ID 2, Page 9, Line 1212, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_27"
 msgstr ""
 
-#. ID 2, Page 9, Line 1188, Pos (18,14)
+#. ID 2, Page 9, Line 1246, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_oop_135"
@@ -4404,135 +4262,145 @@ msgstr ""
 
 #. ID 2, Page 10, Line 289, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 10, Line 307, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "RIMA-bgm-Accordion001"
 msgstr ""
 
-#. ID 2, Page 10, Line 322, Pos (18,14)
+#. ID 2, Page 10, Line 340, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 339, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 356, Pos (18,14)
+#. ID 2, Page 10, Line 357, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 10, Line 373, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 391, Pos (18,14)
+#. ID 2, Page 10, Line 390, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 10, Line 408, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 10, Line 426, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm008"
 msgstr ""
 
-#. ID 2, Page 10, Line 425, Pos (18,14)
+#. ID 2, Page 10, Line 460, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_49"
 msgstr ""
 
-#. ID 2, Page 10, Line 458, Pos (18,14)
+#. ID 2, Page 10, Line 492, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 474, Pos (18,14)
+#. ID 2, Page 10, Line 508, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 493, Pos (18,14)
+#. ID 2, Page 10, Line 527, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 511, Pos (18,14)
+#. ID 2, Page 10, Line 545, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 529, Pos (18,14)
+#. ID 2, Page 10, Line 563, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 546, Pos (18,14)
+#. ID 2, Page 10, Line 580, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 10, Line 598, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e6"
 msgstr ""
 
-#. ID 2, Page 10, Line 580, Pos (18,14)
+#. ID 2, Page 10, Line 632, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "noie"
 msgstr ""
 
-#. ID 2, Page 10, Line 609, Pos (18,14)
+#. ID 2, Page 10, Line 661, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 635, Pos (18,14)
+#. ID 2, Page 10, Line 687, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e38"
 msgstr ""
 
-#. ID 2, Page 10, Line 667, Pos (18,14)
+#. ID 2, Page 10, Line 719, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 682, Pos (18,14)
+#. ID 2, Page 10, Line 734, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 700, Pos (18,14)
+#. ID 2, Page 10, Line 752, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_kan_ge_doupicho01"
 msgstr ""
 
-#. ID 2, Page 10, Line 735, Pos (18,14)
+#. ID 2, Page 10, Line 787, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_kan_ge_kaze_kouya01"
 msgstr ""
 
-#. ID 2, Page 10, Line 767, Pos (18,14)
+#. ID 2, Page 10, Line 819, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 784, Pos (18,14)
+#. ID 2, Page 10, Line 836, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_kan_ge_machi01"
 msgstr ""
 
-#. ID 2, Page 10, Line 811, Pos (18,14)
+#. ID 2, Page 10, Line 863, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 831, Pos (18,14)
+#. ID 2, Page 10, Line 883, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Cave"
 msgstr ""
 
-#. ID 2, Page 10, Line 867, Pos (18,14)
+#. ID 2, Page 10, Line 919, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 886, Pos (18,14)
+#. ID 2, Page 10, Line 938, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "umoreru@アノン"
 msgstr ""
 
-#. ID 2, Page 10, Line 917, Pos (18,14)
+#. ID 2, Page 10, Line 969, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 10, Line 984, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_byふーた"
 msgstr ""
 
-#. ID 2, Page 10, Line 948, Pos (18,14)
+#. ID 2, Page 10, Line 1018, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ded_ED"
 msgstr ""
 
-#. ID 2, Page 10, Line 980, Pos (18,14)
+#. ID 2, Page 10, Line 1050, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 10, Line 1066, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "meri-"
 msgstr ""
 
-#. ID 2, Page 10, Line 1012, Pos (18,14)
+#. ID 2, Page 10, Line 1101, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "185Go_Seasponge_map1"
 msgstr ""
 
-#. ID 2, Page 10, Line 1040, Pos (18,14)
+#. ID 2, Page 10, Line 1129, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "tonny02"
 msgstr ""
 
-#. ID 2, Page 10, Line 1076, Pos (18,14)
+#. ID 2, Page 10, Line 1165, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 1092, Pos (18,14)
+#. ID 2, Page 10, Line 1181, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 10, Line 1117, Pos (18,14)
+#. ID 2, Page 10, Line 1206, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "風化"
@@ -4596,199 +4464,209 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 11, Line 353, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 11, Line 371, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e40"
 msgstr ""
 
-#. ID 2, Page 11, Line 385, Pos (18,14)
+#. ID 2, Page 11, Line 403, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 405, Pos (18,14)
+#. ID 2, Page 11, Line 422, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 425, Pos (18,14)
+#. ID 2, Page 11, Line 441, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 442, Pos (18,14)
+#. ID 2, Page 11, Line 458, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 460, Pos (18,14)
+#. ID 2, Page 11, Line 476, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 480, Pos (18,14)
+#. ID 2, Page 11, Line 496, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 11, Line 514, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 11, Line 532, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm011"
 msgstr ""
 
-#. ID 2, Page 11, Line 510, Pos (18,14)
+#. ID 2, Page 11, Line 562, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 529, Pos (18,14)
+#. ID 2, Page 11, Line 581, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 542, Pos (18,14)
+#. ID 2, Page 11, Line 594, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 560, Pos (18,14)
+#. ID 2, Page 11, Line 612, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 580, Pos (18,14)
+#. ID 2, Page 11, Line 632, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_51"
 msgstr ""
 
-#. ID 2, Page 11, Line 611, Pos (18,14)
+#. ID 2, Page 11, Line 663, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_WhiteTree_Sun"
 msgstr ""
 
-#. ID 2, Page 11, Line 628, Pos (18,14)
+#. ID 2, Page 11, Line 680, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_WhiteTree_Moon"
 msgstr ""
 
-#. ID 2, Page 11, Line 661, Pos (18,14)
+#. ID 2, Page 11, Line 713, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 793, Pos (18,14)
+#. ID 2, Page 11, Line 845, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Home_L_1"
 msgstr ""
 
-#. ID 2, Page 11, Line 680, Pos (18,14)
+#. ID 2, Page 11, Line 732, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Home_L_2"
 msgstr ""
 
-#. ID 2, Page 11, Line 699, Pos (18,14)
+#. ID 2, Page 11, Line 751, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Home_L_3"
 msgstr ""
 
-#. ID 2, Page 11, Line 718, Pos (18,14)
+#. ID 2, Page 11, Line 770, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Home_L_4"
 msgstr ""
 
-#. ID 2, Page 11, Line 737, Pos (18,14)
+#. ID 2, Page 11, Line 789, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Home_L"
 msgstr ""
 
-#. ID 2, Page 11, Line 756, Pos (18,14)
+#. ID 2, Page 11, Line 808, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Home_R"
 msgstr ""
 
-#. ID 2, Page 11, Line 775, Pos (18,14)
+#. ID 2, Page 11, Line 827, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Day_Dream_Park"
 msgstr ""
 
-#. ID 2, Page 11, Line 824, Pos (18,14)
+#. ID 2, Page 11, Line 876, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Scratch_1"
 msgstr ""
 
-#. ID 2, Page 11, Line 841, Pos (18,14)
+#. ID 2, Page 11, Line 893, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Scratch_2"
 msgstr ""
 
-#. ID 2, Page 11, Line 858, Pos (18,14)
+#. ID 2, Page 11, Line 910, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Scratch_3"
 msgstr ""
 
-#. ID 2, Page 11, Line 875, Pos (18,14)
+#. ID 2, Page 11, Line 927, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_Scratch_4"
 msgstr ""
 
-#. ID 2, Page 11, Line 908, Pos (18,14)
+#. ID 2, Page 11, Line 960, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_SaiBAR_Slip"
 msgstr ""
 
-#. ID 2, Page 11, Line 941, Pos (18,14)
+#. ID 2, Page 11, Line 993, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yeris_SaiBAR_Smile"
 msgstr ""
 
-#. ID 2, Page 11, Line 969, Pos (18,14)
+#. ID 2, Page 11, Line 1021, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 987, Pos (18,14)
+#. ID 2, Page 11, Line 1039, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 11, Line 1057, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm021"
 msgstr ""
 
-#. ID 2, Page 11, Line 1020, Pos (18,14)
+#. ID 2, Page 11, Line 1090, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1034, Pos (18,14)
+#. ID 2, Page 11, Line 1104, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1052, Pos (18,14)
+#. ID 2, Page 11, Line 1122, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1071, Pos (18,14)
+#. ID 2, Page 11, Line 1141, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm042"
 msgstr ""
 
-#. ID 2, Page 11, Line 1101, Pos (18,14)
+#. ID 2, Page 11, Line 1171, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Sea"
 msgstr ""
 
-#. ID 2, Page 11, Line 1136, Pos (18,14)
+#. ID 2, Page 11, Line 1206, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1154, Pos (18,14)
+#. ID 2, Page 11, Line 1224, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm048"
 msgstr ""
 
-#. ID 2, Page 11, Line 1189, Pos (18,14)
+#. ID 2, Page 11, Line 1259, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1208, Pos (18,14)
+#. ID 2, Page 11, Line 1278, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1221, Pos (18,14)
+#. ID 2, Page 11, Line 1291, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "in"
 msgstr ""
 
-#. ID 2, Page 11, Line 1257, Pos (18,14)
+#. ID 2, Page 11, Line 1327, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1273, Pos (18,14)
+#. ID 2, Page 11, Line 1343, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kuukann_bgm_01"
 msgstr ""
 
-#. ID 2, Page 11, Line 1303, Pos (18,14)
+#. ID 2, Page 11, Line 1373, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 11, Line 1324, Pos (18,14)
+#. ID 2, Page 11, Line 1394, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm039"
 msgstr ""
 
-#. ID 2, Page 11, Line 1356, Pos (18,14)
+#. ID 2, Page 11, Line 1426, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 11, Line 1441, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm016"
 msgstr ""
 
-#. ID 2, Page 11, Line 1384, Pos (18,14)
+#. ID 2, Page 11, Line 1472, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm020"
@@ -4798,215 +4676,231 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 12, Line 34, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 52, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm013"
 msgstr ""
 
-#. ID 2, Page 12, Line 71, Pos (18,14)
+#. ID 2, Page 12, Line 89, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e16"
 msgstr ""
 
-#. ID 2, Page 12, Line 107, Pos (18,14)
+#. ID 2, Page 12, Line 125, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 122, Pos (18,14)
+#. ID 2, Page 12, Line 140, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e20"
 msgstr ""
 
-#. ID 2, Page 12, Line 158, Pos (18,14)
+#. ID 2, Page 12, Line 176, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "partz@anon"
 msgstr ""
 
-#. ID 2, Page 12, Line 188, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 210, Pos (18,14)
+#. ID 2, Page 12, Line 206, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 12, Line 228, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 246, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 264, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e14"
 msgstr ""
 
-#. ID 2, Page 12, Line 257, Pos (18,14)
+#. ID 2, Page 12, Line 293, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 275, Pos (18,14)
+#. ID 2, Page 12, Line 311, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 296, Pos (18,14)
+#. ID 2, Page 12, Line 332, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm044"
 msgstr ""
 
-#. ID 2, Page 12, Line 328, Pos (18,14)
+#. ID 2, Page 12, Line 364, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 346, Pos (18,14)
+#. ID 2, Page 12, Line 382, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 363, Pos (18,14)
+#. ID 2, Page 12, Line 399, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm059"
 msgstr ""
 
-#. ID 2, Page 12, Line 398, Pos (18,14)
+#. ID 2, Page 12, Line 434, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 412, Pos (18,14)
+#. ID 2, Page 12, Line 448, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 436, Pos (18,14)
+#. ID 2, Page 12, Line 472, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "himits＠アノン"
 msgstr ""
 
-#. ID 2, Page 12, Line 469, Pos (18,14)
+#. ID 2, Page 12, Line 505, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 486, Pos (18,14)
+#. ID 2, Page 12, Line 522, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 537, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 555, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "tonny31.6"
 msgstr ""
 
-#. ID 2, Page 12, Line 514, Pos (18,14)
+#. ID 2, Page 12, Line 586, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 532, Pos (18,14)
+#. ID 2, Page 12, Line 604, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 550, Pos (18,14)
+#. ID 2, Page 12, Line 622, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-RoW"
 msgstr ""
 
-#. ID 2, Page 12, Line 584, Pos (18,14)
+#. ID 2, Page 12, Line 656, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 601, Pos (18,14)
+#. ID 2, Page 12, Line 673, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound4b"
 msgstr ""
 
-#. ID 2, Page 12, Line 635, Pos (18,14)
+#. ID 2, Page 12, Line 707, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 651, Pos (18,14)
+#. ID 2, Page 12, Line 723, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 668, Pos (18,14)
+#. ID 2, Page 12, Line 739, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 686, Pos (18,14)
+#. ID 2, Page 12, Line 757, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 775, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "se018-0016"
 msgstr ""
 
-#. ID 2, Page 12, Line 720, Pos (18,14)
+#. ID 2, Page 12, Line 809, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 733, Pos (18,14)
+#. ID 2, Page 12, Line 822, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-tWW"
 msgstr ""
 
-#. ID 2, Page 12, Line 765, Pos (18,14)
+#. ID 2, Page 12, Line 854, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e25"
 msgstr ""
 
-#. ID 2, Page 12, Line 801, Pos (18,14)
+#. ID 2, Page 12, Line 890, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_11"
 msgstr ""
 
-#. ID 2, Page 12, Line 831, Pos (18,14)
+#. ID 2, Page 12, Line 920, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "loop_146"
 msgstr ""
 
-#. ID 2, Page 12, Line 866, Pos (18,14)
+#. ID 2, Page 12, Line 955, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 907, Pos (18,14)
+#. ID 2, Page 17, Line 948, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 943, Pos (18,14)
+#. ID 2, Page 17, Line 984, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "RIMA-bgm-"
 msgstr ""
 
-#. ID 2, Page 12, Line 867, Pos (18,14)
+#. ID 2, Page 12, Line 956, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "orgel004"
 msgstr ""
 
-#. ID 2, Page 12, Line 885, Pos (18,14)
+#. ID 2, Page 12, Line 974, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "RIMA-bgm-orgel005"
 msgstr ""
 
-#. ID 2, Page 12, Line 903, Pos (18,14)
+#. ID 2, Page 12, Line 992, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "RIMA-bgm-orgel006"
 msgstr ""
 
-#. ID 2, Page 12, Line 932, Pos (18,14)
+#. ID 2, Page 12, Line 1021, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 949, Pos (18,14)
+#. ID 2, Page 12, Line 1038, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 1056, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Fireplace"
 msgstr ""
 
-#. ID 2, Page 12, Line 981, Pos (18,14)
+#. ID 2, Page 12, Line 1088, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 996, Pos (18,14)
+#. ID 2, Page 12, Line 1103, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_8"
 msgstr ""
 
-#. ID 2, Page 12, Line 1035, Pos (18,14)
+#. ID 2, Page 12, Line 1142, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_35"
 msgstr ""
 
-#. ID 2, Page 12, Line 1063, Pos (18,14)
+#. ID 2, Page 12, Line 1170, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm012"
 msgstr ""
 
-#. ID 2, Page 12, Line 1097, Pos (18,14)
+#. ID 2, Page 12, Line 1204, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 1115, Pos (18,14)
+#. ID 2, Page 12, Line 1222, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 1238, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 12, Line 1262, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm015"
 msgstr ""
 
-#. ID 2, Page 12, Line 1147, Pos (18,14)
+#. ID 2, Page 12, Line 1296, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm019"
 msgstr ""
 
-#. ID 2, Page 12, Line 1179, Pos (18,14)
+#. ID 2, Page 12, Line 1328, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 1197, Pos (18,14)
+#. ID 2, Page 12, Line 1346, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 12, Line 1216, Pos (18,14)
+#. ID 2, Page 12, Line 1365, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm023"
 msgstr ""
 
-#. ID 2, Page 12, Line 1248, Pos (18,14)
+#. ID 2, Page 12, Line 1397, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm036"
@@ -5030,219 +4924,231 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 13, Line 118, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 133, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm051"
 msgstr ""
 
-#. ID 2, Page 13, Line 150, Pos (18,14)
+#. ID 2, Page 13, Line 168, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 166, Pos (18,14)
+#. ID 2, Page 13, Line 183, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm-b"
 msgstr ""
 
-#. ID 2, Page 13, Line 199, Pos (18,14)
+#. ID 2, Page 13, Line 216, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "botabota@アノン"
 msgstr ""
 
-#. ID 2, Page 13, Line 233, Pos (18,14)
+#. ID 2, Page 13, Line 250, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "digi"
 msgstr ""
 
-#. ID 2, Page 13, Line 264, Pos (18,14)
+#. ID 2, Page 13, Line 281, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "DropDrop_Anon"
 msgstr ""
 
-#. ID 2, Page 13, Line 281, Pos (18,14)
+#. ID 2, Page 13, Line 298, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 297, Pos (18,14)
+#. ID 2, Page 13, Line 314, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 351, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "SlowDrop_Anon"
 msgstr ""
 
-#. ID 2, Page 13, Line 316, Pos (18,14)
+#. ID 2, Page 13, Line 333, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "DropDrop_"
 msgstr ""
 
-#. ID 2, Page 13, Line 317, Pos (18,14)
+#. ID 2, Page 13, Line 334, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Anon"
 msgstr ""
 
-#. ID 2, Page 13, Line 352, Pos (18,14)
+#. ID 2, Page 13, Line 387, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 367, Pos (18,14)
+#. ID 2, Page 13, Line 402, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 392, Pos (18,14)
+#. ID 2, Page 13, Line 427, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 408, Pos (18,14)
+#. ID 2, Page 13, Line 443, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 462, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e10"
 msgstr ""
 
-#. ID 2, Page 13, Line 444, Pos (18,14)
+#. ID 2, Page 13, Line 497, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "electro room"
 msgstr ""
 
-#. ID 2, Page 13, Line 472, Pos (18,14)
+#. ID 2, Page 13, Line 525, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 490, Pos (18,14)
+#. ID 2, Page 13, Line 543, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 507, Pos (18,14)
+#. ID 2, Page 13, Line 560, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "factoria"
 msgstr ""
 
-#. ID 2, Page 13, Line 542, Pos (18,14)
+#. ID 2, Page 13, Line 591, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "june"
 msgstr ""
 
-#. ID 2, Page 13, Line 573, Pos (18,14)
+#. ID 2, Page 13, Line 625, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 586, Pos (18,14)
+#. ID 2, Page 13, Line 638, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Lhakkyouloop"
 msgstr ""
 
-#. ID 2, Page 13, Line 619, Pos (18,14)
+#. ID 2, Page 13, Line 671, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 632, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 650, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-msgctxt "actors.name"
-msgid "n3-HRiS"
-msgstr ""
-
-#. ID 2, Page 13, Line 685, Pos (18,14)
+#. ID 2, Page 13, Line 684, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 13, Line 702, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 13, Line 722, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 740, Pos (18,14)
+msgctxt "actors.name"
+msgid "n3-HRiS"
+msgstr ""
+
+#. ID 2, Page 13, Line 755, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 759, Pos (18,14)
+#. ID 2, Page 13, Line 770, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 777, Pos (18,14)
+#. ID 2, Page 13, Line 788, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 806, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 824, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 842, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-NaT"
 msgstr ""
 
-#. ID 2, Page 13, Line 813, Pos (18,14)
+#. ID 2, Page 13, Line 878, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 830, Pos (18,14)
+#. ID 2, Page 13, Line 894, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-tFS"
 msgstr ""
 
-#. ID 2, Page 13, Line 864, Pos (18,14)
+#. ID 2, Page 13, Line 928, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 13, Line 947, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "SONG1"
 msgstr ""
 
-#. ID 2, Page 13, Line 895, Pos (18,14)
+#. ID 2, Page 13, Line 981, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 909, Pos (18,14)
+#. ID 2, Page 13, Line 995, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound3a"
 msgstr ""
 
-#. ID 2, Page 13, Line 943, Pos (18,14)
+#. ID 2, Page 13, Line 1029, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 958, Pos (18,14)
+#. ID 2, Page 13, Line 1044, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 974, Pos (18,14)
+#. ID 2, Page 13, Line 1060, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound4a"
 msgstr ""
 
-#. ID 2, Page 13, Line 1008, Pos (18,14)
+#. ID 2, Page 13, Line 1094, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound4e"
 msgstr ""
 
-#. ID 2, Page 13, Line 1038, Pos (18,14)
+#. ID 2, Page 13, Line 1124, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 537, Pos (18,14)
+#. ID 2, Page 14, Line 565, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 17, Line 678, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-"
 msgstr ""
 
-#. ID 2, Page 13, Line 1039, Pos (18,14)
+#. ID 2, Page 13, Line 1125, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "kodou"
 msgstr ""
 
-#. ID 2, Page 13, Line 1069, Pos (18,14)
+#. ID 2, Page 13, Line 1155, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "間宙"
 msgstr ""
 
-#. ID 2, Page 13, Line 1070, Pos (18,14)
+#. ID 2, Page 13, Line 1156, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "_byやわらか"
 msgstr ""
 
-#. ID 2, Page 13, Line 1101, Pos (18,14)
+#. ID 2, Page 13, Line 1187, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 1118, Pos (18,14)
+#. ID 2, Page 13, Line 1204, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 1135, Pos (18,14)
+#. ID 2, Page 13, Line 1221, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-30"
 msgstr ""
 
-#. ID 2, Page 13, Line 1165, Pos (18,14)
+#. ID 2, Page 13, Line 1251, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-7-2"
 msgstr ""
 
-#. ID 2, Page 13, Line 1194, Pos (18,14)
+#. ID 2, Page 13, Line 1280, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-47"
 msgstr ""
 
-#. ID 2, Page 13, Line 1227, Pos (18,14)
+#. ID 2, Page 13, Line 1313, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 1244, Pos (18,14)
+#. ID 2, Page 13, Line 1330, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 1261, Pos (18,14)
+#. ID 2, Page 13, Line 1347, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 1277, Pos (18,14)
+#. ID 2, Page 13, Line 1363, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 13, Line 1291, Pos (18,14)
+#. ID 2, Page 13, Line 1377, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yuri_Drone"
@@ -5250,207 +5156,211 @@ msgstr ""
 
 #. ID 2, Page 14, Line 20, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 66, Pos (18,14)
+#. ID 2, Page 14, Line 68, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yuri_Marinesnow S"
 msgstr ""
 
-#. ID 2, Page 14, Line 37, Pos (18,14)
+#. ID 2, Page 14, Line 39, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 53, Pos (18,14)
+#. ID 2, Page 14, Line 55, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yuri_Marinesnow M"
 msgstr ""
 
-#. ID 2, Page 14, Line 101, Pos (18,14)
+#. ID 2, Page 14, Line 103, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kko_Anon"
 msgstr ""
 
-#. ID 2, Page 14, Line 133, Pos (18,14)
+#. ID 2, Page 14, Line 135, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 150, Pos (18,14)
+#. ID 2, Page 14, Line 152, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 166, Pos (18,14)
+#. ID 2, Page 14, Line 168, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "心の呼び愛_Anon"
 msgstr ""
 
-#. ID 2, Page 14, Line 197, Pos (18,14)
+#. ID 2, Page 14, Line 199, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 212, Pos (18,14)
+#. ID 2, Page 14, Line 214, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 229, Pos (18,14)
+#. ID 2, Page 14, Line 231, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ループ「雅狂楽」By音師竹内"
 msgstr ""
 
-#. ID 2, Page 14, Line 262, Pos (18,14)
+#. ID 2, Page 14, Line 264, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "まっしろの音色＠アノン"
 msgstr ""
 
-#. ID 2, Page 14, Line 294, Pos (18,14)
+#. ID 2, Page 14, Line 299, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 14, Line 319, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "夜のイメージBGM"
 msgstr ""
 
-#. ID 2, Page 14, Line 327, Pos (18,14)
+#. ID 2, Page 14, Line 355, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-132"
 msgstr ""
 
-#. ID 2, Page 14, Line 361, Pos (18,14)
+#. ID 2, Page 14, Line 389, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-5"
 msgstr ""
 
-#. ID 2, Page 14, Line 392, Pos (18,14)
+#. ID 2, Page 14, Line 420, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-18"
 msgstr ""
 
-#. ID 2, Page 14, Line 423, Pos (18,14)
+#. ID 2, Page 14, Line 451, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-8-1"
 msgstr ""
 
-#. ID 2, Page 14, Line 440, Pos (18,14)
+#. ID 2, Page 14, Line 468, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-8"
 msgstr ""
 
-#. ID 2, Page 14, Line 471, Pos (18,14)
+#. ID 2, Page 14, Line 499, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-13"
 msgstr ""
 
-#. ID 2, Page 14, Line 501, Pos (18,14)
+#. ID 2, Page 14, Line 529, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-16"
 msgstr ""
 
-#. ID 2, Page 14, Line 538, Pos (18,14)
+#. ID 2, Page 14, Line 566, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "hibinega"
 msgstr ""
 
-#. ID 2, Page 14, Line 572, Pos (18,14)
+#. ID 2, Page 14, Line 600, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Music_domiso"
 msgstr ""
 
-#. ID 2, Page 14, Line 602, Pos (18,14)
+#. ID 2, Page 14, Line 630, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 620, Pos (18,14)
+#. ID 2, Page 14, Line 648, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "46202"
 msgstr ""
 
-#. ID 2, Page 14, Line 653, Pos (18,14)
+#. ID 2, Page 14, Line 681, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude34"
 msgstr ""
 
-#. ID 2, Page 14, Line 687, Pos (18,14)
+#. ID 2, Page 14, Line 715, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 703, Pos (18,14)
+#. ID 2, Page 14, Line 731, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Anon_kaikonotokei"
 msgstr ""
 
-#. ID 2, Page 14, Line 733, Pos (18,14)
+#. ID 2, Page 14, Line 761, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "loop_39_n"
 msgstr ""
 
-#. ID 2, Page 14, Line 767, Pos (18,14)
+#. ID 2, Page 14, Line 795, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-23"
 msgstr ""
 
-#. ID 2, Page 14, Line 803, Pos (18,14)
+#. ID 2, Page 14, Line 831, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-13-1"
 msgstr ""
 
-#. ID 2, Page 14, Line 838, Pos (18,14)
+#. ID 2, Page 14, Line 866, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 867, Pos (18,14)
+#. ID 2, Page 14, Line 895, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 886, Pos (18,14)
+#. ID 2, Page 14, Line 914, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 905, Pos (18,14)
+#. ID 2, Page 14, Line 933, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 924, Pos (18,14)
+#. ID 2, Page 14, Line 952, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 943, Pos (18,14)
+#. ID 2, Page 14, Line 971, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 966, Pos (18,14)
+#. ID 2, Page 14, Line 994, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "オルゴール"
 msgstr ""
 
-#. ID 2, Page 14, Line 1001, Pos (18,14)
+#. ID 2, Page 14, Line 1029, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 1019, Pos (18,14)
+#. ID 2, Page 14, Line 1047, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 14, Line 1063, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "PLin_loop02"
 msgstr ""
 
-#. ID 2, Page 14, Line 1053, Pos (18,14)
+#. ID 2, Page 14, Line 1100, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 1068, Pos (18,14)
+#. ID 2, Page 14, Line 1115, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-40"
 msgstr ""
 
-#. ID 2, Page 14, Line 1099, Pos (18,14)
+#. ID 2, Page 14, Line 1146, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 1117, Pos (18,14)
+#. ID 2, Page 14, Line 1164, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e26_b"
 msgstr ""
 
-#. ID 2, Page 14, Line 1136, Pos (18,14)
+#. ID 2, Page 14, Line 1183, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 1156, Pos (18,14)
+#. ID 2, Page 14, Line 1203, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e26"
 msgstr ""
 
-#. ID 2, Page 14, Line 1189, Pos (18,14)
+#. ID 2, Page 14, Line 1236, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 1208, Pos (18,14)
+#. ID 2, Page 14, Line 1255, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 14, Line 1227, Pos (18,14)
+#. ID 2, Page 14, Line 1274, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "woodl"
@@ -5542,99 +5452,101 @@ msgstr ""
 
 #. ID 2, Page 15, Line 499, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 15, Line 517, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2kki bgm 02"
 msgstr ""
 
-#. ID 2, Page 15, Line 527, Pos (18,14)
+#. ID 2, Page 15, Line 548, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 15, Line 552, Pos (18,14)
+#. ID 2, Page 15, Line 573, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kappa_16"
 msgstr ""
 
-#. ID 2, Page 15, Line 583, Pos (18,14)
+#. ID 2, Page 15, Line 604, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "3333@anon_looping"
 msgstr ""
 
-#. ID 2, Page 15, Line 618, Pos (18,14)
+#. ID 2, Page 15, Line 639, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kappa_02-2_2"
 msgstr ""
 
-#. ID 2, Page 15, Line 656, Pos (18,14)
+#. ID 2, Page 15, Line 677, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "VANEGI_奇"
 msgstr ""
 
-#. ID 2, Page 15, Line 690, Pos (18,14)
+#. ID 2, Page 15, Line 711, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound3g_"
 msgstr ""
 
-#. ID 2, Page 15, Line 723, Pos (18,14)
+#. ID 2, Page 15, Line 744, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "mypn_ice_8bit"
 msgstr ""
 
-#. ID 2, Page 15, Line 756, Pos (18,14)
+#. ID 2, Page 15, Line 777, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 15, Line 773, Pos (18,14)
+#. ID 2, Page 15, Line 794, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_16"
 msgstr ""
 
-#. ID 2, Page 15, Line 804, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 15, Line 817, Pos (18,14)
+#. ID 2, Page 15, Line 825, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 15, Line 838, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 15, Line 859, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Yuri_"
 msgstr ""
 
-#. ID 2, Page 15, Line 805, Pos (18,14)
-#. ChangeHeroName (Actor 3)
-#. ID 2, Page 15, Line 818, Pos (18,14)
+#. ID 2, Page 15, Line 826, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 #. ID 2, Page 15, Line 839, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+#. ID 2, Page 15, Line 860, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Earth tremor"
 msgstr ""
 
-#. ID 2, Page 15, Line 869, Pos (18,14)
+#. ID 2, Page 15, Line 890, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "rnt_furo"
 msgstr ""
 
-#. ID 2, Page 15, Line 903, Pos (18,14)
+#. ID 2, Page 15, Line 924, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ninfea-yume2kki0"
 msgstr ""
 
-#. ID 2, Page 15, Line 933, Pos (18,14)
+#. ID 2, Page 15, Line 954, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 15, Line 951, Pos (18,14)
+#. ID 2, Page 15, Line 972, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "utopia-byzetsu"
 msgstr ""
 
-#. ID 2, Page 15, Line 984, Pos (18,14)
+#. ID 2, Page 15, Line 1005, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 15, Line 1000, Pos (18,14)
+#. ID 2, Page 15, Line 1021, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "heion_Anon"
@@ -5646,205 +5558,213 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 16, Line 64, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 82, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yama-marimbaloop"
 msgstr ""
 
-#. ID 2, Page 16, Line 98, Pos (18,14)
+#. ID 2, Page 16, Line 116, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 112, Pos (18,14)
+#. ID 2, Page 16, Line 130, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kaibets_Anon"
 msgstr ""
 
-#. ID 2, Page 16, Line 150, Pos (18,14)
+#. ID 2, Page 16, Line 168, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yasuragiimage"
 msgstr ""
 
-#. ID 2, Page 16, Line 180, Pos (18,14)
+#. ID 2, Page 16, Line 198, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "4_3"
 msgstr ""
 
-#. ID 2, Page 16, Line 216, Pos (18,14)
+#. ID 2, Page 16, Line 234, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ZeroZero_Anon"
 msgstr ""
 
-#. ID 2, Page 16, Line 246, Pos (18,14)
+#. ID 2, Page 16, Line 264, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "海のオルゴール＠アノン"
 msgstr ""
 
-#. ID 2, Page 16, Line 275, Pos (18,14)
+#. ID 2, Page 16, Line 293, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 294, Pos (18,14)
+#. ID 2, Page 16, Line 312, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e25(off)"
 msgstr ""
 
-#. ID 2, Page 16, Line 327, Pos (18,14)
+#. ID 2, Page 16, Line 345, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 346, Pos (18,14)
+#. ID 2, Page 16, Line 364, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 365, Pos (18,14)
+#. ID 2, Page 16, Line 383, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 384, Pos (18,14)
+#. ID 2, Page 16, Line 402, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm1"
 msgstr ""
 
-#. ID 2, Page 16, Line 416, Pos (18,14)
+#. ID 2, Page 16, Line 434, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "mypn_ice"
 msgstr ""
 
-#. ID 2, Page 16, Line 446, Pos (18,14)
+#. ID 2, Page 16, Line 464, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 460, Pos (18,14)
+#. ID 2, Page 16, Line 478, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 496, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 518, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "moseni_freesia"
 msgstr ""
 
-#. ID 2, Page 16, Line 493, Pos (18,14)
+#. ID 2, Page 16, Line 551, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-SaP"
 msgstr ""
 
-#. ID 2, Page 16, Line 523, Pos (18,14)
+#. ID 2, Page 16, Line 581, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 539, Pos (18,14)
+#. ID 2, Page 16, Line 597, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "shigurin-bgm001"
 msgstr ""
 
-#. ID 2, Page 16, Line 569, Pos (18,14)
+#. ID 2, Page 16, Line 627, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 584, Pos (18,14)
+#. ID 2, Page 16, Line 642, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "箱の中で踊る@アノン"
 msgstr ""
 
-#. ID 2, Page 16, Line 617, Pos (18,14)
+#. ID 2, Page 16, Line 675, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 633, Pos (18,14)
+#. ID 2, Page 16, Line 691, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e32"
 msgstr ""
 
-#. ID 2, Page 16, Line 663, Pos (18,14)
+#. ID 2, Page 16, Line 721, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "brownNoise"
 msgstr ""
 
-#. ID 2, Page 16, Line 692, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 714, Pos (18,14)
-#. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 731, Pos (18,14)
-#. ChangeHeroName (Actor 2)
 #. ID 2, Page 16, Line 750, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 772, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 789, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 808, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "seijakuno"
 msgstr ""
 
-#. ID 2, Page 16, Line 693, Pos (18,14)
-#. ChangeHeroName (Actor 3)
-#. ID 2, Page 16, Line 715, Pos (18,14)
-#. ChangeHeroName (Actor 3)
-#. ID 2, Page 16, Line 732, Pos (18,14)
-#. ChangeHeroName (Actor 3)
 #. ID 2, Page 16, Line 751, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+#. ID 2, Page 16, Line 773, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+#. ID 2, Page 16, Line 790, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+#. ID 2, Page 16, Line 809, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "yuki"
 msgstr ""
 
-#. ID 2, Page 16, Line 784, Pos (18,14)
+#. ID 2, Page 16, Line 842, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2i9_mus1"
 msgstr ""
 
-#. ID 2, Page 16, Line 817, Pos (18,14)
+#. ID 2, Page 16, Line 875, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 836, Pos (18,14)
+#. ID 2, Page 16, Line 894, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "light-3"
 msgstr ""
 
-#. ID 2, Page 16, Line 869, Pos (18,14)
+#. ID 2, Page 16, Line 927, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 885, Pos (18,14)
+#. ID 2, Page 16, Line 943, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 16, Line 958, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "light-4"
 msgstr ""
 
-#. ID 2, Page 16, Line 920, Pos (18,14)
+#. ID 2, Page 16, Line 996, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_loop_107_2"
 msgstr ""
 
-#. ID 2, Page 16, Line 954, Pos (18,14)
+#. ID 2, Page 16, Line 1030, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_愛"
 msgstr ""
 
-#. ID 2, Page 16, Line 974, Pos (18,14)
+#. ID 2, Page 16, Line 1050, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_愛2"
 msgstr ""
 
-#. ID 2, Page 16, Line 1006, Pos (18,14)
+#. ID 2, Page 16, Line 1082, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_懐"
 msgstr ""
 
-#. ID 2, Page 16, Line 1040, Pos (18,14)
+#. ID 2, Page 16, Line 1116, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 1060, Pos (18,14)
+#. ID 2, Page 16, Line 1136, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 1080, Pos (18,14)
+#. ID 2, Page 16, Line 1156, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 1095, Pos (18,14)
+#. ID 2, Page 16, Line 1171, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 1112, Pos (18,14)
+#. ID 2, Page 16, Line 1188, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 16, Line 1125, Pos (18,14)
+#. ID 2, Page 16, Line 1201, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e21"
 msgstr ""
 
-#. ID 2, Page 16, Line 1164, Pos (18,14)
+#. ID 2, Page 16, Line 1240, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kappa_13"
 msgstr ""
 
-#. ID 2, Page 16, Line 1197, Pos (18,14)
+#. ID 2, Page 16, Line 1273, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "88_2"
@@ -5852,193 +5772,201 @@ msgstr ""
 
 #. ID 2, Page 17, Line 25, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 17, Line 43, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "n3-dLb"
 msgstr ""
 
-#. ID 2, Page 17, Line 59, Pos (18,14)
+#. ID 2, Page 17, Line 77, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumepo10"
 msgstr ""
 
-#. ID 2, Page 17, Line 93, Pos (18,14)
+#. ID 2, Page 17, Line 111, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm8"
 msgstr ""
 
-#. ID 2, Page 17, Line 128, Pos (18,14)
+#. ID 2, Page 17, Line 146, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "進退感_anon"
 msgstr ""
 
-#. ID 2, Page 17, Line 147, Pos (18,14)
+#. ID 2, Page 17, Line 165, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "真胎還_anon"
 msgstr ""
 
-#. ID 2, Page 17, Line 180, Pos (18,14)
+#. ID 2, Page 17, Line 198, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Lem_Lone"
 msgstr ""
 
-#. ID 2, Page 17, Line 212, Pos (18,14)
+#. ID 2, Page 17, Line 230, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Lem_Rio_Piano"
 msgstr ""
 
-#. ID 2, Page 17, Line 244, Pos (18,14)
+#. ID 2, Page 17, Line 262, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 261, Pos (18,14)
+#. ID 2, Page 17, Line 279, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kappa_04"
 msgstr ""
 
-#. ID 2, Page 17, Line 293, Pos (18,14)
-#. ChangeHeroName (Actor 2)
 #. ID 2, Page 17, Line 311, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 17, Line 329, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "0426"
 msgstr ""
 
-#. ID 2, Page 17, Line 347, Pos (18,14)
+#. ID 2, Page 17, Line 365, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e7"
 msgstr ""
 
-#. ID 2, Page 17, Line 387, Pos (18,14)
+#. ID 2, Page 17, Line 405, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 408, Pos (18,14)
+#. ID 2, Page 17, Line 426, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "0109BGM1"
 msgstr ""
 
-#. ID 2, Page 17, Line 438, Pos (18,14)
+#. ID 2, Page 17, Line 456, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kuro9 kyoku2"
 msgstr ""
 
-#. ID 2, Page 17, Line 467, Pos (18,14)
+#. ID 2, Page 17, Line 485, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 487, Pos (18,14)
+#. ID 2, Page 17, Line 505, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2i9_mus3"
 msgstr ""
 
-#. ID 2, Page 17, Line 522, Pos (18,14)
+#. ID 2, Page 17, Line 540, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "VANEGI_snow"
 msgstr ""
 
-#. ID 2, Page 17, Line 554, Pos (18,14)
+#. ID 2, Page 17, Line 572, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "VANEGI_"
 msgstr ""
 
-#. ID 2, Page 17, Line 555, Pos (18,14)
+#. ID 2, Page 17, Line 573, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "twilight"
 msgstr ""
 
-#. ID 2, Page 17, Line 583, Pos (18,14)
+#. ID 2, Page 17, Line 601, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuls_09a-"
 msgstr ""
 
-#. ID 2, Page 17, Line 584, Pos (18,14)
+#. ID 2, Page 17, Line 602, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Data_Tech_v2"
 msgstr ""
 
-#. ID 2, Page 17, Line 624, Pos (18,14)
+#. ID 2, Page 17, Line 642, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-24"
 msgstr ""
 
-#. ID 2, Page 17, Line 638, Pos (18,14)
+#. ID 2, Page 17, Line 656, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude-24p"
 msgstr ""
 
-#. ID 2, Page 17, Line 672, Pos (18,14)
-#. ChangeHeroName (Actor 2)
+#. ID 2, Page 17, Line 679, Pos (18,14)
+#. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
-msgid "spelude-444"
+msgid "24full"
 msgstr ""
 
-#. ID 2, Page 17, Line 705, Pos (18,14)
+#. ID 2, Page 17, Line 713, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 723, Pos (18,14)
+msgctxt "actors.name"
+msgid "Lem_cyclops"
+msgstr ""
+
+#. ID 2, Page 17, Line 746, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 17, Line 741, Pos (18,14)
+#. ID 2, Page 17, Line 764, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 17, Line 782, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2i9_mus2"
 msgstr ""
 
-#. ID 2, Page 17, Line 776, Pos (18,14)
+#. ID 2, Page 17, Line 817, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound3h"
 msgstr ""
 
-#. ID 2, Page 17, Line 806, Pos (18,14)
+#. ID 2, Page 17, Line 847, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "PhysicalOrchesta_POte (2)"
 msgstr ""
 
-#. ID 2, Page 17, Line 840, Pos (18,14)
+#. ID 2, Page 17, Line 881, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2_19"
 msgstr ""
 
-#. ID 2, Page 17, Line 871, Pos (18,14)
+#. ID 2, Page 17, Line 912, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Autumn HURO3"
 msgstr ""
 
-#. ID 2, Page 17, Line 872, Pos (18,14)
+#. ID 2, Page 17, Line 913, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "_anon"
 msgstr ""
 
-#. ID 2, Page 17, Line 908, Pos (18,14)
+#. ID 2, Page 17, Line 949, Pos (18,14)
 #. ChangeHeroName (Actor 3)
-#. ID 2, Page 17, Line 944, Pos (18,14)
+#. ID 2, Page 17, Line 985, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "recorder001"
 msgstr ""
 
-#. ID 2, Page 17, Line 978, Pos (18,14)
+#. ID 2, Page 17, Line 1019, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "drm_loop_44"
 msgstr ""
 
-#. ID 2, Page 17, Line 1014, Pos (18,14)
+#. ID 2, Page 17, Line 1055, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "spelude33"
@@ -6046,191 +5974,199 @@ msgstr ""
 
 #. ID 2, Page 18, Line 16, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 18, Line 43, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "soundc_2"
 msgstr ""
 
-#. ID 2, Page 18, Line 47, Pos (18,14)
+#. ID 2, Page 18, Line 74, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 65, Pos (18,14)
+#. ID 2, Page 18, Line 92, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 18, Line 110, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 18, Line 133, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kappa_06"
 msgstr ""
 
-#. ID 2, Page 18, Line 95, Pos (18,14)
+#. ID 2, Page 18, Line 163, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 114, Pos (18,14)
+#. ID 2, Page 18, Line 182, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "kappa_14"
 msgstr ""
 
-#. ID 2, Page 18, Line 147, Pos (18,14)
+#. ID 2, Page 18, Line 215, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 165, Pos (18,14)
+#. ID 2, Page 18, Line 233, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "CHIMES"
 msgstr ""
 
-#. ID 2, Page 18, Line 199, Pos (18,14)
+#. ID 2, Page 18, Line 267, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qxy_mus_echoes"
 msgstr ""
 
-#. ID 2, Page 18, Line 235, Pos (18,14)
+#. ID 2, Page 18, Line 303, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "qxy_mus_trianglenoise"
 msgstr ""
 
-#. ID 2, Page 18, Line 271, Pos (18,14)
+#. ID 2, Page 18, Line 339, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "bgm4"
 msgstr ""
 
-#. ID 2, Page 18, Line 305, Pos (18,14)
+#. ID 2, Page 18, Line 373, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "lem_blasyloop"
 msgstr ""
 
-#. ID 2, Page 18, Line 343, Pos (18,14)
+#. ID 2, Page 18, Line 411, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 362, Pos (18,14)
+#. ID 2, Page 18, Line 430, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "lem_amb3"
 msgstr ""
 
-#. ID 2, Page 18, Line 394, Pos (18,14)
+#. ID 2, Page 18, Line 462, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 18, Line 481, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "autumn2_Anon"
 msgstr ""
 
-#. ID 2, Page 18, Line 428, Pos (18,14)
+#. ID 2, Page 18, Line 515, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "lem_dreamv2"
 msgstr ""
 
-#. ID 2, Page 18, Line 461, Pos (18,14)
+#. ID 2, Page 18, Line 548, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "persistant_slow"
 msgstr ""
 
-#. ID 2, Page 18, Line 494, Pos (18,14)
+#. ID 2, Page 18, Line 581, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 512, Pos (18,14)
+#. ID 2, Page 18, Line 599, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "moseni_firefly"
 msgstr ""
 
-#. ID 2, Page 18, Line 548, Pos (18,14)
+#. ID 2, Page 18, Line 635, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "e8"
 msgstr ""
 
-#. ID 2, Page 18, Line 580, Pos (18,14)
+#. ID 2, Page 18, Line 667, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Lem_Heart"
 msgstr ""
 
-#. ID 2, Page 18, Line 617, Pos (18,14)
+#. ID 2, Page 18, Line 704, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Rio_Piano2"
 msgstr ""
 
-#. ID 2, Page 18, Line 648, Pos (18,14)
+#. ID 2, Page 18, Line 735, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 666, Pos (18,14)
+#. ID 2, Page 18, Line 753, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "fd_room"
 msgstr ""
 
-#. ID 2, Page 18, Line 699, Pos (18,14)
+#. ID 2, Page 18, Line 786, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "lem_noil1"
 msgstr ""
 
-#. ID 2, Page 18, Line 731, Pos (18,14)
+#. ID 2, Page 18, Line 818, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 751, Pos (18,14)
+#. ID 2, Page 18, Line 838, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "owari3"
 msgstr ""
 
-#. ID 2, Page 18, Line 783, Pos (18,14)
+#. ID 2, Page 18, Line 870, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 800, Pos (18,14)
+#. ID 2, Page 18, Line 887, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 818, Pos (18,14)
+#. ID 2, Page 18, Line 905, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "utage-byzetsu"
 msgstr ""
 
-#. ID 2, Page 18, Line 855, Pos (18,14)
+#. ID 2, Page 18, Line 942, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nuls_11_"
 msgstr ""
 
-#. ID 2, Page 18, Line 856, Pos (18,14)
+#. ID 2, Page 18, Line 943, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Turning_"
 msgstr ""
 
-#. ID 2, Page 18, Line 857, Pos (18,14)
+#. ID 2, Page 18, Line 944, Pos (18,14)
 #. ChangeHeroName (Actor 4)
 msgctxt "actors.name"
 msgid "Point"
 msgstr ""
 
-#. ID 2, Page 18, Line 888, Pos (18,14)
+#. ID 2, Page 18, Line 975, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 920, Pos (18,14)
+#. ID 2, Page 18, Line 1007, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's_"
 msgstr ""
 
-#. ID 2, Page 18, Line 889, Pos (18,14)
+#. ID 2, Page 18, Line 976, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Music I"
 msgstr ""
 
-#. ID 2, Page 18, Line 921, Pos (18,14)
+#. ID 2, Page 18, Line 1008, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Music II"
 msgstr ""
 
-#. ID 2, Page 18, Line 952, Pos (18,14)
+#. ID 2, Page 18, Line 1039, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 969, Pos (18,14)
+#. ID 2, Page 18, Line 1056, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's Music III"
 msgstr ""
 
-#. ID 2, Page 18, Line 1000, Pos (18,14)
+#. ID 2, Page 18, Line 1087, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 18, Line 1017, Pos (18,14)
+#. ID 2, Page 18, Line 1104, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Ihavealwayslovedyou"
@@ -6452,151 +6388,161 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 20, Line 102, Pos (18,14)
 #. ChangeHeroName (Actor 2)
+#. ID 2, Page 20, Line 120, Pos (18,14)
+#. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "fd-drone3"
 msgstr ""
 
-#. ID 2, Page 20, Line 134, Pos (18,14)
+#. ID 2, Page 20, Line 152, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Rio_Piano5"
 msgstr ""
 
-#. ID 2, Page 20, Line 166, Pos (18,14)
+#. ID 2, Page 20, Line 184, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 20, Line 202, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "fd-abyss"
 msgstr ""
 
-#. ID 2, Page 20, Line 198, Pos (18,14)
+#. ID 2, Page 20, Line 226, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "fd_abyss"
+msgstr ""
+
+#. ID 2, Page 20, Line 258, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Lem_light"
 msgstr ""
 
-#. ID 2, Page 20, Line 230, Pos (18,14)
+#. ID 2, Page 20, Line 290, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "LemRio_Piano6"
 msgstr ""
 
-#. ID 2, Page 20, Line 262, Pos (18,14)
+#. ID 2, Page 20, Line 322, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "LemRio_Piano6(Solo)"
 msgstr ""
 
-#. ID 2, Page 20, Line 294, Pos (18,14)
+#. ID 2, Page 20, Line 354, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Laeva_TakeYourTime"
 msgstr ""
 
-#. ID 2, Page 20, Line 325, Pos (18,14)
+#. ID 2, Page 20, Line 385, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_彩"
 msgstr ""
 
-#. ID 2, Page 20, Line 363, Pos (18,14)
+#. ID 2, Page 20, Line 423, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_宙"
 msgstr ""
 
-#. ID 2, Page 20, Line 394, Pos (18,14)
+#. ID 2, Page 20, Line 454, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_濡"
 msgstr ""
 
-#. ID 2, Page 20, Line 431, Pos (18,14)
+#. ID 2, Page 20, Line 491, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_踊"
 msgstr ""
 
-#. ID 2, Page 20, Line 468, Pos (18,14)
+#. ID 2, Page 20, Line 528, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nantai_祀"
 msgstr ""
 
-#. ID 2, Page 20, Line 506, Pos (18,14)
+#. ID 2, Page 20, Line 566, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 20, Line 524, Pos (18,14)
+#. ID 2, Page 20, Line 584, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 20, Line 542, Pos (18,14)
+#. ID 2, Page 20, Line 602, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "sound2d"
 msgstr ""
 
-#. ID 2, Page 20, Line 574, Pos (18,14)
+#. ID 2, Page 20, Line 634, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Distant reality"
 msgstr ""
 
-#. ID 2, Page 20, Line 610, Pos (18,14)
+#. ID 2, Page 20, Line 670, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 20, Line 623, Pos (18,14)
+#. ID 2, Page 20, Line 683, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "本名_1_small"
 msgstr ""
 
-#. ID 2, Page 20, Line 657, Pos (18,14)
+#. ID 2, Page 20, Line 717, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "152-woo"
 msgstr ""
 
-#. ID 2, Page 20, Line 694, Pos (18,14)
+#. ID 2, Page 20, Line 754, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "2i9_mus_kowaisound"
 msgstr ""
 
-#. ID 2, Page 20, Line 731, Pos (18,14)
+#. ID 2, Page 20, Line 791, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "yumeppoi"
 msgstr ""
 
-#. ID 2, Page 20, Line 762, Pos (18,14)
+#. ID 2, Page 20, Line 822, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's Music XIII"
 msgstr ""
 
-#. ID 2, Page 20, Line 793, Pos (18,14)
+#. ID 2, Page 20, Line 853, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's Music XVII"
 msgstr ""
 
-#. ID 2, Page 20, Line 824, Pos (18,14)
+#. ID 2, Page 20, Line 884, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's Music XVIII"
 msgstr ""
 
-#. ID 2, Page 20, Line 855, Pos (18,14)
+#. ID 2, Page 20, Line 915, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's Music XIX"
 msgstr ""
 
-#. ID 2, Page 20, Line 886, Pos (18,14)
+#. ID 2, Page 20, Line 946, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 20, Line 903, Pos (18,14)
+#. ID 2, Page 20, Line 963, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuaah's Music XXIV"
 msgstr ""
 
-#. ID 2, Page 20, Line 934, Pos (18,14)
+#. ID 2, Page 20, Line 994, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuls_08-Dtdbr"
@@ -6754,45 +6700,45 @@ msgctxt "actors.name"
 msgid "浮感_byやわらか"
 msgstr ""
 
-#. ID 2, Page 21, Line 855, Pos (18,14)
+#. ID 2, Page 21, Line 854, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "Nuls_04-"
 msgstr ""
 
-#. ID 2, Page 21, Line 856, Pos (18,14)
+#. ID 2, Page 21, Line 855, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "dgtmn"
 msgstr ""
 
-#. ID 2, Page 21, Line 889, Pos (18,14)
+#. ID 2, Page 21, Line 888, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "nezumi"
 msgstr ""
 
-#. ID 2, Page 21, Line 919, Pos (18,14)
+#. ID 2, Page 21, Line 918, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 21, Line 952, Pos (18,14)
+#. ID 2, Page 21, Line 951, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "konaki_dynam"
 msgstr ""
 
-#. ID 2, Page 21, Line 920, Pos (18,14)
+#. ID 2, Page 21, Line 919, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ic_01"
 msgstr ""
 
-#. ID 2, Page 21, Line 953, Pos (18,14)
+#. ID 2, Page 21, Line 952, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ic_02"
 msgstr ""
 
-#. ID 2, Page 21, Line 980, Pos (18,14)
+#. ID 2, Page 21, Line 979, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 #. ID 2, Page 22, Line 81, Pos (18,14)
 #. ChangeHeroName (Actor 2)
@@ -6802,7 +6748,7 @@ msgctxt "actors.name"
 msgid "konaki_atmos"
 msgstr ""
 
-#. ID 2, Page 21, Line 981, Pos (18,14)
+#. ID 2, Page 21, Line 980, Pos (18,14)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "_03"
@@ -6882,23 +6828,327 @@ msgctxt "actors.name"
 msgid "omid_anon"
 msgstr ""
 
-#. ID 2, Page 23, Line 40, Pos (18,14)
+#. ID 2, Page 22, Line 405, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 23, Line 73, Pos (18,14)
+#. ID 2, Page 22, Line 423, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 23, Line 74, Pos (18,14)
+msgctxt "actors.name"
+msgid "fd-drone1"
+msgstr ""
+
+#. ID 2, Page 22, Line 455, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "fd-pad-riff"
+msgstr ""
+
+#. ID 2, Page 22, Line 487, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 22, Line 527, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Lem_wonder"
+msgstr ""
+
+#. ID 2, Page 22, Line 528, Pos (18,14)
 #. ChangeHeroName (Actor 3)
-#. ID 2, Page 23, Line 75, Pos (18,14)
+msgctxt "actors.name"
+msgid "(Aura)"
+msgstr ""
+
+#. ID 2, Page 22, Line 559, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Rio_Piano7"
+msgstr ""
+
+#. ID 2, Page 22, Line 560, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "_waves"
+msgstr ""
+
+#. ID 2, Page 22, Line 591, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Rio_Piano8"
+msgstr ""
+
+#. ID 2, Page 22, Line 592, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "_ocean"
+msgstr ""
+
+#. ID 2, Page 22, Line 626, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "2_29"
+msgstr ""
+
+#. ID 2, Page 22, Line 661, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "GucceliaHer"
+msgstr ""
+
+#. ID 2, Page 22, Line 662, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "Room"
+msgstr ""
+
+#. ID 2, Page 22, Line 696, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "4"
+msgstr ""
+
+#. ID 2, Page 22, Line 715, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "4-guccelia"
+msgstr ""
+
+#. ID 2, Page 22, Line 716, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "Mix"
+msgstr ""
+
+#. ID 2, Page 22, Line 748, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "bgm7b"
+msgstr ""
+
+#. ID 2, Page 22, Line 778, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Kong_That_Castle"
+msgstr ""
+
+#. ID 2, Page 22, Line 811, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Kong_Tunel_2"
+msgstr ""
+
+#. ID 2, Page 22, Line 829, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Kong_Tunel"
+msgstr ""
+
+#. ID 2, Page 22, Line 860, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 22, Line 878, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "21.纏雑_"
+msgstr ""
+
+#. ID 2, Page 22, Line 861, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+#. ID 2, Page 22, Line 879, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "byやわらか"
+msgstr ""
+
+#. ID 2, Page 23, Line 17, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "spelude-34m"
+msgstr ""
+
+#. ID 2, Page 23, Line 35, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 23, Line 52, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "spelude-34m2"
+msgstr ""
+
+#. ID 2, Page 23, Line 85, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kaze"
+msgstr ""
+
+#. ID 2, Page 23, Line 119, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "JTSY-BGM002"
+msgstr ""
+
+#. ID 2, Page 23, Line 156, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e30"
+msgstr ""
+
+#. ID 2, Page 23, Line 187, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "e34"
+msgstr ""
+
+#. ID 2, Page 23, Line 224, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Rio Piano4"
+msgstr ""
+
+#. ID 2, Page 23, Line 256, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "nnnoise-bgm"
+msgstr ""
+
+#. ID 2, Page 23, Line 295, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "mypn_Glass"
+msgstr ""
+
+#. ID 2, Page 23, Line 327, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "shigurin-bgm002"
+msgstr ""
+
+#. ID 2, Page 23, Line 362, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "spelude-29"
+msgstr ""
+
+#. ID 2, Page 23, Line 397, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "甘談_byやわらか"
+msgstr ""
+
+#. ID 2, Page 23, Line 433, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "martin0304_bgm02"
+msgstr ""
+
+#. ID 2, Page 23, Line 471, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "qxy_mus_glitch00"
+msgstr ""
+
+#. ID 2, Page 23, Line 495, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "qxy_mus_glitch01"
+msgstr ""
+
+#. ID 2, Page 23, Line 533, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Chihiro_WhiteImage_Loop"
+msgstr ""
+
+#. ID 2, Page 23, Line 569, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "moseni_forgetmenot"
+msgstr ""
+
+#. ID 2, Page 23, Line 605, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "music14"
+msgstr ""
+
+#. ID 2, Page 23, Line 641, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "夜のイカ(51s)"
+msgstr ""
+
+#. ID 2, Page 23, Line 681, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "超空洞"
+msgstr ""
+
+#. ID 2, Page 23, Line 719, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound4c"
+msgstr ""
+
+#. ID 2, Page 23, Line 760, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound5d"
+msgstr ""
+
+#. ID 2, Page 23, Line 800, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Ltranceloop_ループ加工"
+msgstr ""
+
+#. ID 2, Page 23, Line 840, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "Just A Shiny Coaster 2_(x2)"
+msgstr ""
+
+#. ID 2, Page 23, Line 876, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "electron"
+msgstr ""
+
+#. ID 2, Page 23, Line 913, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "雨のパッド"
+msgstr ""
+
+#. ID 2, Page 23, Line 949, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "qxy_mus_rainyday"
+msgstr ""
+
+#. ID 2, Page 24, Line 17, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "kowai@anon"
+msgstr ""
+
+#. ID 2, Page 24, Line 49, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "sound5a"
+msgstr ""
+
+#. ID 2, Page 25, Line 40, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 25, Line 73, Pos (18,14)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 25, Line 74, Pos (18,14)
+#. ChangeHeroName (Actor 3)
+#. ID 2, Page 25, Line 75, Pos (18,14)
 #. ChangeHeroName (Actor 4)
-#. ID 2, Page 23, Line 76, Pos (18,14)
+#. ID 2, Page 25, Line 76, Pos (18,14)
 #. ChangeHeroName (Actor 5)
-#. ID 2, Page 23, Line 219, Pos (18,14)
+#. ID 2, Page 25, Line 219, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 23, Line 220, Pos (18,14)
+#. ID 2, Page 25, Line 220, Pos (18,14)
 #. ChangeHeroName (Actor 3)
-#. ID 2, Page 23, Line 221, Pos (18,14)
+#. ID 2, Page 25, Line 221, Pos (18,14)
 #. ChangeHeroName (Actor 4)
-#. ID 2, Page 23, Line 222, Pos (18,14)
+#. ID 2, Page 25, Line 222, Pos (18,14)
 #. ChangeHeroName (Actor 5)
 #. ID 3, Page 2, Line 112, Pos (17,14)
 #. ChangeHeroName (Actor 2)
@@ -6922,10 +7172,11 @@ msgctxt "actors.name"
 msgid "ファイル名"
 msgstr "파일 명"
 
-#. ID 2, Page 23, Line 251, Pos (18,14)
+#. ID 2, Page 25, Line 251, Pos (18,14)
 #. ChangeHeroName (Actor 2)
-#. ID 2, Page 23, Line 290, Pos (18,14)
+#. ID 2, Page 25, Line 290, Pos (18,14)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "曲名(ﾌｧｲﾙ名)"
 msgstr "곡 명(파일명)"
+
