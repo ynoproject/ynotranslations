@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -20,7 +20,7 @@ msgstr "Уроцуки"
 #. ID 1
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Сноход"
+msgstr "Сноходец"
 
 #. ID 2
 msgctxt "actors.name"
@@ -112,7 +112,7 @@ msgstr "Ущипнуться"
 #. ID 2
 msgctxt "skills.description"
 msgid "ほほをつねって、ゆめからさめる"
-msgstr "Ущипнуть Себя за Щёку"
+msgstr "Ущипнуть себя за щёку."
 
 #. ID 1
 #. ID 3
@@ -1890,6 +1890,7 @@ msgstr "Ущипнуть Себя за Щёку"
 #. ID 1775
 #. ID 1776
 #. ID 1777
+#. ID 1778
 #. ID 1779
 #. ID 1780
 #. ID 1781
@@ -9217,6 +9218,16 @@ msgctxt "skills.name"
 msgid "ID:1490 ★---------"
 msgstr ""
 
+#. ID 1491
+msgctxt "skills.name"
+msgid "ID:1491　別世界"
+msgstr ""
+
+#. ID 1492
+msgctxt "skills.name"
+msgid "ID:1492　眠気森_部屋"
+msgstr ""
+
 #. ID 1493
 msgctxt "skills.name"
 msgid "ID:1493水没電柱_果て"
@@ -9767,6 +9778,11 @@ msgctxt "skills.name"
 msgid "ID:1740 tent"
 msgstr ""
 
+#. ID 1771
+msgctxt "skills.name"
+msgid "ID:1771"
+msgstr ""
+
 #. ID 1772
 msgctxt "skills.name"
 msgid "ID:1772"
@@ -9777,9 +9793,39 @@ msgctxt "skills.name"
 msgid "ID:1773"
 msgstr ""
 
+#. ID 1774
+msgctxt "skills.name"
+msgid "ID:1774"
+msgstr ""
+
+#. ID 1775
+msgctxt "skills.name"
+msgid "ID:1775"
+msgstr ""
+
+#. ID 1776
+msgctxt "skills.name"
+msgid "ID:1776"
+msgstr ""
+
 #. ID 1777
 msgctxt "skills.name"
 msgid "ID:1777"
+msgstr ""
+
+#. ID 1778
+msgctxt "skills.name"
+msgid "ID:1778"
+msgstr ""
+
+#. ID 1779
+msgctxt "skills.name"
+msgid "ID:1779"
+msgstr ""
+
+#. ID 1780
+msgctxt "skills.name"
+msgid "ID:1780"
 msgstr ""
 
 #. ID 1801
@@ -9832,6 +9878,56 @@ msgctxt "skills.name"
 msgid "ID:1810 化石発掘現場"
 msgstr ""
 
+#. ID 1921
+msgctxt "skills.name"
+msgid "ID:1921 眠気の森"
+msgstr ""
+
+#. ID 1922
+msgctxt "skills.name"
+msgid "ID:1922"
+msgstr ""
+
+#. ID 1923
+msgctxt "skills.name"
+msgid "ID:1923"
+msgstr ""
+
+#. ID 1924
+msgctxt "skills.name"
+msgid "ID:1924 月明かりの道"
+msgstr ""
+
+#. ID 1925
+msgctxt "skills.name"
+msgid "ID:1925 無人公園"
+msgstr ""
+
+#. ID 1926
+msgctxt "skills.name"
+msgid "ID:1926 通行不可"
+msgstr ""
+
+#. ID 1927
+msgctxt "skills.name"
+msgid "ID:1927 きらめきﾎｰﾙ"
+msgstr ""
+
+#. ID 1928
+msgctxt "skills.name"
+msgid "ID:1928 いい天気"
+msgstr ""
+
+#. ID 1929
+msgctxt "skills.name"
+msgid "ID:1929 芽吹く命"
+msgstr ""
+
+#. ID 1930
+msgctxt "skills.name"
+msgid "ID:1930 苔生す跡地"
+msgstr ""
+
 #. ID 1
 msgctxt "items.name"
 msgid "★デバッグ★"
@@ -9863,13 +9959,13 @@ msgstr ""
 #. ID 12
 msgctxt "items.name"
 msgid "バイク"
-msgstr "Байк"
+msgstr "Мотоцикл"
 
 #. ID 12
 #. ID 53
 msgctxt "items.description"
 msgid "「バイク」にのる"
-msgstr "Сесть на Байк."
+msgstr "Сесть на Мотоцикл."
 
 #. ID 13
 msgctxt "items.name"
@@ -9957,7 +10053,7 @@ msgstr "Волк"
 #. ID 61
 msgctxt "items.description"
 msgid "「おおかみ」の みみとしっぽがつく"
-msgstr "Отрастить Волчьи Уши."
+msgstr "Отрастить Волчьи Уши и Хвост."
 
 #. ID 21
 msgctxt "items.name"
@@ -10056,7 +10152,7 @@ msgstr "Гакуран"
 #. ID 70
 msgctxt "items.description"
 msgid "「がくラン」をきて マントをはおる"
-msgstr "Школьная Форма с Плащом."
+msgstr "Надеть Школьную Форму с Плащом."
 
 #. ID 30
 msgctxt "items.name"
@@ -10094,13 +10190,13 @@ msgstr "Надеть Костюм Ханивы."
 #. ID 33
 msgctxt "items.name"
 msgid "トロンボーン"
-msgstr "Труба"
+msgstr "Тромбон"
 
 #. ID 33
 #. ID 74
 msgctxt "items.description"
 msgid "「トロンボーン」をもつ"
-msgstr "Сыграть на Трубе."
+msgstr "Сыграть на Тромбоне."
 
 #. ID 34
 msgctxt "items.name"
@@ -10127,7 +10223,7 @@ msgstr "Вернуться в Детство."
 #. ID 36
 msgctxt "items.name"
 msgid "あかずきん"
-msgstr "Накидка"
+msgstr "Красная Шапочка"
 
 #. ID 36
 #. ID 77
@@ -10144,7 +10240,7 @@ msgstr "Салфетки"
 #. ID 78
 msgctxt "items.description"
 msgid "「ティッシュ」のケースになる"
-msgstr "Стать Салфетницей."
+msgstr "Надеть на голову Салфетницу."
 
 #. ID 38
 msgctxt "items.name"
@@ -10171,7 +10267,7 @@ msgstr "Обрести Угловатость."
 #. ID 40
 msgctxt "items.name"
 msgid "てるてるぼうず"
-msgstr "ТеруТеруБозу"
+msgstr "Теру-Теру-Бозу"
 
 #. ID 40
 #. ID 81
@@ -10188,7 +10284,7 @@ msgstr "Маргинал"
 #. ID 82
 msgctxt "items.description"
 msgid "「マージナルビビッドワーカー」になる"
-msgstr "Маргинализоваться."
+msgstr "Превратиться в Маргинала."
 
 #. ID 42
 msgctxt "items.name"
@@ -10279,7 +10375,7 @@ msgstr ""
 #. ID 53
 msgctxt "items.name"
 msgid " バイク"
-msgstr "Байк"
+msgstr "Мотоцикл"
 
 #. ID 54
 msgctxt "items.name"
@@ -10399,7 +10495,7 @@ msgstr "Ребёнок"
 #. ID 77
 msgctxt "items.name"
 msgid " あかずきん"
-msgstr "Накидка"
+msgstr "Красная Шапочка"
 
 #. ID 78
 msgctxt "items.name"
@@ -10419,7 +10515,7 @@ msgstr "Полигон"
 #. ID 81
 msgctxt "items.name"
 msgid " てるてるぼうず"
-msgstr "ТеруТеруБозу"
+msgstr "Теру-Теру-Бозу"
 
 #. ID 82
 msgctxt "items.name"
@@ -10616,11 +10712,11 @@ msgstr "Ю"
 
 msgctxt "terms.command_item"
 msgid "エフェクト"
-msgstr "Эффект"
+msgstr "Эффекты"
 
 msgctxt "terms.command_skill"
 msgid "おきる"
-msgstr "Встать"
+msgstr "Проснуться"
 
 msgctxt "terms.menu_equipment"
 msgid "じょうたい"
@@ -10632,15 +10728,15 @@ msgstr "Выход"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "     Начать "
+msgstr "  Начать "
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr " Продолжить "
+msgstr "Продолжить"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "      Выйти "
+msgstr "  Выйти "
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"

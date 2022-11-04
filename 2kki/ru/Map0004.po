@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 5, Page 2, Line 10, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -26,7 +26,7 @@ msgstr "Волк"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Байк"
+msgstr "Мотоцикл"
 
 #. ID 5, Page 2, Line 18, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -188,7 +188,7 @@ msgstr "Ребёнок"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "あかずきん"
-msgstr "Накидка"
+msgstr "Красная Шапочка"
 
 #. ID 5, Page 2, Line 145, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -212,13 +212,13 @@ msgstr "Полигон"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "てるてる"
-msgstr "ТеруТе"
+msgstr "Теру-Те"
 
 #. ID 5, Page 2, Line 158, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ぼうず"
-msgstr "руБозу"
+msgstr "ру-Бозу"
 
 #. ID 5, Page 2, Line 162, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -300,3 +300,5 @@ msgid ""
 "\\>Z:#x1 <-> Z:#x12\n"
 "\\>Exit"
 msgstr ""
+"\\>Z:#x1 <-> Z:#x12\n"
+"\\>Выход"

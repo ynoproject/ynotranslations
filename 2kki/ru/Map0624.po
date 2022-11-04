@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1, Page 1, Line 24, Pos (8,6)
 msgid ""
@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　Ст. Меню: 17\\<\\|\\|\\^"
+"\\>　　　　　　　　 Стиль Меню: 17\\<\\|\\|\\^"
 
 #. ID 1, Page 1, Line 42, Pos (8,6)
 msgid ""
@@ -34,7 +34,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　Исходный Стиль Меню\\<\\|\\|\\^"
+"\\>　　　　  Исходный Стиль Меню\\<\\|\\|\\^"
 
 #. ID 1, Page 1, Line 58, Pos (8,6)
 msgid ""
@@ -46,7 +46,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　Опробовать Стиль меню\\<\\|\\|\\^"
+"\\>　　  Опробовать Стиль меню\\<\\|\\|\\^"
 
 #. ID 6, Page 2, Line 4, Pos (1,0)
 #. Contains choice at line 2 (2 options)
