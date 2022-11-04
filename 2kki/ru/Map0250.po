@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 2, Page 2, Line 100, Pos (1,2)
 #. Contains choice at line 2 (2 options)
 msgid "スタート地点に戻ります。"
-msgstr "Вы вернулись к началу."
+msgstr "Вернуться к началу?"
 
 #. ID 2, Page 2, Line 101, Pos (1,2)
 #. Choice (2 options, embedded in a message)
@@ -36,7 +36,7 @@ msgid ""
 "　　　　　　　現在位置をセーブしました"
 msgstr ""
 "\n"
-"　　　　　Прогресс сохранён."
+"　　　　　           Прогресс сохранён."
 
 #. ID 3, Page 1, Line 3, Pos (212,226)
 #. ID 195, Page 1, Line 3, Pos (170,221)
@@ -47,7 +47,7 @@ msgid ""
 "　　　　　　　　　　　霜　柱　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　Ледяные　Колонны　　　　　"
+"　　　　　            Ледяные　Колонны　　　　　 "
 
 #. ID 10, Page 1, Line 3, Pos (129,13)
 #. ID 184, Page 1, Line 3, Pos (103,13)
@@ -58,7 +58,7 @@ msgid ""
 "　　　　　　　　　　　樹　氷　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　Ледяные　Деревья　　　　　"
+"　　　　　            Ледяные　Деревья　　　　"
 
 #. ID 13, Page 1, Line 3, Pos (89,57)
 #. ID 26, Page 1, Line 3, Pos (282,54)
@@ -69,7 +69,7 @@ msgid ""
 "　　　　　　　　　　　あられ　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　　　 Градинка 　　　　　　　　"
+"　　　　　　　             Градинка 　　"
 
 #. ID 14, Page 1, Line 2, Pos (206,207)
 msgid "EniaruK."
@@ -84,7 +84,7 @@ msgid ""
 "　　　　　　　　　　　雪　華　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　Снежные　Цветы　　　　　　　"
+"　　　　             　Снежные　Цветы　　"
 
 #. ID 16, Page 1, Line 2, Pos (105,143)
 msgid ""
@@ -99,7 +99,7 @@ msgstr ""
 #. ID 21, Page 2, Line 3, Pos (281,76)
 #. ID 21, Page 2, Line 11, Pos (281,76)
 msgid "AwitinnoK."
-msgstr "EriuvtsvardZ."
+msgstr "EtiuvtsvardZ."
 
 #. ID 21, Page 1, Line 4, Pos (281,76)
 #. ID 21, Page 1, Line 12, Pos (281,76)
@@ -116,11 +116,11 @@ msgstr " . . . . . . . . . ."
 
 #. ID 47, Page 2, Line 63, Pos (275,204)
 msgid "　　　　　　　　　　　BAD END"
-msgstr "　　　　　　　ПЛОХОЙ КОНЕЦ"
+msgstr "　　　　　           　　ПЛОХОЙ КОНЕЦ"
 
 #. ID 47, Page 3, Line 12, Pos (275,204)
 msgid "　　　　　　　　　　 GOOD END"
-msgstr "　　　　　　 ХОРОШИЙ КОНЕЦ"
+msgstr "　　　　　           　 ХОРОШИЙ КОНЕЦ"
 
 #. ID 51, Page 1, Line 2, Pos (78,110)
 msgid "EniumaS."
@@ -129,7 +129,7 @@ msgstr "OndolhK"
 #. ID 53, Page 1, Line 2, Pos (56,275)
 #. ID 144, Page 1, Line 2, Pos (57,275)
 msgid "？OnomisagaS？"
-msgstr "?Hsehcs othC?"
+msgstr "?Hsehcsi othC?"
 
 #. ID 53, Page 1, Line 4, Pos (56,275)
 #. ID 144, Page 1, Line 4, Pos (57,275)
@@ -151,7 +151,7 @@ msgstr "EtinivzI"
 #. ID 55, Page 1, Line 10, Pos (93,91)
 #. ID 213, Page 1, Line 10, Pos (125,272)
 msgid "EnettabnaG"
-msgstr "AysyartsoP"
+msgstr "AysyaratsoP"
 
 #. ID 139, Page 1, Line 3, Pos (187,83)
 #. ID 139, Page 1, Line 11, Pos (187,83)
@@ -194,7 +194,7 @@ msgid ""
 "　　　　　　　　　　　氷　柱　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　　　 Сосульки 　　　　　　　　"
+"　　　　　          　　   Сосульки 　　　"
 
 #. ID 167, Page 1, Line 2, Pos (43,237)
 msgid "AdnianeroboN."

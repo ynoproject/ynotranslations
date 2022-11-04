@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1, Page 1, Line 4, Pos (10,9)
 #. ID 1, Page 1, Line 16, Pos (10,9)
@@ -25,7 +25,7 @@ msgid ""
 "　　　　　　　　　　　大橋夢"
 msgstr ""
 "\n"
-"　　　　　　　　Невождение"
+"　　　　　　　　  Невождение"
 
 #. ID 3, Page 1, Line 44, Pos (1,6)
 msgid ""
@@ -33,7 +33,7 @@ msgid ""
 "　　　　　　　　　　　 教夢"
 msgstr ""
 "\n"
-"　　　　　　　Познавательный"
+"   　　　　　　　Познавательный"
 
 #. ID 3, Page 1, Line 52, Pos (1,6)
 msgid ""
@@ -41,7 +41,7 @@ msgid ""
 "　　　　　　　　　　　既知夢"
 msgstr ""
 "\n"
-"　　　　　　　　 Известный"
+"　　　　　　　　   Известный"
 
 #. ID 3, Page 1, Line 60, Pos (1,6)
 msgid ""
@@ -49,7 +49,7 @@ msgid ""
 "　　　　　　　　　　  　生夢"
 msgstr ""
 "\n"
-"　　　　　　　　 Радостный"
+"　　　　　　　　   Радостный"
 
 #. ID 3, Page 1, Line 68, Pos (1,6)
 msgid ""
@@ -57,7 +57,7 @@ msgid ""
 "　　　　　　　　　　　　宙夢"
 msgstr ""
 "\n"
-"　　　　　　　　　Парящий"
+"　　　　　　　　　 Парящий"
 
 #. ID 3, Page 1, Line 76, Pos (1,6)
 msgid ""
@@ -65,7 +65,7 @@ msgid ""
 "　　　　　　　　　　　 大奇夢"
 msgstr ""
 "\n"
-"　　　　　　　　 Странный"
+"　　　　　　　　   Странный"
 
 #. ID 3, Page 1, Line 87, Pos (1,6)
 msgid ""
@@ -73,7 +73,7 @@ msgid ""
 "　　　　　　　　　　　　据夢"
 msgstr ""
 "\n"
-"　　　　　　　　　 Чёткий"
+"　　　　　　　　　  Чёткий"
 
 #. ID 3, Page 1, Line 95, Pos (1,6)
 msgid ""
@@ -81,4 +81,4 @@ msgid ""
 "　　　　　　　　　　　　初夢"
 msgstr ""
 "\n"
-"　　　　　　　 Судьбоносный"
+"　　　　　　　    Судьбоносный"

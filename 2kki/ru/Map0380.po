@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1, Page 1, Line 11, Pos (2,1)
 #. ChangeHeroName (Actor 6)
@@ -40,7 +40,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\S[5] Её сон\\s[10] продолжается."
+"\\S[5]               Её сон\\s[10] продолжается."
 
 #. ID 1, Page 1, Line 281, Pos (2,1)
 msgid ""
