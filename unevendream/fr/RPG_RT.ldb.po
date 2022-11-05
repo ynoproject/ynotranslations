@@ -46,7 +46,7 @@ msgstr "Retourner au monde réel."
 #. ID 4
 msgctxt "skills.name"
 msgid "Wake up!"
-msgstr "Se réveiller!"
+msgstr "Se réveiller !"
 
 #. ID 4
 msgctxt "skills.description"
@@ -56,7 +56,7 @@ msgstr "Lève-toi et brille !"
 #. ID 5
 msgctxt "skills.name"
 msgid "Wake up?"
-msgstr "Se réveiller?"
+msgstr "Se réveiller ?"
 
 #. ID 5
 msgctxt "skills.description"
