@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 10, Page 4, Line 28, Pos (22,16)
 #. ID 59, Page 4, Line 29, Pos (20,31)
@@ -19,7 +19,7 @@ msgstr ""
 
 #. ID 11, Page 1, Line 89, Pos (20,16)
 msgid "テキストがまだない"
-msgstr ""
+msgstr "Без подписи"
 
 #. ID 11, Page 5, Line 28, Pos (20,16)
 #. ID 20, Page 1, Line 3, Pos (20,21)
@@ -39,7 +39,7 @@ msgstr ""
 #. ID 15, Page 1, Line 19, Pos (9,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「あかいほん」　　　著作「hal」"
-msgstr ""
+msgstr "Название: \"Красная Книжка\"                от hal"
 
 #. ID 15, Page 1, Line 20, Pos (9,16)
 #. Choice (2 options, embedded in a message)
@@ -59,17 +59,17 @@ msgstr ""
 #. ID 16, Page 1, Line 19, Pos (7,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（３）」　　　著作「>>826氏」"
-msgstr ""
+msgstr "Название: \"Необъяснимое (3)\"           от >>826氏"
 
 #. ID 17, Page 1, Line 19, Pos (5,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（２）」　　　著作「>>826氏」"
-msgstr ""
+msgstr "Название: \"Необъяснимое (2)\"           от >>826氏"
 
 #. ID 18, Page 1, Line 19, Pos (3,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（１）」　　　著作「>>826氏」"
-msgstr ""
+msgstr "Название: \"Необъяснимое (1)\"           от >>826氏"
 
 #. ID 22, Page 1, Line 3, Pos (18,21)
 #. ID 23, Page 1, Line 3, Pos (14,21)
@@ -97,9 +97,9 @@ msgid ""
 "　　　　　　　　この心臓を君にあげる\n"
 "　　　　　　　"
 msgstr ""
-"    Не знаю, понравится-ли\\!\n"
+"             Не знаю, понравится-ли\\!\n"
 "\n"
-"  Но я дарю это сердце тебе.\n"
+"           Но я дарю это сердце тебе.\n"
 "　　　　　　　"
 
 #. ID 27, Page 1, Line 3, Pos (5,21)
@@ -108,7 +108,7 @@ msgstr ""
 
 #. ID 50, Page 1, Line 3, Pos (16,16)
 msgid "\\>　　　　　　　　　　　　　　　　　 　　>>作者不明\\^"
-msgstr ""
+msgstr "\\>                             >>Автор неизвестен\\^"
 
 #. ID 82, Page 1, Line 25, Pos (18,49)
 msgid ""
