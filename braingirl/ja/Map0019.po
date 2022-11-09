@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 14, Page 1, Line 3, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "Always run is turned ON"
+msgstr ""
+"ダッシュ機能 ON\n"
+"移動速度が常に２倍速になる"
+
+#. ID 14, Page 1, Line 4, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Deactivate\n"
+"Cancel"
+msgstr ""
+"OFFにする\n"
+"キャンセル"
+
+#. ID 14, Page 1, Line 15, Pos (4,5)
+#. Contains choice at line 2 (2 options)
+msgid "Always run is turned OFF"
+msgstr ""
+"ダッシュ機能 OFF\n"
+"移動速度が常に２倍速になる"
+
+#. ID 14, Page 1, Line 16, Pos (4,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Activate\n"
+"Cancel"
+msgstr ""
+"ONにする\n"
+"キャンセル"
