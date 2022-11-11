@@ -8,6 +8,106 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans"
 
+#. ID 4, Page 1, Line 7, Pos (12,11)
+msgid "                   Healing aura"
+msgstr "                     治愈光芒"
+
+#. ID 5, Page 1, Line 7, Pos (18,9)
+msgid "                      Mercury"
+msgstr "                       水银"
+
+#. ID 6, Page 1, Line 7, Pos (16,9)
+msgid "                    Diving suit"
+msgstr "                      潜水服"
+
+#. ID 7, Page 1, Line 8, Pos (14,9)
+msgid "                    Clockworker"
+msgstr "                      钟表匠"
+
+#. ID 7, Page 1, Line 11, Pos (14,9)
+msgid "Press 1 to return to the Nexus."
+msgstr "按1回到门世界。"
+
+#. ID 8, Page 1, Line 7, Pos (14,11)
+msgid "                       Wood"
+msgstr "                       木头"
+
+#. ID 9, Page 1, Line 7, Pos (12,9)
+msgid "                   Candle holder"
+msgstr "                       蜡烛台"
+
+#. ID 10, Page 1, Line 8, Pos (18,7)
+msgid "                        Fox"
+msgstr "                        狐狸"
+
+#. ID 10, Page 1, Line 11, Pos (18,7)
+msgid "Interact with ledges to jump over them."
+msgstr "可以跳过挡住的物体。"
+
+#. ID 11, Page 1, Line 7, Pos (16,7)
+msgid "                        TV"
+msgstr "                      电视机"
+
+#. ID 12, Page 1, Line 7, Pos (14,7)
+msgid "                      Classic"
+msgstr "                       经典"
+
+#. ID 13, Page 1, Line 8, Pos (12,7)
+msgid "                       Scarf"
+msgstr "                       围巾"
+
+#. ID 14, Page 1, Line 8, Pos (18,5)
+msgid "                     Raincoat"
+msgstr "                      雨衣"
+
+#. ID 15, Page 1, Line 7, Pos (16,5)
+msgid "                      Wrench"
+msgstr "                       扳手"
+
+#. ID 16, Page 1, Line 7, Pos (14,5)
+msgid "                       Blob"
+msgstr "                       一滴"
+
+#. ID 17, Page 1, Line 8, Pos (12,5)
+msgid "                    Megaphone"
+msgstr "                     麦克风"
+
+#. ID 17, Page 1, Line 11, Pos (12,5)
+msgid "Press 1 to make a random sound."
+msgstr "按1产生随机的声音。"
+
+#. ID 18, Page 1, Line 8, Pos (18,3)
+msgid "                      Scooter"
+msgstr "                      滑板车"
+
+#. ID 19, Page 1, Line 7, Pos (16,3)
+msgid "                    Monochrome"
+msgstr "                       黑白"
+
+#. ID 20, Page 1, Line 7, Pos (14,3)
+msgid "                       Nerd"
+msgstr "                      书呆子"
+
+#. ID 21, Page 1, Line 8, Pos (12,3)
+msgid "                      8-bit"
+msgstr "                      8-比特"
+
+#. ID 22, Page 1, Line 8, Pos (18,1)
+msgid "                      Glitch"
+msgstr "                       故障"
+
+#. ID 23, Page 1, Line 7, Pos (16,1)
+msgid "                       Sick"
+msgstr "                       生病"
+
+#. ID 24, Page 1, Line 7, Pos (14,1)
+msgid "                      Doodle"
+msgstr "                       涂鸦"
+
+#. ID 25, Page 1, Line 7, Pos (12,1)
+msgid "                       Bald"
+msgstr "                       光头"
+
 #. ID 26, Page 1, Line 7, Pos (4,4)
 #. Choice (4 options)
 msgid ""
@@ -59,6 +159,10 @@ msgctxt "actors.name"
 msgid "Itsuki"
 msgstr "Itsuki"
 
+#. ID 31, Page 1, Line 7, Pos (16,11)
+msgid "                      Tomato"
+msgstr "                      西红柿"
+
 #. ID 33, Page 1, Line 1, Pos (7,1)
 msgid "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
 msgstr "转圈!!!!!!!!!!!!!!!!!!!!!!!!!!"
@@ -66,6 +170,10 @@ msgstr "转圈!!!!!!!!!!!!!!!!!!!!!!!!!!"
 #. ID 33, Page 1, Line 5, Pos (7,1)
 msgid "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
 msgstr "测试房间!! 哇啊啊啊啊哇哇哇啊啊啊啊!!!"
+
+#. ID 34, Page 1, Line 7, Pos (18,11)
+msgid "                     Lab coat"
+msgstr "                      实验服"
 
 #. ID 45, Page 1, Line 1, Pos (3,1)
 msgid ""
@@ -78,4 +186,47 @@ msgstr ""
 "这是文本框里最长的线了...\n"
 "所以，基本上，50个字母。不多，不少。\n"
 "可以放进四行。酷。"
+
+#. ID 45, Page 1, Line 5, Pos (3,1)
+msgid "*It depends on which fonts you chose earlier."
+msgstr ""
+
+#. ID 46, Page 1, Line 1, Pos (8,4)
+#. Choice (3 options)
+msgid ""
+"Debug Room\n"
+"Kondo event #1\n"
+"Mystery Boxes"
+msgstr ""
+
+#. ID 46, Page 1, Line 9, Pos (8,4)
+#. Choice (4 options)
+#. ID 47, Page 1, Line 9, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"#1\n"
+"#2\n"
+"#3\n"
+"#4"
+msgstr ""
+
+#. ID 47, Page 1, Line 1, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Kondo event #1\n"
+"Mystery Boxes\n"
+"Crystals"
+msgstr ""
+
+#. ID 47, Page 1, Line 29, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"RED\n"
+"ORANGE #7"
+msgstr ""
+
+#. ID 48, Page 1, Line 1, Pos (10,4)
+msgid "Money maximum overdrive!"
+msgstr ""
 

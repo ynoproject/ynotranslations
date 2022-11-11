@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -30,10 +30,20 @@ msgstr ""
 msgid "\\|\\.\\^"
 msgstr ""
 
-#. ID 6, Line 1741
+#. ID 6, Line 1745
 #. ID 265, Line 27
 #. ID 265, Line 60
 msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 14, Line 26
+#. Condition (Actor Name = First Effect)
+#. ID 14, Line 37
+#. Condition (Actor Name = First Effect)
+#. ID 18, Line 19
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "First Effect"
 msgstr ""
 
 #. ID 14, Line 27
@@ -58,7 +68,7 @@ msgstr "Отладка"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Байк"
+msgstr "Мотоцикл"
 
 #. ID 14, Line 47
 #. ChangeHeroName (Actor 8)
@@ -202,7 +212,7 @@ msgstr "Ребёнок"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "あかずきん"
-msgstr "Накидка"
+msgstr "Красная Шапочка"
 
 #. ID 14, Line 143
 #. ChangeHeroName (Actor 8)
@@ -226,7 +236,7 @@ msgstr "Полигон"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "てるてるぼうず"
-msgstr "ТеруТеруБозу"
+msgstr "Теру-Теру-Бозу"
 
 #. ID 14, Line 159
 #. ChangeHeroName (Actor 8)
@@ -264,10 +274,10 @@ msgctxt "actors.name"
 msgid "サイコロ"
 msgstr "Кубик"
 
-#. ID 18, Line 19
-#. ChangeHeroName (Actor 8)
+#. ID 37, Line 6
+#. Condition (Actor Name = 新仕様の解説＆サンプル)
 msgctxt "actors.name"
-msgid "First Effect"
+msgid "新仕様の解説＆サンプル"
 msgstr ""
 
 #. ID 37, Line 25
@@ -275,6 +285,24 @@ msgstr ""
 msgid ""
 "\\>\\C[\\V[1]] 0010 (おなまえ)\n"
 "\\>\\N[1]"
+msgstr ""
+
+#. ID 37, Line 37
+#. Condition (Actor Name = 旧仕様の解説＆サンプル　※旧仕様)
+msgctxt "actors.name"
+msgid "旧仕様の解説＆サンプル　※旧仕様"
+msgstr ""
+
+#. ID 37, Line 68
+#. Condition (Actor Name = Kメモ)
+msgctxt "actors.name"
+msgid "Kメモ"
+msgstr ""
+
+#. ID 38, Line 669
+#. Condition (Actor Name = 以下処理凍結)
+msgctxt "actors.name"
+msgid "以下処理凍結"
 msgstr ""
 
 #. ID 43, Line 40
@@ -373,6 +401,12 @@ msgstr ""
 msgid "\\>1つ前のMAP IDが記録されていません。"
 msgstr ""
 
+#. ID 43, Line 256
+#. Condition (Actor Name = 旧処理)
+msgctxt "actors.name"
+msgid "旧処理"
+msgstr ""
+
 #. ID 43, Line 257
 msgid ""
 "\\>主人公座標　MAP \\V[26] /X \\V[22] /Y \\V[23] /地形 \\V[27]\n"
@@ -408,6 +442,10 @@ msgid ""
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
 "\\!\\>　　　セーブデータの引継ぎ処理を行います。"
 msgstr ""
+"\\>        Обнаруженны данные прошлой версии.\n"
+"\\>　　　　　　SaveData \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
+"\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
+"\\!\\> Будет произведён перенос данных на новую версию."
 
 #. ID 62, Line 261
 msgid ""
@@ -416,6 +454,10 @@ msgid ""
 "\n"
 "\\>　　　セーブデータの引継ぎ処理が完了しました"
 msgstr ""
+"\n"
+"\n"
+"\n"
+"\\>　　　      Данные перенесены успешно."
 
 #. ID 62, Line 283
 #. ChangeHeroName (Actor 1)
@@ -596,7 +638,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 71
+#. ID 69, Line 67
 msgid ""
 "\\>20\n"
 "\\>30\n"
@@ -604,7 +646,7 @@ msgid ""
 "\\>INT　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 78
+#. ID 69, Line 74
 msgid ""
 "\\>kuraud\n"
 "\\>9G87ZOr0ks\n"
@@ -612,7 +654,7 @@ msgid ""
 "\\>12部屋目の310　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 94
+#. ID 69, Line 86
 msgid ""
 "\\>A\n"
 "\\>hal\n"
@@ -620,7 +662,7 @@ msgid ""
 "\\>710　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 101
+#. ID 69, Line 93
 msgid ""
 "\\>INT\n"
 "\\>418\n"
@@ -628,7 +670,7 @@ msgid ""
 "\\>dedp　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 108
+#. ID 69, Line 100
 msgid ""
 "\\>kuraud\n"
 "\\>sabamiso\n"
@@ -636,7 +678,7 @@ msgid ""
 "\\>百八十五号　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 115
+#. ID 69, Line 107
 msgid ""
 "\\>Bokun\n"
 "\\>ぜんまいヶ原の住人\n"
@@ -644,7 +686,7 @@ msgid ""
 "\\>n3　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 122
+#. ID 69, Line 114
 msgid ""
 "\\>◆9G87ZOr0ks\n"
 "\\>◆tKp9vEGEfhCD\n"
@@ -652,7 +694,7 @@ msgid ""
 "\\>ゆきひつじ　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 129
+#. ID 69, Line 121
 msgid ""
 "\\>◆wXeoWvpbbM\n"
 "\\>うをのぞき\n"
@@ -660,63 +702,87 @@ msgid ""
 "\\>Tonden　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 136
+#. ID 69, Line 128
 msgid ""
 "\\>Ca\n"
 "\\>イェリス\n"
 "\\>GALAXY\n"
-"\\>      　　\\<\\n[6]"
+"\\>モセニテ　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 143
+#. ID 69, Line 135
 msgid ""
-"\\>モセニテ\n"
 "\\>みけ\n"
 "\\>Gシーカー\n"
-"\\>spelude(幻想)　　\\<\\n[6]"
+"\\>spelude(幻想)\n"
+"\\>natl　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 150
+#. ID 69, Line 142
 msgid ""
-"\\>natl\n"
 "\\>アノン\n"
 "\\>985\n"
-"\\>黒九　　\\<\\n[6]"
+"\\>黒九\n"
+"\\>juda　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 157
+#. ID 69, Line 149
 msgid ""
-"\\>juda\n"
 "\\>kappa\n"
 "\\>shigurin\n"
-"\\>2i9　　\\<\\n[6]"
+"\\>2i9\n"
+"\\>light　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 164
+#. ID 69, Line 156
 msgid ""
-"\\>light\n"
 "\\>VANEGI\n"
 "\\>ルリ\n"
-"\\>qxy　　\\<\\n[6]"
+"\\>qxy\n"
+"\\>ROKU95　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 171
+#. ID 69, Line 163
 msgid ""
-"\\>ROKU95\n"
-"\\>Rio\n"
+"\\>maptsuki\n"
+"\\>軟体\n"
+"\\>ぬあー\n"
+"\\>Kake　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 170
+msgid ""
+"\\>やさこてん\n"
+"\\>srd\n"
+"\\>aediorugap\n"
+"\\>黒鍵　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 177
+msgid ""
+"\\>octave\n"
+"\\>とゐはぬ\n"
+"\\>森温(モリヲ)\n"
+"\\>ほらつき　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 184
+msgid ""
+"\\>赤波良ゐもり\n"
+"\\>夢を彷徨う\n"
 "\\>\n"
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 179
+#. ID 69, Line 192
 msgid ""
 "\\>noildoof\n"
+"\\>Rio\n"
 "\\>nulsdodage\n"
-"\\>\n"
-"\\>　　\\<\\n[6]"
+"\\>kong　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 195
+#. ID 69, Line 204
 msgid ""
 "\\>945\n"
 "\\>Y0M\n"
@@ -724,7 +790,7 @@ msgid ""
 "\\>kuraud　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 202
+#. ID 69, Line 211
 msgid ""
 "\\>ぜんまいヶ原の住人\n"
 "\\>Jekyle\n"
@@ -732,7 +798,7 @@ msgid ""
 "\\>◆G/OTz1VptjfD　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 218
+#. ID 69, Line 223
 msgid ""
 "\\>762(getabaki)\n"
 "\\>932\n"
@@ -740,7 +806,7 @@ msgid ""
 "\\>uxiru　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 225
+#. ID 69, Line 230
 msgid ""
 "\\>762\n"
 "\\>EltWelt\n"
@@ -748,7 +814,7 @@ msgid ""
 "\\>ryu-1-sou　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 232
+#. ID 69, Line 237
 msgid ""
 "\\>峰\n"
 "\\>さおみー\n"
@@ -756,7 +822,7 @@ msgid ""
 "\\>workev　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 239
+#. ID 69, Line 244
 msgid ""
 "\\>workey\n"
 "\\>ゆゆ\n"
@@ -764,7 +830,7 @@ msgid ""
 "\\>LK1hIc.d6k　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 246
+#. ID 69, Line 251
 msgid ""
 "\\>NN\n"
 "\\>【関電64.2%】【24.9m】\n"
@@ -772,7 +838,7 @@ msgid ""
 "\\>トカキ　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 253
+#. ID 69, Line 258
 msgid ""
 "\\>ゆみかん\n"
 "\\>とーん\n"
@@ -780,7 +846,23 @@ msgid ""
 "\\>はる　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 269
+#. ID 69, Line 265
+msgid ""
+"\\>noildoof\n"
+"\\>Rio\n"
+"\\>oboi\n"
+"\\>クボ月　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 272
+msgid ""
+"\\>rososo\n"
+"\\>Hans\n"
+"\\>にょろへび\n"
+"\\>　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 284
 msgid ""
 "\\>99\n"
 "\\>ASDF\n"
@@ -788,7 +870,7 @@ msgid ""
 "\\>626　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 276
+#. ID 69, Line 291
 msgid ""
 "\\>932\n"
 "\\>外外\n"
@@ -796,7 +878,7 @@ msgid ""
 "\\>den　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 283
+#. ID 69, Line 298
 msgid ""
 "\\>RIMA\n"
 "\\>音師竹内\n"
@@ -804,7 +886,7 @@ msgid ""
 "\\>EltWelt　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 290
+#. ID 69, Line 305
 msgid ""
 "\\>n3\n"
 "\\>LSD\n"
@@ -812,7 +894,7 @@ msgid ""
 "\\>向詠にいち　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 297
+#. ID 69, Line 312
 msgid ""
 "\\>みけ\n"
 "\\>ふーた\n"
@@ -820,7 +902,7 @@ msgid ""
 "\\>アノン　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 304
+#. ID 69, Line 319
 msgid ""
 "\\>sakai\n"
 "\\>dedp\n"
@@ -828,7 +910,7 @@ msgid ""
 "\\>MAYA AKAI　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 311
+#. ID 69, Line 326
 msgid ""
 "\\>Yuri\n"
 "\\>spelude(幻想)\n"
@@ -836,7 +918,7 @@ msgid ""
 "\\>P.Lin*　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 318
+#. ID 69, Line 333
 msgid ""
 "\\>985\n"
 "\\>VANEGI\n"
@@ -844,7 +926,31 @@ msgid ""
 "\\>PhysicalOrchesta　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 334
+#. ID 69, Line 340
+msgid ""
+"\\>モセニテ\n"
+"\\>やわらか\n"
+"\\>yuriplus\n"
+"\\>たわし　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 347
+msgid ""
+"\\>ちひろ\n"
+"\\>Chaos X\n"
+"\\>Fuzion\n"
+"\\>jitensha　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 354
+msgid ""
+"\\>martiN0304\n"
+"\\>\n"
+"\\>\n"
+"\\>　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 366
 msgid ""
 "\\>1\n"
 "\\>20\n"
@@ -852,7 +958,7 @@ msgid ""
 "\\>hal　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 341
+#. ID 69, Line 373
 msgid ""
 "\\>826\n"
 "\\>863\n"
@@ -860,7 +966,7 @@ msgid ""
 "\\>kuraud　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 348
+#. ID 69, Line 380
 msgid ""
 "\\>Gaku\n"
 "\\>Glaple\n"
@@ -868,7 +974,7 @@ msgid ""
 "\\>710　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 355
+#. ID 69, Line 387
 msgid ""
 "\\>spelude(幻想)\n"
 "\\>イェリス\n"
@@ -876,7 +982,15 @@ msgid ""
 "\\>kappa　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 362
+#. ID 69, Line 394
+msgid ""
+"\\>light\n"
+"\\>2i9\n"
+"\\>黒九\n"
+"\\>qxy　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 401
 msgid ""
 "\\>軟体\n"
 "\\>\n"
@@ -884,7 +998,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 378
+#. ID 69, Line 413
 msgid ""
 "\\>名無しさん\n"
 "\\> \n"
@@ -892,7 +1006,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 394
+#. ID 69, Line 425
 msgid ""
 "\\>ぁもゆ\n"
 "\\>lu\n"
@@ -900,223 +1014,319 @@ msgid ""
 "\\>yuanshang　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 410
+#. ID 69, Line 437
 msgid ""
-"\\>yuanshang           ヤミキノ            \n"
-"\\>白くま              山上下              \n"
-"\\>凪果さな            EltWelt             \n"
-"\\>lol                 十人十ゐろ          　　\\<\\n[6]"
+"\\>yuanshang　　　　   ヤミキノ　　　　    \n"
+"\\>白くま　　　　      山上下　　　　      \n"
+"\\>凪果さな　　　　    EltWelt　　　　     \n"
+"\\>lol　　　　　　　　 十人十ゐろ　　　　  　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 417
+#. ID 69, Line 444
 msgid ""
-"\\>YUKI                エダマメ.           \n"
-"\\>稲荷                幸付き              \n"
-"\\>黒天                きな子もち          \n"
-"\\>蒼空飴              マリナ              　　\\<\\n[6]"
+"\\>YUKI　　　　　　　　エダマメ.　　　　   \n"
+"\\>稲荷　　　　　　　　幸付き　　　　      \n"
+"\\>黒天　　　　　　　　きな子もち　　　　  \n"
+"\\>蒼空飴　　　　      マリナ　　　　      　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 424
+#. ID 69, Line 451
 msgid ""
-"\\>懺悔                FOUNCID             \n"
-"\\>こ（び）            CHiHiR0             \n"
-"\\>けるお              陸                  \n"
-"\\>ハリネズミ          ツピー              　　\\<\\n[6]"
+"\\>懺悔　　　　　　　　FOUNCID　　　　     \n"
+"\\>こ（び）　　　　    CHiHiR0　　　　     \n"
+"\\>けるお　　　　      陸　　　　　　　　  \n"
+"\\>ハリネズミ　　　　  ツピー　　　　      　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 431
+#. ID 69, Line 458
 msgid ""
-"\\>みあ                戀雅　鵺            \n"
-"\\>うつがめ            鳩豆                \n"
-"\\>上埜月              ノア                \n"
-"\\>富ゑ                月狗使              　　\\<\\n[6]"
+"\\>みあ　　　　　　　　戀雅　鵺　　　　    \n"
+"\\>うつがめ　　　　    鳩豆　　　　　　　　\n"
+"\\>上埜月　　　　      ノア　　　　　　　　\n"
+"\\>富ゑ　　　　　　　　月狗使　　　　      　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 438
+#. ID 69, Line 465
 msgid ""
-"\\>kinago              イドラ              \n"
-"\\>Lupa                よじお              \n"
-"\\>蒼色                水利                \n"
-"\\>ころんば            aki                 　　\\<\\n[6]"
+"\\>kinago　　　　      イドラ　　　　      \n"
+"\\>Lupa　　　　　　　　よじお　　　　      \n"
+"\\>蒼色　　　　　　　　水利　　　　　　　　\n"
+"\\>ころんば　　　　    aki　　　　　　　　 　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 445
+#. ID 69, Line 472
 msgid ""
-"\\>アルツ              路地裏              \n"
-"\\>Cat_Bible           壱峪ひろ            \n"
-"\\>ナゴー              蒼椈森Haya          \n"
-"\\>ウィル              若                  　　\\<\\n[6]"
+"\\>アルツ　　　　      路地裏　　　　      \n"
+"\\>Cat_Bible　　　　   壱峪ひろ　　　　    \n"
+"\\>ナゴー　　　　      蒼椈森Haya　　　　  \n"
+"\\>ウィル　　　　      若　　　　　　　　  　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 452
+#. ID 69, Line 479
 msgid ""
-"\\>mero                ろーずまゆたん      \n"
-"\\>あまた　ゆきえ      流。                \n"
-"\\>にゃー              きなこもっちもち    \n"
-"\\>彼岸花              aruva               　　\\<\\n[6]"
+"\\>mero　　　　　　　　ろーずまゆたん      \n"
+"\\>あまた　ゆきえ      流。　　　　　　　　\n"
+"\\>にゃー　　　　      きなこもっちもち    \n"
+"\\>彼岸花　　　　      aruva　　　　       　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 459
+#. ID 69, Line 486
 msgid ""
-"\\>あしなべ            神埼由羅            \n"
-"\\>もけ子              福野04              \n"
-"\\>志樹                tanita              \n"
-"\\>まりしゃん          あきつ              　　\\<\\n[6]"
+"\\>あしなべ　　　　    神埼由羅　　　　    \n"
+"\\>もけ子　　　　      福野04　　　　      \n"
+"\\>志樹　　　　　　　　tanita　　　　      \n"
+"\\>まりしゃん　　　　  あきつ　　　　      　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 466
+#. ID 69, Line 493
 msgid ""
-"\\>東雲くらげ          もちもち            \n"
-"\\>getabaki            らう                \n"
-"\\>まこっち            柑橘箱              \n"
-"\\>闇月夜              190                 　　\\<\\n[6]"
+"\\>東雲くらげ　　　　  もちもち　　　　    \n"
+"\\>getabaki　　　　    らう　　　　　　　　\n"
+"\\>まこっち　　　　    柑橘箱　　　　      \n"
+"\\>闇月夜　　　　      190　　　　　　　　 　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 473
+#. ID 69, Line 500
 msgid ""
-"\\>蒼                  アベル              \n"
-"\\>れもん氏            さおみー            \n"
-"\\>凡                  Level.21            \n"
-"\\>こな                dedp                　　\\<\\n[6]"
+"\\>蒼　　　　　　　　  アベル　　　　      \n"
+"\\>れもん氏　　　　    さおみー　　　　    \n"
+"\\>凡　　　　　　　　  Level.21　　　　    \n"
+"\\>こな　　　　　　　　dedp　　　　　　　　　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 480
+#. ID 69, Line 507
 msgid ""
-"\\>ぁもゆ              oudn                \n"
-"\\>20                  へっどふぉん        \n"
-"\\>178                 kmn                 \n"
-"\\>ゆゆ                カイズ              　　\\<\\n[6]"
+"\\>ぁもゆ　　　　      oudn　　　　　　　　\n"
+"\\>20　　　　　　　　  へっどふぉん　　　　\n"
+"\\>178　　　　　　　　 kmn　　　　　　　　 \n"
+"\\>ゆゆ　　　　　　　　カイズ　　　　      　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 487
+#. ID 69, Line 514
 msgid ""
-"\\>Torii               わたる              \n"
-"\\>ラギー              ティクルポポ        \n"
-"\\>みけ                カワシ              \n"
-"\\>こと                向詠にいち          　　\\<\\n[6]"
+"\\>Torii　　　　       わたる　　　　      \n"
+"\\>ラギー　　　　      ティクルポポ　　　　\n"
+"\\>みけ　　　　　　　　カワシ　　　　      \n"
+"\\>こと　　　　　　　　向詠にいち　　　　  　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 494
+#. ID 69, Line 521
 msgid ""
-"\\>気々付き            とーん              \n"
-"\\>KYOU                胃の結              \n"
-"\\>オレンジ１００％    竹ノ花              \n"
-"\\>NN                  凪果さな            　　\\<\\n[6]"
+"\\>気々付き　　　　    とーん　　　　      \n"
+"\\>KYOU　　　　　　　　胃の結　　　　      \n"
+"\\>オレンジ１００％    竹ノ花　　　　      \n"
+"\\>NN　　　　　　　　  凪果さな　　　　    　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 501
+#. ID 69, Line 528
 msgid ""
-"\\>こげ兎              えいり              \n"
-"\\>ネコノハヤシロ      おぽ子              \n"
-"\\>miharu              ガン★ガゼ          \n"
-"\\>おぽ子              日陰                　　\\<\\n[6]"
+"\\>こげ兎　　　　      えいり　　　　      \n"
+"\\>ネコノハヤシロ      おぽ子　　　　      \n"
+"\\>miharu　　　　      ガン★ガゼ　　　　  \n"
+"\\>おぽ子　　　　      日陰　　　　　　　　　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 508
+#. ID 69, Line 535
 msgid ""
-"\\>にんふぇあ          モカ\n"
-"\\>クスゥ            さんびゃくななじゅう\n"
-"\\>arkham              メロンまっちゃ\n"
-"\\>アマクサ            ninoruko            　　\\<\\n[6]"
+"\\>にんふぇあ　　　　  モカ\n"
+"\\>クスゥ　　　　    さんびゃくななじゅう\n"
+"\\>arkham　　　　      メロンまっちゃ\n"
+"\\>アマクサ　　　　    ninoruko　　　　    　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 515
+#. ID 69, Line 542
 msgid ""
-"\\>mizkura             chugo\n"
-"\\>凹にゃん            なそあん\n"
-"\\>TaSK                かわわらわ\n"
-"\\>noildoof            慶吉郎              　　\\<\\n[6]"
+"\\>mizkura　　　　     chugo\n"
+"\\>凹にゃん　　　　    なそあん\n"
+"\\>TaSK　　　　　　　　かわわらわ\n"
+"\\>noildoof　　　　    慶吉郎　　　　      　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 522
+#. ID 69, Line 549
 msgid ""
-"\\>樺山かなり          カワシ\n"
+"\\>樺山かなり　　　　  カワシ\n"
 "\\>こと　　　　　　　　気々付き\n"
-"\\>とーん　　　　　　　KYOU\n"
-"\\>胃の結              オレンジ１００％    　　\\<\\n[6]"
+"\\>とーん　　　　      KYOU\n"
+"\\>胃の結　　　　      オレンジ１００％    　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 529
+#. ID 69, Line 556
 msgid ""
-"\\>竹ノ花              NN\n"
-"\\>こげ兎              えいり\n"
+"\\>竹ノ花　　　　      NN\n"
+"\\>こげ兎　　　　      えいり\n"
 "\\>ネコノハヤシロ      おぽ子\n"
-"\\>miharu              ガン★ガゼ          　　\\<\\n[6]"
+"\\>miharu　　　　      ガン★ガゼ　　　　  　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 536
+#. ID 69, Line 563
 msgid ""
-"\\>日陰                にんふぇあ\n"
-"\\>モカ              さんびゃくななじゅう\n"
-"\\>クスゥ              arkham\n"
-"\\>メロンまっちゃ      アマクサ            　　\\<\\n[6]"
+"\\>日陰　　　　　　　　にんふぇあ\n"
+"\\>モカ　　　　      さんびゃくななじゅう\n"
+"\\>クスゥ　　　　      arkham\n"
+"\\>メロンまっちゃ      アマクサ　　　　    　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 543
+#. ID 69, Line 570
 msgid ""
-"\\>ninoruko            mizkura\n"
-"\\>chugo               凹にゃん\n"
-"\\>なそあん            TaSK\n"
-"\\>かわわらわ          noildoof            　　\\<\\n[6]"
+"\\>ninoruko　　　　    mizkura\n"
+"\\>chugo　　　　       凹にゃん\n"
+"\\>なそあん　　　　    TaSK\n"
+"\\>かわわらわ　　　　  noildoof　　　　    　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 550
+#. ID 69, Line 577
 msgid ""
-"\\>慶吉郎              樺山かなり\n"
-"\\>noname              クロワ\n"
-"\\>mario               お菊\n"
-"\\>Hans                ec                  　　\\<\\n[6]"
+"\\>慶吉郎　　　　      樺山かなり\n"
+"\\>noname　　　　      クロワ\n"
+"\\>mario　　　　       お菊\n"
+"\\>Hans　　　　　　　　ec　　　　　　　　  　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 557
+#. ID 69, Line 584
 msgid ""
-"\\>BSL                 quoiDraught\n"
-"\\>真白カコイ\n"
-"\\>\n"
-"\\>                                        　　\\<\\n[6]"
+"\\>BSL　　　　　　　　 quoiDraught\n"
+"\\>真白カコイ　　　　  ぬぬさゆ\n"
+"\\>セチ　　　　　　　　まいたけ\n"
+"\\>けこりん　　　　    ルリ　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 573
+#. ID 69, Line 591
 msgid ""
-"\\>ヤミキノ            レンツァイ          \n"
-"\\>白くま              彼方                \n"
-"\\>睡魔                ゆうし              \n"
-"\\>緋翠                鳩豆                　　\\<\\n[6]"
+"\\>sillyzawa　　　　   kris\n"
+"\\>2i9　　　　　　　　 mama\n"
+"\\>Averageavocado      Guccelia\n"
+"\\>Kiko Eleanor　　　　roer　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 580
+#. ID 69, Line 598
 msgid ""
-"\\>矢車小怪            みあ                \n"
-"\\>まっくろ            きな子もち          \n"
-"\\>幸付き              青蓮華              \n"
-"\\>壱峪ひろ            あきつ              　　\\<\\n[6]"
+"\\>LiquidTc　　　　    ローンタワー\n"
+"\\>STUDYMAN99　　　　  Gabaro\n"
+"\\>クリスタルクリエーション\n"
+"\\>LiquidTc　　　　    Raptarr8　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 587
+#. ID 69, Line 605
 msgid ""
-"\\>216チロ             toto                \n"
-"\\>メガネ山            さおみー            \n"
-"\\>dario               ツピー              \n"
-"\\>まこっち            巴                  　　\\<\\n[6]"
+"\\>Yuunarii　　　　    -Drifter\n"
+"\\>ごうてん　　　　    ゼシカ\n"
+"\\>あいれす　　　　    ウェストン\n"
+"\\>投棄性　　　　      おつけもの　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 594
+#. ID 69, Line 612
 msgid ""
-"\\>NaTiru              婿                  \n"
-"\\>ﾐﾗ                  ころんば            \n"
-"\\>chico               RPG-7               \n"
-"\\>蒼                  かしもち            　　\\<\\n[6]"
+"\\>せにゅしあ　　　　  永氷水\n"
+"\\>夢赤狐　　　　      シキノソラ\n"
+"\\>櫻　　　　　　　　  七月\n"
+"\\>maptsuki　　　　    浪藻そぞろ　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 601
+#. ID 69, Line 619
 msgid ""
-"\\>とーん              miharu              \n"
-"\\>NN                  ＢＳＬ\n"
-"\\>まっぷつき          クロワ\n"
-"\\>スイ                                        \\<\\n[6]"
+"\\>空澄コルネ　　　　  metachirality\n"
+"\\>Mad Project　　　　 鉾立真虚人\n"
+"\\>隣のワカメ　　　　  Gaida the Duck\n"
+"\\>Beloth　　　　      thingum　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 617
+#. ID 69, Line 626
+msgid ""
+"\\>Cmax　　　　　　　　sodaodaoda\n"
+"\\>時斗静刃　　　　    海月夜 澪\n"
+"\\>ミズ　　　　　　　　alcoco\n"
+"\\>Gray　　　　　　　　小可　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 633
+msgid ""
+"\\>ブラッキー　　　　  ＝ｔ\n"
+"\\>Ani　　　　　　　　 Renami\n"
+"\\>finesse　　　　     dmdmkun\n"
+"\\>JIVV　　　　　　　　Pumpkin Soda　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 640
+msgid ""
+"\\>Apeman　　　　      pestoanchovi\n"
+"\\>ほらつき　　　　    Rollaby\n"
+"\\>noogats　　　　     ダッシュを再生\n"
+"\\>Nostaplant　　　　  influenza　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 647
+msgid ""
+"\\>ribon996　　　　    心脳ハナ\n"
+"\\>ペーマ　　　　      Nico\n"
+"\\>Shadok　　　　      Autumn\n"
+"\\>FelixWraith　　　　 MillieAmp　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 654
+msgid ""
+"\\>Skuyume　　　　     やわらか\n"
+"\\>NALUDAYO　　　　    rapukori\n"
+"\\>友達/キャべつ　　　 sen\n"
+"\\>miau　　　　　　　  Shoal-senpai　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 661
+msgid ""
+"\\>mitzyrie　　　　    Myeri\n"
+"\\>rowan　　　　   　　princess crab\n"
+"\\>rapukori　    　    eviled\n"
+"\\>Kylie　    　       Jojogape　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 668
+msgid ""
+"\\>Skellieton42　　　　Mewtryoshka愛\n"
+"\\>Froggo　　　　　　　pao\n"
+"\\>Sniperbob　　　　　 \n"
+"\\>　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 680
+msgid ""
+"\\>ヤミキノ　　　　    レンツァイ　　　　  \n"
+"\\>白くま　　　　      彼方　　　　　　　　\n"
+"\\>睡魔　　　　　　　　ゆうし　　　　      \n"
+"\\>緋翠　　　　　　　　鳩豆　　　　　　　　　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 687
+msgid ""
+"\\>矢車小怪　　　　    みあ　　　　　　　　\n"
+"\\>まっくろ　　　　    きな子もち　　　　  \n"
+"\\>幸付き　　　　      青蓮華　　　　      \n"
+"\\>壱峪ひろ　　　　    あきつ　　　　      　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 694
+msgid ""
+"\\>216チロ　　　　     toto　　　　　　　　\n"
+"\\>メガネ山　　　　    さおみー　　　　    \n"
+"\\>dario　　　　       ツピー　　　　      \n"
+"\\>まこっち　　　　    巴　　　　　　　　  　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 701
+msgid ""
+"\\>NaTiru　　　　      婿　　　　　　　　  \n"
+"\\>ﾐﾗ　　　　　　　　  ころんば　　　　    \n"
+"\\>chico　　　　       RPG-7　　　　       \n"
+"\\>蒼　　　　　　　　  かしもち　　　　    　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 708
+msgid ""
+"\\>とーん　　　　      miharu　　　　      \n"
+"\\>NN　　　　　　　　  ＢＳＬ　　　　      \n"
+"\\>まっぷつき　　　　  クロワ　　　　      \n"
+"\\>スイ　　　　　　　　　　　　　　　　　　　　\\<\\n[6]"
+msgstr ""
+
+#. ID 69, Line 720
 msgid ""
 "\\>モノクログリーン\n"
 "\\>\n"
@@ -1124,7 +1334,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 633
+#. ID 69, Line 732
 msgid ""
 "\\>kt\n"
 "\\>724\n"
@@ -1132,7 +1342,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 649
+#. ID 69, Line 744
 msgid ""
 "\\>ゆめにっきっぽいゲームを作るスレ\n"
 "\\>　　　　　　　　　　　　　　うｐロダ\n"
@@ -1140,7 +1350,7 @@ msgid ""
 "\\>　　　　　　　　　フリー音素材集～様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 656
+#. ID 69, Line 751
 msgid ""
 "\\>機械庭工房様\n"
 "\\>効果音源様\n"
@@ -1148,7 +1358,7 @@ msgid ""
 "\\>つーの素材クラブ様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 663
+#. ID 69, Line 758
 msgid ""
 "\\>ヒラノ様\n"
 "\\>びたちー素材館様\n"
@@ -1156,7 +1366,7 @@ msgid ""
 "\\>acoustica様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 670
+#. ID 69, Line 765
 msgid ""
 "\\>akiroom様\n"
 "\\>First Seed Material様\n"
@@ -1164,7 +1374,7 @@ msgid ""
 "\\>HOP STEPα degital増刊号様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 677
+#. ID 69, Line 772
 msgid ""
 "\\>Illustration様\n"
 "\\>Looseleaf様\n"
@@ -1172,7 +1382,7 @@ msgid ""
 "\\>SWEET POISON CANDY様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 684
+#. ID 69, Line 779
 msgid ""
 "\\>ULTIMATEゲーム事業部 フリー効果音様\n"
 "\\>粋屋様\n"
@@ -1180,15 +1390,15 @@ msgid ""
 "\\>魔王魂様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 691
+#. ID 69, Line 786
 msgid ""
 "\\>フリー素材屋Hoshino様\n"
-"\\>　　　(http://www.s-hoshino.com/)\n"
+"\\>　(http://www.s-hoshino.com/)\n"
 "\\>On-Jin～音人～様\n"
 "\\>CG素材集(テクスチャー素材集)様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 698
+#. ID 69, Line 793
 msgid ""
 "\\>100 Free High Quality\n"
 "\\>　　　　　　　Wooden Texture Packs様\n"
@@ -1196,7 +1406,7 @@ msgid ""
 "\\>ひょうぶろぐ様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 705
+#. ID 69, Line 800
 msgid ""
 "\\>Gatoblanco様\n"
 "\\>効果音ラボ様\n"
@@ -1204,23 +1414,23 @@ msgid ""
 "\\>くらげ工匠様　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 712
+#. ID 69, Line 807
 msgid ""
 "\\>Music is VFR様\n"
-"\\>　　　(http://musicisvfr.com/)\n"
+"\\>　(http://musicisvfr.com/)\n"
 "\\>ポケットサウンド様\n"
-"\\>　　　(http://pocket-se.info/)　　\\<\\n[6]"
+"\\>　(http://pocket-se.info/)　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 719
+#. ID 69, Line 814
 msgid ""
 "\\>WEB WAVE LIB様\n"
 "\\>無料写真素材　写真AC様\n"
 "\\>ノタの森様\n"
-"\\>　　　(http://notanomori.net/)　　\\<\\n[6]"
+"\\>　(http://notanomori.net/)　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 735
+#. ID 69, Line 826
 msgid ""
 "\\>YADOT様\n"
 "\\>星のるつぼ　－星の名前のデータベース－様\n"
@@ -1228,7 +1438,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 751
+#. ID 69, Line 838
 msgid ""
 "\\>RPGツクール2000\n"
 "\\>\n"
@@ -1236,7 +1446,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 767
+#. ID 69, Line 850
 msgid ""
 "\\>ゆめにっきっぽいゲームを作るスレ\n"
 "\\>　　　　　　　　　　　　　まとめ Wiki\n"
@@ -1244,7 +1454,7 @@ msgid ""
 "\\>　　\\<\\n[6]"
 msgstr ""
 
-#. ID 69, Line 783
+#. ID 69, Line 862
 msgid ""
 "\\>ゆめにっきっぽいゲームを作るスレ住人\n"
 "\\>\n"
@@ -6633,41 +6843,53 @@ msgstr ""
 
 #. ID 85, Line 2579
 msgid ""
-"\\>\\C[\\V[1]] 1493 (Kontentsu)\n"
+"\\>\\C[\\V[1]] 1491 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
 #. ID 85, Line 2594
 msgid ""
-"\\>\\C[\\V[1]] 1494 (Kontentsu)\n"
+"\\>\\C[\\V[1]] 1492 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
 #. ID 85, Line 2609
 msgid ""
-"\\>\\C[\\V[1]] 1495 (Kontentsu)\n"
+"\\>\\C[\\V[1]] 1493 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
 #. ID 85, Line 2624
 msgid ""
-"\\>\\C[\\V[1]] 1496 (Kontentsu)\n"
+"\\>\\C[\\V[1]] 1494 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
 #. ID 85, Line 2639
 msgid ""
-"\\>\\C[\\V[1]] 1497 (Kontentsu)\n"
+"\\>\\C[\\V[1]] 1495 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
 #. ID 85, Line 2654
 msgid ""
-"\\>\\C[\\V[1]] 1498 (Kontentsu)\n"
+"\\>\\C[\\V[1]] 1496 (Kontentsu)\n"
 "\\>\\N[1]"
 msgstr ""
 
 #. ID 85, Line 2669
+msgid ""
+"\\>\\C[\\V[1]] 1497 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 85, Line 2684
+msgid ""
+"\\>\\C[\\V[1]] 1498 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 85, Line 2699
 msgid ""
 "\\>\\C[\\V[1]] 1500 (Kontentsu)\n"
 "\\>\\N[1]"
@@ -7205,6 +7427,60 @@ msgid ""
 "\\>\\N[1]"
 msgstr ""
 
+#. ID 87, Line 183
+msgid ""
+"\\>\\C[\\V[1]] 1921 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 198
+msgid ""
+"\\>\\C[\\V[1]] 1924 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 213
+msgid ""
+"\\>\\C[\\V[1]] 1925 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 228
+msgid ""
+"\\>\\C[\\V[1]] 1926 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 243
+msgid ""
+"\\>\\C[\\V[1]] 1927 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 258
+msgid ""
+"\\>\\C[\\V[1]] 1928 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 273
+msgid ""
+"\\>\\C[\\V[1]] 1929 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 87, Line 288
+msgid ""
+"\\>\\C[\\V[1]] 1930 (Kontentsu)\n"
+"\\>\\N[1]"
+msgstr ""
+
+#. ID 212, Line 1
+#. Condition (Actor Name = 　　　　説明)
+msgctxt "actors.name"
+msgid "　　　　説明"
+msgstr ""
+
 #. ID 216, Line 30
 msgid "\\>Music No."
 msgstr "\\>Трек №"
@@ -7403,7 +7679,7 @@ msgid ""
 "\\>現到達MAP数：\\V[3511]／\\V[3512]\n"
 "\\>現MAP到達率：\\V[3513]％"
 msgstr ""
-"\\>Посещено локаций: \\V[3511]/\\V[3512]\n"
+"\\>    Посещено локаций: \\V[3511]/\\V[3512]\n"
 "\\>Доля посещённых карт: \\V[3513]%"
 
 #. ID 256, Line 10
@@ -7428,9 +7704,8 @@ msgid ""
 "\\>しばらく時間がかかります。\n"
 "\\>よろしいですか？ (右キー押しながら決定で途中経過表示)"
 msgstr ""
-"\\>Это займёт время. Уверены? \n"
-"\\>(Удерж. стр.Вправо для отобр. \n"
-"\\> прогресса)"
+"\\>Это займёт некоторое время. Вы Уверены? \n"
+"\\>(Удерж. стр. Вправо для отображения прогресса)"
 
 #. ID 256, Line 17
 #. Choice (2 options, embedded in a message)
@@ -7452,7 +7727,7 @@ msgstr "\\>Готово."
 #. ID 256, Line 81
 #. Contains choice at line 2 (2 options)
 msgid "\\>以降、デバッグ用到達済み処理を呼び出しますか？"
-msgstr "\\>以降、デバッグ用到達済み処理を呼び出しますか？"
+msgstr ""
 
 #. ID 256, Line 82
 #. Choice (2 options, embedded in a message)
@@ -7470,9 +7745,8 @@ msgid ""
 "\\>　この処理は呼び出されなくなります"
 msgstr ""
 "\\>Настройки изменены\n"
-"\\>　Теперь это окно больше не\n"
-"\\>　появится, пока вы не удали-\n"
-"\\>　те предмет Отладки."
+"\\>  Теперь это окно больше не появится, пока вы \n"
+"\\>  не удалите предмет Отладки."
 
 #. ID 260, Line 20
 #. Contains choice at line 2 (2 options)
@@ -7508,6 +7782,18 @@ msgctxt "actors.name"
 msgid "【SR分室の変動をチェックする】"
 msgstr ""
 
+#. ID 278, Line 70
+#. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
+msgctxt "actors.name"
+msgid "ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ"
+msgstr ""
+
+#. ID 288, Line 266
+#. Condition (Actor Name = 未使用処理)
+msgctxt "actors.name"
+msgid "未使用処理"
+msgstr ""
+
 #. ID 289, Line 88
 msgid ""
 "\\>ERROR CEV[0289] -> \"背景の指定がありません\"\n"
@@ -7522,4 +7808,10 @@ msgid ""
 "\\>(Map\\v[1460])\n"
 "\n"
 "\\>決定キーでタイトル画面へ戻ります"
+msgstr ""
+
+#. ID 309, Line 8
+#. Condition (Actor Name = 中断サンプル)
+msgctxt "actors.name"
+msgid "中断サンプル"
 msgstr ""

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 36, Page 1, Line 251, Pos (2,1)
 #. Contains choice at line 2 (2 options)
@@ -36,8 +36,7 @@ msgid ""
 "\\>ピースの移動処理が完了しませんでした \\<\\|\\|"
 msgstr ""
 "\\>Ошибка\n"
-"\\>Перемещение фрагмента \n"
-"не было завершено.\\<\\|\\|"
+"\\>Перемещение фрагмента не было завершено.\\<\\|\\|"
 
 #. ID 39, Page 1, Line 188, Pos (2,5)
 #. Choice (3 options, embedded in a message)
@@ -76,9 +75,7 @@ msgstr ""
 #. ID 39, Page 2, Line 22, Pos (2,5)
 #. Contains choice at line 2 (1 options)
 msgid "\\>完成したけど、まだ続ける？"
-msgstr ""
-"\\>Вы уже закончили, но \n"
-"\\>всё-ещё хотите продолжить?"
+msgstr "\\>Вы уже закончили, но всё-ещё хотите продолжить?"
 
 #. ID 39, Page 2, Line 23, Pos (2,5)
 #. Choice (1 options, embedded in a message)
@@ -95,7 +92,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>　　　　　　　　  Поздравляем!"
+"\\>　　　　　　　　     Поздравляем!"
 
 #. ID 39, Page 2, Line 111, Pos (2,5)
 msgid ""
@@ -107,7 +104,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>                    Новый Рекорд!"
+"\\>                       Новый Рекорд!"
 
 #. ID 40, Page 3, Line 11, Pos (1,5)
 #. Contains choice at line 2 (3 options)
@@ -121,14 +118,14 @@ msgid ""
 "\\>Control Type (Now:\\V[1471])\n"
 "\\>Close"
 msgstr ""
-"\\>Обои    (Сейчас:\\V[1463])\n"
-"\\>Управление (Сейчас:\\V[1471])\n"
+"\\>Обои    (Сейчас: \\V[1463])\n"
+"\\>Управление (Сейчас: \\V[1471])\n"
 "\\>Закрыть"
 
 #. ID 40, Page 3, Line 14, Pos (1,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> MENU > OPTION > Wallpaper (Now:\\V[1463])"
-msgstr "\\> МЕНЮ > НАСТРОЙКИ > Обои (Сейчас:\\V[1463])"
+msgstr "\\> МЕНЮ > НАСТРОЙКИ > Обои (Сейчас: \\V[1463])"
 
 #. ID 40, Page 3, Line 15, Pos (1,5)
 #. Choice (3 options, embedded in a message)
@@ -144,7 +141,7 @@ msgstr ""
 #. ID 40, Page 3, Line 30, Pos (1,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\> MENU > OPTION > Control Type (Now:\\V[1471])"
-msgstr "\\> МЕНЮ > НАСТРОЙКИ > Управление (Сейчас:\\V[1471])"
+msgstr "\\> МЕНЮ > НАСТРОЙКИ > Управление (Сейчас: \\V[1471])"
 
 #. ID 40, Page 3, Line 31, Pos (1,5)
 #. Choice (2 options, embedded in a message)
@@ -171,4 +168,4 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>                   Приготовьтесь　　　　　　　　 \\<\\|\\|\\^"
+"\\>                      Приготовьтесь　　　　　　　　 \\<\\|\\|\\^"

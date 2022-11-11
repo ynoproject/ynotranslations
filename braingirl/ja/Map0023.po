@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 1, Page 3, Line 4, Pos (8,8)
+#. ID 1, Page 3, Line 16, Pos (8,8)
+msgid "..."
+msgstr ""
+
+#. ID 1, Page 3, Line 6, Pos (8,8)
+msgid "...You'll be okay!"
+msgstr "…きっと大丈夫だよ！"
+
+#. ID 1, Page 3, Line 8, Pos (8,8)
+msgid "You don't have to worry anymore."
+msgstr "もう心配しなくて大丈夫。"
+
+#. ID 1, Page 3, Line 10, Pos (8,8)
+msgid ""
+"They won't find you,\n"
+"as long as you stay here."
+msgstr "ここにいれば見つかることはないから。"
+
+#. ID 1, Page 3, Line 13, Pos (8,8)
+msgid ""
+"And I'm sure if we wait long enough, they\n"
+"will stop looking for you altogether!"
+msgstr ""
+"しばらくすれば、あれも探すのを\n"
+"やめるに違いないわ！"
+
+#. ID 1, Page 3, Line 18, Pos (8,8)
+msgid "..I think..."
+msgstr "…たぶん…"
+
+#. ID 1, Page 3, Line 20, Pos (8,8)
+msgid ""
+"But whatever happens, I will be\n"
+"here for you."
+msgstr ""
+"でも何があっても、わたしは\n"
+"あなたのそばにいるわ。"
+
+#. ID 1, Page 3, Line 23, Pos (8,8)
+msgid "You don't have to be scared anymore."
+msgstr "もう怖がることはないわ。"
+
+#. ID 1, Page 3, Line 25, Pos (8,8)
+msgid ""
+"I'll give you food, books, games and\n"
+"a bed for you to sleep in."
+msgstr ""
+"あなたのために食べ物や本、ゲームに\n"
+"ベッドも用意したわ。"
+
+#. ID 1, Page 3, Line 28, Pos (8,8)
+msgid "I can't promise you it won't get boring..."
+msgstr ""
+"これだけじゃすぐあきちゃうかも\n"
+"しれないけど…"
+
+#. ID 1, Page 3, Line 30, Pos (8,8)
+msgid "But I really want you to stay safe!"
+msgstr "ただあなたに安全でいてほしいの！"
+
+#. ID 1, Page 3, Line 32, Pos (8,8)
+msgid "So promise me you'll stay with me, Mikan!!"
+msgstr "だからミカン、一緒にいるって約束して！"

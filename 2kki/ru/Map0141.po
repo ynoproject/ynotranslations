@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 5, Page 1, Line 44, Pos (7,0)
 #. ID 5, Page 1, Line 86, Pos (7,0)
 msgid "\\^"
-msgstr ""
+msgstr "\\^"
 
 #. ID 5, Page 1, Line 462, Pos (7,0)
 msgid ""
@@ -23,5 +23,5 @@ msgid ""
 "\\>　      左:\\V[5] 中:\\V[6] 右:\\V[7]"
 msgstr ""
 "\\>Итог:\\V[9]\n"
-"\\>Лево:\\V[2]Центр:\\V[3]Право:\\V[4]\n"
-"\\>Лево:\\V[5]Центр:\\V[6]Право:\\V[7]"
+"\\>Лево:\\V[2] Центр:\\V[3] Право:\\V[4]\n"
+"\\>Лево:\\V[5] Центр:\\V[6] Право:\\V[7]"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 79, Page 1, Line 6, Pos (3,53)
 #. ID 79, Page 2, Line 6, Pos (3,53)
@@ -23,4 +23,4 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　  Надгробие\\<\\|\\^"
+"\\>　　　　　　　      Надгробие\\<\\|\\^"

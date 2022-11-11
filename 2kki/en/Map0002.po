@@ -71,7 +71,7 @@ msgid ""
 "\\>♪再生中：カーソル移動音 \\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Now Playing: Cursor Sound \\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 951, Pos (12,5)
@@ -81,7 +81,7 @@ msgid ""
 "\\>♪再生中：決定音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Now Playing: Select Sound\\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 956, Pos (12,5)
@@ -91,7 +91,7 @@ msgid ""
 "\\>♪再生中：キャンセル音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Now Playing: Cancel Sound\\<\\.\\.\\^"
 
 #. ID 6, Page 5, Line 330, Pos (12,5)
@@ -761,7 +761,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おおかみ"
-msgstr "Wolf"
+msgstr "Wolf "
 
 #. ID 12, Page 2, Line 11, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -775,7 +775,7 @@ msgstr "Bike"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Twintails"
+msgstr "Twintails "
 
 #. ID 12, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -791,7 +791,7 @@ msgstr "Glasses"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "はにわ"
-msgstr "Haniwa"
+msgstr "Haniwa "
 
 #. ID 12, Page 2, Line 27, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -853,7 +853,7 @@ msgstr "Rainbow"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めだま"
-msgstr "Eyeball"
+msgstr "Eyeball "
 
 #. ID 12, Page 2, Line 81, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -1011,42 +1011,42 @@ msgctxt "actors.name"
 msgid "クト解除）"
 msgstr "(Removed)"
 
-#. ID 12, Page 3, Line 20, Pos (13,5)
+#. ID 12, Page 3, Line 23, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 27, Pos (13,5)
+#. ID 12, Page 3, Line 30, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#. ID 12, Page 3, Line 40, Pos (13,5)
+#. ID 12, Page 3, Line 43, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 87, Pos (13,5)
+#. ID 12, Page 3, Line 90, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]使用中"
 msgstr "\\C[1]Enabled"
 
-#. ID 12, Page 3, Line 23, Pos (13,5)
+#. ID 12, Page 3, Line 26, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 30, Pos (13,5)
+#. ID 12, Page 3, Line 33, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#. ID 12, Page 3, Line 44, Pos (13,5)
+#. ID 12, Page 3, Line 47, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 91, Pos (13,5)
+#. ID 12, Page 3, Line 94, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]未使用"
 msgstr "\\C[2]Disabled"
 
-#. ID 12, Page 3, Line 33, Pos (13,5)
+#. ID 12, Page 3, Line 36, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[0]エフェ"
 msgstr "\\C[0]"
 
-#. ID 12, Page 3, Line 35, Pos (13,5)
+#. ID 12, Page 3, Line 38, Pos (13,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> ★ シフトキー拡張機能 ★ "
 msgstr "\\> ★ Shift Key Functionality ★ "
 
-#. ID 12, Page 3, Line 36, Pos (13,5)
+#. ID 12, Page 3, Line 39, Pos (13,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>お気に入りエフェクト　　:\\N[4]\n"
@@ -1057,23 +1057,23 @@ msgstr ""
 "\\>\\N[5]Effect Shift Key: \\N[6]\n"
 "\\>\\C[0]Exit"
 
-#. ID 12, Page 3, Line 41, Pos (13,5)
+#. ID 12, Page 3, Line 44, Pos (13,5)
 #. ChangeHeroName (Actor 5)
-#. ID 12, Page 3, Line 88, Pos (13,5)
+#. ID 12, Page 3, Line 91, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "使わない"
 msgstr "Off"
 
-#. ID 12, Page 3, Line 45, Pos (13,5)
+#. ID 12, Page 3, Line 48, Pos (13,5)
 #. ChangeHeroName (Actor 5)
-#. ID 12, Page 3, Line 92, Pos (13,5)
+#. ID 12, Page 3, Line 95, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "使う"
 msgstr "On"
 
-#. ID 12, Page 3, Line 48, Pos (13,5)
+#. ID 12, Page 3, Line 51, Pos (13,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\> ★ お気に入りエフェクト ★ \n"
@@ -1082,7 +1082,7 @@ msgstr ""
 "\\> ★ Favorite Effect ★ \n"
 "\\>* Current Setting: \\N[4]\\C[0]　\\N[2]\\N[3]"
 
-#. ID 12, Page 3, Line 50, Pos (13,5)
+#. ID 12, Page 3, Line 53, Pos (13,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>\\N[5]\n"
@@ -1091,7 +1091,7 @@ msgstr ""
 "\\>\\N[5]\n"
 "\\>Help"
 
-#. ID 12, Page 3, Line 55, Pos (13,5)
+#. ID 12, Page 3, Line 58, Pos (13,5)
 msgid ""
 "\\>※\"使う\"に変更しました。\n"
 "\\>　登録エフェクトを変更するときは、\n"
@@ -1103,12 +1103,12 @@ msgstr ""
 "\\>　use the drawer in your dream room\n"
 "\\>　with the effect you want to register."
 
-#. ID 12, Page 3, Line 61, Pos (13,5)
-#. ID 12, Page 3, Line 105, Pos (13,5)
+#. ID 12, Page 3, Line 64, Pos (13,5)
+#. ID 12, Page 3, Line 108, Pos (13,5)
 msgid "\\>※\"使わない\"に変更しました。"
 msgstr "\\>* Set to 'Off'."
 
-#. ID 12, Page 3, Line 67, Pos (13,5)
+#. ID 12, Page 3, Line 70, Pos (13,5)
 msgid ""
 "\\>　★「お気に入りエフェクト」機能について★\n"
 "※エフェクトを一つお気に入りに登録します。\n"
@@ -1119,7 +1119,7 @@ msgstr ""
 "* You may only register one effect at a time.\n"
 "  Press shift to use the registered effect."
 
-#. ID 12, Page 3, Line 71, Pos (13,5)
+#. ID 12, Page 3, Line 74, Pos (13,5)
 msgid ""
 "\\>　★「お気に入りエフェクト」機能について★\n"
 "※登録エフェクト使用中にシフトを長押しすると、\n"
@@ -1130,7 +1130,7 @@ msgstr ""
 "* If you press shift while using the registered\n"
 "  effect, it will use your previously used effect."
 
-#. ID 12, Page 3, Line 95, Pos (13,5)
+#. ID 12, Page 3, Line 98, Pos (13,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
@@ -1139,7 +1139,7 @@ msgstr ""
 "\\> ★ Effect Shift Change ★ \n"
 "\\>* Current Setting: \\N[6]\\C[0]"
 
-#. ID 12, Page 3, Line 97, Pos (13,5)
+#. ID 12, Page 3, Line 100, Pos (13,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>\\N[5]\n"
@@ -1148,40 +1148,40 @@ msgstr ""
 "\\>\\N[5]\n"
 "\\>Help / Options"
 
-#. ID 12, Page 3, Line 102, Pos (13,5)
+#. ID 12, Page 3, Line 105, Pos (13,5)
 msgid "\\>※\"使う\"に変更しました。"
 msgstr "\\>* Set to 'On'."
 
-#. ID 12, Page 3, Line 116, Pos (13,5)
+#. ID 12, Page 3, Line 119, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[2]エフェクト解除する"
 msgstr "\\C[2]Remove Effect"
 
-#. ID 12, Page 3, Line 119, Pos (13,5)
+#. ID 12, Page 3, Line 122, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[1]なにもしない"
 msgstr "\\C[1]Do Nothing"
 
-#. ID 12, Page 3, Line 123, Pos (13,5)
+#. ID 12, Page 3, Line 126, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]お気に入りエフェクト"
 msgstr "\\C[2]Favorite Effect"
 
-#. ID 12, Page 3, Line 126, Pos (13,5)
+#. ID 12, Page 3, Line 129, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]エフェクト解除"
 msgstr "\\C[1]Remove Effect"
 
-#. ID 12, Page 3, Line 129, Pos (13,5)
+#. ID 12, Page 3, Line 132, Pos (13,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> ★ エフェクトシフトチェンジ ★ おぷしょん"
 msgstr "\\> ★ Effect Shift Change ★ Options"
 
-#. ID 12, Page 3, Line 130, Pos (13,5)
+#. ID 12, Page 3, Line 133, Pos (13,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>同じ項目を選んだ時：\\N[5]\\C[0]\n"
@@ -1192,7 +1192,7 @@ msgstr ""
 "\\>When up key is pressed  : \\N[6]\\C[0]\n"
 "\\>Help"
 
-#. ID 12, Page 3, Line 135, Pos (13,5)
+#. ID 12, Page 3, Line 138, Pos (13,5)
 msgid ""
 "\\>※\"なにもしない\"に変更しました。\n"
 "\n"
@@ -1204,11 +1204,11 @@ msgstr ""
 "\\>Selecting the same effect as you are using\n"
 "\\>will not cancel your effect."
 
-#. ID 12, Page 3, Line 142, Pos (13,5)
+#. ID 12, Page 3, Line 145, Pos (13,5)
 msgid "\\>※\"エフェクト解除する\"に変更しました。"
 msgstr "\\>* Set to \"Remove Effect\"."
 
-#. ID 12, Page 3, Line 150, Pos (13,5)
+#. ID 12, Page 3, Line 153, Pos (13,5)
 msgid ""
 "\\>※\"エフェクト解除\"に変更しました。\n"
 "\n"
@@ -1220,7 +1220,7 @@ msgstr ""
 "\\>Remove your effect by pressing up.\n"
 "\\>Use your favorite effect by pressing down."
 
-#. ID 12, Page 3, Line 157, Pos (13,5)
+#. ID 12, Page 3, Line 160, Pos (13,5)
 msgid ""
 "\\>※\"お気に入りエフェクト\"に変更しました。\n"
 "\n"
@@ -1232,7 +1232,7 @@ msgstr ""
 "\\>Pressing either up or down will use your\n"
 "\\>favorite effect."
 
-#. ID 12, Page 3, Line 165, Pos (13,5)
+#. ID 12, Page 3, Line 168, Pos (13,5)
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "シフトキーでエフェクトを選ぶ画面が出る機能です。\n"
@@ -1242,7 +1242,7 @@ msgstr ""
 "Pressing shift displays an effect selection screen.\n"
 "You can still use the regular menu as usual."
 
-#. ID 12, Page 3, Line 168, Pos (13,5)
+#. ID 12, Page 3, Line 171, Pos (13,5)
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "また、シフトキーを押してから下キーを押すと\n"

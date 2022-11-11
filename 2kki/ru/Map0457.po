@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1, Page 1, Line 31, Pos (0,0)
 #. ID 1, Page 2, Line 31, Pos (0,0)
@@ -24,7 +24,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>                          ED №--- 「君への労い」"
+"\\>                         ED №--- (Труд для Тебя)"
 
 #. ID 11, Page 1, Line 2, Pos (3,8)
 #. Contains choice at line 3 (1 options)
@@ -532,6 +532,12 @@ msgid ""
 "\\>　...and DREAMY PLAYERS...\\<\\|\\|\\|\\|\\|\\^"
 msgstr ""
 
+#. ID 27, Page 3, Line 2, Pos (2,7)
+#. Condition (Actor Name = 裏SREDの処理で使用した便利スイッチ・変数)
+msgctxt "actors.name"
+msgid "裏SREDの処理で使用した便利スイッチ・変数"
+msgstr ""
+
 #. ID 27, Page 3, Line 129, Pos (2,7)
 msgid ""
 "\\>\n"
@@ -542,7 +548,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"         \\S[4]ED №\\.\\C[5]-\\.-\\.-\\S[5]\\|「皆への労い」\\|"
+"       \\S[4]ED №\\.\\C[5]-\\.-\\.-\\S[5]\\|(Общий труд)\\|"
 
 #. ID 27, Page 3, Line 149, Pos (2,7)
 #. ChangeHeroName (Actor 1)

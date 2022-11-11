@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 2, Page 1, Line 7, Pos (26,3)
+msgid "Ｐ獲得：通常クリア！"
+msgstr "Ponto adquirido: Conclusão normal!"
+
+#. ID 2, Page 1, Line 15, Pos (26,3)
+msgid "Ｐ獲得：短時間クリア！"
+msgstr "Ponto adquirido: Conclusão rápida!"
+
+#. ID 2, Page 1, Line 20, Pos (26,3)
+msgid "Ｐ未獲得：短時間クリア"
+msgstr "Pontos não adquiridos: Conclusão rápida "
+
+#. ID 2, Page 1, Line 28, Pos (26,3)
+msgid "Ｐ獲得：チップ回収クリア！"
+msgstr ""
+"Ponto adquirido: Concluido com todas as fichas\n"
+"coletadas!"
+
+#. ID 2, Page 1, Line 33, Pos (26,3)
+msgid "Ｐ未獲得：チップ回収クリア"
+msgstr ""
+"Pontos não adquiridos: Conclusão com todas as\n"
+"fichas coletadas"
+
+#. ID 2, Page 1, Line 41, Pos (26,3)
+msgid "Ｐ獲得：ノーミスクリア！"
+msgstr "Ponto adquirido: Conclusão impecável!"
+
+#. ID 2, Page 1, Line 46, Pos (26,3)
+msgid "Ｐ未獲得：ノーミスクリア"
+msgstr "Pontos não adquiridos: Conclusão impecável"
+
+#. ID 2, Page 1, Line 54, Pos (26,3)
+msgid "Ｐ獲得：全セーブポイント通過クリア！"
+msgstr ""
+"Ponto adquirido: Concluido com todos os pontos\n"
+"de save!"
+
+#. ID 2, Page 1, Line 59, Pos (26,3)
+msgid "Ｐ未獲得：全セーブポイント通過クリア"
+msgstr ""
+"Pontos não adquiridos: Concluido com todos od\n"
+"pontos de save"

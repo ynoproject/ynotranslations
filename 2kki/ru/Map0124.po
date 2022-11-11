@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 70, Page 1, Line 9, Pos (4,42)
 msgid ""
@@ -18,8 +18,8 @@ msgid ""
 "プレイできるのはここまでになります。\n"
 "プレイ頂きありがとうございました。"
 msgstr ""
-"↑Ｖ↑Ещё в разработке,\n"
-"Дальше, чем до сюда, пройти нельзя.\n"
+"↑Ｖ↑ Ещё в разработке,\n"
+"Пройти дальше, чем до сюда, нельзя.\n"
 "Спасибо за игру."
 
 #. ID 70, Page 1, Line 98, Pos (4,42)

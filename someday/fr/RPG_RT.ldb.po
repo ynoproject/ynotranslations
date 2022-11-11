@@ -190,7 +190,7 @@ msgstr "Certains poissons sont fascinants."
 #. ID 17
 msgctxt "skills.name"
 msgid "Tinnitus"
-msgstr "Tintement"
+msgstr "Acouphène"
 
 #. ID 17
 msgctxt "skills.description"
@@ -346,6 +346,26 @@ msgstr "Guêpes"
 msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
 msgstr "Tuer les guêpes dans la forêt et revenir."
+
+#. ID 33
+msgctxt "skills.name"
+msgid "H: Music collector"
+msgstr "C: Fan de musique"
+
+#. ID 33
+msgctxt "skills.description"
+msgid "Unlock every music from Music Folders"
+msgstr "Débloquer toutes les musiques des dossiers."
+
+#. ID 34
+msgctxt "skills.name"
+msgid "H: >9000"
+msgstr "C: >9000"
+
+#. ID 34
+msgctxt "skills.description"
+msgid "Achieve 9001 or more points on any ZapNeF minigame"
+msgstr "Marquer 9001 points ou plus sur un niveau de ZapNeF."
 
 #. ID 1
 msgctxt "items.name"
@@ -857,6 +877,26 @@ msgctxt "items.description"
 msgid "Don't be afraid to be yourself"
 msgstr "N'aie pas peur d'être toi-même."
 
+#. ID 52
+msgctxt "items.name"
+msgid "(Version: Vanilla)"
+msgstr ""
+
+#. ID 52
+msgctxt "items.description"
+msgid "(It's Vanilla version.)"
+msgstr "(C'est la version de base.)"
+
+#. ID 53
+msgctxt "items.name"
+msgid "(Version: Extended)"
+msgstr ""
+
+#. ID 53
+msgctxt "items.description"
+msgid "Extention pack has been applied."
+msgstr "Le pack d'extension a été appliqué."
+
 #. ID 1
 msgctxt "states.message_actor"
 msgid "‚Í“|‚ê‚½I"
@@ -1006,11 +1046,11 @@ msgstr "に弱くなった！"
 
 msgctxt "terms.level_up"
 msgid " obtained!"
-msgstr "obtenu !"
+msgstr " obtenu !"
 
 msgctxt "terms.skill_learned"
 msgid " was learned!"
-msgstr "a été appris !"
+msgstr " a été appris !"
 
 msgctxt "terms.battle_start"
 msgid "yo wanna fight"
@@ -1158,7 +1198,7 @@ msgstr "Une auberge"
 
 msgctxt "terms.inn_a_greeting_2"
 msgid " to stay here."
-msgstr "pour rester la nuit."
+msgstr " pour rester la nuit."
 
 msgctxt "terms.inn_a_greeting_3"
 msgid "Would you like to stay?"
@@ -1178,7 +1218,7 @@ msgstr "C'est seulement"
 
 msgctxt "terms.inn_b_greeting_2"
 msgid " for a warm bed."
-msgstr "pour un bon lit."
+msgstr " pour un bon lit."
 
 msgctxt "terms.inn_b_greeting_3"
 msgid "How about spending the night?"
