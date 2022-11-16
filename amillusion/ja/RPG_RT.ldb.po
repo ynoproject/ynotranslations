@@ -1,22 +1,26 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1
 msgctxt "actors.name"
 msgid "Danae"
-msgstr "Danae"
+msgstr ""
 
 #. ID 1
 msgctxt "actors.title"
 msgid "Danette^^"
-msgstr "Danette^^"
+msgstr ""
 
 #. ID 1
 msgctxt "skills.name"
@@ -119,6 +123,7 @@ msgid "Bad Girl"
 msgstr "チンピラ"
 
 #. ID 13
+#, fuzzy
 msgctxt "items.description"
 msgid "Wesh gros, ça va la famille ?"
 msgstr "Wesh gros"
@@ -134,169 +139,178 @@ msgid "Instructions"
 msgstr "指示"
 
 #. ID 16
+#, fuzzy
 msgctxt "items.name"
 msgid "Souris verte"
 msgstr "Souris verte"
 
 #. ID 16
+#, fuzzy
 msgctxt "items.description"
 msgid "Je la montre à ces messieurs..."
-msgstr ""
+msgstr "Je la montre  ces messieurs..."
 
 #. ID 17
+#, fuzzy
 msgctxt "items.name"
 msgid "Souris Verte"
-msgstr ""
+msgstr "Souris Verte"
 
 #. ID 17
+#, fuzzy
 msgctxt "items.description"
 msgid "Trempez-la dans l'huile, trempez-la dans l'eau..."
-msgstr ""
+msgstr "Trempez-la dans l'huile, trempez-la dans l'eau..."
 
 #. ID 18
+#, fuzzy
 msgctxt "items.name"
 msgid "(Souris Verte)"
-msgstr ""
+msgstr "(Souris Verte)"
 
 #. ID 19
+#, fuzzy
 msgctxt "items.name"
 msgid "Souris verte + huile"
-msgstr ""
+msgstr "Souris verte + huile"
 
 #. ID 19
+#, fuzzy
 msgctxt "items.description"
 msgid "Ces messieurs me disent..."
-msgstr ""
+msgstr "Ces messieurs me disent..."
 
 #. ID 20
+#, fuzzy
 msgctxt "items.name"
 msgid "(Souris verte+huile)"
-msgstr ""
+msgstr "(Souris verte+huile)"
 
 #. ID 21
+#, fuzzy
 msgctxt "items.name"
 msgid "(Souris verte)"
-msgstr ""
+msgstr "(Souris verte)"
 
 #. ID 22
 msgctxt "items.name"
 msgid "Cougar"
-msgstr ""
+msgstr "熟女"
 
 #. ID 22
 msgctxt "items.description"
 msgid "A very special feline..."
-msgstr ""
+msgstr "ニャー ニャー ニャー"
 
 #. ID 23
 msgctxt "items.name"
 msgid "(Cougar)"
-msgstr ""
+msgstr "(熟女)"
 
 #. ID 24
 msgctxt "items.name"
 msgid "Screw"
-msgstr ""
+msgstr "ねじ"
 
 #. ID 24
 msgctxt "items.description"
 msgid "Never miss the bottom of things."
-msgstr ""
+msgstr "物事の奥深さを看ます"
 
 #. ID 25
 msgctxt "items.name"
 msgid "(Screw)"
-msgstr ""
+msgstr "(ねじ)"
 
 #. ID 26
 msgctxt "items.name"
 msgid "Gossip"
-msgstr ""
+msgstr "噂話"
 
 #. ID 26
 msgctxt "items.description"
 msgid "We could have called him \"spy\" !"
-msgstr ""
+msgstr "と聞いていたのですが......。"
 
 #. ID 27
 msgctxt "items.name"
 msgid "(Gossip)"
-msgstr ""
+msgstr "(噂話)"
 
 #. ID 28
 msgctxt "items.name"
 msgid "Chewing gum"
-msgstr ""
+msgstr "チューインガム"
 
 #. ID 28
 msgctxt "items.description"
 msgid "I think you need to be a bit more flexible."
-msgstr ""
+msgstr "イチゴ味？ミントの香り ?"
 
 #. ID 29
 msgctxt "items.name"
 msgid "(Chewing gum)"
-msgstr ""
+msgstr "(チューインガム)"
 
 #. ID 30
 msgctxt "items.name"
 msgid "Cherry"
-msgstr ""
+msgstr "さくらんぼ"
 
 #. ID 30
 msgctxt "items.description"
 msgid "Cherry cherry cherry bonbon."
-msgstr ""
+msgstr "チェリーボンボン"
 
 #. ID 31
 msgctxt "items.name"
 msgid "(Cherry)"
-msgstr ""
+msgstr "(さくらんぼ)"
 
 #. ID 32
 msgctxt "items.name"
 msgid "Magic Box"
-msgstr ""
+msgstr "マジックボックス"
 
 #. ID 32
 msgctxt "items.description"
 msgid "Do you know how to divide by 3 ?"
-msgstr ""
+msgstr "三で割る方法を知っていますか?"
 
 #. ID 33
 msgctxt "items.name"
 msgid "(Magic Box)"
-msgstr ""
+msgstr "(マジックボックス)"
 
 #. ID 34
 msgctxt "items.name"
 msgid "Shopping"
-msgstr ""
+msgstr "ショッピング"
 
 #. ID 34
 msgctxt "items.description"
 msgid "The saaaaaaaaaaaaaaaaales !!"
-msgstr ""
+msgstr "バーゲンセール"
 
 #. ID 35
 msgctxt "items.name"
 msgid "(Shopping)"
-msgstr ""
+msgstr "(ショッピング)"
 
 #. ID 36
 msgctxt "items.name"
 msgid "Believer"
-msgstr ""
+msgstr "教徒"
 
 #. ID 36
 msgctxt "items.description"
 msgid "Open your mind..."
-msgstr ""
+msgstr "あなたの精霊を拓く"
 
 #. ID 37
 msgctxt "items.name"
 msgid "(Believer)"
-msgstr ""
+msgstr "(教徒)"
 
 #. ID 38
 msgctxt "items.name"
@@ -316,22 +330,22 @@ msgstr ""
 #. ID 40
 msgctxt "items.name"
 msgid "Calendar"
-msgstr ""
+msgstr "カレンダ"
 
 #. ID 40
 msgctxt "items.description"
 msgid "Time to turn the page..."
-msgstr ""
+msgstr "一年一鍵"
 
 #. ID 41
 msgctxt "items.name"
 msgid "(Calendar)"
-msgstr ""
+msgstr "(カレンダ)"
 
 #. ID 42
 msgctxt "items.name"
 msgid "Parrot"
-msgstr ""
+msgstr "鸚鵡"
 
 #. ID 42
 msgctxt "items.description"
@@ -341,7 +355,7 @@ msgstr ""
 #. ID 43
 msgctxt "items.name"
 msgid "(Parrot)"
-msgstr ""
+msgstr "(鸚鵡)"
 
 #. ID 44
 msgctxt "items.name"
@@ -361,7 +375,7 @@ msgstr ""
 #. ID 46
 msgctxt "items.name"
 msgid "Radiator"
-msgstr ""
+msgstr "ラジエーター"
 
 #. ID 46
 msgctxt "items.description"
@@ -371,27 +385,27 @@ msgstr ""
 #. ID 47
 msgctxt "items.name"
 msgid "(Radiator)"
-msgstr ""
+msgstr "(ラジエーター)"
 
 #. ID 48
 msgctxt "items.name"
 msgid "Shamrock"
-msgstr ""
+msgstr "福"
 
 #. ID 48
 msgctxt "items.description"
 msgid "What's going to happen this time..."
-msgstr ""
+msgstr "今度はどうなるのか"
 
 #. ID 49
 msgctxt "items.name"
 msgid "(Shamrock)"
-msgstr ""
+msgstr "(福)"
 
 #. ID 50
 msgctxt "items.name"
 msgid "Skis"
-msgstr ""
+msgstr "スキー"
 
 #. ID 50
 msgctxt "items.description"
@@ -401,7 +415,7 @@ msgstr ""
 #. ID 51
 msgctxt "items.name"
 msgid "(Skis)"
-msgstr ""
+msgstr "(スキー)"
 
 #. ID 1
 msgctxt "enemies.name"
@@ -986,17 +1000,17 @@ msgstr ""
 #. ID 1
 msgctxt "states.message_actor"
 msgid "‚Í“|‚ê‚½I"
-msgstr ""
+msgstr "は倒れた！"
 
 #. ID 1
 msgctxt "states.message_enemy"
 msgid "‚ð“|‚µ‚½I"
-msgstr ""
+msgstr "を倒した！"
 
 #. ID 1
 msgctxt "states.message_recovery"
 msgid "‚Í—§‚¿ã‚ª‚Á‚½I"
-msgstr ""
+msgstr "は立ち上がった！"
 
 #. ID 2
 msgctxt "states.name"
@@ -1006,22 +1020,22 @@ msgstr ""
 #. ID 2
 msgctxt "states.message_actor"
 msgid "‚Í“Å‚É–`‚³‚ê‚½I"
-msgstr ""
+msgstr "は毒に冒された！"
 
 #. ID 2
 msgctxt "states.message_enemy"
 msgid "‚Í“Å‚É–`‚³‚ê‚½I"
-msgstr ""
+msgstr "は毒に冒された！"
 
 #. ID 2
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚É“Å‚É–`‚³‚ê‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに毒に冒されている！"
 
 #. ID 2
 msgctxt "states.message_recovery"
 msgid "‚Ì“Å‚ªÁ‚¦‚½I"
-msgstr ""
+msgstr "の毒が消えた！"
 
 #. ID 3
 msgctxt "states.name"
@@ -1031,22 +1045,22 @@ msgstr ""
 #. ID 3
 msgctxt "states.message_actor"
 msgid "‚ÍˆÃˆÅ‚É•Â‚´‚³‚ê‚½I"
-msgstr ""
+msgstr "は暗闇に閉ざされた！"
 
 #. ID 3
 msgctxt "states.message_enemy"
 msgid "‚ðˆÃˆÅ‚É•Â‚´‚µ‚½I"
-msgstr ""
+msgstr "を暗闇に閉ざした！"
 
 #. ID 3
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚ÉˆÃˆÅ‚É•Â‚´‚³‚ê‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに暗闇に閉ざされている！"
 
 #. ID 3
 msgctxt "states.message_recovery"
 msgid "‚ÌˆÃˆÅ‚ªÁ‚¦‚½I"
-msgstr ""
+msgstr "の暗闇が消えた！"
 
 #. ID 4
 msgctxt "states.name"
@@ -1056,22 +1070,22 @@ msgstr ""
 #. ID 4
 msgctxt "states.message_actor"
 msgid "‚Í’¾–Ù‚µ‚½I"
-msgstr ""
+msgstr "は沈黙した！"
 
 #. ID 4
 msgctxt "states.message_enemy"
 msgid "‚ð’¾–Ù‚³‚¹‚½I"
-msgstr ""
+msgstr "を沈黙させた！"
 
 #. ID 4
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚É’¾–Ù‚µ‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに沈黙している！"
 
 #. ID 4
 msgctxt "states.message_recovery"
 msgid "‚Ì’¾–Ù‚ª‰ð‚¯‚½I"
-msgstr ""
+msgstr "の沈黙が解けた！"
 
 #. ID 5
 msgctxt "states.name"
@@ -1081,23 +1095,23 @@ msgstr ""
 #. ID 5
 msgctxt "states.message_actor"
 msgid "‚Í–\\‘–‚µ‚½I"
-msgstr ""
+msgstr "は暴走した！"
 
 #. ID 5
 msgctxt "states.message_enemy"
 msgid "‚ð–\\‘–‚³‚¹‚½I"
-msgstr ""
+msgstr "を暴走させた！"
 
 #. ID 5
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚É–\\‘–‚µ‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに暴走している！"
 
 #. ID 5
 #. ID 6
 msgctxt "states.message_recovery"
 msgid "‚Í‰ä‚É•Ô‚Á‚½I"
-msgstr ""
+msgstr "は我に返った！"
 
 #. ID 6
 msgctxt "states.name"
@@ -1107,17 +1121,17 @@ msgstr ""
 #. ID 6
 msgctxt "states.message_actor"
 msgid "‚Í¬—‚µ‚½I"
-msgstr ""
+msgstr "は混乱した！"
 
 #. ID 6
 msgctxt "states.message_enemy"
 msgid "‚ð¬—‚³‚¹‚½I"
-msgstr ""
+msgstr "を混乱させた！"
 
 #. ID 6
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚É¬—‚µ‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに混乱している！"
 
 #. ID 7
 msgctxt "states.name"
@@ -1127,27 +1141,27 @@ msgstr ""
 #. ID 7
 msgctxt "states.message_actor"
 msgid "‚Í–°‚Á‚Ä‚µ‚Ü‚Á‚½I"
-msgstr ""
+msgstr "は眠ってしまった！"
 
 #. ID 7
 msgctxt "states.message_enemy"
 msgid "‚ð–°‚ç‚¹‚½I"
-msgstr ""
+msgstr "を眠らせた！"
 
 #. ID 7
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚É–°‚Á‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに眠っている！"
 
 #. ID 7
 msgctxt "states.message_affected"
 msgid "‚Í–°‚Á‚Ä‚¢‚éEEE"
-msgstr ""
+msgstr "は眠っている・・・"
 
 #. ID 7
 msgctxt "states.message_recovery"
 msgid "‚Í–Ú‚ðŠo‚Ü‚µ‚½I"
-msgstr ""
+msgstr "は目を覚ました！"
 
 #. ID 8
 msgctxt "states.name"
@@ -1157,27 +1171,27 @@ msgstr ""
 #. ID 8
 msgctxt "states.message_actor"
 msgid "‚Í–ƒáƒ‚µ‚Ä“®‚¯‚È‚­‚È‚Á‚½I"
-msgstr ""
+msgstr "は麻痺して動けなくなった！"
 
 #. ID 8
 msgctxt "states.message_enemy"
 msgid "‚ð–ƒáƒ‚³‚¹‚½I"
-msgstr ""
+msgstr "を麻痺させた！"
 
 #. ID 8
 msgctxt "states.message_already"
 msgid "‚Í‚·‚Å‚É–ƒáƒ‚µ‚Ä‚¢‚éI"
-msgstr ""
+msgstr "はすでに麻痺している！"
 
 #. ID 8
 msgctxt "states.message_affected"
 msgid "‚Í–ƒáƒ‚µ‚Ä‚¢‚Ä“®‚¯‚È‚¢I"
-msgstr ""
+msgstr "は麻痺していて動けない！"
 
 #. ID 8
 msgctxt "states.message_recovery"
 msgid "‚Ì–ƒáƒ‚ª‰ð‚¯‚½I"
-msgstr ""
+msgstr "の麻痺が解けた！"
 
 #. ID 9
 msgctxt "states.name"
@@ -1187,22 +1201,22 @@ msgstr ""
 #. ID 9
 msgctxt "states.message_actor"
 msgid "‚Íƒoƒ‰ƒ“ƒX‚ð•ö‚µ‚½I"
-msgstr ""
+msgstr "はバランスを崩した！"
 
 #. ID 9
 msgctxt "states.message_enemy"
 msgid "‚Íƒoƒ‰ƒ“ƒX‚ð•ö‚µ‚½I"
-msgstr ""
+msgstr "はバランスを崩した！"
 
 #. ID 9
 msgctxt "states.message_affected"
 msgid "‚Í‚æ‚ë‚ß‚¢‚Ä‚¢‚éEEE"
-msgstr ""
+msgstr "はよろめいている・・・"
 
 #. ID 9
 msgctxt "states.message_recovery"
 msgid "‚Í‚æ‚ë‚ß‚¢‚Ä‚¢‚éEEE"
-msgstr ""
+msgstr "はよろめいている・・・"
 
 #. ID 10
 msgctxt "states.name"
@@ -1212,22 +1226,22 @@ msgstr ""
 #. ID 10
 msgctxt "states.message_actor"
 msgid "‚Í—§‚¿‚·‚­‚ñ‚¾I"
-msgstr ""
+msgstr "は立ちすくんだ！"
 
 #. ID 10
 msgctxt "states.message_enemy"
 msgid "‚Í—§‚¿‚·‚­‚ñ‚¾I"
-msgstr ""
+msgstr "は立ちすくんだ！"
 
 #. ID 10
 msgctxt "states.message_affected"
 msgid "‚Í—§‚¿‚·‚­‚ñ‚Å‚¢‚éEEE"
-msgstr ""
+msgstr "は立ちすくんでいる・・・"
 
 #. ID 10
 msgctxt "states.message_recovery"
 msgid "‚Í—§‚¿‚·‚­‚ñ‚Å‚¢‚éEEE"
-msgstr ""
+msgstr "は立ちすくんでいる・・・"
 
 msgctxt "terms.special_combat"
 msgid "Caught the enemy off-guard!"
@@ -1267,99 +1281,99 @@ msgstr ""
 
 msgctxt "terms.enemy_critical"
 msgid "‰ïS‚ÌˆêŒ‚II"
-msgstr ""
+msgstr "会心の一撃！！"
 
 msgctxt "terms.actor_critical"
 msgid "’É¦‚ÌˆêŒ‚II"
-msgstr ""
+msgstr "痛恨の一撃！！"
 
 msgctxt "terms.defending"
 msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
-msgstr ""
+msgstr "は身を守っている！"
 
 msgctxt "terms.observing"
 msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
-msgstr ""
+msgstr "は様子を見ている・・・"
 
 msgctxt "terms.focus"
 msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
-msgstr ""
+msgstr "は力をためている・・・"
 
 msgctxt "terms.autodestruction"
 msgid "‚ÍŽ©”š‚µ‚½I"
-msgstr ""
+msgstr "は自爆した！"
 
 msgctxt "terms.enemy_escape"
 msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
-msgstr ""
+msgstr "は逃げてしまった！"
 
 msgctxt "terms.enemy_transform"
 msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
-msgstr ""
+msgstr "は姿を変えた！"
 
 msgctxt "terms.enemy_damaged"
 msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
-msgstr ""
+msgstr "のダメージを与えた！"
 
 msgctxt "terms.enemy_undamaged"
 msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
-msgstr ""
+msgstr "にダメージを与えられない！"
 
 msgctxt "terms.actor_damaged"
 msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
-msgstr ""
+msgstr "のダメージを受けた！"
 
 msgctxt "terms.actor_undamaged"
 msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
-msgstr ""
+msgstr "はダメージを受けていない！"
 
 msgctxt "terms.skill_failure_a"
 msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
-msgstr ""
+msgstr "には効かなかった！"
 
 msgctxt "terms.skill_failure_b"
 msgid "‚Í•½‹C‚¾‚Á‚½I"
-msgstr ""
+msgstr "は平気だった！"
 
 msgctxt "terms.skill_failure_c"
 msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
-msgstr ""
+msgstr "は眠らなかった！"
 
 msgctxt "terms.dodge"
 msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
-msgstr ""
+msgstr "は攻撃をかわした！"
 
 msgctxt "terms.use_item"
 msgid "‚ðŽg‚Á‚½I"
-msgstr ""
+msgstr "を使った！"
 
 msgctxt "terms.hp_recovery"
 msgid "‰ñ•œ‚µ‚½I"
-msgstr ""
+msgstr "回復した！"
 
 msgctxt "terms.parameter_increase"
 msgid "ã‚ª‚Á‚½I"
-msgstr ""
+msgstr "上がった！"
 
 msgctxt "terms.parameter_decrease"
 msgid "‰º‚ª‚Á‚½I"
-msgstr ""
+msgstr "下がった！"
 
 msgctxt "terms.enemy_hp_absorbed"
 msgid "’D‚Á‚½I"
-msgstr ""
+msgstr "奪った！"
 
 msgctxt "terms.actor_hp_absorbed"
 msgid "’D‚í‚ê‚½I"
-msgstr ""
+msgstr "奪われた！"
 
 msgctxt "terms.resistance_increase"
 msgid "‚É‹­‚­‚È‚Á‚½I"
-msgstr ""
+msgstr "に強くなった！"
 
 msgctxt "terms.resistance_decrease"
 msgid "‚ÉŽã‚­‚È‚Á‚½I"
-msgstr ""
+msgstr "に弱くなった！"
 
 msgctxt "terms.level_up"
 msgid "reached"
@@ -1553,9 +1567,10 @@ msgctxt "terms.equipped_items"
 msgid "Equipped"
 msgstr ""
 
+#, fuzzy
 msgctxt "terms.gold"
 msgid "€"
-msgstr ""
+msgstr ""
 
 msgctxt "terms.battle_fight"
 msgid "Fight"
@@ -1571,19 +1586,19 @@ msgstr ""
 
 msgctxt "terms.command_attack"
 msgid "UŒ‚"
-msgstr ""
+msgstr "攻撃"
 
 msgctxt "terms.command_defend"
 msgid "–hŒä"
-msgstr ""
+msgstr "防御"
 
 msgctxt "terms.command_item"
 msgid "Keys"
-msgstr ""
+msgstr "キー"
 
 msgctxt "terms.command_skill"
 msgid "Wake up"
-msgstr ""
+msgstr "目を覚ます"
 
 msgctxt "terms.menu_equipment"
 msgid "Equipment"
@@ -1591,7 +1606,7 @@ msgstr ""
 
 msgctxt "terms.menu_save"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgctxt "terms.menu_quit"
 msgid "To Title"
@@ -1599,15 +1614,15 @@ msgstr ""
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr ""
+msgstr "はじめる"
 
 msgctxt "terms.load_game"
 msgid "Continue"
-msgstr ""
+msgstr "つづき"
 
 msgctxt "terms.exit_game"
 msgid "Shutdown"
-msgstr ""
+msgstr "おわり"
 
 msgctxt "terms.status"
 msgid "Status"
@@ -1703,27 +1718,27 @@ msgstr ""
 
 msgctxt "terms.save_game_message"
 msgid "Save to which file?"
-msgstr ""
+msgstr "どのファイルに保存しますか？"
 
 msgctxt "terms.load_game_message"
 msgid "Load which file?"
-msgstr ""
+msgstr "どのファイルを読み込む？"
 
 msgctxt "terms.file"
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 msgctxt "terms.exit_game_message"
 msgid "End the game?"
-msgstr ""
+msgstr "ゲームを終わらせる？"
 
 msgctxt "terms.yes"
 msgid "Yes"
-msgstr ""
+msgstr "はい "
 
 msgctxt "terms.no"
 msgid "No"
-msgstr ""
+msgstr "いや "
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
