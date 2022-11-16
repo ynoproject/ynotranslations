@@ -148,7 +148,7 @@ msgstr "Souris verte"
 #, fuzzy
 msgctxt "items.description"
 msgid "Je la montre à ces messieurs..."
-msgstr "Je la montre  ces messieurs..."
+msgstr "Je la montre à ces messieurs..."
 
 #. ID 17
 #, fuzzy
@@ -1570,7 +1570,7 @@ msgstr ""
 #, fuzzy
 msgctxt "terms.gold"
 msgid "€"
-msgstr ""
+msgstr "€"
 
 msgctxt "terms.battle_fight"
 msgid "Fight"
@@ -1905,4 +1905,3 @@ msgstr ""
 msgctxt "classes.name"
 msgid "Ninja B"
 msgstr ""
-
