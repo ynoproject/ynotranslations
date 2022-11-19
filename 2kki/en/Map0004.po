@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 5, Page 2, Line 10, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -158,7 +158,7 @@ msgstr "Invisible"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "がくラン"
-msgstr "Gakuran"
+msgstr "School Boy"
 
 #. ID 5, Page 2, Line 117, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -188,7 +188,7 @@ msgstr "Child"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "あかずきん"
-msgstr "Red Hood"
+msgstr "Red Riding Hood"
 
 #. ID 5, Page 2, Line 145, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -212,13 +212,13 @@ msgstr "Polygon"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "てるてる"
-msgstr "Paper"
+msgstr "Teru Teru"
 
 #. ID 5, Page 2, Line 158, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ぼうず"
-msgstr " Doll"
+msgstr " Bōzu"
 
 #. ID 5, Page 2, Line 162, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -242,7 +242,7 @@ msgstr "Grave"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Crossing"
+msgstr "Railroad Crossing"
 
 #. ID 5, Page 2, Line 178, Pos (13,5)
 #. ChangeHeroName (Actor 2)

@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: FlashfyreDev\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -160,7 +160,7 @@ msgstr "Invisible"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "がくラン"
-msgstr "Gakuran"
+msgstr "School Boy"
 
 #. ID 14, Line 115
 #. ChangeHeroName (Actor 8)
@@ -202,7 +202,7 @@ msgstr "Child"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "あかずきん"
-msgstr "Red Hood"
+msgstr "Red Riding Hood"
 
 #. ID 14, Line 143
 #. ChangeHeroName (Actor 8)
@@ -226,7 +226,7 @@ msgstr "Polygon"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "てるてるぼうず"
-msgstr "Paper Doll"
+msgstr "Teru Teru Bōzu"
 
 #. ID 14, Line 159
 #. ChangeHeroName (Actor 8)
@@ -250,7 +250,7 @@ msgstr "Grave"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Crossing"
+msgstr "Railroad Crossing"
 
 #. ID 14, Line 175
 #. ChangeHeroName (Actor 8)
