@@ -1,0 +1,1473 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Evergreen\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Ицуки"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Dreamer"
+msgstr "Грезящий"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "Rise up"
+msgstr "Подъём"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Defeat your bullies"
+msgstr "Разберитесь с обидчиками."
+
+#. ID 1
+msgctxt "skills.using_message1"
+msgid "‚ÌUŒ‚I"
+msgstr "-"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Fallen"
+msgstr "Падение"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Break the ice"
+msgstr "Разбейте лёд."
+
+#. ID 3
+msgctxt "skills.name"
+msgid "Kondo"
+msgstr "Кондо"
+
+#. ID 3
+msgctxt "skills.description"
+msgid "%À?"
+msgstr "*%?"
+
+#. ID 4
+msgctxt "skills.name"
+msgid "Paralyzed"
+msgstr "Паралич"
+
+#. ID 4
+msgctxt "skills.description"
+msgid "Open the door to your nightmares"
+msgstr "Откройте дверь своим кошмарам."
+
+#. ID 5
+msgctxt "skills.name"
+msgid "Oxidation"
+msgstr "Окисление"
+
+#. ID 5
+msgctxt "skills.description"
+msgid "Discover the truth among the tubes"
+msgstr "Найдите правду среди труб."
+
+#. ID 6
+msgctxt "skills.name"
+msgid "Reduction"
+msgstr "Уменьшение"
+
+#. ID 6
+msgctxt "skills.description"
+msgid "Get away safely"
+msgstr "Успешно выберитесь."
+
+#. ID 7
+msgctxt "skills.name"
+msgid "Snow"
+msgstr "Снег"
+
+#. ID 7
+msgctxt "skills.description"
+msgid "Make it snow in the ice world"
+msgstr "Призовите снег в Мире Снега."
+
+#. ID 8
+msgctxt "skills.name"
+msgid "Silent laughter"
+msgstr "Тихий смех"
+
+#. ID 8
+msgctxt "skills.description"
+msgid "No one is on your side"
+msgstr "Никто тебя не поддерживает."
+
+#. ID 9
+msgctxt "skills.name"
+msgid "AAAA99999"
+msgstr "АААА9999"
+
+#. ID 9
+msgctxt "skills.description"
+msgid "Change everything to A's and 9's"
+msgstr "Превратите всё в А и 9-ки."
+
+#. ID 10
+msgctxt "skills.name"
+msgid "Zero"
+msgstr "Зеро"
+
+#. ID 10
+msgctxt "skills.description"
+msgid "Break the box with zero N"
+msgstr "Разбейте ящик с Нулём Н."
+
+#. ID 11
+msgctxt "skills.name"
+msgid "Lucky"
+msgstr "Везунчик"
+
+#. ID 11
+msgctxt "skills.description"
+msgid "Find the four-leaf clover!"
+msgstr "Найдите клевер-четырёхлистник!"
+
+#. ID 12
+msgctxt "skills.name"
+msgid "Shame"
+msgstr "Стыд"
+
+#. ID 12
+msgctxt "skills.description"
+msgid "Try to change your past"
+msgstr "Попытайтесь изменить своё прошлое."
+
+#. ID 13
+msgctxt "skills.name"
+msgid "Fulgurites"
+msgstr "Фульгуриты"
+
+#. ID 13
+msgctxt "skills.description"
+msgid "Tear down all the fulgurites at the desert"
+msgstr "Разбейте все Фульгуриты в пустыне."
+
+#. ID 14
+msgctxt "skills.name"
+msgid "Rainbow"
+msgstr "Радуга"
+
+#. ID 14
+msgctxt "skills.description"
+msgid "Make it rain in the beach"
+msgstr "Призовите Дождь на пляже."
+
+#. ID 15
+msgctxt "skills.name"
+msgid "Perspective"
+msgstr "Перспектива"
+
+#. ID 15
+msgctxt "skills.description"
+msgid "It's just another one"
+msgstr "Всего-лишь другая точка зрения."
+
+#. ID 16
+msgctxt "skills.name"
+msgid "Colours"
+msgstr "Цвета"
+
+#. ID 16
+msgctxt "skills.description"
+msgid "Some species of fish are fascinating"
+msgstr "Некоторые виды рыб очаровательны, не так ли?"
+
+#. ID 17
+msgctxt "skills.name"
+msgid "Tinnitus"
+msgstr "Звон в Ушах"
+
+#. ID 17
+msgctxt "skills.description"
+msgid "Have a blast at the neon world"
+msgstr "Устройте взрыв в Неоновом Мире."
+
+#. ID 18
+msgctxt "skills.name"
+msgid "Test subject"
+msgstr "Подопытный"
+
+#. ID 18
+msgctxt "skills.description"
+msgid "Complete ten tests at the testing area"
+msgstr "Пройдите 10 Тестов в Испытательной Зоне."
+
+#. ID 19
+msgctxt "skills.name"
+msgid "A thousand pictures"
+msgstr "Тысячи изображений"
+
+#. ID 19
+msgctxt "skills.description"
+msgid "How can I forget such beauty?"
+msgstr "Как я могу забыть такую красоту?"
+
+#. ID 20
+msgctxt "skills.name"
+msgid "Canvas"
+msgstr "Рамки"
+
+#. ID 20
+msgctxt "skills.description"
+msgid "Paint on the floor at the art gallery"
+msgstr "Порисуйте на полу в Галлерее"
+
+#. ID 21
+msgctxt "skills.name"
+msgid "On fire"
+msgstr "В огне"
+
+#. ID 21
+msgctxt "skills.description"
+msgid "You can't kill time"
+msgstr "Время нельзя убить."
+
+#. ID 22
+msgctxt "skills.name"
+msgid "Habit"
+msgstr "Привычка"
+
+#. ID 22
+msgctxt "skills.description"
+msgid "It's under control"
+msgstr "Всё под контролем."
+
+#. ID 23
+msgctxt "skills.name"
+msgid "Test devourer"
+msgstr "Пожиратель Испытаний"
+
+#. ID 23
+msgctxt "skills.description"
+msgid "Complete all twenty tests at the testing area"
+msgstr "Выполните все 20 Тестов в Испытательной Зоне."
+
+#. ID 24
+msgctxt "skills.name"
+msgid "Hatsuyume"
+msgstr "Хацуюме"
+
+#. ID 24
+msgctxt "skills.description"
+msgid "Complete the Hatsuyume puzzle"
+msgstr "Решите головоломку Хацуюме."
+
+#. ID 25
+msgctxt "skills.name"
+msgid "Empty"
+msgstr "Опустошение"
+
+#. ID 25
+msgctxt "skills.description"
+msgid "Reach the limit of your mind"
+msgstr "Доведите ваш разум до предела."
+
+#. ID 26
+msgctxt "skills.name"
+msgid "Dizziness"
+msgstr "Головокружение"
+
+#. ID 26
+msgctxt "skills.description"
+msgid "Circles... everywhere..."
+msgstr "Круги... Повсюду..."
+
+#. ID 27
+msgctxt "skills.name"
+msgid "A snowy day"
+msgstr "Снежный день"
+
+#. ID 27
+msgctxt "skills.description"
+msgid "Recall someone's memories"
+msgstr "Чьи-то воспоминания."
+
+#. ID 28
+msgctxt "skills.name"
+msgid "Stranger"
+msgstr "Незнакомец"
+
+#. ID 28
+msgctxt "skills.description"
+msgid "Escape the shady stranger"
+msgstr "Сбегите от сомнительного незнакомца."
+
+#. ID 29
+msgctxt "skills.name"
+msgid "Trapped"
+msgstr "В Ловушке"
+
+#. ID 29
+msgctxt "skills.description"
+msgid "Finish the fake Zapnef level"
+msgstr "Завершите фальшивый уровень заПнеф."
+
+#. ID 30
+msgctxt "skills.name"
+msgid "Careful cruise"
+msgstr "Осторожный полёт"
+
+#. ID 30
+msgctxt "skills.description"
+msgid "Learn how to drive a spaceship"
+msgstr "Научитесь управлять Космическим Кораблём."
+
+#. ID 31
+msgctxt "skills.name"
+msgid "Platformer"
+msgstr "Платформер"
+
+#. ID 31
+msgctxt "skills.description"
+msgid "Complete all nine levels of Zapnef"
+msgstr "Пройдите все 9 Уровней заПнеф."
+
+#. ID 32
+msgctxt "skills.name"
+msgid "Wasps"
+msgstr "Шершни"
+
+#. ID 32
+msgctxt "skills.description"
+msgid "Kill the wasp in the forest and return"
+msgstr "Убейте всех шершней в лесу и вернитесь."
+
+#. ID 33
+msgctxt "skills.name"
+msgid "H: Music collector"
+msgstr "С: Собиратель Музыки"
+
+#. ID 33
+msgctxt "skills.description"
+msgid "Unlock every music from Music Folders"
+msgstr "Разблокируйте все треки в Музыкальных Папках."
+
+#. ID 34
+msgctxt "skills.name"
+msgid "H: >9000"
+msgstr "С: >9000"
+
+#. ID 34
+msgctxt "skills.description"
+msgid "Achieve 9001 or more points on any ZapNeF minigame"
+msgstr "Наберите >9001 очков на любом уровне заПнеф."
+
+#. ID 1
+msgctxt "items.name"
+msgid "Scooter"
+msgstr "Скутер"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Ride a scooter"
+msgstr "Оседлайте Скутер."
+
+#. ID 2
+msgctxt "items.name"
+msgid "Doodle"
+msgstr "Рисунок"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Become a doodle"
+msgstr "Станьте Рисунком"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Sick"
+msgstr "Больной"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Get sick"
+msgstr "Заболейте"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Glitch"
+msgstr "Глитч"
+
+#. ID 4
+msgctxt "items.description"
+msgid "."
+msgstr "."
+
+#. ID 5
+msgctxt "items.name"
+msgid "8-bit"
+msgstr "8-Бит"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Change to low resolution"
+msgstr "Понизьте своё разрешение."
+
+#. ID 6
+msgctxt "items.name"
+msgid "Nerd"
+msgstr "Нерд"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Become a nerd"
+msgstr "Станьте занудой."
+
+#. ID 7
+msgctxt "items.name"
+msgid "Monochrome"
+msgstr "Монохром"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Become a monochrome child"
+msgstr "Станьте монохромным."
+
+#. ID 8
+msgctxt "items.name"
+msgid "Bald"
+msgstr "Лысый"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Go bald"
+msgstr "Облысейте."
+
+#. ID 9
+msgctxt "items.name"
+msgid "Megaphone"
+msgstr "Динамик"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Become a megaphone"
+msgstr "Превратите голову в Динамик."
+
+#. ID 10
+msgctxt "items.name"
+msgid "Blob"
+msgstr "Мармелад"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Become a colourful blob"
+msgstr "Превратитесь в цветастый кусок Мармелада."
+
+#. ID 11
+msgctxt "items.name"
+msgid "Wrench"
+msgstr "Гаечный Ключ"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Wield a handy wrench"
+msgstr "Возьмите в руки Гаечный Ключ."
+
+#. ID 12
+msgctxt "items.name"
+msgid "Raincoat"
+msgstr "Дождевик"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Wear a raincoat"
+msgstr "Наденьте Дождевик."
+
+#. ID 13
+msgctxt "items.name"
+msgid "Scarf"
+msgstr "Шарф"
+
+#. ID 13
+msgctxt "items.description"
+msgid "Wear a warm scarf"
+msgstr "Наденьте тёплый Шарф"
+
+#. ID 14
+msgctxt "items.name"
+msgid "Classic"
+msgstr "Классика"
+
+#. ID 14
+msgctxt "items.description"
+msgid "Look like a hikikomori"
+msgstr "Превратитесь в Затворника."
+
+#. ID 15
+msgctxt "items.name"
+msgid "TV"
+msgstr "Телевизор"
+
+#. ID 15
+msgctxt "items.description"
+msgid "Get a TV for a head"
+msgstr "Наденьте Телевизор на голову."
+
+#. ID 16
+msgctxt "items.name"
+msgid "Fox"
+msgstr "Лис"
+
+#. ID 16
+msgctxt "items.description"
+msgid "Grow fox ears and a tail"
+msgstr "Отрастите лисьи уши и хвост."
+
+#. ID 17
+msgctxt "items.name"
+msgid "Candle holder"
+msgstr "Подсвечник"
+
+#. ID 17
+msgctxt "items.description"
+msgid "Be a candle holder"
+msgstr "Превратитесь в Подсвечник."
+
+#. ID 18
+msgctxt "items.name"
+msgid "Clockworker"
+msgstr "Часовщик"
+
+#. ID 18
+msgctxt "items.description"
+msgid "Become a clockworker"
+msgstr "Превратитесь в Часовщика."
+
+#. ID 19
+msgctxt "items.name"
+msgid "Diving suit"
+msgstr "Купальный Костюм"
+
+#. ID 19
+msgctxt "items.description"
+msgid "Wear a diving suit"
+msgstr "Наденьте Купальный Костюм."
+
+#. ID 20
+msgctxt "items.name"
+msgid "Mercury"
+msgstr "Ртуть"
+
+#. ID 20
+msgctxt "items.description"
+msgid "Become solid mercury"
+msgstr "Станьте сгустком ртути."
+
+#. ID 21
+msgctxt "items.name"
+msgid "Healing aura"
+msgstr "Целебная Аура"
+
+#. ID 21
+msgctxt "items.description"
+msgid "Emit a healing aura"
+msgstr "Излучайте Целебную Ауру."
+
+#. ID 22
+msgctxt "items.name"
+msgid "Wood"
+msgstr "Дерево"
+
+#. ID 22
+msgctxt "items.description"
+msgid "Become a wooden doll"
+msgstr "Станьте деревянной куклой."
+
+#. ID 23
+msgctxt "items.name"
+msgid "Tomato"
+msgstr "Помидор"
+
+#. ID 23
+msgctxt "items.description"
+msgid "Get a tomato for a head"
+msgstr "Превратите голову в помидор."
+
+#. ID 24
+msgctxt "items.name"
+msgid "Lab coat"
+msgstr "Лабораторный халат"
+
+#. ID 24
+msgctxt "items.description"
+msgid "Wear a lab coat"
+msgstr "Наденьте Лабораторный Халат."
+
+#. ID 25
+msgctxt "items.name"
+msgid "Baku"
+msgstr "Баку"
+
+#. ID 25
+msgctxt "items.description"
+msgid "Become a dream eater"
+msgstr "Станьте пожирателем снов."
+
+#. ID 26
+msgctxt "items.name"
+msgid "(Scooter)"
+msgstr "(Скутер)"
+
+#. ID 26
+msgctxt "items.description"
+msgid "Get impatient"
+msgstr "Быть нетерпеливым."
+
+#. ID 27
+msgctxt "items.name"
+msgid "(Doodle)"
+msgstr "(Рисунок)"
+
+#. ID 27
+msgctxt "items.description"
+msgid "Be random"
+msgstr "Быть непредсказуемым."
+
+#. ID 28
+msgctxt "items.name"
+msgid "(Sick)"
+msgstr "(Больной)"
+
+#. ID 28
+msgctxt "items.description"
+msgid "Pretend to be sick"
+msgstr "Притворяться больным."
+
+#. ID 29
+msgctxt "items.name"
+msgid "(Glitch)"
+msgstr "(Глитч)"
+
+#. ID 29
+msgctxt "items.description"
+msgid "Act stupid"
+msgstr "Действовать глупо."
+
+#. ID 30
+msgctxt "items.name"
+msgid "(8-bit)"
+msgstr "(8-Бит)"
+
+#. ID 30
+msgctxt "items.description"
+msgid "Get nostalgic"
+msgstr "Быть ностальгичным."
+
+#. ID 31
+msgctxt "items.name"
+msgid "(Nerd)"
+msgstr "(Нерд)"
+
+#. ID 31
+msgctxt "items.description"
+msgid "Act nerdy"
+msgstr "Быть занудой."
+
+#. ID 32
+msgctxt "items.name"
+msgid "(Monochrome)"
+msgstr "(Монохром)"
+
+#. ID 32
+msgctxt "items.description"
+msgid "Feel alienated"
+msgstr "Ощутить себя чужим."
+
+#. ID 33
+msgctxt "items.name"
+msgid "(Bald)"
+msgstr "(Лысый)"
+
+#. ID 33
+msgctxt "items.description"
+msgid "Worry about your hair"
+msgstr "Волноваться о волосах."
+
+#. ID 34
+msgctxt "items.name"
+msgid "(Megaphone)"
+msgstr "(Динамик)"
+
+#. ID 34
+msgctxt "items.description"
+msgid "Draw attention"
+msgstr "Привлекать внимание."
+
+#. ID 35
+msgctxt "items.name"
+msgid "(Blob)"
+msgstr "(Мармелад)"
+
+#. ID 35
+msgctxt "items.description"
+msgid "Have colourful thoughts"
+msgstr "Иметь разноцветные мечты."
+
+#. ID 36
+msgctxt "items.name"
+msgid "(Wrench)"
+msgstr "(Гаечный Ключ)"
+
+#. ID 36
+msgctxt "items.description"
+msgid "Want to beat someone"
+msgstr "Желать ударить кого-нибудь."
+
+#. ID 37
+msgctxt "items.name"
+msgid "(Raincoat)"
+msgstr "(Дождевик)"
+
+#. ID 37
+msgctxt "items.description"
+msgid "Wish to stop raining"
+msgstr "Мечтать о том, чтобы дождь кончился."
+
+#. ID 38
+msgctxt "items.name"
+msgid "(Scarf)"
+msgstr "(Шарф)"
+
+#. ID 38
+msgctxt "items.description"
+msgid "Pretend to be who you are not"
+msgstr "Притворяться не тем, кто ты есть."
+
+#. ID 39
+msgctxt "items.name"
+msgid "(Classic)"
+msgstr "(Классика)"
+
+#. ID 39
+msgctxt "items.description"
+msgid "Be like the rest"
+msgstr "Быть как все."
+
+#. ID 40
+msgctxt "items.name"
+msgid "(TV)"
+msgstr "(Телевизор)"
+
+#. ID 40
+msgctxt "items.description"
+msgid "Be addicted to television"
+msgstr "Быть теле-зависимым."
+
+#. ID 41
+msgctxt "items.name"
+msgid "(Fox)"
+msgstr "(Лис)"
+
+#. ID 41
+msgctxt "items.description"
+msgid "Show your cute side"
+msgstr "Показать свою милую сторону."
+
+#. ID 42
+msgctxt "items.name"
+msgid "(Candle holder)"
+msgstr "(Подсвечник)"
+
+#. ID 42
+msgctxt "items.description"
+msgid "Keep your hopes up high"
+msgstr "Не переставайте надеяться."
+
+#. ID 43
+msgctxt "items.name"
+msgid "(Clockworker)"
+msgstr "(Часовщик)"
+
+#. ID 43
+msgctxt "items.description"
+msgid "Want to go back in time"
+msgstr "Мечтать о возвращении в прошлое."
+
+#. ID 44
+msgctxt "items.name"
+msgid "(Diving suit)"
+msgstr "(Купальный Костюм)"
+
+#. ID 44
+msgctxt "items.description"
+msgid "Remember the summer days"
+msgstr "Вспомнить летние деньки."
+
+#. ID 45
+msgctxt "items.name"
+msgid "(Mercury)"
+msgstr "(Ртуть)"
+
+#. ID 45
+msgctxt "items.description"
+msgid "Try to go unnoticed"
+msgstr "Попытаться пройти незамеченным"
+
+#. ID 46
+msgctxt "items.name"
+msgid "(Healing aura)"
+msgstr "(Целебная Аура)"
+
+#. ID 46
+msgctxt "items.description"
+msgid "Be helpful"
+msgstr "Быть полезным"
+
+#. ID 47
+msgctxt "items.name"
+msgid "(Wood)"
+msgstr "(Дерево)"
+
+#. ID 47
+msgctxt "items.description"
+msgid "Be empathic"
+msgstr "Проявить Эмпатию"
+
+#. ID 48
+msgctxt "items.name"
+msgid "(Tomato)"
+msgstr "(Помидор)"
+
+#. ID 48
+msgctxt "items.description"
+msgid "Be passionate"
+msgstr "Быть пылким"
+
+#. ID 49
+msgctxt "items.name"
+msgid "(Lab coat)"
+msgstr "(Лабораторный Халат)"
+
+#. ID 49
+msgctxt "items.description"
+msgid "Be interested in science"
+msgstr "Интересоваться наукой"
+
+#. ID 50
+msgctxt "items.name"
+msgid "Instructions"
+msgstr "Инструкции"
+
+#. ID 50
+msgctxt "items.description"
+msgid "See the game's instructions"
+msgstr "Ознакомиться с правилами игры."
+
+#. ID 51
+msgctxt "items.name"
+msgid "(Baku)"
+msgstr "(Баку)"
+
+#. ID 51
+msgctxt "items.description"
+msgid "Don't be afraid to be yourself"
+msgstr "Не бояться быть собой"
+
+#. ID 52
+msgctxt "items.name"
+msgid "(Version: Vanilla)"
+msgstr "(Обычная Версия)"
+
+#. ID 52
+msgctxt "items.description"
+msgid "(It's Vanilla version.)"
+msgstr "(Это Ванильная версия.)"
+
+#. ID 53
+msgctxt "items.name"
+msgid "(Version: Extended)"
+msgstr "(Расширенная Версия)"
+
+#. ID 53
+msgctxt "items.description"
+msgid "Extention pack has been applied."
+msgstr "Дополнительный контент разблокирован."
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "‚Í“|‚ê‚½I"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "‚ð“|‚µ‚½I"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "‚Í—§‚¿ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid "vd"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "Failed to escape!"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "Victory!"
+msgstr "-"
+
+msgctxt "terms.defeat"
+msgid "Annihilated..."
+msgstr "-"
+
+msgctxt "terms.exp_received"
+msgid " experience points!"
+msgstr "-"
+
+msgctxt "terms.gold_recieved_a"
+msgid "Found"
+msgstr "-"
+
+msgctxt "terms.gold_recieved_b"
+msgid "!"
+msgstr "-"
+
+msgctxt "terms.item_recieved"
+msgid " found!"
+msgstr "-"
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr "-"
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr "-"
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr "-"
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr "-"
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr "-"
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr "-"
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr "-"
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr "-"
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr "-"
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr "-"
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr "-"
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr "-"
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr "-"
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr "-"
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr "-"
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr "-"
+
+msgctxt "terms.level_up"
+msgid " obtained!"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid " was learned!"
+msgstr ""
+
+msgctxt "terms.battle_start"
+msgid "yo wanna fight"
+msgstr ""
+
+msgctxt "terms.miss"
+msgid "Miss!"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "howzit, howaya"
+msgstr ""
+
+msgctxt "terms.shop_regreeting1"
+msgid "more?"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid "which"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid "h'many"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid "'twas nice"
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid "whatcha givin"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid "gimme"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid "go away"
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "oi"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "yo"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "nyeh"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "MMMMMMMMMMMMMM"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "arigatou gozaimasu"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "meap"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "t. t. t. t. t."
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "ARE YOU \"·&()=$(?"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "What are you interested in today?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "Can I interest you in anything else?"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "What would you like to buy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "How many of those would you like?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "What would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many of those would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "It is a mere"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " to stay here."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Would you like to stay?"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "It's only"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid " for a warm bed."
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "How about spending the night?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "In Possession"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "Equipped"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "N"
+msgstr "Н"
+
+msgctxt "terms.battle_fight"
+msgid "Fight"
+msgstr "-"
+
+msgctxt "terms.battle_auto"
+msgid "Auto"
+msgstr "-"
+
+msgctxt "terms.battle_escape"
+msgid "Escape"
+msgstr "-"
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr "-"
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr "-"
+
+msgctxt "terms.command_item"
+msgid "Effects"
+msgstr "Эффекты"
+
+msgctxt "terms.command_skill"
+msgid "Feats"
+msgstr "Свершения"
+
+msgctxt "terms.menu_equipment"
+msgid "Equip"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "terms.menu_quit"
+msgid "Quit"
+msgstr "Выйти"
+
+msgctxt "terms.new_game"
+msgid "New"
+msgstr "Начать"
+
+msgctxt "terms.load_game"
+msgid "Blog"
+msgstr "Блог"
+
+msgctxt "terms.exit_game"
+msgid "Quit"
+msgstr "Выйти"
+
+msgctxt "terms.status"
+msgid "Status"
+msgstr ""
+
+msgctxt "terms.row"
+msgid "Row"
+msgstr ""
+
+msgctxt "terms.order"
+msgid "Order"
+msgstr ""
+
+msgctxt "terms.wait_on"
+msgid "Wait"
+msgstr ""
+
+msgctxt "terms.wait_off"
+msgid "Active"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "Level"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "Ex"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr "Э"
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.sp_cost"
+msgid "MP Use"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "Attack"
+msgstr ""
+
+msgctxt "terms.defense"
+msgid "Defense"
+msgstr ""
+
+msgctxt "terms.spirit"
+msgid "Mystic"
+msgstr ""
+
+msgctxt "terms.agility"
+msgid "Agility"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "Weapon"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "Shield"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "Armor"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "Helmet"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "Accessory"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "Write on which entry?"
+msgstr "Куда записать?"
+
+msgctxt "terms.load_game_message"
+msgid "Open which entry?"
+msgstr "Открыть какую запись?"
+
+msgctxt "terms.file"
+msgid "Entry"
+msgstr "Запись"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you really want to quit?"
+msgstr "Вы действительно хотите выйти?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "Да"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "Нет"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
