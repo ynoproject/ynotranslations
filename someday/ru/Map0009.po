@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Evergreen\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 11, Page 1, Line 9, Pos (63,56)
+#. ID 16, Page 1, Line 9, Pos (62,57)
+#. ID 18, Page 1, Line 9, Pos (64,57)
+#. ID 23, Page 1, Line 9, Pos (63,58)
+msgid "                       Sick"
+msgstr "                     Больной"
+
+#. ID 11, Page 1, Line 12, Pos (63,56)
+#. ID 16, Page 1, Line 12, Pos (62,57)
+#. ID 18, Page 1, Line 12, Pos (64,57)
+#. ID 23, Page 1, Line 12, Pos (63,58)
+msgid "Press 1 to sneeze."
+msgstr "Нажмите 1 чтобы чихнуть."

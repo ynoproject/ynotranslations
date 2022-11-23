@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Evergreen\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 3, Line 23
+#. ChangeHeroName (Actor 1)
+#. ID 19, Line 29
+#. ChangeHeroName (Actor 1)
+#. ID 47, Line 18
+#. ChangeHeroName (Actor 1)
+#. ID 79, Line 33
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Ицуки"
+
+#. ID 31, Line 15
+#. ID 32, Line 16
+#. ID 32, Line 32
+#. ID 32, Line 48
+#. ID 32, Line 63
+#. ID 33, Line 16
+#. ID 33, Line 32
+#. ID 33, Line 48
+#. ID 33, Line 63
+#. ID 34, Line 16
+#. ID 34, Line 32
+#. ID 34, Line 47
+#. ID 48, Line 16
+#. ID 48, Line 31
+#. ID 49, Line 19
+msgid "                Menu scheme changed!"
+msgstr "                Стиль Меню изменён!"
+
+#. ID 60, Line 159
+msgid ""
+"Congratulations!\n"
+"You completed the entire game at 100%!"
+msgstr ""
+"Поздравляем!\n"
+"Вы абсолютно полностью прошли игру!"
+
+#. ID 60, Line 161
+msgid ""
+"But did you know...\n"
+"\\....that interacting with the four-leaf clover\n"
+"at the forest enables the Lucky Mode?"
+msgstr ""
+"А вы знали...\n"
+"\\....что дотронувшись до Четырёхлистного клевера\n"
+"в Лесу можно включить Режим Везения?"
+
+#. ID 60, Line 164
+msgid ""
+"In Lucky Mode, random events appear more often!\n"
+"\\|Ssssh... \\.don't tell anyone..."
+msgstr ""
+"В Режиме Везения, случайное происходит чаще!\n"
+" Тс-с-с... \\.Никому не говорите..."
+
+#. ID 171, Line 14
+#. ID 171, Line 32
+#. ID 171, Line 50
+#. ID 171, Line 68
+#. ID 171, Line 86
+#. ID 171, Line 104
+#. ID 171, Line 122
+#. ID 171, Line 140
+msgid "             Scheme has been changed!"
+msgstr "                  Схема изменена!"
+
+#. ID 174, Line 4
+#. Choice (3 options)
+msgid ""
+"Save\n"
+"Speed 5\n"
+"Debug Room"
+msgstr ""
+"Сохраниться\n"
+"Скорость 5\n"
+"Режим Отладки"
+
+#. ID 174, Line 30
+#. ID 174, Line 69
+msgid "TESTMODE is currently activated. Choose option:"
+msgstr "РЕЖИМ ОТЛАДКИ активирован. Выберите функцию:"
+
+#. ID 174, Line 31
+#. Choice (4 options)
+msgid ""
+"Displays Music Rate\n"
+"Unlocks all music\n"
+"Revokes all music\n"
+"Save"
+msgstr ""
+"Отобразить Прогресс Сбора Саундтреков\n"
+"Разблокировать Все Саундтреки\n"
+"Заблокировать Все Саундтреки\n"
+"Сохраниться"
+
+#. ID 174, Line 39
+msgid "All music has been unlocked."
+msgstr "Все Саундтреки были разблокированны."
+
+#. ID 174, Line 46
+msgid "All music has been revoked."
+msgstr "Все Саундтреки были заблокированны."
+
+#. ID 174, Line 70
+#. Choice (4 options)
+msgid ""
+"Save\n"
+"Chooses arbitrary Scheme\n"
+"Unlocks all Schemes\n"
+"Revokes all Schemes"
+msgstr ""
+"Сохраниться\n"
+"Выбрать Схему\n"
+"Разблокировать Все Схемы\n"
+"Заблокировать Все Схемы"
+
+#. ID 174, Line 76
+msgid "Input value between 0-7 that corresponds to Scheme ID."
+msgstr "Введите значение 0~7 в соответствие с ID Схемы."
+
+#. ID 174, Line 110
+msgid "All Schemes has been unlocked."
+msgstr "Все Схемы Разблокированны."
+
+#. ID 174, Line 113
+msgid ""
+"!!!WARNING!!! USING THIS FUNCTION WILL INITIALIZE\n"
+"CERTAIN EFFECTS, ALL FEATS, \n"
+"AND CERTAIN EVENT COMPLETION CHECKER!\n"
+"Press 'Yes' to initiate and press 'No' to cancel."
+msgstr ""
+"!!!ВНИМАНИЕ!!! ДАННАЯ ФУНКЦИЯ НАЧНЁТ ПРОВЕРКУ ВСЕХ \n"
+"ЭФФЕКТОВ, СВЕРШЕНИЙ И ПРОГРЕССА ПРОХОЖДЕНИЯ \n"
+"НЕКОТОРЫХ СОБЫТИЙ!\n"
+"Нажмите \"Да\" чтобы начать, \"Нет\" для отмены."
+
+#. ID 174, Line 117
+#. Choice (1 options)
+msgid "Yes"
+msgstr "Да"
+
+#. ID 174, Line 171
+msgid ""
+"All Schemes has been revoked. \n"
+"Most progressions has been initialized."
+msgstr ""
+"Все Схемы были заблокированны.\n"
+"Большинство прогрессий инициализированны."
