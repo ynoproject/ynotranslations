@@ -3917,6 +3917,9 @@ msgid ""
 "\\> \\N[6]\\V[77]\\C[1]\\N[1]\\C[4]\\V[76]\\C[0]\n"
 "\\>　＋"
 msgstr ""
+"\\>・Test of addition more than 1,000,000 \n"
+"\\> \\N[6]\\V[77]\\C[1]\\N[1]\\C[4]\\V[76]\\C[0]　　　(0 for Cancel)\n"
+"\\>　＋"
 
 #. ID 183, Page 6, Line 158, Pos (56,8)
 msgid ""
@@ -3925,6 +3928,10 @@ msgid ""
 "\\>　＋\n"
 "\\>　\\V[75] (shiftキーで変更可)"
 msgstr ""
+"\\>・Test of addition more than 1,000,000\n"
+"\\> \\N[6]\\V[77]\\C[1]\\N[1]\\C[4]\\V[76]\\C[0]\n"
+"\\>　＋\n"
+"\\>　\\V[75] (Shift key for change value)"
 
 #. ID 183, Page 6, Line 222, Pos (56,8)
 #. ChangeHeroName (Actor 2)
