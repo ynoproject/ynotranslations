@@ -16,7 +16,7 @@ msgstr ""
 msgid "\\>【製作者のコメント】（仕様変更など、ここに書く）"
 msgstr ""
 "\\>【Developers' Notes】\n"
-"（Write down features changes etc. here）"
+"\\>（Write down features changes etc. here）"
 
 #. ID 4, Page 1, Line 3, Pos (16,2)
 #. Contains choice at line 2 (2 options)
@@ -359,7 +359,7 @@ msgstr ""
 "\\>Wolf\n"
 "\\>Obtained Wolf effect\n"
 "\\>Hold Enter to howl\n"
-"\\>In contrast to ★Cat★, characters will scatter."
+"\\>In contrast to Cat, characters will scatter."
 
 #. ID 15, Page 2, Line 5, Pos (28,5)
 msgid "\\>「オオカミ」エフェクトを破棄しました"
@@ -429,7 +429,9 @@ msgstr ""
 
 #. ID 19, Page 1, Line 9, Pos (26,7)
 msgid "\\>追記：ver0.103dから上下方向にも対応しました"
-msgstr "\\>Edit: upper/downward direction available since ver0.103d"
+msgstr ""
+"\\>Edit: upper/downward direction available since\n"
+"\\>ver0.103d"
 
 #. ID 19, Page 2, Line 5, Pos (26,7)
 msgid "\\>「ついんてーる」エフェクトを破棄しました"
@@ -2103,7 +2105,7 @@ msgid ""
 "いただければと思います。"
 msgstr ""
 "\\>Similar event is used at Lantern Event\n"
-"\\>in Museum Revenge. So please refer\n"
+"\\>in Dark Museum. So please refer\n"
 "\\>this event too."
 
 #. ID 121, Page 1, Line 10, Pos (18,25)
@@ -2572,7 +2574,7 @@ msgid ""
 msgstr ""
 "\\>What's that? How to use?\n"
 "\\>How's it work?\n"
-">TL;DR (X key for Cancel)"
+"\\>TL;DR (X key for Cancel)"
 
 #. ID 151, Page 1, Line 26, Pos (18,14)
 msgid ""
@@ -3969,8 +3971,8 @@ msgid ""
 "いろいろな用途で使えると思います。"
 msgstr ""
 "In addition, used this as shadow by making\n"
-"it's graphic Transparent(translucent), and creating \n"
-"hidden path below this event."
+"it's graphic Transparent(translucent), and\n"
+"creating hidden path below this event."
 
 #. ID 187, Page 1, Line 25, Pos (61,8)
 msgid ""
@@ -4224,8 +4226,8 @@ msgid ""
 msgstr ""
 "\\>CEV[0027:【Call】Update Effect Graphic]\n"
 "It updates effect Graphics. Use this when you want to\n"
-"set Urotsuki to default graphics, it been underwater, or forbade\n"
-"particular action."
+"set Urotsuki to default graphics, it been \n"
+"underwater, or forbade particular action."
 
 #. ID 198, Page 1, Line 2, Pos (14,6)
 msgid "\\v[1]"
