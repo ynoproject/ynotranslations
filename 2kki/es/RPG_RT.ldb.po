@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -10499,15 +10499,15 @@ msgstr "Salir"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "  Iniciar  "
+msgstr " Iniciar"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr " Continuar"
+msgstr "Continuar"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "   Salir"
+msgstr "  Salir"
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"

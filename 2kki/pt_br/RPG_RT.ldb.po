@@ -10499,15 +10499,15 @@ msgstr "Sair"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "  Começar"
+msgstr " Começar"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr " Continuar"
+msgstr "Continuar"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "　  Sair"
+msgstr "　Sair"
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"

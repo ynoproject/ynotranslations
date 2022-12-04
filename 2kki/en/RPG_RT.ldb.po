@@ -10502,7 +10502,7 @@ msgstr "   Start"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr " Continue"
+msgstr " Continue "
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
