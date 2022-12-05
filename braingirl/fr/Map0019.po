@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Braingirl\n"
+"Project-Id-Version: BRAINGIRL\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
