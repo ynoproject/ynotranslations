@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: dot flow french translation\n"
+"Project-Id-Version: .flow\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
