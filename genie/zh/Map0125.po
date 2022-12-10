@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 4, Pos (4,7)
+msgid "- ......"
+msgstr"- ......"
+
+#. ID 33, Page 1, Line 1, Pos (13,8)
+#. ID 34, Page 1, Line 8, Pos (3,9)
+msgid "- ..."
+msgstr "- ..."
+
+#. ID 33, Page 1, Line 2, Pos (13,8)
+msgid "- My favorite"
+msgstr "- 我的最爱"
+
+#. ID 34, Page 1, Line 2, Pos (3,9)
+msgid "- A piece of diary paper..."
+msgstr "- 是一张日记纸..."
+
+#. ID 34, Page 2, Line 2, Pos (3,9)
+msgid "- Don't mention it anymore!"
+msgstr "- 别再提起它了！"
+

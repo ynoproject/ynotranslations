@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 8, Page 1, Line 1, Pos (3,4)
+#. ID 9, Page 1, Line 1, Pos (4,4)
+#. ID 10, Page 1, Line 1, Pos (5,4)
+#. ID 11, Page 1, Line 1, Pos (3,6)
+#. ID 12, Page 1, Line 1, Pos (4,6)
+#. ID 13, Page 1, Line 1, Pos (5,6)
+msgid "- ..."
+msgstr "- ..."
+
+#. ID 8, Page 1, Line 2, Pos (3,4)
+#. ID 9, Page 1, Line 2, Pos (4,4)
+#. ID 10, Page 1, Line 2, Pos (5,4)
+#. ID 11, Page 1, Line 2, Pos (3,6)
+#. ID 12, Page 1, Line 2, Pos (4,6)
+#. ID 13, Page 1, Line 2, Pos (5,6)
+#. ID 14, Page 1, Line 1, Pos (3,5)
+#. ID 15, Page 1, Line 1, Pos (4,5)
+#. ID 16, Page 1, Line 1, Pos (5,5)
+msgid "- ...How sickening..."
+msgstr "- ...好恶心..."
+

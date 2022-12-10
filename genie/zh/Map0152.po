@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 18, Page 1, Line 50, Pos (5,9)
+msgid "- Haven't arrived yet, let's sleep for a while."
+msgstr "- 还没到，先睡会吧。"
+
+#. ID 18, Page 1, Line 82, Pos (5,9)
+msgid "- Time to get off."
+msgstr "- 该下车咯。"
+

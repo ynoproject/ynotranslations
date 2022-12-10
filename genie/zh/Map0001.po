@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 22, Page 1, Line 1, Pos (30,63)
+#. Choice (2 options)
+msgid ""
+"Menu Style: Negative\n"
+"Menu Style: Home"
+msgstr ""
+"边框风格·负情绪\n"
+"边框风格·家"
+
+#. ID 22, Page 2, Line 1, Pos (30,63)
+#. Choice (3 options)
+msgid ""
+"Menu Style: Negative\n"
+"Menu Style: Home\n"
+"Menu Style: Springs"
+msgstr ""
+"边框风格·负情绪\n"
+"边框风格·家\n"
+"边框风格·汤"
+
+#. ID 40, Page 1, Line 2, Pos (30,66)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to relax a bit? (Return to title screen)"
+msgstr "- 想放松一下吗？（返回标题界面）"
+
+#. ID 40, Page 1, Line 3, Pos (30,66)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"No\n"
+"Yes"
+msgstr ""
+

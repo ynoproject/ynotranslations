@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 3, Pos (13,4)
+msgid "- ..."
+msgstr "- ..."
+
+#. ID 10, Page 1, Line 5, Pos (13,4)
+msgid "- ......"
+msgstr "- ......"
+
+#. ID 10, Page 1, Line 9, Pos (13,4)
+msgid "!!!\\^"
+msgstr "!!!\\^"
+
+#. ID 10, Page 1, Line 16, Pos (13,4)
+msgid "- ...Home?"
+msgstr "- ...家?"
+
+#. ID 10, Page 1, Line 17, Pos (13,4)
+msgid "- So familiar..."
+msgstr "- 熟悉的感觉..."
+
+#. ID 16, Page 1, Line 1, Pos (12,5)
+msgid "- Just some broken glass..."
+msgstr "- 只是一些玻璃碎......"
+

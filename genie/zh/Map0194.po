@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 1, Pos (6,6)
+#. ID 4, Page 1, Line 1, Pos (7,6)
+#. ID 5, Page 1, Line 1, Pos (8,6)
+#. ID 6, Page 1, Line 1, Pos (6,8)
+#. ID 7, Page 1, Line 1, Pos (7,8)
+#. ID 8, Page 1, Line 1, Pos (8,8)
+msgid "- ..."
+msgstr "- ..."
+
+#. ID 3, Page 1, Line 2, Pos (6,6)
+#. ID 4, Page 1, Line 2, Pos (7,6)
+#. ID 5, Page 1, Line 2, Pos (8,6)
+#. ID 6, Page 1, Line 2, Pos (6,8)
+#. ID 7, Page 1, Line 2, Pos (7,8)
+#. ID 8, Page 1, Line 2, Pos (8,8)
+#. ID 9, Page 1, Line 1, Pos (7,7)
+#. ID 10, Page 1, Line 1, Pos (8,7)
+#. ID 11, Page 1, Line 1, Pos (6,7)
+msgid "- ...How sickening..."
+msgstr "- ...好恶心..."
+
+#. ID 15, Page 1, Line 2, Pos (13,7)
+msgid "- Project No. unw-1[][]0-Nightmare City"
+msgstr "- 项目编号：UNW-1██0-噩梦城"
+
+#. ID 15, Page 1, Line 3, Pos (13,7)
+msgid "- Project level: Deadly"
+msgstr "- 项目等级：deadly"
+
+#. ID 15, Page 1, Line 4, Pos (13,7)
+msgid ""
+"- Description: unw-1000 is a city that everyone\n"
+"  is afraid of, the internal environment changes\n"
+"  with people's fear, and [][][][][] people may be\n"
+"  missing because of this."
+msgstr ""
+"- 描述：UNW-1000是一座人人畏惧的城市，内部的环境会\n"
+"  随着人们恐惧而发生变化，\n"
+"  目前有████人可能因此失踪"
+
+#. ID 15, Page 1, Line 8, Pos (13,7)
+msgid ""
+"- At present, there is no way to enter\n"
+"  the Nightmare City."
+msgstr "- 目前没有找到方法进入噩梦城。"
+
+#. ID 28, Page 1, Line 1, Pos (11,8)
+msgid ""
+"- Reality is like a dream, and dreams are \n"
+"like reality."
+msgstr "- 现实如梦境，梦境如现实。"
+
