@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
@@ -51,7 +51,7 @@ msgstr ""
 "\\>                     Contrôles\n"
 "\\>       Z … Montrer cet astuce\n"
 "\\>       X … Menu\n"
-"\\>   Maj … Sélection du morceau aléatoirement"
+"\\>     Maj … Sélection du morceau aléatoirement"
 
 #. ID 1, Page 3, Line 7, Pos (0,14)
 #. Choice (4 options)

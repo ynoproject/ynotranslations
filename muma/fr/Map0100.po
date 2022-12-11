@@ -10,9 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. ID 37, Page 1, Line 7, Pos (0,43)
 msgid "Memory needed."
-msgstr "Mémoire nécessaire."
-
+msgstr "Souvenir nécessaire."
