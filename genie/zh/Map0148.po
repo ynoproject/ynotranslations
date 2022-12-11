@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 2, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 2, Pos (9,11)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to jump down?"
+msgstr "- 要跳下去吗？"
+
+#. ID 11, Page 1, Line 3, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 3, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+
+#. ID 11, Page 1, Line 16, Pos (9,12)
+#. ID 12, Page 1, Line 16, Pos (9,11)
+msgid "- Maybe I can get down somehow..."
+msgstr "- 或许我可以通过某种方式下去..."
+

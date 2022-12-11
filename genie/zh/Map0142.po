@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 1, Pos (6,9)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 1, Pos (7,9)
+#. Contains choice at line 2 (2 options)
+#. ID 24, Page 1, Line 1, Pos (8,9)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to play 3D projection?"
+msgstr "- 要播放3D投影么？"
+
+#. ID 14, Page 1, Line 2, Pos (6,9)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 2, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 3, Pos (12,9)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 2, Pos (8,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+
+#. ID 23, Page 1, Line 1, Pos (12,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"- Want to enter the unlock clothing interface\n"
+"level?"
+msgstr "- 要进入等级解锁服装栏目吗？"
+

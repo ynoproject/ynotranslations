@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 4, Pos (4,7)
+msgid "- Wait...!!!"
+msgstr "- 等等...！！！"
+
+#. ID 2, Page 1, Line 17, Pos (4,7)
+#. ID 3, Page 1, Line 17, Pos (3,10)
+#. ID 4, Page 1, Line 17, Pos (3,9)
+#. ID 5, Page 1, Line 17, Pos (3,8)
+#. ID 6, Page 1, Line 17, Pos (3,7)
+#. ID 7, Page 1, Line 17, Pos (3,6)
+#. ID 8, Page 1, Line 17, Pos (3,5)
+#. ID 9, Page 1, Line 17, Pos (3,4)
+#. ID 10, Page 1, Line 17, Pos (3,11)
+msgid "..."
+msgstr "..."
+
+#. ID 2, Page 1, Line 18, Pos (4,7)
+msgid "- What's going on..."
+msgstr "- 这是怎么回事..."
+
+#. ID 3, Page 1, Line 4, Pos (3,10)
+#. ID 4, Page 1, Line 4, Pos (3,9)
+#. ID 5, Page 1, Line 4, Pos (3,8)
+#. ID 6, Page 1, Line 4, Pos (3,7)
+#. ID 7, Page 1, Line 4, Pos (3,6)
+#. ID 8, Page 1, Line 4, Pos (3,5)
+#. ID 9, Page 1, Line 4, Pos (3,4)
+#. ID 10, Page 1, Line 4, Pos (3,11)
+msgid "- Wait!"
+msgstr "- 等等...！！！"
+
+#. ID 3, Page 1, Line 18, Pos (3,10)
+#. ID 4, Page 1, Line 18, Pos (3,9)
+#. ID 5, Page 1, Line 18, Pos (3,8)
+#. ID 6, Page 1, Line 18, Pos (3,7)
+#. ID 7, Page 1, Line 18, Pos (3,6)
+#. ID 8, Page 1, Line 18, Pos (3,5)
+#. ID 9, Page 1, Line 18, Pos (3,4)
+#. ID 10, Page 1, Line 18, Pos (3,11)
+msgid "- What's going on..."
+msgstr "- 这是怎么回事..."
+

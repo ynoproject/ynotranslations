@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 1, Pos (17,12)
+msgid ""
+"- I want to be alone. Anyway, I'm not welcome.\n"
+"There's no need for others to exist."
+msgstr "- 我想单独一人，反正也不受欢迎，其他人没必要存在。"
+
+#. ID 11, Page 1, Line 1, Pos (3,9)
+msgid ""
+"- That day, she went to dinner with us as usual,\n"
+"but it was just a dream."
+msgstr ""
+"- 那天，她像往常一样跟我们去吃饭，\n"
+"  但是，那只是个梦。"
+
+#. ID 33, Page 1, Line 15, Pos (13,11)
+msgid "- It's locked."
+msgstr "- 锁住了。"
+

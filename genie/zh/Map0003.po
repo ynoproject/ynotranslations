@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 37, Page 1, Line 4, Pos (51,54)
+#. Contains choice at line 2 (2 options)
+#. ID 50, Page 1, Line 4, Pos (52,54)
+#. Contains choice at line 2 (2 options)
+msgid "- Human, what do you want."
+msgstr "- 凡人，你需要什么。"
+
+#. ID 37, Page 1, Line 5, Pos (51,54)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 5, Pos (52,54)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Normal\n"
+"Fast"
+msgstr ""
+
+#. ID 64, Page 1, Line 1, Pos (49,58)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to stop 3D projection?"
+msgstr "- 要停止3D投影么？"
+
+#. ID 64, Page 1, Line 2, Pos (49,58)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+
+#. ID 75, Page 1, Line 3, Pos (63,56)
+msgid ""
+"- Take a sip of the healing spring, hurry,\n"
+"while you still have a breath.(lololololol)"
+msgstr ""
+"- 趁你还有一口气，赶紧喝一口治疗之泉吧。\n"
+"（lololololol）"
+
+#. ID 75, Page 1, Line 8, Pos (63,56)
+msgid "- I'm feeling!"
+msgstr "- 我感觉！"
+
+#. ID 75, Page 1, Line 9, Pos (63,56)
+msgid "- A little tired neh"
+msgstr "- 有点困哎"
+
+#. ID 75, Page 1, Line 12, Pos (63,56)
+msgid "- How greedy are you."
+msgstr "- 你怎么这么贪心。"
+

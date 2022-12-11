@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Page 1, Line 6, Pos (10,11)
+#. ID 11, Page 1, Line 6, Pos (11,11)
+#. ID 14, Page 1, Line 6, Pos (14,11)
+#. ID 15, Page 1, Line 6, Pos (13,11)
+msgid "                 - Spacesuit GET -"
+msgstr "                  - 宇航服 上手 -"
+
+#. ID 17, Page 1, Line 1, Pos (24,11)
+msgid ""
+"- Please put on a spacesuit when entering outer\n"
+"  space, thank you for your cooperation."
+msgstr "- 请在进入宇宙时穿上宇航服，多谢合作。"
+
+#. ID 19, Page 1, Line 8, Pos (1,11)
+msgid "- Outside is outer space..."
+msgstr "- 外面是宇宙呢..."
+
+#. ID 98, Page 1, Line 1, Pos (12,11)
+msgid ""
+"- In outer space, please pay attention to the \n"
+"  oxygen meter and supplement oxygen in time\n"
+"  to avoid accidents."
+msgstr ""
+"- 在宇宙时，请注意氧气值并及时补充氧气，\n"
+"  避免事故发生。"
+

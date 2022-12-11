@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 3, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 1, Line 3, Pos (7,12)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 1, Line 3, Pos (7,13)
+#. Contains choice at line 2 (2 options)
+msgid "- A lump of a cute thing_(=3_|)_"
+msgstr "- 一坨很萌的东西_(=3_|)_"
+
+#. ID 3, Page 1, Line 4, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 4, Pos (7,12)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Feed\n"
+"Follow"
+msgstr ""
+"喂食\n"
+"跟随"
+
+#. ID 3, Page 1, Line 7, Pos (7,11)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 1, Line 7, Pos (7,12)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 1, Line 7, Pos (7,13)
+#. Contains choice at line 2 (3 options)
+msgid "- What do you want to feed it?"
+msgstr "- 要喂它点什么吗？"
+
+#. ID 3, Page 1, Line 8, Pos (7,11)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 1, Line 8, Pos (7,12)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 1, Line 8, Pos (7,13)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Hanbargah\n"
+"Green Leaf\n"
+"Next Page"
+msgstr ""
+"汉八嘎\n"
+"青叶\n"
+"下一页"
+
+#. ID 3, Page 1, Line 22, Pos (7,11)
+#. ID 3, Page 1, Line 40, Pos (7,11)
+#. ID 3, Page 1, Line 61, Pos (7,11)
+#. ID 3, Page 1, Line 79, Pos (7,11)
+#. ID 3, Page 1, Line 97, Pos (7,11)
+#. ID 3, Page 1, Line 118, Pos (7,11)
+#. ID 3, Page 1, Line 136, Pos (7,11)
+#. ID 3, Page 1, Line 154, Pos (7,11)
+#. ID 4, Page 1, Line 22, Pos (7,12)
+#. ID 4, Page 1, Line 40, Pos (7,12)
+#. ID 4, Page 1, Line 61, Pos (7,12)
+#. ID 4, Page 1, Line 79, Pos (7,12)
+#. ID 4, Page 1, Line 97, Pos (7,12)
+#. ID 4, Page 1, Line 118, Pos (7,12)
+#. ID 4, Page 1, Line 136, Pos (7,12)
+#. ID 4, Page 1, Line 154, Pos (7,12)
+#. ID 5, Page 1, Line 22, Pos (7,13)
+#. ID 5, Page 1, Line 40, Pos (7,13)
+#. ID 5, Page 1, Line 61, Pos (7,13)
+#. ID 5, Page 1, Line 79, Pos (7,13)
+#. ID 5, Page 1, Line 97, Pos (7,13)
+#. ID 5, Page 1, Line 118, Pos (7,13)
+#. ID 5, Page 1, Line 136, Pos (7,13)
+#. ID 5, Page 1, Line 154, Pos (7,13)
+msgid "- How can yuu feed it without itt?"
+msgstr "- 你木有这东西怎么喂呐?"
+
+#. ID 3, Page 1, Line 46, Pos (7,11)
+#. Choice (4 options)
+#. ID 4, Page 1, Line 46, Pos (7,12)
+#. Choice (4 options)
+#. ID 5, Page 1, Line 46, Pos (7,13)
+#. Choice (4 options)
+msgid ""
+"Fatty\n"
+"Mask\n"
+"Egg\n"
+"Next Page"
+msgstr ""
+"胖子\n"
+"面具\n"
+"鸡蛋\n"
+"下一页"
+
+#. ID 3, Page 1, Line 103, Pos (7,11)
+#. Choice (4 options)
+#. ID 4, Page 1, Line 103, Pos (7,12)
+#. Choice (4 options)
+#. ID 5, Page 1, Line 103, Pos (7,13)
+#. Choice (4 options)
+msgid ""
+"Becoming Weird\n"
+"Master Thief\n"
+"Butcher\n"
+"Back to first page"
+msgstr ""
+"变得奇怪了\n"
+"神偷\n"
+"屠夫\n"
+"返回第一页"
+
+#. ID 3, Page 1, Line 177, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 1, Line 177, Pos (7,12)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 1, Line 177, Pos (7,13)
+#. Contains choice at line 2 (2 options)
+msgid "- Let Zabu follow you?"
+msgstr "- 要让扎布跟从吗？"
+
+#. ID 3, Page 1, Line 178, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 178, Pos (7,12)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 178, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+"seY\n"
+"oN"
+
+#. ID 36, Page 1, Line 2, Pos (12,10)
+#. ID 37, Page 1, Line 2, Pos (11,10)
+msgid "- Yeh! It's the cannibal flower!"
+msgstr "- 食人花嘢！"
+
+#. ID 36, Page 1, Line 3, Pos (12,10)
+#. ID 37, Page 1, Line 3, Pos (11,10)
+msgid "- How dangerous!"
+msgstr "- 好危险！"
+

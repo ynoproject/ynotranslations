@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 7, Pos (5,7)
+msgid "                  - Sadness GET -"
+msgstr "                   - 悲念 上手 -"
+
+#. ID 2, Page 1, Line 7, Pos (14,7)
+msgid "                - Condolence GET -"
+msgstr "                   - 哀悼 上手 -"
+
