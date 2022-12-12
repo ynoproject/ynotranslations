@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 8, Page 1, Line 1, Pos (12,9)
+#. ID 9, Page 1, Line 1, Pos (13,9)
+#. ID 10, Page 1, Line 1, Pos (14,9)
+msgid "- What the hell is this..."
+msgstr "- Qu'est-ce que c'est que cette chose..."

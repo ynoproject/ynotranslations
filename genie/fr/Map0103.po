@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 9, Page 1, Line 3, Pos (148,138)
+#. ID 15, Page 1, Line 3, Pos (154,138)
+#. ID 16, Page 1, Line 3, Pos (157,138)
+#. ID 17, Page 1, Line 3, Pos (160,138)
+#. ID 18, Page 1, Line 3, Pos (163,138)
+#. ID 20, Page 1, Line 3, Pos (166,138)
+#. ID 21, Page 1, Line 3, Pos (169,138)
+#. ID 22, Page 1, Line 3, Pos (172,138)
+#. ID 23, Page 1, Line 3, Pos (175,138)
+#. ID 24, Page 1, Line 3, Pos (178,138)
+#. ID 25, Page 1, Line 3, Pos (181,138)
+#. ID 26, Page 1, Line 3, Pos (184,138)
+#. ID 27, Page 1, Line 3, Pos (187,138)
+#. ID 28, Page 1, Line 3, Pos (190,138)
+msgid "- It's locked..."
+msgstr "- C'est verrouillé..."
+
+#. ID 31, Page 1, Line 3, Pos (139,185)
+#. Contains choice at line 2 (2 options)
+msgid "- The handle is a hand, should I open the door?..."
+msgstr ""
+"- La poignée est une main, devrais-je ouvrir la\n"
+"porte ?..."
+
+#. ID 31, Page 1, Line 4, Pos (139,185)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"non"

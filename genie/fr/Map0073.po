@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 48, Page 1, Line 2, Pos (42,12)
+#. Choice (2 options)
+msgid ""
+"Down inside?\n"
+"That's deep..."
+msgstr ""
+"Descendre ?\n"
+"C'est profond tout de même..."

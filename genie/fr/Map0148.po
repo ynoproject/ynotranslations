@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 11, Page 1, Line 2, Pos (9,12)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 2, Pos (9,11)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to jump down?"
+msgstr "- Veux-tu sauter ?"
+
+#. ID 11, Page 1, Line 3, Pos (9,12)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 3, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+"iuO\n"
+"noN"
+
+#. ID 11, Page 1, Line 16, Pos (9,12)
+#. ID 12, Page 1, Line 16, Pos (9,11)
+msgid "- Maybe I can get down somehow..."
+msgstr ""
+"- Peut-être que je peux descendre d'une\n"
+"  manière ou d'une autre..."

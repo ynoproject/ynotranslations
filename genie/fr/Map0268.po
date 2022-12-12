@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 13, Page 1, Line 1, Pos (11,40)
+#. ID 14, Page 1, Line 1, Pos (13,45)
+#. ID 15, Page 1, Line 1, Pos (20,40)
+msgid "- Welcome."
+msgstr "- Bienvenue."

@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 9, Page 1, Line 1, Pos (17,12)
+msgid ""
+"- I want to be alone. Anyway, I'm not welcome.\n"
+"There's no need for others to exist."
+msgstr ""
+"- Je veux être seule. Dans tous les cas, je ne\n"
+"  ne suis pas la bienvenue. Il n'y a pas\n"
+"  besoin que les autres existent."
+
+#. ID 11, Page 1, Line 1, Pos (3,9)
+msgid ""
+"- That day, she went to dinner with us as usual,\n"
+"but it was just a dream."
+msgstr ""
+"- Ce jour-là, elle était partie dîner avec nous\n"
+"  comme à l'accoutumée, mais c'était juste un\n"
+"  rêve."
+
+#. ID 33, Page 1, Line 15, Pos (13,11)
+msgid "- It's locked."
+msgstr "- C'est verrouillé."
