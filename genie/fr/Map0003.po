@@ -50,8 +50,8 @@ msgid ""
 "while you still have a breath.(lololololol)"
 msgstr ""
 "- Prends une petite gorgée de cette source\n"
-"curative, et dépêche-toi, pendant que tu as\n"
-"encore ton souffle. (lololololol)"
+"  curative, et dépêche-toi, pendant que tu\n"
+"  as encore ton souffle. (lololololol)"
 
 #. ID 75, Page 1, Line 8, Pos (63,56)
 msgid "- I'm feeling!"
