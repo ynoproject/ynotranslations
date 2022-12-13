@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 31, Page 1, Line 7, Pos (8,7)
+#. ID 35, Page 1, Line 7, Pos (10,7)
+#. ID 36, Page 1, Line 7, Pos (9,7)
+msgid "               - Spear of Fear GET -"
+msgstr "            - Lance de la Peur OBTENUE -"

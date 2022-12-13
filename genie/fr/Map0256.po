@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 3, Page 1, Line 1, Pos (9,5)
+#. ID 5, Page 1, Line 1, Pos (8,5)
+msgid "- It's locked."
+msgstr "- C'est verrouillé."
+
+#. ID 9, Page 1, Line 1, Pos (13,6)
+msgid "- Looks like a card needs to be swiped?"
+msgstr "- On dirait qu'il faut y glisser une carte ?"

@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 3, Page 1, Line 3, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 1, Line 3, Pos (7,12)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 1, Line 3, Pos (7,13)
+#. Contains choice at line 2 (2 options)
+msgid "- A lump of a cute thing_(=3_|)_"
+msgstr "- C'est un petit boutchou_(=3_|)_"
+
+#. ID 3, Page 1, Line 4, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 4, Pos (7,12)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Feed\n"
+"Follow"
+msgstr ""
+"Nourrir\n"
+"Suivre"
+
+#. ID 3, Page 1, Line 7, Pos (7,11)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 1, Line 7, Pos (7,12)
+#. Contains choice at line 2 (3 options)
+#. ID 5, Page 1, Line 7, Pos (7,13)
+#. Contains choice at line 2 (3 options)
+msgid "- What do you want to feed it?"
+msgstr ""
+"- Veux-tu le nourrir en lui donnant \n"
+"  quelque chose ?"
+
+#. ID 3, Page 1, Line 8, Pos (7,11)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 1, Line 8, Pos (7,12)
+#. Choice (3 options, embedded in a message)
+#. ID 5, Page 1, Line 8, Pos (7,13)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Hanbargah\n"
+"Green Leaf\n"
+"Next Page"
+msgstr ""
+"Hambargah\n"
+"Feuille verte\n"
+"Page suivante"
+
+#. ID 3, Page 1, Line 22, Pos (7,11)
+#. ID 3, Page 1, Line 40, Pos (7,11)
+#. ID 3, Page 1, Line 61, Pos (7,11)
+#. ID 3, Page 1, Line 79, Pos (7,11)
+#. ID 3, Page 1, Line 97, Pos (7,11)
+#. ID 3, Page 1, Line 118, Pos (7,11)
+#. ID 3, Page 1, Line 136, Pos (7,11)
+#. ID 3, Page 1, Line 154, Pos (7,11)
+#. ID 4, Page 1, Line 22, Pos (7,12)
+#. ID 4, Page 1, Line 40, Pos (7,12)
+#. ID 4, Page 1, Line 61, Pos (7,12)
+#. ID 4, Page 1, Line 79, Pos (7,12)
+#. ID 4, Page 1, Line 97, Pos (7,12)
+#. ID 4, Page 1, Line 118, Pos (7,12)
+#. ID 4, Page 1, Line 136, Pos (7,12)
+#. ID 4, Page 1, Line 154, Pos (7,12)
+#. ID 5, Page 1, Line 22, Pos (7,13)
+#. ID 5, Page 1, Line 40, Pos (7,13)
+#. ID 5, Page 1, Line 61, Pos (7,13)
+#. ID 5, Page 1, Line 79, Pos (7,13)
+#. ID 5, Page 1, Line 97, Pos (7,13)
+#. ID 5, Page 1, Line 118, Pos (7,13)
+#. ID 5, Page 1, Line 136, Pos (7,13)
+#. ID 5, Page 1, Line 154, Pos (7,13)
+msgid "- How can yuu feed it without itt?"
+msgstr "- Comment peux-tu le nourrir si tu n'en as pas ?"
+
+#. ID 3, Page 1, Line 46, Pos (7,11)
+#. Choice (4 options)
+#. ID 4, Page 1, Line 46, Pos (7,12)
+#. Choice (4 options)
+#. ID 5, Page 1, Line 46, Pos (7,13)
+#. Choice (4 options)
+msgid ""
+"Fatty\n"
+"Mask\n"
+"Egg\n"
+"Next Page"
+msgstr ""
+"Gras\n"
+"Masque\n"
+"Œuf\n"
+"Page suivante"
+
+#. ID 3, Page 1, Line 103, Pos (7,11)
+#. Choice (4 options)
+#. ID 4, Page 1, Line 103, Pos (7,12)
+#. Choice (4 options)
+#. ID 5, Page 1, Line 103, Pos (7,13)
+#. Choice (4 options)
+msgid ""
+"Becoming Weird\n"
+"Master Thief\n"
+"Butcher\n"
+"Back to first page"
+msgstr ""
+"Devenir bizarre\n"
+"Maître Voleur\n"
+"Boucher\n"
+"Retourner à la première page"
+
+#. ID 3, Page 1, Line 177, Pos (7,11)
+#. Contains choice at line 2 (2 options)
+#. ID 4, Page 1, Line 177, Pos (7,12)
+#. Contains choice at line 2 (2 options)
+#. ID 5, Page 1, Line 177, Pos (7,13)
+#. Contains choice at line 2 (2 options)
+msgid "- Let Zabu follow you?"
+msgstr "- Laisser Zabu vous suivre ?"
+
+#. ID 3, Page 1, Line 178, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 178, Pos (7,12)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 178, Pos (7,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+"iuO\n"
+"noN"
+
+#. ID 36, Page 1, Line 2, Pos (12,10)
+#. ID 37, Page 1, Line 2, Pos (11,10)
+msgid "- Yeh! It's the cannibal flower!"
+msgstr "- Waouh ! C'est la plante cannibale !"
+
+#. ID 36, Page 1, Line 3, Pos (12,10)
+#. ID 37, Page 1, Line 3, Pos (11,10)
+msgid "- How dangerous!"
+msgstr "- Comme c'est dangereux !"

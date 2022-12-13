@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 1, Page 1, Line 2, Pos (7,8)
+msgid ""
+"- If you are a cat maniac, when you go home \n"
+"  and climb the stairs, you live on the 7th floor. \n"
+"  And there is a cat on every floor. You want to\n"
+"  play with every cat."
+msgstr ""
+"- Vous êtes une maniaque des chats. Vous rentrez\n"
+"  chez vous et vous grimpez les marches car vous\n"
+"  vivez au 7ème étage. Il y a un chat par étage\n"
+"  et vous voulez jouer avec chacun des chats."
+
+#. ID 1, Page 1, Line 6, Pos (7,8)
+msgid ""
+"- How long will it take to get home if each cat\n"
+"  is played with for 10 minutes?"
+msgstr ""
+"- Combien de temps vous prendra-t-il si vous\n"
+"  jouez avec chaque chat pendant 10 minutes ?"
+
+#. ID 1, Page 1, Line 8, Pos (7,8)
+msgid ""
+"- Don't look at me, I'm not talking about myself\n"
+"  (Oopsie)"
+msgstr ""
+"- Ne me regarde pas, je ne parlais pas de moi\n"
+"  (Oupsi)"
+
+#. ID 6, Page 1, Line 2, Pos (4,8)
+msgid "- Whimsical plan institute"
+msgstr "- Institut des plans fantaisistes"
+
+#. ID 8, Page 1, Line 2, Pos (11,8)
+msgid ""
+"- When your parents' attitudes are a little \n"
+"  strange one day, will you feel that someone \n"
+"  is wearing a coat in the shape of mom\n"
+"  and dad, pretend to be your parents?"
+msgstr ""
+"- Le jour où l'attitude de tes parents sera un peu\n"
+"  bizarre, est-ce que tu auras l'impression que\n"
+"  quelqu'un porte une peau en forme de papa et de\n"
+"  maman, prétendant être tes parents ?"
+
+#. ID 9, Page 1, Line 2, Pos (15,8)
+msgid ""
+"- When sleeping, you must not face the wall,\n"
+"  because there is a lifeform standing in the\n"
+"  space behind you, which makes you afraid,\n"
+"  staring at the wall, which makes you motionless."
+msgstr ""
+"- Lorsque vous dormez, vous ne devez pas faire\n"
+"  face à un mur dû à la forme de vie se tenant\n"
+"  dans l'espace juste derrière vous.\n"
+"<easyrpg:new_page>\n"
+"- Elle va vous effrayer, observant le mur,\n"
+"  et va vous rendre immobile."
+
+#. ID 9, Page 1, Line 6, Pos (15,8)
+msgid ""
+"- So you must sleep away\n"
+"  from the wall, so that thing will not appear."
+msgstr ""
+"- Vous devez donc dormir loin du mur,\n"
+"  pour que cette chose n'apparaisse pas."
+
+#. ID 9, Page 1, Line 8, Pos (15,8)
+msgid ""
+"- What if there were no walls on both sides, and\n"
+"  the bed is placed in the middle of the house?"
+msgstr ""
+"- Que se passerait-il si aucun mur n'est présent\n"
+"  des deux côtés, et que le lit est placé au\n"
+"  milieu de la maison ?"
+
+#. ID 9, Page 1, Line 10, Pos (15,8)
+msgid "(If that were me, I would sleep under the bed)"
+msgstr "(Si c'était moi, j'irais dormir sous le lit)"
+
+#. ID 9, Page 1, Line 11, Pos (15,8)
+msgid ""
+"- Then when you sleep, you must cover \n"
+"  your body with a quilt, no matter how hot it is.\n"
+"  Otherwise, there will be creatures that you fear"
+msgstr ""
+"- Alors lorsque vous irez dormir, vous devrez\n"
+"  couvrir votre corps avec une couette, qu'importe\n"
+"  sa chaleur. Autrement, il y aura des créatures\n"
+"  effrayantes"
+
+#. ID 9, Page 1, Line 14, Pos (15,8)
+msgid "- To tickle you."
+msgstr "- Pour te chatouiller."

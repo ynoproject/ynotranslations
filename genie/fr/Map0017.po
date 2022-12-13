@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 182, Page 1, Line 7, Pos (69,20)
+#. ID 183, Page 1, Line 7, Pos (70,20)
+#. ID 184, Page 1, Line 7, Pos (71,20)
+#. ID 185, Page 1, Line 7, Pos (72,20)
+#. ID 186, Page 1, Line 7, Pos (73,20)
+msgid "                  - Poison GET -"
+msgstr "                 - Poison OBTENU -"
