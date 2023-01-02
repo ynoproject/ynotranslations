@@ -796,16 +796,16 @@ msgid "Over"
 msgstr "Terminer"
 
 msgctxt "terms.new_game"
-msgid "    P   "
-msgstr "P"
+msgid "P"
+msgstr "J"
 
 msgctxt "terms.load_game"
-msgid "   L    "
-msgstr " L"
+msgid " L"
+msgstr " C"
 
 msgctxt "terms.exit_game"
-msgid "    E   "
-msgstr "   E"
+msgid "   E"
+msgstr "   Q"
 
 msgctxt "terms.level"
 msgid "Lv."

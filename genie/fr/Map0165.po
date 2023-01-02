@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 4, Page 1, Line 4, Pos (6,6)
+msgid ""
+"¡ªÃæ¾ßÉÏÊÖ¡ª\n"
+" __(=3_|  )==<()"
+msgstr ""
+"- Masque OBTENU -\n"
+" __(=3_|  )==<()"
+
+#. ID 9, Page 1, Line 4, Pos (5,6)
+msgid ""
+"¡ª¼¦µ°ÉÏÊÖ¡ª\n"
+" __(=3_|  )==<()"
+msgstr ""
+"- Œuf OBTENU -\n"
+" __(=3_|  )==<()"
+
+#. ID 10, Page 1, Line 4, Pos (4,6)
+msgid ""
+"¡ª±äµÃÆæ¹ÖÁËÉÏÊÖ¡ª\n"
+" __(=3_|  )==<()"
+msgstr ""
+"- Devenir bizarre OBTENU -\n"
+" __(=3_|  )==<()"
+
+#. ID 11, Page 1, Line 4, Pos (3,6)
+msgid ""
+"¡ªÉñÍµÉÏÊÖ¡ª\n"
+" __(=3_|  )==<()"
+msgstr ""
+"- Maître voleur OBTENU -\n"
+" __(=3_|  )==<()"
