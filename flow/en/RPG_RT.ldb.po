@@ -196,7 +196,7 @@ msgstr "Daruma"
 #. ID 24
 msgctxt "items.description"
 msgid "｢だるま｣になる。"
-msgstr "Become a Daruma"
+msgstr "Become a Daruma."
 
 #. ID 25
 #. ID 26
