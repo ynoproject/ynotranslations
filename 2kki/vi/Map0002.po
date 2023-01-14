@@ -1,0 +1,1352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 5, Pos (12,4)
+#. Condition (Actor Name = 【壁紙ｷﾞｬﾗﾘｰへ入室する】)
+#. ID 6, Page 6, Line 585, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【壁紙ｷﾞｬﾗﾘｰへ入室する】"
+msgstr ""
+
+#. ID 6, Page 2, Line 91, Pos (12,5)
+#. Condition (Actor Name = Player Name)
+msgctxt "actors.name"
+msgid "Player Name"
+msgstr ""
+
+#. ID 6, Page 2, Line 92, Pos (12,5)
+#. ChangeHeroName (Actor 7)
+#. ID 6, Page 2, Line 96, Pos (12,5)
+#. ChangeHeroName (Actor 7)
+#. ID 6, Page 6, Line 415, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 444, Pos (12,5)
+#. Condition (Actor Name = うろつき)
+#. ID 6, Page 6, Line 458, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 1, Line 17, Pos (12,6)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Urotsuki"
+
+#. ID 6, Page 4, Line 601, Pos (12,5)
+#. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
+#. ID 6, Page 5, Line 187, Pos (12,5)
+#. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
+msgctxt "actors.name"
+msgid "ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ"
+msgstr ""
+
+#. ID 6, Page 4, Line 746, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No. \\V[46] に変更しました\n"
+"\\>文字色サンプル:\\C[0]$j通常 \\C[1]$k強調 \\C[3]$m選択不可"
+msgstr ""
+"\\>Đã đổi thành kiểu số \\V[46] \n"
+"\\>Mẫu màu: \\C[0]$jBình thường \\C[1]$kNhấn mạnh \\C[3]$mKhóa"
+
+#. ID 6, Page 4, Line 748, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\C[0]これでOK\n"
+"\\>選びなおす"
+msgstr ""
+"\\>\\C[0]Xác nhận\n"
+"\\>Chọn lại"
+
+#. ID 6, Page 4, Line 946, Pos (12,5)
+msgid ""
+"\n"
+"\\>　／ No.   ／\n"
+"\\>♪再生中：カーソル移動音 \\<\\.\\.\\^"
+msgstr ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪ Hiện đang phát: Âm thanh con trỏ \\<\\.\\.\\^"
+
+#. ID 6, Page 4, Line 951, Pos (12,5)
+msgid ""
+"\n"
+"\\>　／ No.   ／\n"
+"\\>♪再生中：決定音\\<\\.\\.\\^"
+msgstr ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪ Hiện đang phát: Âm thanh chọn \\<\\.\\.\\^"
+
+#. ID 6, Page 4, Line 956, Pos (12,5)
+msgid ""
+"\n"
+"\\>　／ No.   ／\n"
+"\\>♪再生中：キャンセル音\\<\\.\\.\\^"
+msgstr ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪ Hiện đang phát: Âm thanh hủy \\<\\.\\.\\^"
+
+#. ID 6, Page 5, Line 330, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 5, Line 347, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 74, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【PC画面BGMを演奏する】"
+msgstr ""
+
+#. ID 6, Page 5, Line 361, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>No. \\V[1405]に変更しました"
+msgstr "\\> Đã đổi thành BGM số \\V[1405]"
+
+#. ID 6, Page 5, Line 362, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>これでOK\n"
+"\\>選びなおす"
+msgstr ""
+"\\>Xác nhận\n"
+"\\>Chọn lại"
+
+#. ID 6, Page 5, Line 365, Pos (12,5)
+msgid ""
+"\\>No. \\V[17]：\n"
+"\\>サウンドルームで登録した曲をBGMに設定します。\n"
+"\\>\n"
+"\\>サウンドルームでShiftキーを押すと登録できます。"
+msgstr ""
+"\\>Số \\V[17]:\n"
+"\\>Đặt thành BGM đã chọn trong Sound Room.\n"
+"\\>\n"
+"\\>Chọn BGM bằng phím Shift trong Sound Room."
+
+#. ID 6, Page 5, Line 372, Pos (12,5)
+msgid ""
+"\\>No. \\V[17]：\n"
+"\\>サウンドルームのメモリーからランダムに設定します。\n"
+"\\>\n"
+"\\>(メモリー登録が無い場合は無音になります。)"
+msgstr ""
+"\\>Số \\V[17]: \n"
+"\\>Đặt ngẫu nhiên từ danh sách phát trong Sound Room.\n"
+"\\>\n"
+"\\>(Nhạc sẽ không phát nếu danh sách phát trống.)"
+
+#. ID 6, Page 5, Line 379, Pos (12,5)
+msgid ""
+"\\>No. \\V[17]：\n"
+"\\>サウンドルームの曲からランダムに設定します。\n"
+"\\>\n"
+"\\>(未開放曲がいっぱいあると時間がかかるかも。)"
+msgstr ""
+"\\>Số \\V[17]: \n"
+"\\>Chọn ngẫu nhiên một BGM từ Sound Room.\n"
+"\\>\n"
+"\\>(Quá trình sẽ lâu hơn nếu nhiều BGM bị khóa.)"
+
+#. ID 6, Page 6, Line 83, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 602, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 629, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【外部マップから壁紙を表示する】"
+msgstr ""
+
+#. ID 6, Page 6, Line 352, Pos (12,5)
+msgid ""
+"\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]\n"
+"\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
+msgstr ""
+"\\>!! Không thể lưu trong Chế độ Thử thách Hẹn giờ !!\n"
+"\\>Thời gian chơi:  \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
+"\\>Phá đảo lần đầu:  \\C[4]\\v[3520] giờ \\v[3519] phút \\v[3518] giây\\C[0]\n"
+"\\>\\C[2]　　　　(Bao gồm thời gian trong các menu)"
+
+#. ID 6, Page 6, Line 358, Pos (12,5)
+msgid ""
+"\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
+"\\>\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
+msgstr ""
+"\\>!! Không thể lưu trong Chế độ Thử thách Hẹn giờ !!\n"
+"\\>\n"
+"\\>Thời gian chơi:  \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
+"\\>\\C[2]　　　　(Bao gồm thời gian trong các menu)"
+
+#. ID 6, Page 6, Line 414, Pos (12,5)
+msgid "\\>♪Secret Code：\\V[15]"
+msgstr "\\>♪ Mật mã: \\V[15]"
+
+#. ID 6, Page 6, Line 420, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 427, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 434, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 441, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Code入力中"
+msgstr "Nhập mã"
+
+#. ID 6, Page 6, Line 464, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【SR分室へ入室する】"
+msgstr ""
+
+#. ID 6, Page 6, Line 540, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>通知機能を設定してください"
+msgstr "\\>Đặt chế độ thông báo"
+
+#. ID 6, Page 6, Line 541, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"・ON\n"
+"・OFF\n"
+"・あとで設定する"
+msgstr ""
+"・Bật\n"
+"・Tắt\n"
+"・Để sau"
+
+#. ID 6, Page 6, Line 549, Pos (12,5)
+msgid "\\>壁紙メニューのオプションで設定が変えられます"
+msgstr "\\>Thay đổi tùy chọn trong cài đặt hình nền PC"
+
+#. ID 6, Page 6, Line 564, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 574, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+#. ID 6, Page 6, Line 617, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 651, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "Tắt"
+
+#. ID 6, Page 6, Line 567, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 571, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+#. ID 6, Page 6, Line 620, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 647, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "Bật"
+
+#. ID 6, Page 6, Line 578, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
+msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] H.nền h.tại: Số \\C[4]\\V[19] \\C[0]Ng. nhiên: \\C[4]\\N[2] \\C[0]Mới: \\C[4]\\N[3]\\C[0]"
+
+#. ID 6, Page 6, Line 579, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>・壁紙を選ぶ\n"
+"\\>・壁紙を読み込み\n"
+"\\>・オプション"
+msgstr ""
+"\\>・Chọn hình nền\n"
+"\\>・Nhập hình nền\n"
+"\\>・Cài đặt"
+
+#. ID 6, Page 6, Line 595, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
+"\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
+msgstr ""
+"\\>Tệp ở ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back sẽ được sử dụng.\n"
+"\\>\\C[4]Nếu không thể đọc tệp, trò chơi sẽ bị crash.\\C[0]"
+
+#. ID 6, Page 6, Line 597, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・壁紙を読み込む\n"
+"\\>・やめる"
+msgstr ""
+"\\>・Nhập hình nền\n"
+"\\>・Thoát"
+
+#. ID 6, Page 6, Line 613, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\C[4]壁紙オプション\\C[0]"
+msgstr "\\>\\C[4]Cài đặt hình nền\\C[0]"
+
+#. ID 6, Page 6, Line 614, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>・ランダムモード 切替\n"
+"\\>・新着通知設定 切替\n"
+"\\>・New表示操作"
+msgstr ""
+"\\>・Chế độ ngẫu nhiên\n"
+"\\>・Thông báo có hình nền mới\n"
+"\\>・Tùy chọn thông báo hình nền"
+
+#. ID 6, Page 6, Line 623, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\C[3]\\>壁紙をランダムで自動切り替えします\n"
+"\\>現在：\\C[4]\\N[2]\\C[3]"
+msgstr ""
+"\\C[3]\\>Tự động thay đổi hình nền ngẫu nhiên\n"
+"\\>Cài đặt hiện tại: \\C[4]\\N[2]\\C[3]"
+
+#. ID 6, Page 6, Line 625, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 6, Line 658, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・ON\n"
+"\\>・OFF"
+msgstr ""
+"\\>・Bật\n"
+"\\>・Tắt"
+
+#. ID 6, Page 6, Line 633, Pos (12,5)
+#. ID 6, Page 6, Line 661, Pos (12,5)
+msgid "\\>ONにしました。"
+msgstr "\\>Đã bật tùy chọn."
+
+#. ID 6, Page 6, Line 638, Pos (12,5)
+#. ID 6, Page 6, Line 665, Pos (12,5)
+msgid "\\>OFFにしました。"
+msgstr "\\>Đã tắt tùy chọn."
+
+#. ID 6, Page 6, Line 656, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>Thông báo hình nền mới　Cài đặt hiện tại: \\C[4]\\N[2]\\C[0]\n"
+
+#. ID 6, Page 6, Line 674, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>"
+msgstr ""
+"\\>\\C[3]Đánh dấu hoặc bỏ đánh dấu tất cả hình nền là mới\n"
+"\\>"
+
+#. ID 6, Page 6, Line 676, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・入手済みの全ての壁紙からNew表示を外す\n"
+"\\>・入手済みの全ての壁紙にNew表示をつける"
+msgstr ""
+"\\>・Bỏ đánh dấu tất cả hình nền là mới\n"
+"\\>・Đánh dấu tất cả hình nền là mới"
+
+#. ID 6, Page 6, Line 678, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "入手済みの全ての壁紙からNew表示を外し"
+msgstr "bỏ đánh dấu tất cả hình nền là mới"
+
+#. ID 6, Page 6, Line 683, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "入手済みの全ての壁紙にNew表示をつけ"
+msgstr "đánh dấu tất cả hình nền là mới"
+
+#. ID 6, Page 6, Line 693, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2]ています。\n"
+"\\>  ・\\<\\|\\^"
+msgstr ""
+"\\>\\C[3]Hiển thị ký hiệu mới cho tất cả các hình nền\n"
+"\\>\n"
+"\\>  Đang \\C[4]\\N[2].\n"
+"\\>  ・\\<\\|\\^"
+
+#. ID 6, Page 6, Line 699, Pos (12,5)
+#. ID 6, Page 6, Line 711, Pos (12,5)
+#. ID 6, Page 6, Line 723, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]処理を中断しました。"
+msgstr ""
+"\\>\\C[3]Hiển thị ký hiệu mới cho tất cả các hình nền\n"
+"\\>\n"
+"\\>  \\C[4]Quá trình bị gián đoạn."
+
+#. ID 6, Page 6, Line 705, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2]ています。\n"
+"\\>  ・・\\<\\|\\^"
+msgstr ""
+"\\>\\C[3]Hiển thị ký hiệu mới cho tất cả các hình nền\n"
+"\\>\n"
+"\\>  Đang \\C[4]\\N[2].\n"
+"\\>  ・・\\<\\|\\^"
+
+#. ID 6, Page 6, Line 717, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2]ています。\n"
+"\\>  ・・・\\<\\|\\^"
+msgstr ""
+"\\>\\C[3]Hiển thị ký hiệu mới cho tất cả các hình nền\n"
+"\\>\n"
+"\\>  Đang \\C[4]\\N[2].\n"
+"\\>  ・・・\\<\\|\\^"
+
+#. ID 6, Page 6, Line 729, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【New表示状態を操作する】"
+msgstr ""
+
+#. ID 6, Page 6, Line 732, Pos (12,5)
+msgid "\\>\\C[3]\\N[2]ました。"
+msgstr "\\>Đã \\C[3]\\N[2]."
+
+#. ID 6, Page 6, Line 738, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マップ到達"
+msgstr ""
+
+#. ID 6, Page 6, Line 765, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ナシ"
+msgstr "Tắt"
+
+#. ID 6, Page 6, Line 768, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "アリ"
+msgstr "Bật"
+
+#. ID 6, Page 6, Line 773, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
+msgstr "\\>Sự kiện chữ đặc biệt trong mơ　Cài đặt hiện tại: \\C[4]\\N[2]\\C[0]"
+
+#. ID 6, Page 6, Line 774, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>・アリ\n"
+"\\>・ナシ\n"
+"\\>・設定終了"
+msgstr ""
+"\\>・Bật\n"
+"\\>・Tắt\n"
+"\\>・Đóng cài đặt"
+
+#. ID 6, Page 6, Line 777, Pos (12,5)
+msgid "\\>アリにしました。"
+msgstr "\\>Đã bật tùy chọn."
+
+#. ID 6, Page 6, Line 781, Pos (12,5)
+msgid "\\>ナシにしました。"
+msgstr "\\>Đã tắt tùy chọn."
+
+#. ID 6, Page 6, Line 799, Pos (12,5)
+#. Choice (4 options)
+msgid ""
+"\\>・メニュータイプ＆効果音変更\n"
+"\\>・PC画面BGM変更\n"
+"\\>・デフォルトに戻す\n"
+"\\>・設定終了"
+msgstr ""
+"\\>・Kiểu menu và Hiệu ứng âm thanh\n"
+"\\>・BGM cho PC\n"
+"\\>・Đặt lại về mặc định\n"
+"\\>・Đóng cài đặt"
+
+#. ID 6, Page 6, Line 823, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>以下の設定をデフォルトに戻します。\n"
+"\\>メニュータイプ / 効果音 / PC画面BGM"
+msgstr ""
+"\\>Đặt lại các cài đặt về mặc định.\n"
+"\\>Kiểu menu / Hiệu ứng âm thanh / BGM cho PC"
+
+#. ID 6, Page 6, Line 825, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・デフォルトに戻す\n"
+"\\>・キャンセル"
+msgstr ""
+"\\>・Đặt lại\n"
+"\\>・Hủy"
+
+#. ID 6, Page 6, Line 833, Pos (12,5)
+msgid ""
+"\\>メニュータイプ / 効果音 / PC画面BGM\n"
+"\\>…をデフォルトに戻しました。"
+msgstr ""
+"\\>Kiểu menu / Hiệu ứng âm thanh / BGM cho PC\n"
+"\\>Đã đặt lại về mặc định."
+
+#. ID 6, Page 6, Line 918, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "00000"
+msgstr ""
+
+#. ID 6, Page 6, Line 920, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "0000"
+msgstr ""
+
+#. ID 6, Page 6, Line 924, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "000"
+msgstr ""
+
+#. ID 6, Page 6, Line 928, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "00"
+msgstr ""
+
+#. ID 6, Page 6, Line 932, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "0"
+msgstr ""
+
+#. ID 6, Page 6, Line 943, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+#. ID 6, Page 6, Line 1007, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>\\C[4]【DATA】\\C[0]　ゆめ２っき　ver\\V[7]\\N[4]\\V[9]\\N[2]"
+msgstr "\\>\\C[4]【DATA】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
+
+#. ID 6, Page 6, Line 944, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>プレイ記録を見る\n"
+"\\>エンディングを見返す\n"
+"\\>このウィンドウを閉じる"
+msgstr ""
+"\\>Xem dữ liệu chơi\n"
+"\\>Xem lại kết thúc\n"
+"\\>Đóng cửa sổ"
+
+#. ID 6, Page 6, Line 946, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
+"\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]\n"
+"\\>(最初に入手したエフェクトは \\C[4]\\N[8]\\C[0])"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
+"\\>　　Phiên bản: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Hiệu ứng: \\C[4]\\V[2]％\\C[0]\n"
+"\\>(Hiệu ứng đầu tiên nhận được là \\C[4]\\N[8]\\C[0])"
+
+#. ID 6, Page 6, Line 950, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
+"\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
+"\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
+"\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
+"\\>Sound Room : \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Hình nền PC: \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Kura Puzzle: \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
+
+#. ID 6, Page 6, Line 955, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間\\C[0]\n"
+"\\>　　　　(メニュー画面を開いている時間を含めず)\n"
+"\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Thời gian chơi: \\C[4]\\v[87] giờ\\C[0]\n"
+"\\>　　　　(Bao gồm thời gian trong các menu)\n"
+"\\>Phá đảo lần đầu: \\C[4]\\v[3520] giờ \\v[3519] phút \\v[3518] giây\\C[0]"
+
+#. ID 6, Page 6, Line 961, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>　　　　(メニュー画面を開いている時間を含めず)\n"
+"\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Thời gian chơi: \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
+"\\>　　　　(Bao gồm thời gian trong các menu)\n"
+"\\>Phá đảo lần đầu: \\C[4]\\v[3520] giờ \\v[3519] phút \\v[3518] giây\\C[0]"
+
+#. ID 6, Page 6, Line 968, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Số ngày đã ngủ: \\C[4]\\v[43] ngày\\C[0]\n"
+"\\>　Số bước đi:     \\C[4]\\v[90] bước\\C[0]"
+
+#. ID 6, Page 6, Line 973, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[91]\\N[3]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Số ngày đã ngủ: \\C[4]\\v[43] ngày\\C[0]\n"
+"\\>　Số bước đi:     \\C[4]\\v[91]\\N[3]\\v[90] bước\\C[0]"
+
+#. ID 6, Page 6, Line 978, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
+"\\>訪れた世界： \\C[4]\\V[71]ヵ所\\C[0]ぐらい\n"
+"\\>　　殺傷数： \\C[4]\\v[3936]回\\C[0](無機物も含む)"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
+"\\>Số địa điểm đã đến: \\C[4]\\V[71]\\C[0] (ước tính) \n"
+"\\>Số người đã giết:   \\C[4]\\v[3936]\\C[0] (bao gồm các vật tĩnh)"
+
+#. ID 6, Page 6, Line 1008, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>プレイ記録を見る\n"
+"\\>このウィンドウを閉じる"
+msgstr ""
+"\\>Xem dữ liệu chơi\n"
+"\\>Đóng cửa sổ"
+
+#. ID 6, Page 6, Line 1010, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
+"\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
+"\\>　　Phiên bản: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Hiệu ứng: \\C[4]\\V[2]％\\C[0]"
+
+#. ID 6, Page 6, Line 1013, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
+"\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
+"\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
+"\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
+"\\>Sound Room : \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Hình nền PC: \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Kura Puzzle: \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
+
+#. ID 6, Page 6, Line 1017, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>　　　　(メニュー画面を開いている時間を含めず)"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
+"\\>Thời gian chơi: \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
+"\\>　　　　(Bao gồm thời gian trong các menu)"
+
+#. ID 6, Page 6, Line 1021, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　Số ngày đã ngủ: \\C[4]\\v[43] ngày\\C[0]\n"
+"\\>　Số bước đi:     \\C[4]\\v[90] bước\\C[0]"
+
+#. ID 6, Page 6, Line 1026, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[91]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　Số ngày đã ngủ: \\C[4]\\v[43] ngày\\C[0]\n"
+"\\>　Số bước đi:     \\C[4]\\v[91]\\v[90] bước\\C[0]"
+
+#. ID 6, Page 6, Line 1040, Pos (12,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "女の子"
+msgstr ""
+
+#. ID 9, Page 2, Line 13, Pos (9,10)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "            "
+msgstr ""
+
+#. ID 9, Page 2, Line 14, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "\\>\\C[5]                              SCORE \\C[0]"
+msgstr ""
+
+#. ID 9, Page 2, Line 15, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\N[2]  Original ver - \\V[1012]\n"
+"\\>\\N[2]     EX ver    - \\V[1454]"
+msgstr ""
+
+#. ID 9, Page 3, Line 72, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>前回セーブまでの死亡回数：\\v[1262]\n"
+"\\>ロードしますか？"
+msgstr ""
+"\\>Số lần chết từ lần lưu cuối: \\v[1262]\n"
+"\\>Bạn có muốn mở tệp?"
+
+#. ID 9, Page 3, Line 74, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Có\n"
+"Không"
+
+#. ID 9, Page 3, Line 118, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 3, Line 150, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "\\>ゲームを終了しますか？"
+msgstr "\\>Thoát trò chơi?"
+
+#. ID 9, Page 3, Line 119, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 3, Line 151, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Có\n"
+"\\>Không"
+
+#. ID 12, Page 2, Line 10, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 12, Page 2, Line 76, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おおかみ"
+msgstr "Sói "
+
+#. ID 12, Page 2, Line 11, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 12, Page 2, Line 85, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バイク"
+msgstr "Xe máy"
+
+#. ID 12, Page 2, Line 18, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテ"
+msgstr "Hai chùm"
+
+#. ID 12, Page 2, Line 19, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 12, Page 2, Line 68, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めがね"
+msgstr "Mắt kính"
+
+#. ID 12, Page 2, Line 26, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 12, Page 2, Line 125, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "はにわ"
+msgstr "Haniwa"
+
+#. ID 12, Page 2, Line 27, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 12, Page 2, Line 133, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ケーキ"
+msgstr "Bánh ngọt"
+
+#. ID 12, Page 2, Line 34, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "レインコート"
+msgstr "Áo mưa"
+
+#. ID 12, Page 2, Line 44, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "くろでんわ"
+msgstr "Điện thoại"
+
+#. ID 12, Page 2, Line 48, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おとこのこ"
+msgstr "Bé trai"
+
+#. ID 12, Page 2, Line 52, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "チェーンソー"
+msgstr "Cưa máy"
+
+#. ID 12, Page 2, Line 56, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "カンテラ"
+msgstr "Đèn lồng"
+
+#. ID 12, Page 2, Line 60, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ようせい"
+msgstr "Tiểu tiên"
+
+#. ID 12, Page 2, Line 64, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うちゅうふく"
+msgstr "Phi hành gia"
+
+#. ID 12, Page 2, Line 72, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "にじ"
+msgstr "Cầu vồng"
+
+#. ID 12, Page 2, Line 80, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めだま"
+msgstr "Bom "
+
+#. ID 12, Page 2, Line 81, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ばくだん"
+msgstr "cầu mắt"
+
+#. ID 12, Page 2, Line 89, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "まいこ"
+msgstr "Maiko"
+
+#. ID 12, Page 2, Line 93, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテール"
+msgstr "Hai chùm"
+
+#. ID 12, Page 2, Line 97, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ぺんぎん"
+msgstr "Cánh cụt"
+
+#. ID 12, Page 2, Line 101, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "むし"
+msgstr "Côn trùng"
+
+#. ID 12, Page 2, Line 105, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バネ"
+msgstr "Lò xo"
+
+#. ID 12, Page 2, Line 109, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "とうめい"
+msgstr "Tàng hình"
+
+#. ID 12, Page 2, Line 113, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "がくラン"
+msgstr "Nam sinh"
+
+#. ID 12, Page 2, Line 117, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ギプス"
+msgstr "Bó bột"
+
+#. ID 12, Page 2, Line 121, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "せのび"
+msgstr "Giãn dài"
+
+#. ID 12, Page 2, Line 129, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "トロンボーン"
+msgstr "Trombone"
+
+#. ID 12, Page 2, Line 137, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "こども"
+msgstr "Trẻ em"
+
+#. ID 12, Page 2, Line 141, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "あかずきん"
+msgstr "Khăn Đỏ"
+
+#. ID 12, Page 2, Line 145, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ティッシュ"
+msgstr "Khăn giấy"
+
+#. ID 12, Page 2, Line 149, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "コウモリ"
+msgstr "Dơi"
+
+#. ID 12, Page 2, Line 153, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ポリゴン"
+msgstr "Đa giác"
+
+#. ID 12, Page 2, Line 157, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "てるてる"
+msgstr "Búp bê "
+
+#. ID 12, Page 2, Line 158, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ぼうず"
+msgstr "thời tiết"
+
+#. ID 12, Page 2, Line 162, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マージナル"
+msgstr "Marginal"
+
+#. ID 12, Page 2, Line 166, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ドラムかん"
+msgstr "Trống"
+
+#. ID 12, Page 2, Line 170, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おはか"
+msgstr "Mộ"
+
+#. ID 12, Page 2, Line 174, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ふみきり"
+msgstr "Tín hiệu Đường sắt"
+
+#. ID 12, Page 2, Line 178, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うさみみ"
+msgstr "Tai thỏ"
+
+#. ID 12, Page 2, Line 182, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "サイコロ"
+msgstr "Xúc xắc"
+
+#. ID 12, Page 2, Line 186, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "なし（エフェ"
+msgstr "Không "
+
+#. ID 12, Page 2, Line 187, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "クト解除）"
+msgstr "hiệu ứng"
+
+#. ID 12, Page 3, Line 23, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 30, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+#. ID 12, Page 3, Line 43, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 90, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[1]使用中"
+msgstr "\\C[1]Bật"
+
+#. ID 12, Page 3, Line 26, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 33, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+#. ID 12, Page 3, Line 47, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 94, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[2]未使用"
+msgstr "\\C[2]Tắt"
+
+#. ID 12, Page 3, Line 36, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "\\C[0]エフェ"
+msgstr "\\C[0]"
+
+#. ID 12, Page 3, Line 38, Pos (13,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\> ★ シフトキー拡張機能 ★ "
+msgstr "\\> ★ Chức năng phím Shift ★ "
+
+#. ID 12, Page 3, Line 39, Pos (13,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>お気に入りエフェクト　　:\\N[4]\n"
+"\\>\\N[5]クトシフトチェンジ:\\N[6]\n"
+"\\>\\C[0]やめる"
+msgstr ""
+"\\>Hiệu ứng yêu thích : \\N[4]\n"
+"\\>\\N[5]Chọn hiệu ứng nhanh: \\N[6]\n"
+"\\>\\C[0]Thoát"
+
+#. ID 12, Page 3, Line 44, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+#. ID 12, Page 3, Line 91, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "使わない"
+msgstr "Tắt"
+
+#. ID 12, Page 3, Line 48, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+#. ID 12, Page 3, Line 95, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "使う"
+msgstr "Bật"
+
+#. ID 12, Page 3, Line 51, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\> ★ お気に入りエフェクト ★ \n"
+"\\>※現在の設定:\\N[4]\\C[0]　\\N[2]\\N[3]"
+msgstr ""
+"\\> ★ Hiệu ứng yêu thích ★ \n"
+"\\>* Cài đặt hiện tại: \\N[4]\\C[0]　\\N[2]\\N[3]"
+
+#. ID 12, Page 3, Line 53, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\N[5]\n"
+"\\>せつめい"
+msgstr ""
+"\\>\\N[5]\n"
+"\\>Trợ giúp"
+
+#. ID 12, Page 3, Line 58, Pos (13,5)
+msgid ""
+"\\>※\"使う\"に変更しました。\n"
+"\\>　登録エフェクトを変更するときは、\n"
+"\\>　登録したいエフェクトを使用している状態で\n"
+"\\>　夢の中にあるこの引き出しを調べてください。"
+msgstr ""
+"\\> Đã bật tùy chọn.\n"
+"\\>　Khi bạn muốn đánh dấu một hiệu ứng, tương tác \n"
+"\\>　với ngăn kéo trong phòng ngủ trong mơ với \n"
+"\\>　hiệu ứng bạn muốn đánh dấu."
+
+#. ID 12, Page 3, Line 64, Pos (13,5)
+#. ID 12, Page 3, Line 108, Pos (13,5)
+msgid "\\>※\"使わない\"に変更しました。"
+msgstr "\\>Đã tắt tùy chọn."
+
+#. ID 12, Page 3, Line 70, Pos (13,5)
+msgid ""
+"\\>　★「お気に入りエフェクト」機能について★\n"
+"※エフェクトを一つお気に入りに登録します。\n"
+"　登録したエフェクトは、シフトキー長押しで\n"
+"　使用できます。"
+msgstr ""
+"\\>　★ Về chức năng Hiệu ứng yêu thích ★\n"
+"* Bạn chỉ có thể đánh dấu một hiệu ứng mỗi lần.\n"
+"  Ấn phím Shift để kích hoạt hiệu ứng đã đánh dấu."
+
+#. ID 12, Page 3, Line 74, Pos (13,5)
+msgid ""
+"\\>　★「お気に入りエフェクト」機能について★\n"
+"※登録エフェクト使用中にシフトを長押しすると、\n"
+"　登録エフェクトにチェンジする前に使用していた\n"
+"　エフェクトに戻します。"
+msgstr ""
+"\\>　★ Về chức năng Hiệu ứng yêu thích ★\n"
+"* Khi bạn nhấn Shift khi đang dùng hiệu ứng đã\n"
+"  đánh dấu, Urotsuki sẽ chuyển sang dùng hiệu ứng\n"
+"  trước đó."
+
+#. ID 12, Page 3, Line 98, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\> ★ エフェクトシフトチェンジ ★ \n"
+"\\>※現在の設定:\\N[6]\\C[0]"
+msgstr ""
+"\\> ★ Chọn hiệu ứng nhanh ★ \n"
+"\\>* Cài đặt hiện tại: \\N[6]\\C[0]"
+
+#. ID 12, Page 3, Line 100, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\N[5]\n"
+"\\>せつめい / おぷしょん"
+msgstr ""
+"\\>\\N[5]\n"
+"\\>Trợ giúp / Cài đặt"
+
+#. ID 12, Page 3, Line 105, Pos (13,5)
+msgid "\\>※\"使う\"に変更しました。"
+msgstr "\\>* Đã bật tùy chọn."
+
+#. ID 12, Page 3, Line 119, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "\\C[2]エフェクト解除する"
+msgstr "\\C[2]Loại bỏ hiệu ứng"
+
+#. ID 12, Page 3, Line 122, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "\\C[1]なにもしない"
+msgstr "\\C[1]Không làm gì"
+
+#. ID 12, Page 3, Line 126, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[2]お気に入りエフェクト"
+msgstr "\\C[2]Hiệu ứng yêu thích"
+
+#. ID 12, Page 3, Line 129, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[1]エフェクト解除"
+msgstr "\\C[1]Loại bỏ hiệu ứng"
+
+#. ID 12, Page 3, Line 132, Pos (13,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\> ★ エフェクトシフトチェンジ ★ おぷしょん"
+msgstr "\\> ★ Chọn hiệu ứng nhanh ★ Cài đặt"
+
+#. ID 12, Page 3, Line 133, Pos (13,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>同じ項目を選んだ時：\\N[5]\\C[0]\n"
+"\\>上キーを押した時　：\\N[6]\\C[0]\n"
+"\\>せつめい"
+msgstr ""
+"\\>Khi chọn cùng hiệu ứng: \\N[5]\\C[0]\n"
+"\\>Khi ấn phím mũi tên lên: \\N[6]\\C[0]\n"
+"\\>Trợ giúp"
+
+#. ID 12, Page 3, Line 138, Pos (13,5)
+msgid ""
+"\\>※\"なにもしない\"に変更しました。\n"
+"\n"
+"\\>現在のエフェクトと同じ項目を選んでも、\n"
+"\\>エフェクト解除しないようにします。"
+msgstr ""
+"\\>* Đã chọn \"Không làm gì\".\n"
+"\n"
+"\\>Chọn hiệu ứng mà bạn đang sử dụng sẽ\n"
+"\\>không loại bỏ hiệu ứng đó."
+
+#. ID 12, Page 3, Line 145, Pos (13,5)
+msgid "\\>※\"エフェクト解除する\"に変更しました。"
+msgstr "\\>* Đã chọn \"Loại bỏ hiệu ứng\"."
+
+#. ID 12, Page 3, Line 153, Pos (13,5)
+msgid ""
+"\\>※\"エフェクト解除\"に変更しました。\n"
+"\n"
+"\\>上キーでエフェクト解除、\n"
+"\\>下キーでお気に入りエフェクトを選択します。"
+msgstr ""
+"\\>* Đã chọn \"Loại bỏ hiệu ứng\".\n"
+"\n"
+"\\>Ấn phím mũi tên lên để loại bỏ hiệu ứng.\n"
+"\\>Ấn phím mũi tên xuống để dùng hiệu ứng yêu thích."
+
+#. ID 12, Page 3, Line 160, Pos (13,5)
+msgid ""
+"\\>※\"お気に入りエフェクト\"に変更しました。\n"
+"\n"
+"\\>上キーと下キーのどちらでも\n"
+"\\>お気に入りエフェクトを選択します。"
+msgstr ""
+"\\>* Đã chọn \"Hiệu ứng yêu thích\".\n"
+"\n"
+"\\>Ấn phím mũi tên lên hoặc xuống đều sẽ\n"
+"\\>kích hoạt hiệu ứng yêu thích."
+
+#. ID 12, Page 3, Line 168, Pos (13,5)
+msgid ""
+"\\> ★ エフェクトシフトチェンジ ★ \n"
+"シフトキーでエフェクトを選ぶ画面が出る機能です。\n"
+"もちろん、いつものメニューもそのまま使えます。"
+msgstr ""
+"\\> ★ Chọn hiệu ứng nhanh ★ \n"
+"Ấn Shift để mở menu chọn hiệu ứng.\n"
+"Bạn vẫn có thể sử dung menu thường nếu muốn."
+
+#. ID 12, Page 3, Line 171, Pos (13,5)
+msgid ""
+"\\> ★ エフェクトシフトチェンジ ★ \n"
+"また、シフトキーを押してから下キーを押すと\n"
+"お気に入りエフェクトに登録したものを選択できます。"
+msgstr ""
+"\\> ★ Chọn hiệu ứng nhanh ★ \n"
+"Bạn cũng có thể nhanh chóng kích hoạt hiệu ứng\n"
+"yêu thích bằng cách nhấn phím mũi tên xuống."
+
+#. ID 23, Page 1, Line 12, Pos (1,14)
+msgid ""
+"\\>エラー：うろつきが居ません\n"
+"\n"
+"\n"
+"\\>決定キーを押すとタイトル画面に戻ります"
+msgstr ""
+
+#. ID 25, Page 5, Line 45, Pos (5,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\>どちらのアルバムを見ますか？"
+msgstr "\\>Xem album nào?"
+
+#. ID 25, Page 5, Line 46, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>改変後（現行処理）ver.\n"
+"\\>改変前（元処理）ver."
+msgstr ""
+"\\>Bản đã cập nhật\n"
+"\\>Bản gốc"
+
+#. ID 26, Page 1, Line 18, Pos (0,14)
+#. Choice (4 options)
+msgid ""
+"\\>ミニゲームＡ\n"
+"\\>ミニゲームＢ\n"
+"\\>ミニゲームＣ\n"
+"やめる"
+msgstr ""
+"\\>Minigame A\n"
+"\\>Minigame B\n"
+"\\>Minigame C\n"
+"Thoát"
+
+#. ID 26, Page 1, Line 29, Pos (0,14)
+msgid "\\>大変長らく更新せずすいませんでした。"
+msgstr ""
+
+#. ID 26, Page 1, Line 30, Pos (0,14)
+msgid ""
+"\\>･変更点\n"
+"\\>ミニゲームのマップ変更・追加\n"
+"\\>今更ながらに主人公キャラの変更（結構やっつけ）"
+msgstr ""
+
+#. ID 26, Page 1, Line 33, Pos (0,14)
+msgid ""
+"なお、ゲーム中はセーブが\n"
+"できないようになっております。"
+msgstr ""
+
+#. ID 26, Page 1, Line 35, Pos (0,14)
+msgid "※メニューも開けないように設定してます"
+msgstr ""
+
+#. ID 26, Page 1, Line 36, Pos (0,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"なお、止める際にはわざと死ぬか、\n"
+"それか仮面の子に話しかけてください。"
+msgstr ""
+
+#. ID 26, Page 1, Line 38, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"始める\n"
+"やらない"
+msgstr ""
+"Bắt đầu\n"
+"Không bắt đầu"
+
+#. ID 26, Page 4, Line 9, Pos (0,14)
+#. Choice (2 options)
+msgid ""
+"通常体験版を起動\n"
+"過去体験版を起動"
+msgstr ""
+
+#. ID 26, Page 4, Line 14, Pos (0,14)
+#. Choice (2 options)
+msgid ""
+"\\>初めから\n"
+"\\>続きから"
+msgstr ""
+"\\>Bắt đầu\n"
+"\\>Tiếp tục"
+
+#. ID 26, Page 4, Line 31, Pos (0,14)
+msgid ""
+"コンティニューポイント選択画面へ移行します\n"
+"この機能はまだ未完成です"
+msgstr ""
