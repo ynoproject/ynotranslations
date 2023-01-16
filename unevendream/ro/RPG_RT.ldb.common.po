@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 9, Line 14
+msgid "                  *Fast Forward*"
+msgstr "                  *Fast Forward*"
+
+#. ID 9, Line 18
+msgid "                    *Boombox*"
+msgstr "                    *Casetofon*"
+
+#. ID 9, Line 22
+msgid "                    *Snowglobe*"
+msgstr "                 *Glob de Zăpadă*"
+
+#. ID 9, Line 26
+msgid "                   *Dark Matter*"
+msgstr "                 *Materie Neagră*"
+
+#. ID 9, Line 30
+msgid "                     *Turtle*"
+msgstr "                    *Țestoasă*"
+
+#. ID 9, Line 34
+msgid "                    *Lamppost*"
+msgstr "                    *Lampion*"
+
+#. ID 9, Line 38
+msgid "                       *Box*"
+msgstr "                     *Cutie*"
+
+#. ID 9, Line 42
+msgid "                     *Pencil*"
+msgstr "                     *Creion*"
+
+#. ID 9, Line 46
+msgid "                      *Seer*"
+msgstr "                     *Văzător*"
+
+#. ID 9, Line 50
+msgid "                      *Hood*"
+msgstr "                     *Glugă*"
+
+#. ID 9, Line 54
+msgid "                      *Plug*"
+msgstr "                     *Priză*"
+
+#. ID 9, Line 58
+msgid "                      *Mouth*"
+msgstr "                      *Gură*"
+
+#. ID 9, Line 64
+msgid "                      *Star*"
+msgstr "                      *Stea*"
+
+#. ID 9, Line 68
+msgid "                    *Music Box*"
+msgstr "                *Cutiuță Muzicală*"
+
+#. ID 9, Line 72
+msgid "                *Lily of the Valley*"
+msgstr "                  *Crin de Vale*"
+
+#. ID 9, Line 76
+msgid "                      *Cape*"
+msgstr "                    *Pelerină*"
+
+#. ID 9, Line 80
+msgid "                    *UV Light*"
+msgstr "                    *Lumină UV*"
+
+#. ID 9, Line 84
+msgid "                    *Sunflower*"
+msgstr "                *Floarea-Soarelui*"
+
+#. ID 9, Line 88
+msgid "                    *Nightcap*"
+msgstr "                  *Șapcă de Somn*"
+
+#. ID 9, Line 92
+msgid "                    *Butterfly*"
+msgstr "                     *Fluture*"
+
+#. ID 9, Line 96
+msgid "                    *Mermaid*"
+msgstr "                     *Sirenă*"
+
+#. ID 9, Line 100
+msgid "                    *Sidetail*"
+msgstr "                    *Sidetail*"
+
+#. ID 9, Line 104
+msgid "                     *Origami*"
+msgstr "                     *Origami*"
+
+#. ID 9, Line 108
+msgid "                      *Cyber*"
+msgstr "                      *Cyber*"
+
+#. ID 14, Line 4
+#. Choice (4 options)
+msgid ""
+"\\>Player Speed\n"
+"\\>Teleport\n"
+"\\>Page 2\n"
+"\\>Exit"
+msgstr ""
+"\\>Viteză Jucător\n"
+"\\>Teleportare\n"
+"\\>Pagina 2\n"
+"\\>Ieși"
+
+#. ID 14, Line 6
+#. Choice (4 options)
+msgid ""
+"\\><<<< - MAXIMUM SPEED\n"
+"\\><<< - 4x Speed\n"
+"\\><< - 2x Speed\n"
+"\\>< - Normal Speed"
+msgstr ""
+"\\><<<< - VITEZĂ MAXIMĂ\n"
+"\\><<< - Viteză x4\n"
+"\\><< - Viteză x2\n"
+"\\>< - Viteză normală"
+
+#. ID 14, Line 30
+#. Choice (2 options)
+msgid ""
+"Special Locations\n"
+"Custom"
+msgstr ""
+"Locuri Speciale\n"
+"Custom"
+
+#. ID 14, Line 32
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Bedrooms\n"
+"Nexuses\n"
+"Before Video Game Worlds"
+msgstr ""
+"Camera Debug\n"
+"Dormitoare\n"
+"Nexusuri\n"
+"Înainte de lumi: Joc video"
+
+#. ID 14, Line 40
+#. Choice (2 options)
+#. ID 14, Line 56
+#. Choice (2 options)
+msgid ""
+"Kubo\n"
+"Totsu"
+msgstr ""
+
+#. ID 14, Line 92
+msgid "\\>Your current location is Map \\V[0005] X \\V[0006] Y \\V[0007]."
+msgstr "\\>Locația actuală este Map \\V[0005] X \\V[0006] Y \\V[0007]."
+
+#. ID 14, Line 93
+msgid ""
+"\\>M: XXXX X: XXX Y: XXX\n"
+"\\>Enter your map #:"
+msgstr ""
+"\\>M: XXXX X: XXX Y: XXX\n"
+"\\>Inserează harta #:"
+
+#. ID 14, Line 97
+msgid ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>Inserează harta X:"
+
+#. ID 14, Line 106
+msgid ""
+"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>Inserează harta Y:"
+
+#. ID 14, Line 130
+#. Choice (4 options)
+msgid ""
+"\\>Save\n"
+"\\>Captured By Chaser\n"
+"\\>Unlock Screen Pos.\n"
+"\\>Title Screen"
+msgstr ""
+"\\>Salvează\n"
+"\\>Prins/ă de un Chaser\n"
+"\\>Deblochează poz. ecranului\n"
+"\\>Ecran Titlu"
+
+#. ID 19, Line 73
+#. ID 19, Line 97
+msgid "Quick Effect 1 is not set."
+msgstr "Efect Rapid 1 nu este setat."
+
+#. ID 19, Line 84
+#. ID 19, Line 108
+msgid "Quick Effect 2 is not set."
+msgstr "Efect Rapid 2 nu este setat."
+
+#. ID 77, Line 203
+#. Contains choice at line 2 (2 options)
+msgid "Switch characters?"
+msgstr "Schimbi personajeul?"
+
+#. ID 77, Line 204
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Da\n"
+"Nu"
+
+#. ID 77, Line 372
+#. ID 77, Line 383
+msgid "(Work in progress!)"
+msgstr "(În progres!)"
+
+#. ID 77, Line 391
+#. Choice (1 options)
+msgid "Quick Effects"
+msgstr "Efecte Rapide"
+
+#. ID 77, Line 397
+#. ID 77, Line 447
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"Efect Rapid 1 nu este setat.\n"
+"Efect Rapid 2 nu este setat."
+
+#. ID 77, Line 401
+#. ID 77, Line 451
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"Efect Rapid 1 nu este setat.\n"
+"Efect Rapid 2 a fost setat."
+
+#. ID 77, Line 408
+#. ID 77, Line 458
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"Efect Rapid 1 a fost setat.\n"
+"Efect Rapid 2 nu este setat."
+
+#. ID 77, Line 412
+#. ID 77, Line 462
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"Efect Rapid 1 a fost setat.\n"
+"Efect Rapid 2 a fost setat."
+
+#. ID 77, Line 418
+#. Choice (2 options)
+#. ID 77, Line 468
+#. Choice (2 options)
+msgid ""
+"Modify Quick Effect 1\n"
+"Modify Quick Effect 2"
+msgstr ""
+"Modifică efect rapid 1\n"
+"Modifică efect rapid 2"
+
+#. ID 77, Line 420
+#. ID 77, Line 430
+#. ID 77, Line 470
+#. ID 77, Line 480
+msgid "Select your preferred quick effect."
+msgstr "Alege efectul rapid preferat."
+
+#. ID 77, Line 426
+#. ID 77, Line 476
+msgid "Quick Effect 1 set."
+msgstr "Efect Rapid 1 - setat."
+
+#. ID 77, Line 436
+#. ID 77, Line 486
+msgid "Quick Effect 2 set."
+msgstr "Efect Rapid 2 - setat."
+
+#. ID 87, Line 21
+#. ID 89, Line 21
+#. ID 89, Line 51
+#. ID 89, Line 63
+msgid "how did you manage to do this?"
+msgstr "cum ai reușit să faci asta?"
+
+#. ID 105, Line 15
+#. ID 105, Line 32
+#. ID 105, Line 39
+#. ID 105, Line 238
+msgid "\\$\\|\\^"
+msgstr ""
