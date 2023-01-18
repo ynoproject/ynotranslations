@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 37, Page 1, Line 4, Pos (51,54)
+#. Contains choice at line 2 (2 options)
+#. ID 50, Page 1, Line 4, Pos (52,54)
+#. Contains choice at line 2 (2 options)
+msgid "- Human, what do you want."
+msgstr "- Humain, que veux-tu."
+
+#. ID 37, Page 1, Line 5, Pos (51,54)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 5, Pos (52,54)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Normal\n"
+"Fast"
+msgstr ""
+"Normal\n"
+"Rapide"
+
+#. ID 64, Page 1, Line 1, Pos (49,58)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to stop 3D projection?"
+msgstr "- Veux-tu stopper la projection 3D ?"
+
+#. ID 64, Page 1, Line 2, Pos (49,58)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"seY\n"
+"oN"
+msgstr ""
+"iuO\n"
+"noN"
+
+#. ID 75, Page 1, Line 3, Pos (63,56)
+msgid ""
+"- Take a sip of the healing spring, hurry,\n"
+"while you still have a breath.(lololololol)"
+msgstr ""
+"- Prends une petite gorgée de cette source\n"
+"  curative, et dépêche-toi, pendant que tu\n"
+"  as encore ton souffle. (lololololol)"
+
+#. ID 75, Page 1, Line 8, Pos (63,56)
+msgid "- I'm feeling!"
+msgstr "- Je me sens !"
+
+#. ID 75, Page 1, Line 9, Pos (63,56)
+msgid "- A little tired neh"
+msgstr "- Un peu fatiguée eh"
+
+#. ID 75, Page 1, Line 12, Pos (63,56)
+msgid "- How greedy are you."
+msgstr "- Comme tu es cupide."

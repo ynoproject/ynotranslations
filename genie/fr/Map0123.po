@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 10, Page 1, Line 3, Pos (13,4)
+msgid "- ..."
+msgstr ""
+
+#. ID 10, Page 1, Line 5, Pos (13,4)
+msgid "- ......"
+msgstr ""
+
+#. ID 10, Page 1, Line 9, Pos (13,4)
+msgid "!!!\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 16, Pos (13,4)
+msgid "- ...Home?"
+msgstr "- ...Une maison ?"
+
+#. ID 10, Page 1, Line 17, Pos (13,4)
+msgid "- So familiar..."
+msgstr "- C'est si familier..."
+
+#. ID 16, Page 1, Line 1, Pos (12,5)
+msgid "- Just some broken glass..."
+msgstr "- C'est juste du verre brisé..."

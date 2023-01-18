@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -10728,15 +10728,15 @@ msgstr "Выход"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "  Начать "
+msgstr "   Начать  "
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr "Продолжить"
+msgstr " Продолжить "
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "  Выйти "
+msgstr "   Выйти  "
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"

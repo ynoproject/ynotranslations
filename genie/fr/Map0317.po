@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 20, Page 1, Line 4, Pos (11,7)
+msgid ""
+"- Greedy guy, you don't want to see me when I'm \n"
+"angry."
+msgstr ""
+"- Jeune cupide, tu ne veux pas me voir lorsque je\n"
+"  suis en colère."
+
+#. ID 20, Page 2, Line 11, Pos (11,7)
+msgid "- You still want to bother me, don't you?"
+msgstr "- Tu veux toujours me déranger, n'est-ce pas ?"

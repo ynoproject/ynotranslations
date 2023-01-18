@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 31, Page 2, Line 4, Pos (14,18)
 msgid ""
@@ -202,7 +202,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　    Gakuran\\<\\|\\^"
+"\\>　　　　　　　　　  School Boy\\<\\|\\^"
 
 #. ID 47, Page 2, Line 4, Pos (7,18)
 msgid ""
@@ -310,7 +310,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Red Hood\\<\\|\\^"
+"\\>　　　　　　　   Red Riding Hood\\<\\|\\^"
 
 #. ID 56, Page 2, Line 4, Pos (10,26)
 msgid ""
@@ -382,7 +382,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Paper Doll\\<\\|\\^"
+"\\>　　　　　　　　　Teru Teru Bōzu\\<\\|\\^"
 
 #. ID 66, Page 2, Line 4, Pos (14,28)
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Crossing\\<\\|\\^"
+"\\>　　　　　　    Railroad Crossing\\<\\|\\^"
 
 #. ID 71, Page 2, Line 4, Pos (10,30)
 msgid ""

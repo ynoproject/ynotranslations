@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 12, Page 1, Line 2, Pos (12,11)
+msgid "- Who are you?"
+msgstr "- Qui es-tu ?"
+
+#. ID 12, Page 1, Line 3, Pos (12,11)
+msgid "                                I am Slender Man -"
+msgstr "                              Je suis Slender Man -"
+
+#. ID 12, Page 1, Line 4, Pos (12,11)
+msgid ""
+"   I was forced to hide here because of people's -\n"
+"                        fear and rejection of me"
+msgstr ""
+"      J'ai été forcé de me cacher ici dû à la peur\n"
+"           des gens et au rejet qu'ils me portent -"

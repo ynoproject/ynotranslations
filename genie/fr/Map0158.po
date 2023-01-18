@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 22, Page 1, Line 2, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"- Life, old age and death, this is a person's \n"
+"life. Do you want to enter a different dimension?"
+msgstr ""
+"- Vie, vieillesse et mort. Ceci est la vie d'une\n"
+"  personne. Voulez-vous entrer dans une autre\n"
+"  dimension ?"
+
+#. ID 22, Page 1, Line 5, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Nah\n"
+"Yah"
+msgstr ""
+"Nan\n"
+"Yeah"
+
+#. ID 22, Page 2, Line 2, Pos (9,6)
+msgid ""
+"- Life, old age and death, this is a person's \n"
+"life."
+msgstr ""
+"- Vie, vieillesse et mort. Ceci est la vie d'une\n"
+"  personne."
+
+#. ID 23, Page 1, Line 5, Pos (15,5)
+msgid "                - Master Thief GET -"
+msgstr "              - Maître voleur OBTENU -"

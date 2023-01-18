@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -9916,7 +9916,7 @@ msgstr "Become invisible"
 #. ID 29
 msgctxt "items.name"
 msgid "がくラン"
-msgstr "Gakuran"
+msgstr "School Boy"
 
 #. ID 29
 #. ID 70
@@ -9993,7 +9993,7 @@ msgstr "Revert to childhood"
 #. ID 36
 msgctxt "items.name"
 msgid "あかずきん"
-msgstr "Red Hood"
+msgstr "Red Riding Hood"
 
 #. ID 36
 #. ID 77
@@ -10037,13 +10037,13 @@ msgstr "Become polygonal"
 #. ID 40
 msgctxt "items.name"
 msgid "てるてるぼうず"
-msgstr "Paper Doll"
+msgstr "Teru Teru Bōzu"
 
 #. ID 40
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Change into a paper doll"
+msgstr "Change into a teru teru bōzu"
 
 #. ID 41
 msgctxt "items.name"
@@ -10081,7 +10081,7 @@ msgstr "Become a grave"
 #. ID 44
 msgctxt "items.name"
 msgid "ふみきり"
-msgstr "Crossing"
+msgstr "Railroad Crossing"
 
 #. ID 44
 #. ID 85
@@ -10230,7 +10230,7 @@ msgstr " Invisible"
 #. ID 70
 msgctxt "items.name"
 msgid " がくラン"
-msgstr " Gakuran"
+msgstr " School Boy"
 
 #. ID 71
 msgctxt "items.name"
@@ -10265,7 +10265,7 @@ msgstr " Child"
 #. ID 77
 msgctxt "items.name"
 msgid " あかずきん"
-msgstr " Red Hood"
+msgstr " Red Riding Hood"
 
 #. ID 78
 msgctxt "items.name"
@@ -10285,7 +10285,7 @@ msgstr " Polygon"
 #. ID 81
 msgctxt "items.name"
 msgid " てるてるぼうず"
-msgstr " Paper Doll"
+msgstr " Teru Teru Bōzu"
 
 #. ID 82
 msgctxt "items.name"
@@ -10305,7 +10305,7 @@ msgstr " Grave"
 #. ID 85
 msgctxt "items.name"
 msgid " ふみきり"
-msgstr " Crossing"
+msgstr " Railroad Crossing"
 
 #. ID 86
 msgctxt "items.name"
@@ -10498,15 +10498,15 @@ msgstr "Quit"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "   Start"
+msgstr "  Start"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr " Continue"
+msgstr "Continue"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "   Quit"
+msgstr "  Quit"
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"

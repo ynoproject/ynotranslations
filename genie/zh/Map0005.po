@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 15, Pos (9,5)
+msgid "- My name."
+msgstr "- 我，"
+
+#. ID 1, Page 1, Line 16, Pos (9,5)
+msgid "- Is Qiu Qin..."
+msgstr "- 叫做秋琴..."
+
+#. ID 1, Page 1, Line 17, Pos (9,5)
+msgid ""
+"- I like dreams because I can get rid of the\n"
+"  reality of toiling for the future, I'm\n"
+"  afraid of the reality of losing everything."
+msgstr ""
+"- 我喜欢梦，那是因为我能摆脱那为未来而劳碌的现实，\n"
+"  担怕那会失去一切事物的现实。"
+
+#. ID 1, Page 1, Line 20, Pos (9,5)
+msgid ""
+"However, I can get the nothingness I need from\n"
+"my dreams,"
+msgstr "然而，我能从梦中获取我需求的虚无的东西。"
+
+#. ID 1, Page 1, Line 22, Pos (9,5)
+msgid "- So"
+msgstr "- 所以"
+
+#. ID 1, Page 1, Line 23, Pos (9,5)
+msgid "- Let's begin..."
+msgstr "- 开始吧..."
+

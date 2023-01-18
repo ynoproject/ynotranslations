@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Someday Evergreen\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 4, Page 1, Line 7, Pos (12,11)
+msgid "                   Healing aura"
+msgstr "                  Целебная Аура"
+
+#. ID 5, Page 1, Line 7, Pos (18,9)
+msgid "                      Mercury"
+msgstr "                       Ртуть"
+
+#. ID 6, Page 1, Line 7, Pos (16,9)
+msgid "                    Diving suit"
+msgstr "                 Купальный Костюм"
+
+#. ID 7, Page 1, Line 8, Pos (14,9)
+msgid "                    Clockworker"
+msgstr "                     Часовщик"
+
+#. ID 7, Page 1, Line 11, Pos (14,9)
+msgid "Press 1 to return to the Nexus."
+msgstr "Нажмите 1 чтобы вернуться в Нексус."
+
+#. ID 8, Page 1, Line 7, Pos (14,11)
+msgid "                       Wood"
+msgstr "                      Дерево"
+
+#. ID 9, Page 1, Line 7, Pos (12,9)
+msgid "                   Candle holder"
+msgstr "                    Подсвечник"
+
+#. ID 10, Page 1, Line 8, Pos (18,7)
+msgid "                        Fox"
+msgstr "                        Лис"
+
+#. ID 10, Page 1, Line 11, Pos (18,7)
+msgid "Interact with ledges to jump over them."
+msgstr "Дотроньтесь до уступов чтобы перепрыгнуть их."
+
+#. ID 11, Page 1, Line 7, Pos (16,7)
+msgid "                        TV"
+msgstr "                    Телевизор"
+
+#. ID 12, Page 1, Line 7, Pos (14,7)
+msgid "                      Classic"
+msgstr "                     Классика"
+
+#. ID 13, Page 1, Line 8, Pos (12,7)
+msgid "                       Scarf"
+msgstr "                       Шарф"
+
+#. ID 14, Page 1, Line 8, Pos (18,5)
+msgid "                     Raincoat"
+msgstr "                     Дождевик"
+
+#. ID 15, Page 1, Line 7, Pos (16,5)
+msgid "                      Wrench"
+msgstr "                   Гаечный Ключ"
+
+#. ID 16, Page 1, Line 7, Pos (14,5)
+msgid "                       Blob"
+msgstr "                     Мармелад"
+
+#. ID 17, Page 1, Line 8, Pos (12,5)
+msgid "                    Megaphone"
+msgstr "                     Динамик"
+
+#. ID 17, Page 1, Line 11, Pos (12,5)
+msgid "Press 1 to make a random sound."
+msgstr "Нажмите 1 чтобы издать случайный звук."
+
+#. ID 18, Page 1, Line 8, Pos (18,3)
+msgid "                      Scooter"
+msgstr "                      Скутер"
+
+#. ID 19, Page 1, Line 7, Pos (16,3)
+msgid "                    Monochrome"
+msgstr "                     Монохром"
+
+#. ID 20, Page 1, Line 7, Pos (14,3)
+msgid "                       Nerd"
+msgstr "                       Нерд"
+
+#. ID 21, Page 1, Line 8, Pos (12,3)
+msgid "                      8-bit"
+msgstr "                      8-Бит"
+
+#. ID 22, Page 1, Line 8, Pos (18,1)
+msgid "                      Glitch"
+msgstr "                      Глитч"
+
+#. ID 23, Page 1, Line 7, Pos (16,1)
+msgid "                       Sick"
+msgstr "                     Больной"
+
+#. ID 24, Page 1, Line 7, Pos (14,1)
+msgid "                      Doodle"
+msgstr "                     Рисунок"
+
+#. ID 25, Page 1, Line 7, Pos (12,1)
+msgid "                       Bald"
+msgstr "                      Лысый"
+
+#. ID 26, Page 1, Line 7, Pos (4,4)
+#. Choice (4 options)
+msgid ""
+"Kaokola - 320 N\n"
+"Liquid Dream - 500 N\n"
+"7 Moop - 350 N\n"
+"Don't buy anything"
+msgstr ""
+"Као-кола - 320 Н\n"
+"Жидкий Сон - 500 Н\n"
+"7 Муп - 350 Н\n"
+"Не брать ничего"
+
+#. ID 26, Page 1, Line 14, Pos (4,4)
+#. ID 26, Page 1, Line 45, Pos (4,4)
+#. ID 26, Page 1, Line 70, Pos (4,4)
+msgid "You won a free drink!"
+msgstr "Вы выйграли бесплатный напиток!"
+
+#. ID 26, Page 1, Line 19, Pos (4,4)
+#. ID 26, Page 1, Line 50, Pos (4,4)
+#. ID 26, Page 1, Line 75, Pos (4,4)
+msgid "\\$"
+msgstr "\\$"
+
+#. ID 26, Page 1, Line 35, Pos (4,4)
+#. ID 26, Page 1, Line 60, Pos (4,4)
+#. ID 26, Page 1, Line 85, Pos (4,4)
+msgid "You don't have enough N!"
+msgstr "Недостаточно Н!"
+
+#. ID 27, Page 1, Line 1, Pos (10,1)
+#. Contains choice at line 2 (2 options)
+msgid "Lose all effects?"
+msgstr "Сбросить все эффекты?"
+
+#. ID 27, Page 1, Line 2, Pos (10,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 29, Page 1, Line 17, Pos (3,7)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Itsuki"
+msgstr "Ицуки"
+
+#. ID 31, Page 1, Line 7, Pos (16,11)
+msgid "                      Tomato"
+msgstr "                     Помидор"
+
+#. ID 33, Page 1, Line 1, Pos (7,1)
+msgid "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr "Вращение!!!"
+
+#. ID 33, Page 1, Line 5, Pos (7,1)
+msgid "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
+msgstr "Комната отладки! Уи-и-и-и-и!!!"
+
+#. ID 34, Page 1, Line 7, Pos (18,11)
+msgid "                     Lab coat"
+msgstr "                Лабораторный Халат"
+
+#. ID 45, Page 1, Line 1, Pos (3,1)
+msgid ""
+"---- ---- ---- ---- ---- ---- ---- ---- ---- ----.\n"
+"This is the longest possible line in a text box...\n"
+"So. Basically, fifty characters. No more, no less.\n"
+"And you can only fit four lines per message. Cool."
+msgstr ""
+"---- ---- ---- ---- ---- ---- ---- ---- ---- ----.\n"
+"Это - Самая длинная строка, что может поместиться \n"
+"в Текстовое Окно... Пятьдесят символов, значит-с. \n"
+"И всего четыре строки на всё про всё. Классно..."
+
+#. ID 45, Page 1, Line 5, Pos (3,1)
+msgid "*It depends on which fonts you chose earlier."
+msgstr "*Зависит от используемого шрифта."
+
+#. ID 46, Page 1, Line 1, Pos (8,4)
+#. Choice (3 options)
+msgid ""
+"Debug Room\n"
+"Kondo event #1\n"
+"Mystery Boxes"
+msgstr ""
+"Комната Отладки\n"
+"Событие Кондо №1\n"
+"Загадочные Ящики"
+
+#. ID 46, Page 1, Line 9, Pos (8,4)
+#. Choice (4 options)
+#. ID 47, Page 1, Line 9, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"#1\n"
+"#2\n"
+"#3\n"
+"#4"
+msgstr ""
+"№1\n"
+"№2\n"
+"№3\n"
+"№4"
+
+#. ID 47, Page 1, Line 1, Pos (0,0)
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Kondo event #1\n"
+"Mystery Boxes\n"
+"Crystals"
+msgstr ""
+"Комната Отладки\n"
+"Событие Кондо №1\n"
+"Загадочные Ящики\n"
+"Кристалы"
+
+#. ID 47, Page 1, Line 29, Pos (0,0)
+#. Choice (2 options)
+msgid ""
+"RED\n"
+"ORANGE #7"
+msgstr ""
+"КРАСНЫЙ\n"
+"ОРАНЖЕВЫЙ №7"
+
+#. ID 48, Page 1, Line 1, Pos (10,4)
+msgid "Money maximum overdrive!"
+msgstr "Переполнение денег!"

@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 1, Page 1, Line 15, Pos (9,5)
+msgid "- My name."
+msgstr "- Mon nom."
+
+#. ID 1, Page 1, Line 16, Pos (9,5)
+msgid "- Is Qiu Qin..."
+msgstr "- Est Qiu Qin..."
+
+#. ID 1, Page 1, Line 17, Pos (9,5)
+msgid ""
+"- I like dreams because I can get rid of the\n"
+"  reality of toiling for the future, I'm\n"
+"  afraid of the reality of losing everything."
+msgstr ""
+"- J'aime les rêves car je peux me débarrasser\n"
+"  de la réalité de peiner pour le futur, j'ai\n"
+"  peur de la réalité de tout perdre."
+
+#. ID 1, Page 1, Line 20, Pos (9,5)
+msgid ""
+"However, I can get the nothingness I need from\n"
+"my dreams,"
+msgstr ""
+"Néanmoins, je peux obtenir le néant dont\n"
+"j'ai besoin dans mes rêves,"
+
+#. ID 1, Page 1, Line 22, Pos (9,5)
+msgid "- So"
+msgstr "- Donc"
+
+#. ID 1, Page 1, Line 23, Pos (9,5)
+msgid "- Let's begin..."
+msgstr "- Commençons..."

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 22, Page 1, Line 2, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"- Life, old age and death, this is a person's \n"
+"life. Do you want to enter a different dimension?"
+msgstr ""
+"- 生老病死,这是人的一生要经历的事。\n"
+"  你要进入异次元么？"
+
+#. ID 22, Page 1, Line 5, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Nah\n"
+"Yah"
+msgstr ""
+"不\n"
+"嗯"
+
+#. ID 22, Page 2, Line 2, Pos (9,6)
+msgid ""
+"- Life, old age and death, this is a person's \n"
+"life."
+msgstr "- 生老病死,这是人的一生要经历的事。"
+
+#. ID 23, Page 1, Line 5, Pos (15,5)
+msgid "                - Master Thief GET -"
+msgstr "                   - 神偷 上手 -"
+

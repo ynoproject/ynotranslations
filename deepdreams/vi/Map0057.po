@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 7, Page 1, Line 5, Pos (131,178)
+#. ID 8, Page 1, Line 5, Pos (135,178)
+#. ID 149, Page 1, Line 5, Pos (74,173)
+#. ID 150, Page 1, Line 5, Pos (22,37)
+#. ID 161, Page 1, Line 5, Pos (24,37)
+#. ID 162, Page 1, Line 5, Pos (26,37)
+#. ID 191, Page 1, Line 5, Pos (129,178)
+#. ID 192, Page 1, Line 5, Pos (132,177)
+#. ID 193, Page 1, Line 5, Pos (134,177)
+#. ID 194, Page 1, Line 5, Pos (137,178)
+#. ID 196, Page 1, Line 5, Pos (130,177)
+#. ID 197, Page 1, Line 5, Pos (136,177)
+#. ID 203, Page 1, Line 5, Pos (76,173)
+#. ID 204, Page 1, Line 5, Pos (78,173)
+#. ID 205, Page 1, Line 5, Pos (131,176)
+#. ID 207, Page 1, Line 5, Pos (135,176)
+#. ID 208, Page 1, Line 5, Pos (133,176)
+#. ID 210, Page 1, Line 5, Pos (82,173)
+#. ID 211, Page 1, Line 5, Pos (84,173)
+#. ID 242, Page 1, Line 5, Pos (86,173)
+msgid "-100"
+msgstr "-100"
+
+#. ID 7, Page 1, Line 19, Pos (131,178)
+#. ID 8, Page 1, Line 19, Pos (135,178)
+#. ID 149, Page 1, Line 19, Pos (74,173)
+#. ID 150, Page 1, Line 19, Pos (22,37)
+#. ID 161, Page 1, Line 19, Pos (24,37)
+#. ID 162, Page 1, Line 19, Pos (26,37)
+#. ID 191, Page 1, Line 19, Pos (129,178)
+#. ID 192, Page 1, Line 19, Pos (132,177)
+#. ID 193, Page 1, Line 19, Pos (134,177)
+#. ID 194, Page 1, Line 19, Pos (137,178)
+#. ID 196, Page 1, Line 19, Pos (130,177)
+#. ID 197, Page 1, Line 19, Pos (136,177)
+#. ID 203, Page 1, Line 19, Pos (76,173)
+#. ID 204, Page 1, Line 19, Pos (78,173)
+#. ID 205, Page 1, Line 19, Pos (131,176)
+#. ID 207, Page 1, Line 19, Pos (135,176)
+#. ID 208, Page 1, Line 19, Pos (133,176)
+#. ID 210, Page 1, Line 19, Pos (82,173)
+#. ID 211, Page 1, Line 19, Pos (84,173)
+#. ID 242, Page 1, Line 19, Pos (86,173)
+msgid "Not enough money for purchase"
+msgstr "Không đủ tiền mua"
+
+#. ID 254, Page 1, Line 4, Pos (101,156)
+#. ID 255, Page 1, Line 4, Pos (102,156)
+msgid "Get Alter: Damage"
+msgstr "Nhận Hóa thân: Sát thương"

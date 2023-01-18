@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Qiu Qin"
+msgstr "秋琴"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Paranoia"
+msgstr "妄想症"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "Zabu"
+msgstr "扎布"
+
+#. ID 2
+msgctxt "actors.title"
+msgid "_(=3_|)_"
+msgstr "_(=3_|)_"
+
+#. ID 1
+#. ID 2
+#. ID 3
+#. ID 4
+#. ID 5
+#. ID 6
+#. ID 7
+#. ID 8
+#. ID 9
+#. ID 10
+msgctxt "skills.name"
+msgid "Cover Eyes"
+msgstr "捂眼"
+
+#. ID 1
+#. ID 2
+#. ID 3
+#. ID 4
+#. ID 5
+#. ID 6
+#. ID 7
+#. ID 8
+#. ID 9
+#. ID 10
+msgctxt "skills.description"
+msgid "- Wake up from the fantasy land..."
+msgstr "- 从幻境中醒来吧......"
+
+#. ID 1
+msgctxt "items.name"
+msgid "Default"
+msgstr "默认态"
+
+#. ID 1
+msgctxt "items.description"
+msgid "- Be original."
+msgstr "- 原汁原味。"
+
+#. ID 2
+msgctxt "items.name"
+msgid "Monster Outfit"
+msgstr "怪兽服"
+
+#. ID 2
+msgctxt "items.description"
+msgid "- Magical rainy cat costume."
+msgstr "- 雨之魔法喵喵服。"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Golden Armor"
+msgstr "黄金甲士"
+
+#. ID 3
+msgctxt "items.description"
+msgid "- Heavy armor."
+msgstr "- 重盔甲。"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Spear of Fear"
+msgstr "恐惧之矛"
+
+#. ID 4
+msgctxt "items.description"
+msgid "- Save at designated locations."
+msgstr "- 保存在特定位置。"
+
+#. ID 5
+msgctxt "items.name"
+msgid "Poison"
+msgstr "毒药"
+
+#. ID 5
+msgctxt "items.description"
+msgid "- Strange glass capsule."
+msgstr "- 奇怪的玻璃胶囊。"
+
+#. ID 6
+msgctxt "items.name"
+msgid "Walker"
+msgstr "步行者"
+
+#. ID 6
+msgctxt "items.description"
+msgid "- Mecha in one."
+msgstr "- 同机甲合为一体。"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Civilian"
+msgstr "平民"
+
+#. ID 7
+msgctxt "items.description"
+msgid "- From another world."
+msgstr "- 异世界来客。"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Twins"
+msgstr "双子"
+
+#. ID 8
+msgctxt "items.description"
+msgid "- An icy creature."
+msgstr "- 冰之造物。"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Slayer"
+msgstr "杀戮者"
+
+#. ID 9
+msgctxt "items.description"
+msgid "- Stab to kill someone."
+msgstr "- 刺杀某物。"
+
+#. ID 10
+msgctxt "items.name"
+msgid "Virus"
+msgstr "病毒"
+
+#. ID 10
+msgctxt "items.description"
+msgid "- A ghostly germ."
+msgstr "- 幽灵病菌。"
+
+#. ID 11
+msgctxt "items.name"
+msgid "Imprint Amulet"
+msgstr "印符"
+
+#. ID 11
+msgctxt "items.description"
+msgid "- An arachnid-legged cryptid."
+msgstr "- 长腿节肢体。"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Flying Machine"
+msgstr "飞行器"
+
+#. ID 12
+msgctxt "items.description"
+msgid "- Leads you over some areas."
+msgstr "- 带领你穿越某方。"
+
+#. ID 13
+msgctxt "items.name"
+msgid "Strange Egg"
+msgstr "奇蛋"
+
+#. ID 13
+msgctxt "items.description"
+msgid "- Back to familiar territory."
+msgstr "- 回到熟悉之地。"
+
+#. ID 14
+msgctxt "items.name"
+msgid "Multi Transformation"
+msgstr "万变"
+
+#. ID 14
+msgctxt "items.description"
+msgid "- Unending changes."
+msgstr "- 千变万化。"
+
+#. ID 15
+msgctxt "items.name"
+msgid "Spacesuit"
+msgstr "宇航服"
+
+#. ID 15
+msgctxt "items.description"
+msgid "- What is its use in space?"
+msgstr "- 在太空有什么用呢？"
+
+#. ID 16
+msgctxt "items.name"
+msgid "Fairy"
+msgstr "精灵"
+
+#. ID 16
+msgctxt "items.description"
+msgid "- I'm glowing!"
+msgstr "- 熠熠生辉！"
+
+#. ID 17
+msgctxt "items.name"
+msgid "Navigation Suit"
+msgstr "导航服"
+
+#. ID 17
+msgctxt "items.description"
+msgid "- Watch your step."
+msgstr "- 注意脚下。"
+
+#. ID 18
+msgctxt "items.name"
+msgid "Sadness"
+msgstr "悲念"
+
+#. ID 18
+msgctxt "items.description"
+msgid "- Great grievances..."
+msgstr "- 巨大悲念..."
+
+#. ID 19
+msgctxt "items.name"
+msgid "Condolence"
+msgstr "哀悼"
+
+#. ID 19
+msgctxt "items.description"
+msgid "- My condolences..."
+msgstr "- 自我哀悼..."
+
+#. ID 20
+msgctxt "items.name"
+msgid "Green Firefly"
+msgstr "绿萤"
+
+#. ID 20
+msgctxt "items.description"
+msgid "- A little light."
+msgstr "- 荧光点点。"
+
+#. ID 21
+msgctxt "items.name"
+msgid "Thunder Ghost"
+msgstr "雷鬼"
+
+#. ID 21
+msgctxt "items.description"
+msgid "- Snatch and kill someone."
+msgstr "- 夺杀某物。"
+
+#. ID 22
+msgctxt "items.name"
+msgid "Frozen Sparrowhawk"
+msgstr "冴鷂"
+
+#. ID 22
+msgctxt "items.description"
+msgid "- Summon a thunderstorm."
+msgstr "- 天降制裁。"
+
+#. ID 23
+msgctxt "items.name"
+msgid "Devil's Blood"
+msgstr "魔血"
+
+#. ID 23
+msgctxt "items.description"
+msgid "- Hideous abomination!"
+msgstr "- 可怖憎恶！"
+
+#. ID 34
+msgctxt "items.name"
+msgid "Miracle Potion"
+msgstr "神奇药水"
+
+#. ID 34
+msgctxt "items.description"
+msgid "- Tastes weird, but it's needed when badly hurt."
+msgstr "- 味道怪怪的,但状态不好时可不能少了它。"
+
+#. ID 35
+msgctxt "items.name"
+msgid "Hanbargah"
+msgstr "汉八嘎"
+
+#. ID 35
+msgctxt "items.description"
+msgid "- Zabu's special items, you can eat it too!"
+msgstr "- 扎布专用道具，但你也可以吃！"
+
+#. ID 36
+msgctxt "items.name"
+msgid "Green Leaf"
+msgstr "青叶"
+
+#. ID 36
+#. ID 37
+#. ID 38
+#. ID 39
+#. ID 40
+#. ID 41
+#. ID 42
+msgctxt "items.description"
+msgid "- Zabu's special items. _(=P_|)_"
+msgstr "- 扎布专用道具。_(=P_|)_"
+
+#. ID 37
+msgctxt "items.name"
+msgid "Fatty"
+msgstr "胖子"
+
+#. ID 38
+msgctxt "items.name"
+msgid "Mask"
+msgstr "面具"
+
+#. ID 39
+msgctxt "items.name"
+msgid "Egg"
+msgstr "鸡蛋"
+
+#. ID 40
+msgctxt "items.name"
+msgid "Becoming Weird"
+msgstr "变得奇怪了"
+
+#. ID 41
+msgctxt "items.name"
+msgid "Master Thief"
+msgstr "神偷"
+
+#. ID 42
+msgctxt "items.name"
+msgid "Butcher"
+msgstr "屠夫"
+
+#. ID 51
+msgctxt "items.name"
+msgid "Dream Baby Nameplate"
+msgstr "Dream Baby铭牌"
+
+#. ID 51
+msgctxt "items.description"
+msgid "- It's a pet's pendant."
+msgstr "- 是个宠物吊坠。"
+
+#. ID 55
+msgctxt "items.name"
+msgid "Key"
+msgstr "钥匙"
+
+#. ID 55
+msgctxt "items.description"
+msgid "- A shiny key."
+msgstr "- 一把闪光钥匙。"
+
+#. ID 60
+msgctxt "items.name"
+msgid "Blood-red Fragment"
+msgstr "血红碎片"
+
+#. ID 60
+#. ID 61
+#. ID 62
+#. ID 63
+#. ID 64
+#. ID 65
+msgctxt "items.description"
+msgid "- Material, you can sell it to the store."
+msgstr "- 素材，你可以把它卖给商店。"
+
+#. ID 61
+msgctxt "items.name"
+msgid "Slime Meat"
+msgstr "史莱姆肉"
+
+#. ID 62
+msgctxt "items.name"
+msgid "Gear Wheel"
+msgstr "齿轮"
+
+#. ID 63
+msgctxt "items.name"
+msgid "Meat Sickle"
+msgstr "肉镰"
+
+#. ID 64
+msgctxt "items.name"
+msgid "Energy Box"
+msgstr "能源盒"
+
+#. ID 65
+msgctxt "items.name"
+msgid "Wing"
+msgstr "翅膀"
+
+#. ID 96
+msgctxt "items.name"
+msgid "SPEED DOWN"
+msgstr "降速"
+
+#. ID 96
+#. ID 97
+msgctxt "items.description"
+msgid "- Debug"
+msgstr ""
+
+#. ID 97
+msgctxt "items.name"
+msgid "SPEED UP"
+msgstr "提速"
+
+#. ID 98
+msgctxt "items.name"
+msgid "Dream Contract"
+msgstr "梦境契约书"
+
+#. ID 98
+msgctxt "items.description"
+msgid "- Confirm the rules."
+msgstr "- 确认规则。"
+
+#. ID 99
+msgctxt "items.name"
+msgid "II"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid "µÐÈË¸Ðµ½¾ªÑÈÁË!"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "ÌÓÅÜÊ§°Ü!"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "Ê¤Àû!"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid "È«Ãð..."
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid " ¾­ÑéÖµ!"
+msgstr ""
+
+msgctxt "terms.gold_recieved_a"
+msgid "·¢ÏÖ"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid " ½ðÇ®!"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid " ·¢ÏÖ!"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid " »ñµÃ!"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid " Ñ§»áÁË!"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "- Hello, what can I do for you?"
+msgstr "- 您好,请问需要些什么呢？"
+
+msgctxt "terms.shop_regreeting1"
+msgid "- Anything else?"
+msgstr "- 还要其它的么？"
+
+msgctxt "terms.shop_buy1"
+msgid "Bagging"
+msgstr "入袋"
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr "卖出"
+
+msgctxt "terms.shop_leave1"
+msgid "Goodbye"
+msgstr "再见"
+
+msgctxt "terms.shop_buy_select1"
+msgid "- What do you want?"
+msgstr "- 您想买什么？"
+
+msgctxt "terms.shop_buy_number1"
+msgid "- How many do you want?"
+msgstr "- 请问要多少个呢？"
+
+msgctxt "terms.shop_purchased1"
+msgid "- Thank you for your patronage."
+msgstr "- 谢谢惠顾。"
+
+msgctxt "terms.shop_sell_select1"
+msgid "- Huh, what garbage do you have for me?"
+msgstr "- 丢什么垃圾给我啊，哼。"
+
+msgctxt "terms.shop_sell_number1"
+msgid "- How much y'all want to sell me?"
+msgstr "- 到底卖多少啊？"
+
+msgctxt "terms.shop_sold1"
+msgid "- Don't come here next time."
+msgstr "- 下次别来了。"
+
+msgctxt "terms.shop_greeting2"
+msgid "- Give me the money, I'll gve u the Dream Baby"
+msgstr "- 你给我钱，我就给你梦之珍宝。"
+
+msgctxt "terms.shop_regreeting2"
+msgid "- What?"
+msgstr "- 咋了？"
+
+msgctxt "terms.shop_buy2"
+msgid "Give Money"
+msgstr "砸钱"
+
+msgctxt "terms.shop_sell2"
+msgid "Sell NO"
+msgstr "卖个鬼"
+
+msgctxt "terms.shop_leave2"
+msgid "Walk Away"
+msgstr "走开"
+
+msgctxt "terms.shop_buy_select2"
+msgid "- Put down the money, or get out of here!!!"
+msgstr "要么放下钱，要么滚一边闲！！！"
+
+msgctxt "terms.shop_buy_number2"
+msgid "- I don't believe you can afford for second one!"
+msgstr "- 我可不相信你能付得起第二个！"
+
+msgctxt "terms.shop_purchased2"
+msgid "- You can disappear now!!!"
+msgstr "- 你现在可以消失了！"
+
+msgctxt "terms.shop_sell_select2"
+msgid "- What are you doing?"
+msgstr "- 你在干啥呢？"
+
+msgctxt "terms.shop_sell_number2"
+msgid "- I won't take it no matter how high the price!"
+msgstr "- 你价格抬多高我都不会买它的！"
+
+msgctxt "terms.shop_sold2"
+msgid "- Take your stuff away!!!"
+msgstr "- 把你的东西给我拿走！！！"
+
+msgctxt "terms.shop_greeting3"
+msgid "½ñÌìÓöµ½Ê²Ã´ÓÐÈ¤µÄÊÂÇéÁËÂð?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "ÎÒ¿ÉÒÔÎªÄú½éÉÜÐ©ÆäËüÉÌÆ·Âð?"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "Âò"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "Âô"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "Íê³É"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "ÄúÏëÂòÊ²Ã´?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "ÄúÏëÂò¶àÉÙ?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "¸ÐÐ»ÄúµÄ¹âÁÙ¡£"
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "ÄúÏëÂôÊ²Ã´?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "ÄúÏëÂô¶àÉÙ?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "¸ÐÐ»ÄúµÄ¹âÁÙ¡£"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "½öÐè"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " ¾ÍÄÜÔÚÕâÀï×¡ÏÂ¡£"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "ÄúÐèÒª×¡µêÂð?"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "×¡"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "ÍüÁËËü"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "½öÐè"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid "¾ÍÄÜµÃµ½Ò»ÕÅÎÂÅ¯µÄ´²"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "ÄúÐèÒªÎª½ñÍí»¨·ÑÂð?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "×¡"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "ÍüÁËËü"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "Have"
+msgstr "拥有"
+
+msgctxt "terms.equipped_items"
+msgid "Equipped"
+msgstr "配备"
+
+msgctxt "terms.gold"
+msgid "G"
+msgstr "G"
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "Delusions"
+msgstr "虚物"
+
+msgctxt "terms.command_skill"
+msgid "Wake"
+msgstr "苏醒"
+
+msgctxt "terms.menu_save"
+msgid "Register"
+msgstr "登记"
+
+msgctxt "terms.menu_quit"
+msgid "Over"
+msgstr "结束"
+
+msgctxt "terms.new_game"
+msgid "    P   "
+msgstr ""
+
+msgctxt "terms.load_game"
+msgid "   L    "
+msgstr ""
+
+msgctxt "terms.exit_game"
+msgid "    E   "
+msgstr ""
+
+msgctxt "terms.level"
+msgid "Lv."
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "Psyche"
+msgstr "心理情绪"
+
+msgctxt "terms.lvl_short"
+msgid "Lv"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "- Need to register?"
+msgstr "- 需要登记吗?"
+
+msgctxt "terms.load_game_message"
+msgid "- Which memory do you want to recall?"
+msgstr "- 要回忆哪一段记忆?"
+
+msgctxt "terms.file"
+msgid "CD"
+msgstr ""
+
+msgctxt "terms.exit_game_message"
+msgid "- Want to escape?"
+msgstr "- 想逃？"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr ""
+
+msgctxt "terms.no"
+msgid "No"
+msgstr ""
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+
+#. ID 1
+msgctxt "classes.name"
+msgid "Delusional"
+msgstr "幻想痴"
+

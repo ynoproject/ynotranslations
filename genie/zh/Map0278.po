@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 5, Pos (9,9)
+msgid ""
+"An elderly voice:\n"
+"\"Send her to the next century.\""
+msgstr ""
+"古老的声音：\n"
+"“把她送到下一个世纪去。”"
