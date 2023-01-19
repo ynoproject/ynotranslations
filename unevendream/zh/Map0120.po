@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 35, Page 1, Line 2, Pos (92,6)
+#. ID 36, Page 1, Line 2, Pos (123,3)
+msgid ""
+"\\>The area beyond this point is currently under\n"
+"\\>construction."
+msgstr ""
+"\\>这块之外的区域目前还在建设当中。"
