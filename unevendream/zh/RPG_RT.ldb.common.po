@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Line 14
+msgid "                  *Fast Forward*"
+msgstr "                      *快进*"
+
+#. ID 9, Line 18
+msgid "                    *Boombox*"
+msgstr "                      *音响*"
+
+#. ID 9, Line 22
+msgid "                    *Snowglobe*"
+msgstr "                     *雪景球*"
+
+#. ID 9, Line 26
+msgid "                   *Dark Matter*"
+msgstr "                     *暗物质*"
+
+#. ID 9, Line 30
+msgid "                     *Turtle*"
+msgstr "                      *海龟*"
+
+#. ID 9, Line 34
+msgid "                    *Lamppost*"
+msgstr "                      *路灯*"
+
+#. ID 9, Line 38
+msgid "                       *Box*"
+msgstr "                      *纸箱*"
+
+#. ID 9, Line 42
+msgid "                     *Pencil*"
+msgstr "                      *铅笔*"
+
+#. ID 9, Line 46
+msgid "                      *Seer*"
+msgstr "                      *先知*"
+
+#. ID 9, Line 50
+msgid "                      *Hood*"
+msgstr "                      *兜帽*"
+
+#. ID 9, Line 54
+msgid "                      *Plug*"
+msgstr "                      *插头*"
+
+#. ID 9, Line 58
+msgid "                      *Mouth*"
+msgstr "                      *嘴巴*"
+
+#. ID 9, Line 64
+msgid "                      *Star*"
+msgstr "                      *星星*"
+
+#. ID 9, Line 68
+msgid "                    *Music Box*"
+msgstr "                     *音乐盒*"
+
+#. ID 9, Line 72
+msgid "                *Lily of the Valley*"
+msgstr "                     *铃兰花*"
+
+#. ID 9, Line 76
+msgid "                      *Cape*"
+msgstr "                      *披风*"
+
+#. ID 9, Line 80
+msgid "                    *UV Light*"
+msgstr "                    *紫外线灯*"
+
+#. ID 9, Line 84
+msgid "                    *Sunflower*"
+msgstr "                     *太阳花*"
+
+#. ID 9, Line 88
+msgid "                    *Nightcap*"
+msgstr "                      *睡帽*"
+
+#. ID 9, Line 92
+msgid "                    *Butterfly*"
+msgstr "                      *蝴蝶*"
+
+#. ID 9, Line 96
+msgid "                    *Mermaid*"
+msgstr "                     *美人鱼*"
+
+#. ID 9, Line 100
+msgid "                    *Sidetail*"
+msgstr "                     *侧马尾*"
+
+#. ID 9, Line 104
+msgid "                     *Origami*"
+msgstr "                      *折纸*"
+
+#. ID 9, Line 108
+msgid "                      *Cyber*"
+msgstr "                      *赛博*"
+
+#. ID 14, Line 4
+#. Choice (4 options)
+msgid ""
+"\\>Player Speed\n"
+"\\>Teleport\n"
+"\\>Page 2\n"
+"\\>Exit"
+msgstr ""
+"\\>玩家移速\n"
+"\\>传送\n"
+"\\>第二页\n"
+"\\>退出"
+
+#. ID 14, Line 6
+#. Choice (4 options)
+msgid ""
+"\\><<<< - MAXIMUM SPEED\n"
+"\\><<< - 4x Speed\n"
+"\\><< - 2x Speed\n"
+"\\>< - Normal Speed"
+msgstr ""
+"\\><<<< - 极限速度\n"
+"\\><<< - 四倍速\n"
+"\\><< - 二倍速\n"
+"\\>< - 普通速度"
+
+#. ID 14, Line 30
+#. Choice (2 options)
+msgid ""
+"Special Locations\n"
+"Custom"
+msgstr ""
+"特殊位置\n"
+"常规设置"
+
+#. ID 14, Line 32
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Bedrooms\n"
+"Nexuses\n"
+"Before Video Game Worlds"
+msgstr ""
+"Debug 房间\n"
+"卧室\n"
+"门世界\n"
+"游戏世界之前"
+
+#. ID 14, Line 40
+#. Choice (2 options)
+#. ID 14, Line 56
+#. Choice (2 options)
+msgid ""
+"Kubo\n"
+"Totsu"
+msgstr ""
+
+#. ID 14, Line 92
+msgid "\\>Your current location is Map \\V[0005] X \\V[0006] Y \\V[0007]."
+msgstr "\\>您现在的位置为地图 \\V[0005] X \\V[0006] Y \\V[0007]."
+
+
+#. ID 14, Line 93
+msgid ""
+"\\>M: XXXX X: XXX Y: XXX\n"
+"\\>Enter your map #:"
+msgstr ""
+"\\>M: XXXX X: XXX Y: XXX\n"
+"\\>进入地图 #:"
+
+#. ID 14, Line 97
+msgid ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>进入地图 X:"
+
+#. ID 14, Line 106
+msgid ""
+"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>进入地图 Y:"
+
+#. ID 14, Line 130
+#. Choice (4 options)
+msgid ""
+"\\>Save\n"
+"\\>Captured By Chaser\n"
+"\\>Unlock Screen Pos.\n"
+"\\>Title Screen"
+msgstr ""
+"\\>存档\n"
+"\\>被追逐者抓住\n"
+"\\>解锁屏幕位置\n"
+"\\>标题画面"
+
+#. ID 19, Line 73
+#. ID 19, Line 97
+msgid "Quick Effect 1 is not set."
+msgstr "快捷效果1未设置。"
+
+#. ID 19, Line 84
+#. ID 19, Line 108
+msgid "Quick Effect 2 is not set."
+msgstr "快捷效果2未设置。"
+
+#. ID 77, Line 203
+#. Contains choice at line 2 (2 options)
+msgid "Switch characters?"
+msgstr "切换主角？"
+
+#. ID 77, Line 204
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 77, Line 372
+#. ID 77, Line 383
+msgid "(Work in progress!)"
+msgstr "(开发中！)"
+
+#. ID 77, Line 391
+#. Choice (1 options)
+msgid "Quick Effects"
+msgstr "快捷效果"
+
+#. ID 77, Line 397
+#. ID 77, Line 447
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"快捷效果1未设置。\n"
+"快捷效果2未设置。"
+
+#. ID 77, Line 401
+#. ID 77, Line 451
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"快捷效果1未设置。\n"
+"快捷效果2已设置。"
+
+#. ID 77, Line 408
+#. ID 77, Line 458
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"快捷效果1已设置。\n"
+"快捷效果2未设置。"
+
+#. ID 77, Line 412
+#. ID 77, Line 462
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"快捷效果1已设置。\n"
+"快捷效果2已设置。"
+
+#. ID 77, Line 418
+#. Choice (2 options)
+#. ID 77, Line 468
+#. Choice (2 options)
+msgid ""
+"Modify Quick Effect 1\n"
+"Modify Quick Effect 2"
+msgstr ""
+"切换快捷效果1\n"
+"切换快捷效果2"
+
+#. ID 77, Line 420
+#. ID 77, Line 430
+#. ID 77, Line 470
+#. ID 77, Line 480
+msgid "Select your preferred quick effect."
+msgstr "选择您喜欢的的快捷效果。"
+
+#. ID 77, Line 426
+#. ID 77, Line 476
+msgid "Quick Effect 1 set."
+msgstr "快捷效果1设置完毕。"
+
+#. ID 77, Line 436
+#. ID 77, Line 486
+msgid "Quick Effect 2 set."
+msgstr "快捷效果2设置完毕。"
+
+#. ID 87, Line 21
+#. ID 89, Line 21
+#. ID 89, Line 51
+#. ID 89, Line 63
+msgid "how did you manage to do this?"
+msgstr "你是怎么做到的？"
+
+#. ID 105, Line 15
+#. ID 105, Line 32
+#. ID 105, Line 39
+#. ID 105, Line 238
+msgid "\\$\\|\\^"
+msgstr ""
+
