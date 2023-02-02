@@ -16,7 +16,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Kubotsuki"
-msgstr ""
+msgstr "附凹君"
 
 #. ID 1
 msgctxt "actors.title"
@@ -26,7 +26,7 @@ msgstr "凹"
 #. ID 2
 msgctxt "actors.name"
 msgid "Totsutsuki"
-msgstr ""
+msgstr "附凸子"
 
 #. ID 2
 msgctxt "actors.title"
@@ -84,7 +84,7 @@ msgstr "说明"
 #. ID 7
 msgctxt "skills.description"
 msgid "View the game's instructions."
-msgstr "查看游戏说明书."
+msgstr "查看游戏说明书。"
 
 #. ID 1
 #. ID 2
@@ -95,12 +95,12 @@ msgstr "快进"
 #. ID 1
 msgctxt "items.description"
 msgid "Speed up movement."
-msgstr "能够加速移动."
+msgstr "能够加速移动。"
 
 #. ID 2
 msgctxt "items.description"
 msgid "Memories of watching."
-msgstr "一个与观看有关的记忆."
+msgstr "一个与观看有关的记忆。"
 
 #. ID 3
 #. ID 4
@@ -111,28 +111,28 @@ msgstr "音响"
 #. ID 3
 msgctxt "items.description"
 msgid "Have a cassette player for a head."
-msgstr "头变成录音带放音机."
+msgstr "头变成磁带录音机。"
 
 #. ID 4
 msgctxt "items.description"
 msgid "Memories of listening."
-msgstr "一个与聆听有关的记忆"
+msgstr "一个与聆听有关的记忆。"
 
 #. ID 5
 #. ID 6
 msgctxt "items.name"
 msgid "Snowglobe"
-msgstr "雪景球"
+msgstr "雪花球"
 
 #. ID 5
 msgctxt "items.description"
 msgid "Turn into a snowglobe and make snow."
-msgstr "变成雪景球并使天空下雪."
+msgstr "变成雪花球并使天空下雪。"
 
 #. ID 6
 msgctxt "items.description"
 msgid "Memories of winter."
-msgstr "一个与冬天有关的记忆."
+msgstr "一个与冬天有关的记忆。"
 
 #. ID 7
 #. ID 8
@@ -143,12 +143,12 @@ msgstr "暗物质"
 #. ID 7
 msgctxt "items.description"
 msgid "Turn into dark matter that powers machines."
-msgstr "变成能够给机器供能的暗物质."
+msgstr "变成能够给机器供能的暗物质。"
 
 #. ID 8
 msgctxt "items.description"
 msgid "Memories of technology."
-msgstr "一个与于科技有关的记忆."
+msgstr "一个与于科技有关的记忆。"
 
 #. ID 9
 #. ID 10
@@ -159,12 +159,12 @@ msgstr "海龟"
 #. ID 9
 msgctxt "items.description"
 msgid "Turn into a turtle that changes your size."
-msgstr "变成海龟，改变大小."
+msgstr "变成海龟，改变大小。"
 
 #. ID 10
 msgctxt "items.description"
 msgid "Memories of nature."
-msgstr "一个与自然有关的记忆."
+msgstr "一个与自然有关的记忆。"
 
 #. ID 11
 #. ID 12
@@ -175,12 +175,12 @@ msgstr "路灯杆"
 #. ID 11
 msgctxt "items.description"
 msgid "Generate light."
-msgstr "产生光亮."
+msgstr "发出亮光。"
 
 #. ID 12
 msgctxt "items.description"
 msgid "Memories of light in darkness."
-msgstr "在黑暗中的闪烁的光芒的记忆."
+msgstr "在黑暗中闪烁着光芒的记忆。"
 
 #. ID 13
 #. ID 14
@@ -191,12 +191,12 @@ msgstr "箱子"
 #. ID 13
 msgctxt "items.description"
 msgid "Hide in a box to return to the nexus."
-msgstr "通过躲在箱子里来返回门世界."
+msgstr "通过躲在箱子里来返回门世界。"
 
 #. ID 14
 msgctxt "items.description"
 msgid "Memories of moving."
-msgstr "一个与搬家有关的回忆."
+msgstr "一个与搬家有关的记忆。"
 
 #. ID 15
 #. ID 16
@@ -207,12 +207,12 @@ msgstr "铅笔"
 #. ID 15
 msgctxt "items.description"
 msgid "Scribble over objects and people."
-msgstr "在物体和人表面涂鸦."
+msgstr "在物体和人表面涂鸦。"
 
 #. ID 16
 msgctxt "items.description"
 msgid "Memories of frustration."
-msgstr "一个与挫折有关的记忆."
+msgstr "一个与挫折有关的记忆。"
 
 #. ID 17
 #. ID 18
@@ -223,12 +223,12 @@ msgstr "先知"
 #. ID 17
 msgctxt "items.description"
 msgid "See what's hidden for normal eyes."
-msgstr "看到肉眼不可见的秘密."
+msgstr "看到肉眼不可见的秘密。"
 
 #. ID 18
 msgctxt "items.description"
 msgid "Memories of the occult."
-msgstr "一个与超自然有关的记忆."
+msgstr "一个与超自然有关的记忆。"
 
 #. ID 19
 #. ID 20
@@ -239,12 +239,12 @@ msgstr "兜帽"
 #. ID 19
 msgctxt "items.description"
 msgid "To blend in the crowd."
-msgstr "为了融入人群."
+msgstr "为了融入人群。"
 
 #. ID 20
 msgctxt "items.description"
 msgid "Memories of warmth."
-msgstr "一个与温暖有关的记忆."
+msgstr "一个与温暖有关的记忆。"
 
 #. ID 21
 #. ID 22
@@ -255,12 +255,12 @@ msgstr "插头"
 #. ID 21
 msgctxt "items.description"
 msgid "Carry a plug and a socket."
-msgstr "拿上插头和插座."
+msgstr "拿上插头和插座。"
 
 #. ID 22
 msgctxt "items.description"
 msgid "Memories of surprise."
-msgstr "一个与惊奇有关的记忆."
+msgstr "一个与惊奇有关的记忆。"
 
 #. ID 23
 #. ID 24
@@ -271,12 +271,12 @@ msgstr "插头"
 #. ID 23
 msgctxt "items.description"
 msgid "Replaces your head with a giant mouth."
-msgstr "头变成一张巨嘴."
+msgstr "头变成一张巨嘴。"
 
 #. ID 24
 msgctxt "items.description"
 msgid "Memories of intimidation."
-msgstr "一个吐出恐吓的记忆."
+msgstr "一个吐出恐吓的记忆。"
 
 #. ID 25
 msgctxt "items.name"
@@ -733,7 +733,7 @@ msgstr ""
 #. ID 100
 msgctxt "items.description"
 msgid "If you have this, Pat messed something up!"
-msgstr "如果你有这东西，Pat把事情搞砸了!"
+msgstr "如果你有这东西，Pat把事情搞砸了！"
 
 #. ID 101
 msgctxt "items.name"
@@ -743,7 +743,7 @@ msgstr "调试物品"
 #. ID 101
 msgctxt "items.description"
 msgid "For developers and the curious!"
-msgstr "为开发者和好奇的人准备!"
+msgstr "为开发者和好奇的人准备！"
 
 #. ID 110
 msgctxt "items.name"
@@ -753,7 +753,7 @@ msgstr "棕发"
 #. ID 110
 msgctxt "items.description"
 msgid "Short and slightly greasy."
-msgstr "有点油腻的短发."
+msgstr "有点油腻的短发。"
 
 #. ID 111
 msgctxt "items.name"
@@ -763,12 +763,12 @@ msgstr "灰色坎肩"
 #. ID 111
 msgctxt "items.description"
 msgid "Slightly ragged, with an unknown symbol on it."
-msgstr "有点破旧,上面印着一个未知的符号."
+msgstr "有些破旧，上面印着一个未知的符号。"
 
 #. ID 112
 msgctxt "items.description"
 msgid "It's sleeveless."
-msgstr "没有袖子."
+msgstr "没有袖子。"
 
 #. ID 113
 msgctxt "items.name"
@@ -778,7 +778,7 @@ msgstr "暗色牛仔裤"
 #. ID 113
 msgctxt "items.description"
 msgid "A deep blue color. Some nicer clothing."
-msgstr "很深的蓝色.质量比较好的衣服."
+msgstr "很深的蓝色。是件质量比较好的衣服。"
 
 #. ID 114
 msgctxt "items.name"
@@ -788,7 +788,7 @@ msgstr "悲观主义"
 #. ID 114
 msgctxt "items.description"
 msgid "I feel prepared, at least."
-msgstr "至少我有心理准备."
+msgstr "至少我有心理准备。"
 
 #. ID 116
 msgctxt "items.name"
@@ -798,7 +798,7 @@ msgstr "红发"
 #. ID 116
 msgctxt "items.description"
 msgid "Soft and shiny, with some cute pigtails too!"
-msgstr "软蓬蓬闪亮亮，还有可爱的双马尾!"
+msgstr "软蓬蓬闪亮亮，还有可爱的双马尾！"
 
 #. ID 117
 msgctxt "items.name"
@@ -808,7 +808,7 @@ msgstr "粉裙子"
 #. ID 117
 msgctxt "items.description"
 msgid "Very comfy. Not sure what symbol's on it..."
-msgstr "非常舒服.不知道上面是什么符号……"
+msgstr "非常舒服。但不知道上面是什么符号……"
 
 #. ID 120
 msgctxt "items.name"
