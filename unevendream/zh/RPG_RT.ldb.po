@@ -16,7 +16,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Kubotsuki"
-msgstr "附凹君"
+msgstr ""
 
 #. ID 1
 msgctxt "actors.title"
@@ -26,7 +26,7 @@ msgstr "凹"
 #. ID 2
 msgctxt "actors.name"
 msgid "Totsutsuki"
-msgstr "附凸子"
+msgstr ""
 
 #. ID 2
 msgctxt "actors.title"
