@@ -561,28 +561,28 @@ msgstr "侧马尾"
 #. ID 69
 msgctxt "items.description"
 msgid "How do you like your hair done?"
-msgstr "你喜欢什么样的发型?"
+msgstr "你喜欢什么样的发型？"
 
 #. ID 70
 msgctxt "items.description"
 msgid "A dream about beauty."
-msgstr "一个和美有关的梦."
+msgstr "一个和美有关的梦。"
 
 #. ID 71
 #. ID 72
 msgctxt "items.name"
 msgid "Origami"
-msgstr ""
+msgstr "日式折纸"
 
 #. ID 71
 msgctxt "items.description"
 msgid "Arts and crafts on yourself!"
-msgstr "把自己做成手工艺品!"
+msgstr "把自己做成手工艺品！"
 
 #. ID 72
 msgctxt "items.description"
 msgid "A dream about creativity."
-msgstr "一个和美有关的梦."
+msgstr "一个与创造力有关的梦。"
 
 #. ID 73
 #. ID 74
