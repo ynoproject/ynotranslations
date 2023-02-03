@@ -1,44 +1,49 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 9, Line 14
 msgid "                  *Fast Forward*"
-msgstr "                      *快进*"
+msgstr "                  *快进*"
 
 #. ID 9, Line 18
 msgid "                    *Boombox*"
-msgstr "                      *音响*"
+msgstr "                    *音响*"
 
 #. ID 9, Line 22
 msgid "                    *Snowglobe*"
-msgstr "                     *雪景球*"
+msgstr "                    *雪景球*"
 
 #. ID 9, Line 26
 msgid "                   *Dark Matter*"
-msgstr "                     *暗物质*"
+msgstr "                   *暗物质*"
 
 #. ID 9, Line 30
 msgid "                     *Turtle*"
-msgstr "                      *海龟*"
+msgstr "                     *海龟*"
 
 #. ID 9, Line 34
 msgid "                    *Lamppost*"
-msgstr "                      *路灯*"
+msgstr "                    *路灯杆*"
 
 #. ID 9, Line 38
 msgid "                       *Box*"
-msgstr "                      *纸箱*"
+msgstr "                       *箱子*"
 
 #. ID 9, Line 42
 msgid "                     *Pencil*"
-msgstr "                      *铅笔*"
+msgstr "                     *铅笔*"
 
 #. ID 9, Line 46
 msgid "                      *Seer*"
@@ -54,7 +59,7 @@ msgstr "                      *插头*"
 
 #. ID 9, Line 58
 msgid "                      *Mouth*"
-msgstr "                      *嘴巴*"
+msgstr "                      *嘴*"
 
 #. ID 9, Line 64
 msgid "                      *Star*"
@@ -62,11 +67,11 @@ msgstr "                      *星星*"
 
 #. ID 9, Line 68
 msgid "                    *Music Box*"
-msgstr "                     *音乐盒*"
+msgstr "                    *音乐盒*"
 
 #. ID 9, Line 72
 msgid "                *Lily of the Valley*"
-msgstr "                     *铃兰花*"
+msgstr "                *铃兰*"
 
 #. ID 9, Line 76
 msgid "                      *Cape*"
@@ -78,31 +83,31 @@ msgstr "                    *紫外线灯*"
 
 #. ID 9, Line 84
 msgid "                    *Sunflower*"
-msgstr "                     *太阳花*"
+msgstr "                    *向日葵*"
 
 #. ID 9, Line 88
 msgid "                    *Nightcap*"
-msgstr "                      *睡帽*"
+msgstr "                    *睡帽*"
 
 #. ID 9, Line 92
 msgid "                    *Butterfly*"
-msgstr "                      *蝴蝶*"
+msgstr "                    *蝴蝶*"
 
 #. ID 9, Line 96
 msgid "                    *Mermaid*"
-msgstr "                     *美人鱼*"
+msgstr "                    *人鱼*"
 
 #. ID 9, Line 100
 msgid "                    *Sidetail*"
-msgstr "                     *侧马尾*"
+msgstr "                    *侧马尾*"
 
 #. ID 9, Line 104
 msgid "                     *Origami*"
-msgstr "                      *折纸*"
+msgstr "                     *折纸*"
 
 #. ID 9, Line 108
 msgid "                      *Cyber*"
-msgstr "                      *赛博*"
+msgstr "                      *网络*"
 
 #. ID 14, Line 4
 #. Choice (4 options)
@@ -112,7 +117,7 @@ msgid ""
 "\\>Page 2\n"
 "\\>Exit"
 msgstr ""
-"\\>玩家移速\n"
+"\\>玩家速度\n"
 "\\>传送\n"
 "\\>第二页\n"
 "\\>退出"
@@ -125,10 +130,10 @@ msgid ""
 "\\><< - 2x Speed\n"
 "\\>< - Normal Speed"
 msgstr ""
-"\\><<<< - 极限速度\n"
+"\\><<<< - 最大速度\n"
 "\\><<< - 四倍速\n"
 "\\><< - 二倍速\n"
-"\\>< - 普通速度"
+"\\>< - 正常速度"
 
 #. ID 14, Line 30
 #. Choice (2 options)
@@ -136,8 +141,8 @@ msgid ""
 "Special Locations\n"
 "Custom"
 msgstr ""
-"特殊位置\n"
-"常规设置"
+"特殊地点\n"
+"自定义"
 
 #. ID 14, Line 32
 #. Choice (4 options)
@@ -147,10 +152,6 @@ msgid ""
 "Nexuses\n"
 "Before Video Game Worlds"
 msgstr ""
-"Debug 房间\n"
-"卧室\n"
-"门世界\n"
-"游戏世界之前"
 
 #. ID 14, Line 40
 #. Choice (2 options)
@@ -163,8 +164,7 @@ msgstr ""
 
 #. ID 14, Line 92
 msgid "\\>Your current location is Map \\V[0005] X \\V[0006] Y \\V[0007]."
-msgstr "\\>您现在的位置为地图 \\V[0005] X \\V[0006] Y \\V[0007]."
-
+msgstr "\\>您当前所在地图位置在 \\V[0005] X \\V[0006] Y \\V[0007]."
 
 #. ID 14, Line 93
 msgid ""
@@ -172,7 +172,7 @@ msgid ""
 "\\>Enter your map #:"
 msgstr ""
 "\\>M: XXXX X: XXX Y: XXX\n"
-"\\>进入地图 #:"
+"\\>输入地图id:"
 
 #. ID 14, Line 97
 msgid ""
@@ -180,15 +180,15 @@ msgid ""
 "\\>Enter your map X:"
 msgstr ""
 "\\>M: \\V[0009] X: XXX Y: XXX\n"
-"\\>进入地图 X:"
+"\\>输入地图X坐标:"
 
 #. ID 14, Line 106
 msgid ""
 "\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
 "\\>Enter your map Y:"
 msgstr ""
-"\\>M: \\V[0009] X: XXX Y: XXX\n"
-"\\>进入地图 Y:"
+"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>输入地图Y坐标:"
 
 #. ID 14, Line 130
 #. Choice (4 options)
@@ -198,25 +198,25 @@ msgid ""
 "\\>Unlock Screen Pos.\n"
 "\\>Title Screen"
 msgstr ""
-"\\>存档\n"
+"\\>保存\n"
 "\\>被追逐者抓住\n"
-"\\>解锁屏幕位置\n"
-"\\>标题画面"
+"\\>屏幕重定位\n"
+"\\>标题界面"
 
 #. ID 19, Line 73
 #. ID 19, Line 97
 msgid "Quick Effect 1 is not set."
-msgstr "快捷效果1未设置。"
+msgstr "快捷效果1未设定."
 
 #. ID 19, Line 84
 #. ID 19, Line 108
 msgid "Quick Effect 2 is not set."
-msgstr "快捷效果2未设置。"
+msgstr "快捷效果2未设定."
 
 #. ID 77, Line 203
 #. Contains choice at line 2 (2 options)
 msgid "Switch characters?"
-msgstr "切换主角？"
+msgstr "切换角色?"
 
 #. ID 77, Line 204
 #. Choice (2 options, embedded in a message)
@@ -230,7 +230,7 @@ msgstr ""
 #. ID 77, Line 372
 #. ID 77, Line 383
 msgid "(Work in progress!)"
-msgstr "(开发中！)"
+msgstr "(施工中!)"
 
 #. ID 77, Line 391
 #. Choice (1 options)
@@ -243,8 +243,8 @@ msgid ""
 "Quick Effect 1 is not set.\n"
 "Quick Effect 2 is not set."
 msgstr ""
-"快捷效果1未设置。\n"
-"快捷效果2未设置。"
+"快捷效果1未设定.\n"
+"快捷效果2未设定."
 
 #. ID 77, Line 401
 #. ID 77, Line 451
@@ -252,8 +252,8 @@ msgid ""
 "Quick Effect 1 is not set.\n"
 "Quick Effect 2 is set."
 msgstr ""
-"快捷效果1未设置。\n"
-"快捷效果2已设置。"
+"快捷效果1未设定.\n"
+"快捷效果2已设定."
 
 #. ID 77, Line 408
 #. ID 77, Line 458
@@ -261,8 +261,8 @@ msgid ""
 "Quick Effect 1 is set.\n"
 "Quick Effect 2 is not set."
 msgstr ""
-"快捷效果1已设置。\n"
-"快捷效果2未设置。"
+"快捷效果1已设定.\n"
+"快捷效果2未设定."
 
 #. ID 77, Line 412
 #. ID 77, Line 462
@@ -270,8 +270,8 @@ msgid ""
 "Quick Effect 1 is set.\n"
 "Quick Effect 2 is set."
 msgstr ""
-"快捷效果1已设置。\n"
-"快捷效果2已设置。"
+"快捷效果1已设定.\n"
+"快捷效果2已设定."
 
 #. ID 77, Line 418
 #. Choice (2 options)
@@ -281,32 +281,32 @@ msgid ""
 "Modify Quick Effect 1\n"
 "Modify Quick Effect 2"
 msgstr ""
-"切换快捷效果1\n"
-"切换快捷效果2"
+"修改快捷效果1\n"
+"修改快捷效果1"
 
 #. ID 77, Line 420
 #. ID 77, Line 430
 #. ID 77, Line 470
 #. ID 77, Line 480
 msgid "Select your preferred quick effect."
-msgstr "选择您喜欢的的快捷效果。"
+msgstr "选择你喜欢的快捷效果."
 
 #. ID 77, Line 426
 #. ID 77, Line 476
 msgid "Quick Effect 1 set."
-msgstr "快捷效果1设置完毕。"
+msgstr "快捷效果1已设定."
 
 #. ID 77, Line 436
 #. ID 77, Line 486
 msgid "Quick Effect 2 set."
-msgstr "快捷效果2设置完毕。"
+msgstr "快捷效果2已设定."
 
 #. ID 87, Line 21
 #. ID 89, Line 21
 #. ID 89, Line 51
 #. ID 89, Line 63
 msgid "how did you manage to do this?"
-msgstr "你是怎么做到的？"
+msgstr "你是如何做到这一点的？"
 
 #. ID 105, Line 15
 #. ID 105, Line 32
@@ -314,4 +314,3 @@ msgstr "你是怎么做到的？"
 #. ID 105, Line 238
 msgid "\\$\\|\\^"
 msgstr ""
-
