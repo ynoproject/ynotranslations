@@ -315,10 +315,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v：Chọn bản nhạc\n"
-"\\>Z       ：Chơi nhạc・Lưu vào số\n"
+"\\>$s$t$u$v：Chọn bài nhạc\n"
+"\\>Z       ：Phát nhạc・Chọn nhạc để lưu\n"
 "\\>X       ：Quay về menu\n"
-"\\>Shift   ：Xem t.tin・Lưu vào d.sách"
+"\\>Shift   ：Xem t.tin・Xóa bản nhạc"
 
 #. ID 1, Page 1, Line 1842, Pos (19,14)
 msgid ""
@@ -327,10 +327,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v：Chọn bản nhạc\n"
-"\\>Z       ：Chơi nhạc・Chuyển biến thể\n"
+"\\>$s$t$u$v：Chọn bài nhạc\n"
+"\\>Z       ：Phát nhạc・Chuyển biến thể\n"
 "\\>X       ：Quay về menu\n"
-"\\>Shift   ：Xem t.tin・Lưu vào d.sách"
+"\\>Shift   ：T.tin・Lưu/Xóa khỏi d.sách"
 
 #. ID 1, Page 1, Line 1855, Pos (19,14)
 msgid ""
@@ -339,7 +339,7 @@ msgid ""
 "\\>・旧SRへ切替\n"
 "\\>・操作ガイド表示"
 msgstr ""
-"\\>\\C[10]■\\C[0]Các tùy chọn menu [1/3]\n"
+"\\>\\C[10]■\\C[0] Các tùy chọn menu [1/3]\n"
 "\\>・Quay về PC\n"
 "\\>・Chuyển về Sound Room cũ\n"
 "\\>・Xem hướng dẫn"
@@ -351,9 +351,9 @@ msgid ""
 "\\>・旧SRへ切替\\_/\\_SREDの閲覧\n"
 "\\>・操作ガイド表示"
 msgstr ""
-"\\>\\C[10]■\\C[0]Các tùy chọn menu [1/3]\n"
+"\\>\\C[10]■\\C[0] Các tùy chọn menu [1/3]\n"
 "\\>・Quay về PC\n"
-"\\>・Quay về Sound Room cũ\\_/\\_Sound Room ED\n"
+"\\>・Vào Sound Room cũ\\_/\\_Sound Room ED\n"
 "\\>・Xem hướng dẫn"
 
 #. ID 1, Page 1, Line 1873, Pos (19,14)
@@ -363,10 +363,10 @@ msgid ""
 "\\>・自動曲送りの設定\n"
 "\\>・演奏を止める"
 msgstr ""
-"\\>\\C[10]■\\C[0]Các tùy chon menu [2/3]\n"
-"\\>・Chuyển chế độ chơi\n"
-"\\>・Cài đặt tự động chơi\n"
-"\\>・Dừng bản nhạc hiện tại"
+"\\>\\C[10]■\\C[0] Các tùy chọn menu [2/3]\n"
+"\\>・Chuyển chế độ phát\n"
+"\\>・Cài đặt phát tự động\n"
+"\\>・Dừng bài nhạc đang phát"
 
 #. ID 1, Page 1, Line 1884, Pos (19,14)
 msgid ""
@@ -375,9 +375,9 @@ msgid ""
 "\\>・メモリーの交換\\_/\\_全消去\n"
 "\\>・詳細設定の変更"
 msgstr ""
-"\\>\\C[10]■\\C[0]Các tùy chọn menu [3/3]\n"
-"\\>・Nghe và lưu bản nhạc\n"
-"\\>・Đổi d.sách nhạc\\_/\\_Bỏ tất cả\n"
+"\\>\\C[10]■\\C[0] Các tùy chọn menu [3/3]\n"
+"\\>・Chọn bài nhạc\n"
+"\\>・Đổi vị trí\\_/\\_Xóa toàn bộ\n"
 "\\>・Cài đặt nâng cao"
 
 #. ID 1, Page 1, Line 1891, Pos (19,14)
@@ -386,7 +386,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "サウンドサーチ"
-msgstr "Tìm bản nhạc"
+msgstr "Tìm bài nhạc"
 
 #. ID 1, Page 1, Line 1894, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -394,7 +394,7 @@ msgstr "Tìm bản nhạc"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "未解放箇所を探す"
-msgstr "Tìm bản nhạc bị khóa"
+msgstr "Tìm bài nhạc bị khóa"
 
 #. ID 1, Page 1, Line 1897, Pos (19,14)
 msgid ""
@@ -403,7 +403,7 @@ msgid ""
 "\\>・カーソルジャンプ\n"
 "\\>・詳細設定の変更"
 msgstr ""
-"\\>\\C[10]■\\C[0]Các tùy chọn menu [3/3]\n"
+"\\>\\C[10]■\\C[0] Các tùy chọn menu [3/3]\n"
 "\\>・\\N[1]\n"
 "\\>・Đặt vị trí con trỏ\n"
 "\\>・Cài đặt nâng cao"
@@ -415,6 +415,10 @@ msgid ""
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
 msgstr ""
+"\\>\\C[10]■\\C[0] Thêm nhạc vào danh sách phát\n"
+"\\>\n"
+"\\>Ấn Z\\_>\\_Chọn số thứ tự bài nhạc hoặc\n"
+"\\>Menu\\_>\\_Cài đặt nâng cao\\_>\\_Chọn bài nhạc"
 
 #. ID 1, Page 1, Line 1916, Pos (19,14)
 msgid ""
@@ -422,7 +426,7 @@ msgid ""
 "\\>\n"
 "\\>Shiftダイアログから選択"
 msgstr ""
-"\\>\\C[10]■\\C[0]Thêm bản nhạc vào danh sách phát\n"
+"\\>\\C[10]■\\C[0] Thêm nhạc vào danh sách phát\n"
 "\\>\n"
 "\\>Ấn Shift và chọn từ hộp thoại"
 
@@ -479,6 +483,10 @@ msgid ""
 "\\>\n"
 "\\>＞指定した条件で自動曲送りする機能です"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tự động phát\\C[0]\n"
+"\\>\n"
+"\\>＞Phát nhạc tự động dựa trên các điều kiện \n"
+"  xác định"
 
 #. ID 1, Page 1, Line 2027, Pos (19,14)
 msgid ""
@@ -510,7 +518,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "起動"
-msgstr ""
+msgstr "Bắt đầu"
 
 #. ID 1, Page 1, Line 2065, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -518,7 +526,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "停止"
-msgstr ""
+msgstr "Dừng"
 
 #. ID 1, Page 1, Line 2068, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -526,6 +534,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]自動曲送り\\C[0]\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tự động phát\\C[0]\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2070, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -533,6 +543,8 @@ msgid ""
 "\\>自動曲送りを\\N[6]する\n"
 "\\>詳細設定"
 msgstr ""
+"\\>\\N[6] tự động phát\n"
+"\\>Cài đặt nâng cao"
 
 #. ID 1, Page 1, Line 2087, Pos (19,14)
 msgid ""
@@ -540,36 +552,39 @@ msgid ""
 "\\>\n"
 "\\>＞自動曲送りを\\N[6]しました\\<\\.\\.\\^"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tự động phát\\C[0]\n"
+"\\>\n"
+"\\>＞\\N[6] tự động phát...\\<\\.\\.\\^"
 
 #. ID 1, Page 1, Line 2137, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ノーマル"
-msgstr ""
+msgstr "Bình thường"
 
 #. ID 1, Page 1, Line 2141, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リバース"
-msgstr ""
+msgstr "Đảo ngược"
 
 #. ID 1, Page 1, Line 2145, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ランダム"
-msgstr ""
+msgstr "Ngẫu nhiên"
 
 #. ID 1, Page 1, Line 2149, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "時間経過"
-msgstr ""
+msgstr "Thời gian phát"
 
 #. ID 1, Page 1, Line 2152, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "ループ回数"
-msgstr ""
+msgstr "Số lần lặp"
 
 #. ID 1, Page 1, Line 2168, Pos (19,14)
 #. Contains choice at line 2 (3 options)
@@ -578,7 +593,7 @@ msgstr ""
 #. ID 1, Page 1, Line 2208, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]自動曲送りの設定\\C[0]"
-msgstr ""
+msgstr "\\>\\C[10]■\\C[6] Cài đặt tự động phát\\C[0]"
 
 #. ID 1, Page 1, Line 2169, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -587,6 +602,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[119]秒\\C[0]経過"
 msgstr ""
+"\\>Thứ tự phát: \\C[4]\\N[6]\\C[0]\n"
+"\\>Điều kiện đổi: \\C[4]\\N[1]\\C[0]\n"
+"\\>Thời gian phát: \\C[4]\\V[119]s\\C[0]"
 
 #. ID 1, Page 1, Line 2186, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -595,6 +613,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[593]分\\V[594]秒\\C[0]経過"
 msgstr ""
+"\\>Thứ tự phát: \\C[4]\\N[6]\\C[0]\n"
+"\\>Điều kiện đổi: \\C[4]\\N[1]\\C[0]\n"
+"\\>Thời gian phát: \\C[4]\\V[593]ph\\V[594]s\\C[0]"
 
 #. ID 1, Page 1, Line 2209, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -603,6 +624,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>ループ回数：\\C[4]\\V[593]回\\C[0]"
 msgstr ""
+"\\>Thứ tự phát: \\C[4]\\N[6]\\C[0]\n"
+"\\>Điều kiện đổi: \\C[4]\\N[1]\\C[0]\n"
+"\\>Số lần lặp: \\C[4]\\V[593] lần\\C[0]"
 
 #. ID 1, Page 1, Line 2233, Pos (19,14)
 msgid ""
@@ -610,11 +634,14 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の選曲方法を変えられます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt thứ tự phát\\C[0] (Hiện tại: \\C[4]\\N[6]\\C[0])\n"
+"\\>\n"
+"\\>＞Thay đổi thứ tự phát của các bài nhạc"
 
 #. ID 1, Page 1, Line 2236, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]選曲タイプの設定\\C[0]（現在：\\C[4]\\N[6]\\C[0]）"
-msgstr ""
+msgstr "\\>\\C[10]■\\C[6] Cài đặt thứ tự phát\\C[0] (Hiện tại: \\C[4]\\N[6]\\C[0])"
 
 #. ID 1, Page 1, Line 2237, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -623,6 +650,9 @@ msgid ""
 "\\>・リバース\n"
 "\\>・ランダム"
 msgstr ""
+"\\>・Bình thường\n"
+"\\>・Đảo ngược\n"
+"\\>・Ngẫu nhiên"
 
 #. ID 1, Page 1, Line 2254, Pos (19,14)
 msgid ""
@@ -630,6 +660,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の切替条件を変えられます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt đ.kiện đổi\\C[0] (Hiện tại: \\C[4]\\N[1]\\C[0])\n"
+"\\>\n"
+"\\>＞Chọn điều kiện đổi sang bài nhạc tiếp theo"
 
 #. ID 1, Page 1, Line 2257, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -637,6 +670,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]切替条件の設定\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt đ.kiện đổi\\C[0] (Hiện tại: \\C[4]\\N[1]\\C[0])\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2259, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -644,6 +679,8 @@ msgid ""
 "\\>・時間経過\n"
 "\\>・ループ回数"
 msgstr ""
+"\\>・Thời gian phát\n"
+"\\>・Số lần lặp"
 
 #. ID 1, Page 1, Line 2280, Pos (19,14)
 msgid ""
@@ -652,6 +689,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt thời gian phát\\C[0]\n"
+"\\>\n"
+"\\>＞Mỗi bài nhạc sẽ phát trong bao lâu? (từ 1-9999s)\n"
+"\\>　(Hiện tại: \\C[4]\\V[119]s\\C[0]    0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2284, Pos (19,14)
 msgid ""
@@ -659,6 +700,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt thời gian phát\\C[0]\n"
+"\\>\n"
+"\\>　(Hiện tại: \\C[4]\\V[119]s\\C[0]    0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2299, Pos (19,14)
 msgid ""
@@ -667,6 +711,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt thời gian phát\\C[0]\n"
+"\\>\n"
+"\\>＞Mỗi bài nhạc sẽ phát trong bao lâu? (từ 1-9999s)\n"
+"\\>　(Hiện tại: \\C[4]\\V[592]ph\\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]   0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2303, Pos (19,14)
 msgid ""
@@ -674,6 +722,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt thời gian phát\\C[0]\n"
+"\\>\n"
+"\\>　(Hiện tại: \\C[4]\\V[592]ph\\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]   0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2320, Pos (19,14)
 msgid ""
@@ -682,6 +733,10 @@ msgid ""
 "\\>＞何回に設定しますか？（1～9）\n"
 "\\>　（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt số lần lặp\\C[0]\n"
+"\\>\n"
+"\\>＞Mỗi bài nhạc sẽ lặp lại bao nhiêu lần?\n"
+"\\>　(Hiện tại: \\C[4]\\V[119] lần\\C[0]    0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2324, Pos (19,14)
 msgid ""
@@ -689,6 +744,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt số lần lặp\\C[0]\n"
+"\\>\n"
+"\\>　(Hiện tại: \\C[4]\\V[119] lần\\C[0]    0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2350, Pos (19,14)
 msgid ""
@@ -696,6 +754,9 @@ msgid ""
 "\\>\n"
 "\\>＞設定を変更しました\\<\\.\\.\\^"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt tự động phát\\C[0]\n"
+"\\>\n"
+"\\>＞Đã cập nhật cài đặt.\\<\\.\\.\\^"
 
 #. ID 1, Page 1, Line 2411, Pos (19,14)
 #. Condition (Actor Name = 【高度な機能】オプション)
@@ -711,7 +772,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "なし"
-msgstr ""
+msgstr "Tắt"
 
 #. ID 1, Page 1, Line 2478, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -719,14 +780,14 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "あり"
-msgstr ""
+msgstr "Bật"
 
 #. ID 1, Page 1, Line 2481, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 #. ID 1, Page 1, Line 2584, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]オプション\\C[0]"
-msgstr ""
+msgstr "\\>\\C[10]■\\C[6] Tùy chọn\\C[0]"
 
 #. ID 1, Page 1, Line 2482, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -735,6 +796,9 @@ msgid ""
 "\\>操作ラグの時間：\\C[4]\\V[109]\\C[0]　　　 （標準：5）\n"
 "\\>次の項目へ"
 msgstr ""
+"\\>Hiệu ứng âm thanh: \\C[4]\\N[6]\\C[0]　　　(Mặc định: Bật)\n"
+"\\>Độ trễ: \\C[4]\\V[109]\\C[0]　　(Mặc định: 5)\n"
+"\\>Trang sau"
 
 #. ID 1, Page 1, Line 2498, Pos (19,14)
 msgid ""
@@ -742,6 +806,9 @@ msgid ""
 "\\>\n"
 "\\>＞操作音の有無を選べます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Hiệu ứng âm thanh\\C[0] (Hiện tại: \\C[4]\\N[6]\\C[0])\n"
+"\\>\n"
+"\\>＞Chọn bật hoặc tắt hiệu ứng âm thanh"
 
 #. ID 1, Page 1, Line 2501, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -749,6 +816,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]操作時の効果音\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Hiệu ứng âm thanh\\C[0] (Hiện tại: \\C[4]\\N[6]\\C[0])\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2503, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -756,6 +825,8 @@ msgid ""
 "\\>・\\C[\\V[593]]あり\\C[0]（標準）\n"
 "\\>・\\C[\\V[592]]なし\\C[0]"
 msgstr ""
+"\\>・\\C[\\V[593]]Bật\\C[0] (Mặc định)\n"
+"\\>・\\C[\\V[592]]Tắt\\C[0]"
 
 #. ID 1, Page 1, Line 2526, Pos (19,14)
 msgid ""
@@ -764,6 +835,10 @@ msgid ""
 "\\>＞キー入力が反映されるまでの\n"
 "\\>　時間を設定してください（0～9）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt độ trễ\\C[0]\n"
+"\\>\n"
+"\\>＞Cài đặt độ trễ cho các nhập liệu\n"
+"\\>　từ bàn phím (từ 0-9）"
 
 #. ID 1, Page 1, Line 2530, Pos (19,14)
 msgid ""
@@ -771,18 +846,21 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[109]\\C[0]  標準：5  0で現状維持）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Cài đặt độ trễ\\C[0]\n"
+"\\>\n"
+"\\>＞(Hiện tại: \\C[4]\\V[109]\\C[0]   Mặc định: 5   0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2571, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "てきぱき"
-msgstr ""
+msgstr "Nhanh"
 
 #. ID 1, Page 1, Line 2574, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ゆっくり"
-msgstr ""
+msgstr "Chậm"
 
 #. ID 1, Page 1, Line 2585, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -791,6 +869,9 @@ msgid ""
 "\\>未解放の通知　：\\C[4]\\N[1]\\C[0]　　（標準：なし）\n"
 "\\>前の項目へ"
 msgstr ""
+"\\>Tốc độ chuyển bài: \\C[4]\\N[6]\\C[0]　　　(Mặc định: Chậm)\n"
+"\\>Thông báo bài bị khóa: \\C[4]\\N[1]\\C[0]　　(Mặc định: Tắt)\n"
+"\\>Trang trước"
 
 #. ID 1, Page 1, Line 2604, Pos (19,14)
 msgid ""
@@ -798,6 +879,9 @@ msgid ""
 "\\>\n"
 "\\>＞演出変更時の切り替え方式を選べます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tốc độ chuyển bài\\C[0] (Hiện tại: \\C[4]\\N[6]\\C[0])\n"
+"\\>\n"
+"\\>＞Chọn tốc độ chuyển giữa các bài nhạc"
 
 #. ID 1, Page 1, Line 2607, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -805,6 +889,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]切り替え方式\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tốc độ chuyển bài\\C[0] (Hiện tại: \\C[4]\\N[6]\\C[0])\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2609, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -812,6 +898,8 @@ msgid ""
 "\\>・\\C[\\V[592]]ゆっくり\\C[0]（標準）\n"
 "\\>・\\C[\\V[593]]てきぱき\\C[0]"
 msgstr ""
+"\\>・\\C[\\V[592]]Chậm\\C[0] (Mặc định)\n"
+"\\>・\\C[\\V[593]]Nhanh\\C[0]"
 
 #. ID 1, Page 1, Line 2646, Pos (19,14)
 msgid ""
@@ -820,6 +908,10 @@ msgid ""
 "\\>＞曲リストの未解放箇所を選択した時\n"
 "\\>　どう処理するか選べます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Thông báo bài bị khóa\\C[0] (Hiện tại: \\C[4]\\N[1]\\C[0])\n"
+"\\>\n"
+"\\>＞Chọn hiện hoặc ẩn thông báo khi\n"
+"\\>　một bài nhạc bị khóa được chọn"
 
 #. ID 1, Page 1, Line 2650, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -827,6 +919,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]未解放の通知\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Thông báo bài bị khóa\\C[0] (Hiện tại: \\C[4]\\N[1]\\C[0])\n"
+"\\>"
 
 #. ID 1, Page 1, Line 2652, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -834,6 +928,8 @@ msgid ""
 "\\>・\\C[\\V[592]]なし\\C[0]：飛ばして解放演出を流します（標準）\n"
 "\\>・\\C[\\V[593]]あり\\C[0]：演奏を止めてお知らせします"
 msgstr ""
+"\\>・\\C[\\V[592]]Tắt\\C[0]: Phát bài nhạc/biến thể kế tiếp (Mặc định）\n"
+"\\>・\\C[\\V[593]]Bật\\C[0]: Dừng phát nhạc và hiện thông báo"
 
 #. ID 1, Page 1, Line 2697, Pos (19,14)
 msgid ""
@@ -841,6 +937,9 @@ msgid ""
 "\\>\n"
 "\\>＞設定を変更しました\\<\\.\\.\\^"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tùy chọn\\C[0]\n"
+"\\>\n"
+"\\>＞Đã cập nhật cài đặt.\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 21, Pos (19,14)
 #. Condition (Actor Name = 【演奏を開始する】)
@@ -858,6 +957,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の演出です"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chuyển bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Bài nhạc/biến thể này bị khóa"
 
 #. ID 1, Page 2, Line 597, Pos (19,14)
 msgid ""
@@ -866,6 +968,10 @@ msgid ""
 "\\>＞演出は1種類です\n"
 "\\>　（演出変化なし）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chuyển biến thể\\C[0]\n"
+"\\>\n"
+"\\>＞Đây là biến thể duy nhất\n"
+"\\>　（Không có biến thể khác）"
 
 #. ID 1, Page 2, Line 617, Pos (19,14)
 msgid ""
@@ -874,6 +980,10 @@ msgid ""
 "\\>＞登録された曲・演出は未解放です\n"
 "\\>　解放条件が変わったかもしれません"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chuyển bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Bài nhạc/biến thể trong d.s.phát bị khóa\n"
+"\\>　Điều kiện mở khóa có thể đã thay đổi"
 
 #. ID 1, Page 2, Line 621, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -882,6 +992,9 @@ msgid ""
 "\\>\n"
 "\\>＞登録を消去しますか？"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chuyển bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn có muốn xóa bài nhạc khỏi danh sách?"
 
 #. ID 1, Page 2, Line 624, Pos (19,14)
 #. Choice (1 options, embedded in a message)
@@ -898,7 +1011,7 @@ msgstr ""
 #. ID 1, Page 5, Line 540, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>はい = Z / いいえ = X"
-msgstr ""
+msgstr "\\>Có = Z / Không = X"
 
 #. ID 1, Page 2, Line 628, Pos (19,14)
 msgid ""
@@ -906,6 +1019,9 @@ msgid ""
 "\\>\n"
 "\\>＞\\V[110]番の曲を消去しました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Xóa bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞\\V[110]Đã xóa bài nhạc khỏi danh sách phát"
 
 #. ID 1, Page 2, Line 660, Pos (19,14)
 #. Condition (Actor Name = 【サウンドサーチを開始する】)
@@ -924,6 +1040,10 @@ msgid ""
 "\\>＞曲・演出・ヒントから\n"
 "\\>　曲No.を探し出すゲームです"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Đây là một trò chơi tìm số thứ tự của\n"
+"\\>　một bài nhạc qua những gợi ý"
 
 #. ID 1, Page 2, Line 683, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -932,6 +1052,9 @@ msgid ""
 "\\>\n"
 "\\>＞やりますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn có muốn chơi?\\<\\!"
 
 #. ID 1, Page 2, Line 782, Pos (19,14)
 #. Condition (Actor Name = 【モード変更】リスト/メモリーモードに切り替え)
@@ -953,7 +1076,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "メモリー"
-msgstr ""
+msgstr "Danh sách phát"
 
 #. ID 1, Page 2, Line 888, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -961,7 +1084,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リスト"
-msgstr ""
+msgstr "Đầy đủ"
 
 #. ID 1, Page 2, Line 892, Pos (19,14)
 msgid ""
@@ -969,6 +1092,9 @@ msgid ""
 "\\>\n"
 "\\>＞\\N[6]モードに切り替えました\\N[1]"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chuyển chế độ phát nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Đã chuyển sang chế độ \\N[6]\\N[1]"
 
 #. ID 1, Page 2, Line 898, Pos (19,14)
 msgid ""
@@ -976,6 +1102,9 @@ msgid ""
 "\\>\n"
 "\\>曲＆演出を10個まで登録して聞くことができます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chế độ Danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>Bạn có thể thêm tối đa 10 bài nhạc vào danh sách"
 
 #. ID 1, Page 2, Line 922, Pos (19,14)
 #. Condition (Actor Name = 【モード変更】演奏を止める/次の曲を演奏する)
@@ -1000,11 +1129,14 @@ msgid ""
 "\\>\n"
 "\\>＞どこからチェックを開始しますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc bị khóa\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn muốn bắt đầu tìm từ đâu?\\<\\!"
 
 #. ID 1, Page 2, Line 995, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>カーソル位置 = Z / No.1 = X"
-msgstr ""
+msgstr "\\>Vị trí con trỏ = Z / Bài số 1 = X"
 
 #. ID 1, Page 2, Line 1031, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1037,11 +1169,14 @@ msgid ""
 "\\>\n"
 "\\>＞未解放No.：\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc bị khóa\\C[0]\n"
+"\\>\n"
+"\\>＞Bài nhạc số: \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 
 #. ID 1, Page 2, Line 1042, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>次へ = Z / 終了 = X"
-msgstr ""
+msgstr "\\>Tiếp theo = Z / Kết thúc = X"
 
 #. ID 1, Page 2, Line 1062, Pos (19,14)
 msgid ""
@@ -1049,6 +1184,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放箇所は見つかりませんでした"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc bị khóa\\C[0]\n"
+"\\>\n"
+"\\>＞Không tìm thấy bài nhạc bị khóa nào"
 
 #. ID 1, Page 2, Line 1082, Pos (19,14)
 #. Condition (Actor Name = 【高度な機能】演奏可能曲を登録)
@@ -1064,6 +1202,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲を聞きながら登録できます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Nghe và Chọn nhạc để lưu\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn có thể nghe các bài nhạc để chọn lưu"
 
 #. ID 1, Page 2, Line 1114, Pos (19,14)
 msgid ""
@@ -1072,6 +1213,10 @@ msgid ""
 "\\>＞曲名が暗くなっているのが未登録です\n"
 "\\>　指定No.が未解放の場合は飛ばします"
 msgstr ""
+"\\>\\C[10]■\\C[6] Nghe và Chọn nhạc để lưu\\C[0]\n"
+"\\>\n"
+"\\>＞Bài nhạc chưa lưu sẽ hiện chữ tối màu\n"
+"\\>　Bài nhạc bị khóa sẽ được bỏ qua"
 
 #. ID 1, Page 2, Line 1122, Pos (19,14)
 msgid ""
@@ -1080,6 +1225,10 @@ msgid ""
 "\\>＞未解放曲が長く続く箇所があると\n"
 "\\>　切り替えに\\C[1]時間がかかります"
 msgstr ""
+"\\>\\C[10]■\\C[6] Nghe và Chọn nhạc để lưu\\C[0]\n"
+"\\>\n"
+"\\>＞Nếu có nhiều bài nhạc liên tiếp bị khóa,\n"
+"\\>　thời gian chuyển bài \\C[1]có thể sẽ lâu hơn"
 
 #. ID 1, Page 2, Line 1126, Pos (19,14)
 msgid ""
@@ -1088,6 +1237,10 @@ msgid ""
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
 msgstr ""
+"\\>\\C[10]■\\C[6] Nghe và Chọn nhạc để lưu\\C[0]\n"
+"\\>\n"
+"\\>＞Hãy lưu ý nếu như có \\C[1]1 hàng dài không có\n"
+"\\>　ngôi sao nào \\C[0]trong danh sách bài nhạc"
 
 #. ID 1, Page 2, Line 1130, Pos (19,14)
 msgid ""
@@ -1096,13 +1249,17 @@ msgid ""
 "\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
 "\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
 msgstr ""
+"\\>\\C[10]■\\C[6] Nghe và Chọn nhạc để lưu\\C[0]\n"
+"\\>\n"
+"\\>＞Ví dụ có 4/609 bài nhạc được mở, từ bài số 3D→45\n"
+"\\>　mất \\C[1]5s\\C[0], từ bài số 45→1A mất \\C[1]30s\\C[0]"
 
 #. ID 1, Page 2, Line 1292, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 #. ID 1, Page 2, Line 1324, Pos (19,14)
 #. Contains choice at line 2 (2 options)
 msgid "\\>SRNo.：\\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
-msgstr ""
+msgstr "\\>Bài nhạc số: \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
 
 #. ID 1, Page 2, Line 1293, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1111,6 +1268,9 @@ msgid ""
 "\\>指定No.へ移動\n"
 "\\>メモリー登録 / 終了"
 msgstr ""
+"\\>Tiếp theo = Z / Quay lại = X\n"
+"\\>Đi đến bài nhạc xác định\n"
+"\\>Lưu vào d.sách/Thoát"
 
 #. ID 1, Page 2, Line 1306, Pos (19,14)
 msgid ""
@@ -1118,6 +1278,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đi đến bài nhạc xác định\\C[0]\n"
+"\\>\n"
+"\\>＞Nhập số thứ tự bài nhạc (từ \\C[1]1-\\V[111]\\C[0]   0 để hủy)"
 
 #. ID 1, Page 2, Line 1325, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1125,6 +1288,8 @@ msgid ""
 "\\>メモリー登録\n"
 "\\>終了"
 msgstr ""
+"\\>Lưu vào danh sách phát\n"
+"\\>Thoát"
 
 #. ID 1, Page 2, Line 1330, Pos (19,14)
 msgid ""
@@ -1133,6 +1298,10 @@ msgid ""
 "\\>＞登録するNo.を指定してください\n"
 "\\>　 (No.10なら0を選択)"
 msgstr ""
+"\\>\\C[10]■\\C[6]Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Chọn vị trí lưu bài nhạc vào danh sách phát\n"
+"\\>　 (Nhập 0 cho vị trí số 10)"
 
 #. ID 1, Page 2, Line 1334, Pos (19,14)
 #. ID 1, Page 2, Line 1950, Pos (19,14)
@@ -1141,6 +1310,9 @@ msgid ""
 "\\>\n"
 "\\>＞ (No.10なら0を選択)"
 msgstr ""
+"\\>\\C[10]■\\C[6]Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞ (Nhập 0 cho vị trí số 10)"
 
 #. ID 1, Page 2, Line 1347, Pos (19,14)
 msgid ""
@@ -1148,6 +1320,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[101]に登録しました"
 msgstr ""
+"\\>\\C[10]■\\C[6]Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Đã lưu bài nhạc vào vị trí số \\V[101]"
 
 #. ID 1, Page 2, Line 1396, Pos (19,14)
 #. Condition (Actor Name = 【高度な機能】カーソルジャンプ)
@@ -1164,6 +1339,10 @@ msgid ""
 "\\>＞ジャンプ先No.を指定してください\n"
 "\\>　（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đặt vị trí con trỏ\\C[0] (Hiện tại: \\C[4]số \\V[110]\\C[0])\n"
+"\\>\n"
+"\\>＞Nhập số thứ tự bài nhạc để nhảy đến\n"
+"\\>　(từ \\C[1]1-\\V[111]\\C[0]  0 để hủy  \\V[591] trở lên là ngẫu nhiên)"
 
 #. ID 1, Page 2, Line 1419, Pos (19,14)
 msgid ""
@@ -1171,6 +1350,9 @@ msgid ""
 "\\>\n"
 "\\>＞（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đặt vị trí con trỏ\\C[0] (Hiện tại: \\C[4]số \\V[110]\\C[0])\n"
+"\\>\n"
+"\\>＞(từ \\C[1]1-\\V[111]\\C[0]  0 để hủy  \\V[591] trở lên là ngẫu nhiên)"
 
 #. ID 1, Page 2, Line 1580, Pos (19,14)
 msgid ""
@@ -1178,6 +1360,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にジャンプします\\<\\.\\.\\^"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đặt vị trí con trỏ\\C[0]\n"
+"\\>\n"
+"\\>＞Nhảy đến bài số \\V[110]\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 1603, Pos (19,14)
 #. Condition (Actor Name = 【高度な機能】メモリーの交換)
@@ -1193,6 +1378,9 @@ msgid ""
 "\\>\n"
 "\\>＞交換するNo.を指定してください (No.10なら0を選択)"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đổi vị trí bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Nhập STT bài sẽ đổi (nhập 0 cho v.trí số 10)"
 
 #. ID 1, Page 2, Line 1625, Pos (19,14)
 msgid ""
@@ -1200,6 +1388,9 @@ msgid ""
 "\\>\n"
 "\\>＞交換先のNo.を指定してください (No.10なら0を選択)"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chọn vị trí cho bài nhạc số \\C[1]\\V[591]\\C[0]\n"
+"\\>\n"
+"\\>＞Nhập STT mới cho bài (nhập 0 cho v.trí số 10)"
 
 #. ID 1, Page 2, Line 1671, Pos (19,14)
 msgid ""
@@ -1207,6 +1398,9 @@ msgid ""
 "\\>\n"
 "\\>＞交換が完了しました\\<\\.\\.\\^"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đổi vị trí bài số \\C[1]\\V[591]\\C[6] và bài số \\C[1]\\V[592]\\C[0]\n"
+"\\>\n"
+"\\>＞Đã thay đổi vị trí\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 1682, Pos (19,14)
 #. Condition (Actor Name = 【高度な機能】メモリーの全消去)
@@ -1223,6 +1417,9 @@ msgid ""
 "\\>\n"
 "\\>＞メモリーの登録内容を全て消去しますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Xóa toàn bộ danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn có chắc muốn xóa toàn bộ danh sách phát?\\<\\!"
 
 #. ID 1, Page 2, Line 1700, Pos (19,14)
 msgid ""
@@ -1230,6 +1427,9 @@ msgid ""
 "\\>\n"
 "\\>＞消去が完了しました\\<\\.\\.\\^"
 msgstr ""
+"\\>\\C[10]■\\C[6] Xóa toàn bộ danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Đã xóa toàn bộ\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 1731, Pos (19,14)
 #. Condition (Actor Name = 【演奏曲の情報を表示する】)
@@ -1246,6 +1446,10 @@ msgid ""
 "\\>・\\C[4]ギブアップ\\C[0]/\\C[4]ヒント\\C[0]はメニューから選べます\n"
 "\\>・\\C[1]お手付き回数は計測していません"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc\\C[0]\n"
+"\\>・Ấn phím \\C[4]Z\\C[0] tại vị trí bạn cho là đúng\n"
+"\\>・\\C[4]Bỏ cuộc\\C[0]/\\C[4]Gợi ý\\C[0] có thể được chọn từ menu\n"
+"\\>・\\C[1]Không ghi nhận số lần đoán"
 
 #. ID 1, Page 2, Line 1761, Pos (19,14)
 msgid ""
@@ -1253,6 +1457,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が演奏されていません"
 msgstr ""
+"\\>\\C[10]■\\C[6] Thông tin bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Không có bài nhạc nào đang được phát"
 
 #. ID 1, Page 2, Line 1779, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -1270,6 +1477,8 @@ msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：\\C[4]\\V[591]\\C[0])"
 msgstr ""
+"\\>Tên tệp: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>SR số: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (D.sách phát số: \\C[4]\\V[591]\\C[0])"
 
 #. ID 1, Page 2, Line 1845, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1277,6 +1486,8 @@ msgid ""
 "\\>メモリーを消去\n"
 "\\>PC画面BGMに登録"
 msgstr ""
+"\\>Xóa khỏi danh sách phát\n"
+"\\>Đặt làm BGM cho PC"
 
 #. ID 1, Page 2, Line 1861, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -1284,6 +1495,8 @@ msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：---)"
 msgstr ""
+"\\>Tên tệp: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>SR số: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (D.sách phát số: ---)"
 
 #. ID 1, Page 2, Line 1863, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1291,6 +1504,8 @@ msgid ""
 "\\>メモリーに登録\n"
 "\\>PC画面BGMに登録"
 msgstr ""
+"\\>Lưu vào danh sách phát\n"
+"\\>Đặt làm BGM cho PC"
 
 #. ID 1, Page 2, Line 1889, Pos (19,14)
 msgid ""
@@ -1298,6 +1513,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[122]を消去しました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Xóa khỏi danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Đã xóa bài nhạc khỏi vị trí số \\V[122]"
 
 #. ID 1, Page 2, Line 1909, Pos (19,14)
 msgid ""
@@ -1305,6 +1523,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[591]を消去しました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Xóa khỏi danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Đã xóa bài nhạc khỏi vị trí số \\V[591]"
 
 #. ID 1, Page 2, Line 1930, Pos (19,14)
 msgid ""
@@ -1312,6 +1533,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[592]に登録しました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Đã lưu bài nhạc vào vị trí số \\V[592]"
 
 #. ID 1, Page 2, Line 1938, Pos (19,14)
 msgid ""
@@ -1319,6 +1543,9 @@ msgid ""
 "\\>\n"
 "\\>＞記憶枠が空いていません"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Không còn vị trí trống nào trong danh sách phát"
 
 #. ID 1, Page 2, Line 1941, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1327,6 +1554,9 @@ msgid ""
 "\\>\n"
 "\\>＞上書きしますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn có muốn ghi đè?\\<\\!"
 
 #. ID 1, Page 2, Line 1946, Pos (19,14)
 msgid ""
@@ -1335,6 +1565,10 @@ msgid ""
 "\\>＞上書きするNo.を指定してください\n"
 "\\>　 (No.10なら0を選択)"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Chọn vị trí để ghi đè\n"
+"\\>　 (Nhập 0 cho vị trí số 10)"
 
 #. ID 1, Page 2, Line 1965, Pos (19,14)
 msgid ""
@@ -1342,6 +1576,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[592]に上書きしました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Vị trí số \\V[592] đã được ghi đè"
 
 #. ID 1, Page 2, Line 1985, Pos (19,14)
 msgid ""
@@ -1349,6 +1586,9 @@ msgid ""
 "\\>\n"
 "\\>＞SR No.\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]を登録しました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đặt làm BGM cho PC\\C[0]\n"
+"\\>\n"
+"\\>＞Bài nhạc số \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]đã được đặt"
 
 #. ID 1, Page 2, Line 1997, Pos (19,14)
 msgid ""
@@ -1357,6 +1597,10 @@ msgid ""
 "\\>＞PCの \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
 "\\>＞登録した曲を設定できます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Đặt làm BGM cho PC\\C[0]\n"
+"\\>\n"
+"\\>＞Vào \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]BGM cho PC\\C[0]\n"
+"\\>＞để đặt BGM đã chọn cho PC"
 
 #. ID 1, Page 3, Line 13, Pos (19,14)
 #. Condition (Actor Name = 【SR分室の変動をチェックする】)
@@ -2658,6 +2902,8 @@ msgid ""
 "\\>\n"
 "\\>　　　　　　　 \\C[10]■\\C[4]\\_サウンドルーム\\_\\C[10]■"
 msgstr ""
+"\\>\n"
+"\\>　　　　　　　 　 \\C[10]■\\C[4]\\_ Sound Room \\_\\C[10]■"
 
 #. ID 1, Page 4, Line 279, Pos (19,14)
 msgid ""
@@ -2666,6 +2912,10 @@ msgid ""
 "\\>SR（サウンドルーム）では、ゲーム中で\n"
 "\\>使われている曲を聞くことができます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Về Sound Room\\C[0]\n"
+"\\>\n"
+"\\>Trong SR (Sound Room), bạn có thể nghe lại\n"
+"\\>những bài nhạc được sử dụng trong game"
 
 #. ID 1, Page 4, Line 283, Pos (19,14)
 msgid ""
@@ -2674,6 +2924,10 @@ msgid ""
 "\\>入室時はリストモードです\n"
 "\\>曲リストで解放状況が確認できます"
 msgstr ""
+"\\>\\C[10]■\\C[6] Về các chế độ\\C[0]\n"
+"\\>\n"
+"\\>Khi vào SR, bạn sẽ ở chế độ Đầy đủ, nơi\n"
+"\\>bạn có thể xem tình trạng của các bài nhạc"
 
 #. ID 1, Page 4, Line 386, Pos (19,14)
 #. ChangeHeroName (Actor 2)
@@ -2724,6 +2978,10 @@ msgid ""
 "\\>\\C[1]♪\\C[0]Pattern：\\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
 "\\>\\C[1]♪\\C[0]Rate   ：\\C[4]\\V[591]％\\C[0] (\\N[6]\\V[5]％\\C[0])"
 msgstr ""
+"\\>　　　　　 \\C[4]☆ \\C[0]Thông tin mở khóa \\C[4]★\\C[0]\n"
+"\\>\\C[1]♪ \\C[0]Bài nhạc: \\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
+"\\>\\C[1]♪ \\C[0]Biến thể: \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
+"\\>\\C[1]♪ \\C[0]Tỷ lệ:    \\C[4]\\V[591]％\\C[0] (\\N[6]\\V[5]％\\C[0])"
 
 #. ID 1, Page 4, Line 469, Pos (19,14)
 msgid ""
@@ -2731,6 +2989,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が全解放されています"
 msgstr ""
+"\\>\\C[10]■\\C[6]Thông báo\\C[0]\n"
+"\\>\n"
+"\\>＞Tất cả bài nhạc đã được mở khóa"
 
 #. ID 1, Page 4, Line 472, Pos (19,14)
 msgid ""
@@ -2739,6 +3000,10 @@ msgid ""
 "\\>＞メニューの「未解放箇所を探す」を\n"
 "\\>　「サウンドサーチ」に変更しました"
 msgstr ""
+"\\>\\C[10]■\\C[6]Thông báo\\C[0]\n"
+"\\>\n"
+"\\>＞Tùy chọn 'Tìm bài nhạc bị khóa'\n"
+"\\>　đã được đổi thành 'Tìm bài nhạc'"
 
 #. ID 1, Page 4, Line 486, Pos (19,14)
 msgid ""
@@ -2747,6 +3012,10 @@ msgid ""
 "\\>＞曲が全解放された\\C[1]つもり\\C[0]で処理し\n"
 "\\>　サウンドサーチを解禁します"
 msgstr ""
+"\\>\\C[10]■\\C[0] Chế độ giả định mở khóa toàn bộ\n"
+"\\>\n"
+"\\>＞曲が全解放された\\C[1]つもり\\C[0]で処理し\n"
+"\\>　サウンドサーチを解禁します"
 
 #. ID 1, Page 4, Line 556, Pos (19,14)
 #. Condition (Actor Name = 【SR分室から退室する】)
@@ -2770,6 +3039,9 @@ msgid ""
 "\\>\n"
 "\\>＞メモリーの登録内容が更新されています"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu các thay đổi\\C[0]\n"
+"\\>\n"
+"\\>＞Đã có một số thay đổi trong danh sách phát"
 
 #. ID 1, Page 4, Line 585, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -2778,6 +3050,9 @@ msgid ""
 "\\>\n"
 "\\>＞今回のメモリーの登録状況を保存しますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu các thay đổi\\C[0]\n"
+"\\>\n"
+"\\>＞Bạn có muốn lưu các thay đổi này?\\<\\!"
 
 #. ID 1, Page 4, Line 601, Pos (19,14)
 msgid ""
@@ -2785,6 +3060,9 @@ msgid ""
 "\\>\n"
 "\\>＞保存が完了しました\\<\\.\\.\\^"
 msgstr ""
+"\\>♪\\C[6] Lưu các thay đổi\\C[0]\n"
+"\\>\n"
+"\\>＞Các thay đổi đã được lưu\\<\\.\\.\\^"
 
 #. ID 1, Page 4, Line 621, Pos (19,14)
 msgid ""
@@ -2798,7 +3076,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "Urotsuki"
 
 #. ID 1, Page 4, Line 703, Pos (19,14)
 #. ChangeHeroName (Actor 2)
@@ -2836,6 +3114,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が登録されていません"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Không có bài nhạc được lưu"
 
 #. ID 1, Page 5, Line 371, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -2844,6 +3125,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を直接入力して登録しますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Nhập bài nhạc bằng số thứ tự trong SR?\\<\\!"
 
 #. ID 1, Page 5, Line 378, Pos (19,14)
 msgid ""
@@ -2851,6 +3135,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0] 0でｷｬﾝｾﾙ）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Nhập số thứ tự bài nhạc (từ \\C[1]1-\\V[111]\\C[0]   0 để hủy)"
 
 #. ID 1, Page 5, Line 404, Pos (19,14)
 msgid ""
@@ -2858,18 +3145,21 @@ msgid ""
 "\\>\n"
 "\\>＞演出No.を指定してください（\\C[1]1～\\V[104]\\C[0] 0でｷｬﾝｾﾙ）"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Nhập số thứ tự của biến thể (từ \\C[1]1-\\V[104]\\C[0]  0 để hủy)"
 
 #. ID 1, Page 5, Line 434, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演出"
-msgstr ""
+msgstr "Biến thể"
 
 #. ID 1, Page 5, Line 437, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "曲"
-msgstr ""
+msgstr "Bài nhạc"
 
 #. ID 1, Page 5, Line 440, Pos (19,14)
 msgid ""
@@ -2877,6 +3167,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の\\N[6]です"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞\\N[6] này bị khóa"
 
 #. ID 1, Page 5, Line 468, Pos (19,14)
 msgid ""
@@ -2884,6 +3177,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にSRNo.\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]を登録しました"
 msgstr ""
+"\\>\\C[10]■\\C[6] Lưu vào danh sách phát\\C[0]\n"
+"\\>\n"
+"\\>＞Bài nhạc số \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] đã được lưu vào vị trí số \\V[110]"
 
 #. ID 1, Page 5, Line 527, Pos (19,14)
 msgid ""
@@ -2891,6 +3187,9 @@ msgid ""
 "\\>\n"
 "\\>＞かかった時間：\\V[35]秒"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Thời gian đã qua: \\V[35]s"
 
 #. ID 1, Page 5, Line 532, Pos (19,14)
 msgid ""
@@ -2898,6 +3197,9 @@ msgid ""
 "\\>\n"
 "\\>＞かかった時間：\\V[34]分\\V[35]秒"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Thời gian đã qua: \\V[34]ph\\V[35]s"
 
 #. ID 1, Page 5, Line 537, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -2906,6 +3208,9 @@ msgid ""
 "\\>\n"
 "\\>＞もう一度やりますか？\\<\\!"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tìm bài nhạc\\C[0]\n"
+"\\>\n"
+"\\>＞Chơi lại?\\<\\!"
 
 #. ID 1, Page 5, Line 619, Pos (19,14)
 #. Choice (4 options)
@@ -2915,24 +3220,28 @@ msgid ""
 "\\>高度な機能\n"
 "\\>操作ガイド"
 msgstr ""
+"\\>Thoát Sound Room\n"
+"\\>Chuyển chế độ\n"
+"\\>Cài đặt nâng cao\n"
+"\\>Xem hướng dẫn"
 
 #. ID 1, Page 5, Line 625, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "PC画面"
-msgstr ""
+msgstr "Màn hình PC"
 
 #. ID 1, Page 5, Line 627, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ﾃﾞﾊﾞｯｸﾞﾙｰﾑ"
-msgstr ""
+msgstr "Debug Room"
 
 #. ID 1, Page 5, Line 631, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "製作者部屋"
-msgstr ""
+msgstr "Developer Room"
 
 #. ID 1, Page 5, Line 637, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -2940,6 +3249,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]退室先の選択\\C[0]\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Chọn nơi thoát ra\\C[0]\n"
+"\\>"
 
 #. ID 1, Page 5, Line 639, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -2947,11 +3258,13 @@ msgid ""
 "\\>\\C[4]退室して\\N[6]へ戻る\\C[0]\n"
 "\\>旧SRへ移動"
 msgstr ""
+"\\>\\C[4]Thoát ra và trở về \\N[6]\\C[0]\n"
+"\\>Chuyển về Sound Room cũ"
 
 #. ID 1, Page 5, Line 650, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]退室先の選択\\C[0]"
-msgstr ""
+msgstr "\\>\\C[10]■\\C[6] Chọn nơi thoát ra\\C[0]"
 
 #. ID 1, Page 5, Line 651, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -2960,23 +3273,26 @@ msgid ""
 "\\>旧SRへ移動\n"
 "\\>SREDを見る"
 msgstr ""
+"\\>\\C[4]Thoát ra và trở về \\N[6]\\C[0]\n"
+"\\>Chuyển về Sound Room cũ\n"
+"\\>Xem Sound Room Ending"
 
 #. ID 1, Page 5, Line 682, Pos (19,14)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "演奏を止める"
-msgstr ""
+msgstr "Dừng bài nhạc đang phát"
 
 #. ID 1, Page 5, Line 685, Pos (19,14)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "次の曲を演奏する"
-msgstr ""
+msgstr "Chuyển qua bài tiếp theo"
 
 #. ID 1, Page 5, Line 695, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]モード変更\\C[0]"
-msgstr ""
+msgstr "\\>\\C[10]■\\C[6] Chuyển chế độ phát\\C[0]"
 
 #. ID 1, Page 5, Line 696, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -2985,29 +3301,32 @@ msgid ""
 "\\>自動曲送りの設定\n"
 "\\>\\N[5]"
 msgstr ""
+"\\>Chuyển qua chế độ \\N[6]\n"
+"\\>Cài đặt phát tự động\n"
+"\\>\\N[5]"
 
 #. ID 1, Page 5, Line 741, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "カーソルジャンプ"
-msgstr ""
+msgstr "Đặt vị trí con trỏ"
 
 #. ID 1, Page 5, Line 751, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演奏可能曲を登録"
-msgstr ""
+msgstr "Nghe và Chọn nhạc để lưu"
 
 #. ID 1, Page 5, Line 752, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "メモリーの交換 / 全消去"
-msgstr ""
+msgstr "Đổi vị trí / Xóa toàn bộ"
 
 #. ID 1, Page 5, Line 755, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]高度な機能\\C[0]"
-msgstr ""
+msgstr "\\>\\C[10]■\\C[6] Cài đặt nâng cao\\C[0]"
 
 #. ID 1, Page 5, Line 756, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -3016,6 +3335,9 @@ msgid ""
 "\\>\\N[1]\n"
 "\\>オプション"
 msgstr ""
+"\\>\\N[6]\n"
+"\\>\\N[1]\n"
+"\\>Tùy chọn"
 
 #. ID 1, Page 5, Line 795, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -3023,6 +3345,8 @@ msgid ""
 "\\>\\C[10]■\\C[6]メモリーの操作\\C[0]\n"
 "\\>"
 msgstr ""
+"\\>\\C[10]■\\C[6] Tùy chọn danh sách phát\\C[0]\n"
+"\\>"
 
 #. ID 1, Page 5, Line 797, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -3030,6 +3354,8 @@ msgid ""
 "\\> 交換\n"
 "\\> 全消去"
 msgstr ""
+"\\> Đổi vị trí\n"
+"\\> Xóa toàn bộ"
 
 #. ID 2, Page 1, Line 15, Pos (18,14)
 #. ChangeHeroName (Actor 2)
