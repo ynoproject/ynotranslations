@@ -27,6 +27,9 @@ msgid ""
 ".......................\n"
 "...s-3?s w#tching..."
 msgstr ""
+".......................\n"
+".......................\n"
+"...에스-3?이 지ㅋ#보고있다..."
 
 #. ID 10, Page 1, Line 4, Pos (31,21)
 #. ID 11, Page 1, Line 4, Pos (51,21)
@@ -37,7 +40,7 @@ msgstr ""
 
 #. ID 23, Page 1, Line 2, Pos (89,24)
 msgid "9058osu0(#*TOio890t80"
-msgstr ""
+msgstr "9058긹겓낡0(#*카릷덻섺890녃80"
 
 #. ID 29, Page 1, Line 2, Pos (22,46)
 msgid "~~~~~~~~~~~~~~"
@@ -45,7 +48,7 @@ msgstr ""
 
 #. ID 30, Page 1, Line 2, Pos (19,50)
 msgid "!!*($IU%O(($"
-msgstr ""
+msgstr "!!*($믽닻%밎(($"
 
 #. ID 31, Page 1, Line 1, Pos (42,51)
 msgid "\"...\""
