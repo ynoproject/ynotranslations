@@ -10,9 +10,9 @@ msgstr ""
 
 #. ID 8, Page 1, Line 4, Pos (11,5)
 msgid "Learned Prayer \"Koraiyn\"!"
-msgstr ""
+msgstr "\"코라인\" 기도를 배웠다!"
 
 #. ID 8, Page 2, Line 2, Pos (11,5)
 msgid "..."
-msgstr ""
+msgstr "..."
 
