@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 4, Page 1, Line 4, Pos (14,9)
 msgid "Learned Prayer \"Guitar\"!"
-msgstr ""
+msgstr "\"기타\" 기도를 배웠다!"
 
