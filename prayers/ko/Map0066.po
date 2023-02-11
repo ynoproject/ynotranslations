@@ -10,15 +10,15 @@ msgstr ""
 
 #. ID 1, Page 1, Line 6, Pos (14,7)
 msgid "Learned Prayer \"Food\"!"
-msgstr ""
+msgstr "\"음식\" 기도를 배웠다!"
 
 #. ID 3, Page 1, Line 2, Pos (9,5)
 msgid "...used the Rusty Key..."
-msgstr ""
+msgstr "...녹슬은 열쇠를 사용했다..."
 
 #. ID 3, Page 1, Line 18, Pos (9,5)
 msgid "...a rusted lock..."
-msgstr ""
+msgstr "...녹슨 자물쇠다..."
 
 #. ID 4, Page 1, Line 1, Pos (12,7)
 #. ID 5, Page 1, Line 1, Pos (13,6)
@@ -28,13 +28,13 @@ msgstr ""
 #. ID 9, Page 1, Line 1, Pos (13,9)
 #. ID 10, Page 1, Line 1, Pos (14,10)
 msgid "...it's empty..."
-msgstr ""
+msgstr "...비어있다..."
 
 #. ID 7, Page 1, Line 2, Pos (12,10)
 msgid "...hey, there's something in here...!"
-msgstr ""
+msgstr "...잠깐, 여기 안에 뭔가가 있어...!"
 
 #. ID 7, Page 1, Line 5, Pos (12,10)
 msgid "Found 200 Nat!"
-msgstr ""
+msgstr "200 나트를 찾았다!"
 
