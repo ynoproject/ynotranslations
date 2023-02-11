@@ -11,7 +11,7 @@ msgstr ""
 #. ID 2, Page 1, Line 1, Pos (11,8)
 #. Contains choice at line 2 (2 options)
 msgid "Reflect on this memory?"
-msgstr ""
+msgstr "이 기억을 비추시겠습니까?"
 
 #. ID 2, Page 1, Line 2, Pos (11,8)
 #. Choice (2 options, embedded in a message)
@@ -19,4 +19,5 @@ msgid ""
 "Yes\n"
 "No"
 msgstr ""
-
+"예\n"
+"아니오"
