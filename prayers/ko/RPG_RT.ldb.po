@@ -726,7 +726,7 @@ msgstr "저장하기"
 
 msgctxt "terms.exit_game_message"
 msgid "Abandon this record?"
-msgstr "이 기억을 지우시겠습니까?"
+msgstr "이 기록을 포기하시겠습니까?"
 
 msgctxt "terms.yes"
 msgid "Yes"
