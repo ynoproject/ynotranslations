@@ -155,7 +155,7 @@ msgstr "굽높은 게다"
 #. ID 18
 msgctxt "items.description"
 msgid "Wearing them gives you a boost."
-msgstr "이걸 신음으로써 추진력을 얻는다."
+msgstr "이것을 신으면 당신에게 추진력을 준다."
 
 #. ID 18
 msgctxt "items.name"
