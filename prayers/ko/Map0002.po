@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 11, Page 1, Line 6, Pos (17,87)
 msgid "Learned Prayer \"Tall Geta\"!"
-msgstr ""
+msgstr "\"높은굽 게다\" 기도를 배웠다!"
 
