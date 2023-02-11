@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "Shrine"
+msgstr ""
+
+#. ID 3
+msgid "Green world"
+msgstr ""
+
+#. ID 4
+msgid "Nexus"
+msgstr ""
+
+#. ID 5
+msgid "Knoll"
+msgstr ""
+
+#. ID 6
+msgid "Gear World"
+msgstr ""
+
+#. ID 7
+msgid "DEBUG"
+msgstr ""
+
+#. ID 8
+msgid "Snow World"
+msgstr ""
+
+#. ID 9
+msgid "Ice World"
+msgstr ""
+
+#. ID 10
+msgid "SpiritShrine"
+msgstr ""
+
+#. ID 11
+msgid "glitchworld"
+msgstr ""
+
+#. ID 12
+msgid "glitch2"
+msgstr ""
+
+#. ID 13
+msgid "Green hallway"
+msgstr ""
+
+#. ID 14
+msgid "Opening"
+msgstr ""
+
+#. ID 15
+msgid "outlands"
+msgstr ""
+
+#. ID 16
+msgid "Indus. Maze"
+msgstr ""
+
+#. ID 17
+msgid "Room L1"
+msgstr ""
+
+#. ID 18
+msgid "Room R1"
+msgstr ""
+
+#. ID 19
+msgid "Room R2"
+msgstr ""
+
+#. ID 20
+msgid "Room R4"
+msgstr ""
+
+#. ID 21
+msgid "Room L2"
+msgstr ""
+
+#. ID 22
+msgid "Room L3"
+msgstr ""
+
+#. ID 23
+msgid "Room L4"
+msgstr ""
+
+#. ID 24
+msgid "room temp"
+msgstr ""
+
+#. ID 25
+msgid "Room L5"
+msgstr ""
+
+#. ID 26
+msgid "Room L6"
+msgstr ""
+
+#. ID 27
+msgid "Gameboy"
+msgstr ""
+
+#. ID 28
+msgid "Bus"
+msgstr ""
+
+#. ID 29
+msgid "GB Town"
+msgstr ""
+
+#. ID 30
+msgid "inside Bus"
+msgstr ""
+
+#. ID 31
+msgid "GB Room 2"
+msgstr ""
+
+#. ID 32
+msgid "GB basement 01"
+msgstr ""
+
+#. ID 33
+msgid "GB Forest"
+msgstr ""
+
+#. ID 34
+msgid "GB Tower 01"
+msgstr ""
+
+#. ID 35
+msgid "GB Tower 02"
+msgstr ""
+
+#. ID 36
+msgid "GB Tower 03"
+msgstr ""
+
+#. ID 37
+msgid "GB Tower 04"
+msgstr ""
+
+#. ID 38
+msgid "GB Tower top"
+msgstr ""
+
+#. ID 39
+msgid "Silhouette World"
+msgstr ""
+
+#. ID 40
+msgid "icegirls"
+msgstr ""
+
+#. ID 41
+msgid "outlands2"
+msgstr ""
+
+#. ID 42
+#. ID 95
+msgid "elevator"
+msgstr ""
+
+#. ID 43
+msgid "ocean"
+msgstr ""
+
+#. ID 44
+msgid "elevator2"
+msgstr ""
+
+#. ID 45
+msgid "Sub Room"
+msgstr ""
+
+#. ID 46
+msgid "Dead End"
+msgstr ""
+
+#. ID 47
+msgid "Study"
+msgstr ""
+
+#. ID 48
+msgid "Open Ocean"
+msgstr ""
+
+#. ID 49
+msgid "Gradient World"
+msgstr ""
+
+#. ID 50
+msgid "clocks world"
+msgstr ""
+
+#. ID 51
+msgid "Dark"
+msgstr ""
+
+#. ID 52
+msgid "Room R3"
+msgstr ""
+
+#. ID 53
+msgid "Room R5"
+msgstr ""
+
+#. ID 54
+msgid "Room R6"
+msgstr ""
+
+#. ID 55
+msgid "Shovel Room"
+msgstr ""
+
+#. ID 56
+msgid "Room L7"
+msgstr ""
+
+#. ID 57
+msgid "\"knoll\""
+msgstr ""
+
+#. ID 58
+msgid "GB Room 3"
+msgstr ""
+
+#. ID 59
+msgid "prison maps"
+msgstr ""
+
+#. ID 60
+msgid "sillhouette prison"
+msgstr ""
+
+#. ID 61
+msgid "macabre prison"
+msgstr ""
+
+#. ID 62
+msgid "Forest"
+msgstr ""
+
+#. ID 63
+msgid "city"
+msgstr ""
+
+#. ID 64
+msgid "Borderland Corridor"
+msgstr ""
+
+#. ID 65
+msgid "Kitchen"
+msgstr ""
+
+#. ID 66
+msgid "repair Shop"
+msgstr ""
+
+#. ID 67
+msgid "Kitchen Back"
+msgstr ""
+
+#. ID 68
+msgid "othershrine"
+msgstr ""
+
+#. ID 69
+msgid "Dark2"
+msgstr ""
+
+#. ID 70
+msgid "greyscale world"
+msgstr ""
+
+#. ID 71
+msgid "greyscale 2"
+msgstr ""
+
+#. ID 72
+msgid "greyscale3"
+msgstr ""
+
+#. ID 73
+msgid "event storage"
+msgstr ""
+
+#. ID 74
+msgid "Garden"
+msgstr ""
+
+#. ID 75
+msgid "sewer prison"
+msgstr ""
+
+#. ID 76
+msgid "dark prison"
+msgstr ""
+
+#. ID 77
+msgid "Coast"
+msgstr ""
+
+#. ID 78
+msgid "Corrupt Beach"
+msgstr ""
+
+#. ID 79
+msgid "path"
+msgstr ""
+
+#. ID 80
+msgid "apartment"
+msgstr ""
+
+#. ID 81
+msgid "Beyond"
+msgstr ""
+
+#. ID 82
+msgid "sunflowers"
+msgstr ""
+
+#. ID 83
+msgid "symbols (old)"
+msgstr ""
+
+#. ID 84
+msgid "symbols"
+msgstr ""
+
+#. ID 85
+msgid "Clocks2"
+msgstr ""
+
+#. ID 86
+msgid "GB mural"
+msgstr ""
+
+#. ID 87
+msgid "GB Room 4"
+msgstr ""
+
+#. ID 88
+msgid "GB Room 4 basement"
+msgstr ""
+
+#. ID 89
+msgid "GB Room 5"
+msgstr ""
+
+#. ID 90
+msgid "GB Forest basement"
+msgstr ""
+
+#. ID 91
+msgid "GB Mansion"
+msgstr ""
+
+#. ID 92
+msgid "foyer"
+msgstr ""
+
+#. ID 93
+msgid "Study2"
+msgstr ""
+
+#. ID 94
+msgid "Complex"
+msgstr ""
+
+#. ID 96
+msgid "clocks2a"
+msgstr ""
+
+#. ID 97
+msgid "clocks2b"
+msgstr ""
+
+#. ID 98
+msgid "clocks3"
+msgstr ""
+
+#. ID 99
+msgid "clocks4"
+msgstr ""
+
+#. ID 100
+msgid "elevator room"
+msgstr ""
+
+#. ID 101
+msgid "Arrows"
+msgstr ""
+
+#. ID 102
+msgid "bubble"
+msgstr ""
+
+#. ID 103
+msgid "GB room"
+msgstr ""
+
+#. ID 104
+msgid "\"shrine\""
+msgstr ""
+
+#. ID 105
+msgid "Room L8"
+msgstr ""
+
+#. ID 106
+msgid "deep snow path"
+msgstr ""
+
+#. ID 107
+msgid "Road in sky"
+msgstr ""
+
+#. ID 108
+msgid "complex prison"
+msgstr ""
+
+#. ID 109
+msgid "room1"
+msgstr ""
+
+#. ID 110
+msgid "Dead End 2"
+msgstr ""
+
+#. ID 111
+msgid "ice prison"
+msgstr ""
+
