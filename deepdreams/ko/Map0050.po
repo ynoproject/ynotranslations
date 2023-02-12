@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 123, Page 1, Line 4, Pos (5,12)
 msgid "Get Alter: Verdant"
-msgstr ""
+msgstr "변환 획득: 신록빛"
 
