@@ -11,5 +11,5 @@ msgstr ""
 #. ID 18, Page 2, Line 4, Pos (86,47)
 #. ID 20, Page 2, Line 4, Pos (85,47)
 msgid "Get Alter: Apparition"
-msgstr ""
+msgstr "변환 획득: 환영체"
 
