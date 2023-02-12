@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 911, Page 1, Line 4, Pos (24,28)
 msgid "Get Alter: Gelatinous"
-msgstr ""
+msgstr "변환 획득: 젤라틴"
 
