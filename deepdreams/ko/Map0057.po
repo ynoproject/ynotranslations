@@ -52,10 +52,10 @@ msgstr ""
 #. ID 211, Page 1, Line 19, Pos (84,173)
 #. ID 242, Page 1, Line 19, Pos (86,173)
 msgid "Not enough money for purchase"
-msgstr ""
+msgstr "구매하기 위한 돈이 부족합니다"
 
 #. ID 254, Page 1, Line 4, Pos (101,156)
 #. ID 255, Page 1, Line 4, Pos (102,156)
 msgid "Get Alter: Damage"
-msgstr ""
+msgstr "변환 획득: 데미지"
 
