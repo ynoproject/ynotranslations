@@ -16,13 +16,17 @@ msgid ""
 "System Arabian\n"
 "Next Page"
 msgstr ""
+"시스템 순은빛\n"
+"시스템 만화경\n"
+"시스템 아랍풍\n"
+"다음 페이지"
 
 #. ID 28, Page 1, Line 11, Pos (8,4)
 #. ID 28, Page 1, Line 20, Pos (8,4)
 #. ID 28, Page 1, Line 31, Pos (8,4)
 #. ID 28, Page 1, Line 40, Pos (8,4)
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 #. ID 28, Page 1, Line 25, Pos (8,4)
 #. Choice (2 options)
@@ -30,18 +34,20 @@ msgid ""
 "System Spiderlily\n"
 "System Rainbow"
 msgstr ""
+"시스템 피안화\n"
+"시스템 무지개"
 
 #. ID 29, Page 1, Line 3, Pos (5,4)
 msgid "Get System: Spiderlily"
-msgstr ""
+msgstr "시스템 획득: 피안화"
 
 #. ID 30, Page 1, Line 3, Pos (4,4)
 msgid "Get System: Arabian"
-msgstr ""
+msgstr "시스템 획득: 아랍풍"
 
 #. ID 38, Page 1, Line 3, Pos (6,4)
 msgid "Get System: Kaleidoscope"
-msgstr ""
+msgstr "시스템 획득: 만화경"
 
 #. ID 47, Page 1, Line 5, Pos (17,4)
 msgid "-100"
@@ -49,11 +55,11 @@ msgstr ""
 
 #. ID 47, Page 1, Line 19, Pos (17,4)
 msgid "Not enough money for purchase"
-msgstr ""
+msgstr "구매하기 위한 돈이 부족합니다"
 
 #. ID 66, Page 1, Line 3, Pos (7,4)
 msgid "Get System: Rainbow"
-msgstr ""
+msgstr "시스템 획득: 무지개"
 
 #. ID 85, Page 1, Line 7, Pos (20,2)
 #. Choice (2 options)
@@ -61,4 +67,5 @@ msgid ""
 "Hos\n"
 "Deb"
 msgstr ""
-
+"얻기\n"
+"삭제"
