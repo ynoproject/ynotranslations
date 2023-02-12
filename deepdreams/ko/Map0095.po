@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 149, Page 1, Line 4, Pos (167,7)
 msgid "Get Alter: Metallic"
-msgstr "변환 획득: 금속체"
+msgstr "변환 획득: 금속제"
 
