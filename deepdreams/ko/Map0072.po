@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 51, Page 1, Line 4, Pos (19,27)
 msgid "Get Alter: Toxic"
-msgstr ""
+msgstr "변환 획득: 유독성"
 
