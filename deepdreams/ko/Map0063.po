@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 2, Page 1, Line 4, Pos (53,49)
 msgid "Get Alter: Monochromatic"
-msgstr ""
+msgstr "변환 획득: 단채색"
 
