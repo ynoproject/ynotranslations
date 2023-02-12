@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 6, Page 2, Line 4, Pos (9,6)
 msgid "Get Alter: Pastel"
-msgstr ""
+msgstr "변환 획득: "
 
