@@ -14,5 +14,5 @@ msgstr ""
 
 #. ID 300, Page 1, Line 19, Pos (88,7)
 msgid "Not enough money for purchase"
-msgstr ""
+msgstr "구매하기 위한 돈이 부족합니다"
 
