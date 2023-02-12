@@ -11,142 +11,142 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Mariana"
-msgstr ""
+msgstr "마리아나"
 
 #. ID 1
 msgctxt "actors.title"
 msgid "Deep Sleeper"
-msgstr ""
+msgstr "깊은 잠을 자는 자"
 
 #. ID 1
 msgctxt "skills.name"
 msgid "Wake Up"
-msgstr ""
+msgstr "기상하기"
 
 #. ID 2
 msgctxt "skills.name"
 msgid "Instructions"
-msgstr ""
+msgstr "설명서"
 
 #. ID 1
 msgctxt "items.name"
 msgid "Monochromatic"
-msgstr ""
+msgstr "단채색"
 
 #. ID 1
 msgctxt "items.description"
 msgid "Turns me greyscale"
-msgstr ""
+msgstr "나를 흑백으로 바꾼다"
 
 #. ID 2
 msgctxt "items.name"
 msgid "Pastel"
-msgstr ""
+msgstr "파스텔"
 
 #. ID 2
 msgctxt "items.description"
 msgid "Turns me pastel"
-msgstr ""
+msgstr "나를 파스텔 빛으로 바꾼다"
 
 #. ID 3
 msgctxt "items.name"
 msgid "Vortex"
-msgstr ""
+msgstr "회오리"
 
 #. ID 3
 msgctxt "items.description"
 msgid "Holding the space bar lets me warp to the Nexus"
-msgstr ""
+msgstr "스페이스 바를 꾹 누르면 나를 문의 방으로 옮겨준다"
 
 #. ID 4
 msgctxt "items.name"
 msgid "Damage"
-msgstr ""
+msgstr "데미지"
 
 #. ID 4
 msgctxt "items.description"
 msgid "Lets me kill other people"
-msgstr ""
+msgstr "다른 사람을 죽일 수 있게 만든다"
 
 #. ID 5
 msgctxt "items.name"
 msgid "Verdant"
-msgstr ""
+msgstr "심록빛"
 
 #. ID 5
 msgctxt "items.description"
 msgid "Holding the space bar lets me attract other people"
-msgstr ""
+msgstr "스페이스 바를 꾹 누르면 다른 사람들을 매혹시킨다"
 
 #. ID 6
 msgctxt "items.name"
 msgid "Toxic"
-msgstr ""
+msgstr "유독성"
 
 #. ID 6
 msgctxt "items.description"
 msgid "Repels and protects me from Plague Nurses"
-msgstr ""
+msgstr "역병 간호사들을 내쫓아내어 나를 보호한다"
 
 #. ID 7
 msgctxt "items.name"
 msgid "Nostalgic"
-msgstr ""
+msgstr "그리움"
 
 #. ID 7
 msgctxt "items.description"
 msgid "Dresses me in yesteryear's fashions"
-msgstr ""
+msgstr "나에게 복고풍 의상을 입게 만든다"
 
 #. ID 8
 msgctxt "items.name"
 msgid "Glassy"
-msgstr ""
+msgstr "글라스"
 
 #. ID 8
 msgctxt "items.description"
 msgid "Lights my way in dark areas"
-msgstr ""
+msgstr "어두운 곳에서 내가 가는 길을 밝혀준다"
 
 #. ID 9
 msgctxt "items.name"
 msgid "Metallic"
-msgstr ""
+msgstr "금속제"
 
 #. ID 9
 msgctxt "items.description"
 msgid "Turns me into an android"
-msgstr ""
+msgstr "나를 안드로이드로 바꾼다"
 
 #. ID 10
 msgctxt "items.name"
 msgid "Gelatinous"
-msgstr ""
+msgstr "젤라틴"
 
 #. ID 10
 msgctxt "items.description"
 msgid "Turns me into blue jelly"
-msgstr ""
+msgstr "나를 파란 젤리로 바꾼다"
 
 #. ID 11
 msgctxt "items.name"
 msgid "Celestial"
-msgstr ""
+msgstr "천상체"
 
 #. ID 11
 msgctxt "items.description"
 msgid "Turns me into a living night sky"
-msgstr ""
+msgstr "나를 밤하늘의 생명체로 바꾼다"
 
 #. ID 12
 msgctxt "items.name"
 msgid "Apparition"
-msgstr ""
+msgstr "환영체"
 
 #. ID 12
 msgctxt "items.description"
 msgid "Makes me invisible to almost everyone"
-msgstr ""
+msgstr "나를 거의 모든 사람들의 눈에 보이지 않게 만든다"
 
 #. ID 1
 msgctxt "enemies.name"
@@ -1255,7 +1255,7 @@ msgstr ""
 
 msgctxt "terms.gold"
 msgid "G"
-msgstr ""
+msgstr "골드"
 
 msgctxt "terms.battle_fight"
 msgid "Fight"
@@ -1279,71 +1279,71 @@ msgstr ""
 
 msgctxt "terms.command_item"
 msgid "Alters"
-msgstr ""
+msgstr "변환"
 
 msgctxt "terms.command_skill"
 msgid "Action"
-msgstr ""
+msgstr "행동"
 
 msgctxt "terms.menu_equipment"
 msgid "Equip"
-msgstr ""
+msgstr "장착품"
 
 msgctxt "terms.menu_save"
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 msgctxt "terms.menu_quit"
 msgid "Quit"
-msgstr ""
+msgstr "종료"
 
 msgctxt "terms.new_game"
 msgid "Dream"
-msgstr ""
+msgstr "꿈꾸기"
 
 msgctxt "terms.load_game"
 msgid "Recall"
-msgstr ""
+msgstr "회상하기"
 
 msgctxt "terms.exit_game"
 msgid "Awaken"
-msgstr ""
+msgstr "일어나기"
 
 msgctxt "terms.status"
 msgid "Status"
-msgstr ""
+msgstr "상태"
 
 msgctxt "terms.row"
 msgid "Row"
-msgstr ""
+msgstr "행"
 
 msgctxt "terms.order"
 msgid "Order"
-msgstr ""
+msgstr "렬"
 
 msgctxt "terms.wait_on"
 msgid "Wait"
-msgstr ""
+msgstr "대기"
 
 msgctxt "terms.wait_off"
 msgid "Active"
-msgstr ""
+msgstr "행동"
 
 msgctxt "terms.level"
 msgid "Level"
-msgstr ""
+msgstr "레벨"
 
 msgctxt "terms.health_points"
 msgid "HP"
-msgstr ""
+msgstr "체력"
 
 msgctxt "terms.spirit_points"
 msgid "MP"
-msgstr ""
+msgstr "마력"
 
 msgctxt "terms.normal_status"
 msgid "Normal"
-msgstr ""
+msgstr "정상"
 
 msgctxt "terms.exp_short"
 msgid "Ex"
@@ -1367,63 +1367,63 @@ msgstr ""
 
 msgctxt "terms.attack"
 msgid "Attack"
-msgstr ""
+msgstr "공격력"
 
 msgctxt "terms.defense"
 msgid "Defense"
-msgstr ""
+msgstr "방어력"
 
 msgctxt "terms.spirit"
 msgid "Mystic"
-msgstr ""
+msgstr "마력"
 
 msgctxt "terms.agility"
 msgid "Agility"
-msgstr ""
+msgstr "민첩"
 
 msgctxt "terms.weapon"
 msgid "Weapon"
-msgstr ""
+msgstr "무기"
 
 msgctxt "terms.shield"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 msgctxt "terms.armor"
 msgid "Armor"
-msgstr ""
+msgstr "방어구"
 
 msgctxt "terms.helmet"
 msgid "Helmet"
-msgstr ""
+msgstr "투구"
 
 msgctxt "terms.accessory"
 msgid "Accessory"
-msgstr ""
+msgstr "장식품"
 
 msgctxt "terms.save_game_message"
 msgid "Save to which file?"
-msgstr ""
+msgstr "어느 파일에 저장하시겠습니까?"
 
 msgctxt "terms.load_game_message"
 msgid "Load which file?"
-msgstr ""
+msgstr "어느 파일에 로드하시겠습니까?"
 
 msgctxt "terms.file"
 msgid "File"
-msgstr ""
+msgstr "파일"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you really want to quit?"
-msgstr ""
+msgstr "정말로 나가시겠습니까?"
 
 msgctxt "terms.yes"
 msgid "Yes"
-msgstr ""
+msgstr "예"
 
 msgctxt "terms.no"
 msgid "No"
-msgstr ""
+msgstr "아니오"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
