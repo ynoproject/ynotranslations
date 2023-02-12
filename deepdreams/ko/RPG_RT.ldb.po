@@ -16,7 +16,7 @@ msgstr "마리아나"
 #. ID 1
 msgctxt "actors.title"
 msgid "Deep Sleeper"
-msgstr "깊은 잠을 자는 자"
+msgstr "숙면자"
 
 #. ID 1
 msgctxt "skills.name"
