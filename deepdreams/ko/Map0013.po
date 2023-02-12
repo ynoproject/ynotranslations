@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 72, Page 1, Line 3, Pos (18,65)
 msgid "Get System: Kaleidoscope"
-msgstr ""
+msgstr "시스템 획득: 만화경"
 
