@@ -1,0 +1,777 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2\n"
+
+#. ID 2
+msgid "MAP0001"
+msgstr ""
+
+#. ID 3
+msgid "開始処理用"
+msgstr "Game Start"
+
+#. ID 4
+msgid "部屋"
+msgstr "Room"
+
+#. ID 5
+msgid "ベランダ"
+msgstr "Valcony"
+
+#. ID 6
+msgid "ミニゲタイトル"
+msgstr "Minigame_title"
+
+#. ID 7
+msgid "ミニゲ本編"
+msgstr "Minigame_Normal"
+
+#. ID 8
+msgid "ねるがよい"
+msgstr "I'd rather go to sleep"
+
+#. ID 9
+msgid "説明"
+msgstr "Instructions"
+
+#. ID 10
+msgid "夢ベランダ"
+msgstr "Dream_Valcony"
+
+#. ID 11
+msgid "夢部屋"
+msgstr "Dream_Room"
+
+#. ID 12
+msgid "うん"
+msgstr "Hmm"
+
+#. ID 13
+msgid "エントランス"
+msgstr "Entrance_Nexus"
+
+#. ID 14
+msgid "黒石"
+msgstr "Black_Stone_E"
+
+#. ID 15
+msgid "板"
+msgstr "Planks"
+
+#. ID 16
+msgid "もやし"
+msgstr "Bean Sprouts_E"
+
+#. ID 17
+msgid "鉄柵"
+msgstr "Barbed wire fence"
+
+#. ID 18
+msgid "黒石隔離"
+msgstr "Black_Stone_Trapped"
+
+#. ID 19
+msgid "鉄柵ランタン"
+msgstr "Iron_Fence_Random"
+
+#. ID 20
+msgid "無機"
+msgstr "Inorganic"
+
+#. ID 21
+msgid "陸の孤島"
+msgstr "Land of Solitary Island"
+
+#. ID 22
+msgid "扉"
+msgstr "Door"
+
+#. ID 23
+msgid "雨水"
+msgstr "Rain_Puddle"
+
+#. ID 24
+msgid "雨水地中"
+msgstr "Rain_Puddle_Underground"
+
+#. ID 25
+msgid "黒水柱"
+msgstr "Black column of water "
+
+#. ID 26
+msgid "肉柱"
+msgstr "Meat_Pillar"
+
+#. ID 27
+msgid "鉄板"
+msgstr "Iron Plate_E"
+
+#. ID 28
+msgid "無機塊ホール"
+msgstr "Inorganic_Chunk_Hall_[M]"
+
+#. ID 29
+msgid "無機塊隔離"
+msgstr "Inorganic_ChunkIsolation"
+
+#. ID 30
+msgid "無機塊廊下"
+msgstr "Inor.Chunk_Underground"
+
+#. ID 31
+msgid "便所"
+msgstr "Toilet_E"
+
+#. ID 32
+msgid "扇状柱"
+msgstr "Sector_Pillar"
+
+#. ID 33
+msgid "大扉"
+msgstr "Giant_Door"
+
+#. ID 34
+msgid "手1"
+msgstr "Hand1"
+
+#. ID 35
+msgid "手2"
+msgstr "Hand2"
+
+#. ID 36
+msgid "if"
+msgstr ""
+
+#. ID 37
+msgid "両手"
+msgstr "A Pair of hands_E"
+
+#. ID 38
+msgid "砂"
+msgstr "Sand"
+
+#. ID 39
+msgid "砂繋ぎ"
+msgstr "Sand_Connection"
+
+#. ID 40
+msgid "ベンチ"
+msgstr "Bench"
+
+#. ID 41
+msgid "手胃炎"
+msgstr "Hand_Gastritis_E"
+
+#. ID 42
+msgid "ベンチ2"
+msgstr "Bench2"
+
+#. ID 43
+msgid "グレー"
+msgstr "Gray"
+
+#. ID 44
+msgid "ワンルーム1"
+msgstr "Studio1"
+
+#. ID 45
+msgid "ワンルーム3"
+msgstr "Studio3"
+
+#. ID 46
+msgid "ワンルーム2"
+msgstr "Studio2"
+
+#. ID 47
+msgid "ワンルーム3+"
+msgstr "Studio3+"
+
+#. ID 48
+msgid "グレールート"
+msgstr "Gray_route"
+
+#. ID 49
+msgid "showcase"
+msgstr "showcase_E"
+
+#. ID 50
+msgid "丘の道"
+msgstr "Hillside Road"
+
+#. ID 51
+msgid "白の丘へ"
+msgstr "To the White Hill"
+
+#. ID 52
+msgid "白の丘"
+msgstr "White Hill"
+
+#. ID 53
+msgid "白の牢"
+msgstr "White Prison"
+
+#. ID 54
+msgid "穴奥"
+msgstr "Inside of a hole"
+
+#. ID 55
+msgid "good god"
+msgstr ""
+
+#. ID 56
+msgid "bad god"
+msgstr ""
+
+#. ID 57
+msgid "n"
+msgstr ""
+
+#. ID 58
+msgid "夢中夢"
+msgstr "Dream in Dream"
+
+#. ID 59
+msgid "貼り付け"
+msgstr "Stick_E"
+
+#. ID 60
+msgid "セピアカラー"
+msgstr "Sepia_Color"
+
+#. ID 61
+msgid "セピア"
+msgstr "Sepia"
+
+#. ID 62
+msgid "スーパーシンプル"
+msgstr "Super_Simple"
+
+#. ID 63
+msgid "模様光"
+msgstr "Pattern_Light_E"
+
+#. ID 64
+msgid "橋"
+msgstr "Bridge"
+
+#. ID 65
+msgid "通路"
+msgstr "Corridor"
+
+#. ID 66
+msgid "れっつごーふぁくとり"
+msgstr "Let's go - Factory"
+
+#. ID 67
+msgid "ファクトリー入り口"
+msgstr "Factory_Entrance"
+
+#. ID 68
+msgid "ファクトリー01"
+msgstr "Factory_01"
+
+#. ID 69
+msgid "ファクトリー02"
+msgstr "Factory_02"
+
+#. ID 70
+msgid "ファクトリー03"
+msgstr "Factory_03"
+
+#. ID 71
+msgid "ファクトリー04"
+msgstr "Factory_04"
+
+#. ID 72
+msgid "ファクトリー05"
+msgstr "Factory_05"
+
+#. ID 73
+msgid "ファクトリー06"
+msgstr "Factory_06"
+
+#. ID 74
+msgid "ファクトリー07"
+msgstr "Factory_07"
+
+#. ID 75
+msgid "ファクトリー08"
+msgstr "Factory_08"
+
+#. ID 76
+msgid "ファクトリー09"
+msgstr "Factory_08"
+
+#. ID 77
+msgid "処理1"
+msgstr "Process_1_E"
+
+#. ID 78
+msgid "処理2"
+msgstr "Process_2"
+
+#. ID 79
+msgid "処理3"
+msgstr "Process_3"
+
+#. ID 80
+msgid "処理4"
+msgstr "Process_4_E(=Process_1)"
+
+#. ID 81
+msgid "コントロール"
+msgstr "Control"
+
+#. ID 82
+msgid "女"
+msgstr "Girl"
+
+#. ID 83
+msgid "赤の手"
+msgstr "Red_hand"
+
+#. ID 84
+msgid "ぽちゃん"
+msgstr "Splash"
+
+#. ID 85
+msgid "ダウンタウン"
+msgstr "Downtown_E"
+
+#. ID 86
+msgid "××という少女"
+msgstr "Girl who says XX"
+
+#. ID 87
+msgid "ミニゲベリーハード"
+msgstr "Minigame_Very_Hard"
+
+#. ID 88
+msgid "廃屋1"
+msgstr "Abandoned_House1"
+
+#. ID 89
+msgid "廃屋2"
+msgstr "Abandoned_House2_E"
+
+#. ID 90
+msgid "廃屋洞窟塊"
+msgstr "A.H.Cave_Clot"
+
+#. ID 91
+msgid "廃屋洞窟"
+msgstr "A.H.Cave"
+
+#. ID 92
+msgid "覗く"
+msgstr "Peaking"
+
+#. ID 93
+msgid "洞窟繋ぎ"
+msgstr "Cave_Connection"
+
+#. ID 94
+msgid "岩壁川"
+msgstr "Cliff River"
+
+#. ID 95
+msgid "洞窟繋ぎ2"
+msgstr "Cave_Connection2"
+
+#. ID 96
+msgid "抑圧"
+msgstr "Suppression"
+
+#. ID 97
+msgid "オブジェクト"
+msgstr "Object"
+
+#. ID 98
+msgid "フィールド"
+msgstr "Field"
+
+#. ID 99
+msgid "見上げ"
+msgstr "Looking up"
+
+#. ID 100
+msgid "巨塔"
+msgstr "Giant_Tower"
+
+#. ID 101
+msgid "空の上から"
+msgstr "Above the sky"
+
+#. ID 102
+msgid "黒猫飛行"
+msgstr "Flying Black Cat"
+
+#. ID 103
+msgid "路0"
+msgstr "Road_0"
+
+#. ID 104
+msgid "路1"
+msgstr "Road_1"
+
+#. ID 105
+msgid "路2"
+msgstr "Road_2"
+
+#. ID 106
+msgid "路3"
+msgstr "Road_3"
+
+#. ID 107
+msgid "路4"
+msgstr "Road_4"
+
+#. ID 108
+msgid "路5"
+msgstr "Road_5"
+
+#. ID 109
+msgid "路6"
+msgstr "Road_6"
+
+#. ID 110
+msgid "路7"
+msgstr "Road_7"
+
+#. ID 111
+msgid "路8"
+msgstr "Road_8"
+
+#. ID 112
+msgid "路9"
+msgstr "Road_9"
+
+#. ID 113
+msgid "路10"
+msgstr "Road_10"
+
+#. ID 114
+msgid "路11"
+msgstr "Road_11"
+
+#. ID 115
+msgid "路12"
+msgstr "Road_12"
+
+#. ID 116
+msgid "路13"
+msgstr "Road_13"
+
+#. ID 117
+msgid "路14"
+msgstr "Road_14"
+
+#. ID 118
+msgid "路15"
+msgstr "Road_15"
+
+#. ID 119
+msgid "緑"
+msgstr "Green"
+
+#. ID 120
+msgid "カラー"
+msgstr "Color"
+
+#. ID 121
+msgid "不安"
+msgstr "Anxious"
+
+#. ID 122
+msgid "無意味な焦燥"
+msgstr "Meaningless_anxiety"
+
+#. ID 123
+msgid "衝動"
+msgstr "Impulse_E"
+
+#. ID 124
+msgid "one"
+msgstr "one"
+
+#. ID 125
+msgid "監獄1F"
+msgstr "Prison_1F"
+
+#. ID 126
+msgid "監獄2F"
+msgstr "Prison_2F"
+
+#. ID 127
+msgid "監獄3F"
+msgstr "Prison_3F"
+
+#. ID 128
+msgid "監獄4F"
+msgstr "Prison_4F"
+
+#. ID 129
+msgid "監獄牢屋1F"
+msgstr "Prison_Jail_1F"
+
+#. ID 130
+msgid "監獄牢屋2F"
+msgstr "Prison_Jail_2F"
+
+#. ID 131
+msgid "監獄牢屋3F"
+msgstr "Prison_Jail_3F"
+
+#. ID 132
+msgid "反吐路"
+msgstr "Vomit_Road"
+
+#. ID 133
+msgid "反吐"
+msgstr "Vomit"
+
+#. ID 134
+msgid "館玄関"
+msgstr "Mansion_Entrance"
+
+#. ID 135
+msgid "館廊下3"
+msgstr "Mansion_Underground_3"
+
+#. ID 136
+msgid "館廊下1"
+msgstr "Mansion_Underground_1"
+
+#. ID 137
+msgid "館廊下2"
+msgstr "Mansion_Underground_2"
+
+#. ID 138
+msgid "館部屋1"
+msgstr "Mansion_Room_1"
+
+#. ID 139
+msgid "館部屋2"
+msgstr "Mansion_Room_2"
+
+#. ID 140
+msgid "血潮海峡黒景色"
+msgstr "Bloody Strait_RB_Scene"
+
+#. ID 141
+msgid "館部屋3"
+msgstr "Mansion_Room_3"
+
+#. ID 142
+msgid "館部屋4"
+msgstr "Mansion_Room_4"
+
+#. ID 143
+msgid "彼の部屋"
+msgstr "That Room_E"
+
+#. ID 144
+msgid "朦朧"
+msgstr "HazY"
+
+#. ID 145
+msgid "投射"
+msgstr "Projection"
+
+#. ID 146
+msgid "ここから先いじる時の注釈"
+msgstr "CheckNoteForInformation"
+
+#. ID 147
+msgid "くらげ館"
+msgstr "Jellyfish_Mansion"
+
+#. ID 148
+msgid "くらげライブラリ"
+msgstr "Jellyfish_Library"
+
+#. ID 149
+msgid "展示品"
+msgstr "An Exhibit"
+
+#. ID 150
+msgid "偏頭痛メイン"
+msgstr "Migraine_Main"
+
+#. ID 151
+msgid "偏頭痛1"
+msgstr "Migraine_1"
+
+#. ID 152
+msgid "頭痛_固執1"
+msgstr "Headache_persistence_1"
+
+#. ID 153
+msgid "頭痛_固執2"
+msgstr "Headache_persistence_2_E"
+
+#. ID 154
+msgid "偏頭痛2"
+msgstr "Migraine_2"
+
+#. ID 155
+msgid "頭痛_固執3"
+msgstr "Headache_persistence_3"
+
+#. ID 156
+msgid "頭痛_固執4"
+msgstr "Headache_persistence_4"
+
+#. ID 157
+msgid "偏頭痛3"
+msgstr "Migraine_3"
+
+#. ID 158
+msgid "頭痛_固執5"
+msgstr "Headache_persistence_5"
+
+#. ID 159
+msgid "頭痛_固執6"
+msgstr "Headache_persistence_6"
+
+#. ID 160
+msgid "普遍的な苦痛"
+msgstr "Omnipresent Pain"
+
+#. ID 161
+msgid "自殺頭痛"
+msgstr "Suicidal_Headache"
+
+#. ID 162
+msgid "None room_01"
+msgstr ""
+
+#. ID 163
+msgid "None room_02"
+msgstr ""
+
+#. ID 164
+msgid "None room_03"
+msgstr ""
+
+#. ID 165
+msgid "None room_04"
+msgstr ""
+
+#. ID 166
+msgid "None_Closet AM 04:05"
+msgstr ""
+
+#. ID 167
+msgid "N/A"
+msgstr ""
+
+#. ID 168
+msgid "黒い血"
+msgstr "Black_Blood"
+
+#. ID 169
+msgid "覗き込む空虚"
+msgstr "Emptiness is twiring"
+
+#. ID 170
+msgid "深淵より"
+msgstr "More than Abyss"
+
+#. ID 171
+msgid "青塗"
+msgstr "Clear Road"
+
+#. ID 172
+msgid "とり"
+msgstr "Bird"
+
+#. ID 173
+msgid "ガーデン"
+msgstr "Curtain_E"
+
+#. ID 174
+msgid "あの日見た空の色"
+msgstr "I'veSeenADayLikeThisSky"
+
+#. ID 175
+msgid "厭世"
+msgstr "Weariness of The World"
+
+#. ID 176
+msgid "白い猫の塔1"
+msgstr "White_Cat_Tower1"
+
+#. ID 177
+msgid "白い猫の塔2"
+msgstr "White_Cat_Tower2"
+
+#. ID 178
+msgid "白い猫の塔3"
+msgstr "White_Cat_Tower3"
+
+#. ID 179
+msgid "白い猫の塔　最上階"
+msgstr "White_Cat_Tower_TopFloor"
+
+#. ID 180
+msgid "寂れ"
+msgstr "Decadence"
+
+#. ID 181
+msgid "幻夢センター"
+msgstr "Fantasy_Dream_Center"
+
+#. ID 182
+msgid "幻夢センター2"
+msgstr "Fantasy_Dream_Center2"
+
+#. ID 183
+msgid "休憩室"
+msgstr "Lounge"
+
+#. ID 184
+msgid "羅列"
+msgstr "List"
+
+#. ID 185
+msgid "螺旋"
+msgstr "Spiral"
+
+#. ID 186
+msgid "移行"
+msgstr "Performing"
+
+#. ID 187
+msgid "map_00"
+msgstr ""
+
+#. ID 188
+msgid "map_01"
+msgstr ""
+
+#. ID 189
+msgid "map_xx"
+msgstr "map_xx_E"
+
+#. ID 190
+msgid "map_02"
+msgstr ""
+
+#. ID 191
+msgid "END3~END ベランダ"
+msgstr "END3-END Valcony"
+
+#. ID 192
+msgid "ending"
+msgstr ""

@@ -1,0 +1,1446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "0001)Kubotsuki"
+msgstr ""
+
+#. ID 3
+msgid "0002)Q.Mark-RedCyan"
+msgstr ""
+
+#. ID 4
+msgid "0003)Music Room"
+msgstr ""
+
+#. ID 5
+msgid "0004)Totsutsuki"
+msgstr ""
+
+#. ID 6
+msgid "0005)TotsuOutside"
+msgstr ""
+
+#. ID 7
+msgid "0006)KuboDreamBalcony"
+msgstr ""
+
+#. ID 8
+msgid "0007)DEBUG"
+msgstr ""
+
+#. ID 9
+msgid "0008)KuboDreamRoom"
+msgstr ""
+
+#. ID 10
+msgid "0009)Nexus-shoe"
+msgstr ""
+
+#. ID 11
+msgid "0010)Jojo-BreezyPlains"
+msgstr ""
+
+#. ID 12
+msgid "0011)Jojo-PaintSky"
+msgstr ""
+
+#. ID 13
+msgid "0012)KuboNexus"
+msgstr ""
+
+#. ID 14
+msgid "0013)Nexus-Grammar"
+msgstr ""
+
+#. ID 15
+msgid "0014)Nexus-MutantPath"
+msgstr ""
+
+#. ID 16
+msgid "0015)Nexus-Mutant"
+msgstr ""
+
+#. ID 17
+msgid "0016)Q.Mark-World1"
+msgstr ""
+
+#. ID 18
+msgid "0017)QMark-HolebunsGuts"
+msgstr ""
+
+#. ID 19
+msgid "0018)Dream Outside"
+msgstr ""
+
+#. ID 20
+msgid "0019)DreamRoomTotsu"
+msgstr ""
+
+#. ID 21
+msgid "0020)TotsuNexus"
+msgstr ""
+
+#. ID 22
+msgid "0021)olm-Broken world"
+msgstr ""
+
+#. ID 23
+msgid "0022)KuboBalcony"
+msgstr ""
+
+#. ID 24
+msgid "0023)General-Intro"
+msgstr ""
+
+#. ID 25
+msgid "0024)Jojo-StarryBeach"
+msgstr ""
+
+#. ID 26
+msgid "0025)Q.Mark-Waterfall"
+msgstr ""
+
+#. ID 27
+msgid "0026)olm-cave"
+msgstr ""
+
+#. ID 28
+msgid "0027)olm-office"
+msgstr ""
+
+#. ID 29
+msgid "0028)olm-4"
+msgstr ""
+
+#. ID 30
+msgid "0029)olm-6"
+msgstr ""
+
+#. ID 31
+msgid "0030)olm-5"
+msgstr ""
+
+#. ID 32
+msgid "0031)olm-7"
+msgstr ""
+
+#. ID 33
+msgid "0032)olm-8"
+msgstr ""
+
+#. ID 34
+msgid "0033)olm-9"
+msgstr ""
+
+#. ID 35
+msgid "0034)olm-10"
+msgstr ""
+
+#. ID 36
+msgid "0035)Q.Mark-Forest1"
+msgstr ""
+
+#. ID 37
+msgid "0036)Q.Mark-Forest2"
+msgstr ""
+
+#. ID 38
+msgid "0037)Q.Mark-Forest3"
+msgstr ""
+
+#. ID 39
+msgid "0038)Q.Mark-Cave"
+msgstr ""
+
+#. ID 40
+msgid "0039)Q.Mark-WishingWell"
+msgstr ""
+
+#. ID 41
+msgid "0040)Q.Mark-Mime"
+msgstr ""
+
+#. ID 42
+msgid "0041)Q.Mark-Metal"
+msgstr ""
+
+#. ID 43
+msgid "0042)Anthem-Maps1"
+msgstr ""
+
+#. ID 44
+msgid "0043)Jojo-VioletCave"
+msgstr ""
+
+#. ID 45
+msgid "0044)Jojo-SeaOfStatic"
+msgstr ""
+
+#. ID 46
+msgid "0045)QMark-OverwtrSunset"
+msgstr ""
+
+#. ID 47
+msgid "0046)Q.Mark- Lantern"
+msgstr ""
+
+#. ID 48
+msgid "0047)Jojo-StaticCoast"
+msgstr ""
+
+#. ID 49
+msgid "0048)S3S-Colorbomb"
+msgstr ""
+
+#. ID 50
+msgid "0049)S3S-colorpath"
+msgstr ""
+
+#. ID 51
+msgid "0050)S3S-crazyclrs"
+msgstr ""
+
+#. ID 52
+msgid "0051)S3S-colorcave"
+msgstr ""
+
+#. ID 53
+msgid "0052)S3S-clrcave2"
+msgstr ""
+
+#. ID 54
+msgid "0053)S3S-6"
+msgstr ""
+
+#. ID 55
+msgid "0054)S3S-7"
+msgstr ""
+
+#. ID 56
+msgid "0055)S3S-8"
+msgstr ""
+
+#. ID 57
+msgid "0056)S3S-9"
+msgstr ""
+
+#. ID 58
+msgid "0057)S3S-10"
+msgstr ""
+
+#. ID 59
+msgid "0058)Anthem-Powerlines"
+msgstr ""
+
+#. ID 60
+msgid "0059)Anthem-Maps2"
+msgstr ""
+
+#. ID 61
+msgid "0060)Anthem-Sound"
+msgstr ""
+
+#. ID 62
+msgid "0061)"
+msgstr ""
+
+#. ID 63
+msgid "0062)"
+msgstr ""
+
+#. ID 64
+msgid "0063)Anthem-Dream"
+msgstr ""
+
+#. ID 65
+msgid "0064)"
+msgstr ""
+
+#. ID 66
+msgid "0065)"
+msgstr ""
+
+#. ID 67
+msgid "0066)"
+msgstr ""
+
+#. ID 68
+msgid "0067)Milica-Tanunjon1"
+msgstr ""
+
+#. ID 69
+msgid "0068)Milica-TanunjonInt"
+msgstr ""
+
+#. ID 70
+msgid "0069)Milica-Tanunjon2"
+msgstr ""
+
+#. ID 71
+msgid "0070)Milica-4"
+msgstr ""
+
+#. ID 72
+msgid "0071)Milica-TNEF"
+msgstr ""
+
+#. ID 73
+msgid "0072)Q.Mark-LonelySubway"
+msgstr ""
+
+#. ID 74
+msgid "0073)Q.Mark- Sunset"
+msgstr ""
+
+#. ID 75
+msgid "0074)Milica-6"
+msgstr ""
+
+#. ID 76
+msgid "0075)Milica-7"
+msgstr ""
+
+#. ID 77
+msgid "0076)Milica-8"
+msgstr ""
+
+#. ID 78
+msgid "0077)Milica-9"
+msgstr ""
+
+#. ID 79
+msgid "0078)Milica-10"
+msgstr ""
+
+#. ID 80
+msgid "0079)FD-SurrealPark"
+msgstr ""
+
+#. ID 81
+msgid "0080)FD-EyeMaze"
+msgstr ""
+
+#. ID 82
+msgid "0081)FD-BW"
+msgstr ""
+
+#. ID 83
+msgid "0082)FD-void"
+msgstr ""
+
+#. ID 84
+msgid "0083)FD-cinema"
+msgstr ""
+
+#. ID 85
+msgid "0084)Q.Mark-Lonelalley"
+msgstr ""
+
+#. ID 86
+msgid "0085)Q.Mark-Clownpieces"
+msgstr ""
+
+#. ID 87
+msgid "0086)QMark-CubeBubRoadA"
+msgstr ""
+
+#. ID 88
+msgid "0087)QMark-CubeBubRoadB"
+msgstr ""
+
+#. ID 89
+msgid "0088)QMark-CubeBubRoadC"
+msgstr ""
+
+#. ID 90
+msgid "0089)Q.Mark- Cube Event"
+msgstr ""
+
+#. ID 91
+msgid "0090)QMark-CubeBubRoadD"
+msgstr ""
+
+#. ID 92
+msgid "0091)QMark-BeigeBoxFctry"
+msgstr ""
+
+#. ID 93
+msgid "0092)???"
+msgstr ""
+
+#. ID 94
+msgid "0093)QMark-BBoxFactory2"
+msgstr ""
+
+#. ID 95
+msgid "0094)QMark-BBoxFactory3"
+msgstr ""
+
+#. ID 96
+msgid "0095)QMark-BBoxFactory4"
+msgstr ""
+
+#. ID 97
+msgid "0096)QMark-"
+msgstr ""
+
+#. ID 98
+msgid "0097)Q.Mark - BBF Rooms"
+msgstr ""
+
+#. ID 99
+msgid "0098)Q.Mark-Upside Down"
+msgstr ""
+
+#. ID 100
+msgid "0099)FD-6"
+msgstr ""
+
+#. ID 101
+msgid "0100)FD-7"
+msgstr ""
+
+#. ID 102
+msgid "0101)FD-8"
+msgstr ""
+
+#. ID 103
+msgid "0102)FD-9"
+msgstr ""
+
+#. ID 104
+msgid "0103)FD-10"
+msgstr ""
+
+#. ID 105
+msgid "0104)Holding Area"
+msgstr ""
+
+#. ID 106
+msgid "0105)Jojo-WastePlant"
+msgstr ""
+
+#. ID 107
+msgid "0106)Jojo-el bebe"
+msgstr ""
+
+#. ID 108
+msgid "0107)Jojo-Illusion"
+msgstr ""
+
+#. ID 109
+msgid "0108)Jojogape-el utero"
+msgstr ""
+
+#. ID 110
+msgid "0109)Rurima-Plant lab"
+msgstr ""
+
+#. ID 111
+msgid "0110)QMark-"
+msgstr ""
+
+#. ID 112
+msgid "0111)Rurima-Lampost"
+msgstr ""
+
+#. ID 113
+msgid "0112)Rurima-Star road"
+msgstr ""
+
+#. ID 114
+msgid "0113)Rurima-Star field"
+msgstr ""
+
+#. ID 115
+msgid "0114)Rurima-Sky world"
+msgstr ""
+
+#. ID 116
+msgid "0115)Rurima-Galleta"
+msgstr ""
+
+#. ID 117
+msgid "0116)Rurima-Neon"
+msgstr ""
+
+#. ID 118
+msgid "0117)Rurima-Tanabata"
+msgstr ""
+
+#. ID 119
+msgid "0118)Rurima-Razoreniye"
+msgstr ""
+
+#. ID 120
+msgid "0119)Rurima-rooms"
+msgstr ""
+
+#. ID 121
+msgid "0120)1247-MoonlightLake"
+msgstr ""
+
+#. ID 122
+msgid "0121)001247-NeonAlley"
+msgstr ""
+
+#. ID 123
+msgid "0122)001247-GlitchHouse"
+msgstr ""
+
+#. ID 124
+msgid "0123)001247-DreamPalaceA"
+msgstr ""
+
+#. ID 125
+msgid "0124)001247-DreamPalaceB"
+msgstr ""
+
+#. ID 126
+msgid "0125)001247-MistStairway"
+msgstr ""
+
+#. ID 127
+msgid "0126)001247-RedForest"
+msgstr ""
+
+#. ID 128
+msgid "0127)001247-PinkTree"
+msgstr ""
+
+#. ID 129
+msgid "0128)QMark-"
+msgstr ""
+
+#. ID 130
+msgid "0129)001247-FairyCave"
+msgstr ""
+
+#. ID 131
+msgid "0130)Rurima-Frutas"
+msgstr ""
+
+#. ID 132
+msgid "0131)Rurima-sea"
+msgstr ""
+
+#. ID 133
+msgid "0132)Rurima-Starlit road"
+msgstr ""
+
+#. ID 134
+msgid "0133)Rurima-starlit 2"
+msgstr ""
+
+#. ID 135
+msgid "0134)QMark-"
+msgstr ""
+
+#. ID 136
+msgid "0135)Rurima-Star cactus"
+msgstr ""
+
+#. ID 137
+msgid "0136)Rurima-palace inner"
+msgstr ""
+
+#. ID 138
+msgid "0137)Rurima-To tanabata"
+msgstr ""
+
+#. ID 139
+msgid "0138)Rurima-house"
+msgstr ""
+
+#. ID 140
+msgid "0139)Rurima-Inside"
+msgstr ""
+
+#. ID 141
+msgid "0140)Rurima-Navis"
+msgstr ""
+
+#. ID 142
+msgid "0141)Rurima-Curabitur"
+msgstr ""
+
+#. ID 143
+msgid "0142)Rurima-PC98Hallway"
+msgstr ""
+
+#. ID 144
+msgid "0143)QMark-"
+msgstr ""
+
+#. ID 145
+msgid "0144)Rurima-madina"
+msgstr ""
+
+#. ID 146
+msgid "0145)Rurima-Geschaft"
+msgstr ""
+
+#. ID 147
+msgid "0146)QMark-"
+msgstr ""
+
+#. ID 148
+msgid "0147)QMark-"
+msgstr ""
+
+#. ID 149
+msgid "0148)Rurima-meridiem"
+msgstr ""
+
+#. ID 150
+msgid "0149)Rurima-Pinkes haus"
+msgstr ""
+
+#. ID 151
+msgid "0150)Rurima-Ausblick"
+msgstr ""
+
+#. ID 152
+msgid "0151)QMark-Dendrite"
+msgstr ""
+
+#. ID 153
+msgid "0152)QMark- Predium I"
+msgstr ""
+
+#. ID 154
+msgid "0153)QMark- CellNeighbor"
+msgstr ""
+
+#. ID 155
+msgid "0154)QMark- Cells"
+msgstr ""
+
+#. ID 156
+msgid "0155)QMark-Mr.Miserable"
+msgstr ""
+
+#. ID 157
+msgid "0156)QMark- Planthouse"
+msgstr ""
+
+#. ID 158
+msgid "0157)QMark-Going Down"
+msgstr ""
+
+#. ID 159
+msgid "0158)QMark-Sunken Church"
+msgstr ""
+
+#. ID 160
+msgid "0159)QMark-Debug"
+msgstr ""
+
+#. ID 161
+msgid "0160)QMark-Turbine C."
+msgstr ""
+
+#. ID 162
+msgid "0161)QMark-Turbine"
+msgstr ""
+
+#. ID 163
+msgid "0162)QMark- CarSunset"
+msgstr ""
+
+#. ID 164
+msgid "0163)QMark-Turbine B"
+msgstr ""
+
+#. ID 165
+msgid "0164)QMark-TurbineEnd"
+msgstr ""
+
+#. ID 166
+msgid "0165)QMark-"
+msgstr ""
+
+#. ID 167
+msgid "0166)001247-City"
+msgstr ""
+
+#. ID 168
+msgid "0167)Rurima-PC98 house"
+msgstr ""
+
+#. ID 169
+msgid "0168)Rurima-Abfall"
+msgstr ""
+
+#. ID 170
+msgid "0169)Rurima-mansion"
+msgstr ""
+
+#. ID 171
+msgid "0170)hecatia-debug"
+msgstr ""
+
+#. ID 172
+msgid "0171)Crystal Caves"
+msgstr ""
+
+#. ID 173
+msgid "0172)CC-Star Lake"
+msgstr ""
+
+#. ID 174
+msgid "0173)CC-Ladder-1"
+msgstr ""
+
+#. ID 175
+msgid "0174)CC-Ladder-2"
+msgstr ""
+
+#. ID 176
+msgid "0175)Night&Day World"
+msgstr ""
+
+#. ID 177
+msgid "0176)NDW-Entrance"
+msgstr ""
+
+#. ID 178
+msgid "0177)UT-Railway"
+msgstr ""
+
+#. ID 179
+msgid "0178)untitled"
+msgstr ""
+
+#. ID 180
+msgid "0179)Bio Research Lab"
+msgstr ""
+
+#. ID 181
+msgid "0180)BL-Halls 1"
+msgstr ""
+
+#. ID 182
+msgid "0181)BL-Halls 2"
+msgstr ""
+
+#. ID 183
+msgid "0182)BL-Elevator"
+msgstr ""
+
+#. ID 184
+msgid "0183)The Foundry"
+msgstr ""
+
+#. ID 185
+msgid "0184)FR-Cliff"
+msgstr ""
+
+#. ID 186
+msgid "0185)hecatia-16"
+msgstr ""
+
+#. ID 187
+msgid "0186)hecatia-17"
+msgstr ""
+
+#. ID 188
+msgid "0187)hecatia-18"
+msgstr ""
+
+#. ID 189
+msgid "0188)hecatia-19"
+msgstr ""
+
+#. ID 190
+msgid "0189)hecatia-20"
+msgstr ""
+
+#. ID 191
+msgid "0190)EBroxas-Winter-wood"
+msgstr ""
+
+#. ID 192
+msgid "0191)EBroxas-S-town-out"
+msgstr ""
+
+#. ID 193
+msgid "0192)EBroxas-StownInSide"
+msgstr ""
+
+#. ID 194
+msgid "0193)EBroxas-White-spike"
+msgstr ""
+
+#. ID 195
+msgid "0194)EBroxas-Seer's-room"
+msgstr ""
+
+#. ID 196
+msgid "0195)EBroxas-Eyeball-woo"
+msgstr ""
+
+#. ID 197
+msgid "0196)EBroxas-Purple-town"
+msgstr ""
+
+#. ID 198
+msgid "0197)EBroxas-Eye-Dust"
+msgstr ""
+
+#. ID 199
+msgid "0198)EBroxas-Dojo"
+msgstr ""
+
+#. ID 200
+msgid "0199)EBroxas-doodle-w"
+msgstr ""
+
+#. ID 201
+msgid "0200)sniperbob-board"
+msgstr ""
+
+#. ID 202
+msgid "0201)sniperbob-downtile"
+msgstr ""
+
+#. ID 203
+msgid "0202)sniperbob-dreadgall"
+msgstr ""
+
+#. ID 204
+msgid "0203)sniperbob-wiresocke"
+msgstr ""
+
+#. ID 205
+msgid "0204)sniperbob-chaotic"
+msgstr ""
+
+#. ID 206
+msgid "0205)sniperbob-weird"
+msgstr ""
+
+#. ID 207
+msgid "0206)sniperbob-sklookout"
+msgstr ""
+
+#. ID 208
+msgid "0207)sniperbob-O-O"
+msgstr ""
+
+#. ID 209
+msgid "0208)sniperbob-forsakenc"
+msgstr ""
+
+#. ID 210
+msgid "0209)sniperbob-clayworld"
+msgstr ""
+
+#. ID 211
+msgid "0210)sniperbob-teratoma"
+msgstr ""
+
+#. ID 212
+msgid "0211)sniperbob-lightbulb"
+msgstr ""
+
+#. ID 213
+msgid "0212)sniperbob-tower"
+msgstr ""
+
+#. ID 214
+msgid "0213)sniperbob-picnic"
+msgstr ""
+
+#. ID 215
+msgid "0214)sniperbob-ELECTRON"
+msgstr ""
+
+#. ID 216
+msgid "0215)sniperbob-16"
+msgstr ""
+
+#. ID 217
+msgid "0216)sniperbob-17"
+msgstr ""
+
+#. ID 218
+msgid "0217)sniperbob-18"
+msgstr ""
+
+#. ID 219
+msgid "0218)sniperbob-19"
+msgstr ""
+
+#. ID 220
+msgid "0219)sniperbob-20"
+msgstr ""
+
+#. ID 221
+msgid "0220)gummy-corridors"
+msgstr ""
+
+#. ID 222
+msgid "0221)gummy-teleportmazes"
+msgstr ""
+
+#. ID 223
+msgid "0222)gummy-hats&ducks"
+msgstr ""
+
+#. ID 224
+msgid "0223)gummy-waitingrooms"
+msgstr ""
+
+#. ID 225
+msgid "0224)gummy-kaomoji mall"
+msgstr ""
+
+#. ID 226
+msgid "0225)gummy-pink desert"
+msgstr ""
+
+#. ID 227
+msgid "0226)gummy-bumblebeeloun"
+msgstr ""
+
+#. ID 228
+msgid "0227)gummy-little rooms"
+msgstr ""
+
+#. ID 229
+msgid "0228)gummy-smile town"
+msgstr ""
+
+#. ID 230
+msgid "0229)gummy-polygon place"
+msgstr ""
+
+#. ID 231
+msgid "0230)ZLD-1"
+msgstr ""
+
+#. ID 232
+msgid "0231)ZLD-2"
+msgstr ""
+
+#. ID 233
+msgid "0232)ZLD-3"
+msgstr ""
+
+#. ID 234
+msgid "0233)ZLD-4"
+msgstr ""
+
+#. ID 235
+msgid "0234)ZLD-5"
+msgstr ""
+
+#. ID 236
+msgid "0235)ZLD-6"
+msgstr ""
+
+#. ID 237
+msgid "0236)ZLD-7"
+msgstr ""
+
+#. ID 238
+msgid "0237)ZLD-8"
+msgstr ""
+
+#. ID 239
+msgid "0238)ZLD-9"
+msgstr ""
+
+#. ID 240
+msgid "0239)ZLD-10"
+msgstr ""
+
+#. ID 241
+msgid "0240)#_-1_Abyss_Entrance"
+msgstr ""
+
+#. ID 242
+msgid "0241)#_-2_Abyss"
+msgstr ""
+
+#. ID 243
+msgid "0242)#_-Mono_chase"
+msgstr ""
+
+#. ID 244
+msgid "0243)#_-4"
+msgstr ""
+
+#. ID 245
+msgid "0244)#_-5"
+msgstr ""
+
+#. ID 246
+msgid "0245)#_-6"
+msgstr ""
+
+#. ID 247
+msgid "0246)#_-7"
+msgstr ""
+
+#. ID 248
+msgid "0247)#_-8"
+msgstr ""
+
+#. ID 249
+msgid "0248)#_-9"
+msgstr ""
+
+#. ID 250
+msgid "0249)#_-10"
+msgstr ""
+
+#. ID 251
+msgid "0250)001247-11"
+msgstr ""
+
+#. ID 252
+msgid "0251)001247-Warehouse"
+msgstr ""
+
+#. ID 253
+msgid "0252)001247-13"
+msgstr ""
+
+#. ID 254
+msgid "0253)001247-14"
+msgstr ""
+
+#. ID 255
+msgid "0254)001247-15"
+msgstr ""
+
+#. ID 256
+msgid "0255)001247-16"
+msgstr ""
+
+#. ID 257
+msgid "0256)001247-17"
+msgstr ""
+
+#. ID 258
+msgid "0257)001247-18"
+msgstr ""
+
+#. ID 259
+msgid "0258)001247-19"
+msgstr ""
+
+#. ID 260
+msgid "0259)001247-20"
+msgstr ""
+
+#. ID 261
+msgid "0260)Rurima-Hafen"
+msgstr ""
+
+#. ID 262
+msgid "0261)Rurima-Castle"
+msgstr ""
+
+#. ID 263
+msgid "0262)Rurima-purple sepia"
+msgstr ""
+
+#. ID 264
+msgid "0263)Rurima-Castle in"
+msgstr ""
+
+#. ID 265
+msgid "0264)Rurima-Oversee"
+msgstr ""
+
+#. ID 266
+msgid "0265)Rurima-NES"
+msgstr ""
+
+#. ID 267
+msgid "0266)Rurima-NES cloud"
+msgstr ""
+
+#. ID 268
+msgid "0267)Rurima-Tower"
+msgstr ""
+
+#. ID 269
+msgid "0268)Rurima-Cliff"
+msgstr ""
+
+#. ID 270
+msgid "0269)Rurima-dark grass"
+msgstr ""
+
+#. ID 271
+msgid "0270)EBroxas-Spike-base"
+msgstr ""
+
+#. ID 272
+msgid "0271)EBroxas-Bottom-of-W"
+msgstr ""
+
+#. ID 273
+msgid "0272)EBroxas-DudeComplex"
+msgstr ""
+
+#. ID 274
+msgid "0273)EBroxas-Sky-Islands"
+msgstr ""
+
+#. ID 275
+msgid "0274)EBroxas-Heaven-dock"
+msgstr ""
+
+#. ID 276
+msgid "0275)EBroxas-Cubesdomain"
+msgstr ""
+
+#. ID 277
+msgid "0276)EBroxas-winterwood2"
+msgstr ""
+
+#. ID 278
+msgid "0277)EBroxas-pallace"
+msgstr ""
+
+#. ID 279
+msgid "0278)EBroxas-Hole"
+msgstr ""
+
+#. ID 280
+msgid "0279)EBroxas-Cabin/hall"
+msgstr ""
+
+#. ID 281
+msgid "0280)EBroxas-ooze"
+msgstr ""
+
+#. ID 282
+msgid "0281)EBroxas-22"
+msgstr ""
+
+#. ID 283
+msgid "0282)EBroxas-23"
+msgstr ""
+
+#. ID 284
+msgid "0283)EBroxas-24"
+msgstr ""
+
+#. ID 285
+msgid "0284)EBroxas-25"
+msgstr ""
+
+#. ID 286
+msgid "0285)EBroxas-26"
+msgstr ""
+
+#. ID 287
+msgid "0286)EBroxas-27"
+msgstr ""
+
+#. ID 288
+msgid "0287)EBroxas-28"
+msgstr ""
+
+#. ID 289
+msgid "0288)EBroxas-29"
+msgstr ""
+
+#. ID 290
+msgid "0289)EBroxas-30"
+msgstr ""
+
+#. ID 291
+msgid "0290)Q.Mark-Lightbulbs"
+msgstr ""
+
+#. ID 292
+msgid "0291)Q.Mark-Pipes"
+msgstr ""
+
+#. ID 293
+msgid "0292)Q.Mark-Astral Ruins"
+msgstr ""
+
+#. ID 294
+msgid "0293)Q.Mark-ConcreteTree"
+msgstr ""
+
+#. ID 295
+msgid "0294)Q.Mark-Cctreein"
+msgstr ""
+
+#. ID 296
+msgid "0295)Q.Mark-NeonVillage"
+msgstr ""
+
+#. ID 297
+msgid "0296)Q.Mark-insides"
+msgstr ""
+
+#. ID 298
+msgid "0297)Q.Mark-Neon Arcadea"
+msgstr ""
+
+#. ID 299
+msgid "0298)Q.Mark-9"
+msgstr ""
+
+#. ID 300
+msgid "0299)Q.Mark-10"
+msgstr ""
+
+#. ID 301
+msgid "0300)Smilecat98-1"
+msgstr ""
+
+#. ID 302
+msgid "0301)Smilecat98-2"
+msgstr ""
+
+#. ID 303
+msgid "0302)Smilecat98-3"
+msgstr ""
+
+#. ID 304
+msgid "0303)Smilecat98-4"
+msgstr ""
+
+#. ID 305
+msgid "0304)Smilecat98-5"
+msgstr ""
+
+#. ID 306
+msgid "0305)Smilecat98-6"
+msgstr ""
+
+#. ID 307
+msgid "0306)Smilecat98-7"
+msgstr ""
+
+#. ID 308
+msgid "0307)Smilecat98-8"
+msgstr ""
+
+#. ID 309
+msgid "0308)Smilecat98-9"
+msgstr ""
+
+#. ID 310
+msgid "0309)Smilecat98-10"
+msgstr ""
+
+#. ID 311
+msgid "0310)stylzm-StoneWastes"
+msgstr ""
+
+#. ID 312
+msgid "0311)stylzm-StangePlants"
+msgstr ""
+
+#. ID 313
+msgid "0312)stylzm-Street"
+msgstr ""
+
+#. ID 314
+msgid "0313)stylzm-basementshop"
+msgstr ""
+
+#. ID 315
+msgid "0314)stylzm-machineroom"
+msgstr ""
+
+#. ID 316
+msgid "0315)stylzm-6"
+msgstr ""
+
+#. ID 317
+msgid "0316)stylzm-7"
+msgstr ""
+
+#. ID 318
+msgid "0317)stylzm-8"
+msgstr ""
+
+#. ID 319
+msgid "0318)stylzm-9"
+msgstr ""
+
+#. ID 320
+msgid "0319)stylzm-10"
+msgstr ""
+
+#. ID 321
+msgid "0320)arham-1"
+msgstr ""
+
+#. ID 322
+msgid "0321)arham-2"
+msgstr ""
+
+#. ID 323
+msgid "0322)arham-3"
+msgstr ""
+
+#. ID 324
+msgid "0323)arham-4"
+msgstr ""
+
+#. ID 325
+msgid "0324)arham-5"
+msgstr ""
+
+#. ID 326
+msgid "0325)arham-6"
+msgstr ""
+
+#. ID 327
+msgid "0326)arham-7"
+msgstr ""
+
+#. ID 328
+msgid "0327)arham-8"
+msgstr ""
+
+#. ID 329
+msgid "0328)arham-9"
+msgstr ""
+
+#. ID 330
+msgid "0329)arham-10"
+msgstr ""
+
+#. ID 331
+msgid "0330)Nexus-cook"
+msgstr ""
+
+#. ID 332
+msgid "0331)Nexus-wednesday"
+msgstr ""
+
+#. ID 333
+msgid "0332)Nexus-restaurant"
+msgstr ""
+
+#. ID 334
+msgid "0333)Nexus-Climbin"
+msgstr ""
+
+#. ID 335
+msgid "0334)Nexus-TopOfSlide"
+msgstr ""
+
+#. ID 336
+msgid "0335)Nexus-SunBegin"
+msgstr ""
+
+#. ID 337
+msgid "0336)Rurima-Corroer"
+msgstr ""
+
+#. ID 338
+msgid "0337)Rurima-You are."
+msgstr ""
+
+#. ID 339
+msgid "0338)Rurima-House rooms"
+msgstr ""
+
+#. ID 340
+msgid "0339)Rurima-Endless"
+msgstr ""
+
+#. ID 341
+msgid "0340)Rurima-Tower roof"
+msgstr ""
+
+#. ID 342
+msgid "0341)Rurima-6"
+msgstr ""
+
+#. ID 343
+msgid "0342)Rurima-7"
+msgstr ""
+
+#. ID 344
+msgid "0343)Rurima-8"
+msgstr ""
+
+#. ID 345
+msgid "0344)Rurima-9"
+msgstr ""
+
+#. ID 346
+msgid "0345)Rurima-10"
+msgstr ""
+
+#. ID 347
+msgid "0346)"
+msgstr ""
+
+#. ID 348
+msgid "0347)"
+msgstr ""
+
+#. ID 349
+msgid "0348)"
+msgstr ""
+
+#. ID 350
+msgid "0349)"
+msgstr ""
+
+#. ID 351
+msgid "0350)gummy-derangedfaces"
+msgstr ""
+
+#. ID 352
+msgid "0351)gummy-abandonedpool"
+msgstr ""
+
+#. ID 353
+msgid "0352)gummy-cliffsidetemp"
+msgstr ""
+
+#. ID 354
+msgid "0353)gummy-barcode world"
+msgstr ""
+
+#. ID 355
+msgid "0354)gummy-underwatersub"
+msgstr ""
+
+#. ID 356
+msgid "0355)gummy-puppettheater"
+msgstr ""
+
+#. ID 357
+msgid "0356)gummy-hotel"
+msgstr ""
+
+#. ID 358
+msgid "0357)gummy-pinballmachin"
+msgstr ""
+
+#. ID 359
+msgid "0358)gummy-tranquil1"
+msgstr ""
+
+#. ID 360
+msgid "0359)gummy-tranquil2"
+msgstr ""
+
