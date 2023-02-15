@@ -32,7 +32,7 @@ msgstr "Xe máy"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Hai chùm"
+msgstr "Hai chùm "
 
 #. ID 5, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -48,7 +48,7 @@ msgstr "Mắt kính"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "はにわ"
-msgstr "Haniwa"
+msgstr "Haniwa "
 
 #. ID 5, Page 2, Line 27, Pos (13,5)
 #. ChangeHeroName (Actor 3)
