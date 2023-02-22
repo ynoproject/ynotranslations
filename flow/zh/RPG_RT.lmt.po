@@ -1,0 +1,1119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "はじめて"
+msgstr ""
+
+#. ID 3
+msgid "自室"
+msgstr ""
+
+#. ID 4
+msgid "デバッグルーム"
+msgstr ""
+
+#. ID 5
+msgid "フロウ"
+msgstr ""
+
+#. ID 6
+msgid "エントランス"
+msgstr ""
+
+#. ID 7
+msgid "マイルーム"
+msgstr ""
+
+#. ID 8
+msgid "ベランダf"
+msgstr ""
+
+#. ID 9
+msgid "音楽"
+msgstr ""
+
+#. ID 10
+msgid "植物"
+msgstr ""
+
+#. ID 11
+msgid "外"
+msgstr ""
+
+#. ID 12
+msgid "電柱"
+msgstr ""
+
+#. ID 13
+msgid "奇形"
+msgstr ""
+
+#. ID 14
+msgid "つなぎタイル"
+msgstr ""
+
+#. ID 15
+msgid "つなぎタイル2"
+msgstr ""
+
+#. ID 16
+msgid "繋ぎ階段"
+msgstr ""
+
+#. ID 17
+msgid "アパート"
+msgstr ""
+
+#. ID 18
+#. ID 144
+#. ID 222
+msgid "笑顔"
+msgstr ""
+
+#. ID 19
+msgid "笑顔２"
+msgstr ""
+
+#. ID 20
+msgid "笑顔３"
+msgstr ""
+
+#. ID 21
+msgid "学校エントランス"
+msgstr ""
+
+#. ID 22
+msgid "つなぎ海岸"
+msgstr ""
+
+#. ID 23
+msgid "海底世界"
+msgstr ""
+
+#. ID 24
+msgid "ミニゲーム"
+msgstr ""
+
+#. ID 25
+msgid "海低広場"
+msgstr ""
+
+#. ID 26
+msgid "海底砂漠"
+msgstr ""
+
+#. ID 27
+msgid "海底都市"
+msgstr ""
+
+#. ID 28
+msgid "ＴＶ"
+msgstr ""
+
+#. ID 29
+#. ID 97
+msgid "オレンジ"
+msgstr ""
+
+#. ID 30
+msgid "room1"
+msgstr ""
+
+#. ID 31
+msgid "入り口"
+msgstr ""
+
+#. ID 32
+msgid "room2"
+msgstr ""
+
+#. ID 33
+msgid "room3"
+msgstr ""
+
+#. ID 34
+#. ID 39
+msgid "room4"
+msgstr ""
+
+#. ID 35
+msgid "room5"
+msgstr ""
+
+#. ID 36
+msgid "room6"
+msgstr ""
+
+#. ID 37
+msgid "room7"
+msgstr ""
+
+#. ID 38
+msgid "room8"
+msgstr ""
+
+#. ID 40
+#. ID 55
+#. ID 248
+msgid "廊下"
+msgstr ""
+
+#. ID 41
+#. ID 42
+#. ID 95
+msgid "階段"
+msgstr ""
+
+#. ID 43
+#. ID 249
+msgid "部屋2"
+msgstr ""
+
+#. ID 44
+#. ID 96
+msgid "目"
+msgstr ""
+
+#. ID 45
+#. ID 65
+msgid "屋上階段"
+msgstr ""
+
+#. ID 46
+#. ID 56
+#. ID 212
+msgid "屋上"
+msgstr ""
+
+#. ID 47
+msgid "回路"
+msgstr ""
+
+#. ID 48
+msgid "白い部屋"
+msgstr ""
+
+#. ID 49
+msgid "白い十字路"
+msgstr ""
+
+#. ID 50
+msgid "白い十字路2"
+msgstr ""
+
+#. ID 51
+msgid "白い十字路3"
+msgstr ""
+
+#. ID 52
+msgid "回路血液通路↑"
+msgstr ""
+
+#. ID 53
+msgid "回路寝室"
+msgstr ""
+
+#. ID 54
+msgid "裏アパート"
+msgstr ""
+
+#. ID 57
+msgid "血液"
+msgstr ""
+
+#. ID 58
+msgid "?、0"
+msgstr ""
+
+#. ID 59
+msgid "?、1"
+msgstr ""
+
+#. ID 60
+msgid "うで"
+msgstr ""
+
+#. ID 61
+msgid "電気"
+msgstr ""
+
+#. ID 62
+msgid "電気青"
+msgstr ""
+
+#. ID 63
+msgid "海底回路"
+msgstr ""
+
+#. ID 64
+msgid "水牢入り口"
+msgstr ""
+
+#. ID 66
+msgid "足跡"
+msgstr ""
+
+#. ID 67
+msgid "混雑足跡"
+msgstr ""
+
+#. ID 68
+msgid "オレンジ回路"
+msgstr ""
+
+#. ID 69
+msgid "弾幕"
+msgstr ""
+
+#. ID 70
+msgid "海底エレベータ"
+msgstr ""
+
+#. ID 71
+msgid "雲"
+msgstr ""
+
+#. ID 72
+msgid "umi"
+msgstr ""
+
+#. ID 73
+msgid "?、2"
+msgstr ""
+
+#. ID 74
+msgid "雲２"
+msgstr ""
+
+#. ID 75
+msgid "FC魔女"
+msgstr ""
+
+#. ID 76
+msgid "砂嵐"
+msgstr ""
+
+#. ID 77
+msgid "魔女の家"
+msgstr ""
+
+#. ID 78
+msgid "umi2"
+msgstr ""
+
+#. ID 79
+msgid "umiheya"
+msgstr ""
+
+#. ID 80
+msgid "umi3"
+msgstr ""
+
+#. ID 81
+msgid "?、3"
+msgstr ""
+
+#. ID 82
+msgid "オレンジ回路２"
+msgstr ""
+
+#. ID 83
+msgid "内"
+msgstr ""
+
+#. ID 84
+msgid "学校地下"
+msgstr ""
+
+#. ID 85
+msgid "沼地植物"
+msgstr ""
+
+#. ID 86
+msgid "オレンジ回路出口"
+msgstr ""
+
+#. ID 87
+msgid "内部"
+msgstr ""
+
+#. ID 88
+msgid "花"
+msgstr ""
+
+#. ID 89
+msgid "虹"
+msgstr ""
+
+#. ID 90
+msgid "虹2"
+msgstr ""
+
+#. ID 91
+msgid "虹3"
+msgstr ""
+
+#. ID 92
+msgid "虹4"
+msgstr ""
+
+#. ID 93
+msgid "虹の丘"
+msgstr ""
+
+#. ID 94
+msgid "?、4"
+msgstr ""
+
+#. ID 98
+msgid "?、5"
+msgstr ""
+
+#. ID 99
+msgid "オレンジ2"
+msgstr ""
+
+#. ID 100
+msgid "オレンジ3"
+msgstr ""
+
+#. ID 101
+msgid "体内a"
+msgstr ""
+
+#. ID 102
+msgid "体内b"
+msgstr ""
+
+#. ID 103
+msgid "体内c"
+msgstr ""
+
+#. ID 104
+msgid "体内?"
+msgstr ""
+
+#. ID 105
+msgid "ほうき飛行"
+msgstr ""
+
+#. ID 106
+msgid "ベランダ"
+msgstr ""
+
+#. ID 107
+msgid "ブルーホール"
+msgstr ""
+
+#. ID 108
+msgid "裏足跡"
+msgstr ""
+
+#. ID 109
+msgid "下水道"
+msgstr ""
+
+#. ID 110
+msgid "下水道b"
+msgstr ""
+
+#. ID 111
+msgid "下水道c"
+msgstr ""
+
+#. ID 112
+msgid "下水道d"
+msgstr ""
+
+#. ID 113
+#. ID 146
+#. ID 241
+msgid "鬼"
+msgstr ""
+
+#. ID 114
+msgid "植物回路"
+msgstr ""
+
+#. ID 115
+msgid "植物回路2"
+msgstr ""
+
+#. ID 116
+#. ID 191
+msgid "植物部屋"
+msgstr ""
+
+#. ID 117
+msgid "植物深部"
+msgstr ""
+
+#. ID 118
+msgid "触手･植物"
+msgstr ""
+
+#. ID 119
+msgid "触手行き"
+msgstr ""
+
+#. ID 120
+msgid "植物回路最深部"
+msgstr ""
+
+#. ID 121
+msgid "廃水"
+msgstr ""
+
+#. ID 122
+msgid "血液2"
+msgstr ""
+
+#. ID 123
+msgid "廃水湖"
+msgstr ""
+
+#. ID 124
+msgid "パイプの中"
+msgstr ""
+
+#. ID 125
+msgid "つなぎ"
+msgstr ""
+
+#. ID 126
+msgid "微生物"
+msgstr ""
+
+#. ID 127
+msgid "微生物　表"
+msgstr ""
+
+#. ID 128
+msgid "微生物 裏"
+msgstr ""
+
+#. ID 129
+#. ID 175
+#. ID 201
+#. ID 260
+msgid "通路"
+msgstr ""
+
+#. ID 130
+msgid "同盟"
+msgstr ""
+
+#. ID 131
+msgid "小部屋"
+msgstr ""
+
+#. ID 132
+msgid "花子"
+msgstr ""
+
+#. ID 133
+msgid "同盟2"
+msgstr ""
+
+#. ID 134
+#. ID 242
+msgid "掃除"
+msgstr ""
+
+#. ID 135
+msgid "掃除2"
+msgstr ""
+
+#. ID 136
+msgid "水深"
+msgstr ""
+
+#. ID 137
+msgid "悲愴"
+msgstr ""
+
+#. ID 138
+msgid "嘔吐"
+msgstr ""
+
+#. ID 139
+msgid "血、膿、錆"
+msgstr ""
+
+#. ID 140
+msgid "おいかけっこ2"
+msgstr ""
+
+#. ID 141
+msgid "鬼子"
+msgstr ""
+
+#. ID 142
+msgid "体内e"
+msgstr ""
+
+#. ID 143
+msgid "胎内迷宮"
+msgstr ""
+
+#. ID 145
+msgid "笑顔2"
+msgstr ""
+
+#. ID 147
+#. ID 216
+msgid "鬼2"
+msgstr ""
+
+#. ID 148
+#. ID 221
+msgid "無垢"
+msgstr ""
+
+#. ID 149
+msgid "無垢2"
+msgstr ""
+
+#. ID 150
+msgid "無垢3"
+msgstr ""
+
+#. ID 151
+msgid "水牢"
+msgstr ""
+
+#. ID 152
+msgid "水牢閉じ込め"
+msgstr ""
+
+#. ID 153
+msgid "末路"
+msgstr ""
+
+#. ID 154
+msgid "地獄"
+msgstr ""
+
+#. ID 155
+msgid "sugars hole"
+msgstr ""
+
+#. ID 156
+msgid "下水道e"
+msgstr ""
+
+#. ID 157
+msgid "サイケデリック街港"
+msgstr ""
+
+#. ID 158
+msgid "虹5"
+msgstr ""
+
+#. ID 159
+msgid "虹6"
+msgstr ""
+
+#. ID 160
+msgid "虹5?"
+msgstr ""
+
+#. ID 161
+msgid "通り"
+msgstr ""
+
+#. ID 162
+msgid "路地"
+msgstr ""
+
+#. ID 163
+msgid "サイケデリック街"
+msgstr ""
+
+#. ID 164
+msgid "花畑"
+msgstr ""
+
+#. ID 165
+msgid "サイケデリック屋上"
+msgstr ""
+
+#. ID 166
+msgid "始末"
+msgstr ""
+
+#. ID 167
+msgid "ホール"
+msgstr ""
+
+#. ID 168
+msgid "ゴミ"
+msgstr ""
+
+#. ID 169
+msgid "病院"
+msgstr ""
+
+#. ID 170
+msgid "病院２"
+msgstr ""
+
+#. ID 171
+msgid "手術"
+msgstr ""
+
+#. ID 172
+msgid "モルグ"
+msgstr ""
+
+#. ID 173
+msgid "医者"
+msgstr ""
+
+#. ID 174
+msgid "悲愴2"
+msgstr ""
+
+#. ID 176
+msgid "雪"
+msgstr ""
+
+#. ID 177
+msgid "中1"
+msgstr ""
+
+#. ID 178
+msgid "中2"
+msgstr ""
+
+#. ID 179
+msgid "中3"
+msgstr ""
+
+#. ID 180
+msgid "中4"
+msgstr ""
+
+#. ID 181
+msgid "廃棄場所"
+msgstr ""
+
+#. ID 182
+msgid "オレンジ地下通路"
+msgstr ""
+
+#. ID 183
+msgid "おいかけっこ1"
+msgstr ""
+
+#. ID 184
+msgid "裏病棟入り口"
+msgstr ""
+
+#. ID 185
+msgid "fc"
+msgstr ""
+
+#. ID 186
+msgid "植物煙突"
+msgstr ""
+
+#. ID 187
+msgid "幻想地帯"
+msgstr ""
+
+#. ID 188
+msgid "幻想階段"
+msgstr ""
+
+#. ID 189
+msgid "幻想廊下"
+msgstr ""
+
+#. ID 190
+msgid "幻想廊下2"
+msgstr ""
+
+#. ID 192
+msgid "裏病棟過去"
+msgstr ""
+
+#. ID 193
+msgid "幻想植物"
+msgstr ""
+
+#. ID 194
+msgid "幻想植物2"
+msgstr ""
+
+#. ID 195
+msgid "幻想回路"
+msgstr ""
+
+#. ID 196
+msgid "裏病棟"
+msgstr ""
+
+#. ID 197
+msgid "幻想回路2"
+msgstr ""
+
+#. ID 198
+msgid "空室"
+msgstr ""
+
+#. ID 199
+msgid "落日"
+msgstr ""
+
+#. ID 200
+msgid "エレベーター"
+msgstr ""
+
+#. ID 202
+#. ID 273
+msgid "道"
+msgstr ""
+
+#. ID 203
+msgid "錆"
+msgstr ""
+
+#. ID 204
+msgid "妊婦"
+msgstr ""
+
+#. ID 205
+msgid "パレード・病棟"
+msgstr ""
+
+#. ID 206
+msgid "青通路"
+msgstr ""
+
+#. ID 207
+msgid "学校"
+msgstr ""
+
+#. ID 208
+msgid "学校1F"
+msgstr ""
+
+#. ID 209
+msgid "学校裏エントランス"
+msgstr ""
+
+#. ID 210
+msgid "学校2F"
+msgstr ""
+
+#. ID 211
+msgid "学校最深部"
+msgstr ""
+
+#. ID 213
+msgid "隣人"
+msgstr ""
+
+#. ID 214
+msgid "家"
+msgstr ""
+
+#. ID 215
+msgid "兄妹"
+msgstr ""
+
+#. ID 217
+msgid "鬼3"
+msgstr ""
+
+#. ID 218
+msgid "おいかけっこ3"
+msgstr ""
+
+#. ID 219
+msgid "おいかけっこ4"
+msgstr ""
+
+#. ID 220
+msgid "学校裏深部"
+msgstr ""
+
+#. ID 223
+msgid "マイルーム　錆"
+msgstr ""
+
+#. ID 224
+msgid "ベランダf　錆"
+msgstr ""
+
+#. ID 225
+msgid "rust2"
+msgstr ""
+
+#. ID 226
+msgid "エレベーターrust"
+msgstr ""
+
+#. ID 227
+msgid "rust"
+msgstr ""
+
+#. ID 228
+msgid "井戸"
+msgstr ""
+
+#. ID 229
+msgid "小道"
+msgstr ""
+
+#. ID 230
+msgid "機械民族"
+msgstr ""
+
+#. ID 231
+msgid "ワープ"
+msgstr ""
+
+#. ID 232
+msgid "地下"
+msgstr ""
+
+#. ID 233
+msgid "地下2"
+msgstr ""
+
+#. ID 234
+msgid "地下３"
+msgstr ""
+
+#. ID 235
+msgid "地下４"
+msgstr ""
+
+#. ID 236
+msgid "？"
+msgstr ""
+
+#. ID 237
+msgid "rust4"
+msgstr ""
+
+#. ID 238
+msgid "rust5"
+msgstr ""
+
+#. ID 239
+msgid "rust3"
+msgstr ""
+
+#. ID 240
+msgid "sweet sugar"
+msgstr ""
+
+#. ID 243
+msgid "ED"
+msgstr ""
+
+#. ID 244
+msgid "病室"
+msgstr ""
+
+#. ID 245
+msgid "昔話"
+msgstr ""
+
+#. ID 246
+msgid "お手洗い"
+msgstr ""
+
+#. ID 247
+#. ID 284
+msgid "部屋"
+msgstr ""
+
+#. ID 250
+msgid "部屋3"
+msgstr ""
+
+#. ID 251
+msgid "部屋4"
+msgstr ""
+
+#. ID 252
+msgid "おなご"
+msgstr ""
+
+#. ID 253
+msgid "病室2"
+msgstr ""
+
+#. ID 254
+msgid "病室3"
+msgstr ""
+
+#. ID 255
+msgid "病室4"
+msgstr ""
+
+#. ID 256
+msgid "MAP0255"
+msgstr ""
+
+#. ID 257
+msgid "青地下通路"
+msgstr ""
+
+#. ID 258
+#. ID 262
+msgid "バグ"
+msgstr ""
+
+#. ID 259
+msgid "祭壇"
+msgstr ""
+
+#. ID 261
+msgid "焚き火"
+msgstr ""
+
+#. ID 263
+msgid "deadhole"
+msgstr ""
+
+#. ID 264
+msgid "倉庫"
+msgstr ""
+
+#. ID 265
+msgid "倉庫2"
+msgstr ""
+
+#. ID 266
+msgid "sugar float days"
+msgstr ""
+
+#. ID 267
+msgid "扉"
+msgstr ""
+
+#. ID 268
+msgid "侵食"
+msgstr ""
+
+#. ID 269
+msgid "海底集落"
+msgstr ""
+
+#. ID 270
+msgid "hole in girl"
+msgstr ""
+
+#. ID 271
+msgid "vomitgirl"
+msgstr ""
+
+#. ID 272
+msgid "hill"
+msgstr ""
+
+#. ID 274
+msgid "街1"
+msgstr ""
+
+#. ID 275
+msgid "街2"
+msgstr ""
+
+#. ID 276
+msgid "街3"
+msgstr ""
+
+#. ID 277
+msgid "街4"
+msgstr ""
+
+#. ID 278
+msgid "街5"
+msgstr ""
+
+#. ID 279
+msgid "迷路"
+msgstr ""
+
+#. ID 280
+msgid "集落へ"
+msgstr ""
+
+#. ID 281
+msgid "MAP0280"
+msgstr ""
+
+#. ID 282
+msgid "集落つなぎ"
+msgstr ""
+
+#. ID 283
+msgid "オキガエ"
+msgstr ""
+
+#. ID 285
+msgid "?、6"
+msgstr ""
+
+#. ID 286
+msgid "MAP0285"
+msgstr ""
+
+#. ID 287
+msgid "処理"
+msgstr ""
+
+#. ID 288
+msgid "触手通路"
+msgstr ""
+
+#. ID 289
+msgid "黒フード"
+msgstr ""
+
+#. ID 290
+msgid "梯子"
+msgstr ""
+
+#. ID 291
+msgid "退廃"
+msgstr ""
+
+#. ID 292
+msgid "退廃アパート"
+msgstr ""
+
+#. ID 293
+msgid "退廃廊下"
+msgstr ""
+
+#. ID 294
+msgid "0"
+msgstr ""
+
+#. ID 295
+msgid "1"
+msgstr ""
+
+#. ID 296
+msgid "3"
+msgstr ""
+
+#. ID 297
+msgid "2"
+msgstr ""
+
