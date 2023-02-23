@@ -1,0 +1,1593 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Mariana"
+msgstr "마리아나"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Deep Sleeper"
+msgstr "숙면자"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "Wake Up"
+msgstr "기상하기"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Instructions"
+msgstr "설명서"
+
+#. ID 1
+msgctxt "items.name"
+msgid "Monochromatic"
+msgstr "단채색"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Turns me greyscale"
+msgstr "나를 흑백으로 바꾼다"
+
+#. ID 2
+msgctxt "items.name"
+msgid "Pastel"
+msgstr "파스텔"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Turns me pastel"
+msgstr "나를 파스텔 빛으로 바꾼다"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Vortex"
+msgstr "회오리"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Holding the space bar lets me warp to the Nexus"
+msgstr "스페이스 바를 꾹 누르면 나를 문의 방으로 옮겨준다"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Damage"
+msgstr "데미지"
+
+#. ID 4
+msgctxt "items.description"
+msgid "Lets me kill other people"
+msgstr "다른 사람을 죽일 수 있게 만든다"
+
+#. ID 5
+msgctxt "items.name"
+msgid "Verdant"
+msgstr "심록빛"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Holding the space bar lets me attract other people"
+msgstr "스페이스 바를 꾹 누르면 다른 사람들을 매혹시킨다"
+
+#. ID 6
+msgctxt "items.name"
+msgid "Toxic"
+msgstr "유독성"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Repels and protects me from Plague Nurses"
+msgstr "역병 간호사들을 내쫓아내어 나를 보호한다"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Nostalgic"
+msgstr "그리움"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Dresses me in yesteryear's fashions"
+msgstr "나에게 복고풍 의상을 입게 만든다"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Glassy"
+msgstr "글라스"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Lights my way in dark areas"
+msgstr "어두운 곳에서 내가 가는 길을 밝혀준다"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Metallic"
+msgstr "금속제"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Turns me into an android"
+msgstr "나를 안드로이드로 바꾼다"
+
+#. ID 10
+msgctxt "items.name"
+msgid "Gelatinous"
+msgstr "젤라틴"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Turns me into blue jelly"
+msgstr "나를 파란 젤리로 바꾼다"
+
+#. ID 11
+msgctxt "items.name"
+msgid "Celestial"
+msgstr "천상체"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Turns me into a living night sky"
+msgstr "나를 밤하늘의 생명체로 바꾼다"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Apparition"
+msgstr "환영체"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Makes me invisible to almost everyone"
+msgstr "나를 대부분의 사람들에게 보이지 않게 한다"
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "Ariman"
+msgstr ""
+
+#. ID 2
+msgctxt "enemies.name"
+msgid "Asura"
+msgstr ""
+
+#. ID 3
+msgctxt "enemies.name"
+msgid "Anaconda"
+msgstr ""
+
+#. ID 4
+msgctxt "enemies.name"
+msgid "Alligator"
+msgstr ""
+
+#. ID 5
+msgctxt "enemies.name"
+msgid "Undead Knight"
+msgstr ""
+
+#. ID 6
+msgctxt "enemies.name"
+msgid "Efreet"
+msgstr ""
+
+#. ID 7
+msgctxt "enemies.name"
+msgid "Imp"
+msgstr ""
+
+#. ID 8
+msgctxt "enemies.name"
+msgid "Vampire"
+msgstr ""
+
+#. ID 9
+msgctxt "enemies.name"
+msgid "Nightmare"
+msgstr ""
+
+#. ID 10
+msgctxt "enemies.name"
+msgid "Oroboros"
+msgstr ""
+
+#. ID 11
+msgctxt "enemies.name"
+msgid "Elf"
+msgstr ""
+
+#. ID 12
+msgctxt "enemies.name"
+msgid "Ogre"
+msgstr ""
+
+#. ID 13
+msgctxt "enemies.name"
+msgid "Orc"
+msgstr ""
+
+#. ID 14
+msgctxt "enemies.name"
+msgid "Odin"
+msgstr ""
+
+#. ID 15
+msgctxt "enemies.name"
+msgid "Octopus"
+msgstr ""
+
+#. ID 16
+msgctxt "enemies.name"
+msgid "Oni"
+msgstr ""
+
+#. ID 17
+msgctxt "enemies.name"
+msgid "Gargoyle"
+msgstr ""
+
+#. ID 18
+msgctxt "enemies.name"
+msgid "Carbuncle"
+msgstr ""
+
+#. ID 19
+msgctxt "enemies.name"
+msgid "Cojuerer"
+msgstr ""
+
+#. ID 20
+msgctxt "enemies.name"
+msgid "Kappa"
+msgstr ""
+
+#. ID 21
+msgctxt "enemies.name"
+msgid "Catoblepas"
+msgstr ""
+
+#. ID 22
+msgctxt "enemies.name"
+msgid "Garuda"
+msgstr ""
+
+#. ID 23
+msgctxt "enemies.name"
+msgid "Chimera"
+msgstr ""
+
+#. ID 24
+msgctxt "enemies.name"
+msgid "Nine-Tail Fox"
+msgstr ""
+
+#. ID 25
+msgctxt "enemies.name"
+msgid "Ki-Rin"
+msgstr ""
+
+#. ID 26
+msgctxt "enemies.name"
+msgid "Ghoul"
+msgstr ""
+
+#. ID 27
+msgctxt "enemies.name"
+msgid "Kraken"
+msgstr ""
+
+#. ID 28
+msgctxt "enemies.name"
+msgid "Cancer"
+msgstr ""
+
+#. ID 29
+msgctxt "enemies.name"
+msgid "Griffon"
+msgstr ""
+
+#. ID 30
+msgctxt "enemies.name"
+msgid "Grell"
+msgstr ""
+
+#. ID 31
+msgctxt "enemies.name"
+msgid "Crawler"
+msgstr ""
+
+#. ID 32
+msgctxt "enemies.name"
+msgid "Death Gaze"
+msgstr ""
+
+#. ID 33
+msgctxt "enemies.name"
+msgid "Quetzalcoatl"
+msgstr ""
+
+#. ID 34
+msgctxt "enemies.name"
+msgid "Cait Sith"
+msgstr ""
+
+#. ID 35
+msgctxt "enemies.name"
+msgid "Cerberus"
+msgstr ""
+
+#. ID 36
+msgctxt "enemies.name"
+msgid "Centaur"
+msgstr ""
+
+#. ID 37
+msgctxt "enemies.name"
+msgid "Black Turtle"
+msgstr ""
+
+#. ID 38
+msgctxt "enemies.name"
+msgid "Gorgon"
+msgstr ""
+
+#. ID 39
+msgctxt "enemies.name"
+msgid "Golem"
+msgstr ""
+
+#. ID 40
+msgctxt "enemies.name"
+msgid "Ghost"
+msgstr ""
+
+#. ID 41
+msgctxt "enemies.name"
+msgid "Cockatrice"
+msgstr ""
+
+#. ID 42
+msgctxt "enemies.name"
+msgid "Goblin"
+msgstr ""
+
+#. ID 43
+msgctxt "enemies.name"
+msgid "Kobold"
+msgstr ""
+
+#. ID 44
+msgctxt "enemies.name"
+msgid "Cyclops"
+msgstr ""
+
+#. ID 45
+msgctxt "enemies.name"
+msgid "Satan"
+msgstr ""
+
+#. ID 46
+msgctxt "enemies.name"
+msgid "Sahagin"
+msgstr ""
+
+#. ID 47
+msgctxt "enemies.name"
+msgid "Salamander"
+msgstr ""
+
+#. ID 48
+msgctxt "enemies.name"
+msgid "Shark"
+msgstr ""
+
+#. ID 49
+msgctxt "enemies.name"
+msgid "Giant"
+msgstr ""
+
+#. ID 50
+msgctxt "enemies.name"
+msgid "Jack-o-Lantern"
+msgstr ""
+
+#. ID 51
+msgctxt "enemies.name"
+msgid "Shadow"
+msgstr ""
+
+#. ID 52
+msgctxt "enemies.name"
+msgid "Sylph"
+msgstr ""
+
+#. ID 53
+msgctxt "enemies.name"
+msgid "Scylla"
+msgstr ""
+
+#. ID 54
+msgctxt "enemies.name"
+msgid "Skeleton"
+msgstr ""
+
+#. ID 55
+msgctxt "enemies.name"
+msgid "Scorpion"
+msgstr ""
+
+#. ID 56
+msgctxt "enemies.name"
+msgid "Red Sparrow"
+msgstr ""
+
+#. ID 57
+msgctxt "enemies.name"
+msgid "Snake"
+msgstr ""
+
+#. ID 58
+msgctxt "enemies.name"
+msgid "Spirit"
+msgstr ""
+
+#. ID 59
+msgctxt "enemies.name"
+msgid "Sphinx"
+msgstr ""
+
+#. ID 60
+msgctxt "enemies.name"
+msgid "Specter"
+msgstr ""
+
+#. ID 61
+msgctxt "enemies.name"
+msgid "Slime"
+msgstr ""
+
+#. ID 62
+msgctxt "enemies.name"
+msgid "Siren"
+msgstr ""
+
+#. ID 63
+msgctxt "enemies.name"
+msgid "Seraph"
+msgstr ""
+
+#. ID 64
+msgctxt "enemies.name"
+msgid "Centipede"
+msgstr ""
+
+#. ID 65
+msgctxt "enemies.name"
+msgid "Sorcerer"
+msgstr ""
+
+#. ID 66
+msgctxt "enemies.name"
+msgid "Zombie"
+msgstr ""
+
+#. ID 67
+msgctxt "enemies.name"
+msgid "Dark Elf"
+msgstr ""
+
+#. ID 68
+msgctxt "enemies.name"
+msgid "Dark Knight"
+msgstr ""
+
+#. ID 69
+msgctxt "enemies.name"
+msgid "Titan"
+msgstr ""
+
+#. ID 70
+msgctxt "enemies.name"
+msgid "Tarantula"
+msgstr ""
+
+#. ID 71
+msgctxt "enemies.name"
+msgid "Tiamat"
+msgstr ""
+
+#. ID 72
+msgctxt "enemies.name"
+msgid "Demon"
+msgstr ""
+
+#. ID 73
+msgctxt "enemies.name"
+msgid "Toad"
+msgstr ""
+
+#. ID 74
+msgctxt "enemies.name"
+msgid "Dragon"
+msgstr ""
+
+#. ID 75
+msgctxt "enemies.name"
+msgid "Dragon Knight"
+msgstr ""
+
+#. ID 76
+msgctxt "enemies.name"
+msgid "Treant"
+msgstr ""
+
+#. ID 77
+msgctxt "enemies.name"
+msgid "Troll"
+msgstr ""
+
+#. ID 78
+msgctxt "enemies.name"
+msgid "Necromancer"
+msgstr ""
+
+#. ID 79
+msgctxt "enemies.name"
+msgid "Nepenthe"
+msgstr ""
+
+#. ID 80
+msgctxt "enemies.name"
+msgid "Berserker"
+msgstr ""
+
+#. ID 81
+msgctxt "enemies.name"
+msgid "Harpy"
+msgstr ""
+
+#. ID 82
+msgctxt "enemies.name"
+msgid "Basilisk"
+msgstr ""
+
+#. ID 83
+msgctxt "enemies.name"
+msgid "Bat"
+msgstr ""
+
+#. ID 84
+msgctxt "enemies.name"
+msgid "Bahamut"
+msgstr ""
+
+#. ID 85
+msgctxt "enemies.name"
+msgid "Parasite"
+msgstr ""
+
+#. ID 86
+msgctxt "enemies.name"
+msgid "Bigfoot"
+msgstr ""
+
+#. ID 87
+msgctxt "enemies.name"
+msgid "White Tiger"
+msgstr ""
+
+#. ID 88
+msgctxt "enemies.name"
+msgid "Hydra"
+msgstr ""
+
+#. ID 89
+msgctxt "enemies.name"
+msgid "Phoneix"
+msgstr ""
+
+#. ID 90
+msgctxt "enemies.name"
+msgid "Fenrir"
+msgstr ""
+
+#. ID 91
+msgctxt "enemies.name"
+msgid "Behemoth"
+msgstr ""
+
+#. ID 92
+msgctxt "enemies.name"
+msgid "Hornet"
+msgstr ""
+
+#. ID 93
+msgctxt "enemies.name"
+msgid "Manticore"
+msgstr ""
+
+#. ID 94
+msgctxt "enemies.name"
+msgid "Mantis"
+msgstr ""
+
+#. ID 95
+msgctxt "enemies.name"
+msgid "Mammoth"
+msgstr ""
+
+#. ID 96
+msgctxt "enemies.name"
+msgid "Mummy"
+msgstr ""
+
+#. ID 97
+msgctxt "enemies.name"
+msgid "Midgard Serpant"
+msgstr ""
+
+#. ID 98
+msgctxt "enemies.name"
+msgid "Minotaur"
+msgstr ""
+
+#. ID 99
+msgctxt "enemies.name"
+msgid "Mimic"
+msgstr ""
+
+#. ID 100
+msgctxt "enemies.name"
+msgid "Medusa"
+msgstr ""
+
+#. ID 101
+msgctxt "enemies.name"
+msgid "Lillith"
+msgstr ""
+
+#. ID 102
+msgctxt "enemies.name"
+msgid "Unicorn"
+msgstr ""
+
+#. ID 103
+msgctxt "enemies.name"
+msgid "Rakashimi"
+msgstr ""
+
+#. ID 104
+msgctxt "enemies.name"
+msgid "Lamia"
+msgstr ""
+
+#. ID 105
+msgctxt "enemies.name"
+msgid "Leviathan"
+msgstr ""
+
+#. ID 106
+msgctxt "enemies.name"
+msgid "Lizard"
+msgstr ""
+
+#. ID 107
+msgctxt "enemies.name"
+msgid "Lizard Man"
+msgstr ""
+
+#. ID 108
+msgctxt "enemies.name"
+msgid "Lich"
+msgstr ""
+
+#. ID 109
+msgctxt "enemies.name"
+msgid "Blue Dragon"
+msgstr ""
+
+#. ID 110
+msgctxt "enemies.name"
+msgid "Wraith"
+msgstr ""
+
+#. ID 111
+msgctxt "enemies.name"
+msgid "Remora"
+msgstr ""
+
+#. ID 112
+msgctxt "enemies.name"
+msgid "Werewolf"
+msgstr ""
+
+#. ID 113
+msgctxt "enemies.name"
+msgid "Worm"
+msgstr ""
+
+#. ID 114
+msgctxt "enemies.name"
+msgid "Wight"
+msgstr ""
+
+#. ID 115
+msgctxt "enemies.name"
+msgid "Wyvern"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "Death"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "‚Í“|‚ê‚½I"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "‚ð“|‚µ‚½I"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "‚Í—§‚¿ã‚ª‚Á‚½I"
+msgstr ""
+
+#. ID 2
+msgctxt "states.name"
+msgid "Poison"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid "‚Í“Å‚É–`‚³‚ê‚½I"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid "‚Í“Å‚É–`‚³‚ê‚½I"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_already"
+msgid "‚Í‚·‚Å‚É“Å‚É–`‚³‚ê‚Ä‚¢‚éI"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid "‚Ì“Å‚ªÁ‚¦‚½I"
+msgstr ""
+
+#. ID 3
+msgctxt "states.name"
+msgid "Blind"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_actor"
+msgid "‚ÍˆÃˆÅ‚É•Â‚´‚³‚ê‚½I"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_enemy"
+msgid "‚ðˆÃˆÅ‚É•Â‚´‚µ‚½I"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_already"
+msgid "‚Í‚·‚Å‚ÉˆÃˆÅ‚É•Â‚´‚³‚ê‚Ä‚¢‚éI"
+msgstr ""
+
+#. ID 3
+msgctxt "states.message_recovery"
+msgid "‚ÌˆÃˆÅ‚ªÁ‚¦‚½I"
+msgstr ""
+
+#. ID 4
+msgctxt "states.name"
+msgid "Silence"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_actor"
+msgid "‚Í’¾–Ù‚µ‚½I"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_enemy"
+msgid "‚ð’¾–Ù‚³‚¹‚½I"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_already"
+msgid "‚Í‚·‚Å‚É’¾–Ù‚µ‚Ä‚¢‚éI"
+msgstr ""
+
+#. ID 4
+msgctxt "states.message_recovery"
+msgid "‚Ì’¾–Ù‚ª‰ð‚¯‚½I"
+msgstr ""
+
+#. ID 5
+msgctxt "states.name"
+msgid "Berserk"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_actor"
+msgid "‚Í–\\‘–‚µ‚½I"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_enemy"
+msgid "‚ð–\\‘–‚³‚¹‚½I"
+msgstr ""
+
+#. ID 5
+msgctxt "states.message_already"
+msgid "‚Í‚·‚Å‚É–\\‘–‚µ‚Ä‚¢‚éI"
+msgstr ""
+
+#. ID 5
+#. ID 6
+msgctxt "states.message_recovery"
+msgid "‚Í‰ä‚É•Ô‚Á‚½I"
+msgstr ""
+
+#. ID 6
+msgctxt "states.name"
+msgid "Confused"
+msgstr ""
+
+#. ID 6
+msgctxt "states.message_actor"
+msgid "‚Í¬—‚µ‚½I"
+msgstr ""
+
+#. ID 6
+msgctxt "states.message_enemy"
+msgid "‚ð¬—‚³‚¹‚½I"
+msgstr ""
+
+#. ID 6
+msgctxt "states.message_already"
+msgid "‚Í‚·‚Å‚É¬—‚µ‚Ä‚¢‚éI"
+msgstr ""
+
+#. ID 7
+msgctxt "states.name"
+msgid "Sleep"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_actor"
+msgid "‚Í–°‚Á‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_enemy"
+msgid "‚ð–°‚ç‚¹‚½I"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_already"
+msgid "‚Í‚·‚Å‚É–°‚Á‚Ä‚¢‚éI"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_affected"
+msgid "‚Í–°‚Á‚Ä‚¢‚éEEE"
+msgstr ""
+
+#. ID 7
+msgctxt "states.message_recovery"
+msgid "‚Í–Ú‚ðŠo‚Ü‚µ‚½I"
+msgstr ""
+
+#. ID 8
+msgctxt "states.name"
+msgid "Paralyze"
+msgstr ""
+
+#. ID 9
+msgctxt "states.name"
+msgid "Stun"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_actor"
+msgid "‚Íƒoƒ‰ƒ“ƒX‚ð•ö‚µ‚½I"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_enemy"
+msgid "‚Íƒoƒ‰ƒ“ƒX‚ð•ö‚µ‚½I"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_affected"
+msgid "‚Í‚æ‚ë‚ß‚¢‚Ä‚¢‚éEEE"
+msgstr ""
+
+#. ID 9
+msgctxt "states.message_recovery"
+msgid "‚Í‚æ‚ë‚ß‚¢‚Ä‚¢‚éEEE"
+msgstr ""
+
+#. ID 10
+msgctxt "states.name"
+msgid "Haste"
+msgstr ""
+
+msgctxt "terms.special_combat"
+msgid "Surprised the enemy!"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "Failed to escape!"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "Victory!"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid "Annihilated..."
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid " experience points!"
+msgstr ""
+
+msgctxt "terms.gold_recieved_a"
+msgid "Found"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid "!"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid " found!"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid " obtained!"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid " was learned!"
+msgstr ""
+
+msgctxt "terms.miss"
+msgid "Miss!"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "Good afternoon, sir."
+msgstr ""
+
+msgctxt "terms.shop_regreeting1"
+msgid "Any more transactions to complete?"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid "Which one do you fancy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid "How many can I get you?"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid "It was a pleasure serving you."
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid "Which are you selling, sir?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid "How many are you selling?"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid "It was a pleasure serving you."
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "Hello!  How are you today?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "How about something else from our large selection?"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "Which do you prefer?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "How many?"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "Which are you getting rid of?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "How many can I take off your hands?"
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "What are you interested in today?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "Can I interest you in anything else?"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "What would you like to buy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "How many of those would you like?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "What would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many of those would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "It is a mere"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " to stay here."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Would you like to stay?"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "It's only"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid " for a warm bed."
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "How about spending the night?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "In Possession"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "Equipped"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "G"
+msgstr "골드"
+
+msgctxt "terms.battle_fight"
+msgid "Fight"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "Escape"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "Alters"
+msgstr "변환"
+
+msgctxt "terms.command_skill"
+msgid "Action"
+msgstr "행동"
+
+msgctxt "terms.menu_equipment"
+msgid "Equip"
+msgstr "장착품"
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr "저장"
+
+msgctxt "terms.menu_quit"
+msgid "Quit"
+msgstr "종료"
+
+msgctxt "terms.new_game"
+msgid "Dream"
+msgstr "꿈꾸기"
+
+msgctxt "terms.load_game"
+msgid "Recall"
+msgstr "회상하기"
+
+msgctxt "terms.exit_game"
+msgid "Awaken"
+msgstr "일어나기"
+
+msgctxt "terms.status"
+msgid "Status"
+msgstr "상태"
+
+msgctxt "terms.row"
+msgid "Row"
+msgstr "행"
+
+msgctxt "terms.order"
+msgid "Order"
+msgstr "렬"
+
+msgctxt "terms.wait_on"
+msgid "Wait"
+msgstr "대기"
+
+msgctxt "terms.wait_off"
+msgid "Active"
+msgstr "행동"
+
+msgctxt "terms.level"
+msgid "Level"
+msgstr "레벨"
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr "체력"
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr "마력"
+
+msgctxt "terms.normal_status"
+msgid "Normal"
+msgstr "정상"
+
+msgctxt "terms.exp_short"
+msgid "Ex"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "L"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "H"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "M"
+msgstr ""
+
+msgctxt "terms.sp_cost"
+msgid "MP Use"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "Attack"
+msgstr "공격력"
+
+msgctxt "terms.defense"
+msgid "Defense"
+msgstr "방어력"
+
+msgctxt "terms.spirit"
+msgid "Mystic"
+msgstr "마력"
+
+msgctxt "terms.agility"
+msgid "Agility"
+msgstr "민첩"
+
+msgctxt "terms.weapon"
+msgid "Weapon"
+msgstr "무기"
+
+msgctxt "terms.shield"
+msgid "Shield"
+msgstr "방패"
+
+msgctxt "terms.armor"
+msgid "Armor"
+msgstr "방어구"
+
+msgctxt "terms.helmet"
+msgid "Helmet"
+msgstr "투구"
+
+msgctxt "terms.accessory"
+msgid "Accessory"
+msgstr "장식품"
+
+msgctxt "terms.save_game_message"
+msgid "Save to which file?"
+msgstr "어느 파일에 저장하시겠습니까?"
+
+msgctxt "terms.load_game_message"
+msgid "Load which file?"
+msgstr "어느 파일에 로드하시겠습니까?"
+
+msgctxt "terms.file"
+msgid "File"
+msgstr "파일"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you really want to quit?"
+msgstr "정말로 나가시겠습니까?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "예"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "아니오"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+
+#. ID 1
+msgctxt "classes.name"
+msgid "Hero A"
+msgstr ""
+
+#. ID 2
+msgctxt "classes.name"
+msgid "Hero B"
+msgstr ""
+
+#. ID 3
+msgctxt "classes.name"
+msgid "Soldier A"
+msgstr ""
+
+#. ID 4
+msgctxt "classes.name"
+msgid "Soldier B"
+msgstr ""
+
+#. ID 5
+msgctxt "classes.name"
+msgid "Mage A"
+msgstr ""
+
+#. ID 6
+msgctxt "classes.name"
+msgid "Mage B"
+msgstr ""
+
+#. ID 7
+msgctxt "classes.name"
+msgid "Priest A"
+msgstr ""
+
+#. ID 8
+msgctxt "classes.name"
+msgid "Priest B"
+msgstr ""
+
+#. ID 9
+msgctxt "classes.name"
+msgid "Monk A"
+msgstr ""
+
+#. ID 10
+msgctxt "classes.name"
+msgid "Monk B"
+msgstr ""
+
+#. ID 11
+msgctxt "classes.name"
+msgid "Thief A"
+msgstr ""
+
+#. ID 12
+msgctxt "classes.name"
+msgid "Thief B"
+msgstr ""
+
+#. ID 13
+msgctxt "classes.name"
+msgid "Pirate A"
+msgstr ""
+
+#. ID 14
+msgctxt "classes.name"
+msgid "Pirate B"
+msgstr ""
+
+#. ID 15
+msgctxt "classes.name"
+msgid "Samurai"
+msgstr ""
+
+#. ID 16
+msgctxt "classes.name"
+msgid "Heavy Armor"
+msgstr ""
+
+#. ID 17
+msgctxt "classes.name"
+msgid "Ninja A"
+msgstr ""
+
+#. ID 18
+msgctxt "classes.name"
+msgid "Ninja B"
+msgstr ""
+
