@@ -15,35 +15,35 @@ msgstr ""
 
 #. ID 9, Line 14
 msgid "                  *Fast Forward*"
-msgstr "                  *快进*"
+msgstr "                      *快进*"
 
 #. ID 9, Line 18
 msgid "                    *Boombox*"
-msgstr "                    *音响*"
+msgstr "                      *音响*"
 
 #. ID 9, Line 22
 msgid "                    *Snowglobe*"
-msgstr "                    *雪景球*"
+msgstr "                     *雪景球*"
 
 #. ID 9, Line 26
 msgid "                   *Dark Matter*"
-msgstr "                   *暗物质*"
+msgstr "                     *暗物质*"
 
 #. ID 9, Line 30
 msgid "                     *Turtle*"
-msgstr "                     *海龟*"
+msgstr "                      *海龟*"
 
 #. ID 9, Line 34
 msgid "                    *Lamppost*"
-msgstr "                    *路灯杆*"
+msgstr "                     *路灯杆*"
 
 #. ID 9, Line 38
 msgid "                       *Box*"
-msgstr "                       *箱子*"
+msgstr "                      *箱子*"
 
 #. ID 9, Line 42
 msgid "                     *Pencil*"
-msgstr "                     *铅笔*"
+msgstr "                      *铅笔*"
 
 #. ID 9, Line 46
 msgid "                      *Seer*"
@@ -59,7 +59,7 @@ msgstr "                      *插头*"
 
 #. ID 9, Line 58
 msgid "                      *Mouth*"
-msgstr "                      *嘴*"
+msgstr "                       *嘴*"
 
 #. ID 9, Line 64
 msgid "                      *Star*"
@@ -67,11 +67,11 @@ msgstr "                      *星星*"
 
 #. ID 9, Line 68
 msgid "                    *Music Box*"
-msgstr "                    *音乐盒*"
+msgstr "                     *音乐盒*"
 
 #. ID 9, Line 72
 msgid "                *Lily of the Valley*"
-msgstr "                *铃兰*"
+msgstr "                      *铃兰*"
 
 #. ID 9, Line 76
 msgid "                      *Cape*"
@@ -83,27 +83,27 @@ msgstr "                    *紫外线灯*"
 
 #. ID 9, Line 84
 msgid "                    *Sunflower*"
-msgstr "                    *向日葵*"
+msgstr "                     *向日葵*"
 
 #. ID 9, Line 88
 msgid "                    *Nightcap*"
-msgstr "                    *睡帽*"
+msgstr "                      *睡帽*"
 
 #. ID 9, Line 92
 msgid "                    *Butterfly*"
-msgstr "                    *蝴蝶*"
+msgstr "                      *蝴蝶*"
 
 #. ID 9, Line 96
 msgid "                    *Mermaid*"
-msgstr "                    *人鱼*"
+msgstr "                      *人鱼*"
 
 #. ID 9, Line 100
 msgid "                    *Sidetail*"
-msgstr "                    *侧马尾*"
+msgstr "                     *侧马尾*"
 
 #. ID 9, Line 104
 msgid "                     *Origami*"
-msgstr "                     *折纸*"
+msgstr "                      *折纸*"
 
 #. ID 9, Line 108
 msgid "                      *Cyber*"
