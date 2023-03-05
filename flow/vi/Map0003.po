@@ -1,0 +1,666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 3, Page 1, Line 1, Pos (11,3)
+msgid "ヘッドフォン"
+msgstr "Tai nghe"
+
+#. ID 3, Page 1, Line 3, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 1, Line 2, Pos (12,1)
+#. ID 9, Page 1, Line 3, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 3, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 3, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 3, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 1, Line 3, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 1, Line 5, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 3, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 24, Page 1, Line 5, Pos (13,9)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 3, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 3, Pos (17,7)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 3, Pos (11,9)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 1, Line 3, Pos (13,7)
+#. Contains choice at line 2 (2 options)
+#. ID 34, Page 1, Line 3, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 3, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 1, Line 4, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 4, Pos (13,11)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 3, Pos (17,9)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 1, Line 3, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 1, Line 3, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 1, Line 3, Pos (11,13)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 1, Line 3, Pos (13,13)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 3, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 1, Line 3, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "エフェクト破棄"
+msgstr "Bỏ hiệu ứng"
+
+#. ID 3, Page 1, Line 4, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 24, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 4, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 24, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 4, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 24, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 4, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 24, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 4, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 24, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 24, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 6, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 26, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 24, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 6, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 26, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 4, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 24, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 4, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 24, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 4, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 24, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 4, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 24, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 4, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 24, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 4, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 24, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 5, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 25, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 5, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 25, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 4, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 24, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 4, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 24, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 4, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 24, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 4, Pos (11,13)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 24, Pos (11,13)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 4, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 24, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 4, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 24, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 4, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 24, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"Có\n"
+"Không"
+
+#. ID 3, Page 1, Line 6, Pos (11,3)
+msgid "ヘッドフォン破棄"
+msgstr "Đã bỏ Tai nghe"
+
+#. ID 3, Page 1, Line 23, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 1, Line 23, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 23, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 23, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 23, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 1, Line 23, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 1, Line 25, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 23, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 22, Page 1, Line 3, Pos (11,1)
+#. ID 24, Page 1, Line 25, Pos (13,9)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 23, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 23, Pos (17,7)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 23, Pos (11,9)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 1, Line 23, Pos (13,7)
+#. Contains choice at line 2 (2 options)
+#. ID 34, Page 1, Line 23, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 23, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 1, Line 24, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 24, Pos (13,11)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 23, Pos (17,9)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 1, Line 23, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 1, Line 23, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 1, Line 23, Pos (11,13)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 1, Line 23, Pos (13,13)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 23, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 1, Line 23, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "エフェクト取得"
+msgstr "Nhận hiệu ứng"
+
+#. ID 3, Page 1, Line 26, Pos (11,3)
+msgid "ヘッドフォン取得"
+msgstr "Đã nhận Tai nghe"
+
+#. ID 8, Page 1, Line 1, Pos (7,1)
+#. Contains choice at line 2 (3 options)
+msgid "エントランスの背景をきめてね"
+msgstr "Chọn nền cho Entrance"
+
+#. ID 8, Page 1, Line 2, Pos (7,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"1\n"
+"2\n"
+"3"
+msgstr ""
+"1\n"
+"2\n"
+"3"
+
+#. ID 9, Page 1, Line 1, Pos (15,3)
+msgid "じょうろ"
+msgstr "Bình tưới nước"
+
+#. ID 9, Page 1, Line 6, Pos (15,3)
+msgid "じょうろ破棄"
+msgstr "Đã bỏ Bình tưới nước"
+
+#. ID 9, Page 1, Line 26, Pos (15,3)
+msgid "じょうろ取得"
+msgstr "Đã nhận Bình tưới nước"
+
+#. ID 10, Page 1, Line 1, Pos (8,1)
+msgid "はやくはしるよ！"
+msgstr "Siêu tốc độ luôn! [Chỉnh tốc độ di chuyển]"
+
+#. ID 10, Page 1, Line 2, Pos (8,1)
+#. Choice (4 options)
+msgid ""
+"ふつう\n"
+"はやい\n"
+"はあやい\n"
+"神速"
+msgstr ""
+"Bình thường\n"
+"Nhanh\n"
+"Nhaaaaanh\n"
+"Thần tốc"
+
+#. ID 11, Page 1, Line 1, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "いつでもセーブ可能になるよ！"
+msgstr "Lưu mọi lúc mọi nơi! [Tùy chọn 4 trong menu]"
+
+#. ID 11, Page 1, Line 2, Pos (9,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"いい"
+msgstr ""
+"Nhận\n"
+"Không"
+
+#. ID 12, Page 1, Line 1, Pos (13,3)
+msgid "てつパイプ"
+msgstr "Ống sắt"
+
+#. ID 12, Page 1, Line 6, Pos (13,3)
+msgid "てつパイプ破棄"
+msgstr "Đã bỏ Ống sắt"
+
+#. ID 12, Page 1, Line 26, Pos (13,3)
+msgid "てつパイプ取得"
+msgstr "Đã nhận Ống sắt"
+
+#. ID 15, Page 1, Line 1, Pos (17,3)
+msgid "モノアイ　かわいい"
+msgstr "Độc Nhãn (dễ thương!)"
+
+#. ID 15, Page 1, Line 6, Pos (17,3)
+msgid "モノアイ破棄"
+msgstr "Đã bỏ Độc Nhãn"
+
+#. ID 15, Page 1, Line 26, Pos (17,3)
+msgid "モノアイ取得"
+msgstr "Đã nhận Độc Nhãn"
+
+#. ID 16, Page 1, Line 1, Pos (11,5)
+msgid "せんすいふく　ふく…？"
+msgstr "Đồ lặn (Đồ...?)"
+
+#. ID 16, Page 1, Line 6, Pos (11,5)
+msgid "せんすいふく破棄"
+msgstr "Đã bỏ Đồ lặn"
+
+#. ID 16, Page 1, Line 26, Pos (11,5)
+msgid "せんすいふく取得"
+msgstr "Đã nhận Đồ lặn"
+
+#. ID 18, Page 1, Line 1, Pos (13,5)
+msgid "ねこ　小さいところに入れるようになりました。"
+msgstr "Mèo (Giờ bạn có thể luồn vào khe nhỏ.)"
+
+#. ID 18, Page 1, Line 6, Pos (13,5)
+msgid "ねこ破棄"
+msgstr "Đã bỏ Mèo"
+
+#. ID 18, Page 1, Line 26, Pos (13,5)
+msgid "ねこ取得"
+msgstr "Đã nhận Mèo"
+
+#. ID 19, Page 1, Line 1, Pos (15,5)
+msgid ""
+"ほうき　魔女＋自転車\n"
+"ほうきイベントをどうしても作りたかったから\n"
+"作っちゃった。"
+msgstr ""
+"Chổi (Sự kết hợp giữa hiệu ứng Phù thủy và Xe đạp\n"
+"của Yume Nikki. Tôi rất muốn làm một sự kiện bay, \n"
+"nên là... làm luôn!)"
+
+#. ID 19, Page 1, Line 8, Pos (15,5)
+msgid "ほうき破棄"
+msgstr "Đã bỏ Chổi"
+
+#. ID 19, Page 1, Line 28, Pos (15,5)
+msgid "ほうき取得"
+msgstr "Đã nhận Chổi"
+
+#. ID 20, Page 1, Line 1, Pos (10,1)
+msgid "メニュータイプ変更"
+msgstr "Thay đổi kiểu menu"
+
+#. ID 20, Page 1, Line 2, Pos (10,1)
+#. Choice (4 options)
+msgid ""
+"タイプflow\n"
+"タイプfc\n"
+"タイプdot\n"
+"次"
+msgstr ""
+"Kiểu Flow\n"
+"Kiểu Famicom\n"
+"Kiểu Dot\n"
+"Trang tiếp"
+
+#. ID 20, Page 1, Line 5, Pos (10,1)
+msgid "メニュータイプflow"
+msgstr "Đã chọn kiểu Flow"
+
+#. ID 20, Page 1, Line 10, Pos (10,1)
+msgid "メニュータイプfc"
+msgstr "Đã chọn kiểu Famicom"
+
+#. ID 20, Page 1, Line 15, Pos (10,1)
+msgid "メニュータイプドット"
+msgstr "Đã chọn kiểu Dot"
+
+#. ID 20, Page 1, Line 19, Pos (10,1)
+#. Choice (4 options)
+msgid ""
+"タイプorange\n"
+"タイプflower\n"
+"タイプsugar\n"
+"タイプrust"
+msgstr ""
+"Kiểu Orange\n"
+"Kiểu Flower\n"
+"Kiểu Sugar\n"
+"Kiểu Rust"
+
+#. ID 20, Page 1, Line 22, Pos (10,1)
+msgid "メニュータイプorange"
+msgstr "Đã chọn kiểu Orange"
+
+#. ID 20, Page 1, Line 27, Pos (10,1)
+msgid "メニュータイプflower"
+msgstr "Đã chọn kiểu Flower"
+
+#. ID 20, Page 1, Line 32, Pos (10,1)
+msgid "メニュータイプsugar"
+msgstr "Đã chọn kiểu Sugar"
+
+#. ID 20, Page 1, Line 37, Pos (10,1)
+msgid "メニュータイプrust"
+msgstr "Đã chọn kiểu Rust"
+
+#. ID 21, Page 1, Line 1, Pos (17,5)
+msgid "ゆうれい"
+msgstr "Hồn ma"
+
+#. ID 21, Page 1, Line 6, Pos (17,5)
+msgid "ゆうれい破棄"
+msgstr "Đã bỏ Hồn ma"
+
+#. ID 21, Page 1, Line 26, Pos (17,5)
+msgid "ゆうれい取得"
+msgstr "Đã nhận Hồn ma"
+
+#. ID 24, Page 1, Line 1, Pos (13,9)
+msgid ""
+"うで\n"
+"モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！\n"
+"！！"
+msgstr ""
+"Cánh tay\n"
+"Monoko dễ thương dễ thương dễ thương quáaaaaaaaaaaaaa\n"
+"!!!!!!!!!!!!!!"
+
+#. ID 24, Page 1, Line 8, Pos (13,9)
+msgid "うで破棄"
+msgstr "Đã bỏ Cánh tay"
+
+#. ID 24, Page 1, Line 28, Pos (13,9)
+msgid "うで取得"
+msgstr "Đã nhận Cánh tay"
+
+#. ID 25, Page 1, Line 1, Pos (14,1)
+#. Contains choice at line 2 (2 options)
+msgid ".かそくそうち."
+msgstr ".Máy gia tốc."
+
+#. ID 25, Page 1, Line 2, Pos (14,1)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 3, Pos (3,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Nhận\n"
+"Không"
+
+#. ID 25, Page 1, Line 4, Pos (14,1)
+msgid "メニューのとくべつから。"
+msgstr "Sử dụng từ mục Đặc biệt của menu."
+
+#. ID 27, Page 1, Line 1, Pos (11,7)
+msgid "ホイッスル"
+msgstr "Còi huýt sáo"
+
+#. ID 27, Page 1, Line 6, Pos (11,7)
+msgid "ホイッスル破棄"
+msgstr "Đã bỏ Còi huýt sáo"
+
+#. ID 27, Page 1, Line 26, Pos (11,7)
+msgid "ホイッスル取得"
+msgstr "Đã nhận Còi huýt sáo"
+
+#. ID 28, Page 1, Line 1, Pos (17,7)
+msgid "だるま　動作追加。違和感あり。"
+msgstr "Daruma (Đã thêm hành động. Cảm thấy hơi khó chịu...)"
+
+#. ID 28, Page 1, Line 6, Pos (17,7)
+msgid "だるま破棄"
+msgstr "Đã bỏ Daruma"
+
+#. ID 28, Page 1, Line 26, Pos (17,7)
+msgid "だるま取得"
+msgstr "Đã nhận Daruma"
+
+#. ID 29, Page 1, Line 1, Pos (3,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ガスマスクツインテールver\n"
+"せっかく作ったので。"
+msgstr ""
+"Mặt nạ phòng độc - phiên bản hai chùm\n"
+"Dù sao cũng đã làm rồi..."
+
+#. ID 29, Page 1, Line 6, Pos (3,13)
+msgid "ver.ツインテールon"
+msgstr "Đã bật phiên bản hai chùm"
+
+#. ID 29, Page 1, Line 11, Pos (3,13)
+msgid "ver.ツインテールoff"
+msgstr "Đã tắt phiên bản hai chùm"
+
+#. ID 31, Page 1, Line 1, Pos (11,9)
+msgid "スライム　ぶよぶよ強化。"
+msgstr "Khối nhờn (Mềm nhũn cực mạnh.)"
+
+#. ID 31, Page 1, Line 6, Pos (11,9)
+msgid "スライム破棄"
+msgstr "Đã bỏ Khối nhờn"
+
+#. ID 31, Page 1, Line 26, Pos (11,9)
+msgid "スライム取得"
+msgstr "Đã nhận Khối nhờn"
+
+#. ID 33, Page 1, Line 1, Pos (13,7)
+msgid "ガスマスク　非常に可愛い"
+msgstr "Mặt nạ phòng độc (Rất dễ thương.)"
+
+#. ID 33, Page 1, Line 6, Pos (13,7)
+msgid "ガスマスク破棄"
+msgstr "Đã bỏ Mặt nạ phòng độc"
+
+#. ID 33, Page 1, Line 26, Pos (13,7)
+msgid "ガスマスク取得"
+msgstr "Đã nhận Mặt nạ phòng độc"
+
+#. ID 34, Page 1, Line 1, Pos (15,7)
+msgid "きかい　やっつけかもしれない。"
+msgstr "Máy móc"
+
+#. ID 34, Page 1, Line 6, Pos (15,7)
+msgid "きかい破棄"
+msgstr "Đã bỏ Máy móc"
+
+#. ID 34, Page 1, Line 26, Pos (15,7)
+msgid "きかい取得"
+msgstr "Đã nhận Máy móc"
+
+#. ID 35, Page 1, Line 1, Pos (15,9)
+msgid "ないぞう　リョナいよ。"
+msgstr "Nội tang (Khá giống ryona.)"
+
+#. ID 35, Page 1, Line 6, Pos (15,9)
+msgid "ないぞう破棄"
+msgstr "Đã bỏ Nội tạng"
+
+#. ID 35, Page 1, Line 26, Pos (15,9)
+msgid "ないぞう取得"
+msgstr "Đã nhận Nội tạng"
+
+#. ID 36, Page 1, Line 1, Pos (11,11)
+msgid ""
+"けんじゅう\n"
+"ドットが小さくて見えにくい。"
+msgstr "Súng ngắn (Những pixel bé nhỏ khó nhìn.)"
+
+#. ID 36, Page 1, Line 7, Pos (11,11)
+msgid "けんじゅう破棄"
+msgstr "Đã bỏ Súng ngắn"
+
+#. ID 36, Page 1, Line 27, Pos (11,11)
+msgid "けんじゅう取得"
+msgstr "Đã nhận Súng ngắn"
+
+#. ID 37, Page 1, Line 1, Pos (13,11)
+msgid ""
+"したい\n"
+"腐乱死体。"
+msgstr "Xác chết (Thi thể thối rữa.)"
+
+#. ID 37, Page 1, Line 7, Pos (13,11)
+msgid "したい破棄"
+msgstr "Đã bỏ Xác chết"
+
+#. ID 37, Page 1, Line 27, Pos (13,11)
+msgid "したい取得"
+msgstr "Đã nhận Xác chết"
+
+#. ID 38, Page 1, Line 1, Pos (17,9)
+msgid "サイケデリック　"
+msgstr "Thức thần"
+
+#. ID 38, Page 1, Line 6, Pos (17,9)
+msgid "サイケデリック破棄"
+msgstr "Đã bỏ Thức thần"
+
+#. ID 38, Page 1, Line 26, Pos (17,9)
+msgid "サイケデリック取得"
+msgstr "Đã nhận Thức thần"
+
+#. ID 39, Page 1, Line 1, Pos (15,11)
+msgid "くろフード"
+msgstr "Hoodie đen"
+
+#. ID 39, Page 1, Line 6, Pos (15,11)
+msgid "くろフード破棄"
+msgstr "Đã bỏ Hoodie đen"
+
+#. ID 39, Page 1, Line 26, Pos (15,11)
+msgid "くろフード取得"
+msgstr "Đã nhận Hoodie đen"
+
+#. ID 40, Page 1, Line 1, Pos (17,11)
+msgid "せいふく"
+msgstr "Đồng phục"
+
+#. ID 40, Page 1, Line 6, Pos (17,11)
+msgid "せいふく破棄"
+msgstr "Đã bỏ Đồng phục"
+
+#. ID 40, Page 1, Line 26, Pos (17,11)
+msgid "せいふく取得"
+msgstr "Đã nhận Đồng phục"
+
+#. ID 42, Page 1, Line 1, Pos (11,13)
+msgid "テレビ"
+msgstr "TV"
+
+#. ID 42, Page 1, Line 6, Pos (11,13)
+msgid "テレビ破棄"
+msgstr "Đã bỏ TV"
+
+#. ID 42, Page 1, Line 26, Pos (11,13)
+msgid "テレビ取得"
+msgstr "Đã nhận TV"
+
+#. ID 44, Page 1, Line 1, Pos (13,13)
+msgid "いれずみ"
+msgstr "Hình xăm"
+
+#. ID 44, Page 1, Line 6, Pos (13,13)
+msgid "いれずみ破棄"
+msgstr "Đã bỏ Hình xăm"
+
+#. ID 44, Page 1, Line 26, Pos (13,13)
+msgid "いれずみ取得"
+msgstr "Đã nhận Hình xăm"
+
+#. ID 46, Page 1, Line 1, Pos (15,13)
+msgid "しょくぶつ"
+msgstr "Thực vật"
+
+#. ID 46, Page 1, Line 6, Pos (15,13)
+msgid "しょくぶつ破棄"
+msgstr "Đã bỏ Thực vật"
+
+#. ID 46, Page 1, Line 26, Pos (15,13)
+msgid "しょくぶつ取得"
+msgstr "Đã nhận Thực vật"
+
+#. ID 47, Page 1, Line 1, Pos (17,13)
+msgid "ドレス"
+msgstr "Đầm"
+
+#. ID 47, Page 1, Line 6, Pos (17,13)
+msgid "ドレス破棄"
+msgstr "Đã bỏ Đầm"
+
+#. ID 47, Page 1, Line 26, Pos (17,13)
+msgid "ドレス取得"
+msgstr "Đã nhận Đầm"
