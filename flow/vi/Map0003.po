@@ -478,7 +478,9 @@ msgstr "Đã nhận Còi huýt sáo"
 
 #. ID 28, Page 1, Line 1, Pos (17,7)
 msgid "だるま　動作追加。違和感あり。"
-msgstr "Daruma (Đã thêm hành động. Cảm thấy hơi khó chịu...)"
+msgstr ""
+"Daruma (Đã thêm hành động. Cảm thấy hơi khó\n"
+"chịu...)"
 
 #. ID 28, Page 1, Line 6, Pos (17,7)
 msgid "だるま破棄"
