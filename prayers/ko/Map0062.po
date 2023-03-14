@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (29,10)
+#. ID 13, Page 1, Line 2, Pos (5,10)
+msgid "^$^&*&$$&#()(*#!~8..."
+msgstr ""
+
+#. ID 7, Page 1, Line 2, Pos (41,18)
+msgid "@43&**$#... ...///__~`."
+msgstr ""
+
+#. ID 9, Page 1, Line 2, Pos (65,46)
+msgid "****--~*~-**-~~-*--~~*-~~*~~~--~-~~*~---..."
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (65,46)
+msgid ""
+".......................\n"
+".......................\n"
+"...s-3?s w#tching..."
+msgstr ""
+".......................\n"
+".......................\n"
+"...에스-3?이 지ㅋ#보고있다..."
+
+#. ID 10, Page 1, Line 4, Pos (31,21)
+#. ID 11, Page 1, Line 4, Pos (51,21)
+#. ID 12, Page 1, Line 4, Pos (60,21)
+#. ID 24, Page 1, Line 4, Pos (91,35)
+msgid "....."
+msgstr ""
+
+#. ID 23, Page 1, Line 2, Pos (89,24)
+msgid "9058osu0(#*TOio890t80"
+msgstr "9058긹겓낡0(#*카릷덻섺890녃80"
+
+#. ID 29, Page 1, Line 2, Pos (22,46)
+msgid "~~~~~~~~~~~~~~"
+msgstr ""
+
+#. ID 30, Page 1, Line 2, Pos (19,50)
+msgid "!!*($IU%O(($"
+msgstr "!!*($믽닻%밎(($"
+
+#. ID 31, Page 1, Line 1, Pos (42,51)
+msgid "\"...\""
+msgstr ""
+

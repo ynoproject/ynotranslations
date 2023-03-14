@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 15, Page 1, Line 12, Pos (0,1)
+#. ID 15, Page 1, Line 25, Pos (0,1)
+msgid ""
+"☆\\V[72]点＋\\V[75]\n"
+"\n"
+"☆HI－SCORE　 \\V[79]点＋\\V[80]"
+msgstr ""
+"☆\\V[72] điểm＋\\V[75]\n"
+"\n"
+"☆HI－SCORE　 \\V[79] điểm＋\\V[80]"
+
+#. ID 15, Page 1, Line 17, Pos (0,1)
+#. ID 15, Page 1, Line 30, Pos (0,1)
+msgid ""
+"☆\\V[72]点\n"
+"\n"
+"☆HI－SCORE　 \\V[79]点"
+msgstr ""
+"☆\\V[72] điểm\n"
+"\n"
+"☆HI－SCORE　 \\V[79] điểm"
+
+#. ID 15, Page 1, Line 46, Pos (0,1)
+#. ID 15, Page 1, Line 59, Pos (0,1)
+msgid ""
+"\\V[72]点＋\\V[75]\n"
+"\n"
+"HI－SCORE　 \\V[76]点＋\\V[77]"
+msgstr ""
+"\\V[72] điểm＋\\V[75]\n"
+"\n"
+"HI－SCORE　 \\V[76] điểm＋\\V[77]"
+
+#. ID 15, Page 1, Line 51, Pos (0,1)
+#. ID 15, Page 1, Line 64, Pos (0,1)
+msgid ""
+"\\V[72]点\n"
+"\n"
+"HI－SCORE　 \\V[76]点"
+msgstr ""
+"\\V[72] điểm\n"
+"\n"
+"HI－SCORE　 \\V[76] điểm"

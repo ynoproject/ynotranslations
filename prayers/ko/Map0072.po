@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 2, Pos (1,0)
+#. ID 2, Page 1, Line 12, Pos (1,0)
+#. ID 2, Page 1, Line 26, Pos (1,0)
+#. ID 2, Page 1, Line 51, Pos (1,0)
+#. ID 2, Page 1, Line 59, Pos (1,0)
+#. ID 2, Page 1, Line 67, Pos (1,0)
+#. ID 2, Page 1, Line 73, Pos (1,0)
+#. ID 2, Page 2, Line 2, Pos (1,0)
+#. ID 7, Page 1, Line 3, Pos (0,2)
+#. ID 7, Page 1, Line 13, Pos (0,2)
+#. ID 7, Page 1, Line 27, Pos (0,2)
+#. ID 7, Page 1, Line 52, Pos (0,2)
+#. ID 7, Page 1, Line 60, Pos (0,2)
+#. ID 7, Page 1, Line 68, Pos (0,2)
+#. ID 7, Page 1, Line 74, Pos (0,2)
+#. ID 7, Page 2, Line 2, Pos (0,2)
+msgid "ChiMiko: \"...\""
+msgstr "치미코: \"...\""
+
+#. ID 2, Page 1, Line 5, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 6, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's staring at your broken sandals)"
+msgstr "(그녀는 당신의 망가진 게다를 응시하고 있다.)"
+
+#. ID 2, Page 1, Line 7, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 8, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Ask her to fix them.\n"
+"Nevermind"
+msgstr ""
+"그녀에게 고쳐달라고 부탁한다.\n"
+"무시한다."
+
+#. ID 2, Page 1, Line 14, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 15, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's holding up 4 fingers.)"
+msgstr "(그녀는 네 손가락을 펴보였다.)"
+
+#. ID 2, Page 1, Line 18, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 19, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Give her 400 Nat.\n"
+"Forget It."
+msgstr ""
+"그녀에게 400 나트를 지불한다.\n"
+"잊어버린다."
+
+#. ID 2, Page 1, Line 44, Pos (1,0)
+#. ID 7, Page 1, Line 45, Pos (0,2)
+msgid "\"Broken Sandals\" became \"Tall Geta\"!"
+msgstr "\"망가진 게다\"가 \"굽높은 게다\"로 바뀌었다!"
+
+#. ID 2, Page 1, Line 49, Pos (1,0)
+#. ID 7, Page 1, Line 50, Pos (0,2)
+msgid "Fluorette: \"Th-thank you.\""
+msgstr "플루렛테: \"고-고마워.\""
+
+#. ID 2, Page 1, Line 56, Pos (1,0)
+#. ID 7, Page 1, Line 57, Pos (0,2)
+msgid ""
+"Fluorette: \"...Oh wait... I don't have enough\n"
+"money. ...Sorry...\""
+msgstr ""
+"플루렛테: \"...앗 잠깐... 난 지금 돈을 충분히\n"
+"가지고 있지 않아. ...미안해...\""
+
+#. ID 10, Page 1, Line 7, Pos (0,3)
+#. ID 10, Page 3, Line 7, Pos (0,3)
+#. ID 13, Page 1, Line 7, Pos (0,5)
+msgid "Learned Prayer \"Phantom\"!"
+msgstr "\"펜텀\" 기도를 얻었다!"
+
+#. ID 12, Page 1, Line 6, Pos (0,4)
+msgid "Found \"Broken Sandals\"!"
+msgstr "\"망가진 게다\"를 찾았다!"
+

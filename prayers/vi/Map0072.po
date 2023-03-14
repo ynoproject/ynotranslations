@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 1, Line 2, Pos (1,0)
+#. ID 2, Page 1, Line 12, Pos (1,0)
+#. ID 2, Page 1, Line 26, Pos (1,0)
+#. ID 2, Page 1, Line 51, Pos (1,0)
+#. ID 2, Page 1, Line 59, Pos (1,0)
+#. ID 2, Page 1, Line 67, Pos (1,0)
+#. ID 2, Page 1, Line 73, Pos (1,0)
+#. ID 2, Page 2, Line 2, Pos (1,0)
+#. ID 7, Page 1, Line 3, Pos (0,2)
+#. ID 7, Page 1, Line 13, Pos (0,2)
+#. ID 7, Page 1, Line 27, Pos (0,2)
+#. ID 7, Page 1, Line 52, Pos (0,2)
+#. ID 7, Page 1, Line 60, Pos (0,2)
+#. ID 7, Page 1, Line 68, Pos (0,2)
+#. ID 7, Page 1, Line 74, Pos (0,2)
+#. ID 7, Page 2, Line 2, Pos (0,2)
+msgid "ChiMiko: \"...\""
+msgstr ""
+
+#. ID 2, Page 1, Line 5, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 6, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's staring at your broken sandals)"
+msgstr "(Cô ấy đang nhìn chằm chằm vào đôi dép hỏng của bạn.)"
+
+#. ID 2, Page 1, Line 7, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 8, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Ask her to fix them.\n"
+"Nevermind"
+msgstr ""
+"Nhờ cô ấy sửa\n"
+"Không có gì"
+
+#. ID 2, Page 1, Line 14, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 15, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's holding up 4 fingers.)"
+msgstr "(Cô ấy giơ lên 4 ngón tay.)"
+
+#. ID 2, Page 1, Line 18, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 19, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Give her 400 Nat.\n"
+"Forget It."
+msgstr ""
+"Đưa cô ấy 400 Nat.\n"
+"Bỏ đi."
+
+#. ID 2, Page 1, Line 44, Pos (1,0)
+#. ID 7, Page 1, Line 45, Pos (0,2)
+msgid "\"Broken Sandals\" became \"Tall Geta\"!"
+msgstr "\"Đôi dép hỏng\" đã trở thành \"Guốc Geta\"!"
+
+#. ID 2, Page 1, Line 49, Pos (1,0)
+#. ID 7, Page 1, Line 50, Pos (0,2)
+msgid "Fluorette: \"Th-thank you.\""
+msgstr "Fluorette: \"C-cảm ơn.\""
+
+#. ID 2, Page 1, Line 56, Pos (1,0)
+#. ID 7, Page 1, Line 57, Pos (0,2)
+msgid ""
+"Fluorette: \"...Oh wait... I don't have enough\n"
+"money. ...Sorry...\""
+msgstr ""
+"Fluorette: \"...Khoan đã... Tôi không có đủ\n"
+"tiền. ...Xin lỗi nhé...\""
+
+#. ID 10, Page 1, Line 7, Pos (0,3)
+#. ID 10, Page 3, Line 7, Pos (0,3)
+#. ID 13, Page 1, Line 7, Pos (0,5)
+msgid "Learned Prayer \"Phantom\"!"
+msgstr "Đã học Lời nguyện \"Bóng ma\"!"
+
+#. ID 12, Page 1, Line 6, Pos (0,4)
+msgid "Found \"Broken Sandals\"!"
+msgstr "Đã nhặt được \"Đôi dép hỏng\"!"
