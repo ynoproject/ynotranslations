@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.2.2\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -360,6 +360,10 @@ msgid ""
 "\\>扉部屋\n"
 "\\>1つ前のMAP"
 msgstr ""
+"\\>Set Map ID\n"
+"\\>Debug Room\n"
+"\\>The Nexus\n"
+"\\>Previous Map"
 
 #. ID 43, Line 172
 msgid ""
