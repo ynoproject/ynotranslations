@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
+"Project-Id-Version: Yume 2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -813,135 +813,135 @@ msgid "\\>サウンドテスト　曲番00はBGMOFF"
 msgstr "Sound Test [00 to cancel]"
 
 #. ID 57, Page 1, Line 16, Pos (59,6)
-msgid "\\V[0052]/BGMOFF"
+msgid "\\V[0001]/BGMOFF"
 msgstr ""
 
 #. ID 57, Page 1, Line 21, Pos (59,6)
-msgid "\\V[0052]/626-ryukyu"
+msgid "\\V[0001]/626-ryukyu"
 msgstr ""
 
 #. ID 57, Page 1, Line 26, Pos (59,6)
-msgid "\\V[0052]/626-seagull"
+msgid "\\V[0001]/626-seagull"
 msgstr ""
 
 #. ID 57, Page 1, Line 31, Pos (59,6)
-msgid "\\V[0052]/803-1"
+msgid "\\V[0001]/803-1"
 msgstr ""
 
 #. ID 57, Page 1, Line 36, Pos (59,6)
-msgid "\\V[0052]/932-warm"
+msgid "\\V[0001]/932-warm"
 msgstr ""
 
 #. ID 57, Page 1, Line 41, Pos (59,6)
-msgid "\\V[0052]/bgm038"
+msgid "\\V[0001]/bgm038"
 msgstr ""
 
 #. ID 57, Page 1, Line 46, Pos (59,6)
-msgid "\\V[0052]/ym2-20-chiukoushin"
+msgid "\\V[0001]/ym2-20-chiukoushin"
 msgstr ""
 
 #. ID 57, Page 1, Line 51, Pos (59,6)
-msgid "\\V[0052]/x-air-Chukka"
+msgid "\\V[0001]/x-air-Chukka"
 msgstr ""
 
 #. ID 57, Page 1, Line 56, Pos (59,6)
-msgid "\\V[0052]/152-organ33"
+msgid "\\V[0001]/152-organ33"
 msgstr ""
 
 #. ID 57, Page 1, Line 61, Pos (59,6)
-msgid "\\V[0052]/pipoq"
+msgid "\\V[0001]/pipoq"
 msgstr ""
 
 #. ID 57, Page 1, Line 66, Pos (59,6)
-msgid "\\V[0052]/qs0UrDFJ-bgm041"
+msgid "\\V[0001]/qs0UrDFJ-bgm041"
 msgstr ""
 
 #. ID 57, Page 1, Line 71, Pos (59,6)
-msgid "\\V[0052]/soto-C5"
+msgid "\\V[0001]/soto-C5"
 msgstr ""
 
 #. ID 57, Page 1, Line 76, Pos (59,6)
-msgid "\\V[0052]/soundshop-89maturi"
+msgid "\\V[0001]/soundshop-89maturi"
 msgstr ""
 
 #. ID 57, Page 1, Line 81, Pos (59,6)
-msgid "\\V[0052]/152-woo"
+msgid "\\V[0001]/152-woo"
 msgstr ""
 
 #. ID 57, Page 1, Line 86, Pos (59,6)
-msgid "\\V[0052]/ym2-00_ano deskwork"
+msgid "\\V[0001]/ym2-00_ano deskwork"
 msgstr ""
 
 #. ID 57, Page 1, Line 91, Pos (59,6)
-msgid "\\V[0052]/ym2-02_chii gensyou"
+msgid "\\V[0001]/ym2-02_chii gensyou"
 msgstr ""
 
 #. ID 57, Page 1, Line 96, Pos (59,6)
-msgid "\\V[0052]/ym2-18_nounai matusyou"
+msgid "\\V[0001]/ym2-18_nounai matusyou"
 msgstr ""
 
 #. ID 57, Page 1, Line 101, Pos (59,6)
-msgid "\\V[0052]/ym2-19_kuruwasiimonohahaieguru"
+msgid "\\V[0001]/ym2-19_kuruwasiimonohahaieguru"
 msgstr ""
 
 #. ID 57, Page 1, Line 106, Pos (59,6)
-msgid "\\V[0052]/zaza"
+msgid "\\V[0001]/zaza"
 msgstr ""
 
 #. ID 57, Page 1, Line 111, Pos (59,6)
-msgid "\\V[0052]/kikai004"
+msgid "\\V[0001]/kikai004"
 msgstr ""
 
 #. ID 57, Page 1, Line 116, Pos (59,6)
-msgid "\\V[0052]/bgm055"
+msgid "\\V[0001]/bgm055"
 msgstr ""
 
 #. ID 57, Page 1, Line 121, Pos (59,6)
-msgid "\\V[0052]/626-tb303"
+msgid "\\V[0001]/626-tb303"
 msgstr ""
 
 #. ID 57, Page 1, Line 126, Pos (59,6)
-msgid "\\V[0052]/626-india"
+msgid "\\V[0001]/626-india"
 msgstr ""
 
 #. ID 57, Page 1, Line 131, Pos (59,6)
-msgid "\\V[0052]/qs0UrDFJ-bgm054"
+msgid "\\V[0001]/qs0UrDFJ-bgm054"
 msgstr ""
 
 #. ID 57, Page 1, Line 136, Pos (59,6)
-msgid "\\V[0052]/soto-C8"
+msgid "\\V[0001]/soto-C8"
 msgstr ""
 
 #. ID 57, Page 1, Line 141, Pos (59,6)
-msgid "\\V[0052]/903-suna001"
+msgid "\\V[0001]/903-suna001"
 msgstr ""
 
 #. ID 57, Page 1, Line 146, Pos (59,6)
-msgid "\\V[0052]/qs0UrDFJ-title"
+msgid "\\V[0001]/qs0UrDFJ-title"
 msgstr ""
 
 #. ID 57, Page 1, Line 151, Pos (59,6)
-msgid "\\V[0052]/yumepo06"
+msgid "\\V[0001]/yumepo06"
 msgstr ""
 
 #. ID 57, Page 1, Line 156, Pos (59,6)
-msgid "\\V[0052]/bgm051"
+msgid "\\V[0001]/bgm051"
 msgstr ""
 
 #. ID 57, Page 1, Line 161, Pos (59,6)
-msgid "\\V[0052]/bgm052"
+msgid "\\V[0001]/bgm052"
 msgstr ""
 
 #. ID 57, Page 1, Line 166, Pos (59,6)
-msgid "\\V[0052]/yumepo3"
+msgid "\\V[0001]/yumepo3"
 msgstr ""
 
 #. ID 57, Page 1, Line 171, Pos (59,6)
-msgid "\\V[0052]/kana08"
+msgid "\\V[0001]/kana08"
 msgstr ""
 
 #. ID 57, Page 1, Line 176, Pos (59,6)
-msgid "\\V[0052]/bgm075"
+msgid "\\V[0001]/bgm075"
 msgstr ""
 
 #. ID 58, Page 1, Line 11, Pos (16,19)
@@ -1092,12 +1092,16 @@ msgid ""
 "\\>どーも20 ◆7Hq6S9uj/75dです。\n"
 "\\!\\>最近「ゆめ２っき」界隈に活気が出てなによりです＾＾"
 msgstr ""
+"\\>Hello, it's 20 ◆7Hq6S9uj/75d.\n"
+"\\!\\>I'm glad that \"Yume 2kki\" is expanding ＾＾"
 
 #. ID 63, Page 1, Line 24, Pos (61,6)
 msgid ""
 "\\>さて、かねてより考えていた、\n"
 "\\>サウンドルームのテストバージョンが出来ました。"
 msgstr ""
+"\\>Meanwhile, I made a test version of the Sound Room\n"
+"\\>that I wanted to make."
 
 #. ID 63, Page 1, Line 26, Pos (61,6)
 msgid ""
@@ -1106,6 +1110,10 @@ msgid ""
 "\\>きちんとプログラムが出来るまで後回しです。\n"
 "\\!\\>イベントに無駄があってちょっと重い……"
 msgstr ""
+"\\>It's still in progress so it only has 5 tracks.\n"
+"\\!\\>Graphic consoles and adding tracks functionality\n"
+"\\>will be put on hold until I made a proper program.\n"
+"\\!\\>It has too many events so it's a bit heavy......"
 
 #. ID 63, Page 1, Line 30, Pos (61,6)
 msgid ""
@@ -1113,6 +1121,9 @@ msgid ""
 "\\>とくに決まってないです。\n"
 "\\!\\>描いてくれる絵師さんいるかな？"
 msgstr ""
+"\\>The graphics of the Sound Room are sample.\n"
+"\\>They are not determined yet.\n"
+"\\!\\>Any artist who can draw?"
 
 #. ID 63, Page 1, Line 33, Pos (61,6)
 msgid ""
@@ -1120,60 +1131,81 @@ msgid ""
 "\\>出来ないことも無いですが\n"
 "\\>実装するのは結構面倒です。"
 msgstr ""
+"\\>It's possible to make an Autoplay and a Random\n"
+"\\>Play function, but it's hard to implement them.\n"
+"\\>"
 
 #. ID 63, Page 1, Line 36, Pos (61,6)
 msgid ""
 "\\>数値入力での曲再生は\n"
 "\\>このイベントに絡めて実装予定です"
 msgstr ""
+"\\>I'm planning to implement \"Play track\" by \n"
+"\\>inputting a No. in this Event"
 
 #. ID 63, Page 1, Line 38, Pos (61,6)
 msgid ""
 "\\>一応\\C[4]シフトキー\\C[0]でイントロ風　連続演奏ができます。\n"
 "\\>もう一度押すと解除されます。"
 msgstr ""
+"\\>Also the \\C[4]Shift key\\C[0] could be used to\n"
+"\\>Autoplay intro tracks.\n"
+"\\>And then press the Shift key once again to disable."
 
 #. ID 63, Page 1, Line 41, Pos (61,6)
 msgid ""
 "\\>なお、一度イベントを終了しても、\n"
 "\\>最後に聞いた曲は保持されます。"
 msgstr ""
+"\\>The last track you will have listened will be\n"
+"\\>saved even after ending this event."
 
 #. ID 63, Page 1, Line 46, Pos (61,6)
 #. ID 63, Page 1, Line 67, Pos (61,6)
 #. ID 63, Page 1, Line 114, Pos (61,6)
 msgid "\\>どーも20 ◆7Hq6S9uj/75dです。"
-msgstr ""
+msgstr "\\>Hello, it's 20 ◆7Hq6S9uj/75d."
 
 #. ID 63, Page 1, Line 47, Pos (61,6)
 msgid ""
 "\\>サウンドルームのテストバージョン\n"
 "\\>Ver.0.02が出来ました。"
 msgstr ""
+"\\>The test version of the Sound Room is\n"
+"\\>now Ver.0.02."
 
 #. ID 63, Page 1, Line 49, Pos (61,6)
 msgid ""
 "\\>イベントを見直したので、\n"
 "\\>動作が前回より軽くなりました！！"
 msgstr ""
+"\\>I revised the event so the behaviour\n"
+"\\>is so much lighter than before!!"
 
 #. ID 63, Page 1, Line 51, Pos (61,6)
 msgid ""
 "\\>今回は直感的に操作できるか調べるため、\n"
 "\\>マニュアルの表示は無しです。"
 msgstr ""
+"\\>In this version, the manuals will not be shown\n"
+"\\>since I want to know if anyone can control it\n"
+"\\>by intuition."
 
 #. ID 63, Page 1, Line 53, Pos (61,6)
 msgid ""
 "\\>連続再生を擬似的に導入しました。\n"
 "\\!\\>ただしこの再生方法は多少難があり……"
 msgstr ""
+"\\>I implemented a spurious Autoplay feature.\n"
+"\\!\\>This method has some problems..."
 
 #. ID 63, Page 1, Line 55, Pos (61,6)
 msgid ""
 "\\>お使いのPCの環境に左右されるため、\n"
 "\\>正確に再生時間を測ることが出来ません。"
 msgstr ""
+"\\>It depends on your PC specs, so it cannot measure\n"
+"\\>accurate play time."
 
 #. ID 63, Page 1, Line 57, Pos (61,6)
 msgid ""
@@ -1181,6 +1213,8 @@ msgid ""
 "\\>メディアプレーヤーなどのアプリで\n"
 "\\>再生した方がよいでしょう＾＾；"
 msgstr ""
+"\\>If you just want to listen tracks, play the music\n"
+"\\>files in your media player is better for sure.＾＾；"
 
 #. ID 63, Page 1, Line 60, Pos (61,6)
 msgid ""
@@ -1188,18 +1222,26 @@ msgid ""
 "\\!\\>この方法だとキー操作の関係で文字の表示が使えない為\n"
 "\\>曲数だけピクチャーが必要となります＾＾；"
 msgstr ""
+"\\>It will show the Title and the Composer spuriously.\n"
+"\\!\\>With this method, it's not possible to show\n"
+"\\>letters while controlling, so it's necessary to\n"
+"\\>make Pictures for each track＾＾；"
 
 #. ID 63, Page 1, Line 63, Pos (61,6)
 msgid ""
 "\\>なお、イントロ再生の時間設定は、\n"
 "\\>時計で調整できます。"
 msgstr ""
+"\\>Furthermore, you can adjust the length of \n"
+"\\>intro tracks with the clock."
 
 #. ID 63, Page 1, Line 68, Pos (61,6)
 msgid ""
 "\\>サウンドルームのテストバージョン\n"
 "\\>Ver.0.03が出来ました。"
 msgstr ""
+"\\>The test Version of Sound Room is\n"
+"\\>now Ver.0.03."
 
 #. ID 63, Page 1, Line 70, Pos (61,6)
 msgid ""
@@ -1207,20 +1249,26 @@ msgid ""
 "\\>しかし、毎度氏の作るシステムは目からうろこですね。\n"
 "\\c[2]\\!\\>これからもいろいろパクろうと思います！！"
 msgstr ""
+"\\>I\\_revised\\_it\\_after\\_being\\_inspired\\_by\\_kuraud's\\_event.\n"
+"\\>Although, kuraud's systems are always an \n"
+"\\>eyent-opener to me.\n"
+"\\c[2]\\!\\>I'm going to imitate those techs!!"
 
 #. ID 63, Page 1, Line 73, Pos (61,6)
 msgid "さて、\\>今回の変更点は"
-msgstr ""
+msgstr "Now, \\>the changes of this version are:"
 
 #. ID 63, Page 1, Line 75, Pos (61,6)
 msgid "\\>・曲・作曲者名と曲情報を1枚の画像に収め規格化"
-msgstr ""
+msgstr "\\>・Put the track title, composer, and info on 1 pic"
 
 #. ID 63, Page 1, Line 77, Pos (61,6)
 msgid ""
 "\\>・曲・作曲者名と曲情報を1枚の画像に収め規格化\n"
 "\\>・曲情報が無ければ、未登録画像を表示"
 msgstr ""
+"\\>・Put the track title, composer, and info on 1 pic\n"
+"\\>・Show an unregistered pic if no track info found"
 
 #. ID 63, Page 1, Line 80, Pos (61,6)
 msgid ""
@@ -1228,6 +1276,9 @@ msgid ""
 "\\>・曲情報が無ければ、未登録画像を表示\n"
 "\\>・曲の演奏時間の指定が無ければ、適当な値を代入"
 msgstr ""
+"\\>・Put the track title, composer, and info on 1 pic\n"
+"\\>・Show an unregistered pic if no track info found\n"
+"\\>・Input a value if there is no specified length"
 
 #. ID 63, Page 1, Line 84, Pos (61,6)
 msgid ""
@@ -1236,18 +1287,26 @@ msgid ""
 "\\>・曲の演奏時間の指定が無ければ、適当な値を代入\n"
 "　以上です。"
 msgstr ""
+"\\>・Put the track title, composer, and info on 1 pic\n"
+"\\>・Show an unregistered pic if no track info found\n"
+"\\>・Input a value if there is no specified length\n"
+"　That's all."
 
 #. ID 63, Page 1, Line 88, Pos (61,6)
 msgid ""
 "\\>それと追加で通常再生のリピート中に↑を押すと\n"
 "\\>曲情報が「文字イベント」として表示されます。"
 msgstr ""
+"\\>Plus, press the ↑ key while in repeat mode to\n"
+"\\>show the track info as a \"Text Event\"."
 
 #. ID 63, Page 1, Line 90, Pos (61,6)
 msgid ""
 "\\>凡庸性、編集製、作業性が高いですが、\n"
 "\\>\\c[3]リピート中にしか表示できない制限があります。"
 msgstr ""
+"\\>It's very versatile and easy to edit,\n"
+"\\>\\c[3]but it is shown only while in repeat mode."
 
 #. ID 63, Page 1, Line 92, Pos (61,6)
 msgid ""
@@ -1255,38 +1314,55 @@ msgid ""
 "\\c[4]\\>「俺はココのマップはこの曲のが合うと思うんだよね」\n"
 "\\c[3]\\!\\>という方のニーズに応えるべく"
 msgstr ""
+"\\>In the future, to meet demands from\n"
+"\\>people like:\n"
+"\\>\"I think this map fits with that track.\""
 
 #. ID 63, Page 1, Line 95, Pos (61,6)
 msgid ""
 "\\>プレイ中にでもiPodのように\n"
 "\\>マップ上で曲を変更できるよう考えております。"
 msgstr ""
+"\\>I'm thinking of adding a feature to be able\n"
+"\\>to change track on any map like an iPod."
 
 #. ID 63, Page 1, Line 97, Pos (61,6)
 msgid "\\>という事で全てのイベントをコモン化する予定です。"
 msgstr ""
+"\\>Thus, I'm planning to make these events\n"
+"\\>as Common Events."
 
 #. ID 63, Page 1, Line 98, Pos (61,6)
 msgid ""
 "\\>曲追加も可能な限り簡素化して、\n"
 "\\>わかりやすくしたいところです。"
 msgstr ""
+"\\>If possible I want to make it easy to add tracks\n"
+"\\>by simplifying it."
 
 #. ID 63, Page 1, Line 100, Pos (61,6)
 msgid "\\>個人的に搭載したい機能は「ファジー演奏機能」です。"
 msgstr ""
+"\\>Personally, I want to implement a\n"
+"\\>\"Fuzzy play functionality\"."
 
 #. ID 63, Page 1, Line 101, Pos (61,6)
 msgid ""
 "\\>短いループ曲は3週ぐらい演奏して、\n"
 "\\>長い曲は1回だけとか……そんなアバウトな機能です。"
 msgstr ""
+"\\>It would work like that: \n"
+"\\>A Short track loops 3 times\n"
+"\\>A long track loops once."
 
 #. ID 63, Page 1, Line 103, Pos (61,6)
 msgid ""
 "\\>サウンドルームをどのような見た目にするか、\n"
 "\\>全然考えていないのですが、どうしましょうかね？"
 msgstr ""
+"\\>I'm still thinking on the graphics of the\n"
+"\\> Sound Room...\n"
+"\\>What should I do?"
 
 #. ID 63, Page 1, Line 105, Pos (61,6)
 msgid ""
@@ -1294,6 +1370,9 @@ msgid ""
 "\\!\\>それとも1枚絵ドーンのピクチャーで行くか。\n"
 "\\!\\>あるいは画像差し替えでスキンが変更可能とか……"
 msgstr ""
+"\\>Maybe small pixel arts wandering on the map?\n"
+"\\|\\>Or 1 big Picture?\n"
+"\\|\\>Or exchangeable picture skins?"
 
 #. ID 63, Page 1, Line 108, Pos (61,6)
 msgid ""
@@ -1301,22 +1380,32 @@ msgid ""
 "\\>曲はヘッドホンで聴くことをおすすめします。\n"
 "\\>では、また!!"
 msgstr ""
+"\\>Now listen to this imagining such things.\n"
+"\\>Using headphones is recommended.\n"
+"\\>See you again!!"
 
 #. ID 63, Page 1, Line 115, Pos (61,6)
 msgid ""
 "\\>サウンドルームのテストバージョン\n"
 "\\>Ver.0.04が出来ました。"
 msgstr ""
+"\\>The test Version of the Sound Room is\n"
+"\\>now Ver.0.04."
 
 #. ID 63, Page 1, Line 117, Pos (61,6)
 msgid ""
 "\\>そろそろ本体の方を更新しろ！\n"
 "\\>などという声が出てきそうですが＾＾；"
 msgstr ""
+"\\>Someone might say\n"
+"\\>\"Update the main game now!\"\n"
+"\\>I assume...＾＾；"
 
 #. ID 63, Page 1, Line 119, Pos (61,6)
 msgid "\\>水面下では動いてますが、なかなか実装に至りません。"
 msgstr ""
+"\\>Actually I'm working on it but it's still not\n"
+"\\>done yet."
 
 #. ID 63, Page 1, Line 120, Pos (61,6)
 msgid ""
@@ -1324,16 +1413,24 @@ msgid ""
 "\\>職人さんGJ！\n"
 "\\!\\>あれでマップ作ってみようと思います。"
 msgstr ""
+"\\>I like the \"rough sketch: Red Town\" which I\n"
+"\\>found on an uploader.\n"
+"\\>Great job artist!\n"
+"\\|\\>I'm going to make a map from that."
 
 #. ID 63, Page 1, Line 123, Pos (61,6)
 msgid "\\>さて、今回のサウンドルーム変更点は……"
 msgstr ""
+"\\>Now, the changes of the Sound\n"
+"\\>Room on this version are.."
 
 #. ID 63, Page 1, Line 124, Pos (61,6)
 msgid ""
 "\\>曲をフェードアウトさせて曲の繋ぎを\n"
 "\\>ごまかしてみました"
 msgstr ""
+"\\>Made tracks fade out and made the transition\n"
+"\\>smoother between tracks."
 
 #. ID 63, Page 1, Line 126, Pos (61,6)
 msgid ""
@@ -1341,38 +1438,52 @@ msgid ""
 "\\>再生ボタン、停止ボタン、リピートボタン\n"
 "\\>イントロボタンはききません。　ブザーが鳴ります。"
 msgstr ""
+"\\>However, the specs don't allow to use the Play,\n"
+"\\>Stop, Repeat, and Intro buttons during a fade out.\n"
+"\\>A buzzer sound is played instead."
 
 #. ID 63, Page 1, Line 129, Pos (61,6)
 msgid "\\>次にいろいろと演出方法を模索しました。"
-msgstr ""
+msgstr "\\>Secondly, I sought ways of visual staging."
 
 #. ID 63, Page 1, Line 130, Pos (61,6)
 msgid ""
 "\\>今回は視覚的演出方法の一例として\n"
 "\\>ピクチャーを使わず遠景を使用してみました。"
 msgstr ""
+"\\>This time I use a Panorama instead\n"
+"\\>of a Picture as an example of a visual\n"
+"\\>staging method."
 
 #. ID 63, Page 1, Line 132, Pos (61,6)
 msgid ""
 "\\>専用のピクチャーをわざわざ用意しなくても\n"
 "\\>マップで使っているリソースをそのまま利用できます。"
 msgstr ""
+"\\>You can reuse the resources of a map, so\n"
+"\\>no need to draw a dedicated picture."
 
 #. ID 63, Page 1, Line 134, Pos (61,6)
 msgid ""
 "\\>もちろん別途ピクチャーを用意するとか、\n"
 "\\>遠景が用意出来なくても問題無しです。"
 msgstr ""
+"\\>Of course you can bring a dedicated\n"
+"\\>picture if you want, and it's not a problem\n"
+"\\>if you couldn't prepare backgrounds."
 
 #. ID 63, Page 1, Line 136, Pos (61,6)
 msgid ""
 "\\>ロダにあがっていた素材にピンと来て、\n"
 "\\>ただ、やってみたかったというのもありますｗ"
 msgstr ""
+"\\>I just wanted to try after I got an\n"
+"\\>idea from some resources I found\n"
+"\\>on an uploader. :P"
 
 #. ID 63, Page 1, Line 138, Pos (61,6)
 msgid "\\>ではどうぞ！"
-msgstr ""
+msgstr "\\>Now here you go!"
 
 #. ID 64, Page 1, Line 2, Pos (14,22)
 #. ChangeHeroName (Actor 2)
@@ -1422,6 +1533,8 @@ msgstr "\\>Teleport to Atlantis"
 #. ID 131, Page 1, Line 12, Pos (58,3)
 #. Choice (2 options, embedded in a message)
 #. ID 131, Page 1, Line 29, Pos (58,3)
+#. Choice (2 options, embedded in a message)
+#. ID 158, Page 1, Line 82, Pos (19,0)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>はい\n"
@@ -1562,7 +1675,8 @@ msgid ""
 msgstr ""
 "\\>【About using effect graphics】\n"
 "\\>Drum>Playing guitar graphics\n"
-"\\>Please don't use anywhere except for Debug. -kuraud"
+"\\>Please don't use it anywhere except for Debug. \n"
+"\\>-kuraud"
 
 #. ID 85, Page 1, Line 1, Pos (2,34)
 #. ID 86, Page 1, Line 1, Pos (4,34)
@@ -1926,6 +2040,9 @@ msgid ""
 "\\>ものすごい手間になりますが\n"
 "\\>どうしましょう？"
 msgstr ""
+"\\>It'll be tough to implement Yume Nikki's\n"
+"\\>Traffic Light behaviour like to all objects.\n"
+"\\>Should we do it anyways?"
 
 #. ID 109, Page 1, Line 12, Pos (26,15)
 msgid ""
@@ -1933,6 +2050,10 @@ msgid ""
 "長押し動作不安定、対応キャラが少ない等の\n"
 "理由で一旦没収しました。"
 msgstr ""
+"In ver.0.099h,\n"
+"the Railroad Crossing has been discarded\n"
+"due to unstable holding action and\n"
+"the fact that only few objects worked."
 
 #. ID 109, Page 1, Line 15, Pos (26,15)
 msgid ""
@@ -1941,6 +2062,10 @@ msgid ""
 "一応はこれで動くハズです。\n"
 "（デバッグ中にのみ長押しが動作します）"
 msgstr ""
+"In ver0.100,\n"
+"I edited through a trial and error process.\n"
+"It should now work.\n"
+"(Hold action works only during Debug)"
 
 #. ID 109, Page 2, Line 5, Pos (26,15)
 msgid "\\>「空きスロット33」エフェクトを破棄しました"
@@ -3171,7 +3296,7 @@ msgstr ""
 
 #. ID 155, Page 6, Line 36, Pos (57,6)
 #. ChangeHeroName (Actor 1)
-#. ID 158, Page 1, Line 59, Pos (19,0)
+#. ID 158, Page 2, Line 59, Pos (19,0)
 #. ChangeHeroName (Actor 1)
 #. ID 183, Page 6, Line 221, Pos (56,8)
 #. ChangeHeroName (Actor 1)
@@ -3207,22 +3332,89 @@ msgid ""
 "\\>1～エフェ / 51～エフェMIX / 100～すっぴんランダム\n"
 "\\>/ 500000～その他Ev用"
 msgstr ""
-"\\>◆Change Mask (0 to Cancel)(99 for the Mask Menu)\n"
-"\\>(Current:\\V[3930]) 1～Effect/51～EffectMIX/\n"
-"\\>100～NoEffectRandom/500000～ForEV"
+"\\>◆Change Mask (0 to cancel) (99 for the Mask Menu)\n"
+"\\>1～Effect /51～Effect MIX/ 100～Non-Effect Masks\n"
+"\\>/500000～For Event Masks - Current: \\V[3930]"
 
-#. ID 158, Page 1, Line 1, Pos (19,0)
+#. ID 158, Page 1, Line 8, Pos (19,0)
+msgid ""
+"\\>現到達MAP数：\\V[3511]／\\V[3512]\n"
+"\\>現MAP到達率：\\V[3513]％"
+msgstr ""
+"\\>Current visited Map(s): \\V[3511]/\\V[3512]\n"
+"\\>Current Map Rate: \\V[3513]%"
+
+#. ID 158, Page 1, Line 10, Pos (19,0)
+#. Contains choice at line 2 (3 options)
+msgid "\\>※MAP到達済みフラグ操作メニュー※"
+msgstr "\\>※Visited Map Flag Control Menu※"
+
+#. ID 158, Page 1, Line 11, Pos (19,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>何もしない\n"
+"\\>全MAP到達済みにする\n"
+"\\>"
+msgstr ""
+"\\>Do nothing\n"
+"\\>change all to visited\n"
+"\\>"
+
+#. ID 158, Page 1, Line 15, Pos (19,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>しばらく時間がかかります。\n"
+"\\>よろしいですか？ (右キー押しながら決定で途中経過表示)"
+msgstr ""
+"\\>This will take a while.\n"
+"\\>Proceed? (Hold → key and proceed to show progress)"
+
+#. ID 158, Page 1, Line 17, Pos (19,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>よろしいです\n"
+"\\>じゃあ止めます"
+msgstr ""
+"\\>Yes\n"
+"\\>Cancel"
+
+#. ID 158, Page 1, Line 38, Pos (19,0)
+msgid "\\>mapID:\\v[28] OK\\^"
+msgstr ""
+
+#. ID 158, Page 1, Line 72, Pos (19,0)
+msgid "\\>完了しました"
+msgstr "\\>Completed"
+
+#. ID 158, Page 1, Line 81, Pos (19,0)
+#. Contains choice at line 2 (2 options)
+msgid "\\>以降、デバッグ用到達済み処理を呼び出しますか？"
+msgstr ""
+"\\>Do you still want to call the visited map\n"
+"\\>processing for Debug purposes?"
+
+#. ID 158, Page 1, Line 87, Pos (19,0)
+msgid ""
+"\\>設定を変更しました\n"
+"\\>　以降、デバッグアイテムを捨てるまで\n"
+"\\>　この処理は呼び出されなくなります"
+msgstr ""
+"\\>This setting has been changed.\n"
+"\\>　This processing will not be called\n"
+"\\>　until the Debug item is discarded."
+
+#. ID 158, Page 2, Line 1, Pos (19,0)
 #. Choice (3 options)
 msgid ""
 "\\>MAP到達率確認/到達フラグ操作\n"
 "\\>未到達MAPチェック\n"
 "\\>到達済MAP確認"
 msgstr ""
-"\\>Check Map Rate/ Control Visit Flag\n"
+"\\>Check Map Rate/Control Visit Flag\n"
 "\\>Check Unvisited Map(s)\n"
 "\\>Check Visited Map(s)"
 
-#. ID 158, Page 1, Line 10, Pos (19,0)
+#. ID 158, Page 2, Line 10, Pos (19,0)
 msgid ""
 "\\>【未訪問マップをチェック】\n"
 "\\>マップ訪問判定が行われているマップで、\n"
@@ -3231,14 +3423,14 @@ msgstr ""
 "\\>【Unvisited Maps Checker】\n"
 "Check unvisited map(s) that detect visit."
 
-#. ID 158, Page 1, Line 13, Pos (19,0)
+#. ID 158, Page 2, Line 13, Pos (19,0)
 #. Contains choice at line 2 (3 options)
-#. ID 158, Page 1, Line 19, Pos (19,0)
+#. ID 158, Page 2, Line 19, Pos (19,0)
 #. Contains choice at line 2 (3 options)
 msgid "\\>【未訪問マップをチェック】"
 msgstr "\\>【Unvisited Map Checker】"
 
-#. ID 158, Page 1, Line 14, Pos (19,0)
+#. ID 158, Page 2, Line 14, Pos (19,0)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>チェックする\n"
@@ -3249,7 +3441,7 @@ msgstr ""
 "\\>Check (Auto scroll)\n"
 "\\>Cancel"
 
-#. ID 158, Page 1, Line 20, Pos (19,0)
+#. ID 158, Page 2, Line 20, Pos (19,0)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>自動文字送り：ゆっくり\n"
@@ -3260,25 +3452,25 @@ msgstr ""
 "\\>Auto scroll speed: Fast\n"
 "\\>Auto scroll speed: Instant"
 
-#. ID 158, Page 1, Line 22, Pos (19,0)
+#. ID 158, Page 2, Line 22, Pos (19,0)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "\\<\\|\\^"
 msgstr ""
 
-#. ID 158, Page 1, Line 25, Pos (19,0)
+#. ID 158, Page 2, Line 25, Pos (19,0)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "\\<\\.\\^"
 msgstr ""
 
-#. ID 158, Page 1, Line 28, Pos (19,0)
+#. ID 158, Page 2, Line 28, Pos (19,0)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "\\<\\^"
 msgstr ""
 
-#. ID 158, Page 1, Line 65, Pos (19,0)
+#. ID 158, Page 2, Line 65, Pos (19,0)
 msgid "\\>「おきる」→「マップ到達」を選択し確認せよ！"
 msgstr "\\>Select 「Wake Up」→「マップ到達」 and check!"
 
@@ -4255,10 +4447,6 @@ msgstr ""
 "It updates effect Graphics. Use this when you want\n"
 "to set Urotsuki to default graphics, when you go\n"
 "underwater, or to forbid a particular action."
-
-#. ID 198, Page 1, Line 2, Pos (14,6)
-msgid "\\v[1]"
-msgstr ""
 
 #. ID 199, Page 1, Line 8, Pos (9,8)
 msgid ""
