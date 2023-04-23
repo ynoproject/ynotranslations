@@ -1315,8 +1315,8 @@ msgid ""
 "\\c[3]\\!\\>という方のニーズに応えるべく"
 msgstr ""
 "\\>In the future, to meet demands from\n"
-"\\>people like:\n"
-"\\>\"I think this map fits with that track.\""
+"\\c[4]\\>people like:\n"
+"\\c[3]\\!\\>\"I think this map fits with that track.\""
 
 #. ID 63, Page 1, Line 95, Pos (61,6)
 msgid ""
@@ -1371,8 +1371,8 @@ msgid ""
 "\\!\\>あるいは画像差し替えでスキンが変更可能とか……"
 msgstr ""
 "\\>Maybe small pixel arts wandering on the map?\n"
-"\\|\\>Or 1 big Picture?\n"
-"\\|\\>Or exchangeable picture skins?"
+"\\!\\>Or 1 big Picture?\n"
+"\\!\\>Or exchangeable picture skins?"
 
 #. ID 63, Page 1, Line 108, Pos (61,6)
 msgid ""
@@ -1416,7 +1416,7 @@ msgstr ""
 "\\>I like the \"rough sketch: Red Town\" which I\n"
 "\\>found on an uploader.\n"
 "\\>Great job artist!\n"
-"\\|\\>I'm going to make a map from that."
+"\\!\\>I'm going to make a map from that."
 
 #. ID 63, Page 1, Line 123, Pos (61,6)
 msgid "\\>さて、今回のサウンドルーム変更点は……"
