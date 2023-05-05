@@ -147,7 +147,7 @@ msgstr ""
 
 #. ID 11, Page 1, Line 7, Pos (3,11)
 msgid "\\>タイプ　olc black に変更しました！"
-msgstr "\\>Window type changed to \"olc black\"!"
+msgstr "\\>Window type changed to \"old black\"!"
 
 #. ID 12, Page 1, Line 2, Pos (5,1)
 #. Contains choice at line 3 (2 options)
