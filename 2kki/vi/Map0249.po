@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 1, Line 4, Pos (2,1)
+#. Choice (4 options)
+msgid ""
+"　　　　　　　　さいしょから\n"
+"　　　　　　　　 つづきから\n"
+"　　　　　　　　　せつめい\n"
+"　　　　　　　 ゲームをおわる"
+msgstr ""
+"　　　　　　　　　  Bắt đầu\n"
+"　　　　　　　　   Tiếp tục\n"
+"　　　　　　　　　 Hướng dẫn\n"
+"　　　　　　　  Thoát trò chơi"
+
+#. ID 1, Page 1, Line 7, Pos (2,1)
+msgid "　　　　　　　データが初期化されました"
+msgstr "　　　　　　Khởi tạo dữ liệu thành công"
+
+#. ID 1, Page 1, Line 63, Pos (2,1)
+msgid "セーブデータがありません"
+msgstr "Không có dữ liệu lưu"
+
+#. ID 1, Page 1, Line 68, Pos (2,1)
+msgid "迷路の中に落ちている5種類+αの氷を集めるゲームです。"
+msgstr ""
+"Đây là một trò chơi thu thập 5 vật dụng bằng băng\n"
+"(và thêm nữa) rải rác trong mê cung."
+
+#. ID 1, Page 1, Line 69, Pos (2,1)
+msgid ""
+"アイテム：所持してる氷を確認\n"
+"もどる：初期位置に戻ります\n"
+"セーブ：現在地を記録します\n"
+"おわる：ここに戻ります"
+msgstr ""
+"Túi đồ: Xem các vật bạn đang có\n"
+"Quay về: Quay về vị trí bắt đầu\n"
+"Lưu: Lưu vị trí hiện tại\n"
+"Thoát: Trở về màn hình chính"
+
+#. ID 1, Page 1, Line 73, Pos (2,1)
+msgid ""
+"一度クリアする、最初からプレイすると\n"
+"位置情報、取得した氷のデータが初期化されます。"
+msgstr ""
+"Khi phá đảo trò chơi lần đầu tiên, hoặc khi bắt\n"
+"đầu lại trò chơi, dữ liệu về địa điểm và túi đồ sẽ\n"
+"được khởi tạo."
+
+#. ID 1, Page 1, Line 75, Pos (2,1)
+msgid ""
+"なお、このゲーム内でのセーブは簡易セーブです。\n"
+"「つづきから」を選択した場合、\n"
+"セーブした場所からスタートします。"
+msgstr ""
+"Lưu ý rằng chức năng lưu của trò chơi khá đơn sơ.\n"
+"Nếu bạn chọn \"Tiếp tục\", trò chơi sẽ tiếp tục từ\n"
+"điểm lưu gần nhất."
+
+#. ID 1, Page 1, Line 79, Pos (2,1)
+msgid ""
+"★既クリア特典★\n"
+"氷を一気に取得できるキャラクターが\n"
+"どこかに出現しました。"
+msgstr ""
+"★ Quyền lợi sau khi phá đảo ★\n"
+"Một nhân vật đặc biệt có thể cho\n"
+"tất cả vật dụng sẽ xuất hiện đâu đó."
+
+#. ID 1, Page 1, Line 85, Pos (2,1)
+msgid ""
+"何度もゲームを読み込むことで超高速にできます。\n"
+"デバッグモードでシフトを押すと\n"
+"うろつきの等速になります。"
+msgstr ""
+"Bạn có thể chạy nhanh hơn bằng cách thoát ra rồi\n"
+"vào lại nhiều lần.\n"
+"Nếu bạn ấn Shift trong chế độ gỡ lỗi "
+
+#. ID 1, Page 1, Line 88, Pos (2,1)
+msgid ""
+"GOODとBADの分かれ目は新しく実装された粉雪です。\n"
+"その辺ふよふよしてるのを30個集めたらBADです。\n"
+"99個以上取ると多分表示がバグります。"
+msgstr ""
+"Điểm khác biệt giữa GOOD và BAD là về bụi tuyết\n"
+"được thêm vào gần đây.\n"
+"Nếu bạn thu thập từ 30 trở lên, bạn sẽ rơi vào BAD.\n"
+"Nếu bạn thu thập trên 99, có thể đồ họa sẽ bị lỗi."
