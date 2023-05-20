@@ -3,19 +3,44 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 1, Page 2, Line 44, Pos (1,1)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 2, Line 92, Pos (12,5)
+#. ChangeHeroName (Actor 7)
+#. ID 6, Page 2, Line 96, Pos (12,5)
+#. ChangeHeroName (Actor 7)
+#. ID 6, Page 6, Line 416, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 447, Pos (12,5)
+#. Condition (Actor Name = うろつき)
+#. ID 6, Page 6, Line 461, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 1, Line 45, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Urotsuki"
+
+#. ID 1, Page 2, Line 62, Pos (1,1)
+msgid ""
+"\\>エラー：Time Trial Modeでセーブできてしまいました\n"
+"\\>\n"
+"\\>\n"
+"\\>タイトル画面へ戻ります"
+msgstr ""
 
 #. ID 2, Page 1, Line 5, Pos (12,4)
 #. Condition (Actor Name = 【壁紙ｷﾞｬﾗﾘｰへ入室する】)
-#. ID 6, Page 6, Line 585, Pos (12,5)
+#. ID 6, Page 6, Line 588, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【壁紙ｷﾞｬﾗﾘｰへ入室する】"
@@ -27,23 +52,7 @@ msgctxt "actors.name"
 msgid "Player Name"
 msgstr "Nome do Jogador"
 
-#. ID 6, Page 2, Line 92, Pos (12,5)
-#. ChangeHeroName (Actor 7)
-#. ID 6, Page 2, Line 96, Pos (12,5)
-#. ChangeHeroName (Actor 7)
-#. ID 6, Page 6, Line 415, Pos (12,5)
-#. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 444, Pos (12,5)
-#. Condition (Actor Name = うろつき)
-#. ID 6, Page 6, Line 458, Pos (12,5)
-#. ChangeHeroName (Actor 1)
-#. ID 18, Page 1, Line 17, Pos (12,6)
-#. ChangeHeroName (Actor 1)
-msgctxt "actors.name"
-msgid "うろつき"
-msgstr "Urotsuki"
-
-#. ID 6, Page 4, Line 601, Pos (12,5)
+#. ID 6, Page 4, Line 700, Pos (12,5)
 #. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
 #. ID 6, Page 5, Line 187, Pos (12,5)
 #. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
@@ -51,7 +60,7 @@ msgctxt "actors.name"
 msgid "ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ"
 msgstr ""
 
-#. ID 6, Page 4, Line 746, Pos (12,5)
+#. ID 6, Page 4, Line 845, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>No. \\V[46] に変更しました\n"
@@ -60,7 +69,7 @@ msgstr ""
 "\\>Alterar para o No. \\V[46]\n"
 "\\>Cor de Fonte: \\C[0]$jNormal \\C[1]$kDestacado \\C[3]$mDesativado"
 
-#. ID 6, Page 4, Line 748, Pos (12,5)
+#. ID 6, Page 4, Line 847, Pos (12,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>\\C[0]これでOK\n"
@@ -69,41 +78,41 @@ msgstr ""
 "\\>\\C[0]Confirmar\n"
 "\\>Selecionar novamente"
 
-#. ID 6, Page 4, Line 946, Pos (12,5)
+#. ID 6, Page 4, Line 1125, Pos (12,5)
 msgid ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪再生中：カーソル移動音 \\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Reproduzindo agora: Cursor da Faixa \\<\\.\\.\\^"
 
-#. ID 6, Page 4, Line 951, Pos (12,5)
+#. ID 6, Page 4, Line 1130, Pos (12,5)
 msgid ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪再生中：決定音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Reproduzindo agora: Selecionar Faixa\\<\\.\\.\\^"
 
-#. ID 6, Page 4, Line 956, Pos (12,5)
+#. ID 6, Page 4, Line 1135, Pos (12,5)
 msgid ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪再生中：キャンセル音\\<\\.\\.\\^"
 msgstr ""
 "\n"
-"\\>　／ No.   ／\n"
+"\\>　／       ／\n"
 "\\>♪ Reproduzindo agora: Cancelar Faixa\\<\\.\\.\\^"
 
 #. ID 6, Page 5, Line 330, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 #. ID 6, Page 5, Line 347, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 74, Pos (12,5)
+#. ID 6, Page 6, Line 75, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【PC画面BGMを演奏する】"
@@ -159,17 +168,17 @@ msgstr ""
 "\\>\n"
 "\\>(Deve demorar um pouco se muitas faixas ainda estiverem bloqueadas.)"
 
-#. ID 6, Page 6, Line 83, Pos (12,5)
+#. ID 6, Page 6, Line 84, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 602, Pos (12,5)
+#. ID 6, Page 6, Line 605, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 629, Pos (12,5)
+#. ID 6, Page 6, Line 632, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【外部マップから壁紙を表示する】"
 msgstr ""
 
-#. ID 6, Page 6, Line 352, Pos (12,5)
+#. ID 6, Page 6, Line 353, Pos (12,5)
 msgid ""
 "\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
@@ -181,7 +190,7 @@ msgstr ""
 "\\>Primeiro final: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
 "\\>\\C[2]　　　　(Inclui o tempo gasto na tela do menu)"
 
-#. ID 6, Page 6, Line 358, Pos (12,5)
+#. ID 6, Page 6, Line 359, Pos (12,5)
 msgid ""
 "\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
 "\\>\n"
@@ -193,34 +202,34 @@ msgstr ""
 "\\>Tempo de Jogo: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>\\C[2]　　　　(Inclui o tempo gasto na tela do menu)"
 
-#. ID 6, Page 6, Line 414, Pos (12,5)
+#. ID 6, Page 6, Line 415, Pos (12,5)
 msgid "\\>♪Secret Code：\\V[15]"
 msgstr "\\>♪ Código Secreto: \\V[15]"
 
-#. ID 6, Page 6, Line 420, Pos (12,5)
+#. ID 6, Page 6, Line 422, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 427, Pos (12,5)
+#. ID 6, Page 6, Line 430, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 434, Pos (12,5)
+#. ID 6, Page 6, Line 437, Pos (12,5)
 #. ChangeHeroName (Actor 1)
-#. ID 6, Page 6, Line 441, Pos (12,5)
+#. ID 6, Page 6, Line 444, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "Code入力中"
 msgstr "Inserir código"
 
-#. ID 6, Page 6, Line 464, Pos (12,5)
+#. ID 6, Page 6, Line 467, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【SR分室へ入室する】"
 msgstr ""
 
-#. ID 6, Page 6, Line 540, Pos (12,5)
+#. ID 6, Page 6, Line 543, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>通知機能を設定してください"
 msgstr "\\>Por favor, defina a função de notificação"
 
-#. ID 6, Page 6, Line 541, Pos (12,5)
+#. ID 6, Page 6, Line 544, Pos (12,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "・ON\n"
@@ -231,40 +240,40 @@ msgstr ""
 "・Desligar\n"
 "・Decidir depois"
 
-#. ID 6, Page 6, Line 549, Pos (12,5)
+#. ID 6, Page 6, Line 552, Pos (12,5)
 msgid "\\>壁紙メニューのオプションで設定が変えられます"
 msgstr "\\>As configurações podem ser alteradas nas opções do menu de papel de parede "
 
-#. ID 6, Page 6, Line 564, Pos (12,5)
+#. ID 6, Page 6, Line 567, Pos (12,5)
 #. ChangeHeroName (Actor 2)
-#. ID 6, Page 6, Line 574, Pos (12,5)
+#. ID 6, Page 6, Line 577, Pos (12,5)
 #. ChangeHeroName (Actor 3)
-#. ID 6, Page 6, Line 617, Pos (12,5)
+#. ID 6, Page 6, Line 620, Pos (12,5)
 #. ChangeHeroName (Actor 2)
-#. ID 6, Page 6, Line 651, Pos (12,5)
+#. ID 6, Page 6, Line 654, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "OFF"
 msgstr "Não"
 
-#. ID 6, Page 6, Line 567, Pos (12,5)
+#. ID 6, Page 6, Line 570, Pos (12,5)
 #. ChangeHeroName (Actor 2)
-#. ID 6, Page 6, Line 571, Pos (12,5)
+#. ID 6, Page 6, Line 574, Pos (12,5)
 #. ChangeHeroName (Actor 3)
-#. ID 6, Page 6, Line 620, Pos (12,5)
+#. ID 6, Page 6, Line 623, Pos (12,5)
 #. ChangeHeroName (Actor 2)
-#. ID 6, Page 6, Line 647, Pos (12,5)
+#. ID 6, Page 6, Line 650, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ON"
 msgstr "Sim"
 
-#. ID 6, Page 6, Line 578, Pos (12,5)
+#. ID 6, Page 6, Line 581, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
 msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Ilust. atual:No.\\C[4]\\V[19] \\C[0]Aleatório:\\C[4]\\N[2] \\C[0]Notf:\\C[4]\\N[3]\\C[0]"
 
-#. ID 6, Page 6, Line 579, Pos (12,5)
+#. ID 6, Page 6, Line 582, Pos (12,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>・壁紙を選ぶ\n"
@@ -275,7 +284,7 @@ msgstr ""
 "\\>・Importar Arquivo de Imagem\n"
 "\\>・Opções"
 
-#. ID 6, Page 6, Line 595, Pos (12,5)
+#. ID 6, Page 6, Line 598, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
@@ -284,7 +293,7 @@ msgstr ""
 "\\>Use o arquivo em Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
 "\\>\\C[4]Se o arquivo não puder ser lido, o jogo irá fechar.\\C[0]"
 
-#. ID 6, Page 6, Line 597, Pos (12,5)
+#. ID 6, Page 6, Line 600, Pos (12,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>・壁紙を読み込む\n"
@@ -293,12 +302,12 @@ msgstr ""
 "\\>・Importar Imagem\n"
 "\\>・Voltar"
 
-#. ID 6, Page 6, Line 613, Pos (12,5)
+#. ID 6, Page 6, Line 616, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[4]壁紙オプション\\C[0]"
 msgstr "\\>\\C[4]Opções de Ilustração\\C[0]"
 
-#. ID 6, Page 6, Line 614, Pos (12,5)
+#. ID 6, Page 6, Line 617, Pos (12,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>・ランダムモード 切替\n"
@@ -309,7 +318,7 @@ msgstr ""
 "\\>・Notificação de Ilustração Nova\n"
 "\\>・Configuração do Indicador de Ilustração Nova"
 
-#. ID 6, Page 6, Line 623, Pos (12,5)
+#. ID 6, Page 6, Line 626, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\C[3]\\>壁紙をランダムで自動切り替えします\n"
@@ -318,9 +327,9 @@ msgstr ""
 "\\C[3]\\>Definir automaticamente uma Ilustração aleatória?\n"
 "\\>Configuração Atual: \\C[4]\\N[2]\\C[3]"
 
-#. ID 6, Page 6, Line 625, Pos (12,5)
+#. ID 6, Page 6, Line 628, Pos (12,5)
 #. Choice (2 options, embedded in a message)
-#. ID 6, Page 6, Line 658, Pos (12,5)
+#. ID 6, Page 6, Line 661, Pos (12,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>・ON\n"
@@ -329,24 +338,24 @@ msgstr ""
 "\\>・Sim\n"
 "\\>・Não"
 
-#. ID 6, Page 6, Line 633, Pos (12,5)
-#. ID 6, Page 6, Line 661, Pos (12,5)
+#. ID 6, Page 6, Line 636, Pos (12,5)
+#. ID 6, Page 6, Line 664, Pos (12,5)
 msgid "\\>ONにしました。"
 msgstr "\\>Definido para 'Sim'."
 
-#. ID 6, Page 6, Line 638, Pos (12,5)
-#. ID 6, Page 6, Line 665, Pos (12,5)
+#. ID 6, Page 6, Line 641, Pos (12,5)
+#. ID 6, Page 6, Line 668, Pos (12,5)
 msgid "\\>OFFにしました。"
 msgstr "\\>Definido para 'Não'."
 
-#. ID 6, Page 6, Line 656, Pos (12,5)
+#. ID 6, Page 6, Line 659, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
 msgstr ""
 "\\>Deseja ser notificado sobre novas ilustrações?　\n"
 "Configuração Atual: \\C[4]\\N[2]\\C[0]\n"
 
-#. ID 6, Page 6, Line 674, Pos (12,5)
+#. ID 6, Page 6, Line 677, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
@@ -355,7 +364,7 @@ msgstr ""
 "\\>\\C[3]Marcar ou Desmarcar todas as ilust. como novas?\n"
 "\\>"
 
-#. ID 6, Page 6, Line 676, Pos (12,5)
+#. ID 6, Page 6, Line 679, Pos (12,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>・入手済みの全ての壁紙からNew表示を外す\n"
@@ -364,19 +373,19 @@ msgstr ""
 "\\>・Desmarcar todas\n"
 "\\>・Marcar todas"
 
-#. ID 6, Page 6, Line 678, Pos (12,5)
+#. ID 6, Page 6, Line 681, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "入手済みの全ての壁紙からNew表示を外し"
 msgstr "Operação"
 
-#. ID 6, Page 6, Line 683, Pos (12,5)
+#. ID 6, Page 6, Line 686, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "入手済みの全ての壁紙にNew表示をつけ"
 msgstr "Operação"
 
-#. ID 6, Page 6, Line 693, Pos (12,5)
+#. ID 6, Page 6, Line 696, Pos (12,5)
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
@@ -388,9 +397,9 @@ msgstr ""
 "\\>  \\C[4]\\N[2] em andamento.\n"
 "\\>  ・\\<\\|\\^"
 
-#. ID 6, Page 6, Line 699, Pos (12,5)
-#. ID 6, Page 6, Line 711, Pos (12,5)
-#. ID 6, Page 6, Line 723, Pos (12,5)
+#. ID 6, Page 6, Line 702, Pos (12,5)
+#. ID 6, Page 6, Line 714, Pos (12,5)
+#. ID 6, Page 6, Line 726, Pos (12,5)
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
@@ -400,7 +409,7 @@ msgstr ""
 "\\>\n"
 "\\>  \\C[4]O processo foi interrompido."
 
-#. ID 6, Page 6, Line 705, Pos (12,5)
+#. ID 6, Page 6, Line 708, Pos (12,5)
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
@@ -412,7 +421,7 @@ msgstr ""
 "\\>  \\C[4]\\N[2] em andamento.\n"
 "\\>  ・・\\<\\|\\^"
 
-#. ID 6, Page 6, Line 717, Pos (12,5)
+#. ID 6, Page 6, Line 720, Pos (12,5)
 msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>\n"
@@ -424,42 +433,42 @@ msgstr ""
 "\\>  \\C[4]\\N[2] em andamento.\n"
 "\\>  ・・・\\<\\|\\^"
 
-#. ID 6, Page 6, Line 729, Pos (12,5)
+#. ID 6, Page 6, Line 732, Pos (12,5)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "【New表示状態を操作する】"
 msgstr ""
 
-#. ID 6, Page 6, Line 732, Pos (12,5)
+#. ID 6, Page 6, Line 735, Pos (12,5)
 msgid "\\>\\C[3]\\N[2]ました。"
 msgstr "\\>\\C[3]\\N[2] bem sucedida."
 
-#. ID 6, Page 6, Line 738, Pos (12,5)
+#. ID 6, Page 6, Line 741, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "マップ到達"
 msgstr ""
 
-#. ID 6, Page 6, Line 765, Pos (12,5)
+#. ID 6, Page 6, Line 768, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ナシ"
 msgstr "Não"
 
-#. ID 6, Page 6, Line 768, Pos (12,5)
+#. ID 6, Page 6, Line 771, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "アリ"
 msgstr "Sim"
 
-#. ID 6, Page 6, Line 773, Pos (12,5)
+#. ID 6, Page 6, Line 776, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
 msgstr ""
 "\\>Exibir evento de texto nos Sonhos?\n"
 "Configuração Atual: \\C[4]\\N[2]\\C[0]"
 
-#. ID 6, Page 6, Line 774, Pos (12,5)
+#. ID 6, Page 6, Line 777, Pos (12,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>・アリ\n"
@@ -470,15 +479,15 @@ msgstr ""
 "\\>・Não\n"
 "\\>・Fechar Configuração"
 
-#. ID 6, Page 6, Line 777, Pos (12,5)
+#. ID 6, Page 6, Line 780, Pos (12,5)
 msgid "\\>アリにしました。"
 msgstr "\\>Definido para 'Sim'."
 
-#. ID 6, Page 6, Line 781, Pos (12,5)
+#. ID 6, Page 6, Line 784, Pos (12,5)
 msgid "\\>ナシにしました。"
 msgstr "\\>Definido para 'Não'."
 
-#. ID 6, Page 6, Line 799, Pos (12,5)
+#. ID 6, Page 6, Line 802, Pos (12,5)
 #. Choice (4 options)
 msgid ""
 "\\>・メニュータイプ＆効果音変更\n"
@@ -491,7 +500,7 @@ msgstr ""
 "\\>・Redefinir Configurações\n"
 "\\>・Fechar Configuração"
 
-#. ID 6, Page 6, Line 823, Pos (12,5)
+#. ID 6, Page 6, Line 826, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>以下の設定をデフォルトに戻します。\n"
@@ -500,7 +509,7 @@ msgstr ""
 "\\>Redefinir configurações para o padrão?\n"
 "\\>Tema de Menu / Efeitos Sonoros / BGM do PC"
 
-#. ID 6, Page 6, Line 825, Pos (12,5)
+#. ID 6, Page 6, Line 828, Pos (12,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>・デフォルトに戻す\n"
@@ -509,7 +518,7 @@ msgstr ""
 "\\>・ Redefinir\n"
 "\\>・ Cancelar"
 
-#. ID 6, Page 6, Line 833, Pos (12,5)
+#. ID 6, Page 6, Line 836, Pos (12,5)
 msgid ""
 "\\>メニュータイプ / 効果音 / PC画面BGM\n"
 "\\>…をデフォルトに戻しました。"
@@ -517,44 +526,44 @@ msgstr ""
 "\\>Tema de Menu / Efeitos Sonoros / BGM do PC\n"
 "\\>Redefinido."
 
-#. ID 6, Page 6, Line 918, Pos (12,5)
+#. ID 6, Page 6, Line 921, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "00000"
 msgstr ""
 
-#. ID 6, Page 6, Line 920, Pos (12,5)
+#. ID 6, Page 6, Line 923, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "0000"
 msgstr ""
 
-#. ID 6, Page 6, Line 924, Pos (12,5)
+#. ID 6, Page 6, Line 927, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "000"
 msgstr ""
 
-#. ID 6, Page 6, Line 928, Pos (12,5)
+#. ID 6, Page 6, Line 931, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "00"
 msgstr ""
 
-#. ID 6, Page 6, Line 932, Pos (12,5)
+#. ID 6, Page 6, Line 935, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "0"
 msgstr ""
 
-#. ID 6, Page 6, Line 943, Pos (12,5)
+#. ID 6, Page 6, Line 946, Pos (12,5)
 #. Contains choice at line 2 (3 options)
-#. ID 6, Page 6, Line 1007, Pos (12,5)
+#. ID 6, Page 6, Line 1018, Pos (12,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\>\\C[4]【DATA】\\C[0]　ゆめ２っき　ver\\V[7]\\N[4]\\V[9]\\N[2]"
 msgstr "\\>\\C[4]【DADOS】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
 
-#. ID 6, Page 6, Line 944, Pos (12,5)
+#. ID 6, Page 6, Line 947, Pos (12,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>プレイ記録を見る\n"
@@ -565,7 +574,7 @@ msgstr ""
 "\\>Reassistir Finais\n"
 "\\>Fechar Janela"
 
-#. ID 6, Page 6, Line 946, Pos (12,5)
+#. ID 6, Page 6, Line 949, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
 "\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
@@ -577,7 +586,7 @@ msgstr ""
 "\\>　　Efeitos: \\C[4]\\V[2]％\\C[0]\n"
 "\\> (Primeiro efeito obtido foi o(a) \\C[4]\\N[8]\\C[0])"
 
-#. ID 6, Page 6, Line 950, Pos (12,5)
+#. ID 6, Page 6, Line 953, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
 "\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
@@ -589,15 +598,19 @@ msgstr ""
 "\\>Ilustrações do PC : \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
 "\\>Quebra-Cabeça Kura: \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
-#. ID 6, Page 6, Line 955, Pos (12,5)
+#. ID 6, Page 6, Line 958, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
-"\\>プレイ時間： \\C[4]\\v[87]時間\\C[0]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 00分 00秒\\C[0]\n"
 "\\>　　　　(メニュー画面を開いている時間を含めず)\n"
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
 msgstr ""
+"\\>\\C[4]【DADOS】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Tempo de Jogo : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
+"\\>　　　　(Inclui o tempo gasto na tela de menu)\n"
+"\\>Primeiro Final: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
-#. ID 6, Page 6, Line 961, Pos (12,5)
+#. ID 6, Page 6, Line 964, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
@@ -609,7 +622,7 @@ msgstr ""
 "\\>　　　　(Inclui o tempo gasto na tela de menu)\n"
 "\\>Primeiro Final: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
-#. ID 6, Page 6, Line 968, Pos (12,5)
+#. ID 6, Page 6, Line 971, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
@@ -619,7 +632,17 @@ msgstr ""
 "\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
 "\\>　Passos Dados: \\C[4]\\v[90] Passos\\C[0]"
 
-#. ID 6, Page 6, Line 973, Pos (12,5)
+#. ID 6, Page 6, Line 977, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[91]\\N[3]000000歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【DADOS】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
+"\\>　Passos Dados : \\C[4]\\v[91]\\N[3]000000 Passos\\C[0]"
+
+#. ID 6, Page 6, Line 982, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
@@ -629,7 +652,7 @@ msgstr ""
 "\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
 "\\>　Passos Dados : \\C[4]\\v[91]\\N[3]\\v[90] Passos\\C[0]"
 
-#. ID 6, Page 6, Line 978, Pos (12,5)
+#. ID 6, Page 6, Line 989, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
 "\\>訪れた世界： \\C[4]\\V[71]ヵ所\\C[0]ぐらい\n"
@@ -639,7 +662,7 @@ msgstr ""
 "\\>Mundos Visitados  : \\C[4]\\V[71]\\C[0] (aproximadamente)\n"
 "\\>Contagem de Corpos: \\C[4]\\v[3936]\\C[0] (incluindo obj. inanimados)"
 
-#. ID 6, Page 6, Line 1008, Pos (12,5)
+#. ID 6, Page 6, Line 1019, Pos (12,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>プレイ記録を見る\n"
@@ -648,7 +671,7 @@ msgstr ""
 "\\>Ver Records de Jogo\n"
 "\\>Fechar Janela"
 
-#. ID 6, Page 6, Line 1010, Pos (12,5)
+#. ID 6, Page 6, Line 1021, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
 "\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
@@ -658,7 +681,7 @@ msgstr ""
 "\\>　　Versão : \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
 "\\>　　Efeitos: \\C[4]\\V[2]%\\C[0]"
 
-#. ID 6, Page 6, Line 1013, Pos (12,5)
+#. ID 6, Page 6, Line 1024, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
 "\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
@@ -670,7 +693,7 @@ msgstr ""
 "\\>Ilustrações do PC : \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
 "\\>Quebra-Cabeça Kura: \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
-#. ID 6, Page 6, Line 1017, Pos (12,5)
+#. ID 6, Page 6, Line 1028, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
@@ -680,7 +703,7 @@ msgstr ""
 "\\>Tempo de Jogo: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>　　　　(Inclui o tempo gasto na tela do menu)"
 
-#. ID 6, Page 6, Line 1021, Pos (12,5)
+#. ID 6, Page 6, Line 1032, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
@@ -690,7 +713,7 @@ msgstr ""
 "\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
 "\\>　Passos Dados : \\C[4]\\v[90] Passos\\C[0]"
 
-#. ID 6, Page 6, Line 1026, Pos (12,5)
+#. ID 6, Page 6, Line 1037, Pos (12,5)
 msgid ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
@@ -700,7 +723,7 @@ msgstr ""
 "\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
 "\\>　Passos Dados: \\C[4]\\v[91]\\v[90] Passos\\C[0]"
 
-#. ID 6, Page 6, Line 1040, Pos (12,5)
+#. ID 6, Page 6, Line 1051, Pos (12,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "女の子"
@@ -1016,42 +1039,42 @@ msgctxt "actors.name"
 msgid "クト解除）"
 msgstr "(Removido)"
 
-#. ID 12, Page 3, Line 20, Pos (13,5)
+#. ID 12, Page 3, Line 23, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 27, Pos (13,5)
+#. ID 12, Page 3, Line 30, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#. ID 12, Page 3, Line 40, Pos (13,5)
+#. ID 12, Page 3, Line 43, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 87, Pos (13,5)
+#. ID 12, Page 3, Line 90, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]使用中"
 msgstr "\\C[1]Ativado"
 
-#. ID 12, Page 3, Line 23, Pos (13,5)
+#. ID 12, Page 3, Line 26, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 30, Pos (13,5)
+#. ID 12, Page 3, Line 33, Pos (13,5)
 #. ChangeHeroName (Actor 6)
-#. ID 12, Page 3, Line 44, Pos (13,5)
+#. ID 12, Page 3, Line 47, Pos (13,5)
 #. ChangeHeroName (Actor 4)
-#. ID 12, Page 3, Line 91, Pos (13,5)
+#. ID 12, Page 3, Line 94, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]未使用"
 msgstr "\\C[2]Desativado"
 
-#. ID 12, Page 3, Line 33, Pos (13,5)
+#. ID 12, Page 3, Line 36, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[0]エフェ"
 msgstr "\\C[0]"
 
-#. ID 12, Page 3, Line 35, Pos (13,5)
+#. ID 12, Page 3, Line 38, Pos (13,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> ★ シフトキー拡張機能 ★ "
 msgstr "\\> ★ Funcionalidades da tecla Shift ★ "
 
-#. ID 12, Page 3, Line 36, Pos (13,5)
+#. ID 12, Page 3, Line 39, Pos (13,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>お気に入りエフェクト　　:\\N[4]\n"
@@ -1062,23 +1085,23 @@ msgstr ""
 "\\>\\N[5]Seleção de Efeitos Shift: \\N[6]\n"
 "\\>\\C[0]Sair"
 
-#. ID 12, Page 3, Line 41, Pos (13,5)
+#. ID 12, Page 3, Line 44, Pos (13,5)
 #. ChangeHeroName (Actor 5)
-#. ID 12, Page 3, Line 88, Pos (13,5)
+#. ID 12, Page 3, Line 91, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "使わない"
 msgstr "Desativar"
 
-#. ID 12, Page 3, Line 45, Pos (13,5)
+#. ID 12, Page 3, Line 48, Pos (13,5)
 #. ChangeHeroName (Actor 5)
-#. ID 12, Page 3, Line 92, Pos (13,5)
+#. ID 12, Page 3, Line 95, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "使う"
 msgstr "Ativar"
 
-#. ID 12, Page 3, Line 48, Pos (13,5)
+#. ID 12, Page 3, Line 51, Pos (13,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\> ★ お気に入りエフェクト ★ \n"
@@ -1087,7 +1110,7 @@ msgstr ""
 "\\> ★ Efeito Favorito ★ \n"
 "\\>* Configuração Atual: \\N[4]\\C[0]　\\N[2]\\N[3]"
 
-#. ID 12, Page 3, Line 50, Pos (13,5)
+#. ID 12, Page 3, Line 53, Pos (13,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>\\N[5]\n"
@@ -1096,7 +1119,7 @@ msgstr ""
 "\\>\\N[5]\n"
 "\\>Ajuda"
 
-#. ID 12, Page 3, Line 55, Pos (13,5)
+#. ID 12, Page 3, Line 58, Pos (13,5)
 msgid ""
 "\\>※\"使う\"に変更しました。\n"
 "\\>　登録エフェクトを変更するときは、\n"
@@ -1108,12 +1131,12 @@ msgstr ""
 "\\>　use a gaveta em seu quarto nos sonhos\n"
 "\\>　com o efeito que você deseja resistrar."
 
-#. ID 12, Page 3, Line 61, Pos (13,5)
-#. ID 12, Page 3, Line 105, Pos (13,5)
+#. ID 12, Page 3, Line 64, Pos (13,5)
+#. ID 12, Page 3, Line 108, Pos (13,5)
 msgid "\\>※\"使わない\"に変更しました。"
 msgstr "\\>* Definido para 'Desativado'."
 
-#. ID 12, Page 3, Line 67, Pos (13,5)
+#. ID 12, Page 3, Line 70, Pos (13,5)
 msgid ""
 "\\>　★「お気に入りエフェクト」機能について★\n"
 "※エフェクトを一つお気に入りに登録します。\n"
@@ -1124,7 +1147,7 @@ msgstr ""
 "* Você deve registrar apenas um efeito por vez.\n"
 "  Pressione Shift para usar o efeito registrado."
 
-#. ID 12, Page 3, Line 71, Pos (13,5)
+#. ID 12, Page 3, Line 74, Pos (13,5)
 msgid ""
 "\\>　★「お気に入りエフェクト」機能について★\n"
 "※登録エフェクト使用中にシフトを長押しすると、\n"
@@ -1135,7 +1158,7 @@ msgstr ""
 "* Ao pressionar shift enquanto estiver usando o\n"
 "  efeito, você utilizará o efeito anterior."
 
-#. ID 12, Page 3, Line 95, Pos (13,5)
+#. ID 12, Page 3, Line 98, Pos (13,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
@@ -1144,7 +1167,7 @@ msgstr ""
 "\\> ★ Seleção de Efeitos Shift ★ \n"
 "\\>* Configuração Atual: \\N[6]\\C[0]"
 
-#. ID 12, Page 3, Line 97, Pos (13,5)
+#. ID 12, Page 3, Line 100, Pos (13,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>\\N[5]\n"
@@ -1153,40 +1176,40 @@ msgstr ""
 "\\>\\N[5]\n"
 "\\>Ajuda / Opções"
 
-#. ID 12, Page 3, Line 102, Pos (13,5)
+#. ID 12, Page 3, Line 105, Pos (13,5)
 msgid "\\>※\"使う\"に変更しました。"
 msgstr "\\>* Definido para 'Ativado'."
 
-#. ID 12, Page 3, Line 116, Pos (13,5)
+#. ID 12, Page 3, Line 119, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[2]エフェクト解除する"
 msgstr "\\C[2]Remover Efeito"
 
-#. ID 12, Page 3, Line 119, Pos (13,5)
+#. ID 12, Page 3, Line 122, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[1]なにもしない"
 msgstr "\\C[1]Não fazer nada"
 
-#. ID 12, Page 3, Line 123, Pos (13,5)
+#. ID 12, Page 3, Line 126, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]お気に入りエフェクト"
 msgstr "\\C[2]Efeito Favorito"
 
-#. ID 12, Page 3, Line 126, Pos (13,5)
+#. ID 12, Page 3, Line 129, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]エフェクト解除"
 msgstr "\\C[1]Remover Efeito"
 
-#. ID 12, Page 3, Line 129, Pos (13,5)
+#. ID 12, Page 3, Line 132, Pos (13,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> ★ エフェクトシフトチェンジ ★ おぷしょん"
 msgstr "\\> ★ Seleção de Efeitos Shift ★ Opções"
 
-#. ID 12, Page 3, Line 130, Pos (13,5)
+#. ID 12, Page 3, Line 133, Pos (13,5)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>同じ項目を選んだ時：\\N[5]\\C[0]\n"
@@ -1197,7 +1220,7 @@ msgstr ""
 "\\>Quando pressionar pra cima: \\N[6]\\C[0]\n"
 "\\>Ajuda"
 
-#. ID 12, Page 3, Line 135, Pos (13,5)
+#. ID 12, Page 3, Line 138, Pos (13,5)
 msgid ""
 "\\>※\"なにもしない\"に変更しました。\n"
 "\n"
@@ -1209,11 +1232,11 @@ msgstr ""
 "\\>Selecionando o mesmo efeito que você esta usando\n"
 "\\>não irá remove-lo."
 
-#. ID 12, Page 3, Line 142, Pos (13,5)
+#. ID 12, Page 3, Line 145, Pos (13,5)
 msgid "\\>※\"エフェクト解除する\"に変更しました。"
 msgstr "\\>* Definido para \"Remover efeito\"."
 
-#. ID 12, Page 3, Line 150, Pos (13,5)
+#. ID 12, Page 3, Line 153, Pos (13,5)
 msgid ""
 "\\>※\"エフェクト解除\"に変更しました。\n"
 "\n"
@@ -1225,7 +1248,7 @@ msgstr ""
 "\\>Remove seu efeito pressionando para cima.\n"
 "\\>Usa seu efeito favorito pressionando para baixo."
 
-#. ID 12, Page 3, Line 157, Pos (13,5)
+#. ID 12, Page 3, Line 160, Pos (13,5)
 msgid ""
 "\\>※\"お気に入りエフェクト\"に変更しました。\n"
 "\n"
@@ -1237,7 +1260,7 @@ msgstr ""
 "\\>Pressionando para cima ou para baixo irá usar seu \n"
 "\\>efeito favorito."
 
-#. ID 12, Page 3, Line 165, Pos (13,5)
+#. ID 12, Page 3, Line 168, Pos (13,5)
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "シフトキーでエフェクトを選ぶ画面が出る機能です。\n"
@@ -1247,7 +1270,7 @@ msgstr ""
 "Pressionando o Shift mostrará uma tela de seleção\n"
 "de efeitos. Você ainda pode usar o menu normal."
 
-#. ID 12, Page 3, Line 168, Pos (13,5)
+#. ID 12, Page 3, Line 171, Pos (13,5)
 msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "また、シフトキーを押してから下キーを押すと\n"
