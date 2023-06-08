@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 1, Page 1, Line 2, Pos (7,8)
+msgid ""
+"- If you are a cat maniac, when you go home \n"
+"  and climb the stairs, you live on the 7th floor. \n"
+"  And there is a cat on every floor. You want to\n"
+"  play with every cat."
+msgstr ""
+"  Если вы - Лютый кошатник, и пока вы идёте по \n"
+"  лестнице к себе на 7-й этаж, а на каждом из \n"
+"  пролётов сидит по кошке, и вы играете с каждой \n"
+"  из них..."
+
+#. ID 1, Page 1, Line 6, Pos (7,8)
+msgid ""
+"- How long will it take to get home if each cat\n"
+"  is played with for 10 minutes?"
+msgstr ""
+"  Через сколько вы доберётесь до дома, если на \n"
+"  игру с каждой кошкой уходит по 10 минут?"
+
+#. ID 1, Page 1, Line 8, Pos (7,8)
+msgid ""
+"- Don't look at me, I'm not talking about myself\n"
+"  (Oopsie)"
+msgstr ""
+"  Не смотри так на меня, я же не про себя сейчас.\n"
+"  (Ой)"
+
+#. ID 6, Page 1, Line 2, Pos (4,8)
+msgid "- Whimsical plan institute"
+msgstr "  Институт Необычных идей"
+
+#. ID 8, Page 1, Line 2, Pos (11,8)
+msgid ""
+"- When your parents' attitudes are a little \n"
+"  strange one day, will you feel that someone \n"
+"  is wearing a coat in the shape of mom\n"
+"  and dad, pretend to be your parents?"
+msgstr ""
+"  Когда поведение ваших родителей в какой-то \n"
+"  момент становится странным, будете-ли вы ощущать, \n"
+"  что это всего-лишь кто-то в костюме ваших мамы и \n"
+"  папы притворяется вашими родителями?"
+
+#. ID 9, Page 1, Line 2, Pos (15,8)
+msgid ""
+"- When sleeping, you must not face the wall,\n"
+"  because there is a lifeform standing in the\n"
+"  space behind you, which makes you afraid,\n"
+"  staring at the wall, which makes you motionless."
+msgstr ""
+" Вы не должны смотреть в стену, когда ложитесь \n"
+"  спать, поскольку между вами находится существо, \n"
+"  что пугает вас пока вы смотрите на стену, из-за \n"
+"  чего вы не можете двигаться."
+
+#. ID 9, Page 1, Line 6, Pos (15,8)
+msgid ""
+"- So you must sleep away\n"
+"  from the wall, so that thing will not appear."
+msgstr ""
+"  Потому, вы не должны ложиться лицом к стене, \n"
+"  просто отвернитесь от неё, чтобы Оно не появилось."
+
+#. ID 9, Page 1, Line 8, Pos (15,8)
+msgid ""
+"- What if there were no walls on both sides, and\n"
+"  the bed is placed in the middle of the house?"
+msgstr ""
+"  А если стен по бокам нет, и кровать стоит \n"
+"  посреди комнаты?"
+
+#. ID 9, Page 1, Line 10, Pos (15,8)
+msgid "(If that were me, I would sleep under the bed)"
+msgstr ""
+"  (Мне-бы в таком случае пришлось спать под \n"
+"  кроватью)"
+
+#. ID 9, Page 1, Line 11, Pos (15,8)
+msgid ""
+"- Then when you sleep, you must cover \n"
+"  your body with a quilt, no matter how hot it is.\n"
+"  Otherwise, there will be creatures that you fear"
+msgstr ""
+"  Тогда, во время сна тебе стоит накрывать свою \n"
+"  голову одеялом, вне зависимости от того наско-\n"
+"  лько жарко. Иначе, появятся существа, которых вы\n"
+"  боитесь."
+
+#. ID 9, Page 1, Line 14, Pos (15,8)
+msgid "- To tickle you."
+msgstr "  И они будут вас щекотать."
