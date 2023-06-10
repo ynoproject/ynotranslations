@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 5, Page 1, Line 1, Pos (4,13)
+#. ID 6, Page 1, Line 1, Pos (5,13)
+#. ID 7, Page 1, Line 1, Pos (6,13)
+#. ID 8, Page 1, Line 1, Pos (7,13)
+#. ID 9, Page 1, Line 1, Pos (8,13)
+#. ID 10, Page 1, Line 1, Pos (9,13)
+#. ID 11, Page 1, Line 1, Pos (10,13)
+#. ID 12, Page 1, Line 1, Pos (11,13)
+#. ID 13, Page 1, Line 1, Pos (12,13)
+#. ID 14, Page 1, Line 1, Pos (13,13)
+#. ID 15, Page 1, Line 1, Pos (14,13)
+#. ID 16, Page 1, Line 1, Pos (15,13)
+#. ID 17, Page 1, Line 1, Pos (16,13)
+#. ID 18, Page 1, Line 1, Pos (17,13)
+#. ID 19, Page 1, Line 1, Pos (18,13)
+#. ID 20, Page 1, Line 1, Pos (20,13)
+#. ID 21, Page 1, Line 1, Pos (19,13)
+#. ID 22, Page 1, Line 1, Pos (21,13)
+#. ID 23, Page 1, Line 1, Pos (22,13)
+#. ID 24, Page 1, Line 1, Pos (23,13)
+#. ID 25, Page 1, Line 1, Pos (24,13)
+#. ID 26, Page 1, Line 1, Pos (25,13)
+#. ID 27, Page 1, Line 1, Pos (26,13)
+#. ID 28, Page 1, Line 1, Pos (27,13)
+#. ID 29, Page 1, Line 1, Pos (28,13)
+#. ID 30, Page 1, Line 1, Pos (29,13)
+msgid "- Finally get rid of!"
+msgstr "Наконец-то вышло избавиться!"

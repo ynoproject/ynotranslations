@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 53, Page 1, Line 2, Pos (33,64)
+msgid "- Dad's diary is written on it."
+msgstr "Написано, что это - Дневник Отца."
+
+#. ID 53, Page 1, Line 4, Pos (33,64)
+msgid ""
+"- Everyone will experience birth, old age, and\n"
+"  death. This is a story in memory of my \n"
+"  grandmother."
+msgstr ""
+"  Всем суждено пережить Рождение, Старость и \n"
+"  Смерть. Это - Повесть в память о моей Бабушке."
+
+#. ID 53, Page 1, Line 7, Pos (33,64)
+msgid ""
+"- Today, after I got up and washed my face\n"
+"  cheerfully, I was so excited that I opened RPG\n"
+"  Maker. Who would have known, I answered a call\n"
+"  from my mother, she said that my grandmother in"
+msgstr ""
+"  После мытья лица, и с радостью уж открытого \n"
+"  RPG Maker, стоило мне взять трубку от звонка\n"
+"  матери, мне тут-же было сказано, что моя \n"
+"  бабушка в госпитале отошла в мир иной, и что"
+
+#. ID 53, Page 1, Line 11, Pos (33,64)
+msgid ""
+"  the hospital bed had passed away, and had asked\n"
+"  me to go there immediately. At this moment,\n"
+"  I feel endless pain."
+msgstr ""
+"  мне необходимо сейчас-же прийти. В тот момент, \n"
+"  мной ощущалась лишь бескрайняя боль."
+
+#. ID 53, Page 1, Line 14, Pos (33,64)
+msgid ""
+"- When I got to the bedside, I saw Grandma lying\n"
+"  in the hospital bed with a pale face and purple\n"
+"  lips, my relatives were very depressed. Looking\n"
+"  at grandma's face, I couldn't help but burst "
+msgstr ""
+"  Стоило мне подойти к кровати, как мой взор упал \n"
+"  на Бабушку: Её лицо было бледным, а губы - Фио-\n"
+"  летовыми. Мои близкие были очень расстроены. \n"
+"  Глядя на лицо бабули, я тоже не смогла сдержать "
+
+#. ID 53, Page 1, Line 18, Pos (33,64)
+msgid ""
+"  into tears. I couldn't help but think of the\n"
+"  time I spent with Grandma."
+msgstr ""
+"  своих слёз - Больше я, кроме как вспоминать о \n"
+"  проведённом с Бабушкой времени, ничего не могу."
+
+#. ID 53, Page 1, Line 20, Pos (33,64)
+msgid ""
+"- Dad often said: when they are still alive,\n"
+"  we should visit them more often. if they are \n"
+"  gone, we will never see them again."
+msgstr ""
+"  Отец часто говорил: \"Пока они живы, мы должны \n"
+"  чаще навещать их. Мы больше не сможем этого \n"
+"  делать, когда их уже не станет.\""
+
+#. ID 53, Page 1, Line 23, Pos (33,64)
+msgid "- I can't forgive myself..."
+msgstr "  Не могу себя простить..."
+
+#. ID 53, Page 2, Line 1, Pos (33,64)
+msgid "- ..."
+msgstr "..."
