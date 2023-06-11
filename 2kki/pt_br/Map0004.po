@@ -33,7 +33,7 @@ msgstr "Motocicleta"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Cauda Dupla"
+msgstr "Maria Chiquinha"
 
 #. ID 5, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -105,7 +105,7 @@ msgstr "Traje Espacial"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "にじ"
-msgstr "Arco-Íres"
+msgstr "Arco-Íris"
 
 #. ID 5, Page 2, Line 80, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -129,7 +129,7 @@ msgstr "Maiko"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテール"
-msgstr "Cauda Dupla"
+msgstr "Maria Chiquinha"
 
 #. ID 5, Page 2, Line 97, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -195,7 +195,7 @@ msgstr "Capuz Vermelho"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ティッシュ"
-msgstr "Pano"
+msgstr "Lenço"
 
 #. ID 5, Page 2, Line 149, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -237,7 +237,7 @@ msgstr "Tambor"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おはか"
-msgstr "Cova"
+msgstr "Lápide"
 
 #. ID 5, Page 2, Line 174, Pos (13,5)
 #. ChangeHeroName (Actor 2)

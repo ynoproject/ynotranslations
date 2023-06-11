@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -108,7 +108,7 @@ msgstr "Óculos"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "にじ"
-msgstr "Arco-Íres"
+msgstr "Arco-Íris"
 
 #. ID 14, Line 75
 #. ChangeHeroName (Actor 8)
@@ -138,7 +138,7 @@ msgstr "Maiko"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ツインテール"
-msgstr "Cauda Dupla"
+msgstr "Maria Chiquinha"
 
 #. ID 14, Line 95
 #. ChangeHeroName (Actor 8)
@@ -216,7 +216,7 @@ msgstr "Capuz Vermelho"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ティッシュ"
-msgstr "Pano"
+msgstr "Lenço"
 
 #. ID 14, Line 147
 #. ChangeHeroName (Actor 8)
@@ -252,7 +252,7 @@ msgstr "Tambor"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "おはか"
-msgstr "Cova"
+msgstr "Lápide"
 
 #. ID 14, Line 171
 #. ChangeHeroName (Actor 8)
@@ -9099,6 +9099,10 @@ msgid ""
 "\n"
 "\\>タイトル画面へ戻ります"
 msgstr ""
+"\\>Erro：Você está num local incomum\n"
+"\\>(Mapa:\\v[1460])\n"
+"\n"
+"\\>Voltando à tela do título."
 
 #. ID 309, Line 8
 #. Condition (Actor Name = 中断サンプル)
