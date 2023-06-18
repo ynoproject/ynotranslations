@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet French Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 4, Page 1, Line 2, Pos (1,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre violet\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 4, Page 1, Line 4, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (1,11)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 4, Pos (3,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 4, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 4, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 4, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 4, Pos (3,9)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 4, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 4, Pos (5,1)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 4, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 7, Pos (5,3)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 4, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 4, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"します\n"
+"しません"
+msgstr ""
+"Oui\n"
+"Non merci"
+
+#. ID 4, Page 1, Line 7, Pos (1,9)
+msgid "\\>タイプ　Violet に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « Violet » !"
+
+#. ID 5, Page 1, Line 2, Pos (1,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　monochrome\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre monochrome\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 5, Page 1, Line 7, Pos (1,11)
+msgid "\\>タイプ　monochrome に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « monochrome » !"
+
+#. ID 6, Page 1, Line 2, Pos (3,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　silver\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre argent\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 6, Page 1, Line 7, Pos (3,1)
+msgid "\\>タイプ　silver に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « argent » !"
+
+#. ID 7, Page 1, Line 2, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　orange\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre orange\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 7, Page 1, Line 7, Pos (3,3)
+msgid "\\>タイプ　orange に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « orange » !"
+
+#. ID 8, Page 1, Line 2, Pos (3,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　cookie\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre cookie\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 8, Page 1, Line 7, Pos (3,5)
+msgid "\\>タイプ　cookie に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « cookie » !"
+
+#. ID 9, Page 1, Line 2, Pos (3,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre hexe\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 9, Page 1, Line 7, Pos (3,7)
+msgid "\\>タイプ　hexe に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « hexe » !"
+
+#. ID 10, Page 1, Line 2, Pos (3,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe violett\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre violett hexe\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 10, Page 1, Line 7, Pos (3,9)
+msgid "\\>タイプ　hexe violett に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « violett hexe » !"
+
+#. ID 11, Page 1, Line 2, Pos (3,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　old black\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre vieux noir\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 11, Page 1, Line 7, Pos (3,11)
+msgid "\\>タイプ　olc black に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « vieux noir » !"
+
+#. ID 12, Page 1, Line 2, Pos (5,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　old blue\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre vieux bleu\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 12, Page 1, Line 7, Pos (5,1)
+msgid "\\>タイプ　old blue に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « vieux bleu » !"
+
+#. ID 15, Page 1, Line 2, Pos (17,10)
+#. Contains choice at line 2 (3 options)
+msgid "\\>エフェクト★リボン★のグラフィックを設定します。"
+msgstr "\\>Gestion des graphiques de l'effet Rubans"
+
+#. ID 15, Page 1, Line 3, Pos (17,10)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ver0.04 (通常)\n"
+"\\>ver0.03 (旧型)\n"
+"\\>キャンセル"
+msgstr ""
+"\\>version 0.04 (Par défaut)\n"
+"\\>version 0.03 (Antérieur)\n"
+"\\>Annuler"
+
+#. ID 18, Page 1, Line 2, Pos (5,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　green\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre vert\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 18, Page 1, Line 7, Pos (5,5)
+msgid "\\>タイプ　green に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « vert » !"
+
+#. ID 19, Page 1, Line 5, Pos (5,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet II\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre violet II\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 19, Page 1, Line 10, Pos (5,3)
+msgid "\\>タイプ　violet II に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « violet II » !"
+
+#. ID 23, Page 1, Line 2, Pos (17,11)
+msgid ""
+"\\>「■夢日記帳」使用時のアニメ再生を設定します。\n"
+"\\>※アニメを再生する設定でも\n"
+"\\>　Zキーを押し続けると省略可能"
+msgstr ""
+"\\>■ Animation d'utilisation du Journal des rêves\n"
+"\\>※ Vous pouvez aussi maintenir la touche Entrée\n"
+"\\>　pour passer la lecture de l'animation"
+
+#. ID 23, Page 1, Line 5, Pos (17,11)
+#. Choice (3 options)
+msgid ""
+"\\>ON (通常・アニメ再生)\n"
+"\\>OFF(省略・アニメなし）\n"
+"\\>キャンセル"
+msgstr ""
+"\\>ON (Par défaut - Joue une animation)\n"
+"\\>OFF (Version condensée - Pas d'animation)\n"
+"\\>Annuler"
+
+#. ID 25, Page 1, Line 2, Pos (17,12)
+msgid ""
+"\\>自販機でのジュース購入時のイベントを設定します。\n"
+"\\>※アニメを再生する設定でも\n"
+"\\>　Zキーを押し続けると省略可能"
+msgstr ""
+"\\>Animation d'achat des boissons de distributeur\n"
+"\\>※ Vous pouvez aussi maintenir la touche Entrée\n"
+"\\>　pour passer la lecture de l'animation"
+
+#. ID 25, Page 1, Line 5, Pos (17,12)
+#. Choice (3 options)
+msgid ""
+"\\>ON (通常・専用アニメ再生)\n"
+"\\>OFF(省略・ピクチャー表示のみ)\n"
+"\\>キャンセル"
+msgstr ""
+"\\>ON (Par défaut - Joue l'animation dédiée)\n"
+"\\>OFF (Version condensée - En image uniquement)\n"
+"\\>Annuler"
+
+#. ID 27, Page 1, Line 54, Pos (1,7)
+msgid ""
+"\\>　　　　 　　\\c[2]◆\\c[1]◆\\c[0]information\\c[1]◆\\c[2]◆\n"
+"\\c[0]\n"
+"\\>■本体ver：\\c[1]0.0551\\c[0]\n"
+"\\>■ウィンドウ収集率：\\c[1]\\V[0173]％\\c[0]"
+msgstr ""
+"\\>　　　　 　   　\\_\\c[2]◆\\c[1]◆\\c[0] Information \\c[1]◆\\c[2]◆\n"
+"\\c[0]\n"
+"\\>■ Version actuelle : \\c[1]0.0551\\c[0]\n"
+"\\>■ Thèmes de fenêtre obtenus : \\c[1]\\V[0173]％\\c[0]"
+
+#. ID 27, Page 1, Line 58, Pos (1,7)
+msgid ""
+"\\>■入眠回数　 　 ：\\V[0174]　　■通常起床回数　　：\\v[0175]\n"
+"\\>■強制起床回数　：\\V[0176]　　■ジュース購入数　：\\V[0178]  \n"
+"\\>■殺害回数　　　：\\V[0179]　　■破壊回数　　　　：\\V[0180]\n"
+"\\>■総攻撃回数　　：\\V[0177]"
+msgstr ""
+"\\>■ Siestes        : \\V[0174]  ■ Réveils  : \\V[0175]\n"
+"\\>■ Réveils forcés : \\V[0176]  ■ Meurtres : \\V[0179]\n"
+"\\>■ Boissons achetées : \\V[0178] ■ Démolitions : \\V[0180]\n"
+"\\>■ Attaques : \\V[0177]"
+
+#. ID 28, Page 1, Line 2, Pos (7,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　eyes\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre globes oculaires\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 28, Page 1, Line 7, Pos (7,9)
+msgid "\\>タイプ　eyes に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « globes oculaires » !"
+
+#. ID 29, Page 1, Line 2, Pos (7,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet III\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Thème de fenêtre violet III\n"
+"\\>Utiliser ce thème de fenêtre ?"
+
+#. ID 29, Page 1, Line 7, Pos (7,11)
+msgid "\\>タイプ　violet III に変更しました！"
+msgstr "\\>Thème de fenêtre changé en « violet III » !"
