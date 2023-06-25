@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 10, Page 1, Line 3, Pos (17,12)
 #. Contains choice at line 3 (2 options)
@@ -18,8 +18,8 @@ msgid ""
 "\\>今までに入れたお金：\\V[0026]/1000\\\\\n"
 "\\>所持金：\\V[0040]\\\\"
 msgstr ""
-"\\>Money put so far: \\V[0026]/1000\\\\\n"
-"\\>Money in hand: \\V[0040]\\\\"
+"\\>Money put so far: \\V[0026]/1000￥\n"
+"\\>Money in hand: \\V[0040]￥"
 
 #. ID 10, Page 1, Line 5, Pos (17,12)
 #. Choice (2 options, embedded in a message)
@@ -27,7 +27,7 @@ msgid ""
 "100円玉を入れる\n"
 "何もしない"
 msgstr ""
-"Insert ￥100\n"
+"Insert 100￥\n"
 "Do nothing"
 
 #. ID 10, Page 1, Line 12, Pos (17,12)
