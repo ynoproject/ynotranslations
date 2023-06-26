@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet French Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 1, Page 2, Line 2, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>デバッグルームに入ります。\n"
+"\\>後悔しませんね？"
+msgstr ""
+"\\>Vous allez entrer dans la Salle de Débogage.\n"
+"\\>Le regretterez-vous ?"
+
+#. ID 1, Page 2, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>全くしない\n"
+"\\>ちょっとする"
+msgstr ""
+"\\>Pas du tout\n"
+"\\>Un peu"
+
+#. ID 11, Page 1, Line 1, Pos (3,11)
+#. Contains choice at line 2 (2 options)
+msgid "デバッグ部屋に入れるようにする？"
+msgstr "Entrer dans la Salle de Débogage ?"
+
+#. ID 11, Page 1, Line 2, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"Entrer\n"
+"Ne pas entrer"
+
+#. ID 11, Page 1, Line 4, Pos (3,11)
+#. ID 11, Page 1, Line 8, Pos (3,11)
+msgid "ほい"
+msgstr "D'accord"
