@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -188,7 +188,7 @@ msgstr ""
 "\\>　!! Nu poţi salva în modul Time Trial !!　\n"
 "\\>Timp Jucat:: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>Prima Completare: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
-"\\>\\C[2]　　　　(Include timpul petrecut în meniuri)"
+"\\>\\C[2]　　　　(Exclude timpul petrecut în meniuri)"
 
 #. ID 6, Page 6, Line 359, Pos (12,5)
 msgid ""
@@ -200,7 +200,7 @@ msgstr ""
 "\\>　!! Nu poţi salva în modul Time Trial !!　\n"
 "\\>\n"
 "\\>Timp Jucat: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>\\C[2]　　　　(Include timpul petrecut în meniuri)"
+"\\>\\C[2]　　　　(Exclude timpul petrecut în meniuri)"
 
 #. ID 6, Page 6, Line 415, Pos (12,5)
 msgid "\\>♪Secret Code：\\V[15]"
@@ -605,7 +605,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>Timp Jucat      : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
-"\\>　　　　(Include timpul petrecut în meniuri)\n"
+"\\>　　　　(Exclude timpul petrecut în meniuri)\n"
 "\\>Prima Completare: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 964, Pos (12,5)
@@ -617,7 +617,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>Timp Jucat      : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Include timpul petrecut în meniuri)\n"
+"\\>　　　　(Exclude timpul petrecut în meniuri)\n"
 "\\>Prima Completare: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 971, Pos (12,5)
@@ -699,7 +699,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
 "\\>Timp Jucat      : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Include timpul petrecut în meniuri)"
+"\\>　　　　(Exclude timpul petrecut în meniuri)"
 
 #. ID 6, Page 6, Line 1032, Pos (12,5)
 msgid ""

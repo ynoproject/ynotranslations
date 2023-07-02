@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -187,7 +187,7 @@ msgstr ""
 "\\>　  ¡¡No puedes guardar en Time Trial Mode!!　\n"
 "\\>Tiempo Jugado: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>Primer Final: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
-"\\>\\C[2]　　　　(Incluye tiempo en menús)"
+"\\>\\C[2]　　　　(Excluye tiempo en menús)"
 
 #. ID 6, Page 6, Line 359, Pos (12,5)
 msgid ""
@@ -199,7 +199,7 @@ msgstr ""
 "\\>　  ¡¡No puedes guardar en Time Trial Mode!!　\n"
 "\\>\n"
 "\\>Tiempo Jugado: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>\\C[2]　　　　(Incluye tiempo en menús)"
+"\\>\\C[2]　　　　(Excluye tiempo en menús)"
 
 #. ID 6, Page 6, Line 415, Pos (12,5)
 msgid "\\>♪Secret Code：\\V[15]"
@@ -606,7 +606,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>Tiempo Jugado: \\C[4]\\v[87]h 00m 00s\\C[0]\n"
-"\\>　　　　(Incluye tiempo en menús)\n"
+"\\>　　　　(Excluye tiempo en menús)\n"
 "\\>Primer Final : \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 964, Pos (12,5)
@@ -618,7 +618,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>Tiempo Jugado: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Incluye tiempo en menús)\n"
+"\\>　　　　(Excluye tiempo en menús)\n"
 "\\>Primer Final : \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 971, Pos (12,5)
@@ -700,7 +700,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
 "\\>Tiempo Jugado: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Incluye tiempo en menús)"
+"\\>　　　　(Excluye tiempo en menús)"
 
 #. ID 6, Page 6, Line 1032, Pos (12,5)
 msgid ""
