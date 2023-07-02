@@ -188,7 +188,7 @@ msgstr ""
 "\\>!! Không thể lưu trong Chế độ Thử thách Hẹn giờ !!\n"
 "\\>Thời gian chơi:  \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
 "\\>Phá đảo lần đầu:  \\C[4]\\v[3520] giờ \\v[3519] phút \\v[3518] giây\\C[0]\n"
-"\\>\\C[2]　　　　(Bao gồm thời gian trong các menu)"
+"\\>\\C[2]　　　　(Không bao gồm thời gian trong các menu)"
 
 #. ID 6, Page 6, Line 359, Pos (12,5)
 msgid ""
@@ -200,7 +200,7 @@ msgstr ""
 "\\>!! Không thể lưu trong Chế độ Thử thách Hẹn giờ !!\n"
 "\\>\n"
 "\\>Thời gian chơi:  \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
-"\\>\\C[2]　　　　(Bao gồm thời gian trong các menu)"
+"\\>\\C[2]　　　　(Không bao gồm thời gian trong các menu)"
 
 #. ID 6, Page 6, Line 415, Pos (12,5)
 msgid "\\>♪Secret Code：\\V[15]"
@@ -462,7 +462,7 @@ msgstr "Bật"
 #. ID 6, Page 6, Line 776, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
-msgstr "\\>Sự kiện chữ đặc biệt trong mơ　Cài đặt hiện tại: \\C[4]\\N[2]\\C[0]"
+msgstr "\\>Sự kiện chữ trong mơ　Cài đặt hiện tại: \\C[4]\\N[2]\\C[0]"
 
 #. ID 6, Page 6, Line 777, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -603,7 +603,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>Thời gian chơi: \\C[4]\\v[87] giờ 00 phút 00 giây\\C[0]\n"
-"\\>　　　　(Bao gồm thời gian trong các menu)\n"
+"\\>　　　　(Không bao gồm thời gian trong các menu)\n"
 "\\>Phá đảo lần đầu: \\C[4]\\v[3520] giờ \\v[3519] phút \\v[3518] giây\\C[0]"
 
 #. ID 6, Page 6, Line 964, Pos (12,5)
@@ -615,7 +615,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
 "\\>Thời gian chơi: \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
-"\\>　　　　(Bao gồm thời gian trong các menu)\n"
+"\\>　　　　(Không bao gồm thời gian trong các menu)\n"
 "\\>Phá đảo lần đầu: \\C[4]\\v[3520] giờ \\v[3519] phút \\v[3518] giây\\C[0]"
 
 #. ID 6, Page 6, Line 971, Pos (12,5)
@@ -697,7 +697,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
 "\\>Thời gian chơi: \\C[4]\\v[87] giờ \\v[86] phút \\v[85] giây\\C[0]\n"
-"\\>　　　　(Bao gồm thời gian trong các menu)"
+"\\>　　　　(Không bao gồm thời gian trong các menu)"
 
 #. ID 6, Page 6, Line 1032, Pos (12,5)
 msgid ""
