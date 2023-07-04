@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -457,6 +457,10 @@ msgid ""
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
 "\\!\\>続行した場合、セーブデータ破損のおそれがあります。"
 msgstr ""
+"\\>Foloseşti un save dintr-o versiune viitoare.\n"
+"\\>　　　　　　SaveData \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
+"\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
+"\\!\\>Este posibil să ai un fişier stricat dacă continui."
 
 #. ID 62, Line 26
 #. Contains choice at line 3 (2 options)
@@ -464,6 +468,8 @@ msgid ""
 "\\>続行した場合、セーブデータ破損のおそれがあります。\n"
 "\\>　　　本当にこのまま続けてよろしいですか？"
 msgstr ""
+"\\>Este posibil să ai un fişier stricat dacă continui.\n"
+"\\>Sigur vrei să continui?"
 
 #. ID 62, Line 28
 #. Choice (2 options, embedded in a message)
@@ -473,6 +479,8 @@ msgid ""
 "\\>はい\n"
 "\\>いいえ"
 msgstr ""
+"\\>Da\n"
+"\\>Nu"
 
 #. ID 62, Line 30
 #. Contains choice at line 3 (2 options)
@@ -480,6 +488,8 @@ msgid ""
 "\\>　　　\\<\\S[10]本当にこのまま続けてよろしいですか？\n"
 "\\>"
 msgstr ""
+"\\>　　　\\<\\S[10]Sigur vrei să continui?\n"
+"\\>"
 
 #. ID 62, Line 46
 msgid ""
@@ -498,6 +508,8 @@ msgid ""
 "\\>設定中のシステム効果音が未開放のため、\n"
 "\\>システム効果音の設定を変更しました"
 msgstr ""
+"\\>Fiindcă ES ale sistemului nu au fost lansate,\n"
+"\\>ES ale sistemului tău au fost schimbate."
 
 #. ID 62, Line 508
 msgid ""
@@ -9286,6 +9298,10 @@ msgid ""
 "\n"
 "\\>タイトル画面へ戻ります"
 msgstr ""
+"\\>Eroare: Eşti într-o locație anormală.\n"
+"\\>(Harta\\v[1460])\n"
+"\n"
+"\\>Apasă Enter pentru a te întoarce la titlu."
 
 #. ID 309, Line 8
 #. Condition (Actor Name = 中断サンプル)
