@@ -253,7 +253,7 @@ msgstr "Lo Habitual"
 #. ID 33
 msgctxt "items.name"
 msgid "おきにいり"
-msgstr "Mi favoritos"
+msgstr "Los Cómodos"
 
 #. ID 34
 msgctxt "items.name"
@@ -345,7 +345,7 @@ msgstr "Las Vísceras se están Derramando..."
 #. ID 64
 msgctxt "items.description"
 msgid "｢サイケデリック｣になる。"
-msgstr "Convertirse en un Psicodélico."
+msgstr "Convertirse Psicodélico."
 
 #. ID 65
 #. ID 66
@@ -419,11 +419,11 @@ msgstr "Acciones"
 
 msgctxt "terms.menu_equipment"
 msgid "じぶん"
-msgstr "Yo Mismo"
+msgstr "Yo"
 
 msgctxt "terms.menu_save"
 msgid "."
-msgstr "."
+msgstr "…"
 
 msgctxt "terms.menu_quit"
 msgid "おわりにする"

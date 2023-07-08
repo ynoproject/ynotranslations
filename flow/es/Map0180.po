@@ -28,7 +28,7 @@ msgstr ""
 
 #. ID 14, Page 1, Line 54, Pos (6,7)
 msgid "すてました。"
-msgstr "Desechados."
+msgstr "Efectos Desechados."
 
 #. ID 14, Page 1, Line 60, Pos (6,7)
 #. ChangeHeroName (Actor 1)
