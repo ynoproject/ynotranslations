@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: ¡Анхэл\n"
+"Last-Translator: Нико\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Buscar"
 #. ID 2
 msgctxt "skills.name"
 msgid "the"
-msgstr "las"
+msgstr "El"
 
 #. ID 3
 msgctxt "skills.name"
@@ -49,7 +49,7 @@ msgstr ""
 #. ID 5
 msgctxt "items.description"
 msgid "Gives 28 HP"
-msgstr "Donne 28 PV"
+msgstr "Da 28 PV"
 
 #. ID 2
 msgctxt "items.name"
@@ -92,7 +92,7 @@ msgstr "morc fusée 0"
 #. ID 10
 msgctxt "items.description"
 msgid "Once reached the Moon"
-msgstr "Avait une fois atteint la Lune"
+msgstr "Una vez llegado a la Luna"
 
 #. ID 8
 msgctxt "items.name"
@@ -157,7 +157,7 @@ msgstr "Muma"
 #. ID 30
 msgctxt "items.name"
 msgid "Muma"
-msgstr "Effacée"
+msgstr "Muma"
 
 #. ID 1
 msgctxt "enemies.name"
@@ -167,7 +167,7 @@ msgstr "Tú"
 #. ID 1
 msgctxt "states.name"
 msgid "Hanged"
-msgstr "Pendue"
+msgstr "Colgada"
 
 #. ID 1
 msgctxt "states.message_actor"
@@ -186,7 +186,7 @@ msgstr ""
 
 msgctxt "terms.defeat"
 msgid "DIE DIE DIE DIE PLEASE DIE "
-msgstr "MEURT S'IL TE PLAÎT MEURT "
+msgstr "MUERE MUERE MUERE PORFAVOR MUERE "
 
 msgctxt "terms.gold_recieved_b"
 msgid " !"
@@ -322,7 +322,7 @@ msgstr ""
 
 msgctxt "terms.command_skill"
 msgid "None"
-msgstr "Aucun"
+msgstr "Nada"
 
 msgctxt "terms.menu_equipment"
 msgid "Stat"
@@ -334,7 +334,7 @@ msgstr "PePasSauver"
 
 msgctxt "terms.menu_quit"
 msgid "GAME_IS_OVER"
-msgstr "JEU_EST_FINI"
+msgstr "FIN_DEL_JUEGO"
 
 msgctxt "terms.new_game"
 msgid "New"
@@ -350,15 +350,15 @@ msgstr "Salir"
 
 msgctxt "terms.status"
 msgid "Statut"
-msgstr ""
+msgstr "Estatus"
 
 msgctxt "terms.wait_on"
 msgid "Wait"
-msgstr "Attendre"
+msgstr "Espera"
 
 msgctxt "terms.wait_off"
 msgid "Actif"
-msgstr ""
+msgstr "Activo"
 
 msgctxt "terms.level"
 msgid "Memory"
