@@ -15,31 +15,31 @@ msgstr ""
 
 #. ID 14, Page 2, Line 4, Pos (13,12)
 msgid "                   Snow Woman"
-msgstr "                 Luminainen"
+msgstr "                    Luminainen"
 
 #. ID 15, Page 2, Line 4, Pos (16,10)
 msgid "                      Frog"
-msgstr "                    Sammakko"
+msgstr "                     Sammakko"
 
 #. ID 16, Page 2, Line 4, Pos (14,15)
 msgid "                     Umbrella"
-msgstr "                    Sateenvarjo"
+msgstr "                   Sateenvarjo"
 
 #. ID 17, Page 2, Line 4, Pos (14,11)
 msgid "                    Hat & Scarf"
-msgstr "                Hattu ja Huivi"
+msgstr "                  Hattu ja Huivi"
 
 #. ID 18, Page 2, Line 5, Pos (12,14)
 msgid "                    Eye Palm"
-msgstr "                     Silmäkäsi"
+msgstr "                   Silmä Kämmen"
 
 #. ID 19, Page 2, Line 5, Pos (12,16)
 msgid "                     Get fat"
-msgstr "                  Lihota"
+msgstr "                     Lihota"
 
 #. ID 20, Page 2, Line 4, Pos (13,18)
 msgid "                      Midget"
-msgstr "                      Pikkuinen"
+msgstr "                    Pikkuinen"
 
 #. ID 21, Page 2, Line 4, Pos (14,19)
 msgid "                     Whistle"
@@ -51,31 +51,31 @@ msgstr "                       Neon"
 
 #. ID 23, Page 2, Line 4, Pos (16,20)
 msgid "                 Faceless Ghost"
-msgstr "               Kasvoton aave"
+msgstr "                  Kasvoton Aave"
 
 #. ID 24, Page 2, Line 4, Pos (18,20)
 msgid "                    Talking Head"
-msgstr "                   Irtopää"
+msgstr "                     Irtopää"
 
 #. ID 25, Page 2, Line 4, Pos (19,13)
 msgid "                     Poo Hair"
-msgstr "                  Kakkahius"
+msgstr "                    Kakkahius"
 
 #. ID 26, Page 2, Line 4, Pos (20,15)
 msgid "                   Kitchen Knife"
-msgstr "                     Keittiöveitsi"
+msgstr "                  Keittiöveitsi"
 
 #. ID 27, Page 2, Line 4, Pos (20,19)
 msgid "                  Spirit Headband"
-msgstr "                Kolmiohuivi"
+msgstr "                    Kolmiohuivi"
 
 #. ID 28, Page 2, Line 4, Pos (21,18)
 msgid "                      Towel"
-msgstr "                    Pyyhe"
+msgstr "                      Pyyhe"
 
 #. ID 29, Page 2, Line 4, Pos (22,16)
 msgid "                         Cat"
-msgstr "                       Kissa"
+msgstr "                      Kissa"
 
 #. ID 30, Page 2, Line 4, Pos (22,14)
 msgid "                       Lamp"
@@ -83,7 +83,7 @@ msgstr "                      Lamppu"
 
 #. ID 31, Page 2, Line 4, Pos (20,11)
 msgid "                    Long Hair"
-msgstr "                  Pitkät hiukset"
+msgstr "                  Pitkät Hiukset"
 
 #. ID 32, Page 2, Line 4, Pos (21,12)
 msgid "                     Bicycle "
@@ -91,20 +91,20 @@ msgstr "                    Polkupyörä"
 
 #. ID 33, Page 2, Line 4, Pos (18,10)
 msgid "                     Blonde"
-msgstr "                      Vaaleat hiukset"
+msgstr "                 Vaaleat Hiukset"
 
 #. ID 34, Page 2, Line 4, Pos (15,13)
 msgid "                      Witch"
-msgstr "                     Noita"
+msgstr "                      Noita"
 
 #. ID 35, Page 2, Line 4, Pos (17,12)
 msgid "                      Devil"
-msgstr "                       Demoni"
+msgstr "                      Demoni"
 
 #. ID 36, Page 2, Line 4, Pos (17,18)
 msgid "                    Squish-Squish"
-msgstr "                    Squish-Squish"
+msgstr "                 Puristus-Puristus"
 
 #. ID 37, Page 2, Line 4, Pos (19,17)
 msgid "                   Traffic Light"
-msgstr "                Liikennevalo"
+msgstr "                   Liikennevalo"
