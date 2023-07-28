@@ -13,5 +13,5 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 5, Pos (79,73)
-msgid "                       Cat"
-msgstr "                       Kissa"
+msgid "                         Cat"
+msgstr "                      Kissa"
