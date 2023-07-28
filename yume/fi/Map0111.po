@@ -14,4 +14,5 @@ msgstr ""
 
 #. ID 121, Page 1, Line 5, Pos (92,7)
 msgid "                     Fatten"
-msgstr "                  Lihota"
+msgstr "                     Lihota"
+
