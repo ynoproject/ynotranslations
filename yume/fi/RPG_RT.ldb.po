@@ -123,7 +123,7 @@ msgstr "Huilu"
 #. ID 18
 msgctxt "items.description"
 msgid "Brandish a flute."
-msgstr Soita huilua."
+msgstr "Soita huilua."
 
 #. ID 19
 #. ID 20
