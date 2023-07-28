@@ -81,13 +81,13 @@ msgstr "Varusta itsesi keittiöveitsellä."
 #. ID 12
 msgctxt "items.name"
 msgid "Eye Palm"
-msgstr "Silmäkäsi"
+msgstr "Silmä Kämmen"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
 msgid "Warp into an Eye Palm."
-msgstr "Muuta silmäkäsiksi."
+msgstr "Muuta silmäkämmeksi."
 
 #. ID 13
 #. ID 14
@@ -141,7 +141,7 @@ msgstr "Hohda kuin neonkyltti."
 #. ID 22
 msgctxt "items.name"
 msgid "Faceless Ghost"
-msgstr "Kasvoton aave"
+msgstr "Kasvoton Aave"
 
 #. ID 21
 #. ID 22
@@ -152,7 +152,7 @@ msgstr "Ilmaannu kasvottomaksi kummitukseksi."
 #. ID 23
 #. ID 24
 msgctxt "items.name"
-msgid "Severed head"
+msgid "Severed Head"
 msgstr "Irtopää"
 
 #. ID 23
@@ -285,7 +285,7 @@ msgstr "Muuta demoniksi."
 #. ID 46
 msgctxt "items.name"
 msgid "Squish-Squish"
-msgstr "Buyo-buyo"
+msgstr "Puristus-Puristus"
 
 #. ID 45
 #. ID 46
