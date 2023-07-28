@@ -15,7 +15,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Madotsuki"
-msgstr "附窗子"
+msgstr "Madotsuki"
 
 #. ID 1
 #. ID 2
