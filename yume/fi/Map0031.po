@@ -13,5 +13,5 @@ msgstr ""
 "X-Generator: Poedit 3.1.1\n"
 
 #. ID 3, Page 1, Line 5, Pos (90,51)
-msgid "                      Lamp"
+msgid "                       Lamp"
 msgstr "                      Lamppu"

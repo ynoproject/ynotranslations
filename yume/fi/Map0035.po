@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 6, Page 1, Line 5, Pos (3,7)
 msgid "                   Severed Head"
-msgstr "                   Irtopää"
+msgstr "                     Irtopää"
