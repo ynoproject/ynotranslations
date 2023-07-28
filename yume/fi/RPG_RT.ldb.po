@@ -116,8 +116,8 @@ msgstr "Pienene kooltasi."
 #. ID 17
 #. ID 18
 msgctxt "items.name"
-msgid "Huilu"
-msgstr "笛子"
+msgid "Flute"
+msgstr "Huilu"
 
 #. ID 17
 #. ID 18
@@ -152,8 +152,8 @@ msgstr "Ilmaannu kasvottomaksi kummitukseksi."
 #. ID 23
 #. ID 24
 msgctxt "items.name"
-msgid "Irtopää"
-msgstr "头颅"
+msgid "Severed head"
+msgstr "Irtopää"
 
 #. ID 23
 #. ID 24
@@ -272,8 +272,8 @@ msgstr "Muutu noidan inkarnaatioksi."
 #. ID 43
 #. ID 44
 msgctxt "items.name"
-msgid "Demoni"
-msgstr "鬼"
+msgid "Oni"
+msgstr "Demoni"
 
 #. ID 43
 #. ID 44
@@ -637,7 +637,7 @@ msgstr "��"
 
 msgctxt "terms.gold"
 msgid "\\"
-msgstr "日元"
+msgstr "\\"
 
 msgctxt "terms.command_attack"
 msgid "UŒ‚"
@@ -649,23 +649,23 @@ msgstr ""
 
 msgctxt "terms.command_item"
 msgid "Effect"
-msgstr "效果"
+msgstr "Vaikutus"
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
-msgstr "结束梦境"
+msgstr "Lopeta Peli"
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr "开始梦境"
+msgstr "Uusi Peli"
 
 msgctxt "terms.load_game"
 msgid "Dream Diary"
-msgstr "梦日记"
+msgstr "Unipäiväkirja"
 
 msgctxt "terms.exit_game"
 msgid "Quit"
-msgstr "退出"
+msgstr "Lopeta"
 
 msgctxt "terms.lvl_short"
 msgid "E"
@@ -677,27 +677,27 @@ msgstr "$k"
 
 msgctxt "terms.save_game_message"
 msgid "Write in Diary"
-msgstr "写入【梦日记】"
+msgstr "Kirjoita päiväkirjaan"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "读取【梦日记】"
+msgstr "Lue päiväkirjaa"
 
 msgctxt "terms.file"
 msgid "Page"
-msgstr "PAGE"
+msgstr "Sivu"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you want to quit?"
-msgstr "要结束梦境了吗？"
+msgstr "Haluatko lopettaa?"
 
 msgctxt "terms.yes"
 msgid "Yes"
-msgstr "是"
+msgstr "Kyllä"
 
 msgctxt "terms.no"
 msgid "No"
-msgstr "否"
+msgstr "Ei"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
