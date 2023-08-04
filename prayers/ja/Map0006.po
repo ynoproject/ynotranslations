@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Answered Prayers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Midomido\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 1, Page 1, Line 3, Pos (6,6)
+msgid "Learned Prayer \"Halo\"!"
+msgstr "イノリ「天使の輪」を覚えた！"
+
+#. ID 2, Page 1, Line 4, Pos (2,6)
+msgid "Learned Prayer \"Koraiyn\"!"
+msgstr "イノリ「こりゃーん」を覚えた！"
+
+#. ID 2, Page 2, Line 1, Pos (2,6)
+msgid "..."
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (8,3)
+#. Choice (4 options)
+msgid ""
+"Increase Speed\n"
+"Decrease Speed\n"
+"Give me Money\n"
+"Spin!"
+msgstr ""
+"加速する\n"
+"減速する\n"
+"お金ちょうだい\n"
+"回レ！"
+
+#. ID 4, Page 2, Line 1, Pos (8,3)
+msgid "DEBUG ROOM WOOOOOOOOOOO"
+msgstr "でばっぐるーむいえ～～～～～い"
+
+#. ID 6, Page 1, Line 7, Pos (2,4)
+msgid "Learned Prayer \"Phantom\"!"
+msgstr "イノリ「幻影」を覚えた！"
+
+#. ID 7, Page 1, Line 4, Pos (2,8)
+msgid "Learned Prayer \"Chromakey Dreamcoat\"!"
+msgstr "イノリ「クロマキードリームコート」を覚えた！"
+
+#. ID 9, Page 1, Line 6, Pos (4,6)
+msgid "Learned Prayer \"Tentacles\"!"
+msgstr "イノリ「触手」を覚えた！"
+
+#. ID 10, Page 1, Line 6, Pos (6,4)
+msgid "Learned Prayer \"Shovel\"!"
+msgstr "イノリ「シャベル」を覚えた！"
+
+#. ID 11, Page 1, Line 7, Pos (6,10)
+msgid "Learned Prayer \"Monochrome\"!"
+msgstr "イノリ「モノクローム」を覚えた！"
+
+#. ID 12, Page 1, Line 6, Pos (6,8)
+msgid "Learned Prayer \"Food\"!"
+msgstr "イノリ「食べ物」を覚えた！"
+
+#. ID 13, Page 1, Line 6, Pos (4,8)
+msgid "Learned Prayer \"Light\"!"
+msgstr "イノリ「灯り」を覚えた！"
+
+#. ID 14, Page 1, Line 6, Pos (4,4)
+msgid "Learned Prayer \"Tall Geta\"!"
+msgstr "イノリ「天狗下駄」を覚えた！"
+
+#. ID 15, Page 1, Line 6, Pos (2,10)
+msgid "Learned Prayer \"Karakasa\"!"
+msgstr "イノリ「からかさ」を覚えた！"
+
+#. ID 17, Page 1, Line 2, Pos (15,5)
+msgid "Found \"Rusty Key\"!"
+msgstr "「錆びた鍵」を見つけた！"
+
+#. ID 20, Page 1, Line 6, Pos (4,10)
+msgid "Learned Prayer \"Guitar\"!"
+msgstr "イノリ「ギター」を覚えた！"

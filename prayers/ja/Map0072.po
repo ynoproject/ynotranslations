@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Answered Prayers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Midomido\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 2, Page 1, Line 2, Pos (1,0)
+#. ID 2, Page 1, Line 12, Pos (1,0)
+#. ID 2, Page 1, Line 26, Pos (1,0)
+#. ID 2, Page 1, Line 51, Pos (1,0)
+#. ID 2, Page 1, Line 59, Pos (1,0)
+#. ID 2, Page 1, Line 67, Pos (1,0)
+#. ID 2, Page 1, Line 73, Pos (1,0)
+#. ID 2, Page 2, Line 2, Pos (1,0)
+#. ID 7, Page 1, Line 3, Pos (0,2)
+#. ID 7, Page 1, Line 13, Pos (0,2)
+#. ID 7, Page 1, Line 27, Pos (0,2)
+#. ID 7, Page 1, Line 52, Pos (0,2)
+#. ID 7, Page 1, Line 60, Pos (0,2)
+#. ID 7, Page 1, Line 68, Pos (0,2)
+#. ID 7, Page 1, Line 74, Pos (0,2)
+#. ID 7, Page 2, Line 2, Pos (0,2)
+msgid "ChiMiko: \"...\""
+msgstr "チミコ：「…」"
+
+#. ID 2, Page 1, Line 5, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 6, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's staring at your broken sandals)"
+msgstr "（壊れた下駄を眺めている）"
+
+#. ID 2, Page 1, Line 7, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 8, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Ask her to fix them.\n"
+"Nevermind"
+msgstr ""
+"修理を頼む\n"
+"さようなら"
+
+#. ID 2, Page 1, Line 14, Pos (1,0)
+#. Contains choice at line 2 (2 options)
+#. ID 7, Page 1, Line 15, Pos (0,2)
+#. Contains choice at line 2 (2 options)
+msgid "(She's holding up 4 fingers.)"
+msgstr "（指を４つ挙げている）"
+
+#. ID 2, Page 1, Line 18, Pos (1,0)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 19, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Give her 400 Nat.\n"
+"Forget It."
+msgstr ""
+"400ナット払う\n"
+"やっぱりいいや"
+
+#. ID 2, Page 1, Line 44, Pos (1,0)
+#. ID 7, Page 1, Line 45, Pos (0,2)
+msgid "\"Broken Sandals\" became \"Tall Geta\"!"
+msgstr "「壊れた下駄」が「天狗下駄」になった！"
+
+#. ID 2, Page 1, Line 49, Pos (1,0)
+#. ID 7, Page 1, Line 50, Pos (0,2)
+msgid "Fluorette: \"Th-thank you.\""
+msgstr "フロレット「あ、ありがとう。」"
+
+#. ID 2, Page 1, Line 56, Pos (1,0)
+#. ID 7, Page 1, Line 57, Pos (0,2)
+msgid ""
+"Fluorette: \"...Oh wait... I don't have enough\n"
+"money. ...Sorry...\""
+msgstr ""
+"フロレット「…まって、お金がたりない…\n"
+"…ごめんなさい…」"
+
+#. ID 10, Page 1, Line 7, Pos (0,3)
+#. ID 10, Page 3, Line 7, Pos (0,3)
+#. ID 13, Page 1, Line 7, Pos (0,5)
+msgid "Learned Prayer \"Phantom\"!"
+msgstr "イノリ「幻影」を覚えた！"
+
+#. ID 12, Page 1, Line 6, Pos (0,4)
+msgid "Found \"Broken Sandals\"!"
+msgstr "「壊れた下駄」を見つけた！"

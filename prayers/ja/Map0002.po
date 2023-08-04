@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Answered Prayers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Midomido\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 11, Page 1, Line 6, Pos (17,87)
+msgid "Learned Prayer \"Tall Geta\"!"
+msgstr "イノリ「天狗下駄」を覚えた！"
