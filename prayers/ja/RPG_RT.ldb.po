@@ -41,18 +41,18 @@ msgstr "（シャベル）"
 #. ID 3
 msgctxt "items.name"
 msgid "Koraiyn"
-msgstr "こりゃーん"
+msgstr "コーレイン"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "What's a Koraiyn?"
-msgstr "こりゃーんってなんだ？"
+msgstr "コーレインってなんだ？"
 
 #. ID 4
 msgctxt "items.name"
 msgid "(Koraiyn)"
-msgstr "（こりゃーん）"
+msgstr "（コーレイン）"
 
 #. ID 5
 msgctxt "items.name"

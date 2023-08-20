@@ -18,7 +18,7 @@ msgstr "イノリ「天使の輪」を覚えた！"
 
 #. ID 2, Page 1, Line 4, Pos (2,6)
 msgid "Learned Prayer \"Koraiyn\"!"
-msgstr "イノリ「こりゃーん」を覚えた！"
+msgstr "イノリ「コーレイン」を覚えた！"
 
 #. ID 2, Page 2, Line 1, Pos (2,6)
 msgid "..."
