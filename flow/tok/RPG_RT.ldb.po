@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dotflow\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "さびつき"
+msgstr "jan Sapituki"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "錆"
+msgstr "jaki Sapi"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "おきる"
+msgstr "pini lape"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "じぶんのへやにもどる。"
+msgstr "kama sin tawa tomo."
+
+#. ID 2
+msgctxt "skills.name"
+msgid "かそくそうち"
+msgstr "ilo pi tawa wawa"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "デバッグせんよう"
+msgstr "o kepeken e ona lon tenpo pi pona e musi taso."
+
+#. ID 1
+#. ID 2
+#. ID 36
+msgctxt "items.name"
+msgid "ヘッドフォン"
+msgstr "ilo kute"
+
+#. ID 1
+#. ID 2
+msgctxt "items.description"
+msgid "｢ヘッドフォン｣をかぶる。"
+msgstr "jo e ilo kute lon lawa."
+
+#. ID 3
+#. ID 4
+#. ID 37
+msgctxt "items.name"
+msgid "てつパイプ"
+msgstr "palisa"
+
+#. ID 3
+#. ID 4
+msgctxt "items.description"
+msgid "｢てつパイプ｣をもつ。"
+msgstr "jo e palisa lon luka."
+
+#. ID 5
+#. ID 6
+#. ID 38
+msgctxt "items.name"
+msgid "ゆうれい"
+msgstr "jan moli"
+
+#. ID 5
+#. ID 6
+msgctxt "items.description"
+msgid "｢ゆうれい｣になる。"
+msgstr "kama jan moli."
+
+#. ID 7
+#. ID 8
+#. ID 39
+msgctxt "items.name"
+msgid "モノアイ"
+msgstr "oko wan"
+
+#. ID 7
+#. ID 8
+msgctxt "items.description"
+msgid "｢モノアイ｣になる。"
+msgstr "kama jo e oko wan taso."
+
+#. ID 9
+#. ID 10
+#. ID 40
+msgctxt "items.name"
+msgid "せんすいふく"
+msgstr "len telo"
+
+#. ID 9
+#. ID 10
+msgctxt "items.description"
+msgid "｢せんすいふく｣をかぶる。"
+msgstr "jo e poki pi tawa anpa telo lon lawa."
+
+#. ID 11
+#. ID 12
+#. ID 41
+msgctxt "items.name"
+msgid "ねこ"
+msgstr "soweli"
+
+#. ID 11
+#. ID 12
+msgctxt "items.description"
+msgid "｢ねこ｣になる。"
+msgstr "kama soweli."
+
+#. ID 13
+#. ID 14
+#. ID 42
+msgctxt "items.name"
+msgid "ほうき"
+msgstr "ilo weka"
+
+#. ID 13
+#. ID 14
+msgctxt "items.description"
+msgid "｢ほうき｣にのる。"
+msgstr "tawa kepeken ilo pi weka e jaki."
+
+#. ID 15
+#. ID 16
+#. ID 43
+msgctxt "items.name"
+msgid "じょうろ"
+msgstr "poki telo"
+
+#. ID 15
+#. ID 16
+msgctxt "items.description"
+msgid "｢じょうろ｣をもつ。"
+msgstr "jo e ilo pi pana e telo tawa kasi lon luka."
+
+#. ID 17
+#. ID 18
+#. ID 44
+msgctxt "items.name"
+msgid "ホイッスル"
+msgstr "ilo kalama"
+
+#. ID 17
+#. ID 18
+msgctxt "items.description"
+msgid "｢ホイッスル｣をくわえる。"
+msgstr "jo e ilo kalama lon uta."
+
+#. ID 19
+#. ID 20
+#. ID 45
+msgctxt "items.name"
+msgid "ガスマスク"
+msgstr "len sinpin"
+
+#. ID 19
+#. ID 20
+msgctxt "items.description"
+msgid "｢ガスマスク｣をかぶる。"
+msgstr "jo e len pi weka e kon jaki lon sinpin."
+
+#. ID 21
+#. ID 22
+#. ID 46
+msgctxt "items.name"
+msgid "きかい"
+msgstr "ilo"
+
+#. ID 21
+#. ID 22
+msgctxt "items.description"
+msgid "｢きかい｣になる。"
+msgstr "kama ilo."
+
+#. ID 23
+#. ID 24
+#. ID 47
+msgctxt "items.name"
+msgid "だるま"
+msgstr "jan awen"
+
+#. ID 23
+#. ID 24
+msgctxt "items.description"
+msgid "｢だるま｣になる。"
+msgstr "kama jan awen."
+
+#. ID 25
+#. ID 26
+#. ID 48
+msgctxt "items.name"
+msgid "スライム"
+msgstr "ko"
+
+#. ID 25
+#. ID 26
+msgctxt "items.description"
+msgid "｢スライム｣になる。"
+msgstr "kama ko."
+
+#. ID 27
+#. ID 28
+#. ID 49
+msgctxt "items.name"
+msgid "うで"
+msgstr "luka"
+
+#. ID 27
+#. ID 28
+msgctxt "items.description"
+msgid "｢うで｣がふえる。"
+msgstr "luka li mute."
+
+#. ID 29
+#. ID 60
+msgctxt "items.name"
+msgid "::::::::::::::::::::"
+msgstr ""
+
+#. ID 30
+msgctxt "items.name"
+msgid "にせゲームのせつめい"
+msgstr ""
+
+#. ID 30
+msgctxt "items.description"
+msgid "ツクール仕様の勘違いから生まれた産物"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "ねぐせ"
+msgstr "nasin ala"
+
+#. ID 32
+msgctxt "items.name"
+msgid "いつもの"
+msgstr "sama lon tenpo ale"
+
+#. ID 33
+msgctxt "items.name"
+msgid "おきにいり"
+msgstr "pona tawa mi"
+
+#. ID 34
+msgctxt "items.name"
+msgid "かわぐつ"
+msgstr "selo soweli"
+
+#. ID 35
+msgctxt "items.name"
+msgid "なし"
+msgstr "ala"
+
+#. ID 50
+#. ID 61
+#. ID 62
+msgctxt "items.name"
+msgid "ないぞう"
+msgstr "insa"
+
+#. ID 51
+#. ID 63
+#. ID 64
+msgctxt "items.name"
+msgid "サイケデリック"
+msgstr "nasa"
+
+#. ID 52
+#. ID 65
+#. ID 66
+msgctxt "items.name"
+msgid "けんじゅう"
+msgstr "ilo utala"
+
+#. ID 53
+#. ID 67
+#. ID 68
+msgctxt "items.name"
+msgid "したい"
+msgstr "sijelo moli"
+
+#. ID 54
+#. ID 69
+#. ID 70
+msgctxt "items.name"
+msgid "くろフード"
+msgstr "len pimeja"
+
+#. ID 55
+#. ID 71
+#. ID 72
+msgctxt "items.name"
+msgid "せいふく"
+msgstr "len nasin"
+
+#. ID 56
+#. ID 73
+#. ID 74
+msgctxt "items.name"
+msgid "テレビ"
+msgstr "ilo lukin"
+
+#. ID 57
+#. ID 75
+#. ID 76
+msgctxt "items.name"
+msgid "しょくぶつ"
+msgstr "kasi"
+
+#. ID 58
+#. ID 77
+#. ID 78
+msgctxt "items.name"
+msgid "いれずみ"
+msgstr "sitelen selo"
+
+#. ID 59
+#. ID 79
+#. ID 80
+msgctxt "items.name"
+msgid "ドレス"
+msgstr "len suli"
+
+#. ID 61
+#. ID 62
+msgctxt "items.description"
+msgid "｢ないぞう｣がでる。"
+msgstr "insa li lon ala insa."
+
+#. ID 63
+#. ID 64
+msgctxt "items.description"
+msgid "｢サイケデリック｣になる。"
+msgstr "kama nasa."
+
+#. ID 65
+#. ID 66
+msgctxt "items.description"
+msgid "｢けんじゅう｣をもつ。"
+msgstr "jo e ilo utala lon luka."
+
+#. ID 67
+#. ID 68
+msgctxt "items.description"
+msgid "｢したい｣になる。"
+msgstr "kama sijelo moli."
+
+#. ID 69
+#. ID 70
+msgctxt "items.description"
+msgid "「くろフード」のふくをきる。"
+msgstr "jo e len pimeja lon sijelo."
+
+#. ID 71
+#. ID 72
+msgctxt "items.description"
+msgid "「せいふく」をきる。"
+msgstr "jo e len nasin lon sijelo."
+
+#. ID 73
+#. ID 74
+msgctxt "items.description"
+msgid "「テレビ」になる。"
+msgstr "kama ilo lukin."
+
+#. ID 75
+#. ID 76
+msgctxt "items.description"
+msgid "「しょくぶつ」になる。"
+msgstr "kama kasi."
+
+#. ID 77
+#. ID 78
+msgctxt "items.description"
+msgid "「いれずみ」をほる。"
+msgstr "sitelen e selo."
+
+#. ID 79
+#. ID 80
+msgctxt "items.description"
+msgid "「ドレス」をきる。"
+msgstr "jo e len suli lon sijelo."
+
+#. ID 100
+msgctxt "items.name"
+msgid "ゲームのせつめい"
+msgstr "nasin pi musi"
+
+#. ID 100
+msgctxt "items.description"
+msgid "ゲームのせつめいをみる。"
+msgstr "lukin sin e nasin pi musi."
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "$P"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "namako"
+
+msgctxt "terms.command_skill"
+msgid "とくべつ"
+msgstr "ken"
+
+msgctxt "terms.menu_equipment"
+msgid "じぶん"
+msgstr "mi"
+
+msgctxt "terms.menu_save"
+msgid "."
+msgstr "."
+
+msgctxt "terms.menu_quit"
+msgid "おわりにする"
+msgstr "pini"
+
+msgctxt "terms.new_game"
+msgid ".flow"
+msgstr ".kon"
+
+msgctxt "terms.load_game"
+msgid "きろく"
+msgstr "awen"
+
+msgctxt "terms.exit_game"
+msgid "おわる"
+msgstr "pini"
+
+msgctxt "terms.level"
+msgid "E"
+msgstr "N"
+
+msgctxt "terms.health_points"
+msgid "$g"
+msgstr "$g"
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr "N"
+
+msgctxt "terms.hp_short"
+msgid "$g"
+msgstr "$g"
+
+msgctxt "terms.weapon"
+msgid "エフェクト"
+msgstr "namako"
+
+msgctxt "terms.shield"
+msgid "かみ"
+msgstr "lawa"
+
+msgctxt "terms.armor"
+msgid "ふく"
+msgstr "len"
+
+msgctxt "terms.helmet"
+msgid "スカート"
+msgstr "len poka"
+
+msgctxt "terms.accessory"
+msgid "くつ"
+msgstr "len noka"
+
+msgctxt "terms.save_game_message"
+msgid "きろくをつける"
+msgstr "o awen e musi."
+
+msgctxt "terms.load_game_message"
+msgid "きろくをひらく"
+msgstr "o open e awen."
+
+msgctxt "terms.file"
+msgid "."
+msgstr "."
+
+msgctxt "terms.exit_game_message"
+msgid "おわりにしますか？"
+msgstr "sina pini ala pini?"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "lon"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "ala"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
