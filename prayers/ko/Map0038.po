@@ -11,5 +11,5 @@ msgstr ""
 #. ID 4, Page 1, Line 7, Pos (21,26)
 #. ID 4, Page 3, Line 8, Pos (21,26)
 msgid "Learned Prayer \"Phantom\"!"
-msgstr "\"펜텀\" 기도를 배웠다!"
+msgstr "\"팬텀\" 기도를 배웠다!"
 
