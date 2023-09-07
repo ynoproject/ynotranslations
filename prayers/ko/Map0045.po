@@ -10,5 +10,5 @@ msgstr ""
 
 #. ID 3, Page 1, Line 2, Pos (9,4)
 msgid "Found \"Rusty Key\"!"
-msgstr "\"녹슬은 열쇠\"를 찾았다!"
+msgstr "\"녹슨 열쇠\"를 찾았다!"
 
