@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -4684,327 +4684,327 @@ msgstr ""
 
 #. ID 512
 msgctxt "skills.name"
-msgid "ID:  512"
+msgid "ID:  512 プロローグ1"
 msgstr ""
 
 #. ID 513
 msgctxt "skills.name"
-msgid "ID:  513"
+msgid "ID:  513 霧の湿地"
 msgstr ""
 
 #. ID 514
 msgctxt "skills.name"
-msgid "ID:  514"
+msgid "ID:  514 廃工場"
 msgstr ""
 
 #. ID 515
 msgctxt "skills.name"
-msgid "ID:  515"
+msgid "ID:  515 遺跡"
 msgstr ""
 
 #. ID 516
 msgctxt "skills.name"
-msgid "ID:  516"
+msgid "ID:  516 歯車→ﾌﾟﾛﾛｰ"
 msgstr ""
 
 #. ID 517
 msgctxt "skills.name"
-msgid "ID:  517"
+msgid "ID:  517 大赤"
 msgstr ""
 
 #. ID 518
 msgctxt "skills.name"
-msgid "ID:  518"
+msgid "ID:  518 大風洞"
 msgstr ""
 
 #. ID 519
 msgctxt "skills.name"
-msgid "ID:  519"
+msgid "ID:  519 暗石洞"
 msgstr ""
 
 #. ID 520
 msgctxt "skills.name"
-msgid "ID:  520"
+msgid "ID:  520 風車橋と通"
 msgstr ""
 
 #. ID 521
 msgctxt "skills.name"
-msgid "ID:  521"
+msgid "ID:  521 プロローグ2"
 msgstr ""
 
 #. ID 522
 msgctxt "skills.name"
-msgid "ID:  522"
+msgid "ID:  522 プロローグ3"
 msgstr ""
 
 #. ID 523
 msgctxt "skills.name"
-msgid "ID:  523"
+msgid "ID:  523 プロローグ4"
 msgstr ""
 
 #. ID 524
 msgctxt "skills.name"
-msgid "ID:  524"
+msgid "ID:  524 プロローグ5"
 msgstr ""
 
 #. ID 525
 msgctxt "skills.name"
-msgid "ID:  525"
+msgid "ID:  525 奥底へ"
 msgstr ""
 
 #. ID 526
 msgctxt "skills.name"
-msgid "ID:  526"
+msgid "ID:  526 裏路地裏"
 msgstr ""
 
 #. ID 527
 msgctxt "skills.name"
-msgid "ID:  527"
+msgid "ID:  527 館"
 msgstr ""
 
 #. ID 528
 msgctxt "skills.name"
-msgid "ID:  528"
+msgid "ID:  528 暗彩光"
 msgstr ""
 
 #. ID 529
 msgctxt "skills.name"
-msgid "ID:  529"
+msgid "ID:  529 sakebi"
 msgstr ""
 
 #. ID 530
 msgctxt "skills.name"
-msgid "ID:  530"
+msgid "ID:  530 街"
 msgstr ""
 
 #. ID 531
 msgctxt "skills.name"
-msgid "ID:  531"
+msgid "ID:  531 浅瀬"
 msgstr ""
 
 #. ID 532
 msgctxt "skills.name"
-msgid "ID:  532"
+msgid "ID:  532 みなぞこ"
 msgstr ""
 
 #. ID 533
 msgctxt "skills.name"
-msgid "ID:  533"
+msgid "ID:  533 中庭"
 msgstr ""
 
 #. ID 534
 msgctxt "skills.name"
-msgid "ID:  534"
+msgid "ID:  534 room"
 msgstr ""
 
 #. ID 535
 msgctxt "skills.name"
-msgid "ID:  535"
+msgid "ID:  535 閉塞Ａ"
 msgstr ""
 
 #. ID 536
 msgctxt "skills.name"
-msgid "ID:  536"
+msgid "ID:  536 無秩序"
 msgstr ""
 
 #. ID 537
 msgctxt "skills.name"
-msgid "ID:  537"
+msgid "ID:  537 柱"
 msgstr ""
 
 #. ID 538
 msgctxt "skills.name"
-msgid "ID:  538"
+msgid "ID:  538 モノトンネ"
 msgstr ""
 
 #. ID 539
 msgctxt "skills.name"
-msgid "ID:  539"
+msgid "ID:  539 見下ろす"
 msgstr ""
 
 #. ID 540
 msgctxt "skills.name"
-msgid "ID:  540"
+msgid "ID:  540 閉塞Ｂ"
 msgstr ""
 
 #. ID 541
 msgctxt "skills.name"
-msgid "ID:  541"
+msgid "ID:  541 もよう"
 msgstr ""
 
 #. ID 542
 msgctxt "skills.name"
-msgid "ID:  542"
+msgid "ID:  542 ハウス"
 msgstr ""
 
 #. ID 543
 msgctxt "skills.name"
-msgid "ID:  543"
+msgid "ID:  543 ブロック洞"
 msgstr ""
 
 #. ID 544
 msgctxt "skills.name"
-msgid "ID:  544"
+msgid "ID:  544 おこた"
 msgstr ""
 
 #. ID 545
 msgctxt "skills.name"
-msgid "ID:  545"
+msgid "ID:  545 閉塞Ｃ"
 msgstr ""
 
 #. ID 546
 msgctxt "skills.name"
-msgid "ID:  546"
+msgid "ID:  546 あ"
 msgstr ""
 
 #. ID 547
 msgctxt "skills.name"
-msgid "ID:  547"
+msgid "ID:  547 閉塞通路"
 msgstr ""
 
 #. ID 548
 msgctxt "skills.name"
-msgid "ID:  548"
+msgid "ID:  548 閉塞Ｃ 電車"
 msgstr ""
 
 #. ID 549
 msgctxt "skills.name"
-msgid "ID:  549"
+msgid "ID:  549 きらきら"
 msgstr ""
 
 #. ID 550
 msgctxt "skills.name"
-msgid "ID:  550"
+msgid "ID:  550 cosmic"
 msgstr ""
 
 #. ID 551
 msgctxt "skills.name"
-msgid "ID:  551"
+msgid "ID:  551 おり"
 msgstr ""
 
 #. ID 552
 msgctxt "skills.name"
-msgid "ID:  552"
+msgid "ID:  552 閉塞　電車"
 msgstr ""
 
 #. ID 553
 msgctxt "skills.name"
-msgid "ID:  553"
+msgid "ID:  553 電車内"
 msgstr ""
 
 #. ID 554
 msgctxt "skills.name"
-msgid "ID:  554"
+msgid "ID:  554 遺跡２"
 msgstr ""
 
 #. ID 555
 msgctxt "skills.name"
-msgid "ID:  555"
+msgid "ID:  555 壁葬"
 msgstr ""
 
 #. ID 556
 msgctxt "skills.name"
-msgid "ID:  556"
+msgid "ID:  556 心象"
 msgstr ""
 
 #. ID 557
 msgctxt "skills.name"
-msgid "ID:  557"
+msgid "ID:  557 ノイズ"
 msgstr ""
 
 #. ID 558
 msgctxt "skills.name"
-msgid "ID:  558"
+msgid "ID:  558 部屋"
 msgstr ""
 
 #. ID 559
 msgctxt "skills.name"
-msgid "ID:  559"
+msgid "ID:  559 植物と岩"
 msgstr ""
 
 #. ID 560
 msgctxt "skills.name"
-msgid "ID:  560"
+msgid "ID:  560 地底溝"
 msgstr ""
 
 #. ID 561
 msgctxt "skills.name"
-msgid "ID:  561"
+msgid "ID:  561 すいそう"
 msgstr ""
 
 #. ID 562
 msgctxt "skills.name"
-msgid "ID:  562"
+msgid "ID:  562 最終地へ"
 msgstr ""
 
 #. ID 563
 msgctxt "skills.name"
-msgid "ID:  563"
+msgid "ID:  563 繋ぐよ"
 msgstr ""
 
 #. ID 564
 msgctxt "skills.name"
-msgid "ID:  564"
+msgid "ID:  564 ホームA"
 msgstr ""
 
 #. ID 565
 msgctxt "skills.name"
-msgid "ID:  565"
+msgid "ID:  565 星洞"
 msgstr ""
 
 #. ID 566
 msgctxt "skills.name"
-msgid "ID:  566"
+msgid "ID:  566 廃建"
 msgstr ""
 
 #. ID 567
 msgctxt "skills.name"
-msgid "ID:  567"
+msgid "ID:  567 星の夜"
 msgstr ""
 
 #. ID 568
 msgctxt "skills.name"
-msgid "ID:  568"
+msgid "ID:  568 夜館"
 msgstr ""
 
 #. ID 569
 msgctxt "skills.name"
-msgid "ID:  569"
+msgid "ID:  569 倉"
 msgstr ""
 
 #. ID 570
 msgctxt "skills.name"
-msgid "ID:  570"
+msgid "ID:  570 夜花草"
 msgstr ""
 
 #. ID 571
 msgctxt "skills.name"
-msgid "ID:  571"
+msgid "ID:  571 水辺"
 msgstr ""
 
 #. ID 572
 msgctxt "skills.name"
-msgid "ID:  572"
+msgid "ID:  572 暗道"
 msgstr ""
 
 #. ID 573
 msgctxt "skills.name"
-msgid "ID:  573"
+msgid "ID:  573 所"
 msgstr ""
 
 #. ID 574
 msgctxt "skills.name"
-msgid "ID:  574"
+msgid "ID:  574 灯り"
 msgstr ""
 
 #. ID 575
 msgctxt "skills.name"
-msgid "ID:  575"
+msgid "ID:  575 河川A"
 msgstr ""
 
 #. ID 576
 msgctxt "skills.name"
-msgid "ID:  576"
+msgid "ID:  576 め"
 msgstr ""
 
 #. ID 577
@@ -5019,7 +5019,7 @@ msgstr ""
 
 #. ID 579
 msgctxt "skills.name"
-msgid "ID:  579"
+msgid "ID:  579 公園"
 msgstr ""
 
 #. ID 580
@@ -5029,12 +5029,12 @@ msgstr ""
 
 #. ID 581
 msgctxt "skills.name"
-msgid "ID:  581"
+msgid "ID:  581 ホームB"
 msgstr ""
 
 #. ID 582
 msgctxt "skills.name"
-msgid "ID:  582"
+msgid "ID:  582 河川B"
 msgstr ""
 
 #. ID 583
@@ -6564,17 +6564,17 @@ msgstr ""
 
 #. ID 888
 msgctxt "skills.name"
-msgid "ID:  888"
+msgid "ID:  888 渇き"
 msgstr ""
 
 #. ID 889
 msgctxt "skills.name"
-msgid "ID:  889 "
+msgid "ID:  889 カトラリー"
 msgstr ""
 
 #. ID 890
 msgctxt "skills.name"
-msgid "ID:  890 "
+msgid "ID:  890 繋ぎだよぉ"
 msgstr ""
 
 #. ID 891
@@ -8589,7 +8589,7 @@ msgstr ""
 
 #. ID 1293
 msgctxt "skills.name"
-msgid "ID:1293 唐砂漠"
+msgid "ID:1293 湖橋"
 msgstr ""
 
 #. ID 1294
@@ -9012,6 +9012,21 @@ msgctxt "skills.name"
 msgid "ID:1377 monastery"
 msgstr ""
 
+#. ID 1378
+msgctxt "skills.name"
+msgid "ID:1378 henry"
+msgstr ""
+
+#. ID 1379
+msgctxt "skills.name"
+msgid "ID:1379 snow"
+msgstr ""
+
+#. ID 1380
+msgctxt "skills.name"
+msgid "ID:1380 fish"
+msgstr ""
+
 #. ID 1381
 msgctxt "skills.name"
 msgid "MAP1381　環館酸彩厨"
@@ -9168,6 +9183,56 @@ msgctxt "skills.name"
 msgid "ID:1434 映し雲"
 msgstr ""
 
+#. ID 1441
+msgctxt "skills.name"
+msgid "ID:1441 uproad"
+msgstr ""
+
+#. ID 1442
+msgctxt "skills.name"
+msgid "ID:1442 restaurant"
+msgstr ""
+
+#. ID 1443
+msgctxt "skills.name"
+msgid "ID:1443 apartments"
+msgstr ""
+
+#. ID 1444
+msgctxt "skills.name"
+msgid "ID:1444 tribution"
+msgstr ""
+
+#. ID 1445
+msgctxt "skills.name"
+msgid "ID:1445 A C H S C A"
+msgstr ""
+
+#. ID 1446
+msgctxt "skills.name"
+msgid "ID:1446 SCARYCUTE"
+msgstr ""
+
+#. ID 1447
+msgctxt "skills.name"
+msgid "ID:1447 abandoned"
+msgstr ""
+
+#. ID 1448
+msgctxt "skills.name"
+msgid "ID:1448 grate"
+msgstr ""
+
+#. ID 1449
+msgctxt "skills.name"
+msgid "ID:1449 flood"
+msgstr ""
+
+#. ID 1450
+msgctxt "skills.name"
+msgid "ID:1450 humphry"
+msgstr ""
+
 #. ID 1481
 msgctxt "skills.name"
 msgid "ID:1481 ★-----srd"
@@ -9258,6 +9323,11 @@ msgctxt "skills.name"
 msgid "ID:1498　ぶりぶり"
 msgstr ""
 
+#. ID 1499
+msgctxt "skills.name"
+msgid "ID:1499　悠久の廊下"
+msgstr ""
+
 #. ID 1500
 msgctxt "skills.name"
 msgid "ID:1500　捨_2"
@@ -9333,6 +9403,66 @@ msgctxt "skills.name"
 msgid "ID:1552 ﾗﾝﾌﾟ（煉瓦街"
 msgstr ""
 
+#. ID 1553
+msgctxt "skills.name"
+msgid "ID:1553 肉欲"
+msgstr ""
+
+#. ID 1554
+msgctxt "skills.name"
+msgid "ID:1554 ﾊﾆｶﾑﾋﾟﾝｸ"
+msgstr ""
+
+#. ID 1555
+msgctxt "skills.name"
+msgid "ID:1555 天幕／苺牛乳"
+msgstr ""
+
+#. ID 1556
+msgctxt "skills.name"
+msgid "ID:1556 青の奈落１ "
+msgstr ""
+
+#. ID 1557
+msgctxt "skills.name"
+msgid "ID:1557 青の奈落２"
+msgstr ""
+
+#. ID 1574
+msgctxt "skills.name"
+msgid "ID:1574 Pier B"
+msgstr ""
+
+#. ID 1575
+msgctxt "skills.name"
+msgid "ID:1575 Pier A"
+msgstr ""
+
+#. ID 1576
+msgctxt "skills.name"
+msgid "ID:1576 Neon Room"
+msgstr ""
+
+#. ID 1577
+msgctxt "skills.name"
+msgid "ID:1577 Neon Suburbs"
+msgstr ""
+
+#. ID 1578
+msgctxt "skills.name"
+msgid "ID:1578 Marble Ruins"
+msgstr ""
+
+#. ID 1579
+msgctxt "skills.name"
+msgid "ID:1579 Marble Room"
+msgstr ""
+
+#. ID 1580
+msgctxt "skills.name"
+msgid "ID:1580 Marble Tower"
+msgstr ""
+
 #. ID 1581
 msgctxt "skills.name"
 msgid "ID:1581 ★-森温"
@@ -9386,6 +9516,21 @@ msgstr ""
 #. ID 1603
 msgctxt "skills.name"
 msgid "ID:1603"
+msgstr ""
+
+#. ID 1604
+msgctxt "skills.name"
+msgid "ID:1604 ルドの列島"
+msgstr ""
+
+#. ID 1605
+msgctxt "skills.name"
+msgid "ID:1605 ビショップ"
+msgstr ""
+
+#. ID 1607
+msgctxt "skills.name"
+msgid "ID:1607 奇妙な壁紙"
 msgstr ""
 
 #. ID 1621
@@ -9453,6 +9598,11 @@ msgctxt "skills.name"
 msgid "ID:1644_Center"
 msgstr ""
 
+#. ID 1650
+msgctxt "skills.name"
+msgid "ID:MAP1650_SquareSet"
+msgstr ""
+
 #. ID 1651
 msgctxt "skills.name"
 msgid "ID:1651 穴ぼこ"
@@ -9496,6 +9646,11 @@ msgstr ""
 #. ID 1659
 msgctxt "skills.name"
 msgid "ID:1659 ハニーワ遺跡"
+msgstr ""
+
+#. ID 1660
+msgctxt "skills.name"
+msgid "ID:1660 ｽﾉｰﾏﾝﾜｰﾙﾄﾞ"
 msgstr ""
 
 #. ID 1661
@@ -9676,6 +9831,31 @@ msgstr ""
 #. ID 1714
 msgctxt "skills.name"
 msgid "ID:1714 個人部屋"
+msgstr ""
+
+#. ID 1715
+msgctxt "skills.name"
+msgid "ID:1715 無静光踊"
+msgstr ""
+
+#. ID 1716
+msgctxt "skills.name"
+msgid "ID:1716 敗北者"
+msgstr ""
+
+#. ID 1717
+msgctxt "skills.name"
+msgid "ID:1717 避けられた街"
+msgstr ""
+
+#. ID 1718
+msgctxt "skills.name"
+msgid "ID:1718 避けられ街裏"
+msgstr ""
+
+#. ID 1720
+msgctxt "skills.name"
+msgid "ID:1720 自壁作"
 msgstr ""
 
 #. ID 1721
@@ -9878,6 +10058,31 @@ msgctxt "skills.name"
 msgid "ID:1810 化石発掘現場"
 msgstr ""
 
+#. ID 1841
+msgctxt "skills.name"
+msgid "ID:1841 Tunnel"
+msgstr ""
+
+#. ID 1842
+msgctxt "skills.name"
+msgid "ID:1842 Pastel Pools"
+msgstr ""
+
+#. ID 1843
+msgctxt "skills.name"
+msgid "ID:1843 AnimalHeaven"
+msgstr ""
+
+#. ID 1844
+msgctxt "skills.name"
+msgid "ID:1844 SunsetRoom"
+msgstr ""
+
+#. ID 1845
+msgctxt "skills.name"
+msgid "ID:1845 Mallsoft"
+msgstr ""
+
 #. ID 1921
 msgctxt "skills.name"
 msgid "ID:1921 眠気の森"
@@ -9890,7 +10095,7 @@ msgstr ""
 
 #. ID 1923
 msgctxt "skills.name"
-msgid "ID:1923"
+msgid "ID:1923　団地"
 msgstr ""
 
 #. ID 1924
@@ -9926,6 +10131,880 @@ msgstr ""
 #. ID 1930
 msgctxt "skills.name"
 msgid "ID:1930 苔生す跡地"
+msgstr ""
+
+#. ID 1931
+#. ID 1932
+#. ID 1933
+#. ID 1934
+#. ID 1935
+#. ID 1938
+#. ID 1940
+#. ID 1941
+#. ID 1942
+#. ID 1945
+msgctxt "skills.name"
+msgid "ID:"
+msgstr ""
+
+#. ID 1936
+msgctxt "skills.name"
+msgid "ID:1936 ファン"
+msgstr ""
+
+#. ID 1937
+msgctxt "skills.name"
+msgid "ID:1937 水たまり"
+msgstr ""
+
+#. ID 1939
+msgctxt "skills.name"
+msgid "ID:1939 モダンタイル"
+msgstr ""
+
+#. ID 1943
+msgctxt "skills.name"
+msgid "ID:1943"
+msgstr ""
+
+#. ID 1944
+msgctxt "skills.name"
+msgid "ID:1944 嘘つきの街内"
+msgstr ""
+
+#. ID 1946
+msgctxt "skills.name"
+msgid "ID:1946 公園B"
+msgstr ""
+
+#. ID 1947
+msgctxt "skills.name"
+msgid "ID:1947 公園A"
+msgstr ""
+
+#. ID 1948
+msgctxt "skills.name"
+msgid "ID:1948 水たまり"
+msgstr ""
+
+#. ID 1949
+msgctxt "skills.name"
+msgid "ID:1949 文明石"
+msgstr ""
+
+#. ID 1950
+msgctxt "skills.name"
+msgid "ID:1950 夜明け告げ月"
+msgstr ""
+
+#. ID 1951
+msgctxt "skills.name"
+msgid "ID:1951 土埃色の廊下"
+msgstr ""
+
+#. ID 1952
+msgctxt "skills.name"
+msgid "ID:1952 Decrepithall"
+msgstr ""
+
+#. ID 1953
+msgctxt "skills.name"
+msgid "ID:1953"
+msgstr ""
+
+#. ID 1954
+msgctxt "skills.name"
+msgid "ID:1954"
+msgstr ""
+
+#. ID 1955
+msgctxt "skills.name"
+msgid "ID:1955"
+msgstr ""
+
+#. ID 1956
+msgctxt "skills.name"
+msgid "ID:1956 ReVantaBlack"
+msgstr ""
+
+#. ID 1957
+msgctxt "skills.name"
+msgid "ID:1957 Rainbowhell"
+msgstr ""
+
+#. ID 1958
+msgctxt "skills.name"
+msgid "ID:1958 Bunkerroom"
+msgstr ""
+
+#. ID 1959
+msgctxt "skills.name"
+msgid "ID:1959 PansypathA"
+msgstr ""
+
+#. ID 1960
+msgctxt "skills.name"
+msgid "ID:1960 PansypathB"
+msgstr ""
+
+#. ID 1961
+msgctxt "skills.name"
+msgid "ID:1961 Moka"
+msgstr ""
+
+#. ID 1962
+msgctxt "skills.name"
+msgid "ID:1962 忍者"
+msgstr ""
+
+#. ID 1963
+msgctxt "skills.name"
+msgid "ID:1963 main_inside"
+msgstr ""
+
+#. ID 1964
+msgctxt "skills.name"
+msgid "ID:1964 ninja circle"
+msgstr ""
+
+#. ID 1965
+msgctxt "skills.name"
+msgid "ID:1965 pole"
+msgstr ""
+
+#. ID 1966
+msgctxt "skills.name"
+msgid "ID:1966 グリパ"
+msgstr ""
+
+#. ID 1967
+msgctxt "skills.name"
+msgid "ID:1967 グリパ2"
+msgstr ""
+
+#. ID 1968
+msgctxt "skills.name"
+msgid "ID:1968 pyramid"
+msgstr ""
+
+#. ID 1969
+msgctxt "skills.name"
+msgid "ID:1969 DOMINO"
+msgstr ""
+
+#. ID 1970
+msgctxt "skills.name"
+msgid "ID:1970 DOMEINSIDE"
+msgstr ""
+
+#. ID 1971
+msgctxt "skills.name"
+msgid "ID:1971 ouri"
+msgstr ""
+
+#. ID 1972
+msgctxt "skills.name"
+msgid "ID:1972 drains"
+msgstr ""
+
+#. ID 1973
+msgctxt "skills.name"
+msgid "ID:1973 theater"
+msgstr ""
+
+#. ID 1974
+msgctxt "skills.name"
+msgid "ID:1974 road"
+msgstr ""
+
+#. ID 1975
+msgctxt "skills.name"
+msgid "ID:1975 docks"
+msgstr ""
+
+#. ID 1976
+msgctxt "skills.name"
+msgid "ID:1976 forest"
+msgstr ""
+
+#. ID 1977
+msgctxt "skills.name"
+msgid "ID:1977 mail"
+msgstr ""
+
+#. ID 1978
+msgctxt "skills.name"
+msgid "ID:1978 pillar"
+msgstr ""
+
+#. ID 1979
+msgctxt "skills.name"
+msgid "ID:1979 bright"
+msgstr ""
+
+#. ID 1980
+msgctxt "skills.name"
+msgid "ID:1980 stone"
+msgstr ""
+
+#. ID 1982
+msgctxt "skills.name"
+msgid "ID:1982　アラザン"
+msgstr ""
+
+#. ID 1983
+msgctxt "skills.name"
+msgid "ID:1983　帽子"
+msgstr ""
+
+#. ID 1984
+msgctxt "skills.name"
+msgid "ID:1984　変面樹木"
+msgstr ""
+
+#. ID 1985
+msgctxt "skills.name"
+msgid "ID:1985　ケッカン"
+msgstr ""
+
+#. ID 1986
+msgctxt "skills.name"
+msgid "ID:1986　micro biome"
+msgstr ""
+
+#. ID 1987
+msgctxt "skills.name"
+msgid "ID:1987 parking zone"
+msgstr ""
+
+#. ID 1988
+msgctxt "skills.name"
+msgid "ID:1988 (^□^)"
+msgstr ""
+
+#. ID 1989
+msgctxt "skills.name"
+msgid "ID:1989　文道"
+msgstr ""
+
+#. ID 1990
+msgctxt "skills.name"
+msgid "ID:1990　虹道　"
+msgstr ""
+
+#. ID 1991
+msgctxt "skills.name"
+msgid "ID:1991 うつろう鬱現"
+msgstr ""
+
+#. ID 1992
+msgctxt "skills.name"
+msgid "ID:1992"
+msgstr ""
+
+#. ID 1993
+msgctxt "skills.name"
+msgid "ID:1993 迂路"
+msgstr ""
+
+#. ID 1994
+msgctxt "skills.name"
+msgid "ID:1994 Not Found"
+msgstr ""
+
+#. ID 1995
+msgctxt "skills.name"
+msgid "ID:1995 ephemera"
+msgstr ""
+
+#. ID 1996
+msgctxt "skills.name"
+msgid "ID:1996"
+msgstr ""
+
+#. ID 1997
+msgctxt "skills.name"
+msgid "ID:1997"
+msgstr ""
+
+#. ID 1998
+msgctxt "skills.name"
+msgid "ID:1998"
+msgstr ""
+
+#. ID 1999
+msgctxt "skills.name"
+msgid "ID:1999"
+msgstr ""
+
+#. ID 2000
+msgctxt "skills.name"
+msgid "ID:2000"
+msgstr ""
+
+#. ID 2001
+msgctxt "skills.name"
+msgid "ID:2001　碧眼世界"
+msgstr ""
+
+#. ID 2002
+msgctxt "skills.name"
+msgid "ID:2002　ﾌﾟﾗﾝﾀｰ通路"
+msgstr ""
+
+#. ID 2003
+msgctxt "skills.name"
+msgid "ID:2003　繋ぎ目1"
+msgstr ""
+
+#. ID 2004
+msgctxt "skills.name"
+msgid "ID:2004　GrayMemory"
+msgstr ""
+
+#. ID 2005
+msgctxt "skills.name"
+msgid "ID:2005　Entrance"
+msgstr ""
+
+#. ID 2006
+msgctxt "skills.name"
+msgid "ID:2006　樹海"
+msgstr ""
+
+#. ID 2007
+msgctxt "skills.name"
+msgid "ID:2007　ｽﾗｲﾑﾍﾔ"
+msgstr ""
+
+#. ID 2008
+msgctxt "skills.name"
+msgid "ID:2008　文字世界"
+msgstr ""
+
+#. ID 2009
+msgctxt "skills.name"
+msgid "ID:2009　幻想図書館"
+msgstr ""
+
+#. ID 2010
+msgctxt "skills.name"
+msgid "ID:2010　幻想界"
+msgstr ""
+
+#. ID 2011
+msgctxt "skills.name"
+msgid "ID:2011"
+msgstr ""
+
+#. ID 2012
+msgctxt "skills.name"
+msgid "ID:2012"
+msgstr ""
+
+#. ID 2031
+msgctxt "skills.name"
+msgid "ID:2031　別離"
+msgstr ""
+
+#. ID 2032
+msgctxt "skills.name"
+msgid "ID:2032　ケムリソウ"
+msgstr ""
+
+#. ID 2033
+msgctxt "skills.name"
+msgid "ID:2033　醤油"
+msgstr ""
+
+#. ID 2034
+msgctxt "skills.name"
+msgid "ID:2034　温室"
+msgstr ""
+
+#. ID 2035
+msgctxt "skills.name"
+msgid "ID:2035　南瓜街"
+msgstr ""
+
+#. ID 2036
+msgctxt "skills.name"
+msgid "ID:2036　何処何処"
+msgstr ""
+
+#. ID 2037
+msgctxt "skills.name"
+msgid "ID:2037　つみき"
+msgstr ""
+
+#. ID 2038
+msgctxt "skills.name"
+msgid "ID:2038　眼"
+msgstr ""
+
+#. ID 2039
+msgctxt "skills.name"
+msgid "ID:2039　ハチミツ"
+msgstr ""
+
+#. ID 2040
+msgctxt "skills.name"
+msgid "ID:2040　四季四季森"
+msgstr ""
+
+#. ID 2041
+msgctxt "skills.name"
+msgid "ID:2041　(^□^)小"
+msgstr ""
+
+#. ID 2042
+msgctxt "skills.name"
+msgid "ID:2042　ケッカン裏"
+msgstr ""
+
+#. ID 2043
+msgctxt "skills.name"
+msgid "ID:2043　白黒牧場"
+msgstr ""
+
+#. ID 2044
+msgctxt "skills.name"
+msgid "ID:2044　ゲーム墓1"
+msgstr ""
+
+#. ID 2045
+msgctxt "skills.name"
+msgid "ID:2045　ゲーム墓2"
+msgstr ""
+
+#. ID 2046
+msgctxt "skills.name"
+msgid "ID:2046　ゲーム墓3"
+msgstr ""
+
+#. ID 2047
+msgctxt "skills.name"
+msgid "ID:2047　■■■"
+msgstr ""
+
+#. ID 2048
+msgctxt "skills.name"
+msgid "ID:2048　武器世界"
+msgstr ""
+
+#. ID 2049
+msgctxt "skills.name"
+msgid "ID:2049　薄紫生物"
+msgstr ""
+
+#. ID 2050
+msgctxt "skills.name"
+msgid "ID:2050　魔女っ娘"
+msgstr ""
+
+#. ID 2051
+msgctxt "skills.name"
+msgid "ID:2051 Pink Forest"
+msgstr ""
+
+#. ID 2052
+msgctxt "skills.name"
+msgid "ID:2052 Butterflies"
+msgstr ""
+
+#. ID 2053
+msgctxt "skills.name"
+msgid "ID:2053 Gallery"
+msgstr ""
+
+#. ID 2054
+msgctxt "skills.name"
+msgid "ID:2054 Rooms"
+msgstr ""
+
+#. ID 2055
+msgctxt "skills.name"
+msgid "ID:2055 黄昏時"
+msgstr ""
+
+#. ID 2056
+msgctxt "skills.name"
+msgid "ID:2056 暗闇の中宝石"
+msgstr ""
+
+#. ID 2057
+msgctxt "skills.name"
+msgid "iD:2057 空間の中の庭"
+msgstr ""
+
+#. ID 2058
+msgctxt "skills.name"
+msgid "ID:2058 コーラル"
+msgstr ""
+
+#. ID 2061
+msgctxt "skills.name"
+msgid "ID:2061　tiger"
+msgstr ""
+
+#. ID 2062
+msgctxt "skills.name"
+msgid "ID:2062　鳥居空間"
+msgstr ""
+
+#. ID 2063
+msgctxt "skills.name"
+msgid "ID:2063　畦道"
+msgstr ""
+
+#. ID 2064
+msgctxt "skills.name"
+msgid "ID:2064　眼と血痕"
+msgstr ""
+
+#. ID 2065
+msgctxt "skills.name"
+msgid "ID:2065　error404"
+msgstr ""
+
+#. ID 2066
+msgctxt "skills.name"
+msgid "ID:2066　何もない"
+msgstr ""
+
+#. ID 2067
+msgctxt "skills.name"
+msgid "ID:2067　夕日の丘"
+msgstr ""
+
+#. ID 2068
+msgctxt "skills.name"
+msgid "ID:2068　ヒマワリ畑"
+msgstr ""
+
+#. ID 2069
+msgctxt "skills.name"
+msgid "ID:2069　夕日の丘:家"
+msgstr ""
+
+#. ID 2070
+msgctxt "skills.name"
+msgid "ID:2070　幼い記憶　"
+msgstr ""
+
+#. ID 2071
+msgctxt "skills.name"
+msgid "ID:2071　水没世界"
+msgstr ""
+
+#. ID 2072
+msgctxt "skills.name"
+msgid "ID:2072　回廊世界"
+msgstr ""
+
+#. ID 2074
+msgctxt "skills.name"
+msgid "ID:2074　ﾍﾞﾘｰ農園"
+msgstr ""
+
+#. ID 2075
+msgctxt "skills.name"
+msgid "ID:2075　Nexus"
+msgstr ""
+
+#. ID 2076
+msgctxt "skills.name"
+msgid "ID:2076　秘密結社"
+msgstr ""
+
+#. ID 2077
+msgctxt "skills.name"
+msgid "ID:2077　情報解凍"
+msgstr ""
+
+#. ID 2078
+msgctxt "skills.name"
+msgid "ID:2078　狂気"
+msgstr ""
+
+#. ID 2079
+msgctxt "skills.name"
+msgid "ID:2079　壁画通路"
+msgstr ""
+
+#. ID 2080
+msgctxt "skills.name"
+msgid "ID:2080　壁画"
+msgstr ""
+
+#. ID 2101
+msgctxt "skills.name"
+msgid "ID:2101 ROADSIDE"
+msgstr ""
+
+#. ID 2102
+msgctxt "skills.name"
+msgid "ID:2102 MANNEQUIN"
+msgstr ""
+
+#. ID 2103
+msgctxt "skills.name"
+msgid "ID:2103 RED"
+msgstr ""
+
+#. ID 2104
+msgctxt "skills.name"
+msgid "ID:2104 CLUBHOUSE"
+msgstr ""
+
+#. ID 2105
+msgctxt "skills.name"
+msgid "ID:2105 PREPYPAMID"
+msgstr ""
+
+#. ID 2106
+msgctxt "skills.name"
+msgid "ID:2106 MIDORIKO"
+msgstr ""
+
+#. ID 2111
+msgctxt "skills.name"
+msgid "ID:2111　アイス"
+msgstr ""
+
+#. ID 2112
+msgctxt "skills.name"
+msgid "ID:2112　薄紫生物2"
+msgstr ""
+
+#. ID 2113
+msgctxt "skills.name"
+msgid "ID:2113　地下古墳"
+msgstr ""
+
+#. ID 2114
+msgctxt "skills.name"
+msgid "ID:2114　回転寿司1"
+msgstr ""
+
+#. ID 2115
+msgctxt "skills.name"
+msgid "ID:2115　腐った世界"
+msgstr ""
+
+#. ID 2116
+msgctxt "skills.name"
+msgid "ID:2116　京夜彩"
+msgstr ""
+
+#. ID 2117
+msgctxt "skills.name"
+msgid "ID:2117　京夜彩2"
+msgstr ""
+
+#. ID 2118
+msgctxt "skills.name"
+msgid "ID:2118　線画きのこ"
+msgstr ""
+
+#. ID 2119
+msgctxt "skills.name"
+msgid "ID:2119　首塚"
+msgstr ""
+
+#. ID 2120
+msgctxt "skills.name"
+msgid "ID:2120　回転寿司2"
+msgstr ""
+
+#. ID 2122
+msgctxt "skills.name"
+msgid "ID:2122 ヘドロード"
+msgstr ""
+
+#. ID 2131
+msgctxt "skills.name"
+msgid "ID:2131　地下古墳2"
+msgstr ""
+
+#. ID 2132
+msgctxt "skills.name"
+msgid "ID:2132　回転寿司3"
+msgstr ""
+
+#. ID 2133
+msgctxt "skills.name"
+msgid "ID:2133　武器世界2"
+msgstr ""
+
+#. ID 2135
+msgctxt "skills.name"
+msgid "ID:2135　線画きのこ2"
+msgstr ""
+
+#. ID 2141
+msgctxt "skills.name"
+msgid "ID:2141 凍て笑み"
+msgstr ""
+
+#. ID 2142
+msgctxt "skills.name"
+msgid "ID:2142 室内"
+msgstr ""
+
+#. ID 2143
+msgctxt "skills.name"
+msgid "ID:2143 演奏会"
+msgstr ""
+
+#. ID 2144
+msgctxt "skills.name"
+msgid "ID:2144 月光"
+msgstr ""
+
+#. ID 2146
+msgctxt "skills.name"
+msgid "ID:2146 竹林"
+msgstr ""
+
+#. ID 2147
+msgctxt "skills.name"
+msgid "ID:2147 植木鉢"
+msgstr ""
+
+#. ID 2148
+msgctxt "skills.name"
+msgid "ID:2148 桜柳"
+msgstr ""
+
+#. ID 2193
+msgctxt "skills.name"
+msgid "ID:2193 秋の上空"
+msgstr ""
+
+#. ID 2194
+msgctxt "skills.name"
+msgid "ID:2194 片栗粉世界"
+msgstr ""
+
+#. ID 2195
+msgctxt "skills.name"
+msgid "ID:2195 嘔吐水道世界"
+msgstr ""
+
+#. ID 2200
+msgctxt "skills.name"
+msgid "ID:2200 眼の世界"
+msgstr ""
+
+#. ID 2211
+msgctxt "skills.name"
+msgid "ID:2211　たきこみ　"
+msgstr ""
+
+#. ID 2212
+msgctxt "skills.name"
+msgid "ID:2212　す　"
+msgstr ""
+
+#. ID 2213
+msgctxt "skills.name"
+msgid "ID:2213　かよ"
+msgstr ""
+
+#. ID 2214
+msgctxt "skills.name"
+msgid "ID:2214　高め"
+msgstr ""
+
+#. ID 2215
+msgctxt "skills.name"
+msgid "ID:2215　廃"
+msgstr ""
+
+#. ID 2216
+msgctxt "skills.name"
+msgid "ID:2216　おへ"
+msgstr ""
+
+#. ID 2217
+msgctxt "skills.name"
+msgid "ID:2217　壮観"
+msgstr ""
+
+#. ID 2218
+msgctxt "skills.name"
+msgid "ID:2218　入口"
+msgstr ""
+
+#. ID 2219
+msgctxt "skills.name"
+msgid "ID:2219　くー"
+msgstr ""
+
+#. ID 2220
+msgctxt "skills.name"
+msgid "ID:2220　ひー"
+msgstr ""
+
+#. ID 2221
+msgctxt "skills.name"
+msgid "ID:2221 StarryForest"
+msgstr ""
+
+#. ID 2222
+msgctxt "skills.name"
+msgid "ID:2222 (Namedude)"
+msgstr ""
+
+#. ID 2223
+msgctxt "skills.name"
+msgid "Id:2223 Coral Maze"
+msgstr ""
+
+#. ID 2224
+msgctxt "skills.name"
+msgid "ID:2224 (Namedude)"
+msgstr ""
+
+#. ID 2225
+msgctxt "skills.name"
+msgid "ID:2225 (Namedude)"
+msgstr ""
+
+#. ID 2232
+msgctxt "skills.name"
+msgid "ID:2232 Flozen Glade"
+msgstr ""
+
+#. ID 2233
+msgctxt "skills.name"
+msgid "ID:2233 Cabin1"
+msgstr ""
+
+#. ID 2234
+msgctxt "skills.name"
+msgid "ID:2234 Cabin2"
+msgstr ""
+
+#. ID 2235
+msgctxt "skills.name"
+msgid "ID:2235 Glowing Star"
+msgstr ""
+
+#. ID 2251
+msgctxt "skills.name"
+msgid "ID:2251　プレーン"
+msgstr ""
+
+#. ID 2254
+msgctxt "skills.name"
+msgid "ID:2254　地中海"
+msgstr ""
+
+#. ID 2255
+msgctxt "skills.name"
+msgid "ID:2255　洞窟"
 msgstr ""
 
 #. ID 1
@@ -10333,13 +11412,13 @@ msgstr "Надеть Заячьи Уши."
 #. ID 46
 msgctxt "items.name"
 msgid "サイコロ"
-msgstr "Кость"
+msgstr "Кубик"
 
 #. ID 46
 #. ID 87
 msgctxt "items.description"
 msgid "「サイコロ」になる"
-msgstr "Стать Игральным Кубиком."
+msgstr "Стать шестигранной костью."
 
 #. ID 47
 msgctxt "items.name"

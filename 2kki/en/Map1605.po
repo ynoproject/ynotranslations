@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 677, Page 1, Line 2, Pos (25,0)
+msgid "Set V10 as"
+msgstr ""
+
+#. ID 677, Page 1, Line 3, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"1\n"
+"2\n"
+"3\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 14, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"4\n"
+"5\n"
+"6\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 25, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"7\n"
+"8\n"
+"9\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 36, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"10\n"
+"11\n"
+"12\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 47, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"13\n"
+"14\n"
+"15\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 58, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"16\n"
+"17\n"
+"18\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 69, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"19\n"
+"20\n"
+"21\n"
+">>"
+msgstr ""
+
+#. ID 677, Page 1, Line 80, Pos (25,0)
+#. Choice (4 options)
+msgid ""
+"22\n"
+"23\n"
+"24\n"
+">>"
+msgstr ""
+
+#. ID 774, Page 2, Line 4, Pos (106,101)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：55\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  Menu Type: 55\\<\\|\\|\\^"

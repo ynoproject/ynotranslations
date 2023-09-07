@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Midomido\n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 4, Page 1, Line 4, Pos (131,59)
+msgid "Get Alter: Glassy"
+msgstr "アルター取得：ステンドグラス"

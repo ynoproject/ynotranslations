@@ -1,0 +1,817 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Fluorette"
+msgstr "Fluorette"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "nobody"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "Shovel"
+msgstr "Xẻng"
+
+#. ID 1
+#. ID 2
+msgctxt "items.description"
+msgid "For dirty work..."
+msgstr "Cho những việc dơ bẩn..."
+
+#. ID 2
+msgctxt "items.name"
+msgid "(Shovel)"
+msgstr "(Xẻng)"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Koraiyn"
+msgstr "Koraiyn"
+
+#. ID 3
+#. ID 4
+msgctxt "items.description"
+msgid "What's a Koraiyn?"
+msgstr "Koraiyn là gì?"
+
+#. ID 4
+msgctxt "items.name"
+msgid "(Koraiyn)"
+msgstr "(Koraiyn)"
+
+#. ID 5
+msgctxt "items.name"
+msgid "Phantom"
+msgstr "Bóng ma"
+
+#. ID 5
+#. ID 6
+msgctxt "items.description"
+msgid "Become a shadow."
+msgstr "Biến thành một bóng ma."
+
+#. ID 6
+msgctxt "items.name"
+msgid "(Phantom)"
+msgstr "(Bóng ma)"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Food"
+msgstr "Bánh kẹp"
+
+#. ID 7
+#. ID 8
+msgctxt "items.description"
+msgid "Enjoy a sandwich."
+msgstr "Thưởng thức một cái bánh kẹp."
+
+#. ID 8
+msgctxt "items.name"
+msgid "(Food)"
+msgstr "(Bánh kẹp)"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Light"
+msgstr "Ánh sáng"
+
+#. ID 9
+#. ID 10
+msgctxt "items.description"
+msgid "Your eyes become lights."
+msgstr "Đôi mắt bạn sẽ phát sáng."
+
+#. ID 10
+msgctxt "items.name"
+msgid "(Light)"
+msgstr "(Ánh sáng)"
+
+#. ID 11
+msgctxt "items.name"
+msgid "Chromakey Dreamcoat"
+msgstr "Chromakey Dreamcoat"
+
+#. ID 11
+#. ID 12
+msgctxt "items.description"
+msgid "Better than technicolor."
+msgstr "Tuyệt hơn cả technicolor."
+
+#. ID 12
+msgctxt "items.name"
+msgid "(ChromakeyDreamcoat)"
+msgstr "(ChromakeyDreamcoat)"
+
+#. ID 13
+msgctxt "items.name"
+msgid "Halo"
+msgstr "Hào quang"
+
+#. ID 13
+#. ID 14
+msgctxt "items.description"
+msgid "Wear a halo."
+msgstr "Mang hào quang trên đầu."
+
+#. ID 14
+msgctxt "items.name"
+msgid "(Halo)"
+msgstr "(Hào quang)"
+
+#. ID 15
+msgctxt "items.name"
+msgid "Tentacles"
+msgstr "Xúc tu"
+
+#. ID 15
+#. ID 16
+msgctxt "items.description"
+msgid "Become a squid."
+msgstr "Biến thành một con mực."
+
+#. ID 16
+msgctxt "items.name"
+msgid "(Tentacles)"
+msgstr "(Xúc tu)"
+
+#. ID 17
+msgctxt "items.name"
+msgid "Tall Geta"
+msgstr "Guốc Geta"
+
+#. ID 17
+#. ID 18
+msgctxt "items.description"
+msgid "Wearing them gives you a boost."
+msgstr "Mang đôi guốc sẽ giúp bạn đi nhanh hơn."
+
+#. ID 18
+msgctxt "items.name"
+msgid "(Tall Geta)"
+msgstr "(Guốc Geta)"
+
+#. ID 19
+msgctxt "items.name"
+msgid "Karakasa"
+msgstr "Ma dù"
+
+#. ID 19
+#. ID 20
+msgctxt "items.description"
+msgid "Become an umbrella ghost."
+msgstr "Biến thành một con ma dù."
+
+#. ID 20
+msgctxt "items.name"
+msgid "(Karakasa)"
+msgstr "(Ma dù)"
+
+#. ID 21
+msgctxt "items.name"
+msgid "Kodama"
+msgstr "Mộc Linh"
+
+#. ID 23
+msgctxt "items.name"
+msgid "Monochrome"
+msgstr "Đơn sắc"
+
+#. ID 23
+#. ID 24
+msgctxt "items.description"
+msgid "Take away the color."
+msgstr "Lấy hết màu đi."
+
+#. ID 24
+msgctxt "items.name"
+msgid "(Monochrome)"
+msgstr "(Đơn sắc)"
+
+#. ID 25
+msgctxt "items.name"
+msgid "Wings"
+msgstr ""
+
+#. ID 45
+msgctxt "items.name"
+msgid "________"
+msgstr ""
+
+#. ID 47
+msgctxt "items.name"
+msgid "Guitar"
+msgstr "Guitar"
+
+#. ID 47
+#. ID 48
+msgctxt "items.description"
+msgid "Play a guitar."
+msgstr "Chơi đàn guitar."
+
+#. ID 48
+msgctxt "items.name"
+msgid "(guitar)"
+msgstr "(Guitar)"
+
+#. ID 51
+msgctxt "items.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 54
+msgctxt "items.name"
+msgid "Guide"
+msgstr "Hướng dẫn"
+
+#. ID 54
+msgctxt "items.description"
+msgid "View the game guide."
+msgstr "Xem hướng dẫn trò chơi."
+
+#. ID 55
+msgctxt "items.name"
+msgid "Broken Sandals"
+msgstr "Đôi dép hỏng"
+
+#. ID 55
+msgctxt "items.description"
+msgid "You'll have to get them fixed somewhere..."
+msgstr "Bạn sẽ phải đem đi sửa ở đâu đó..."
+
+#. ID 56
+msgctxt "items.name"
+msgid "Rusty Key"
+msgstr "Chìa khóa rỉ sét"
+
+#. ID 56
+msgctxt "items.description"
+msgid "A rusty old key."
+msgstr "Một chiếc chìa khóa rỉ sét cũ kỹ."
+
+msgctxt "terms.special_combat"
+msgid "Surprised the enemy!"
+msgstr ""
+
+msgctxt "terms.escape_failure"
+msgid "Failed to escape!"
+msgstr ""
+
+msgctxt "terms.victory"
+msgid "Victory!"
+msgstr ""
+
+msgctxt "terms.defeat"
+msgid "Annihilated..."
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid " experience points!"
+msgstr ""
+
+msgctxt "terms.gold_recieved_a"
+msgid "Found"
+msgstr ""
+
+msgctxt "terms.gold_recieved_b"
+msgid "!"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid " found!"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid " obtained!"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid " was learned!"
+msgstr ""
+
+msgctxt "terms.miss"
+msgid "Miss!"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "Good afternoon, sir."
+msgstr ""
+
+msgctxt "terms.shop_regreeting1"
+msgid "Any more transactions to complete?"
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select1"
+msgid "Which one do you fancy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number1"
+msgid "How many can I get you?"
+msgstr ""
+
+msgctxt "terms.shop_purchased1"
+msgid "It was a pleasure serving you."
+msgstr ""
+
+msgctxt "terms.shop_sell_select1"
+msgid "Which are you selling, sir?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number1"
+msgid "How many are you selling?"
+msgstr ""
+
+msgctxt "terms.shop_sold1"
+msgid "It was a pleasure serving you."
+msgstr ""
+
+msgctxt "terms.shop_greeting2"
+msgid "Hello!  How are you today?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting2"
+msgid "How about something else from our large selection?"
+msgstr ""
+
+msgctxt "terms.shop_buy2"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell2"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave2"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select2"
+msgid "Which do you prefer?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number2"
+msgid "How many?"
+msgstr ""
+
+msgctxt "terms.shop_purchased2"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "terms.shop_sell_select2"
+msgid "Which are you getting rid of?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number2"
+msgid "How many can I take off your hands?"
+msgstr ""
+
+msgctxt "terms.shop_sold2"
+msgid "Thanks!"
+msgstr ""
+
+msgctxt "terms.shop_greeting3"
+msgid "What are you interested in today?"
+msgstr ""
+
+msgctxt "terms.shop_regreeting3"
+msgid "Can I interest you in anything else?"
+msgstr ""
+
+msgctxt "terms.shop_buy3"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell3"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave3"
+msgid "Finished"
+msgstr ""
+
+msgctxt "terms.shop_buy_select3"
+msgid "What would you like to buy?"
+msgstr ""
+
+msgctxt "terms.shop_buy_number3"
+msgid "How many of those would you like?"
+msgstr ""
+
+msgctxt "terms.shop_purchased3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.shop_sell_select3"
+msgid "What would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sell_number3"
+msgid "How many of those would you like to sell?"
+msgstr ""
+
+msgctxt "terms.shop_sold3"
+msgid "Thank you for your patronage."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "It is a mere"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_2"
+msgid " to stay here."
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_3"
+msgid "Would you like to stay?"
+msgstr ""
+
+msgctxt "terms.inn_a_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_a_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "It's only"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_2"
+msgid " for a warm bed."
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_3"
+msgid "How about spending the night?"
+msgstr ""
+
+msgctxt "terms.inn_b_accept"
+msgid "Stay"
+msgstr ""
+
+msgctxt "terms.inn_b_cancel"
+msgid "Forget it"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "Known"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "Nat."
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "Fight"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "Auto"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "Escape"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "Prayer"
+msgstr "Lời nguyện"
+
+msgctxt "terms.command_skill"
+msgid "Skill"
+msgstr ""
+
+msgctxt "terms.menu_equipment"
+msgid "Equip"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr "Lưu"
+
+msgctxt "terms.menu_quit"
+msgid "End"
+msgstr "Thoát"
+
+msgctxt "terms.new_game"
+msgid "Begin"
+msgstr "Bắt đầu"
+
+msgctxt "terms.load_game"
+msgid "Recall"
+msgstr "Hồi tưởng"
+
+msgctxt "terms.exit_game"
+msgid "End"
+msgstr "Kết thúc"
+
+msgctxt "terms.status"
+msgid "Status"
+msgstr ""
+
+msgctxt "terms.row"
+msgid "Row"
+msgstr ""
+
+msgctxt "terms.order"
+msgid "Order"
+msgstr ""
+
+msgctxt "terms.wait_on"
+msgid "Wait"
+msgstr ""
+
+msgctxt "terms.wait_off"
+msgid "Active"
+msgstr ""
+
+msgctxt "terms.level"
+msgid "Prayers"
+msgstr "Lời nguyện"
+
+msgctxt "terms.normal_status"
+msgid "Normal"
+msgstr "Bình thường"
+
+msgctxt "terms.exp_short"
+msgid "Sp"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "P:"
+msgstr "LN:"
+
+msgctxt "terms.sp_cost"
+msgid "MP Use"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "Attack"
+msgstr ""
+
+msgctxt "terms.defense"
+msgid "Defense"
+msgstr ""
+
+msgctxt "terms.spirit"
+msgid "Mystic"
+msgstr ""
+
+msgctxt "terms.agility"
+msgid "Agility"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "Head"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "Body"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "Feet"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "Pockets"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "Love"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "Where will you store this memory?"
+msgstr "Bạn sẽ lưu giữ ký ức vào đâu?"
+
+msgctxt "terms.load_game_message"
+msgid "What do you wish to remember?"
+msgstr "Bạn muốn nhớ lại điều gì?"
+
+msgctxt "terms.file"
+msgid "Record"
+msgstr "Bản ghi"
+
+msgctxt "terms.exit_game_message"
+msgid "Abandon this record?"
+msgstr "Loại bỏ bản ghi này?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "Có"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "Không"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

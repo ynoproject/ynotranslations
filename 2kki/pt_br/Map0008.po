@@ -55,13 +55,13 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "YES"
-msgstr ""
+msgstr "SIM"
 
 #. ID 1, Page 1, Line 63, Pos (1,1)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "NO / Unknown"
-msgstr ""
+msgstr "NÃO / Desconhecido"
 
 #. ID 1, Page 1, Line 66, Pos (1,1)
 msgid ""

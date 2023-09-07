@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 28, Page 1, Line 2, Pos (8,4)
+#. Choice (4 options)
+msgid ""
+"System Sterling\n"
+"System Kaleidoscope\n"
+"System Arabian\n"
+"Next Page"
+msgstr ""
+"经典菜单\n"
+"万华筒菜单\n"
+"阿拉伯式菜单\n"
+"下一页"
+
+#. ID 28, Page 1, Line 11, Pos (8,4)
+#. ID 28, Page 1, Line 20, Pos (8,4)
+#. ID 28, Page 1, Line 31, Pos (8,4)
+#. ID 28, Page 1, Line 40, Pos (8,4)
+msgid "Locked"
+msgstr "未解锁"
+
+#. ID 28, Page 1, Line 25, Pos (8,4)
+#. Choice (2 options)
+msgid ""
+"System Spiderlily\n"
+"System Rainbow"
+msgstr ""
+"彼岸花菜单\n"
+"彩虹菜单"
+
+#. ID 29, Page 1, Line 3, Pos (5,4)
+msgid "Get System: Spiderlily"
+msgstr "菜单取得：彼岸花"
+
+#. ID 30, Page 1, Line 3, Pos (4,4)
+msgid "Get System: Arabian"
+msgstr "菜单取得：阿拉伯"
+
+#. ID 38, Page 1, Line 3, Pos (6,4)
+msgid "Get System: Kaleidoscope"
+msgstr "菜单取得：万花筒"
+
+#. ID 47, Page 1, Line 5, Pos (17,4)
+msgid "-100"
+msgstr ""
+
+#. ID 47, Page 1, Line 19, Pos (17,4)
+msgid "Not enough money for purchase"
+msgstr "没有足够的金币"
+
+#. ID 66, Page 1, Line 3, Pos (7,4)
+msgid "Get System: Rainbow"
+msgstr "菜单取得：彩虹"
+
+#. ID 85, Page 1, Line 7, Pos (20,2)
+#. Choice (2 options)
+msgid ""
+"Hos\n"
+"Deb"
+msgstr ""
+"医院\n"
+"调试房间"

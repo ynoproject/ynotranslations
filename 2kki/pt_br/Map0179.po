@@ -83,7 +83,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　  Calda Dupla\\<\\|\\^"
+"\\>　　　　　　　 　  Maria Chiquinha\\<\\|\\^"
 
 #. ID 37, Page 2, Line 4, Pos (17,14)
 msgid ""
@@ -179,7 +179,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Arco-Íres\\<\\|\\^"
+"\\>　　　　　　　　　   Arco-Íris\\<\\|\\^"
 
 #. ID 45, Page 2, Line 4, Pos (7,22)
 msgid ""
@@ -323,7 +323,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　 　  Pano\\<\\|\\|\\^"
+"\\>　　　　　　　　　 　  Lenço\\<\\|\\|\\^"
 
 #. ID 57, Page 2, Line 4, Pos (10,28)
 msgid ""
@@ -407,7 +407,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　  Cova\\<\\|\\^"
+"\\>　　　　　　　　　　  Lápide\\<\\|\\^"
 
 #. ID 70, Page 2, Line 4, Pos (7,30)
 msgid ""

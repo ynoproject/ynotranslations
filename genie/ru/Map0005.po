@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 1, Page 1, Line 15, Pos (9,5)
+msgid "- My name."
+msgstr "Меня зовут..."
+
+#. ID 1, Page 1, Line 16, Pos (9,5)
+msgid "- Is Qiu Qin..."
+msgstr "Цю Цинь..."
+
+#. ID 1, Page 1, Line 17, Pos (9,5)
+msgid ""
+"- I like dreams because I can get rid of the\n"
+"  reality of toiling for the future, I'm\n"
+"  afraid of the reality of losing everything."
+msgstr ""
+"Мне нравится грезить, ведь так я могу \n"
+"отгородиться от неопределённости своего будущего, \n"
+"от страха потерять всё в реальности."
+
+#. ID 1, Page 1, Line 20, Pos (9,5)
+msgid ""
+"However, I can get the nothingness I need from\n"
+"my dreams,"
+msgstr "Однако, я могу скрыться от всего этого в грёзах."
+
+#. ID 1, Page 1, Line 22, Pos (9,5)
+msgid "- So"
+msgstr "Что-ж..."
+
+#. ID 1, Page 1, Line 23, Pos (9,5)
+msgid "- Let's begin..."
+msgstr "Пора начинать..."

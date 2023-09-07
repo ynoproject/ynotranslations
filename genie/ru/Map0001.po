@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dream Genie\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 22, Page 1, Line 1, Pos (30,63)
+#. Choice (2 options)
+msgid ""
+"Menu Style: Negative\n"
+"Menu Style: Home"
+msgstr ""
+"Стиль меню: Негатив\n"
+"Стиль меню: Дом"
+
+#. ID 22, Page 2, Line 1, Pos (30,63)
+#. Choice (3 options)
+msgid ""
+"Menu Style: Negative\n"
+"Menu Style: Home\n"
+"Menu Style: Springs"
+msgstr ""
+"Стиль меню: Негатив\n"
+"Стиль меню: Дом\n"
+"Стиль меню: Источники"
+
+#. ID 40, Page 1, Line 2, Pos (30,66)
+#. Contains choice at line 2 (2 options)
+msgid "- Want to relax a bit? (Return to title screen)"
+msgstr "Желаете отдохнуть? (Вернуться в главное меню)"
+
+#. ID 40, Page 1, Line 3, Pos (30,66)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"No\n"
+"Yes"
+msgstr ""
+"Нет\n"
+"Да"

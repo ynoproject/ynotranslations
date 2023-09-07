@@ -1002,11 +1002,11 @@ msgstr "心态"
 
 msgctxt "terms.save_game_message"
 msgid "Select a file to save to."
-msgstr ""
+msgstr "选择要保存的位置。"
 
 msgctxt "terms.load_game_message"
 msgid "Select a file to load from."
-msgstr ""
+msgstr "选择要加载的文件。"
 
 msgctxt "terms.file"
 msgid "File"
