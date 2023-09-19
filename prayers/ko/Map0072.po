@@ -86,7 +86,7 @@ msgstr ""
 #. ID 10, Page 3, Line 7, Pos (0,3)
 #. ID 13, Page 1, Line 7, Pos (0,5)
 msgid "Learned Prayer \"Phantom\"!"
-msgstr "\"펜텀\" 기도를 얻었다!"
+msgstr "\"팬텀\" 기도를 얻었다!"
 
 #. ID 12, Page 1, Line 6, Pos (0,4)
 msgid "Found \"Broken Sandals\"!"

@@ -14,7 +14,7 @@ msgstr "\"음식\" 기도를 배웠다!"
 
 #. ID 3, Page 1, Line 2, Pos (9,5)
 msgid "...used the Rusty Key..."
-msgstr "...녹슬은 열쇠를 사용했다..."
+msgstr "...녹슨 열쇠를 사용했다..."
 
 #. ID 3, Page 1, Line 18, Pos (9,5)
 msgid "...a rusted lock..."
