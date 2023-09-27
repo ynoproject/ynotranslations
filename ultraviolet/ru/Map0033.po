@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 5, Page 2, Line 3, Pos (8,5)
+msgid "（イスに乗ったまま移動します。）"
+msgstr "(Кататься на стуле)"
+
+#. ID 11, Page 1, Line 1, Pos (13,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>睡眠時に設定される固定変数をいじるよ！\n"
+"\\>現在：\\V[0091]"
+msgstr ""
+"\\>Поиграем с константами, установленными для сна!\n"
+"\\>Сейчас: \\V[0091]"
+
+#. ID 11, Page 1, Line 3, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Да\n"
+"\\>Нет"
+
+#. ID 11, Page 1, Line 7, Pos (13,8)
+#. Contains choice at line 2 (2 options)
+msgid "\\>現在：\\V[0091]"
+msgstr "\\>Сейчас: \\V[0091]"
+
+#. ID 11, Page 1, Line 8, Pos (13,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>もっかい\n"
+"\\>いらん"
+msgstr ""
+"\\>Ещё\n"
+"\\>Всё"
