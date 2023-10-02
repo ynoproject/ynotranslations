@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams 0.05\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Deep Sleeper"
+msgstr "Dormidora Profunda"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "Wake Up"
+msgstr "Despierta"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#. ID 1
+msgctxt "items.name"
+msgid "Monochromatic"
+msgstr "Monocromática"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Turns me greyscale"
+msgstr "Me vuelve grisácea"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Turns me pastel"
+msgstr "Me vuelve color pastel"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Vortex"
+msgstr "Vórtice"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Holding the space bar lets me warp to the Nexus"
+msgstr "Sosteniendo la barra espaciadora me permite volver al Nexo"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Damage"
+msgstr "Daño"
+
+#. ID 4
+msgctxt "items.description"
+msgid "Lets me kill other people"
+msgstr "Me permite matar a otra gente"
+
+#. ID 5
+msgctxt "items.name"
+msgid "Verdant"
+msgstr "Verdeante"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Holding the space bar lets me attract other people"
+msgstr "Sosteniendo la barra espaciadora me permite atraer a otra gente"
+
+#. ID 6
+msgctxt "items.name"
+msgid "Toxic"
+msgstr "Tóxica"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Repels and protects me from Plague Nurses"
+msgstr "Repela y me protege de Enfermeras de Plaga"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Nostalgic"
+msgstr "Nostálgica"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Dresses me in yesteryear's fashions"
+msgstr "Me viste en la moda del antaño"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Glassy"
+msgstr "Vidriosa"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Lights my way in dark areas"
+msgstr "Ilumina mi camino en áreas oscuras"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Metallic"
+msgstr "Metálica"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Turns me into an android"
+msgstr "Me convierte en una androide"
+
+#. ID 10
+msgctxt "items.name"
+msgid "Gelatinous"
+msgstr "Gelatinosa"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Turns me into blue jelly"
+msgstr "Me convierte en jalea azul"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Turns me into a living night sky"
+msgstr "Me convierte en un cielo de noche viviente"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Apparition"
+msgstr "Aparición"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Makes me invisible to almost everyone"
+msgstr "Me hace invisible a casi todos"
+
+msgctxt "terms.command_item"
+msgid "Alters"
+msgstr "Alteres"
+
+msgctxt "terms.command_skill"
+msgid "Action"
+msgstr "Acción"
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr "Guarda"
+
+msgctxt "terms.menu_quit"
+msgid "Quit"
+msgstr "Para"
+
+msgctxt "terms.new_game"
+msgid "Dream"
+msgstr "Sueña"
+
+msgctxt "terms.load_game"
+msgid "Recall"
+msgstr "Recuerda"
+
+msgctxt "terms.exit_game"
+msgid "Awaken"
+msgstr "Despierta"
+
+msgctxt "terms.lvl_short"
+msgid "L"
+msgstr "N"
+
+msgctxt "terms.hp_short"
+msgid "H"
+msgstr "S"
+
+msgctxt "terms.save_game_message"
+msgid "Save to which file?"
+msgstr "¿Guardar a cuál archivo?"
+
+msgctxt "terms.load_game_message"
+msgid "Load which file?"
+msgstr "¿Cargar cuál archivo?"
+
+msgctxt "terms.file"
+msgid "File"
+msgstr "Archivo"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you really want to quit?"
+msgstr "¿Realmente deseas parar?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "Sí"
+
