@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 14, Page 2, Line 4, Pos (13,12)
+msgid "                   Snow Woman"
+msgstr "                     Lumenaine"
+
+#. ID 15, Page 2, Line 4, Pos (16,10)
+msgid "                      Frog"
+msgstr "                     Konn"
+
+#. ID 16, Page 2, Line 4, Pos (14,15)
+msgid "                     Umbrella"
+msgstr "                    Vihmavari"
+
+#. ID 17, Page 2, Line 4, Pos (14,11)
+msgid "                    Hat & Scarf"
+msgstr "                    Müts ja sall"
+
+#. ID 18, Page 2, Line 5, Pos (12,14)
+msgid "                    Eye Palm"
+msgstr "                    Silmakäsi"
+
+#. ID 19, Page 2, Line 5, Pos (12,16)
+msgid "                     Get fat"
+msgstr "                    Paksuke"
+
+#. ID 20, Page 2, Line 4, Pos (13,18)
+msgid "                      Midget"
+msgstr "                      Kääbus"
+
+#. ID 21, Page 2, Line 4, Pos (14,19)
+msgid "                     Whistle"
+msgstr "                       Flööt"
+
+#. ID 22, Page 2, Line 4, Pos (15,17)
+msgid "                       Neon"
+msgstr "                      Neoon"
+
+#. ID 23, Page 2, Line 4, Pos (16,20)
+msgid "                 Faceless Ghost"
+msgstr "                    Näota vaim"
+
+#. ID 24, Page 2, Line 4, Pos (18,20)
+msgid "                    Talking Head"
+msgstr "                  Maharaiutud pea"
+
+#. ID 25, Page 2, Line 4, Pos (19,13)
+msgid "                     Poo Hair"
+msgstr "                  Kakajuuksed"
+
+#. ID 26, Page 2, Line 4, Pos (20,15)
+msgid "                   Kitchen Knife"
+msgstr "                        Nuga"
+
+#. ID 27, Page 2, Line 4, Pos (20,19)
+msgid "                  Spirit Headband"
+msgstr "               Kolmnurkne pearätik"
+
+#. ID 28, Page 2, Line 4, Pos (21,18)
+msgid "                      Towel"
+msgstr "                      Rätik"
+
+#. ID 29, Page 2, Line 4, Pos (22,16)
+msgid "                         Cat"
+msgstr "                       Kass"
+
+#. ID 30, Page 2, Line 4, Pos (22,14)
+msgid "                       Lamp"
+msgstr "                   Tänavalamp"
+
+#. ID 31, Page 2, Line 4, Pos (20,11)
+msgid "                    Long Hair"
+msgstr "                Pikad juuksed"
+
+#. ID 32, Page 2, Line 4, Pos (21,12)
+msgid "                     Bicycle "
+msgstr "                    Jalgratas"
+
+#. ID 33, Page 2, Line 4, Pos (18,10)
+msgid "                     Blonde"
+msgstr "            Blondid juuksed"
+
+#. ID 34, Page 2, Line 4, Pos (15,13)
+msgid "                      Witch"
+msgstr "                       Nõid"
+
+#. ID 35, Page 2, Line 4, Pos (17,12)
+msgid "                      Devil"
+msgstr "                   Deemon"
+
+#. ID 36, Page 2, Line 4, Pos (17,18)
+msgid "                    Squish-Squish"
+msgstr "                         Tarretis"
+
+#. ID 37, Page 2, Line 4, Pos (19,17)
+msgid "                   Traffic Light"
+msgstr "                    Valgusfoor"
