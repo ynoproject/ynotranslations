@@ -146,79 +146,81 @@ msgstr ""
 #. ID 119, Page 13, Line 5, Pos (16,2)
 #. ID 133, Page 2, Line 7, Pos (4,63)
 msgid "★デバッグ機能★"
-msgstr ""
+msgstr "★디버그 기능★"
 
 #. ID 119, Page 5, Line 60, Pos (16,2)
 msgid "色の選択"
-msgstr ""
+msgstr "색 선택"
 
 #. ID 119, Page 5, Line 61, Pos (16,2)
 msgid ""
 "マジック扉の色に対応する値を入力してください。\n"
 "\\!(1～4の値)"
 msgstr ""
+"마법문의 색깔에 대응하는 값을 입력해주세요\n"
+"\\!(1~4의값)"
 
 #. ID 119, Page 5, Line 63, Pos (16,2)
 #. ID 119, Page 5, Line 172, Pos (16,2)
 msgid "現在の値は\\v[4970]です。"
-msgstr ""
+msgstr "현재의 값은\\v[4970]입니다"
 
 #. ID 119, Page 5, Line 69, Pos (16,2)
 msgid "選択がキャンセルされました。"
-msgstr ""
+msgstr "선택을 취소하였습니다"
 
 #. ID 119, Page 5, Line 78, Pos (16,2)
 #. ID 132, Page 1, Line 92, Pos (18,1)
 msgid "\\c[3]緑色\\c[0]が現在の色なんです。"
-msgstr ""
+msgstr "\\c[3]초록\\c[0]이 현재 색상입니다"
 
 #. ID 119, Page 5, Line 87, Pos (16,2)
 #. ID 132, Page 1, Line 102, Pos (18,1)
 msgid "\\c[3]緑色\\c[0]に変化しました。"
-msgstr ""
+msgstr "\\c[3]초록\\c[0]으로 변경하였습니다"
 
 #. ID 119, Page 5, Line 97, Pos (16,2)
 #. ID 132, Page 1, Line 74, Pos (18,1)
 msgid "\\c[2]黄色\\c[0]が現在の色なんです。"
-msgstr ""
+msgstr "\\c[2]노랑\\c[0]이 현재 색상입니다"
 
 #. ID 119, Page 5, Line 106, Pos (16,2)
 #. ID 132, Page 1, Line 84, Pos (18,1)
 msgid "\\c[2]黄色\\c[0]に変化しました。"
-msgstr ""
+msgstr "\\c[2]노랑\\c[0]으로 변경하였습니다"
 
 #. ID 119, Page 5, Line 116, Pos (16,2)
 #. ID 132, Page 1, Line 56, Pos (18,1)
 msgid "\\c[1]赤色\\c[0]が現在の色なんです。"
-msgstr ""
+msgstr "\\c[1]빨강\\c[0]이 현재 색상입니다"
 
 #. ID 119, Page 5, Line 125, Pos (16,2)
 #. ID 132, Page 1, Line 66, Pos (18,1)
 msgid "\\c[1]赤色\\c[0]に変化しました。"
-msgstr ""
+msgstr "\\c[1]빨강\\c[0]으로 변경하였습니다"
 
 #. ID 119, Page 5, Line 135, Pos (16,2)
 #. ID 132, Page 1, Line 110, Pos (18,1)
 msgid "\\c[5]紫色\\c[0]が現在の色なんです。"
-msgstr ""
+msgstr "\\c[5]보라\\c[0]가 현재 색상입니다"
 
 #. ID 119, Page 5, Line 144, Pos (16,2)
 #. ID 132, Page 1, Line 120, Pos (18,1)
 msgid "\\c[5]紫色\\c[0]に変化しました。"
-msgstr ""
+msgstr "\\c[5]보라\\c[0]로 변경하였습니다"
 
 #. ID 119, Page 5, Line 170, Pos (16,2)
 msgid "無効な値"
-msgstr ""
+msgstr "무효한 값"
 
 #. ID 119, Page 5, Line 171, Pos (16,2)
 msgid "1～4の値を入力してください。"
-msgstr ""
+msgstr "1~4의 값으로 입력해주세요"
 
 #. ID 119, Page 13, Line 6, Pos (16,2)
 #. Contains choice at line 2 (2 options)
 msgid "塗り絵イベントを開始しますか？"
-msgstr ""
+msgstr "색칠공부 이벤트를 시작하시겠습니까?"
 
 #. ID 119, Page 13, Line 7, Pos (16,2)
 #. Choice (2 options, embedded in a message)
@@ -226,6 +228,8 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
+"네\n"
+"아니오"
 
 #. ID 119, Page 13, Line 119, Pos (16,2)
 msgid ""
@@ -234,6 +238,10 @@ msgid ""
 "$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k\n"
 "$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a"
 msgstr ""
+"\\c[1]\\s[2]$K$k$u$m$i$A$n$i$e$o$s$s$e$o$K$k$u$m$i$A$n$i$e$o$s$s$e$o\n"
+"$K$k$u$m$i$A$n$i$e$o$s$s$e$o$K$k$u$m$i$A$n$i$e$o$s$s$e$o$K$k$u$m$i\n"
+"$A$n$i$e$o$s$s$e$o$K$k$u$m$i$A$n$i$e$o$s$s$e$o$K$k$u$m$i$A$n$i$e$o\n"
+"$s$s$e$o$K$k$u$m$i$A$n$i$e$o$s$s$e$o$K$k$u$m$i$A$n$i$e$o$s$s$e$o"
 
 #. ID 119, Page 13, Line 127, Pos (16,2)
 msgid ""
@@ -250,6 +258,10 @@ msgid ""
 "$t$a$H$o$n$o$o$N$o$H$i$k$a$r$i$G$a$O$k$i$t$a$H$o$n$o$o$N$o$H$i\n"
 "$k$a$r$i$G$a$O$k$i$t$a$H$o$n$o$o$N$o$H$i$k$a$r$i$G$a$O$k$i$t$a"
 msgstr ""
+"\\c[1]\\s[2]$B$u$l$g$i$r$i$I$r$e$o$t$d$a$B$u$l$g$i$r$i$I$r$e$o$t$d$a\n"
+"$B$u$l$g$i$r$i$I$r$e$o$t$d$a$B$u$l$g$i$r$i$I$r$e$o$t$d$a$B$u$l$g$i\n"
+"$r$i$I$r$e$o$t$d$a$B$u$l$g$i$r$i$I$r$e$o$t$d$a$B$u$l$g$i$r$i$I$r$e\n"
+"$o$t$d$a$B$u$l$g$i$r$i$I$r$e$o$t$d$a$B$u$l$g$i$r$i$I$r$e$o$t$d$a"
 
 #. ID 119, Page 13, Line 143, Pos (16,2)
 msgid ""
@@ -266,6 +278,10 @@ msgid ""
 "$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A\n"
 "$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I"
 msgstr ""
+"\\c[1]\\s[2]$N$E$N$O$M$U$I$T$A$S$I$D$A$N$E$N$O$M$U$I$T$A$S$I\n"
+"$D$A$N$E$N$O$M$U$I$T$A$S$I$D$A$N$E$N$O$M$U$I$T$A$S$I$D$A\n"
+"$N$E$N$O$M$U$I$T$A$S$I$D$A$N$E$N$O$M$U$I$T$A$S$I$D$A$N$E$N\n"
+"$O$M$U$I$T$A$S$I$D$A$N$E$N$O$M$U$I$T$A$S$I$D$A$N$E$N$O$M$U"
 
 #. ID 119, Page 13, Line 159, Pos (16,2)
 msgid ""
@@ -285,11 +301,11 @@ msgstr ""
 
 #. ID 132, Page 1, Line 48, Pos (18,1)
 msgid "※色の選択※"
-msgstr ""
+msgstr "※색 선택※"
 
 #. ID 132, Page 1, Line 50, Pos (18,1)
 msgid "どの色に変化します？"
-msgstr ""
+msgstr "어떤 색으로 변경할까요?"
 
 #. ID 132, Page 1, Line 51, Pos (18,1)
 #. Choice (4 options)
@@ -299,8 +315,12 @@ msgid ""
 "\\c[3]緑色\n"
 "\\c[5]紫色"
 msgstr ""
+"\\c[1]빨강\n"
+"\\c[2]노랑\n"
+"\\c[3]초록\n"
+"\\c[5]보라"
 
 #. ID 132, Page 1, Line 126, Pos (18,1)
 msgid "色が選択されませんでしたので、現在の色が続きます。"
-msgstr ""
+msgstr "색깔이 선택되지 않았기 때문에, 현재 색으로 유지됩니다"
 
