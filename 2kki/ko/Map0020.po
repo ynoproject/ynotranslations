@@ -141,3 +141,166 @@ msgstr ""
 "?룞껯즓跛껾댙??쏭?+굥?쎘쒐갋갋갋n껪?Ł쏩d껻굥텇]룞퐳?\n"
 "?껬泡깉댙슩껺?뮃멪????뱮껬?E?탡W갋갋먙흸r?뜘?뗮???껺\n"
 "탖硬?굙?믡겂?띶ㄷ也썬곥굯?듿뎺?孃뚣굧?ゃ?"
+
+#. ID 119, Page 5, Line 58, Pos (16,2)
+#. ID 119, Page 13, Line 5, Pos (16,2)
+#. ID 133, Page 2, Line 7, Pos (4,63)
+msgid "★デバッグ機能★"
+msgstr ""
+
+#. ID 119, Page 5, Line 60, Pos (16,2)
+msgid "色の選択"
+msgstr ""
+
+#. ID 119, Page 5, Line 61, Pos (16,2)
+msgid ""
+"マジック扉の色に対応する値を入力してください。\n"
+"\\!(1～4の値)"
+msgstr ""
+
+#. ID 119, Page 5, Line 63, Pos (16,2)
+#. ID 119, Page 5, Line 172, Pos (16,2)
+msgid "現在の値は\\v[4970]です。"
+msgstr ""
+
+#. ID 119, Page 5, Line 69, Pos (16,2)
+msgid "選択がキャンセルされました。"
+msgstr ""
+
+#. ID 119, Page 5, Line 78, Pos (16,2)
+#. ID 132, Page 1, Line 92, Pos (18,1)
+msgid "\\c[3]緑色\\c[0]が現在の色なんです。"
+msgstr ""
+
+#. ID 119, Page 5, Line 87, Pos (16,2)
+#. ID 132, Page 1, Line 102, Pos (18,1)
+msgid "\\c[3]緑色\\c[0]に変化しました。"
+msgstr ""
+
+#. ID 119, Page 5, Line 97, Pos (16,2)
+#. ID 132, Page 1, Line 74, Pos (18,1)
+msgid "\\c[2]黄色\\c[0]が現在の色なんです。"
+msgstr ""
+
+#. ID 119, Page 5, Line 106, Pos (16,2)
+#. ID 132, Page 1, Line 84, Pos (18,1)
+msgid "\\c[2]黄色\\c[0]に変化しました。"
+msgstr ""
+
+#. ID 119, Page 5, Line 116, Pos (16,2)
+#. ID 132, Page 1, Line 56, Pos (18,1)
+msgid "\\c[1]赤色\\c[0]が現在の色なんです。"
+msgstr ""
+
+#. ID 119, Page 5, Line 125, Pos (16,2)
+#. ID 132, Page 1, Line 66, Pos (18,1)
+msgid "\\c[1]赤色\\c[0]に変化しました。"
+msgstr ""
+
+#. ID 119, Page 5, Line 135, Pos (16,2)
+#. ID 132, Page 1, Line 110, Pos (18,1)
+msgid "\\c[5]紫色\\c[0]が現在の色なんです。"
+msgstr ""
+
+#. ID 119, Page 5, Line 144, Pos (16,2)
+#. ID 132, Page 1, Line 120, Pos (18,1)
+msgid "\\c[5]紫色\\c[0]に変化しました。"
+msgstr ""
+
+#. ID 119, Page 5, Line 170, Pos (16,2)
+msgid "無効な値"
+msgstr ""
+
+#. ID 119, Page 5, Line 171, Pos (16,2)
+msgid "1～4の値を入力してください。"
+msgstr ""
+
+#. ID 119, Page 13, Line 6, Pos (16,2)
+#. Contains choice at line 2 (2 options)
+msgid "塗り絵イベントを開始しますか？"
+msgstr ""
+
+#. ID 119, Page 13, Line 7, Pos (16,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+
+#. ID 119, Page 13, Line 119, Pos (16,2)
+msgid ""
+"\\c[1]\\s[2]$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a\n"
+"$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e\n"
+"$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k\n"
+"$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a$Y$u$m$e$J$a$n$a$k$a$t$t$a"
+msgstr ""
+
+#. ID 119, Page 13, Line 127, Pos (16,2)
+msgid ""
+"\\c[1]\\s[2]$I$t$W$a$s$n$t$A$D$r$e$a$m$I$t$W$a$s$n$t$A$D$r$e$a$m$I\n"
+"$t$W$a$s$n$t$A$D$r$e$a$m$I$t$W$a$s$n$t$A$D$r$e$a$m$I$t$W$a$s$n\n"
+"$t$A$D$r$e$a$m$I$t$W$a$s$n$t$A$D$r$e$a$m$I$t$W$a$s$n$t$A$D$r$e\n"
+"$a$m$I$t$W$a$s$n$t$A$D$r$e$a$m$I$t$W$a$s$n$t$A$D$r$e$a$m"
+msgstr ""
+
+#. ID 119, Page 13, Line 135, Pos (16,2)
+msgid ""
+"\\c[1]\\s[2]$H$o$n$o$o$N$o$H$i$k$a$r$i$G$a$O$k$i$t$a$H$o$n$o$o$N\n"
+"$o$H$i$k$a$r$i$G$a$O$k$i$t$a$H$o$n$o$o$N$o$H$i$k$a$r$i$G$a$O$k$i\n"
+"$t$a$H$o$n$o$o$N$o$H$i$k$a$r$i$G$a$O$k$i$t$a$H$o$n$o$o$N$o$H$i\n"
+"$k$a$r$i$G$a$O$k$i$t$a$H$o$n$o$o$N$o$H$i$k$a$r$i$G$a$O$k$i$t$a"
+msgstr ""
+
+#. ID 119, Page 13, Line 143, Pos (16,2)
+msgid ""
+"\\c[1]\\s[2]$T$h$e$F$l$a$m$e$L$i$g$h$t$A$r$o$s$e$T$h$e$F$l$a$m$e$L\n"
+"$i$g$h$t$A$r$o$s$e$T$h$e$F$l$a$m$e$L$i$g$h$t$A$r$o$s$e$T$h$e$F$l\n"
+"$a$m$e$L$i$g$h$t$A$r$o$s$e$T$h$e$F$l$a$m$e$L$i$g$h$t$A$r$o$s$e\n"
+"$T$h$e$F$l$a$m$e$L$i$g$h$t$A$r$o$s$e$T$h$e$F$l$a$m$e$L$i$g$h$t"
+msgstr ""
+
+#. ID 119, Page 13, Line 151, Pos (16,2)
+msgid ""
+"\\c[1]\\s[2]$O$M$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M\n"
+"$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E\n"
+"$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A\n"
+"$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I$D$A$O$M$A$E$N$O$S$E$I"
+msgstr ""
+
+#. ID 119, Page 13, Line 159, Pos (16,2)
+msgid ""
+"\\c[1]\\s[2]$I$T$S$Y$O$U$R$F$A$U$L$T$I$T$S$Y$O$U$R$F$A$U$L$T$I\n"
+"$T$S$Y$O$U$R$F$A$U$L$T$I$T$S$Y$O$U$R$F$A$U$L$T$I$T$S$Y$O\n"
+"$U$R$F$A$U$L$T$I$T$S$Y$O$U$R$F$A$U$L$T$I$T$S$Y$O$U$R$F$A\n"
+"$U$L$T$I$T$S$Y$O$U$R$F$A$U$L$T$I$T$S$Y$O$U$R$F$A$U$L$T"
+msgstr ""
+
+#. ID 119, Page 13, Line 169, Pos (16,2)
+msgid ""
+"\\^\\c[1]$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A\n"
+"$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A\n"
+"$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A\n"
+"$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A$A"
+msgstr ""
+
+#. ID 132, Page 1, Line 48, Pos (18,1)
+msgid "※色の選択※"
+msgstr ""
+
+#. ID 132, Page 1, Line 50, Pos (18,1)
+msgid "どの色に変化します？"
+msgstr ""
+
+#. ID 132, Page 1, Line 51, Pos (18,1)
+#. Choice (4 options)
+msgid ""
+"\\c[1]赤色\n"
+"\\c[2]黄色\n"
+"\\c[3]緑色\n"
+"\\c[5]紫色"
+msgstr ""
+
+#. ID 132, Page 1, Line 126, Pos (18,1)
+msgid "色が選択されませんでしたので、現在の色が続きます。"
+msgstr ""
+
