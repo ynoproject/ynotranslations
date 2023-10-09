@@ -15,7 +15,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.title"
 msgid "Deep Sleeper"
-msgstr "Dormidora Profunda"
+msgstr "Duerme Profu"
 
 #. ID 1
 msgctxt "skills.name"
@@ -50,7 +50,7 @@ msgstr "Vórtice"
 #. ID 3
 msgctxt "items.description"
 msgid "Holding the space bar lets me warp to the Nexus"
-msgstr "Sosteniendo la barra espaciadora me permite volver al Nexo"
+msgstr "Sostener barra espaciadora me permite volver al Nexo"
 
 #. ID 4
 msgctxt "items.name"
@@ -70,7 +70,7 @@ msgstr "Verdeante"
 #. ID 5
 msgctxt "items.description"
 msgid "Holding the space bar lets me attract other people"
-msgstr "Sosteniendo la barra espaciadora me permite atraer a otra gente"
+msgstr "Sostener barra espaciadora me permite atraer a otros"
 
 #. ID 6
 msgctxt "items.name"
