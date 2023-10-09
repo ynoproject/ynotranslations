@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mikan Muzou 0.03\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "宗太郎"
+msgstr "Soutarou"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "戻る"
+msgstr "Regresa"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "眠った部屋へ戻ります"
+msgstr "Regresa al cuarto donde te dormiste"
+
+#. ID 2
+msgctxt "items.name"
+msgid "ムカデ"
+msgstr "Ciempiés"
+
+#. ID 2
+msgctxt "items.description"
+msgid "ムカデのようになります"
+msgstr "Conviértete en ciempiés"
+
+#. ID 3
+msgctxt "items.name"
+msgid "メリケンサック"
+msgstr "Puños de Hierro"
+
+#. ID 3
+msgctxt "items.description"
+msgid "メリケンサックを付けます"
+msgstr "Sostén un par de puños de hierro"
+
+#. ID 4
+msgctxt "items.name"
+msgid "くろかみ"
+msgstr "Pelo Negro"
+
+#. ID 4
+msgctxt "items.description"
+msgid "黒髪にします"
+msgstr "Cambia el color de tu pelo a negro"
+
+#. ID 5
+msgctxt "items.name"
+msgid "りょうて"
+msgstr "Ambas Manos"
+
+#. ID 5
+msgctxt "items.description"
+msgid "両手になります"
+msgstr "Conviértete en un par de manos"
+
+#. ID 6
+msgctxt "items.name"
+msgid "ようしきトイレ"
+msgstr "Escusado Occidental"
+
+#. ID 6
+msgctxt "items.description"
+msgid "洋式トイレに乗ります"
+msgstr "Monta un escusado estilo occidental"
+
+#. ID 7
+msgctxt "items.name"
+msgid "ふうとう"
+msgstr "Sobre de Manila"
+
+#. ID 7
+msgctxt "items.description"
+msgid "封筒になります"
+msgstr "Conviértete en un sobre de manila"
+
+#. ID 8
+msgctxt "items.name"
+msgid "もよう"
+msgstr "Patrón"
+
+#. ID 8
+msgctxt "items.description"
+msgid "模様になります"
+msgstr "Conviértete en un patrón"
+
+#. ID 9
+msgctxt "items.name"
+msgid "テープ"
+msgstr "Cinta Adhesiva"
+
+#. ID 9
+msgctxt "items.description"
+msgid "テープを貼ります"
+msgstr "Adhiérete una cinta"
+
+#. ID 10
+msgctxt "items.name"
+msgid "ダウンジャケット"
+msgstr "Chaqueta de Plumas"
+
+#. ID 10
+msgctxt "items.description"
+msgid "ダウンジャケットを着ます"
+msgstr "Vístete una chaqueta de plumas"
+
+#. ID 11
+msgctxt "items.name"
+msgid "くさり"
+msgstr "Cadenas"
+
+#. ID 11
+msgctxt "items.description"
+msgid "鎖で縛り付けます"
+msgstr "Encadénate con cadenas"
+
+#. ID 12
+msgctxt "items.name"
+msgid "がくぶち"
+msgstr "Marco"
+
+#. ID 12
+msgctxt "items.description"
+msgid "額縁になります"
+msgstr "Conviértete en marco para retrato"
+
+#. ID 13
+msgctxt "items.name"
+msgid "くろねこ"
+msgstr "Gato Negro"
+
+#. ID 13
+msgctxt "items.description"
+msgid "黒猫になります"
+msgstr "Conviértete en gato negro"
+
+#. ID 14
+msgctxt "items.name"
+msgid "みだれ"
+msgstr "Distorsión"
+
+#. ID 14
+msgctxt "items.description"
+msgid "乱れます"
+msgstr "Distorsiónattttttttttttttttttttttttttttttttttttttttt"
+
+#. ID 15
+msgctxt "items.name"
+msgid "どうたい"
+msgstr "Torso"
+
+#. ID 15
+msgctxt "items.description"
+msgid "胴体になります"
+msgstr "Conviértete en torso"
+
+#. ID 16
+msgctxt "items.name"
+msgid "ケース"
+msgstr "Mostrador"
+
+#. ID 16
+msgctxt "items.description"
+msgid "ケースに入ります"
+msgstr "Atrápate en un mostrador"
+
+#. ID 18
+msgctxt "items.name"
+msgid "ヤスデ？"
+msgstr "¿Milpiés?"
+
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+#. ID 22
+#. ID 23
+#. ID 24
+#. ID 25
+#. ID 26
+#. ID 27
+#. ID 28
+#. ID 29
+#. ID 30
+#. ID 31
+#. ID 32
+#. ID 35
+#. ID 37
+msgctxt "items.description"
+msgid "うろ覚え"
+msgstr "Una memoria confusa"
+
+#. ID 19
+msgctxt "items.name"
+msgid "メリケンサック？"
+msgstr "¿Puños de Hierro?"
+
+#. ID 20
+msgctxt "items.name"
+msgid "くろかみ？"
+msgstr "¿Pelo Negro?"
+
+#. ID 21
+msgctxt "items.name"
+msgid "りょうて？"
+msgstr "¿Ambas Manos?"
+
+#. ID 22
+msgctxt "items.name"
+msgid "トイレ？"
+msgstr "¿Escusado?"
+
+#. ID 23
+msgctxt "items.name"
+msgid "てがみ？"
+msgstr "¿Misiva?"
+
+#. ID 24
+msgctxt "items.name"
+msgid "もよう？"
+msgstr "¿Patrón?"
+
+#. ID 25
+msgctxt "items.name"
+msgid "ガムテープ？"
+msgstr "¿Cinta pegajosa?"
+
+#. ID 26
+msgctxt "items.name"
+msgid "ジャケット？"
+msgstr "¿Chaqueta?"
+
+#. ID 27
+msgctxt "items.name"
+msgid "てつぐし？"
+msgstr "¿Algo de hierro?"
+
+#. ID 28
+msgctxt "items.name"
+msgid "かいが？"
+msgstr "¿Retrato?"
+
+#. ID 29
+msgctxt "items.name"
+msgid "ねこ？"
+msgstr "¿Gato?"
+
+#. ID 30
+msgctxt "items.name"
+msgid "みだれ？"
+msgstr "¿Distorsión?"
+
+#. ID 31
+msgctxt "items.name"
+msgid "どうたい？"
+msgstr "¿Torso?"
+
+#. ID 32
+msgctxt "items.name"
+msgid "ケース？"
+msgstr "¿Mostrador?"
+
+#. ID 34
+msgctxt "items.name"
+msgid "かたまり"
+msgstr "Grumo"
+
+#. ID 34
+msgctxt "items.description"
+msgid "塊になります"
+msgstr "Conviértete en un grumo baboso"
+
+#. ID 35
+msgctxt "items.name"
+msgid "タール？"
+msgstr "¿Alquitrán?"
+
+#. ID 36
+msgctxt "items.name"
+msgid "まど"
+msgstr "Ventana"
+
+#. ID 36
+msgctxt "items.description"
+msgid "窓になります"
+msgstr "Conviértete en ventana"
+
+#. ID 37
+msgctxt "items.name"
+msgid "まど？"
+msgstr "¿Ventana?"
+
+#. ID 39
+msgctxt "items.name"
+msgid "携帯"
+msgstr "Móvil"
+
+#. ID 39
+msgctxt "items.description"
+msgid "ミニゲームをプレイします"
+msgstr "Juega un mini-juego"
+
+#. ID 40
+msgctxt "items.name"
+msgid "手帳"
+msgstr "Cuaderno"
+
+#. ID 40
+msgctxt "items.description"
+msgid "ゲームの流れを確認します"
+msgstr "Lee las instrucciones del juego"
+
+#. ID 41
+msgctxt "items.name"
+msgid "上着"
+msgstr "Chaqueta"
+
+#. ID 41
+msgctxt "items.description"
+msgid "服の上から羽織っている"
+msgstr "Puesta sobre el resto de tu ropa de pecho"
+
+#. ID 42
+msgctxt "items.name"
+msgid "ジーンズ"
+msgstr "Mezclillas"
+
+#. ID 42
+msgctxt "items.description"
+msgid "よく穿いている"
+msgstr "Las visto frecuentemente"
+
+#. ID 43
+msgctxt "items.name"
+msgid "ピアス"
+msgstr "Arete"
+
+#. ID 43
+msgctxt "items.description"
+msgid "小さめ"
+msgstr "Uno pequeño"
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "人形"
+msgstr "Muñeca"
+
+#. ID 2
+msgctxt "enemies.name"
+msgid "模様テスト用"
+msgstr "Para probar patrón"
+
+#. ID 3
+msgctxt "enemies.name"
+msgid "game"
+msgstr "juego"
+
+msgctxt "terms.shop_buy3"
+msgid "購入する"
+msgstr "Comprar"
+
+msgctxt "terms.shop_sell3"
+msgid "売却する"
+msgstr "Vender"
+
+msgctxt "terms.shop_leave3"
+msgid "やめる"
+msgstr "Cancelar"
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "¥"
+
+msgctxt "terms.command_item"
+msgid "所持品"
+msgstr "Pertenencias"
+
+msgctxt "terms.command_skill"
+msgid "行動"
+msgstr "Acción"
+
+msgctxt "terms.menu_equipment"
+msgid "服装"
+msgstr "Atuendo"
+
+msgctxt "terms.menu_quit"
+msgid "中断"
+msgstr "Suspende"
+
+msgctxt "terms.new_game"
+msgid "開始"
+msgstr "Empieza"
+
+msgctxt "terms.load_game"
+msgid "再開"
+msgstr "Reanuda"
+
+msgctxt "terms.exit_game"
+msgid "終了"
+msgstr "  Para"
+
+msgctxt "terms.attack"
+msgid "筋力"
+msgstr "Fortaleza"
+
+msgctxt "terms.defense"
+msgid "耐久"
+msgstr "Resistencia"
+
+msgctxt "terms.spirit"
+msgid "精神"
+msgstr "Mentalidad"
+
+msgctxt "terms.agility"
+msgid "敏捷"
+msgstr "Agilidad"
+
+msgctxt "terms.weapon"
+msgid "右手"
+msgstr "Mano derecha"
+
+msgctxt "terms.shield"
+msgid "左手"
+msgstr "Mano izquierda"
+
+msgctxt "terms.armor"
+msgid "上半身"
+msgstr "Torso"
+
+msgctxt "terms.helmet"
+msgid "下半身"
+msgstr "Piernas"
+
+msgctxt "terms.accessory"
+msgid "装飾"
+msgstr "Accesorio"
+
+msgctxt "terms.save_game_message"
+msgid "記録"
+msgstr "Documenta"
+
+msgctxt "terms.load_game_message"
+msgid "再開"
+msgstr "Reanuda"
+
+msgctxt "terms.exit_game_message"
+msgid "タイトルへ戻ります"
+msgstr "Regresar a la pantalla de título"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "Sí"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "No"
+
