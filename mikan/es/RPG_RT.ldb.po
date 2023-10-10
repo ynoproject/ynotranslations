@@ -410,7 +410,7 @@ msgstr "Reanuda"
 
 msgctxt "terms.exit_game"
 msgid "終了"
-msgstr "  Para"
+msgstr "Para"
 
 msgctxt "terms.attack"
 msgid "筋力"
@@ -467,4 +467,3 @@ msgstr "Sí"
 msgctxt "terms.no"
 msgid "いいえ"
 msgstr "No"
-
