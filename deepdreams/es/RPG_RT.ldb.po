@@ -15,7 +15,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.title"
 msgid "Deep Sleeper"
-msgstr "Duerme Profu"
+msgstr ""
 
 #. ID 1
 msgctxt "skills.name"
@@ -192,4 +192,3 @@ msgstr "¿Realmente deseas parar?"
 msgctxt "terms.yes"
 msgid "Yes"
 msgstr "Sí"
-
