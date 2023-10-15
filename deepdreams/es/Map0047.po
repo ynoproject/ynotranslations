@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams 0.05\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 177, Page 1, Line 17, Pos (20,13)
+#. ID 178, Page 1, Line 17, Pos (68,13)
+msgid "Not enough money for purchase"
+msgstr "Sin suficiente dinero para comprar"
+
