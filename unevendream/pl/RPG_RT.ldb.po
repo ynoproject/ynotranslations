@@ -455,7 +455,7 @@ msgstr "Sen o ogrodzie."
 #. ID 58
 msgctxt "items.name"
 msgid "Cape"
-msgstr "Płaszcz"
+msgstr "Peleryna"
 
 #. ID 57
 msgctxt "items.description"
@@ -535,7 +535,7 @@ msgstr "Sen o wróżkach."
 #. ID 68
 msgctxt "items.name"
 msgid "Mermaid"
-msgstr "Syrena"
+msgstr "Syrenka"
 
 #. ID 67
 msgctxt "items.description"

@@ -70,7 +70,7 @@ msgstr "                    *Konwalia*"
 
 #. ID 9, Line 76
 msgid "                      *Cape*"
-msgstr "                    *Płaszcz*"
+msgstr "                   *Peleryna*"
 
 #. ID 9, Line 80
 msgid "                    *UV Light*"
@@ -90,7 +90,7 @@ msgstr "                     *Motyl*"
 
 #. ID 9, Line 96
 msgid "                    *Mermaid*"
-msgstr "                    *Syrena*"
+msgstr "                   *Syrenka*"
 
 #. ID 9, Line 100
 msgid "                    *Sidetail*"
