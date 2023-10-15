@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mikan Muzou 0.03\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 192, Line 8
+#. Choice (2 options)
+msgid ""
+"クイックセーブ\n"
+"場所移動"
+msgstr ""
+"Guardado Rápido\n"
+"Teletransportación"
+
+#. ID 192, Line 13
+#. Choice (4 options)
+msgid ""
+"廃屋\n"
+"偏頭痛\n"
+"厭世\n"
+"未定"
+msgstr ""
+"Casa Dilapidada\n"
+"Migraña\n"
+"Cansancio de la vida\n"
+"Pendiente"
+
