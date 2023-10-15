@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 4, Page 1, Line 2, Pos (1,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Фиолетовый\" ?"
+
+#. ID 4, Page 1, Line 4, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 5, Page 1, Line 4, Pos (1,11)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 1, Line 4, Pos (3,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 4, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 1, Line 4, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 4, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 4, Pos (3,9)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 4, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 4, Pos (5,1)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 4, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 7, Pos (5,3)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 4, Pos (7,9)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 4, Pos (7,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"します\n"
+"しません"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 4, Page 1, Line 7, Pos (1,9)
+msgid "\\>タイプ　Violet に変更しました！"
+msgstr "\\>Выбран стиль меню \"Фиолетовый\"!"
+
+#. ID 5, Page 1, Line 2, Pos (1,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　monochrome\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Монохромный\" ?"
+
+#. ID 5, Page 1, Line 7, Pos (1,11)
+msgid "\\>タイプ　monochrome に変更しました！"
+msgstr "\\>Выбран стиль меню \"Монохромный\"!"
+
+#. ID 6, Page 1, Line 2, Pos (3,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　silver\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Серебрянный\" ?"
+
+#. ID 6, Page 1, Line 7, Pos (3,1)
+msgid "\\>タイプ　silver に変更しました！"
+msgstr "\\>Выбран стиль меню \"Серебрянный\"!"
+
+#. ID 7, Page 1, Line 2, Pos (3,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　orange\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Оранжевый\" ?"
+
+#. ID 7, Page 1, Line 7, Pos (3,3)
+msgid "\\>タイプ　orange に変更しました！"
+msgstr "\\>Выбран стиль меню \"Оранжевый\"!"
+
+#. ID 8, Page 1, Line 2, Pos (3,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　cookie\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Печенье\" ?"
+
+#. ID 8, Page 1, Line 7, Pos (3,5)
+msgid "\\>タイプ　cookie に変更しました！"
+msgstr "\\>Выбран стиль меню \"Печенье\"!"
+
+#. ID 9, Page 1, Line 2, Pos (3,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Гексен\" ?"
+
+#. ID 9, Page 1, Line 7, Pos (3,7)
+msgid "\\>タイプ　hexe に変更しました！"
+msgstr "\\>Выбран стиль меню \"Гексен\"!"
+
+#. ID 10, Page 1, Line 2, Pos (3,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe violett\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Фиолетовый Гексен\" ?"
+
+#. ID 10, Page 1, Line 7, Pos (3,9)
+msgid "\\>タイプ　hexe violett に変更しました！"
+msgstr "\\>Выбран стиль меню \"Фиолетовый Гексен\"!"
+
+#. ID 11, Page 1, Line 2, Pos (3,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　old black\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Старый чёрный\" ?"
+
+#. ID 11, Page 1, Line 7, Pos (3,11)
+msgid "\\>タイプ　olc black に変更しました！"
+msgstr "\\>Выбран стиль меню \"Старый чёрный\"!"
+
+#. ID 12, Page 1, Line 2, Pos (5,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　old blue\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Старый синий\" ?"
+
+#. ID 12, Page 1, Line 7, Pos (5,1)
+msgid "\\>タイプ　old blue に変更しました！"
+msgstr "\\>Выбран стиль меню \"Старый синий\"!"
+
+#. ID 15, Page 1, Line 2, Pos (17,10)
+#. Contains choice at line 2 (3 options)
+msgid "\\>エフェクト★リボン★のグラフィックを設定します。"
+msgstr "\\>Выбрать стиль эффекта \"Ленты\"."
+
+#. ID 15, Page 1, Line 3, Pos (17,10)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ver0.04 (通常)\n"
+"\\>ver0.03 (旧型)\n"
+"\\>キャンセル"
+msgstr ""
+"\\>0.04 (Обычный)\n"
+"\\>0.03 (Старый)\n"
+"\\>Отмена"
+
+#. ID 18, Page 1, Line 2, Pos (5,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　green\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Зелёный\" ?"
+
+#. ID 18, Page 1, Line 7, Pos (5,5)
+msgid "\\>タイプ　green に変更しました！"
+msgstr "\\>Выбран стиль меню \"Зелёный\"!"
+
+#. ID 19, Page 1, Line 5, Pos (5,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet II\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Фиолетовый II\" ?"
+
+#. ID 19, Page 1, Line 10, Pos (5,3)
+msgid "\\>タイプ　violet II に変更しました！"
+msgstr "\\>Выбран стиль меню \"Фиолетовый II\"!"
+
+#. ID 23, Page 1, Line 2, Pos (17,11)
+msgid ""
+"\\>「■夢日記帳」使用時のアニメ再生を設定します。\n"
+"\\>※アニメを再生する設定でも\n"
+"\\>　Zキーを押し続けると省略可能"
+msgstr ""
+"\\>Проигрывать анимацию при использовании ■Дневника?\n"
+"\\> *Активную анимацию можно пропустить, если зажать\n"
+"\\>  клавишу Z."
+
+#. ID 23, Page 1, Line 5, Pos (17,11)
+#. Choice (3 options)
+msgid ""
+"\\>ON (通常・アニメ再生)\n"
+"\\>OFF(省略・アニメなし）\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Вкл. (Есть анимация)\n"
+"\\>Выкл.(Нет анимации)\n"
+"\\>Отмена"
+
+#. ID 25, Page 1, Line 2, Pos (17,12)
+msgid ""
+"\\>自販機でのジュース購入時のイベントを設定します。\n"
+"\\>※アニメを再生する設定でも\n"
+"\\>　Zキーを押し続けると省略可能"
+msgstr ""
+"\\>Проигрывать событие при покупке сока в автомате?\n"
+"\\> *Событие может быть пропущено, если нажать Z."
+
+#. ID 25, Page 1, Line 5, Pos (17,12)
+#. Choice (3 options)
+msgid ""
+"\\>ON (通常・専用アニメ再生)\n"
+"\\>OFF(省略・ピクチャー表示のみ)\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Вкл. (Полная анимация)\n"
+"\\>Выкл.(Только картинка)\n"
+"\\>Отмена"
+
+#. ID 27, Page 1, Line 54, Pos (1,7)
+msgid ""
+"\\>　　　　 　　\\c[2]◆\\c[1]◆\\c[0]information\\c[1]◆\\c[2]◆\n"
+"\\c[0]\n"
+"\\>■本体ver：\\c[1]0.0551\\c[0]\n"
+"\\>■ウィンドウ収集率：\\c[1]\\V[0173]％\\c[0]"
+msgstr ""
+"\\>　　　           \\c[2]◆\\c[1]◆\\c[0]Информация\\c[1]◆\\c[2]◆\n"
+"\\c[0]\n"
+"\\>■Версия программы: \\c[1]0.0551\\c[0]\n"
+"\\>■Прогресс сбора стилей меню: \\c[1]\\V[0173]％\\c[0]"
+
+#. ID 27, Page 1, Line 58, Pos (1,7)
+msgid ""
+"\\>■入眠回数　 　 ：\\V[0174]　　■通常起床回数　　：\\v[0175]\n"
+"\\>■強制起床回数　：\\V[0176]　　■ジュース購入数　：\\V[0178]  \n"
+"\\>■殺害回数　　　：\\V[0179]　　■破壊回数　　　　：\\V[0180]\n"
+"\\>■総攻撃回数　　：\\V[0177]"
+msgstr ""
+"\\>■Снов (Раз): \\V[0174]    ■Пробуждений : \\V[0175]\n"
+"\\>■Разбужена : \\V[0176]    ■Куплено сока: \\V[0178]\n"
+"\\>■Убийств   : \\V[0179]    ■Разрушений  : \\V[0180]\n"
+"\\>■Атак всего: \\V[177]"
+
+#. ID 28, Page 1, Line 2, Pos (7,9)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　eyes\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Глаза\" ?"
+
+#. ID 28, Page 1, Line 7, Pos (7,9)
+msgid "\\>タイプ　eyes に変更しました！"
+msgstr "\\>Выбран стиль меню \"Глаза\"!"
+
+#. ID 29, Page 1, Line 2, Pos (7,11)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet III\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Выбрать стиль меню\n"
+"\\> \"Фиолетовый III\" ?"
+
+#. ID 29, Page 1, Line 7, Pos (7,11)
+msgid "\\>タイプ　violet III に変更しました！"
+msgstr "\\>Выбран стиль меню \"Фиолетовый III\"!"
