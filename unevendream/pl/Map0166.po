@@ -13,7 +13,7 @@ msgstr ""
 msgid ""
 "\\>The area beyond this point is currently under\n"
 "\\>construction."
-msgstr ""
+msgstr "\\>Świat poza tym punktem jest w konstrukcji."
 
 #. ID 1467, Page 1, Line 2, Pos (12,43)
 msgid ""
@@ -21,4 +21,6 @@ msgid ""
 "\\>This area is under construction, but available\n"
 "\\>for previewing."
 msgstr ""
-
+"\\>    !!STREFA ROBOTY!!\n"
+"\\>Świat poza tym punktem jest w konstrukcji, lecz\n"
+"\\>jest dostępny do podglądu."

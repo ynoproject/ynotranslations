@@ -12,5 +12,5 @@ msgstr ""
 #. ID 19, Page 1, Line 2, Pos (24,24)
 #. ID 20, Page 1, Line 2, Pos (17,26)
 msgid "There are currently no maps created for this area."
-msgstr "Aktualnie nie ma map dla tego miejsca."
+msgstr "Aktualnie nie ma mapy dla tego miejsca."
 

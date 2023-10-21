@@ -219,7 +219,7 @@ msgid ""
 "Quick Effect 2 is not set."
 msgstr ""
 "Szybki efekt 1 nie jest ustawiony.\n"
-"Szybki efekt 2 nie jest ustawiony.\n"
+"Szybki efekt 2 nie jest ustawiony."
 
 #. ID 77, Line 401
 #. ID 77, Line 451
@@ -228,7 +228,7 @@ msgid ""
 "Quick Effect 2 is set."
 msgstr ""
 "Szybki efekt 1 nie jest ustawiony.\n"
-"Szybki efekt 2 jest ustawiony.\n"
+"Szybki efekt 2 jest ustawiony."
 
 #. ID 77, Line 408
 #. ID 77, Line 458
@@ -237,7 +237,7 @@ msgid ""
 "Quick Effect 2 is not set."
 msgstr ""
 "Szybki efekt 1 jest ustawiony.\n"
-"Szybki efekt 2 nie jest ustawiony.\n"
+"Szybki efekt 2 nie jest ustawiony."
 
 #. ID 77, Line 412
 #. ID 77, Line 462
@@ -246,7 +246,7 @@ msgid ""
 "Quick Effect 2 is set."
 msgstr ""
 "Szybki efekt 1 jest ustawiony.\n"
-"Szybki efekt 2 jest ustawiony.\n"
+"Szybki efekt 2 jest ustawiony."
 
 #. ID 77, Line 418
 #. Choice (2 options)

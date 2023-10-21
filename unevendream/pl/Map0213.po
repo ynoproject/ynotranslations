@@ -14,6 +14,6 @@ msgid ""
 "\\>This area is under construction, but available\n"
 "\\>for previewing."
 msgstr "\\>    !!STREFA ROBOTY!!\n"
-"\\>Świat po tym punkcie jest w konstrukcji, lecz\n"
+"\\>Świat poza tym punktem jest w konstrukcji, lecz\n"
 "\\>jest dostępny do podglądu."
 

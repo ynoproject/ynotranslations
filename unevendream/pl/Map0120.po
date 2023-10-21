@@ -13,5 +13,4 @@ msgstr ""
 msgid ""
 "\\>The area beyond this point is currently under\n"
 "\\>construction."
-msgstr ""
-
+msgstr "\\>Świat poza tym punktem jest w konstrukcji."
