@@ -65,7 +65,7 @@ msgstr "La Papesse"
 #. ID 3
 msgctxt "items.description"
 msgid "wear the outfit of a holy woman"
-msgstr "Porte le costume d'une femme sacrée"
+msgstr "Porte la tenue d'une sainte"
 
 #. ID 4
 msgctxt "items.name"
@@ -165,7 +165,7 @@ msgstr "La Lune"
 #. ID 19
 msgctxt "items.description"
 msgid "wear a dress made of moonlight"
-msgstr "Porte une robe au clair de lune"
+msgstr "Porte une robe tissée du clair de lune"
 
 #. ID 20
 msgctxt "items.name"
