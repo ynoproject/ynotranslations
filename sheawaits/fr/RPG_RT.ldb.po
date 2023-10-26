@@ -30,12 +30,12 @@ msgstr ""
 #. ID 1
 msgctxt "skills.name"
 msgid "wake up"
-msgstr "Se réveiller"
+msgstr "se réveiller"
 
 #. ID 1
 msgctxt "skills.description"
 msgid "end your dream?"
-msgstr "Quitter votre rêve ?"
+msgstr "quitter votre rêve ?"
 
 #. ID 1
 msgctxt "items.name"
@@ -45,7 +45,7 @@ msgstr "Le Fou"
 #. ID 1
 msgctxt "items.description"
 msgid "go back to the begining"
-msgstr "Retourne au début"
+msgstr "retourne au début"
 
 #. ID 2
 msgctxt "items.name"
@@ -55,7 +55,7 @@ msgstr "Le Bateleur"
 #. ID 2
 msgctxt "items.description"
 msgid "gain the use of magic and pentacles"
-msgstr "Gagne le pouvoir d'utiliser la magie et les pentacles"
+msgstr "gagne le pouvoir d'utiliser la magie et les pentacles"
 
 #. ID 3
 msgctxt "items.name"
@@ -65,7 +65,7 @@ msgstr "La Papesse"
 #. ID 3
 msgctxt "items.description"
 msgid "wear the outfit of a holy woman"
-msgstr "Porte la tenue d'une sainte"
+msgstr "porte la tenue d'une sainte"
 
 #. ID 4
 msgctxt "items.name"
@@ -90,7 +90,7 @@ msgstr "Les Amants"
 #. ID 7
 msgctxt "items.description"
 msgid "you would have worn this dress at your wedding"
-msgstr "Tu aurais porté cette robe à ton mariage..."
+msgstr "tu aurais porté cette robe à ton mariage"
 
 #. ID 8
 msgctxt "items.name"
@@ -140,7 +140,7 @@ msgstr "Le Diable"
 #. ID 16
 msgctxt "items.description"
 msgid "strike fear into the hearts of many"
-msgstr "Inspire la peur dans le cœur de tous"
+msgstr "inspire la peur dans le cœur de tous"
 
 #. ID 17
 msgctxt "items.name"
@@ -155,7 +155,7 @@ msgstr "L'Étoile"
 #. ID 18
 msgctxt "items.description"
 msgid "wear a crown of stars"
-msgstr "Porte une couronne d'étoiles"
+msgstr "porte une couronne d'étoiles"
 
 #. ID 19
 msgctxt "items.name"
@@ -165,7 +165,7 @@ msgstr "La Lune"
 #. ID 19
 msgctxt "items.description"
 msgid "wear a dress made of moonlight"
-msgstr "Porte une robe tissée du clair de lune"
+msgstr "porte une robe tissée du clair de lune"
 
 #. ID 20
 msgctxt "items.name"
@@ -175,7 +175,7 @@ msgstr "Le Soleil"
 #. ID 20
 msgctxt "items.description"
 msgid "shine so brightly you illuminate any space"
-msgstr "Brille de mille feux pour illuminer tout lieu"
+msgstr "brille de mille feux pour illuminer tout lieu"
 
 #. ID 21
 msgctxt "items.name"
