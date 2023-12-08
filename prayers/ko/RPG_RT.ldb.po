@@ -11,7 +11,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Fluorette"
-msgstr "플루렛테"
+msgstr "플루오렛"
 
 #. ID 2
 msgctxt "actors.name"
@@ -266,7 +266,7 @@ msgstr "적에게 기습을 받았다!"
 
 msgctxt "terms.escape_failure"
 msgid "Failed to escape!"
-msgstr "도망치는데에 실패했다!"
+msgstr "도망치는 데에 실패했다!"
 
 msgctxt "terms.victory"
 msgid "Victory!"
