@@ -225,13 +225,13 @@ msgstr "Lasse dir lange Haare wachsen."
 #. ID 36
 msgctxt "items.name"
 msgid "Poo Hair"
-msgstr "Kacke Haare"
+msgstr "Beschissene Haare"
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
 msgid "Grow poo hair."
-msgstr "Lasse dir Haare in Form von Kacke wachsen."
+msgstr "Lasse dir Haare in Form von Scheiße wachsen."
 
 #. ID 37
 #. ID 38
