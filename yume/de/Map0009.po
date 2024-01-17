@@ -58,7 +58,7 @@ msgstr "                \\_Abgetrennter Kopf"
 
 #. ID 25, Page 2, Line 4, Pos (19,13)
 msgid "                     Poo Hair"
-msgstr "                   \\_Kacke Haare"
+msgstr "                \\_Beschissene Haare"
 
 #. ID 26, Page 2, Line 4, Pos (20,15)
 msgid "                   Kitchen Knife"
