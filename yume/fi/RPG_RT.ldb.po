@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -45,13 +45,13 @@ msgstr "Käytä sateenvarjoa."
 #. ID 6
 msgctxt "items.name"
 msgid "Hat & Scarf"
-msgstr "Hattu ja Huivi"
+msgstr "Hattu ja Kaulahuivi"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
 msgid "Don a hat & scarf."
-msgstr "Pane päähäsi hattu ja huivi."
+msgstr "Pue hattu ja kaulahuivi."
 
 #. ID 7
 #. ID 8
@@ -63,7 +63,7 @@ msgstr "Luminainen"
 #. ID 8
 msgctxt "items.description"
 msgid "Morph into a Snow Woman."
-msgstr "Muuttu lumenaiseksi."
+msgstr "Muutu luminaiseksi."
 
 #. ID 9
 #. ID 10
@@ -81,19 +81,19 @@ msgstr "Varusta itsesi keittiöveitsellä."
 #. ID 12
 msgctxt "items.name"
 msgid "Eye Palm"
-msgstr "Silmä Kämmen"
+msgstr "Silmäkämmen"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
 msgid "Warp into an Eye Palm."
-msgstr "Muuta silmäkämmeksi."
+msgstr "Muutu silmäkämmeneksi."
 
 #. ID 13
 #. ID 14
 msgctxt "items.name"
 msgid "Fatten"
-msgstr "Lihota"
+msgstr "Läski"
 
 #. ID 13
 #. ID 14
@@ -105,7 +105,7 @@ msgstr "Paisu kooltasi."
 #. ID 16
 msgctxt "items.name"
 msgid "Midget"
-msgstr "Pikkuinen"
+msgstr "Kääpiö"
 
 #. ID 15
 #. ID 16
@@ -147,7 +147,7 @@ msgstr "Kasvoton Aave"
 #. ID 22
 msgctxt "items.description"
 msgid "Materialize as a faceless ghost."
-msgstr "Ilmaannu kasvottomaksi kummitukseksi."
+msgstr "Muutu kasvottomaksi kummitukseksi."
 
 #. ID 23
 #. ID 24
@@ -159,7 +159,7 @@ msgstr "Irtopää"
 #. ID 24
 msgctxt "items.description"
 msgid "Be reduced to a severed head."
-msgstr "Supistu irtopääksi."
+msgstr "Vain pääsi jää jäljelle."
 
 #. ID 25
 #. ID 26
@@ -183,7 +183,7 @@ msgstr "Kissa"
 #. ID 28
 msgctxt "items.description"
 msgid "Sprout cat-ears and a tail."
-msgstr "Kasvata kissankorvat ja häntä."
+msgstr "Kasvata kissankorvat ja -häntä."
 
 #. ID 29
 #. ID 30
@@ -207,7 +207,7 @@ msgstr "Polkupyörä"
 #. ID 32
 msgctxt "items.description"
 msgid "Mount a bicycle."
-msgstr "Ajaa polkupyörällä."
+msgstr "Polje pyörää."
 
 #. ID 33
 #. ID 34
@@ -225,19 +225,19 @@ msgstr "Kasvata pitkät hiukset."
 #. ID 36
 msgctxt "items.name"
 msgid "Poo Hair"
-msgstr "Kakkahius"
+msgstr "Kakkatukka"
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
 msgid "Grow poo hair."
-msgstr "Kasvata kakka tukka."
+msgstr "Kasvata kakkatukka."
 
 #. ID 37
 #. ID 38
 msgctxt "items.name"
 msgid "Blonde"
-msgstr "Vaaleat hiukset"
+msgstr "Blondi"
 
 #. ID 37
 #. ID 38
@@ -267,7 +267,7 @@ msgstr "Noita"
 #. ID 42
 msgctxt "items.description"
 msgid "Become a witch incarnate."
-msgstr "Muutu noidan inkarnaatioksi."
+msgstr "Ryhdy noidaksi."
 
 #. ID 43
 #. ID 44
@@ -279,19 +279,19 @@ msgstr "Demoni"
 #. ID 44
 msgctxt "items.description"
 msgid "Reconstitute as an oni."
-msgstr "Muuta demoniksi."
+msgstr "Muutu demoniksi."
 
 #. ID 45
 #. ID 46
 msgctxt "items.name"
 msgid "Squish-Squish"
-msgstr "Puristus-Puristus"
+msgstr "Hyytelö"
 
 #. ID 45
 #. ID 46
 msgctxt "items.description"
 msgid "Change into a squishy blob."
-msgstr "Muutu pehmeäksi möykyksi."
+msgstr "Muutu pehmeäksi hyytelöksi."
 
 #. ID 47
 #. ID 48
@@ -649,7 +649,7 @@ msgstr ""
 
 msgctxt "terms.command_item"
 msgid "Effect"
-msgstr "Vaikutus"
+msgstr "Efekti"
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
@@ -669,7 +669,7 @@ msgstr "Lopeta"
 
 msgctxt "terms.lvl_short"
 msgid "E"
-msgstr "Ｅ"
+msgstr "E"
 
 msgctxt "terms.hp_short"
 msgid "$k"

@@ -10,8 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
-
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 14, Page 2, Line 4, Pos (13,12)
 msgid "                   Snow Woman"
@@ -27,19 +26,19 @@ msgstr "                   Sateenvarjo"
 
 #. ID 17, Page 2, Line 4, Pos (14,11)
 msgid "                    Hat & Scarf"
-msgstr "                  Hattu ja Huivi"
+msgstr "                  Hattu ja Kaulahuivi"
 
 #. ID 18, Page 2, Line 5, Pos (12,14)
 msgid "                    Eye Palm"
-msgstr "                   Silmä Kämmen"
+msgstr "                   Silmäkämmen"
 
 #. ID 19, Page 2, Line 5, Pos (12,16)
 msgid "                     Get fat"
-msgstr "                     Lihota"
+msgstr "                     Läski"
 
 #. ID 20, Page 2, Line 4, Pos (13,18)
 msgid "                      Midget"
-msgstr "                    Pikkuinen"
+msgstr "                    Kääpiö"
 
 #. ID 21, Page 2, Line 4, Pos (14,19)
 msgid "                     Whistle"
@@ -59,7 +58,7 @@ msgstr "                     Irtopää"
 
 #. ID 25, Page 2, Line 4, Pos (19,13)
 msgid "                     Poo Hair"
-msgstr "                    Kakkahius"
+msgstr "                    Kakkatukka"
 
 #. ID 26, Page 2, Line 4, Pos (20,15)
 msgid "                   Kitchen Knife"
@@ -91,7 +90,7 @@ msgstr "                    Polkupyörä"
 
 #. ID 33, Page 2, Line 4, Pos (18,10)
 msgid "                     Blonde"
-msgstr "                 Vaaleat Hiukset"
+msgstr "                 Blondi"
 
 #. ID 34, Page 2, Line 4, Pos (15,13)
 msgid "                      Witch"
@@ -103,7 +102,7 @@ msgstr "                      Demoni"
 
 #. ID 36, Page 2, Line 4, Pos (17,18)
 msgid "                    Squish-Squish"
-msgstr "                 Puristus-Puristus"
+msgstr "                 Hyytelö"
 
 #. ID 37, Page 2, Line 4, Pos (19,17)
 msgid "                   Traffic Light"
