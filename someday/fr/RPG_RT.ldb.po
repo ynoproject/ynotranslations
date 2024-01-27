@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -30,12 +30,7 @@ msgstr "Révolte"
 #. ID 1
 msgctxt "skills.description"
 msgid "Defeat your bullies"
-msgstr "Vaincre tes harceleurs."
-
-#. ID 1
-msgctxt "skills.using_message1"
-msgid "‚ÌUŒ‚I"
-msgstr "の攻撃！"
+msgstr "Vaincs tes harceleurs."
 
 #. ID 2
 msgctxt "skills.name"
@@ -45,7 +40,7 @@ msgstr "Déchu"
 #. ID 2
 msgctxt "skills.description"
 msgid "Break the ice"
-msgstr "Briser la glace."
+msgstr "Brise la glace."
 
 #. ID 3
 msgctxt "skills.name"
@@ -65,7 +60,7 @@ msgstr "Paralysé"
 #. ID 4
 msgctxt "skills.description"
 msgid "Open the door to your nightmares"
-msgstr "Ouvrir la porte vers tes cauchemars."
+msgstr "Ouvre la porte vers tes cauchemars."
 
 #. ID 5
 msgctxt "skills.name"
@@ -75,7 +70,7 @@ msgstr "Oxydation"
 #. ID 5
 msgctxt "skills.description"
 msgid "Discover the truth among the tubes"
-msgstr "Découvrir la vérité parmi les tubes."
+msgstr "Découvre la vérité parmi les tubes."
 
 #. ID 6
 msgctxt "skills.name"
@@ -85,7 +80,7 @@ msgstr "Réduction"
 #. ID 6
 msgctxt "skills.description"
 msgid "Get away safely"
-msgstr "S'échapper sain et sauf."
+msgstr "Échappe-toi sain et sauf."
 
 #. ID 7
 msgctxt "skills.name"
@@ -95,7 +90,7 @@ msgstr "Neige"
 #. ID 7
 msgctxt "skills.description"
 msgid "Make it snow in the ice world"
-msgstr "Faire neiger dans l'ice world."
+msgstr "Fais neiger dans l'ice world."
 
 #. ID 8
 msgctxt "skills.name"
@@ -115,7 +110,7 @@ msgstr "AAAA99999"
 #. ID 9
 msgctxt "skills.description"
 msgid "Change everything to A's and 9's"
-msgstr "Changer tout en A et 9."
+msgstr "Change tout en A et 9."
 
 #. ID 10
 msgctxt "skills.name"
@@ -125,7 +120,7 @@ msgstr "Zéro"
 #. ID 10
 msgctxt "skills.description"
 msgid "Break the box with zero N"
-msgstr "Casser la boîte avec zéro N."
+msgstr "Casse la boîte avec zéro N."
 
 #. ID 11
 msgctxt "skills.name"
@@ -135,7 +130,7 @@ msgstr "Chanceux"
 #. ID 11
 msgctxt "skills.description"
 msgid "Find the four-leaf clover!"
-msgstr "Trouver le trèfle à quatre feuilles !"
+msgstr "Trouve le trèfle à quatre feuilles !"
 
 #. ID 12
 msgctxt "skills.name"
@@ -145,7 +140,7 @@ msgstr "Honte"
 #. ID 12
 msgctxt "skills.description"
 msgid "Try to change your past"
-msgstr "Essayer de changer le passé."
+msgstr "Essaie de changer le passé."
 
 #. ID 13
 msgctxt "skills.name"
@@ -155,7 +150,7 @@ msgstr "Fulgurites"
 #. ID 13
 msgctxt "skills.description"
 msgid "Tear down all the fulgurites at the desert"
-msgstr "Abattre toutes les fulgurites du désert."
+msgstr "Abats toutes les fulgurites du désert."
 
 #. ID 14
 msgctxt "skills.name"
@@ -165,7 +160,7 @@ msgstr "Arc-en-ciel"
 #. ID 14
 msgctxt "skills.description"
 msgid "Make it rain in the beach"
-msgstr "Faire pleuvoir à la plage."
+msgstr "Fais pleuvoir à la plage."
 
 #. ID 15
 msgctxt "skills.name"
@@ -195,7 +190,7 @@ msgstr "Acouphène"
 #. ID 17
 msgctxt "skills.description"
 msgid "Have a blast at the neon world"
-msgstr "S'amuser dans le neon world."
+msgstr "Amuse-toi dans le neon world."
 
 #. ID 18
 msgctxt "skills.name"
@@ -205,7 +200,7 @@ msgstr "Sujet de test"
 #. ID 18
 msgctxt "skills.description"
 msgid "Complete ten tests at the testing area"
-msgstr "Compléter dix tests dans la testing area."
+msgstr "Complète dix tests dans la testing area."
 
 #. ID 19
 msgctxt "skills.name"
@@ -225,7 +220,7 @@ msgstr "Toile"
 #. ID 20
 msgctxt "skills.description"
 msgid "Paint on the floor at the art gallery"
-msgstr "Peindre sur le sol de l'art gallery."
+msgstr "Peins sur le sol de l'art gallery."
 
 #. ID 21
 msgctxt "skills.name"
@@ -235,7 +230,7 @@ msgstr "En feu"
 #. ID 21
 msgctxt "skills.description"
 msgid "You can't kill time"
-msgstr "Vous ne pouvez pas tuer le temps."
+msgstr "Tu ne peux pas tuer le temps."
 
 #. ID 22
 msgctxt "skills.name"
@@ -255,7 +250,7 @@ msgstr "Dévoreur de tests"
 #. ID 23
 msgctxt "skills.description"
 msgid "Complete all twenty tests at the testing area"
-msgstr "Compléter les vingt tests de la testing area."
+msgstr "Complète les vingt tests de la testing area."
 
 #. ID 24
 msgctxt "skills.name"
@@ -265,7 +260,7 @@ msgstr "Hatsuyume"
 #. ID 24
 msgctxt "skills.description"
 msgid "Complete the Hatsuyume puzzle"
-msgstr "Compléter le puzzle Hatsuyume."
+msgstr "Complète le puzzle Hatsuyume."
 
 #. ID 25
 msgctxt "skills.name"
@@ -275,7 +270,7 @@ msgstr "Vide"
 #. ID 25
 msgctxt "skills.description"
 msgid "Reach the limit of your mind"
-msgstr "Atteindre la limite de votre esprit."
+msgstr "Atteins la limite de ton esprit."
 
 #. ID 26
 msgctxt "skills.name"
@@ -295,7 +290,7 @@ msgstr "Une journée neigeuse"
 #. ID 27
 msgctxt "skills.description"
 msgid "Recall someone's memories"
-msgstr "Se rappeler des souvenirs de quelqu'un."
+msgstr "Rappelle-toi des souvenirs de quelqu'un."
 
 #. ID 28
 msgctxt "skills.name"
@@ -305,7 +300,7 @@ msgstr "Étranger"
 #. ID 28
 msgctxt "skills.description"
 msgid "Escape the shady stranger"
-msgstr "S'échapper du louche étranger."
+msgstr "Échappe-toi du louche étranger."
 
 #. ID 29
 msgctxt "skills.name"
@@ -315,7 +310,7 @@ msgstr "Piégé"
 #. ID 29
 msgctxt "skills.description"
 msgid "Finish the fake Zapnef level"
-msgstr "Finir le faux niveau de Zapnef."
+msgstr "Finis le faux niveau de Zapnef."
 
 #. ID 30
 msgctxt "skills.name"
@@ -325,7 +320,7 @@ msgstr "Prudente croisière"
 #. ID 30
 msgctxt "skills.description"
 msgid "Learn how to drive a spaceship"
-msgstr "Apprendre à conduire un vaisseau spatial."
+msgstr "Apprends à conduire un vaisseau spatial."
 
 #. ID 31
 msgctxt "skills.name"
@@ -335,7 +330,7 @@ msgstr "Plateforme"
 #. ID 31
 msgctxt "skills.description"
 msgid "Complete all nine levels of Zapnef"
-msgstr "Compléter les neuf niveaux de Zapnef."
+msgstr "Complète les neuf niveaux de Zapnef."
 
 #. ID 32
 msgctxt "skills.name"
@@ -345,27 +340,57 @@ msgstr "Guêpes"
 #. ID 32
 msgctxt "skills.description"
 msgid "Kill the wasp in the forest and return"
-msgstr "Tuer les guêpes dans la forêt et revenir."
+msgstr "Tue les guêpes dans la forêt et reviens."
 
 #. ID 33
+msgctxt "skills.name"
+msgid "Vitamin"
+msgstr "Vitamine"
+
+#. ID 33
+msgctxt "skills.description"
+msgid "Get your daily dose of vitamin C"
+msgstr "Obtiens ta dose quotidienne de vitamine C."
+
+#. ID 34
+msgctxt "skills.name"
+msgid "Life"
+msgstr "Vie"
+
+#. ID 34
+msgctxt "skills.description"
+msgid "Find the source of the pulse"
+msgstr "Trouve la source de la pulsation."
+
+#. ID 35
+msgctxt "skills.name"
+msgid "Isolated"
+msgstr "Isolé"
+
+#. ID 35
+msgctxt "skills.description"
+msgid "It's just not the same"
+msgstr "Ce n'est juste pas pareil."
+
+#. ID 51
 msgctxt "skills.name"
 msgid "H: Music collector"
 msgstr "C: Fan de musique"
 
-#. ID 33
+#. ID 51
 msgctxt "skills.description"
 msgid "Unlock every music from Music Folders"
-msgstr "Débloquer toutes les musiques des dossiers."
+msgstr "Débloque toutes les musiques des dossiers."
 
-#. ID 34
+#. ID 52
 msgctxt "skills.name"
 msgid "H: >9000"
 msgstr "C: >9000"
 
-#. ID 34
+#. ID 52
 msgctxt "skills.description"
 msgid "Achieve 9001 or more points on any ZapNeF minigame"
-msgstr "Marquer 9001 points ou plus sur un niveau de ZapNeF."
+msgstr "Marque 9001 points ou plus sur un niveau de ZapNeF."
 
 #. ID 1
 msgctxt "items.name"
@@ -880,7 +905,7 @@ msgstr "N'aie pas peur d'être toi-même."
 #. ID 52
 msgctxt "items.name"
 msgid "(Version: Vanilla)"
-msgstr ""
+msgstr "(Version : Vanilla)"
 
 #. ID 52
 msgctxt "items.description"
@@ -890,12 +915,22 @@ msgstr "(C'est la version de base.)"
 #. ID 53
 msgctxt "items.name"
 msgid "(Version: Extended)"
-msgstr ""
+msgstr "(Version : Étendue)"
 
 #. ID 53
 msgctxt "items.description"
 msgid "Extention pack has been applied."
 msgstr "Le pack d'extension a été appliqué."
+
+#. ID 54
+msgctxt "items.name"
+msgid "CHEAT Scooter+Fox"
+msgstr "Trottinette + Renard"
+
+#. ID 54
+msgctxt "items.description"
+msgid "No limits."
+msgstr "Sans limites."
 
 #. ID 1
 msgctxt "states.message_actor"

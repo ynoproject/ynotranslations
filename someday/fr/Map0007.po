@@ -1,21 +1,21 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 4, Page 1, Line 8, Pos (66,77)
 msgid "                       Blob"
-msgstr "                       Blob"
+msgstr ""
 
 #. ID 4, Page 1, Line 11, Pos (66,77)
 msgid "Press 1 to change colour."
 msgstr "Appuyez sur 1 pour changer de couleur."
-
