@@ -26,7 +26,7 @@ msgid ""
 msgstr ""
 "\\$Grape Sodanium - 360 N\n"
 "Liquid Dream - 350 N\n"
-"Spoiled Mentsuyu - 45 N\n"
+"Mentsuyu Périmé - 45 N\n"
 "Ne rien acheter"
 
 #. ID 56, Page 1, Line 16, Pos (17,32)
