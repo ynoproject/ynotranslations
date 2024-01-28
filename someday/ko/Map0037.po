@@ -1,15 +1,19 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 150, Page 1, Line 8, Pos (173,24)
-msgid "                        Fox"
+msgid "\\_                       Fox"
 msgstr "                       여우"
 
 #. ID 150, Page 1, Line 11, Pos (173,24)
@@ -17,4 +21,3 @@ msgid "Interact with ledges to jump over them."
 msgstr ""
 "절벽 바로 아래에서 확인키를 눌러서\n"
 "위로 올라갈 수 있어요."
-

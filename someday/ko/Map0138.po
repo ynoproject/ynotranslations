@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: ko\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 4, Page 1, Line 7, Pos (12,11)
 msgid "                   Healing aura"
@@ -128,20 +124,20 @@ msgstr ""
 "Don't buy anything"
 
 #. ID 26, Page 1, Line 14, Pos (4,4)
-#. ID 26, Page 1, Line 45, Pos (4,4)
-#. ID 26, Page 1, Line 70, Pos (4,4)
+#. ID 26, Page 1, Line 47, Pos (4,4)
+#. ID 26, Page 1, Line 80, Pos (4,4)
 msgid "You won a free drink!"
 msgstr "You won a free drink!"
 
 #. ID 26, Page 1, Line 19, Pos (4,4)
-#. ID 26, Page 1, Line 50, Pos (4,4)
-#. ID 26, Page 1, Line 75, Pos (4,4)
+#. ID 26, Page 1, Line 52, Pos (4,4)
+#. ID 26, Page 1, Line 85, Pos (4,4)
 msgid "\\$"
 msgstr "\\$"
 
-#. ID 26, Page 1, Line 35, Pos (4,4)
-#. ID 26, Page 1, Line 60, Pos (4,4)
-#. ID 26, Page 1, Line 85, Pos (4,4)
+#. ID 26, Page 1, Line 37, Pos (4,4)
+#. ID 26, Page 1, Line 70, Pos (4,4)
+#. ID 26, Page 1, Line 103, Pos (4,4)
 msgid "You don't have enough N!"
 msgstr "You don't have enough N!"
 
@@ -151,6 +147,8 @@ msgid "Lose all effects?"
 msgstr "Lose all effects?"
 
 #. ID 27, Page 1, Line 2, Pos (10,1)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 2, Pos (9,1)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Yes\n"
@@ -235,3 +233,9 @@ msgstr ""
 #. ID 48, Page 1, Line 1, Pos (10,4)
 msgid "Money maximum overdrive!"
 msgstr ""
+
+#. ID 50, Page 1, Line 1, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "Get all effects?"
+msgstr ""
+

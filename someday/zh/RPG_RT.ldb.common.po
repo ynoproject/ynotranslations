@@ -8,9 +8,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans"
 
-#. ID 3, Line 23
+#. ID 3, Line 24
 #. ChangeHeroName (Actor 1)
-#. ID 19, Line 29
+#. ID 19, Line 30
 #. ChangeHeroName (Actor 1)
 #. ID 47, Line 18
 #. ChangeHeroName (Actor 1)
@@ -38,7 +38,7 @@ msgstr "Itsuki"
 msgid "                Menu scheme changed!"
 msgstr "                   菜单样式改变！"
 
-#. ID 60, Line 159
+#. ID 60, Line 190
 msgid ""
 "Congratulations!\n"
 "You completed the entire game at 100%!"
@@ -46,7 +46,7 @@ msgstr ""
 "恭喜！\n"
 "你完成了100%的游戏!"
 
-#. ID 60, Line 161
+#. ID 60, Line 192
 msgid ""
 "But did you know...\n"
 "\\....that interacting with the four-leaf clover\n"
@@ -56,13 +56,187 @@ msgstr ""
 "\\....和森林里的四叶草互动\n"
 "会进入幸运模式？"
 
-#. ID 60, Line 164
+#. ID 60, Line 195
 msgid ""
 "In Lucky Mode, random events appear more often!\n"
 "\\|Ssssh... \\.don't tell anyone..."
 msgstr ""
 "在幸运模式中，随机事件会发生得更频繁！\n"
 "\\|嘘... \\.不要告诉任何人..."
+
+#. ID 62, Line 28
+msgid ""
+"Entry #47\\.\n"
+"August 24, 2008\\.\n"
+"\"I just had the most disgusting feeling today.\n"
+"Mom isn't like this. \\.She's not a bad person.\""
+msgstr ""
+
+#. ID 62, Line 40
+msgid ""
+"\"But neither is Dad. He's just busy...\n"
+"\\....really busy...\n"
+"\\..\\..\\..\\.all the time.\""
+msgstr ""
+
+#. ID 62, Line 52
+msgid ""
+"\"She won't stop crying from time to time. She says\n"
+"she's not needed. But I do need her.\n"
+"\\.But Dad is not a bad person either...\""
+msgstr ""
+
+#. ID 63, Line 28
+msgid ""
+"Entry #7\\.\n"
+"May 10, 2006\\.\n"
+"\"I think I'm better off alone. Why even bother?\""
+msgstr ""
+
+#. ID 63, Line 41
+msgid ""
+"\"If I'm THAT different, I might as well not try to\n"
+"make friends at all.\n"
+"\\.I'm used to being alone.\n"
+"\\.I can live with that.\""
+msgstr ""
+
+#. ID 63, Line 57
+msgid "\\.\\.\"I don't even like birthday parties anyway.\""
+msgstr ""
+
+#. ID 64, Line 29
+msgid ""
+"Entry #43\n"
+"June 11, 2008\n"
+"\"You know how a lot people feel that we're all\n"
+"connected in some way?\""
+msgstr ""
+
+#. ID 64, Line 41
+msgid ""
+"\"I always felt like I'm missing a link.\n"
+"\\.\\.And now I know why. But it's too late.\""
+msgstr ""
+
+#. ID 64, Line 51
+msgid ""
+"\"Still, some part of me knows it wasn't \n"
+"intentional. I believe they really did love me.\n"
+"\\.They really tried to make things better.\""
+msgstr ""
+
+#. ID 64, Line 62
+msgid ""
+"\"I just wish I had the chance to tell them I\n"
+"survived. \\.To tell them I loved them.\n"
+"\\.Even if I don't remember them.\n"
+"\\.Wherever they are...\""
+msgstr ""
+
+#. ID 65, Line 27
+msgid ""
+"Entry #25\\.\n"
+"March 31, 2007\\.\n"
+"\"I saw a fox today.\""
+msgstr ""
+
+#. ID 65, Line 38
+msgid ""
+"\"They say foxes are really shy, but this one kept\n"
+"staring at me. I think it enjoyed my company!\n"
+"\\.\\.It was really cute.\""
+msgstr ""
+
+#. ID 65, Line 49
+msgid ""
+"\"Animals always take it easy, you know?\n"
+"They don't seem to care about the stupid things us\n"
+"humans dedicate so much time to.\n"
+"\\....I wish I took it home.\""
+msgstr ""
+
+#. ID 65, Line 64
+msgid "\"I've named it Miru.\""
+msgstr ""
+
+#. ID 66, Line 31
+msgid ""
+"Entry #3\\.\n"
+"February 7, 2006\\.\n"
+"\"Growing up is really weird. I keep asking myself\n"
+"about these wooden dolls I used to play with.\""
+msgstr ""
+
+#. ID 66, Line 44
+msgid ""
+"\"But Mom says she doesn't know what toys am I\n"
+"talking about.\""
+msgstr ""
+
+#. ID 66, Line 55
+msgid ""
+"\"I'm pretty sure I remember playing with wooden\n"
+"cubes with shapes and colorful letters on them.\n"
+"\\.When I was... \\.\\.Three? \\.\\.Four?\n"
+"\\.\\.I'm not sure.\""
+msgstr ""
+
+#. ID 67, Line 30
+msgid ""
+"Entry #36\n"
+"November 3, 2007\n"
+"\"I think I just found out why Mom doesn't like the\n"
+"sea. \\.She had an accident.\""
+msgstr ""
+
+#. ID 67, Line 45
+msgid ""
+"\"She doesn't want to talk about it...\n"
+"\\....but she has a big scar on her head.\n"
+"\\.I saw it last night, hidden inside her hair.\n"
+"\\.Maybe that's also why she moved to this city?\""
+msgstr ""
+
+#. ID 67, Line 63
+msgid ""
+"\"Her parents' old house is next to a cliff.\n"
+"\\|But we never got to visit it.\""
+msgstr ""
+
+#. ID 68, Line 30
+#. ID 69, Line 30
+msgid ""
+"Entry #49\\.\n"
+"September 19, 2008\\.\n"
+"\"i had an idea.\n"
+"i just drew this perfect girl.\""
+msgstr ""
+
+#. ID 68, Line 41
+#. ID 69, Line 41
+msgid "\"her name is \\C[2]Kondo\\C[0]\""
+msgstr ""
+
+#. ID 68, Line 42
+#. ID 69, Line 42
+msgid ""
+"\"she is pretty and smart and she is not adopted\n"
+"\\.and everybody loves her\n"
+"\\.\\.because she is perfect\""
+msgstr ""
+
+#. ID 68, Line 52
+#. ID 69, Line 52
+msgid ""
+"\"but i hate her because she is who i want to be\n"
+"i feel terrible haha\""
+msgstr ""
+
+#. ID 68, Line 120
+#. ID 69, Line 120
+msgid "\"if i was \\C[2]Kondo\\C[0] everything would be over.\""
+msgstr ""
 
 #. ID 171, Line 14
 #. ID 171, Line 32
@@ -139,5 +313,15 @@ msgstr ""
 msgid ""
 "All Schemes has been revoked. \n"
 "Most progressions has been initialized."
+msgstr ""
+
+#. ID 191, Line 458
+msgid "                   \\_Scooter+Fox"
+msgstr ""
+
+#. ID 191, Line 461
+msgid ""
+"You have unlocked this special effect mix!\n"
+"Use with caution!"
 msgstr ""
 

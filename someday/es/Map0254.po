@@ -16,6 +16,10 @@ msgstr ""
 #. ID 28, Page 1, Line 15, Pos (7,7)
 #. ID 29, Page 1, Line 15, Pos (11,7)
 #. ID 30, Page 1, Line 15, Pos (15,7)
+#. ID 31, Page 1, Line 15, Pos (7,11)
+#. ID 32, Page 1, Line 15, Pos (11,11)
+#. ID 33, Page 1, Line 15, Pos (15,11)
+#. ID 34, Page 1, Line 15, Pos (3,11)
 msgid "                Menu scheme changed!"
 msgstr "              Tipo de menu cambiado!"
 

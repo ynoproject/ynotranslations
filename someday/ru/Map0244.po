@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday Evergreen\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
-"Language-Team: Fonvight\n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 2, Page 2, Line 7, Pos (6,27)
-msgid "                      Scooter"
+msgid "\\_                     Scooter"
 msgstr "                      Скутер"
 
 #. ID 3, Page 2, Line 7, Pos (7,25)
@@ -29,7 +29,7 @@ msgid "                      Glitch"
 msgstr "                      Глитч"
 
 #. ID 6, Page 2, Line 7, Pos (12,27)
-msgid "                      8-bit"
+msgid "\\_                      8-bit"
 msgstr "                      8-Бит"
 
 #. ID 7, Page 2, Line 7, Pos (11,29)
@@ -45,7 +45,7 @@ msgid "                       Bald"
 msgstr "                      Лысый"
 
 #. ID 10, Page 2, Line 7, Pos (9,22)
-msgid "                    Megaphone"
+msgid "\\_                    Megaphone"
 msgstr "                     Динамик"
 
 #. ID 11, Page 2, Line 7, Pos (11,22)
@@ -61,11 +61,11 @@ msgid "                     Raincoat"
 msgstr "                     Дождевик"
 
 #. ID 14, Page 2, Line 7, Pos (14,27)
-msgid "                       Scarf"
+msgid "\\_                      Scarf"
 msgstr "                       Шарф"
 
 #. ID 15, Page 2, Line 7, Pos (14,29)
-msgid "                      Classic"
+msgid "\\_                     Classic"
 msgstr "                     Классика"
 
 #. ID 16, Page 2, Line 7, Pos (13,31)
@@ -73,23 +73,23 @@ msgid "                        TV"
 msgstr "                    Телевизор"
 
 #. ID 17, Page 2, Line 7, Pos (11,32)
-msgid "                        Fox"
+msgid "\\_                       Fox"
 msgstr "                        Лис"
 
 #. ID 18, Page 2, Line 7, Pos (9,32)
-msgid "                   Candle holder"
+msgid "\\_                  Candle holder"
 msgstr "                    Подсвечник"
 
 #. ID 19, Page 2, Line 7, Pos (7,32)
-msgid "                    Clockworker"
+msgid "\\_                   Clockworker"
 msgstr "                     Часовщик"
 
 #. ID 20, Page 2, Line 7, Pos (5,31)
-msgid "                    Diving suit"
+msgid "\\_                   Diving suit"
 msgstr "                 Купальный Костюм"
 
 #. ID 21, Page 2, Line 7, Pos (4,29)
-msgid "                      Mercury"
+msgid "\\_                     Mercury"
 msgstr "                       Ртуть"
 
 #. ID 22, Page 2, Line 7, Pos (4,27)

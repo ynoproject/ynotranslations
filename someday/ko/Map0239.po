@@ -1,62 +1,88 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#. ID 41, Page 1, Line 7, Pos (9,8)
+#. ID 41, Page 1, Line 8, Pos (9,8)
 #. Choice (4 options)
 msgid ""
-"Aquorius - 280 N\n"
+"\\$Aquorius - 280 N\n"
 "Pawarade - 280 N\n"
 "7 Moop - 300 N\n"
 "More"
 msgstr ""
-"미네랄 꿀꺽 - 280 N\n"
+"\\$미네랄 꿀꺽 - 280 N\n"
 "퍼와에이드 - 280 N\n"
 "7별사이다 - 300 N\n"
 "(다음)"
 
-#. ID 41, Page 1, Line 14, Pos (9,8)
-#. ID 41, Page 1, Line 75, Pos (9,8)
-#. ID 41, Page 1, Line 112, Pos (9,8)
-#. ID 41, Page 1, Line 147, Pos (9,8)
-#. ID 41, Page 1, Line 182, Pos (9,8)
+#. ID 41, Page 1, Line 22, Pos (9,8)
+#. ID 41, Page 1, Line 91, Pos (9,8)
+#. ID 41, Page 1, Line 136, Pos (9,8)
+#. ID 41, Page 1, Line 179, Pos (9,8)
+#. ID 41, Page 1, Line 222, Pos (9,8)
+#. ID 41, Page 1, Line 267, Pos (9,8)
+#. ID 41, Page 1, Line 310, Pos (9,8)
+#. ID 41, Page 1, Line 353, Pos (9,8)
 msgid "You won a free drink!"
 msgstr "공짜 음료수에 당첨되셨습니다!"
 
-#. ID 41, Page 1, Line 20, Pos (9,8)
-#. ID 41, Page 1, Line 48, Pos (9,8)
-#. ID 41, Page 1, Line 81, Pos (9,8)
-#. ID 41, Page 1, Line 118, Pos (9,8)
-#. ID 41, Page 1, Line 153, Pos (9,8)
-#. ID 41, Page 1, Line 188, Pos (9,8)
+#. ID 41, Page 1, Line 28, Pos (9,8)
+#. ID 41, Page 1, Line 57, Pos (9,8)
+#. ID 41, Page 1, Line 97, Pos (9,8)
+#. ID 41, Page 1, Line 142, Pos (9,8)
+#. ID 41, Page 1, Line 185, Pos (9,8)
+#. ID 41, Page 1, Line 228, Pos (9,8)
+#. ID 41, Page 1, Line 273, Pos (9,8)
+#. ID 41, Page 1, Line 316, Pos (9,8)
+#. ID 41, Page 1, Line 359, Pos (9,8)
 msgid "\\$"
 msgstr "\\$"
 
-#. ID 41, Page 1, Line 39, Pos (9,8)
-#. ID 41, Page 1, Line 65, Pos (9,8)
-#. ID 41, Page 1, Line 100, Pos (9,8)
-#. ID 41, Page 1, Line 137, Pos (9,8)
-#. ID 41, Page 1, Line 172, Pos (9,8)
-#. ID 41, Page 1, Line 207, Pos (9,8)
+#. ID 41, Page 1, Line 48, Pos (9,8)
+#. ID 41, Page 1, Line 74, Pos (9,8)
+#. ID 41, Page 1, Line 117, Pos (9,8)
+#. ID 41, Page 1, Line 162, Pos (9,8)
+#. ID 41, Page 1, Line 205, Pos (9,8)
+#. ID 41, Page 1, Line 248, Pos (9,8)
+#. ID 41, Page 1, Line 293, Pos (9,8)
+#. ID 41, Page 1, Line 336, Pos (9,8)
+#. ID 41, Page 1, Line 379, Pos (9,8)
 msgid "You don't have enough N!"
 msgstr "N이 부족해요!"
 
-#. ID 41, Page 1, Line 105, Pos (9,8)
+#. ID 41, Page 1, Line 122, Pos (9,8)
 #. Choice (4 options)
 msgid ""
-"Gnostea - 290 N\n"
+"\\$Gnostea - 290 N\n"
 "FRUIX - 220 N\n"
 "Peachy Dairy - 175 N\n"
-"Don't buy anything"
+"More"
 msgstr ""
-"녹시스차 - 290 N\n"
+"\\$녹시스차 - 290 N\n"
 "플럭스 - 220 N\n"
 "복숭아같은 일기처럼 - 175 N\n"
-"아무것도 사지 않는다"
+"(다음)"
 
+#. ID 41, Page 1, Line 253, Pos (9,8)
+#. Choice (4 options)
+#, fuzzy
+msgid ""
+"\\$Sakkubo - 240 N\n"
+"Yetotsu - 210 N\n"
+"The Looking Kvass - 220 N\n"
+"Don't buy anything"
+msgstr ""
+"\\$Sakkubo - 240 N\n"
+"Yetotsu - 210 N\n"
+"The Looking Kvass - 220 N\n"
+"아무것도 사지 않는다"

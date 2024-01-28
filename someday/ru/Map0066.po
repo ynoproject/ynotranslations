@@ -1,48 +1,49 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday Evergeen\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
-"Language-Team: Fonvight\n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 55, Page 1, Line 8, Pos (15,10)
-msgid "                    Diving suit"
+msgid "\\_                   Diving suit"
 msgstr "                 Купальный Костюм"
 
-#. ID 61, Page 2, Line 10, Pos (5,10)
+#. ID 61, Page 2, Line 11, Pos (5,10)
 #. Choice (4 options)
+#, fuzzy
 msgid ""
-"FRUIX - 220 N\n"
-"The Other Lime - 220 N\n"
-"7 Moop - 300 N\n"
+"\\$FRUIX - 220 N\n"
+"Aquorius - 230 N\n"
+"Fluorade - 250 N\n"
 "Don't buy anything"
 msgstr ""
-"ФРУКС - 220 Н\n"
-"Ино-Лайм - 220 Н\n"
-"7 Муп - 300 Н\n"
+"\\$ФРУКС - 220 Н\n"
+"Водолейчка - 230 Н\n"
+"Fluorade - 250 Н\n"
 "Не покупать ничего"
 
-#. ID 61, Page 2, Line 17, Pos (5,10)
-#. ID 61, Page 2, Line 52, Pos (5,10)
-#. ID 61, Page 2, Line 87, Pos (5,10)
+#. ID 61, Page 2, Line 19, Pos (5,10)
+#. ID 61, Page 2, Line 56, Pos (5,10)
+#. ID 61, Page 2, Line 93, Pos (5,10)
 msgid "You won a free drink!"
 msgstr "Вы выйграли бесплатный напиток!"
 
-#. ID 61, Page 2, Line 23, Pos (5,10)
-#. ID 61, Page 2, Line 58, Pos (5,10)
-#. ID 61, Page 2, Line 93, Pos (5,10)
+#. ID 61, Page 2, Line 25, Pos (5,10)
+#. ID 61, Page 2, Line 62, Pos (5,10)
+#. ID 61, Page 2, Line 99, Pos (5,10)
 msgid "\\$"
 msgstr "\\$"
 
-#. ID 61, Page 2, Line 42, Pos (5,10)
-#. ID 61, Page 2, Line 77, Pos (5,10)
-#. ID 61, Page 2, Line 112, Pos (5,10)
+#. ID 61, Page 2, Line 45, Pos (5,10)
+#. ID 61, Page 2, Line 82, Pos (5,10)
+#. ID 61, Page 2, Line 119, Pos (5,10)
 msgid "You don't have enough N!"
 msgstr "Недостаточно Н."
