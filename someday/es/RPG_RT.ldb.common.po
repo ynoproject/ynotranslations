@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#. ID 3, Line 23
+#. ID 3, Line 24
 #. ChangeHeroName (Actor 1)
-#. ID 19, Line 29
+#. ID 19, Line 30
 #. ChangeHeroName (Actor 1)
 #. ID 47, Line 18
 #. ChangeHeroName (Actor 1)
@@ -42,7 +42,7 @@ msgstr "Itsuki"
 msgid "                Menu scheme changed!"
 msgstr "              Tipo de menu cambiado!"
 
-#. ID 60, Line 159
+#. ID 60, Line 190
 msgid ""
 "Congratulations!\n"
 "You completed the entire game at 100%!"
@@ -50,7 +50,7 @@ msgstr ""
 "Felicidades!\n"
 "Has completado el juego entero al 100%!"
 
-#. ID 60, Line 161
+#. ID 60, Line 192
 msgid ""
 "But did you know...\n"
 "\\....that interacting with the four-leaf clover\n"
@@ -60,7 +60,7 @@ msgstr ""
 "\\....si interactuas con el trebol de cuatro hojas\n"
 "en el bosque activas el Modo Afortunado?"
 
-#. ID 60, Line 164
+#. ID 60, Line 195
 msgid ""
 "In Lucky Mode, random events appear more often!\n"
 "\\|Ssssh... \\.don't tell anyone..."
@@ -68,6 +68,253 @@ msgstr ""
 "En el Modo Afortunado, los eventos aleatorios\n"
 "aparecen con mayor frecuencia!\n"
 "\\|Ssssh... \\.no se lo cuentes a nadie..."
+
+#. ID 62, Line 28
+msgid ""
+"Entry #47\\.\n"
+"August 24, 2008\\.\n"
+"\"I just had the most disgusting feeling today.\n"
+"Mom isn't like this. \\.She's not a bad person.\""
+msgstr ""
+"Entrada #47\\.\n"
+"24 de agosto, 2008\\.\n"
+"\"He tenido la peor sensacion hoy.\n"
+"Mama no es asi. \\.No es una mala persona.\""
+
+#. ID 62, Line 40
+msgid ""
+"\"But neither is Dad. He's just busy...\n"
+"\\....really busy...\n"
+"\\..\\..\\..\\.all the time.\""
+msgstr ""
+"\"Pero mi padre tampoco. Solo esta ocupado...\n"
+"\\....muy ocupado...\n"
+"\\..\\..\\..\\.todo el tiempo.\""
+
+#. ID 62, Line 52
+msgid ""
+"\"She won't stop crying from time to time. She says\n"
+"she's not needed. But I do need her.\n"
+"\\.But Dad is not a bad person either...\""
+msgstr ""
+"\"No para de llorar de vez en cuando. Dice que\n"
+"nadie la necesita. Pero yo la necesito.\n"
+"\\.Pero papa tampoco es una mala persona...\""
+
+#. ID 63, Line 28
+msgid ""
+"Entry #7\\.\n"
+"May 10, 2006\\.\n"
+"\"I think I'm better off alone. Why even bother?\""
+msgstr ""
+"Entrada #7\\.\n"
+"10 de mayo, 2006\\.\n"
+"\"Creo que estoy mejor solo. Por que molestarme?\""
+
+#. ID 63, Line 41
+msgid ""
+"\"If I'm THAT different, I might as well not try to\n"
+"make friends at all.\n"
+"\\.I'm used to being alone.\n"
+"\\.I can live with that.\""
+msgstr ""
+"\"Si soy TAN diferente, mejor no intentar hacer\n"
+"amigos en absoluto.\n"
+"\\.Estoy acostumbrado a estar solo.\n"
+"\\.Puedo vivir con ello.\""
+
+#. ID 63, Line 57
+msgid "\\.\\.\"I don't even like birthday parties anyway.\""
+msgstr ""
+"\\.\\.\"Ni siquiera me gusta celebrar el hacerme mas\n"
+"mayor.\""
+
+#. ID 64, Line 29
+msgid ""
+"Entry #43\n"
+"June 11, 2008\n"
+"\"You know how a lot people feel that we're all\n"
+"connected in some way?\""
+msgstr ""
+"Entrada #43\n"
+"11 de junio, 2008\n"
+"\"Sabes como un monton de gente siente que todos\n"
+"estamos conectados de alguna forma?\""
+
+#. ID 64, Line 41
+msgid ""
+"\"I always felt like I'm missing a link.\n"
+"\\.\\.And now I know why. But it's too late.\""
+msgstr ""
+"\"Siempre senti que me faltaba una conexion.\n"
+"\\.\\.Y ahora se por que. Pero es demasiado tarde.\""
+
+#. ID 64, Line 51
+msgid ""
+"\"Still, some part of me knows it wasn't \n"
+"intentional. I believe they really did love me.\n"
+"\\.They really tried to make things better.\""
+msgstr ""
+"\"Aun asi, parte de mi sabe que no fue aposta.\n"
+"Creo que realmente me querian.\n"
+"\\.Realmente querian arreglar las cosas.\""
+
+#. ID 64, Line 62
+msgid ""
+"\"I just wish I had the chance to tell them I\n"
+"survived. \\.To tell them I loved them.\n"
+"\\.Even if I don't remember them.\n"
+"\\.Wherever they are...\""
+msgstr ""
+"\"Tan solo desearia haber tenido la oportunidad de\n"
+"decirles que sobrevivi. \\.Que yo les queria.\n"
+"\\.Incluso si no los recuerdo.\n"
+"\\.Dondequiera que esten...\""
+
+#. ID 65, Line 27
+msgid ""
+"Entry #25\\.\n"
+"March 31, 2007\\.\n"
+"\"I saw a fox today.\""
+msgstr ""
+"Entrada #25\\.\n"
+"31 de marzo, 2007\\.\n"
+"\"He visto un zorro hoy.\""
+
+#. ID 65, Line 38
+msgid ""
+"\"They say foxes are really shy, but this one kept\n"
+"staring at me. I think it enjoyed my company!\n"
+"\\.\\.It was really cute.\""
+msgstr ""
+"\"Dicen que los zorros son muy timidos, pero este\n"
+"no paraba de mirarme. Creo que le gustaba estar\n"
+"conmigo!\n"
+"\\.\\.Era muy bonito.\""
+
+#. ID 65, Line 49
+msgid ""
+"\"Animals always take it easy, you know?\n"
+"They don't seem to care about the stupid things us\n"
+"humans dedicate so much time to.\n"
+"\\....I wish I took it home.\""
+msgstr ""
+"\"Los animales siempre se lo toman con calma,\n"
+"sabes? No parece que les importen las tonterias a\n"
+"las que los humanos dedicamos tanto tiempo.\n"
+"\\....Ojala me lo hubiese traido a casa.\""
+
+#. ID 65, Line 64
+msgid "\"I've named it Miru.\""
+msgstr "\"Lo he llamado Miru.\""
+
+#. ID 66, Line 31
+msgid ""
+"Entry #3\\.\n"
+"February 7, 2006\\.\n"
+"\"Growing up is really weird. I keep asking myself\n"
+"about these wooden dolls I used to play with.\""
+msgstr ""
+"Entrada #3\\.\n"
+"7 de febrero, 2006\\.\n"
+"\"Crecer es muy raro. Sigo preguntandome acerca de\n"
+"estos juguetes de madera con los que solia jugar.\""
+
+#. ID 66, Line 44
+msgid ""
+"\"But Mom says she doesn't know what toys am I\n"
+"talking about.\""
+msgstr ""
+"\"Pero mama dice que no sabe de que juguetes estoy\n"
+"hablando.\""
+
+#. ID 66, Line 55
+msgid ""
+"\"I'm pretty sure I remember playing with wooden\n"
+"cubes with shapes and colorful letters on them.\n"
+"\\.When I was... \\.\\.Three? \\.\\.Four?\n"
+"\\.\\.I'm not sure.\""
+msgstr ""
+"\"Juraria que recuerdo haber jugado con cubos de\n"
+"madera con formas y letras de colores.\n"
+"\\.Cuando tenia... \\.\\.Tres? \\.\\.Cuatro?\n"
+"\\.\\.No lo se.\""
+
+#. ID 67, Line 30
+msgid ""
+"Entry #36\n"
+"November 3, 2007\n"
+"\"I think I just found out why Mom doesn't like the\n"
+"sea. \\.She had an accident.\""
+msgstr ""
+"Entrada #36\n"
+"3 de noviembre, 2007\n"
+"\"Creo que acabo de descubrir por que a mi madre no\n"
+"le gusta el mar. \\.Tuvo un accidente.\""
+
+#. ID 67, Line 45
+msgid ""
+"\"She doesn't want to talk about it...\n"
+"\\....but she has a big scar on her head.\n"
+"\\.I saw it last night, hidden inside her hair.\n"
+"\\.Maybe that's also why she moved to this city?\""
+msgstr ""
+"\"Ella no quiere hablar de ello...\n"
+"\\....pero tiene una gran cicatriz en su cabeza.\n"
+"\\.La vi anoche, escondida en su pelo.\n"
+"\\.Tal vez por eso se mudo a esta ciudad?\""
+
+#. ID 67, Line 63
+msgid ""
+"\"Her parents' old house is next to a cliff.\n"
+"\\|But we never got to visit it.\""
+msgstr ""
+"\"La vieja casa de sus padres esta al lado de un\n"
+"acantilado.\n"
+"\\|Pero nunca llegamos a visitarlo.\""
+
+#. ID 68, Line 30
+#. ID 69, Line 30
+msgid ""
+"Entry #49\\.\n"
+"September 19, 2008\\.\n"
+"\"i had an idea.\n"
+"i just drew this perfect girl.\""
+msgstr ""
+"Entrada #49\\.\n"
+"19 de septiembre, 2008\\.\n"
+"\"he tenido una idea.\n"
+"acabo de dibujar esta chica perfecta.\""
+
+#. ID 68, Line 41
+#. ID 69, Line 41
+msgid "\"her name is \\C[2]Kondo\\C[0]\""
+msgstr "\"su nombre es \\C[2]Kondo\\C[0]\""
+
+#. ID 68, Line 42
+#. ID 69, Line 42
+msgid ""
+"\"she is pretty and smart and she is not adopted\n"
+"\\.and everybody loves her\n"
+"\\.\\.because she is perfect\""
+msgstr ""
+"\"ella es guapa y lista y no es adoptada\n"
+"\\.y todos la quieren\n"
+"\\.\\.porque es perfecta\""
+
+#. ID 68, Line 52
+#. ID 69, Line 52
+msgid ""
+"\"but i hate her because she is who i want to be\n"
+"i feel terrible haha\""
+msgstr ""
+"\"pero yo la odio porque es quien yo quiero ser\n"
+"me siento fatal jaja\""
+
+#. ID 68, Line 120
+#. ID 69, Line 120
+msgid "\"if i was \\C[2]Kondo\\C[0] everything would be over.\""
+msgstr "\"si yo fuera \\C[2]Kondo\\C[0] todo se acabaria.\""
 
 #. ID 171, Line 14
 #. ID 171, Line 32
@@ -158,3 +405,13 @@ msgid ""
 msgstr ""
 "Bloqueados todos los menus.\n"
 "La mayor parte del progreso se ha reiniciado."
+
+#. ID 191, Line 458
+msgid "                   \\_Scooter+Fox"
+msgstr ""
+
+#. ID 191, Line 461
+msgid ""
+"You have unlocked this special effect mix!\n"
+"Use with caution!"
+msgstr ""
