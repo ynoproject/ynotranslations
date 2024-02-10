@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Answered Prayers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Niko\n"
+"Language-Team: Niko\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 2, Page 1, Line 1, Pos (11,8)
+#. Contains choice at line 2 (2 options)
+msgid "Reflect on this memory?"
+msgstr "¿Reflejar esta memoria?"
+
+#. ID 2, Page 1, Line 2, Pos (11,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Sí\n"
+"No"
