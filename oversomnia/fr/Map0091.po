@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 55, Page 3, Line 6, Pos (23,9)
+msgid ""
+"\n"
+"                      Deer"
+msgstr ""
+"\n"
+"                       Cerf"
+
+#. ID 55, Page 3, Line 8, Pos (23,9)
+msgid ""
+"\n"
+"Become able to jump over some small gaps."
+msgstr ""
+"\n"
+"Deviens apte de sauter par dessus certains trous."
+
