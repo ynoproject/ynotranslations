@@ -9736,7 +9736,7 @@ msgstr "Motocicleta"
 #. ID 53
 msgctxt "items.description"
 msgid "「バイク」にのる"
-msgstr "Monte na Motocicleta"
+msgstr "Monte na Motocicleta."
 
 #. ID 13
 msgctxt "items.name"
@@ -9747,7 +9747,7 @@ msgstr "Menino"
 #. ID 54
 msgctxt "items.description"
 msgid "「おとこのこ」になる"
-msgstr "So torne um menino"
+msgstr "So torne um menino."
 
 #. ID 14
 msgctxt "items.name"
@@ -9758,7 +9758,7 @@ msgstr "Motosserra"
 #. ID 55
 msgctxt "items.description"
 msgid "「チェーンソー」をもつ"
-msgstr "Maneje sua motosserra"
+msgstr "Maneje sua motosserra."
 
 #. ID 15
 msgctxt "items.name"
@@ -9769,7 +9769,7 @@ msgstr "Lamparina"
 #. ID 56
 msgctxt "items.description"
 msgid "「カンテラ」をもつ"
-msgstr "Use sua lamparina"
+msgstr "Use sua lamparina."
 
 #. ID 16
 msgctxt "items.name"
@@ -9780,7 +9780,7 @@ msgstr "Fada"
 #. ID 57
 msgctxt "items.description"
 msgid "「ようせい」になる"
-msgstr "Se torne uma fada"
+msgstr "Se torne uma fada."
 
 #. ID 17
 msgctxt "items.name"
@@ -9791,7 +9791,7 @@ msgstr "Traje Espacial"
 #. ID 58
 msgctxt "items.description"
 msgid "「うちゅうふく」をきる"
-msgstr "Vista seu traje espacial"
+msgstr "Vista seu traje espacial."
 
 #. ID 18
 msgctxt "items.name"
@@ -9802,18 +9802,18 @@ msgstr "Óculos"
 #. ID 59
 msgctxt "items.description"
 msgid "「めがね」をかける"
-msgstr "Ponha seu óculos"
+msgstr "Ponha seu óculos."
 
 #. ID 19
 msgctxt "items.name"
 msgid "にじ"
-msgstr "Arco-Íres"
+msgstr "Arco-Íris"
 
 #. ID 19
 #. ID 60
 msgctxt "items.description"
 msgid "「にじ」になる"
-msgstr "Se torne um arco-íres"
+msgstr "Se torne um Arco-Íris."
 
 #. ID 20
 msgctxt "items.name"
@@ -9824,7 +9824,7 @@ msgstr "Lobo"
 #. ID 61
 msgctxt "items.description"
 msgid "「おおかみ」の みみとしっぽがつく"
-msgstr "Se torne um lobo (AUUUU!!)"
+msgstr "Se torne um Lobo. (AUUUU!!)"
 
 #. ID 21
 msgctxt "items.name"
@@ -9835,7 +9835,7 @@ msgstr "Bomba Ocular"
 #. ID 62
 msgctxt "items.description"
 msgid "「めだまばくだん」になる"
-msgstr "Sua cabeça se torna uma bomba ocular"
+msgstr "Sua cabeça se torna uma Bomba Ocular."
 
 #. ID 22
 msgctxt "items.name"
@@ -9846,7 +9846,7 @@ msgstr "Telefone"
 #. ID 63
 msgctxt "items.description"
 msgid "「くろでんわ」になる"
-msgstr "Se torne um telefone"
+msgstr "Se torne um Telefone."
 
 #. ID 23
 msgctxt "items.name"
@@ -9857,18 +9857,18 @@ msgstr "Maiko"
 #. ID 64
 msgctxt "items.description"
 msgid "「まいこさん」になる"
-msgstr "Se torne uma maiko"
+msgstr "Se torne uma Maiko."
 
 #. ID 24
 msgctxt "items.name"
 msgid "ツインテール"
-msgstr "Calda Dupla"
+msgstr "Maria Chiquinha"
 
 #. ID 24
 #. ID 65
 msgctxt "items.description"
 msgid "「ツインテール」のかみがたになる"
-msgstr "Tenha cauda dupla"
+msgstr "Faça uma Maria Chiquinha no cabelo."
 
 #. ID 25
 msgctxt "items.name"
@@ -9879,7 +9879,7 @@ msgstr "Pinguim"
 #. ID 66
 msgctxt "items.description"
 msgid "「ぺんぎん」になりきる"
-msgstr "Vista uma fantasia de pinguim"
+msgstr "Vista uma fantasia de Pinguim."
 
 #. ID 26
 msgctxt "items.name"
@@ -9901,7 +9901,7 @@ msgstr "Molas"
 #. ID 68
 msgctxt "items.description"
 msgid "あしが「バネ」になる"
-msgstr "Tenha molas nas pernas"
+msgstr "Tenha Molas nas pernas."
 
 #. ID 28
 msgctxt "items.name"
@@ -9912,7 +9912,7 @@ msgstr "Invisível"
 #. ID 69
 msgctxt "items.description"
 msgid "「とうめい」になる"
-msgstr "Se torne invisível"
+msgstr "Se torne Invisível."
 
 #. ID 29
 msgctxt "items.name"
@@ -9923,7 +9923,7 @@ msgstr "Gakuran"
 #. ID 70
 msgctxt "items.description"
 msgid "「がくラン」をきて マントをはおる"
-msgstr "Seja um Gakuran"
+msgstr "Seja um Gakuran."
 
 #. ID 30
 msgctxt "items.name"
@@ -9934,7 +9934,7 @@ msgstr "Gesso"
 #. ID 71
 msgctxt "items.description"
 msgid "「ギプス」をつける"
-msgstr "Tenha um gesso no braço"
+msgstr "Tenha um Gesso no braço."
 
 #. ID 31
 msgctxt "items.name"
@@ -9945,7 +9945,7 @@ msgstr "Esticado"
 #. ID 72
 msgctxt "items.description"
 msgid "「せのび」する"
-msgstr "Seja esticada"
+msgstr "Seja Esticado."
 
 #. ID 32
 msgctxt "items.name"
@@ -9956,7 +9956,7 @@ msgstr "Haniwa"
 #. ID 73
 msgctxt "items.description"
 msgid "「はにわ」になる"
-msgstr "Seja um Haniwa"
+msgstr "Seja um Haniwa."
 
 #. ID 33
 msgctxt "items.name"
@@ -9967,7 +9967,7 @@ msgstr "Trombone"
 #. ID 74
 msgctxt "items.description"
 msgid "「トロンボーン」をもつ"
-msgstr "Toque o trompete"
+msgstr "Toque o Trompete."
 
 #. ID 34
 msgctxt "items.name"
@@ -9978,7 +9978,7 @@ msgstr "Bolo"
 #. ID 75
 msgctxt "items.description"
 msgid "「ケーキ」をあたまにのせる"
-msgstr "Tenho um bolo sobre sua cabeça"
+msgstr "Tenho um Bolo sobre sua cabeça."
 
 #. ID 35
 msgctxt "items.name"
@@ -9989,7 +9989,7 @@ msgstr "Criança"
 #. ID 76
 msgctxt "items.description"
 msgid "「こども」になる"
-msgstr "Volte a ser criança"
+msgstr "Volte a ser criança."
 
 #. ID 36
 msgctxt "items.name"
@@ -10000,18 +10000,18 @@ msgstr "Capuz Vermelho"
 #. ID 77
 msgctxt "items.description"
 msgid "「あかずきん」をかぶる"
-msgstr "Vista seu capus vermelho"
+msgstr "Vista seu Capus Vermelho."
 
 #. ID 37
 msgctxt "items.name"
 msgid "ティッシュ"
-msgstr "Pano"
+msgstr "Lenço"
 
 #. ID 37
 #. ID 78
 msgctxt "items.description"
 msgid "「ティッシュ」のケースになる"
-msgstr "Se torne uma caixinha de pano"
+msgstr "Se torne uma caixinha de Lenço."
 
 #. ID 38
 msgctxt "items.name"
@@ -10022,7 +10022,7 @@ msgstr "Morcego"
 #. ID 79
 msgctxt "items.description"
 msgid "「コウモリ」のはねをつける"
-msgstr "Tenha asas de morcego"
+msgstr "Tenha asas de Morcego."
 
 #. ID 39
 msgctxt "items.name"
@@ -10033,7 +10033,7 @@ msgstr "Polígono"
 #. ID 80
 msgctxt "items.description"
 msgid "「ポリゴン」っぽくなる"
-msgstr "Se torne um polígono"
+msgstr "Se torne um Polígono."
 
 #. ID 40
 msgctxt "items.name"
@@ -10044,7 +10044,7 @@ msgstr "Boneca de Papel"
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Se torne uma boneca de papel"
+msgstr "Se torne uma Boneca de Papel."
 
 #. ID 41
 msgctxt "items.name"
@@ -10055,7 +10055,7 @@ msgstr "Marginal"
 #. ID 82
 msgctxt "items.description"
 msgid "「マージナルビビッドワーカー」になる"
-msgstr "Se torne um marginal"
+msgstr "Se torne um Marginal."
 
 #. ID 42
 msgctxt "items.name"
@@ -10066,18 +10066,18 @@ msgstr "Tambor"
 #. ID 83
 msgctxt "items.description"
 msgid "からだが「ドラムかん」になる"
-msgstr "Se torne um tambor"
+msgstr "Se torne um Tambor."
 
 #. ID 43
 msgctxt "items.name"
 msgid "おはか"
-msgstr "Cova"
+msgstr "Lápide"
 
 #. ID 43
 #. ID 84
 msgctxt "items.description"
 msgid "「おはか」になる"
-msgstr "Se torne uma cova"
+msgstr "Se torne uma Lápide."
 
 #. ID 44
 msgctxt "items.name"
@@ -10088,7 +10088,7 @@ msgstr "Cruzamento"
 #. ID 85
 msgctxt "items.description"
 msgid "「ふみきり」になる"
-msgstr "Se torne um cruzamento ferroviário"
+msgstr "Se torne um Cruzamento Ferroviário."
 
 #. ID 45
 msgctxt "items.name"
@@ -10099,7 +10099,7 @@ msgstr "Orelhas de Coelho"
 #. ID 86
 msgctxt "items.description"
 msgid "「うさみみ」をつける"
-msgstr "Tenha um arco de orelhas de coelho"
+msgstr "Use um arco de Orelhas de Coelho."
 
 #. ID 46
 msgctxt "items.name"
@@ -10110,7 +10110,7 @@ msgstr "Dado"
 #. ID 87
 msgctxt "items.description"
 msgid "「サイコロ」になる"
-msgstr "Se torne um dado"
+msgstr "Se torne um Dado."
 
 #. ID 47
 msgctxt "items.name"
@@ -10181,7 +10181,7 @@ msgstr " Óculos"
 #. ID 60
 msgctxt "items.name"
 msgid " にじ"
-msgstr " Arco-Íres"
+msgstr " Arco-Íris"
 
 #. ID 61
 msgctxt "items.name"
@@ -10206,7 +10206,7 @@ msgstr " Maiko"
 #. ID 65
 msgctxt "items.name"
 msgid " ツインテール"
-msgstr " Calda Dupla"
+msgstr "Maria Chiquinha"
 
 #. ID 66
 msgctxt "items.name"
@@ -10271,7 +10271,7 @@ msgstr " Capuz Vermelho"
 #. ID 78
 msgctxt "items.name"
 msgid " ティッシュ"
-msgstr " Pano"
+msgstr "Lenço"
 
 #. ID 79
 msgctxt "items.name"
@@ -10301,7 +10301,7 @@ msgstr " Tambor"
 #. ID 84
 msgctxt "items.name"
 msgid " おはか"
-msgstr " Cova"
+msgstr "Lápide"
 
 #. ID 85
 msgctxt "items.name"

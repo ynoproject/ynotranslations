@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -31,11 +31,6 @@ msgstr "立ち上がる"
 msgctxt "skills.description"
 msgid "Defeat your bullies"
 msgstr "いじめっ子を倒す。"
-
-#. ID 1
-msgctxt "skills.using_message1"
-msgid "‚ÌUŒ‚I"
-msgstr "の攻撃！"
 
 #. ID 2
 msgctxt "skills.name"
@@ -349,20 +344,50 @@ msgstr "森のススメバチを殺し戻る。"
 
 #. ID 33
 msgctxt "skills.name"
-msgid "H: Music collector"
+msgid "Vitamin"
 msgstr ""
 
 #. ID 33
 msgctxt "skills.description"
-msgid "Unlock every music from Music Folders"
+msgid "Get your daily dose of vitamin C"
 msgstr ""
 
 #. ID 34
 msgctxt "skills.name"
-msgid "H: >9000"
+msgid "Life"
 msgstr ""
 
 #. ID 34
+msgctxt "skills.description"
+msgid "Find the source of the pulse"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.name"
+msgid "Isolated"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.description"
+msgid "It's just not the same"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
+msgid "H: Music collector"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.description"
+msgid "Unlock every music from Music Folders"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.name"
+msgid "H: >9000"
+msgstr ""
+
+#. ID 52
 msgctxt "skills.description"
 msgid "Achieve 9001 or more points on any ZapNeF minigame"
 msgstr ""
@@ -895,6 +920,16 @@ msgstr ""
 #. ID 53
 msgctxt "items.description"
 msgid "Extention pack has been applied."
+msgstr ""
+
+#. ID 54
+msgctxt "items.name"
+msgid "CHEAT Scooter+Fox"
+msgstr ""
+
+#. ID 54
+msgctxt "items.description"
+msgid "No limits."
 msgstr ""
 
 #. ID 1

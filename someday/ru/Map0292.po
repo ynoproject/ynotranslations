@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 9, Page 1, Line 8, Pos (2,6)
+msgid "               \\.ZApNeF OST: Classic"
+msgstr ""
+
+#. ID 9, Page 1, Line 16, Pos (2,6)
+msgid "                \\.ZApNeF OST: Remix"
+msgstr ""
+
+#. ID 49, Page 1, Line 4, Pos (16,0)
+#. Choice (3 options)
+msgid ""
+"Save\n"
+"Speed 5\n"
+"Debug Room"
+msgstr ""
+"Сохраниться\n"
+"Скорость 5\n"
+"Комната Отладки"
+
+#. ID 49, Page 1, Line 30, Pos (16,0)
+#. ID 49, Page 1, Line 69, Pos (16,0)
+msgid "TESTMODE is currently activated. Choose option:"
+msgstr "РЕЖИМ ОТЛАДКИ активирован. Выберите функцию:"
+
+#. ID 49, Page 1, Line 31, Pos (16,0)
+#. Choice (4 options)
+msgid ""
+"Displays Music Rate\n"
+"Unlocks all music\n"
+"Revokes all music\n"
+"Save"
+msgstr ""
+"Отобразить Прогресс Сбора Саундтреков\n"
+"Разблокировать Все Саундтреки\n"
+"Заблокировать Все Саундтреки\n"
+"Сохраниться"
+
+#. ID 49, Page 1, Line 39, Pos (16,0)
+msgid "All music has been unlocked."
+msgstr "Все Саундтреки были разблокированны."
+
+#. ID 49, Page 1, Line 46, Pos (16,0)
+msgid "All music has been revoked."
+msgstr "Все Саундтреки были заблокированны."
+
+#. ID 49, Page 1, Line 70, Pos (16,0)
+#. Choice (4 options)
+msgid ""
+"Save\n"
+"Chooses arbitrary Scheme\n"
+"Unlocks all Schemes\n"
+"Revokes all Schemes"
+msgstr ""
+"Сохраниться\n"
+"Выбрать Схему\n"
+"Разблокировать Все Схемы\n"
+"Заблокировать Все Схемы"
+
+#. ID 49, Page 1, Line 76, Pos (16,0)
+msgid "Input value between 0-7 that corresponds to Scheme ID."
+msgstr "Введите значение 0~7 в соответствие с ID Схемы."
+
+#. ID 49, Page 1, Line 110, Pos (16,0)
+msgid "All Schemes has been unlocked."
+msgstr "Все Схемы Разблокированны."
+
+#. ID 49, Page 1, Line 113, Pos (16,0)
+msgid ""
+"!!!WARNING!!! USING THIS FUNCTION WILL INITIALIZE\n"
+"CERTAIN EFFECTS, ALL FEATS, \n"
+"AND CERTAIN EVENT COMPLETION CHECKER!\n"
+"Press 'Yes' to initiate and press 'No' to cancel."
+msgstr ""
+"!!!ВНИМАНИЕ!!! ДАННАЯ ФУНКЦИЯ НАЧНЁТ ПРОВЕРКУ ВСЕХ \n"
+"ЭФФЕКТОВ, СВЕРШЕНИЙ И ПРОГРЕССА ПРОХОЖДЕНИЯ \n"
+"НЕКОТОРЫХ СОБЫТИЙ!\n"
+"Нажмите \"Да\" чтобы начать, \"Нет\" для отмены."
+
+#. ID 49, Page 1, Line 117, Pos (16,0)
+#. Choice (1 options)
+msgid "Yes"
+msgstr "Да"
+
+#. ID 49, Page 1, Line 171, Pos (16,0)
+msgid ""
+"All Schemes has been revoked. \n"
+"Most progressions has been initialized."
+msgstr ""
+"Все Схемы были заблокированны.\n"
+"Большинство прогрессий инициализированны."

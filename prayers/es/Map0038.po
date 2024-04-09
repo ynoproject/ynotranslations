@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Answered Prayers\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Niko\n"
+"Language-Team: Niko\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 4, Page 1, Line 7, Pos (21,26)
+#. ID 4, Page 3, Line 8, Pos (21,26)
+msgid "Learned Prayer \"Phantom\"!"
+msgstr "¡Aprendiste a Rezar \"Espectro\"!"

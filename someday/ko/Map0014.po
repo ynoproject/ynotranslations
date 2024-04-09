@@ -1,40 +1,45 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#. ID 4, Page 1, Line 7, Pos (18,11)
+#. ID 4, Page 1, Line 8, Pos (18,11)
 #. Choice (4 options)
+#, fuzzy
 msgid ""
-"Rusted Orange - 170 N\n"
+"\\$Rusted Orange - 170 N\n"
 "The Other Lime - 170 N\n"
-"Freshchild - 120 N\n"
+"2ccy Milk - 280 N\n"
 "Don't buy anything"
 msgstr ""
-"닷플로리아 오렌지 주스 - 170 N\n"
+"\\$닷플로리아 오렌지 주스 - 170 N\n"
 "또 다른 라임 - 170 N\n"
-"상큼차일드- 120 N\n"
+"2ccy Milk - 280 N\n"
 "아무것도 사지 않는다"
 
-#. ID 4, Page 1, Line 14, Pos (18,11)
-#. ID 4, Page 1, Line 49, Pos (18,11)
+#. ID 4, Page 1, Line 16, Pos (18,11)
+#. ID 4, Page 1, Line 53, Pos (18,11)
+#. ID 4, Page 1, Line 90, Pos (18,11)
 msgid "You won a free drink!"
 msgstr "공짜 음료수에 당첨되셨습니다!"
 
-#. ID 4, Page 1, Line 20, Pos (18,11)
-#. ID 4, Page 1, Line 55, Pos (18,11)
-#. ID 4, Page 1, Line 83, Pos (18,11)
+#. ID 4, Page 1, Line 22, Pos (18,11)
+#. ID 4, Page 1, Line 59, Pos (18,11)
+#. ID 4, Page 1, Line 96, Pos (18,11)
 msgid "\\$"
 msgstr "\\$"
 
-#. ID 4, Page 1, Line 39, Pos (18,11)
-#. ID 4, Page 1, Line 74, Pos (18,11)
-#. ID 4, Page 1, Line 100, Pos (18,11)
+#. ID 4, Page 1, Line 42, Pos (18,11)
+#. ID 4, Page 1, Line 79, Pos (18,11)
+#. ID 4, Page 1, Line 116, Pos (18,11)
 msgid "You don't have enough N!"
 msgstr "N이 부족해요!"
-

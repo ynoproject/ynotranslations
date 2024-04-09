@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Someday\n"
+"Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
-#. ID 3, Line 23
+#. ID 3, Line 24
 #. ChangeHeroName (Actor 1)
-#. ID 19, Line 29
+#. ID 19, Line 30
 #. ChangeHeroName (Actor 1)
 #. ID 47, Line 18
 #. ChangeHeroName (Actor 1)
@@ -22,7 +22,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "Itsuki"
-msgstr "Itsuki"
+msgstr ""
 
 #. ID 31, Line 15
 #. ID 32, Line 16
@@ -42,7 +42,7 @@ msgstr "Itsuki"
 msgid "                Menu scheme changed!"
 msgstr "                Thème du menu changé !"
 
-#. ID 60, Line 159
+#. ID 60, Line 190
 msgid ""
 "Congratulations!\n"
 "You completed the entire game at 100%!"
@@ -50,7 +50,7 @@ msgstr ""
 "Félicitations !\n"
 "Vous avez complété le jeu à 100% !"
 
-#. ID 60, Line 161
+#. ID 60, Line 192
 msgid ""
 "But did you know...\n"
 "\\....that interacting with the four-leaf clover\n"
@@ -60,7 +60,7 @@ msgstr ""
 "\\...qu'interagir avec le trèfle à quatre feuilles\n"
 "dans la forêt active le Mode Chance ?"
 
-#. ID 60, Line 164
+#. ID 60, Line 195
 msgid ""
 "In Lucky Mode, random events appear more often!\n"
 "\\|Ssssh... \\.don't tell anyone..."
@@ -68,6 +68,269 @@ msgstr ""
 "En Mode Chance, les événements aléatoires\n"
 "apparaissent plus souvent !\n"
 "\\|Chuutt... \\.ne le dit à personne..."
+
+#. ID 62, Line 28
+msgid ""
+"Entry #47\\.\n"
+"August 24, 2008\\.\n"
+"\"I just had the most disgusting feeling today.\n"
+"Mom isn't like this. \\.She's not a bad person.\""
+msgstr ""
+"Entrée #47\\.\n"
+"24 août 2008\\.\n"
+"« Je viens d'avoir le sentiment le plus dégoûtant\n"
+"aujourd'hui. »\n"
+"<easyrpg:new_page>\n"
+"« Maman n'est pas comme ça.\n"
+"Elle n'est pas une mauvaise personne. »"
+
+#. ID 62, Line 40
+msgid ""
+"\"But neither is Dad. He's just busy...\n"
+"\\....really busy...\n"
+"\\..\\..\\..\\.all the time.\""
+msgstr ""
+"« Mais Papa ne l'est pas non plus.\n"
+"Il est juste occupé.\n"
+"\\....très occupé...\n"
+"\\..\\..\\..\\.tout le temps. »"
+
+#. ID 62, Line 52
+msgid ""
+"\"She won't stop crying from time to time. She says\n"
+"she's not needed. But I do need her.\n"
+"\\.But Dad is not a bad person either...\""
+msgstr ""
+"« Elle n'arrête pas de pleurer de temps en temps.\n"
+"Elle dit qu'elle est inutile. Mais j'ai besoin\n"
+"d'elle, moi. \\.Mais Papa n'est pas non plus une\n"
+"mauvaise personne... »"
+
+#. ID 63, Line 28
+msgid ""
+"Entry #7\\.\n"
+"May 10, 2006\\.\n"
+"\"I think I'm better off alone. Why even bother?\""
+msgstr ""
+"Entrée #7\\.\n"
+"10 mai 2006\\.\n"
+"« Je pense que je suis mieux seul.\n"
+"Pourquoi même s'en soucier ? »"
+
+#. ID 63, Line 41
+msgid ""
+"\"If I'm THAT different, I might as well not try to\n"
+"make friends at all.\n"
+"\\.I'm used to being alone.\n"
+"\\.I can live with that.\""
+msgstr ""
+"« Si je suis SI différent, je peux aussi juste\n"
+"ne pas essayer de me faire d'amis.\n"
+"\\.J'ai l'habitude de vivre seul.\n"
+"\\.Je peux vivre sans personne de toute façon. »"
+
+#. ID 63, Line 57
+msgid "\\.\\.\"I don't even like birthday parties anyway.\""
+msgstr ""
+"\\.\\.« Je n'aime même pas les anniversaires de toute\n"
+"façon. »"
+
+#. ID 64, Line 29
+msgid ""
+"Entry #43\n"
+"June 11, 2008\n"
+"\"You know how a lot people feel that we're all\n"
+"connected in some way?\""
+msgstr ""
+"Entrée #43\n"
+"11 juin 2008\n"
+"« Tu sais comment certaines personnes pensent\n"
+"que nous sommes tous connectés d'une façon\n"
+"<easyrpg:new_page>\n"
+"ou d'une autre aux autres ? »"
+
+#. ID 64, Line 41
+msgid ""
+"\"I always felt like I'm missing a link.\n"
+"\\.\\.And now I know why. But it's too late.\""
+msgstr ""
+"« J'ai toujours eu l'impression qu'il me manquait\n"
+"un lien. \\.\\.Et maintenant je sais pourquoi.\n"
+"Mais il est trop tard. »"
+
+#. ID 64, Line 51
+msgid ""
+"\"Still, some part of me knows it wasn't \n"
+"intentional. I believe they really did love me.\n"
+"\\.They really tried to make things better.\""
+msgstr ""
+"« Cependant, je sais au fond de moi que ce\n"
+"n'était pas voulu. Je pense qu'ils m'aimaient\n"
+"vraiment. \\.Ils essayaient vraiment d'améliorer\n"
+"les choses. »"
+
+#. ID 64, Line 62
+msgid ""
+"\"I just wish I had the chance to tell them I\n"
+"survived. \\.To tell them I loved them.\n"
+"\\.Even if I don't remember them.\n"
+"\\.Wherever they are...\""
+msgstr ""
+"« J'aurais aimé avoir la chance de leur dire que\n"
+"j'ai survécu. \\.Pour leur dire que je les aimais.\n"
+"\\.Même si je ne me souviens pas d'eux.\n"
+"\\.Qu'importe là où ils sont... »"
+
+#. ID 65, Line 27
+msgid ""
+"Entry #25\\.\n"
+"March 31, 2007\\.\n"
+"\"I saw a fox today.\""
+msgstr ""
+"Entrée #25\\.\n"
+" 31 mars 2007\\.\n"
+"« J'ai vu un renard aujourd'hui. »"
+
+#. ID 65, Line 38
+msgid ""
+"\"They say foxes are really shy, but this one kept\n"
+"staring at me. I think it enjoyed my company!\n"
+"\\.\\.It was really cute.\""
+msgstr ""
+"« Ils disent que les renards sont très timides,\n"
+"mais celui-là ne faisait que de me regarder.\n"
+"Je crois qu'il aimait bien être à mes côtés !\n"
+"\\.\\.Il était tellement mignon. »"
+
+#. ID 65, Line 49
+msgid ""
+"\"Animals always take it easy, you know?\n"
+"They don't seem to care about the stupid things us\n"
+"humans dedicate so much time to.\n"
+"\\....I wish I took it home.\""
+msgstr ""
+"« Les animaux ont la vie facile, tu sais ?\n"
+"Ils ne se soucient pas des choses stupides que\n"
+"nous les humains passons autant de temps à faire.\n"
+"\\....J'aurais tellement aimé le ramener chez moi. »"
+
+#. ID 65, Line 64
+msgid "\"I've named it Miru.\""
+msgstr "« Je l'ai nommé Miru. »"
+
+#. ID 66, Line 31
+msgid ""
+"Entry #3\\.\n"
+"February 7, 2006\\.\n"
+"\"Growing up is really weird. I keep asking myself\n"
+"about these wooden dolls I used to play with.\""
+msgstr ""
+"Entrée #3\\.\n"
+"7 février 2006\\.\n"
+"« C'est si bizarre de grandir. Je n'arrête pas de\n"
+"me poser des questions sur ces pantins en bois\n"
+"<easyrpg:new_page>\n"
+"que j'utilisais pour jouer. »"
+
+#. ID 66, Line 44
+msgid ""
+"\"But Mom says she doesn't know what toys am I\n"
+"talking about.\""
+msgstr ""
+"« Mais Maman me dit qu'elle ne connaît pas les\n"
+"jouets dont je parle. »"
+
+#. ID 66, Line 55
+msgid ""
+"\"I'm pretty sure I remember playing with wooden\n"
+"cubes with shapes and colorful letters on them.\n"
+"\\.When I was... \\.\\.Three? \\.\\.Four?\n"
+"\\.\\.I'm not sure.\""
+msgstr ""
+"« Je suis presque sûr de me souvenir d'avoir joué\n"
+"avec des cubes en bois avec des formes et des\n"
+"lettres colorées dessus. \\.Lorsque j'avais...\n"
+"\\.\\.Trois ans ? \\.\\.Quatre ans ? \\.\\.Je ne suis pas sûr. »"
+
+#. ID 67, Line 30
+msgid ""
+"Entry #36\n"
+"November 3, 2007\n"
+"\"I think I just found out why Mom doesn't like the\n"
+"sea. \\.She had an accident.\""
+msgstr ""
+"Entrée #36\n"
+"3 novembre 2007\n"
+"« Je crois avoir trouvé pourquoi Maman n'aime pas\n"
+"la mer. \\.Elle a eu un accident. »"
+
+#. ID 67, Line 45
+msgid ""
+"\"She doesn't want to talk about it...\n"
+"\\....but she has a big scar on her head.\n"
+"\\.I saw it last night, hidden inside her hair.\n"
+"\\.Maybe that's also why she moved to this city?\""
+msgstr ""
+"« Elle ne veut pas en parler... \\....mais elle a une\n"
+"grosse cicatrice sur son visage. \\.Je l'ai vue la\n"
+"nuit dernière, cachée derrière ses cheveux.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"\\.C'est peut être pour ça qu'elle a déménagé dans\n"
+"cette ville ? »"
+
+#. ID 67, Line 63
+msgid ""
+"\"Her parents' old house is next to a cliff.\n"
+"\\|But we never got to visit it.\""
+msgstr ""
+"« L'ancienne maison de ses parents se situe à\n"
+"côté d'une falaise.\n"
+"\\|Mais nous n'avons jamais eu l'occasion de la\n"
+"visiter. »"
+
+#. ID 68, Line 30
+#. ID 69, Line 30
+msgid ""
+"Entry #49\\.\n"
+"September 19, 2008\\.\n"
+"\"i had an idea.\n"
+"i just drew this perfect girl.\""
+msgstr ""
+"Entrée #49\\.\n"
+"19 septembre 2008\\.\n"
+"« j'ai eu une idée.\n"
+"j'ai dessiné cette fille parfaite. »"
+
+#. ID 68, Line 41
+#. ID 69, Line 41
+msgid "\"her name is \\C[2]Kondo\\C[0]\""
+msgstr "« son nom est \\C[2]Kondo\\C[0] »"
+
+#. ID 68, Line 42
+#. ID 69, Line 42
+msgid ""
+"\"she is pretty and smart and she is not adopted\n"
+"\\.and everybody loves her\n"
+"\\.\\.because she is perfect\""
+msgstr ""
+"« elle est belle maligne et elle n'est pas adoptée\n"
+"\\.et tout le monde l'adore\n"
+"\\.\\.parce qu'elle est parfaite »"
+
+#. ID 68, Line 52
+#. ID 69, Line 52
+msgid ""
+"\"but i hate her because she is who i want to be\n"
+"i feel terrible haha\""
+msgstr ""
+"« mais je la déteste car elle est qui je veux être\n"
+"je me sens si mal haha »"
+
+#. ID 68, Line 120
+#. ID 69, Line 120
+msgid "\"if i was \\C[2]Kondo\\C[0] everything would be over.\""
+msgstr "« si j'étais \\C[2]Kondo\\C[0] tout serait terminé. »"
 
 #. ID 171, Line 14
 #. ID 171, Line 32
@@ -94,7 +357,7 @@ msgstr ""
 #. ID 174, Line 30
 #. ID 174, Line 69
 msgid "TESTMODE is currently activated. Choose option:"
-msgstr "Le TESTMODE est actif. Choisir une option :"
+msgstr "Le TESTMODE est actif. Choisissez une option :"
 
 #. ID 174, Line 31
 #. Choice (4 options)
@@ -105,17 +368,21 @@ msgid ""
 "Save"
 msgstr ""
 "Afficher le taux des musiques\n"
-"Débloquer toutes les musiques\n"
-"Révoquer toutes les musiques\n"
+"Débloquer toutes les musiques (v0.10+ EE)\n"
+"Révoquer toutes les musiques (v0.10+ EE)\n"
 "Sauvegarder"
 
 #. ID 174, Line 39
 msgid "All music has been unlocked."
-msgstr "Toutes les musiques ont été débloquées."
+msgstr ""
+"Toutes les musiques ont été débloquées.\n"
+"(Ne concerne pas les musiques de la version 0.11)"
 
 #. ID 174, Line 46
 msgid "All music has been revoked."
-msgstr "Toutes les musiques ont été révoquées."
+msgstr ""
+"Toutes les musiques ont été révoquées.\n"
+"(Ne concerne pas les musiques de la version 0.11)"
 
 #. ID 174, Line 70
 #. Choice (4 options)
@@ -127,18 +394,18 @@ msgid ""
 msgstr ""
 "Sauvegarder\n"
 "Choisir un thème\n"
-"Débloquer tous les thèmes\n"
-"Révoquer tous les thèmes"
+"Débloquer les 8 premiers thèmes\n"
+"Révoquer les 8 premiers thèmes"
 
 #. ID 174, Line 76
 msgid "Input value between 0-7 that corresponds to Scheme ID."
 msgstr ""
-"Entrez une valeur entre 0 et 7 correspondant à \n"
+"Entrez une valeur entre 0 et 8 correspondant à\n"
 "l'ID du thème voulu."
 
 #. ID 174, Line 110
 msgid "All Schemes has been unlocked."
-msgstr "Tous les thèmes ont été débloqués."
+msgstr "Les 8 premiers thèmes ont été débloqués."
 
 #. ID 174, Line 113
 msgid ""
@@ -162,6 +429,18 @@ msgid ""
 "All Schemes has been revoked. \n"
 "Most progressions has been initialized."
 msgstr ""
-"Tous les thèmes ont été révoqués. \n"
+"Les 8 premiers thèmes ont été révoqués.\n"
 "La plupart de la progression a été\n"
 "initialisée."
+
+#. ID 191, Line 458
+msgid "                   \\_Scooter+Fox"
+msgstr "               Trottinette + Renard"
+
+#. ID 191, Line 461
+msgid ""
+"You have unlocked this special effect mix!\n"
+"Use with caution!"
+msgstr ""
+"Vous avez débloqué ce combo d'effet spécial !\n"
+"À utiliser avec prudence !"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
 #. Choice (4 options)
@@ -18,68 +18,157 @@ msgstr ""
 msgid ""
 "Save\n"
 "Play ZApNeF\n"
-"Cache Setting\n"
+"Options\n"
 "Nevermind"
 msgstr ""
 "Guardar\n"
 "Jugar a ZApNeF\n"
-"Cache Setting\n"
+"Options\n"
 "No importa"
 
-#. ID 2, Page 1, Line 57, Pos (11,4)
+#. ID 2, Page 1, Line 115, Pos (11,4)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "Itsuki"
 msgstr ""
 
-#. ID 2, Page 1, Line 133, Pos (11,4)
+#. ID 2, Page 1, Line 233, Pos (11,4)
+#. Choice (4 options)
+msgid ""
+"Cache setting\n"
+"Crystal display mode\n"
+"View game data\n"
+"Close"
+msgstr ""
+
+#. ID 2, Page 1, Line 236, Pos (11,4)
 msgid ""
 "\\> Cache Load (Current : ON) \\<\n"
 "As you read a file, it loads all BGM and SE cache.\n"
-"Disable this option as save progress takes longer\n"
+"Disable this option if save progress takes longer\n"
 "than usual."
 msgstr ""
 
-#. ID 2, Page 1, Line 137, Pos (11,4)
+#. ID 2, Page 1, Line 240, Pos (11,4)
 #. Contains choice at line 2 (2 options)
 msgid "\\> Cache Load (Current : ON) \\<"
 msgstr ""
 
-#. ID 2, Page 1, Line 138, Pos (11,4)
+#. ID 2, Page 1, Line 241, Pos (11,4)
 #. Choice (2 options, embedded in a message)
-#. ID 2, Page 1, Line 160, Pos (11,4)
+#. ID 2, Page 1, Line 263, Pos (11,4)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "ON\n"
 "OFF"
 msgstr ""
 
-#. ID 2, Page 1, Line 141, Pos (11,4)
-#. ID 2, Page 1, Line 168, Pos (11,4)
+#. ID 2, Page 1, Line 244, Pos (11,4)
+#. ID 2, Page 1, Line 252, Pos (11,4)
+#. ID 2, Page 1, Line 271, Pos (11,4)
+#. ID 2, Page 1, Line 274, Pos (11,4)
 msgid " Current setting has been retained."
 msgstr ""
 
-#. ID 2, Page 1, Line 146, Pos (11,4)
+#. ID 2, Page 1, Line 249, Pos (11,4)
 msgid " Cache Load has been disabled."
 msgstr ""
 
-#. ID 2, Page 1, Line 156, Pos (11,4)
+#. ID 2, Page 1, Line 258, Pos (11,4)
 msgid ""
 "\\> Cache Load (Current : OFF)\\<\n"
 "Proceeds without loading cache.\n"
-"Enable this option as you experience slow down."
+"Enable this option if you experience slow down\n"
+"when entering certain maps."
 msgstr ""
 
-#. ID 2, Page 1, Line 159, Pos (11,4)
+#. ID 2, Page 1, Line 262, Pos (11,4)
 #. Contains choice at line 2 (2 options)
 msgid "\\> Cache Load (Current : OFF)\\<"
 msgstr ""
 
-#. ID 2, Page 1, Line 164, Pos (11,4)
+#. ID 2, Page 1, Line 267, Pos (11,4)
 msgid " Cache Load has been enabled."
 msgstr ""
 
-#. ID 3, Page 2, Line 20, Pos (7,6)
+#. ID 2, Page 1, Line 284, Pos (11,4)
+msgid ""
+"Both text and animation are enabled.\n"
+"When collecting a crystal, you will see a short\n"
+"animation with a text Entry from Itsuki's blog."
+msgstr ""
+
+#. ID 2, Page 1, Line 289, Pos (11,4)
+msgid ""
+"Only text is enabled.\n"
+"When collecting a crystal, you will see a text\n"
+"Entry from Itsuki's blog, but no pictures."
+msgstr ""
+
+#. ID 2, Page 1, Line 297, Pos (11,4)
+msgid ""
+"Only animation is enabled.\n"
+"When collecting a crystal, you will see a short\n"
+"picture animation, but no text explanation."
+msgstr ""
+
+#. ID 2, Page 1, Line 302, Pos (11,4)
+msgid ""
+"Both text and animation are disabled.\n"
+"An error may have occurred.\n"
+"Restoring to default setting (both enabled)."
+msgstr ""
+
+#. ID 2, Page 1, Line 311, Pos (11,4)
+msgid ""
+"Please choose the option that you prefer to see\n"
+"for collecting crystals."
+msgstr ""
+
+#. ID 2, Page 1, Line 313, Pos (11,4)
+#. Choice (4 options)
+msgid ""
+"Text only\n"
+"Animation only\n"
+"Text and animation\n"
+"Cancel"
+msgstr ""
+
+#. ID 2, Page 1, Line 318, Pos (11,4)
+msgid ""
+"Only text will be displayed when collecting\n"
+"crystals now."
+msgstr ""
+
+#. ID 2, Page 1, Line 325, Pos (11,4)
+msgid ""
+"Only animation will be displayed when collecting\n"
+"crystals now."
+msgstr ""
+
+#. ID 2, Page 1, Line 332, Pos (11,4)
+msgid ""
+"Text and animation will be displayed when\n"
+"collecting crystals now."
+msgstr ""
+
+#. ID 2, Page 1, Line 336, Pos (11,4)
+msgid "Crystal display setting has been retained."
+msgstr ""
+
+#. ID 2, Page 1, Line 345, Pos (11,4)
+msgid ""
+"Effects: \\V[505]/24\n"
+"Feats: \\V[9]/\\V[513]\n"
+"Crystals: \\V[18]/7\n"
+"Music completion rate: \\V[385]%"
+msgstr ""
+"Efectos: \\V[505]/24\n"
+"Logros: \\V[9]/\\V[513]\n"
+"Cristales: \\V[18]/7\n"
+"Musica completada: \\V[0385]%"
+
+#. ID 3, Page 2, Line 56, Pos (7,6)
 msgid ""
 "I'm sorry, but you seem to be playing a save file\n"
 "from a previous version of this game.\n"
@@ -89,7 +178,17 @@ msgstr ""
 "partida de una version anterior de este juego.\n"
 "(v0.0\\V[10])"
 
-#. ID 3, Page 2, Line 25, Pos (7,6)
+#. ID 3, Page 2, Line 63, Pos (7,6)
+msgid ""
+"I'm sorry, but you seem to be playing a save file\n"
+"from a previous version of this game.\n"
+"(v0.10+)"
+msgstr ""
+"Lo siento, pero parece que estas jugando a una\n"
+"partida de una version anterior de este juego.\n"
+"(v0.10+)"
+
+#. ID 3, Page 2, Line 84, Pos (7,6)
 msgid ""
 "I'm sorry, but you seem to be playing a save file\n"
 "from a previous version of this game.\n"
@@ -99,7 +198,7 @@ msgstr ""
 "partida de una version anterior de este juego.\n"
 "(v0.\\V[10])"
 
-#. ID 3, Page 2, Line 30, Pos (7,6)
+#. ID 3, Page 2, Line 91, Pos (7,6)
 msgid ""
 "Since this game has been modified, you may\n"
 "experience problems that would not occur if you\n"
@@ -113,10 +212,10 @@ msgstr ""
 #. ID 6, Page 2, Line 8, Pos (2,0)
 msgid ""
 "You have accomplished a new feat!\n"
-"Feats: \\V[9]/32"
+"Feats: \\V[9]/\\V[513]"
 msgstr ""
 "Has conseguido un nuevo logro!\n"
-"Logros: \\V[9]/32"
+"Logros: \\V[9]/\\V[513]"
 
 #. ID 6, Page 1, Line 24, Pos (2,0)
 #. ID 6, Page 2, Line 25, Pos (2,0)

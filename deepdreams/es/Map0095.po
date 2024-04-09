@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams 0.05\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language-Team: ElTipejoLoco <ElTipejoLoco@gmail.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 149, Page 1, Line 4, Pos (167,7)
+msgid "Get Alter: Metallic"
+msgstr "Obtén Alter: Metálica"
+

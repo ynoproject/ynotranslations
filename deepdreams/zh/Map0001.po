@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#. ID 38, Page 1, Line 1, Pos (3,9)
+#. Contains choice at line 2 (2 options)
+msgid "Feeling festive?"
+msgstr "能感觉到节日氛围吗？"
+
+#. ID 38, Page 1, Line 2, Pos (3,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"是的\n"
+"没有"
+
+#. ID 40, Page 1, Line 2, Pos (8,7)
+#. Choice (4 options)
+msgid ""
+"System Sterling\n"
+"System Kaleidoscope\n"
+"System Arabian\n"
+"Next Page"
+msgstr ""
+"经典菜单\n"
+"万花筒菜单\n"
+"阿拉伯式菜单\n"
+"下一页"
+
+#. ID 40, Page 1, Line 11, Pos (8,7)
+#. ID 40, Page 1, Line 20, Pos (8,7)
+#. ID 40, Page 1, Line 31, Pos (8,7)
+#. ID 40, Page 1, Line 40, Pos (8,7)
+#. ID 40, Page 1, Line 49, Pos (8,7)
+msgid "Locked"
+msgstr "未解锁"
+
+#. ID 40, Page 1, Line 25, Pos (8,7)
+#. Choice (3 options)
+msgid ""
+"System Spiderlily\n"
+"System Rainbow\n"
+"System Crystalline"
+msgstr ""
+"彼岸花菜单\n"
+"彩虹菜单\n"
+"晶体管菜单"

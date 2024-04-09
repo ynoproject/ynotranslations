@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: es\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 1
 msgctxt "actors.name"
@@ -31,11 +27,6 @@ msgstr "Alzate"
 msgctxt "skills.description"
 msgid "Defeat your bullies"
 msgstr "Derrota a tus abusones"
-
-#. ID 1
-msgctxt "skills.using_message1"
-msgid "‚ÌUŒ‚I"
-msgstr "‚ÌUŒ‚I"
 
 #. ID 2
 msgctxt "skills.name"
@@ -349,20 +340,50 @@ msgstr "Mata a la avispa del bosque y vuelve"
 
 #. ID 33
 msgctxt "skills.name"
+msgid "Vitamin"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.description"
+msgid "Get your daily dose of vitamin C"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "Life"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.description"
+msgid "Find the source of the pulse"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.name"
+msgid "Isolated"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.description"
+msgid "It's just not the same"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
 msgid "H: Music collector"
 msgstr "O: Coleccionista"
 
-#. ID 33
+#. ID 51
 msgctxt "skills.description"
 msgid "Unlock every music from Music Folders"
 msgstr "Desbloquea toda la musica del juego."
 
-#. ID 34
+#. ID 52
 msgctxt "skills.name"
 msgid "H: >9000"
 msgstr "O: >9000"
 
-#. ID 34
+#. ID 52
 msgctxt "skills.description"
 msgid "Achieve 9001 or more points on any ZapNeF minigame"
 msgstr "Consigue 9001 o mas puntos en un nivel de ZApNeF."
@@ -896,6 +917,16 @@ msgstr "(Version: Extension)"
 msgctxt "items.description"
 msgid "Extention pack has been applied."
 msgstr "Se ha aplicado el paquete de extension."
+
+#. ID 54
+msgctxt "items.name"
+msgid "CHEAT Scooter+Fox"
+msgstr ""
+
+#. ID 54
+msgctxt "items.description"
+msgid "No limits."
+msgstr ""
 
 #. ID 1
 msgctxt "states.message_actor"
@@ -1471,3 +1502,4 @@ msgstr "default_term"
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr "default_term"
+

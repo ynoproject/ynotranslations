@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 2, Page 1, Line 1, Pos (57,2)
+msgid "111111111"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (114,94)
+#. ID 10, Page 1, Line 1, Pos (70,43)
+#. ID 11, Page 1, Line 1, Pos (171,21)
+msgid "1111111"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (142,53)
+#. ID 4, Page 1, Line 3, Pos (142,53)
+#. ID 4, Page 1, Line 5, Pos (142,53)
+#. ID 4, Page 1, Line 7, Pos (142,53)
+#. ID 4, Page 1, Line 9, Pos (142,53)
+msgid "1111111111"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (61,34)
+msgid ""
+"111111111111111111111111111111111111111111111111111111111111111\n"
+"111111111111111111111111111111111111111111111111111111111111111\n"
+"111111111111111111111111111111111111111111111111111111111111111\n"
+"111111111111111111111111111111111111111111111111111111111111111"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (19,74)
+msgid "1111111111111111111111111111111111111111111111111111111"
+msgstr ""
+
+#. ID 12, Page 1, Line 2, Pos (148,87)
+msgid "木"
+msgstr ""
+
+#. ID 12, Page 1, Line 10, Pos (148,87)
+msgid ""
+"１１１１１１１１１１１１１１１１１\n"
+"１１１１１１１１１\n"
+"１１１１１\n"
+"１１１１１１１１１１１１１１１１１１１１１"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (41,128)
+msgid "1111111111111111111111111111111111111111111111111111"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (78,102)
+msgid "11111111111111111111111"
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (22,15)
+msgid "1111111111111111"
+msgstr ""
+
+#. ID 26, Page 1, Line 2, Pos (16,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 26, Page 1, Line 7, Pos (16,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 27, Page 1, Line 18, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+#. ID 29, Page 1, Line 44, Pos (91,98)
+#. ChangeHeroTitle (Actor 1)
+#. ID 35, Page 1, Line 2, Pos (15,0)
+#. ChangeHeroTitle (Actor 1)
+#. ID 35, Page 1, Line 7, Pos (15,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Sleepwalking"
+
+#. ID 26, Page 1, Line 3, Pos (16,0)
+#. ChangeHeroName (Actor 1)
+#. ID 26, Page 1, Line 8, Pos (16,0)
+#. ChangeHeroName (Actor 1)
+#. ID 28, Page 1, Line 18, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+#. ID 29, Page 1, Line 43, Pos (91,98)
+#. ChangeHeroName (Actor 1)
+#. ID 35, Page 1, Line 3, Pos (15,0)
+#. ChangeHeroName (Actor 1)
+#. ID 35, Page 1, Line 8, Pos (15,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Urotsuki"
+
+#. ID 27, Page 1, Line 2, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "夢夢夢夢夢病"
+msgstr "Sleeeeepking"
+
+#. ID 27, Page 1, Line 4, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "夢。。。。。"
+msgstr "Sleeping..."
+
+#. ID 27, Page 1, Line 6, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "朴念仁"
+msgstr ""
+
+#. ID 27, Page 1, Line 8, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "insomnia"
+msgstr ""
+
+#. ID 27, Page 1, Line 10, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "うろつき"
+msgstr "Urotsuki"
+
+#. ID 27, Page 1, Line 12, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "ああああああ"
+msgstr "AAAAAAAAAAAA"
+
+#. ID 27, Page 1, Line 14, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "xxxxxxxx"
+msgstr ""
+
+#. ID 27, Page 1, Line 16, Pos (10,2)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "螟｢驕顔羅"
+msgstr ""
+
+#. ID 28, Page 1, Line 2, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろうろうろ"
+msgstr "Urourouro"
+
+#. ID 28, Page 1, Line 4, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "き"
+msgstr "Ki"
+
+#. ID 28, Page 1, Line 6, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ひととき"
+msgstr "Hitotoki"
+
+#. ID 28, Page 1, Line 8, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "UROTSUKI"
+msgstr "うろつき"
+
+#. ID 28, Page 1, Line 10, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "夢遊病"
+msgstr "Sleepwalking"
+
+#. ID 28, Page 1, Line 12, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "ああああああ"
+msgstr "AAAAAAAAAAAA"
+
+#. ID 28, Page 1, Line 14, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "xxxxxxxx"
+msgstr ""
+
+#. ID 28, Page 1, Line 16, Pos (11,2)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "縺?ｍ縺､縺"
+msgstr ""
+
+#. ID 29, Page 1, Line 6, Pos (91,98)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　MAP　ID NULL\\<\\|\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 12, Pos (91,98)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：５２\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  Menu Type: 52\\<\\|\\|\\^"
+
+#. ID 29, Page 1, Line 18, Pos (91,98)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　■■■　■■　■■■■\\<\\|\\|\\^"
+msgstr ""
+
+#. ID 29, Page 1, Line 24, Pos (91,98)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　■■■■■■■：５２\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  ■■■■■■■■■: 52\\<\\|\\|\\^"
+
+#. ID 33, Page 1, Line 1, Pos (87,115)
+#. Choice (2 options)
+msgid ""
+"11111111111\n"
+"11111111111"
+msgstr ""
+
+#. ID 40, Page 1, Line 6, Pos (13,2)
+#. ID 40, Page 2, Line 6, Pos (13,2)
+msgid "1111111111111111111111111"
+msgstr ""

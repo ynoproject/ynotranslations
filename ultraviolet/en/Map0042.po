@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 20, Page 2, Line 7, Pos (63,68)
+msgid "選ぶがよいです！"
+msgstr "Make a choice!"
+
+#. ID 20, Page 2, Line 8, Pos (63,68)
+#. Choice (4 options)
+msgid ""
+"通常ver\n"
+"着地失敗ver(強制起床します)\n"
+"実行済みフラグOFF\n"
+"やっぱりやめちゃ"
+msgstr ""
+"Normal ver.\n"
+"Failed landing ver. (Forced wake-up)\n"
+"Execution flag OFF\n"
+"Don't do it after all"
+
+#. ID 20, Page 2, Line 61, Pos (63,68)
+#. Contains choice at line 2 (2 options)
+msgid "もう一回？"
+msgstr "Once more?"
+
+#. ID 20, Page 2, Line 62, Pos (63,68)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"いやん\n"
+"たのむ"
+msgstr ""
+"No please\n"
+"Please do"
+
+#. ID 24, Page 1, Line 3, Pos (15,19)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　  　　　たまご\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　  　　　　 Egg\\<\\|\\|\\^"

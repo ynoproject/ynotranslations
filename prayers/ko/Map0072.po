@@ -42,7 +42,7 @@ msgid ""
 "Ask her to fix them.\n"
 "Nevermind"
 msgstr ""
-"그녀에게 고쳐달라고 부탁한다.\n"
+"고쳐달라고 부탁한다.\n"
 "무시한다."
 
 #. ID 2, Page 1, Line 14, Pos (1,0)
@@ -50,7 +50,7 @@ msgstr ""
 #. ID 7, Page 1, Line 15, Pos (0,2)
 #. Contains choice at line 2 (2 options)
 msgid "(She's holding up 4 fingers.)"
-msgstr "(그녀는 네 손가락을 펴보였다.)"
+msgstr "(그녀는 손가락 네 개를 펴 보였다.)"
 
 #. ID 2, Page 1, Line 18, Pos (1,0)
 #. Choice (2 options, embedded in a message)
@@ -66,7 +66,7 @@ msgstr ""
 #. ID 2, Page 1, Line 44, Pos (1,0)
 #. ID 7, Page 1, Line 45, Pos (0,2)
 msgid "\"Broken Sandals\" became \"Tall Geta\"!"
-msgstr "\"망가진 게다\"가 \"굽높은 게다\"로 바뀌었다!"
+msgstr "\"망가진 게다\"가 \"굽 높은 게다\"로 바뀌었다!"
 
 #. ID 2, Page 1, Line 49, Pos (1,0)
 #. ID 7, Page 1, Line 50, Pos (0,2)
@@ -86,7 +86,7 @@ msgstr ""
 #. ID 10, Page 3, Line 7, Pos (0,3)
 #. ID 13, Page 1, Line 7, Pos (0,5)
 msgid "Learned Prayer \"Phantom\"!"
-msgstr "\"펜텀\" 기도를 얻었다!"
+msgstr "\"팬텀\" 기도를 얻었다!"
 
 #. ID 12, Page 1, Line 6, Pos (0,4)
 msgid "Found \"Broken Sandals\"!"

@@ -14,7 +14,7 @@ msgstr "\"헤일로\" 기도를 배웠다!"
 
 #. ID 2, Page 1, Line 4, Pos (2,6)
 msgid "Learned Prayer \"Koraiyn\"!"
-msgstr "\"코라인\" 기도를 배웠다!"
+msgstr "\"코레인\" 기도를 배웠다!"
 
 #. ID 2, Page 2, Line 1, Pos (2,6)
 msgid "..."
@@ -28,8 +28,8 @@ msgid ""
 "Give me Money\n"
 "Spin!"
 msgstr ""
-"이동속도 증가\n"
-"이동속도 감소\n"
+"이동 속도 증가\n"
+"이동 속도 감소\n"
 "쇼미더머니\n"
 "스핀하기!"
 
@@ -39,7 +39,7 @@ msgstr "디버그룸이다아아아아앙"
 
 #. ID 6, Page 1, Line 7, Pos (2,4)
 msgid "Learned Prayer \"Phantom\"!"
-msgstr "\"펜텀\" 기도를 배웠다!"
+msgstr "\"팬텀\" 기도를 배웠다!"
 
 #. ID 7, Page 1, Line 4, Pos (2,8)
 msgid "Learned Prayer \"Chromakey Dreamcoat\"!"
@@ -67,7 +67,7 @@ msgstr "\"불빛\" 기도를 배웠다!"
 
 #. ID 14, Page 1, Line 6, Pos (4,4)
 msgid "Learned Prayer \"Tall Geta\"!"
-msgstr "\"굽높은 게다\" 기도를 배웠다!"
+msgstr "\"굽 높은 게다\" 기도를 배웠다!"
 
 #. ID 15, Page 1, Line 6, Pos (2,10)
 msgid "Learned Prayer \"Karakasa\"!"
@@ -75,7 +75,7 @@ msgstr "\"카라카사\" 기도를 배웠다!"
 
 #. ID 17, Page 1, Line 2, Pos (15,5)
 msgid "Found \"Rusty Key\"!"
-msgstr "\"녹슬은 열쇠\"를 찾았다!"
+msgstr "\"녹슨 열쇠\"를 찾았다!"
 
 #. ID 20, Page 1, Line 6, Pos (4,10)
 msgid "Learned Prayer \"Guitar\"!"

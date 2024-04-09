@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uneven Dream\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 9, Line 14
+msgid "                  *Fast Forward*"
+msgstr "                   *Перемотка*"
+
+#. ID 9, Line 18
+msgid "                    *Boombox*"
+msgstr "                 *Проигрыватель*"
+
+#. ID 9, Line 22
+msgid "                    *Snowglobe*"
+msgstr "                  *Снежный Шар*"
+
+#. ID 9, Line 26
+msgid "                   *Dark Matter*"
+msgstr "                 *Тёмная материя*"
+
+#. ID 9, Line 30
+msgid "                     *Turtle*"
+msgstr "                    *Черепаха*"
+
+#. ID 9, Line 34
+msgid "                    *Lamppost*"
+msgstr "                     *Фонарь*"
+
+#. ID 9, Line 38
+msgid "                       *Box*"
+msgstr "                     *Коробка*"
+
+#. ID 9, Line 42
+msgid "                     *Pencil*"
+msgstr "                    *Карандаш*"
+
+#. ID 9, Line 46
+msgid "                      *Seer*"
+msgstr "                    *Провидец*"
+
+#. ID 9, Line 50
+msgid "                      *Hood*"
+msgstr "                    *Капюшон*"
+
+#. ID 9, Line 54
+msgid "                      *Plug*"
+msgstr "                    *Зарядка*"
+
+#. ID 9, Line 58
+msgid "                      *Mouth*"
+msgstr "                      *Рот*"
+
+#. ID 9, Line 64
+msgid "                      *Star*"
+msgstr "                     *Звезда*"
+
+#. ID 9, Line 68
+msgid "                    *Music Box*"
+msgstr "              *Музыкальная шкатулка*"
+
+#. ID 9, Line 72
+msgid "                *Lily of the Valley*"
+msgstr "                     *Ландыш*"
+
+#. ID 9, Line 76
+msgid "                      *Cape*"
+msgstr "                      *Плащ*"
+
+#. ID 9, Line 80
+msgid "                    *UV Light*"
+msgstr "                  *Ультрафиолет*"
+
+#. ID 9, Line 84
+msgid "                    *Sunflower*"
+msgstr "                   *Подсолнух*"
+
+#. ID 9, Line 88
+msgid "                    *Nightcap*"
+msgstr "                    *Ночнушка*"
+
+#. ID 9, Line 92
+msgid "                    *Butterfly*"
+msgstr "                    *Бабочка*"
+
+#. ID 9, Line 96
+msgid "                    *Mermaid*"
+msgstr "                    *Русалка*"
+
+#. ID 9, Line 100
+msgid "                    *Sidetail*"
+msgstr "                  *Хвостик сбоку*"
+
+#. ID 9, Line 104
+msgid "                     *Origami*"
+msgstr "                     *Оригами*"
+
+#. ID 9, Line 108
+msgid "                      *Cyber*"
+msgstr "                      *Кибер*"
+
+#. ID 14, Line 4
+#. Choice (4 options)
+msgid ""
+"\\>Player Speed\n"
+"\\>Teleport\n"
+"\\>Page 2\n"
+"\\>Exit"
+msgstr ""
+"\\>Скорость игрока\n"
+"\\>Телепорт\n"
+"\\>Стр. 2\n"
+"\\>Выход"
+
+#. ID 14, Line 6
+#. Choice (4 options)
+msgid ""
+"\\><<<< - MAXIMUM SPEED\n"
+"\\><<< - 4x Speed\n"
+"\\><< - 2x Speed\n"
+"\\>< - Normal Speed"
+msgstr ""
+"\\><<<< - Максимальная скорость\n"
+"\\><<< - 4-кратная скорость\n"
+"\\><< - 2-кратная скорость\n"
+"\\>< - Нормальная скорость"
+
+#. ID 14, Line 30
+#. Choice (2 options)
+msgid ""
+"Special Locations\n"
+"Custom"
+msgstr ""
+"Особые локации\n"
+"Настраиваемая"
+
+#. ID 14, Line 32
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Bedrooms\n"
+"Nexuses\n"
+"Before Video Game Worlds"
+msgstr ""
+"Комната Отладки\n"
+"Спальни\n"
+"Нексусы\n"
+"Перед мирами Игр"
+
+#. ID 14, Line 40
+#. Choice (2 options)
+#. ID 14, Line 56
+#. Choice (2 options)
+msgid ""
+"Kubo\n"
+"Totsu"
+msgstr ""
+"Кубо\n"
+"Тоцу"
+
+#. ID 14, Line 92
+msgid "\\>Your current location is Map \\V[0005] X \\V[0006] Y \\V[0007]."
+msgstr "\\>Вы сейчас находитесь на Карте \\V[0005] X \\V[0006] Y \\V[0007]."
+
+#. ID 14, Line 93
+msgid ""
+"\\>M: XXXX X: XXX Y: XXX\n"
+"\\>Enter your map #:"
+msgstr ""
+"\\>Карта: XXXX X: XXX Y: XXX\n"
+"\\>Введите № Карты:"
+
+#. ID 14, Line 97
+msgid ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+"\\>Карта: \\V[0009] X: XXX Y: XXX\n"
+"\\>Введите X Карты:"
+
+#. ID 14, Line 106
+msgid ""
+"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+"\\>Карта: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>Введите Y Карты:"
+
+#. ID 14, Line 130
+#. Choice (4 options)
+msgid ""
+"\\>Save\n"
+"\\>Captured By Chaser\n"
+"\\>Unlock Screen Pos.\n"
+"\\>Title Screen"
+msgstr ""
+"\\>Сохранить\n"
+"\\>Попасться Преследователю\n"
+"\\>Разблокировать Положение экрана\n"
+"\\>Главное меню"
+
+#. ID 19, Line 73
+#. ID 19, Line 97
+msgid "Quick Effect 1 is not set."
+msgstr "Быстрый Эффект 1 не назначен."
+
+#. ID 19, Line 84
+#. ID 19, Line 108
+msgid "Quick Effect 2 is not set."
+msgstr "Быстрый Эффект 2 не назначен."
+
+#. ID 77, Line 203
+#. Contains choice at line 2 (2 options)
+msgid "Switch characters?"
+msgstr "Сменить персонажей?"
+
+#. ID 77, Line 204
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 77, Line 372
+#. ID 77, Line 383
+msgid "(Work in progress!)"
+msgstr "(В разработке!)"
+
+#. ID 77, Line 391
+#. Choice (1 options)
+msgid "Quick Effects"
+msgstr "Быстрые Эффекты"
+
+#. ID 77, Line 397
+#. ID 77, Line 447
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"Быстрый Эффект 1 не назначен.\n"
+"Быстрый Эффект 2 не назначен."
+
+#. ID 77, Line 401
+#. ID 77, Line 451
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"Быстрый Эффект 1 не назначен.\n"
+"Быстрый Эффект 2 назначен."
+
+#. ID 77, Line 408
+#. ID 77, Line 458
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"Быстрый Эффект 1 назначен.\n"
+"Быстрый Эффект 2 не назначен."
+
+#. ID 77, Line 412
+#. ID 77, Line 462
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"Быстрый Эффект 1 назначен.\n"
+"Быстрый Эффект 2 назначен."
+
+#. ID 77, Line 418
+#. Choice (2 options)
+#. ID 77, Line 468
+#. Choice (2 options)
+msgid ""
+"Modify Quick Effect 1\n"
+"Modify Quick Effect 2"
+msgstr ""
+"Изменить Быстрый Эффект 1\n"
+"Изменить Быстрый Эффект 2"
+
+#. ID 77, Line 420
+#. ID 77, Line 430
+#. ID 77, Line 470
+#. ID 77, Line 480
+msgid "Select your preferred quick effect."
+msgstr "Выберите предпочитаемый быстрый эффект."
+
+#. ID 77, Line 426
+#. ID 77, Line 476
+msgid "Quick Effect 1 set."
+msgstr "Быстрый Эффект 1 назначен."
+
+#. ID 77, Line 436
+#. ID 77, Line 486
+msgid "Quick Effect 2 set."
+msgstr "Быстрый Эффект 2 назначен."
+
+#. ID 87, Line 21
+#. ID 89, Line 21
+#. ID 89, Line 51
+#. ID 89, Line 63
+msgid "how did you manage to do this?"
+msgstr "Как ты это делаешь?"
+
+#. ID 105, Line 15
+#. ID 105, Line 32
+#. ID 105, Line 39
+#. ID 105, Line 238
+msgid "\\$\\|\\^"
+msgstr "\\$\\|\\^"

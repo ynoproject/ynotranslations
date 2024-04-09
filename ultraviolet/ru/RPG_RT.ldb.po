@@ -1,0 +1,663 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "そめつき"
+msgstr "Сомэцуки"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Сноходец"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Ущипнуться"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "起床します。"
+msgstr "Проснуться."
+
+#. ID 1
+#. ID 2
+msgctxt "skills.using_message1"
+msgid "0"
+msgstr "0"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "デバッグ"
+msgstr "Отладка"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "デバッグ的なことをします。"
+msgstr "Заняться отладкой."
+
+#. ID 1
+msgctxt "items.name"
+msgid "うさぎ"
+msgstr "Кролик"
+
+#. ID 1
+msgctxt "items.description"
+msgid "ウサギになります。"
+msgstr "Стать кроликом."
+
+#. ID 2
+msgctxt "items.name"
+msgid "ネイルハンマー"
+msgstr "Молоток"
+
+#. ID 2
+msgctxt "items.description"
+msgid "ネイルハンマーを持ちます。"
+msgstr "Взять в руки молоток."
+
+#. ID 3
+msgctxt "items.name"
+msgid "ケーキ"
+msgstr "Торт"
+
+#. ID 3
+msgctxt "items.description"
+msgid "ケーキになります。"
+msgstr "Стать тортом."
+
+#. ID 4
+msgctxt "items.name"
+msgid "コートとマフラー"
+msgstr "Шарф с Пальто"
+
+#. ID 4
+msgctxt "items.description"
+msgid "コートとマフラーを着けます。"
+msgstr "Надеть шарф и пальто."
+
+#. ID 5
+msgctxt "items.name"
+msgid "ステンドグラス"
+msgstr "Витраж"
+
+#. ID 5
+msgctxt "items.description"
+msgid "ステンドグラスになります。"
+msgstr "Стать стеклянной мозаикой."
+
+#. ID 7
+msgctxt "items.name"
+msgid "まほうつかい"
+msgstr "Волшебница"
+
+#. ID 7
+msgctxt "items.description"
+msgid "魔法使いになります。"
+msgstr "Стать волшебницей."
+
+#. ID 8
+msgctxt "items.name"
+msgid "アメフラシ"
+msgstr "Аплизия"
+
+#. ID 8
+msgctxt "items.description"
+msgid "アメフラシになります。"
+msgstr "Стать морским моллюском."
+
+#. ID 9
+msgctxt "items.name"
+msgid "ショートヘアー"
+msgstr "Короткая стрижка"
+
+#. ID 9
+msgctxt "items.description"
+msgid "ショートヘアーになります。"
+msgstr "Сделать волосы покороче."
+
+#. ID 10
+msgctxt "items.name"
+msgid "くびなし"
+msgstr "Безголовая"
+
+#. ID 10
+msgctxt "items.description"
+msgid "首が無くなります。"
+msgstr "Убрать голову с плеч."
+
+#. ID 12
+msgctxt "items.name"
+msgid "ほうでんとう"
+msgstr "Лампа"
+
+#. ID 12
+msgctxt "items.description"
+msgid "頭が放電灯になります。"
+msgstr "Превратить голову в электрическую лампу."
+
+#. ID 13
+msgctxt "items.name"
+msgid "アンドロイド"
+msgstr "Гиноид"
+
+#. ID 13
+msgctxt "items.description"
+msgid "アンドロイドになります。"
+msgstr "Стать полностью механической."
+
+#. ID 14
+msgctxt "items.name"
+msgid "たまご"
+msgstr "Яйцо"
+
+#. ID 14
+msgctxt "items.description"
+msgid "卵になります。"
+msgstr "Стать яйцом."
+
+#. ID 15
+msgctxt "items.name"
+msgid "みこ"
+msgstr "Мико"
+
+#. ID 15
+msgctxt "items.description"
+msgid "巫女さんになります。"
+msgstr "Одеться в наряд мико."
+
+#. ID 16
+msgctxt "items.name"
+msgid "-くも"
+msgstr "Паук"
+
+#. ID 16
+msgctxt "items.description"
+msgid "蜘蛛になります。"
+msgstr "Превратиться в паука."
+
+#. ID 17
+msgctxt "items.name"
+msgid "しっけんけん"
+msgstr "Сиккенкен"
+
+#. ID 17
+msgctxt "items.description"
+msgid "シッケンケンになります。"
+msgstr "Стать снежным духом."
+
+#. ID 18
+msgctxt "items.name"
+msgid "バイオリン"
+msgstr "Скрипка"
+
+#. ID 18
+msgctxt "items.description"
+msgid "バイオリンを持ちます。"
+msgstr "Взять в руки скрипку."
+
+#. ID 19
+msgctxt "items.name"
+msgid "-はとどけい"
+msgstr "Часы"
+
+#. ID 19
+msgctxt "items.description"
+msgid "頭が鳩時計になります。"
+msgstr "Сделать голову часами с кукушкой."
+
+#. ID 20
+#. ID 60
+msgctxt "items.name"
+msgid "----"
+msgstr "----"
+
+#. ID 21
+msgctxt "items.name"
+msgid "リボン"
+msgstr "Ленты"
+
+#. ID 21
+msgctxt "items.description"
+msgid "リボンを付けます。"
+msgstr "Подвязать волосы."
+
+#. ID 38
+msgctxt "items.name"
+msgid "■夢日記帳"
+msgstr "■Дневник сновидений"
+
+#. ID 38
+msgctxt "items.description"
+msgid "夢の中でセーブが出来る高級品です。(夢の中専用)"
+msgstr "Роскошный предмет, позволяющий сохраняться в снах."
+
+#. ID 40
+msgctxt "items.name"
+msgid "＝＝＝＝＝＝＝＝＝＝"
+msgstr "=========="
+
+#. ID 41
+msgctxt "items.name"
+msgid " うさぎ"
+msgstr "Заяц"
+
+#. ID 41
+msgctxt "items.description"
+msgid "ウサギになった夢の記憶です。"
+msgstr "Память о превращении в зайца."
+
+#. ID 42
+msgctxt "items.name"
+msgid " ネイルハンマー"
+msgstr "Молоток"
+
+#. ID 42
+msgctxt "items.description"
+msgid "ネイルハンマーを持った夢の記憶です。"
+msgstr "Память о пользовании молотком."
+
+#. ID 43
+msgctxt "items.name"
+msgid " ケーキ"
+msgstr "Торт"
+
+#. ID 43
+msgctxt "items.description"
+msgid "自分がケーキになった夢の記憶です。"
+msgstr "Память о превращении в кусок торта."
+
+#. ID 44
+msgctxt "items.name"
+msgid " コートとマフラー"
+msgstr "Шарф с Пальто"
+
+#. ID 44
+msgctxt "items.description"
+msgid "コートとマフラーを着けていた夢の記憶です。"
+msgstr "Память о ношении шарфа и пальто."
+
+#. ID 45
+msgctxt "items.name"
+msgid " ステンドグラス"
+msgstr "Витраж"
+
+#. ID 45
+msgctxt "items.description"
+msgid "体がステンドグラスのようになった夢の記憶です。"
+msgstr "Память о переливающемся всеми цветами теле."
+
+#. ID 47
+msgctxt "items.name"
+msgid " まほうつかい"
+msgstr "Колдунья"
+
+#. ID 47
+msgctxt "items.description"
+msgid "魔法使いになって箒で空を飛んだ夢の記憶です。"
+msgstr "Память о колдовстве и полётах на метле."
+
+#. ID 48
+msgctxt "items.name"
+msgid " アメフラシ"
+msgstr "Аплизия"
+
+#. ID 48
+msgctxt "items.description"
+msgid "アメフラシになった夢の記憶です。"
+msgstr "Память о превращении в морского слизня."
+
+#. ID 49
+msgctxt "items.name"
+msgid " ショートヘアー"
+msgstr "Короткая стрижка"
+
+#. ID 49
+msgctxt "items.description"
+msgid "髪型がショートになった夢の記憶です。"
+msgstr "Память о том, когда волосы были короткими."
+
+#. ID 50
+msgctxt "items.name"
+msgid " くびなし"
+msgstr "Безголовая"
+
+#. ID 50
+msgctxt "items.description"
+msgid "首が無くなった夢の記憶です。"
+msgstr "Память о потере головы."
+
+#. ID 52
+msgctxt "items.name"
+msgid " ほうでんとう"
+msgstr "Лампа"
+
+#. ID 52
+msgctxt "items.description"
+msgid "頭が放電灯になった夢の記憶です。"
+msgstr "Память о превращении головы в электрическую лампу."
+
+#. ID 53
+msgctxt "items.name"
+msgid " アンドロイド"
+msgstr "Гиноид"
+
+#. ID 53
+msgctxt "items.description"
+msgid "アンドロイドになった夢の記憶です。"
+msgstr "Память о превращении в робота."
+
+#. ID 54
+msgctxt "items.name"
+msgid " たまご"
+msgstr "Яйцо"
+
+#. ID 54
+msgctxt "items.description"
+msgid "卵の殻に閉じこもった夢の記憶です。"
+msgstr "Память о заточении в яичной скорлупе."
+
+#. ID 55
+msgctxt "items.name"
+msgid " みこ"
+msgstr "Мико"
+
+#. ID 55
+msgctxt "items.description"
+msgid "巫女装束を着ていた夢の記憶です。"
+msgstr "Память о ношении жреческой одежды."
+
+#. ID 56
+msgctxt "items.name"
+msgid " -くも"
+msgstr "Паук"
+
+#. ID 56
+msgctxt "items.description"
+msgid "蜘蛛になった夢の記憶です。"
+msgstr "Память о превращении в паука."
+
+#. ID 57
+msgctxt "items.name"
+msgid " しっけんけん"
+msgstr "Сиккенкен"
+
+#. ID 57
+msgctxt "items.description"
+msgid "一本足の雪女になりきった夢の記憶です。"
+msgstr "Память о скачущем на одной ноге снежном духе."
+
+#. ID 58
+msgctxt "items.name"
+msgid " バイオリン"
+msgstr "Скрипка"
+
+#. ID 58
+msgctxt "items.description"
+msgid "バイオリンを演奏した夢の記憶です。"
+msgstr "Память об игре на скрипке."
+
+#. ID 59
+msgctxt "items.name"
+msgid " -はとどけい"
+msgstr "Часы"
+
+#. ID 59
+msgctxt "items.description"
+msgid "頭が鳩時計になった夢の記憶です。"
+msgstr "Память о становлении головы часами с кукушкой."
+
+#. ID 61
+msgctxt "items.name"
+msgid " リボン"
+msgstr "Ленты"
+
+#. ID 61
+msgctxt "items.description"
+msgid "リボンで髪を結んだ夢の記憶です。"
+msgstr "Память о подвязывании волос."
+
+#. ID 79
+msgctxt "items.name"
+msgid "■ 夢日記帳"
+msgstr "■Дневник сновидений"
+
+#. ID 79
+msgctxt "items.description"
+msgid "夢の中で夢日記を書いていた夢の記憶です。"
+msgstr "Память о способе запоминать сны во сне."
+
+#. ID 80
+msgctxt "items.name"
+msgid "■ゲームの説明"
+msgstr "■Об игре"
+
+#. ID 80
+msgctxt "items.description"
+msgid "このゲームの遊び方を見ます。"
+msgstr "Объяснить правила игры."
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "敵"
+msgstr "Враг"
+
+#. ID 1
+msgctxt "states.name"
+msgid "戦闘不能"
+msgstr "Небоеспособен"
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr "небоеспособна."
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr "небоеспособен."
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr "возвращается в строй."
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr "Есть"
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr "Надето"
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "¥"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Эффекты"
+
+msgctxt "terms.command_skill"
+msgid "起きる"
+msgstr "Проснуться"
+
+msgctxt "terms.menu_equipment"
+msgid "そうび"
+msgstr "Снаряжение"
+
+msgctxt "terms.menu_quit"
+msgid "ゲーム終了"
+msgstr "Выход"
+
+msgctxt "terms.new_game"
+msgid "はじめから"
+msgstr "Сначала"
+
+msgctxt "terms.load_game"
+msgid "つづきから"
+msgstr "Продолжить"
+
+msgctxt "terms.exit_game"
+msgid "おしまい"
+msgstr "Закончить"
+
+msgctxt "terms.level"
+msgid "ｴﾌｪｸﾄ数"
+msgstr "Эффектов"
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr "Зд"
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr "М"
+
+msgctxt "terms.exp_short"
+msgid "EX"
+msgstr "О"
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr "Э"
+
+msgctxt "terms.hp_short"
+msgid "HP"
+msgstr "Зд"
+
+msgctxt "terms.sp_short"
+msgid "MP"
+msgstr "М"
+
+msgctxt "terms.weapon"
+msgid "右手"
+msgstr "Рука"
+
+msgctxt "terms.shield"
+msgid "左手"
+msgstr "Левая"
+
+msgctxt "terms.armor"
+msgid "体"
+msgstr "Тело"
+
+msgctxt "terms.helmet"
+msgid "頭"
+msgstr "Голова"
+
+msgctxt "terms.accessory"
+msgid "その他"
+msgstr "Прочее"
+
+msgctxt "terms.save_game_message"
+msgid "セーブするファイルを選んでください。"
+msgstr "Выберите слот для сохранения."
+
+msgctxt "terms.load_game_message"
+msgid "ロードするファイルを選んでください。"
+msgstr "Выберите слот для продолжения."
+
+msgctxt "terms.file"
+msgid "ファイル"
+msgstr "Файл"
+
+msgctxt "terms.exit_game_message"
+msgid "ゲームを終了しますか？"
+msgstr "Выйти из игры?"
+
+msgctxt "terms.yes"
+msgid "する"
+msgstr "Выйти"
+
+msgctxt "terms.no"
+msgid "ちがう"
+msgstr "Нет"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

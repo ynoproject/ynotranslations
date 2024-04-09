@@ -1,0 +1,664 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet French Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: Carbonara-Mimigris\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "そめつき"
+msgstr "Sometsuki"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Somnambule"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Se pincer la joue"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "起床します。"
+msgstr "Réveille-toi."
+
+#. ID 1
+#. ID 2
+msgctxt "skills.using_message1"
+msgid "0"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "デバッグ"
+msgstr "Débogage"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "デバッグ的なことをします。"
+msgstr "Utile lors d'opérations de débogage."
+
+#. ID 1
+msgctxt "items.name"
+msgid "うさぎ"
+msgstr "Lapine"
+
+#. ID 1
+msgctxt "items.description"
+msgid "ウサギになります。"
+msgstr "Deviens une lapine."
+
+#. ID 2
+msgctxt "items.name"
+msgid "ネイルハンマー"
+msgstr "Marteau de menuisier"
+
+#. ID 2
+msgctxt "items.description"
+msgid "ネイルハンマーを持ちます。"
+msgstr "Porte un marteau de menuisier."
+
+#. ID 3
+msgctxt "items.name"
+msgid "ケーキ"
+msgstr "Gâteau"
+
+#. ID 3
+msgctxt "items.description"
+msgid "ケーキになります。"
+msgstr "Deviens un gâteau."
+
+#. ID 4
+msgctxt "items.name"
+msgid "コートとマフラー"
+msgstr "Manteau et écharpe"
+
+#. ID 4
+msgctxt "items.description"
+msgid "コートとマフラーを着けます。"
+msgstr "Porte un manteau et une écharpe."
+
+#. ID 5
+msgctxt "items.name"
+msgid "ステンドグラス"
+msgstr "Vitrail"
+
+#. ID 5
+msgctxt "items.description"
+msgid "ステンドグラスになります。"
+msgstr "Deviens un vitrail humanoïde."
+
+#. ID 7
+msgctxt "items.name"
+msgid "まほうつかい"
+msgstr "Magicienne"
+
+#. ID 7
+msgctxt "items.description"
+msgid "魔法使いになります。"
+msgstr "Deviens une magicienne."
+
+#. ID 8
+msgctxt "items.name"
+msgid "アメフラシ"
+msgstr "Lièvre de mer"
+
+#. ID 8
+msgctxt "items.description"
+msgid "アメフラシになります。"
+msgstr "Deviens un lièvre de mer."
+
+#. ID 9
+msgctxt "items.name"
+msgid "ショートヘアー"
+msgstr "Cheveux courts"
+
+#. ID 9
+msgctxt "items.description"
+msgid "ショートヘアーになります。"
+msgstr "Aie des cheveux courts."
+
+#. ID 10
+msgctxt "items.name"
+msgid "くびなし"
+msgstr "Acéphale"
+
+#. ID 10
+msgctxt "items.description"
+msgid "首が無くなります。"
+msgstr "Deviens un être acéphale."
+
+#. ID 12
+msgctxt "items.name"
+msgid "ほうでんとう"
+msgstr "Lampadaire"
+
+#. ID 12
+msgctxt "items.description"
+msgid "頭が放電灯になります。"
+msgstr "Aie une tête de lampadaire."
+
+#. ID 13
+msgctxt "items.name"
+msgid "アンドロイド"
+msgstr "Gynoïde"
+
+#. ID 13
+msgctxt "items.description"
+msgid "アンドロイドになります。"
+msgstr "Deviens une gynoïde."
+
+#. ID 14
+msgctxt "items.name"
+msgid "たまご"
+msgstr "Œuf"
+
+#. ID 14
+msgctxt "items.description"
+msgid "卵になります。"
+msgstr "Deviens un œuf."
+
+#. ID 15
+msgctxt "items.name"
+msgid "みこ"
+msgstr "Miko"
+
+#. ID 15
+msgctxt "items.description"
+msgid "巫女さんになります。"
+msgstr "Deviens une miko."
+
+#. ID 16
+msgctxt "items.name"
+msgid "-くも"
+msgstr "-Araignée"
+
+#. ID 16
+msgctxt "items.description"
+msgid "蜘蛛になります。"
+msgstr "Deviens une araignée."
+
+#. ID 17
+msgctxt "items.name"
+msgid "しっけんけん"
+msgstr "Shikkenken"
+
+#. ID 17
+msgctxt "items.description"
+msgid "シッケンケンになります。"
+msgstr "Deviens une Shikkenken."
+
+#. ID 18
+msgctxt "items.name"
+msgid "バイオリン"
+msgstr "Violon"
+
+#. ID 18
+msgctxt "items.description"
+msgid "バイオリンを持ちます。"
+msgstr "Porte un violon."
+
+#. ID 19
+msgctxt "items.name"
+msgid "-はとどけい"
+msgstr "-Pendule à coucou"
+
+#. ID 19
+msgctxt "items.description"
+msgid "頭が鳩時計になります。"
+msgstr "Aie une tête de pendule à coucou."
+
+#. ID 20
+#. ID 60
+msgctxt "items.name"
+msgid "----"
+msgstr ""
+
+#. ID 21
+msgctxt "items.name"
+msgid "リボン"
+msgstr "Rubans"
+
+#. ID 21
+msgctxt "items.description"
+msgid "リボンを付けます。"
+msgstr "Porte des rubans."
+
+#. ID 38
+msgctxt "items.name"
+msgid "■夢日記帳"
+msgstr "■Journal des rêves"
+
+#. ID 38
+msgctxt "items.description"
+msgid "夢の中でセーブが出来る高級品です。(夢の中専用)"
+msgstr "Permet de sauvegarder (uniquement) lors d'un rêve."
+
+#. ID 40
+msgctxt "items.name"
+msgid "＝＝＝＝＝＝＝＝＝＝"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid " うさぎ"
+msgstr " Lapine"
+
+#. ID 41
+msgctxt "items.description"
+msgid "ウサギになった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en tant que lapine."
+
+#. ID 42
+msgctxt "items.name"
+msgid " ネイルハンマー"
+msgstr " Marteau de menuisier"
+
+#. ID 42
+msgctxt "items.description"
+msgid "ネイルハンマーを持った夢の記憶です。"
+msgstr "Souvenir d'un rêve avec un marteau de menuisier."
+
+#. ID 43
+msgctxt "items.name"
+msgid " ケーキ"
+msgstr " Gâteau"
+
+#. ID 43
+msgctxt "items.description"
+msgid "自分がケーキになった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en tant que gâteau."
+
+#. ID 44
+msgctxt "items.name"
+msgid " コートとマフラー"
+msgstr " Manteau et écharpe"
+
+#. ID 44
+msgctxt "items.description"
+msgid "コートとマフラーを着けていた夢の記憶です。"
+msgstr "Souvenir d'un manteau et d'une écharpe oniriques."
+
+#. ID 45
+msgctxt "items.name"
+msgid " ステンドグラス"
+msgstr " Vitrail"
+
+#. ID 45
+msgctxt "items.description"
+msgid "体がステンドグラスのようになった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu avec un corps en vitrail."
+
+#. ID 47
+msgctxt "items.name"
+msgid " まほうつかい"
+msgstr " Magicienne"
+
+#. ID 47
+msgctxt "items.description"
+msgid "魔法使いになって箒で空を飛んだ夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en tant que sorcière à balai."
+
+#. ID 48
+msgctxt "items.name"
+msgid " アメフラシ"
+msgstr " Lièvre de mer"
+
+#. ID 48
+msgctxt "items.description"
+msgid "アメフラシになった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en tant que lièvre de mer."
+
+#. ID 49
+msgctxt "items.name"
+msgid " ショートヘアー"
+msgstr " Cheveux courts"
+
+#. ID 49
+msgctxt "items.description"
+msgid "髪型がショートになった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en ayant des cheveux courts."
+
+#. ID 50
+msgctxt "items.name"
+msgid " くびなし"
+msgstr " Acéphale"
+
+#. ID 50
+msgctxt "items.description"
+msgid "首が無くなった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en ayant perdu la tête."
+
+#. ID 52
+msgctxt "items.name"
+msgid " ほうでんとう"
+msgstr " Lampadaire"
+
+#. ID 52
+msgctxt "items.description"
+msgid "頭が放電灯になった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu avec un lampadaire comme tête."
+
+#. ID 53
+msgctxt "items.name"
+msgid " アンドロイド"
+msgstr " Gynoïde"
+
+#. ID 53
+msgctxt "items.description"
+msgid "アンドロイドになった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en tant que gynoïde."
+
+#. ID 54
+msgctxt "items.name"
+msgid " たまご"
+msgstr " Œuf"
+
+#. ID 54
+msgctxt "items.description"
+msgid "卵の殻に閉じこもった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu coincée dans une coquille."
+
+#. ID 55
+msgctxt "items.name"
+msgid " みこ"
+msgstr " Miko"
+
+#. ID 55
+msgctxt "items.description"
+msgid "巫女装束を着ていた夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu habillée en miko."
+
+#. ID 56
+msgctxt "items.name"
+msgid " -くも"
+msgstr " -Araignée"
+
+#. ID 56
+msgctxt "items.description"
+msgid "蜘蛛になった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en tant qu'araignée."
+
+#. ID 57
+msgctxt "items.name"
+msgid " しっけんけん"
+msgstr " Shikkenken"
+
+#. ID 57
+msgctxt "items.description"
+msgid "一本足の雪女になりきった夢の記憶です。"
+msgstr "Souvenir d'un rêve avec une Yuki-onna unijambiste."
+
+#. ID 58
+msgctxt "items.name"
+msgid " バイオリン"
+msgstr " Violon"
+
+#. ID 58
+msgctxt "items.description"
+msgid "バイオリンを演奏した夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu en jouant du violon."
+
+#. ID 59
+msgctxt "items.name"
+msgid " -はとどけい"
+msgstr " -Pendule à coucou"
+
+#. ID 59
+msgctxt "items.description"
+msgid "頭が鳩時計になった夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu avec une pendule à coucou."
+
+#. ID 61
+msgctxt "items.name"
+msgid " リボン"
+msgstr " Rubans"
+
+#. ID 61
+msgctxt "items.description"
+msgid "リボンで髪を結んだ夢の記憶です。"
+msgstr "Souvenir d'un rêve vécu avec des rubans sur la tête."
+
+#. ID 79
+msgctxt "items.name"
+msgid "■ 夢日記帳"
+msgstr "■ Journal des rêves"
+
+#. ID 79
+msgctxt "items.description"
+msgid "夢の中で夢日記を書いていた夢の記憶です。"
+msgstr "Souvenir d'un journal des rêves onirique."
+
+#. ID 80
+msgctxt "items.name"
+msgid "■ゲームの説明"
+msgstr "■ Instructions"
+
+#. ID 80
+msgctxt "items.description"
+msgid "このゲームの遊び方を見ます。"
+msgstr " Lire les instructions du jeu."
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "敵"
+msgstr "Ennemi"
+
+#. ID 1
+msgctxt "states.name"
+msgid "戦闘不能"
+msgstr "K.O."
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr " est tombé..."
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr " est K.O. !"
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr " est de retour parmi nous !"
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr "Objets en poche"
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr "Nombre d'effets"
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "￥"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Effets"
+
+msgctxt "terms.command_skill"
+msgid "起きる"
+msgstr "Se réveiller"
+
+msgctxt "terms.menu_equipment"
+msgid "そうび"
+msgstr "Équipement"
+
+msgctxt "terms.menu_quit"
+msgid "ゲーム終了"
+msgstr "Quitter"
+
+msgctxt "terms.new_game"
+msgid "はじめから"
+msgstr "Commencer"
+
+msgctxt "terms.load_game"
+msgid "つづきから"
+msgstr "Continuer"
+
+msgctxt "terms.exit_game"
+msgid "おしまい"
+msgstr "Quitter"
+
+msgctxt "terms.level"
+msgid "ｴﾌｪｸﾄ数"
+msgstr "Effets obtenus"
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr "PV"
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr "PM"
+
+msgctxt "terms.exp_short"
+msgid "EX"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "HP"
+msgstr "PV"
+
+msgctxt "terms.sp_short"
+msgid "MP"
+msgstr "PM"
+
+msgctxt "terms.weapon"
+msgid "右手"
+msgstr "Main droite"
+
+msgctxt "terms.shield"
+msgid "左手"
+msgstr "Main gauche"
+
+msgctxt "terms.armor"
+msgid "体"
+msgstr "Corps"
+
+msgctxt "terms.helmet"
+msgid "頭"
+msgstr "Tête"
+
+msgctxt "terms.accessory"
+msgid "その他"
+msgstr "Autre"
+
+msgctxt "terms.save_game_message"
+msgid "セーブするファイルを選んでください。"
+msgstr "Veuillez choisir le fichier où sauvegarder."
+
+msgctxt "terms.load_game_message"
+msgid "ロードするファイルを選んでください。"
+msgstr "Veuillez choisir le fichier à charger."
+
+msgctxt "terms.file"
+msgid "ファイル"
+msgstr "Fichier"
+
+msgctxt "terms.exit_game_message"
+msgid "ゲームを終了しますか？"
+msgstr "Voulez-vous quitter le jeu ?"
+
+msgctxt "terms.yes"
+msgid "する"
+msgstr "Oui"
+
+msgctxt "terms.no"
+msgid "ちがう"
+msgstr "Non"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

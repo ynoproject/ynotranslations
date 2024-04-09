@@ -11,7 +11,7 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Fluorette"
-msgstr "플루렛테"
+msgstr "플루오렛"
 
 #. ID 2
 msgctxt "actors.name"
@@ -37,23 +37,23 @@ msgstr "(삽)"
 #. ID 3
 msgctxt "items.name"
 msgid "Koraiyn"
-msgstr "코라인"
+msgstr "코레인"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "What's a Koraiyn?"
-msgstr "코라인이 뭐야?"
+msgstr "코레인이 뭐야?"
 
 #. ID 4
 msgctxt "items.name"
 msgid "(Koraiyn)"
-msgstr "(코라인)"
+msgstr "(코레인)"
 
 #. ID 5
 msgctxt "items.name"
 msgid "Phantom"
-msgstr "펜텀"
+msgstr "팬텀"
 
 #. ID 5
 #. ID 6
@@ -64,7 +64,7 @@ msgstr "그림자가 된다."
 #. ID 6
 msgctxt "items.name"
 msgid "(Phantom)"
-msgstr "(펜텀)"
+msgstr "(팬텀)"
 
 #. ID 7
 msgctxt "items.name"
@@ -149,7 +149,7 @@ msgstr "(촉수)"
 #. ID 17
 msgctxt "items.name"
 msgid "Tall Geta"
-msgstr "굽높은 게다"
+msgstr "굽 높은 게다"
 
 #. ID 17
 #. ID 18
@@ -160,7 +160,7 @@ msgstr "이것을 신으면 당신에게 추진력을 준다."
 #. ID 18
 msgctxt "items.name"
 msgid "(Tall Geta)"
-msgstr "(굽높은 게다)"
+msgstr "(굽 높은 게다)"
 
 #. ID 19
 msgctxt "items.name"
@@ -253,12 +253,12 @@ msgstr "어딘가에서 고칠 수 있을 것 같다..."
 #. ID 56
 msgctxt "items.name"
 msgid "Rusty Key"
-msgstr "녹슬은 열쇠"
+msgstr "녹슨 열쇠"
 
 #. ID 56
 msgctxt "items.description"
 msgid "A rusty old key."
-msgstr "녹슬은 오래된 열쇠다."
+msgstr "녹슨 오래된 열쇠다."
 
 msgctxt "terms.special_combat"
 msgid "Surprised the enemy!"
@@ -266,7 +266,7 @@ msgstr "적에게 기습을 받았다!"
 
 msgctxt "terms.escape_failure"
 msgid "Failed to escape!"
-msgstr "도망치는데에 실패했다!"
+msgstr "도망치는 데에 실패했다!"
 
 msgctxt "terms.victory"
 msgid "Victory!"
@@ -482,7 +482,7 @@ msgstr "감사합니다!"
 
 msgctxt "terms.shop_sell_select2"
 msgid "Which are you getting rid of?"
-msgstr "어느 것을 주실겁니까?"
+msgstr "어느 것을 주실 겁니까?"
 
 msgctxt "terms.shop_sell_number2"
 msgid "How many can I take off your hands?"
@@ -566,7 +566,7 @@ msgstr "준비되어있습니다"
 
 msgctxt "terms.inn_b_greeting_3"
 msgid "How about spending the night?"
-msgstr "밤 동안 시간을 보내다 가시는건 어떠신지요?"
+msgstr "밤 동안 시간을 보내다 가시는 건 어떠신지요?"
 
 msgctxt "terms.inn_b_accept"
 msgid "Stay"
