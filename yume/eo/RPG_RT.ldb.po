@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -27,19 +27,19 @@ msgstr "Rano"
 #. ID 2
 msgctxt "items.description"
 msgid "Transform into a frog."
-msgstr "Transformiĝi en rano."
+msgstr "Transformiĝi rano."
 
 #. ID 3
 #. ID 4
 msgctxt "items.name"
 msgid "Umbrella"
-msgstr "Pluvombrelo"
+msgstr "Ombrelo"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "Use an umbrella."
-msgstr "Teni pluvombrelon."
+msgstr "Malfermi ombrelon."
 
 #. ID 5
 #. ID 6
@@ -57,13 +57,13 @@ msgstr "Surmeti ĉapelon kaj koltukon."
 #. ID 8
 msgctxt "items.name"
 msgid "Snow Woman"
-msgstr "Virino de Neĝo"
+msgstr "Neĝa Virino"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
 msgid "Morph into a Snow Woman."
-msgstr "Transformiĝi en Virino de Neĝo."
+msgstr "Transformiĝi Neĝa Virino."
 
 #. ID 9
 #. ID 10
@@ -75,7 +75,7 @@ msgstr "Tranĉilo"
 #. ID 10
 msgctxt "items.description"
 msgid "Equip a kitchen knife."
-msgstr "Trapiki uzante tranĉilon."
+msgstr "Por ponardi… aferojn?"
 
 #. ID 11
 #. ID 12
@@ -87,7 +87,7 @@ msgstr "Okulmano"
 #. ID 12
 msgctxt "items.description"
 msgid "Warp into an Eye Palm."
-msgstr "Via kapo fariĝas Okulmano."
+msgstr "Al tie okulo ne apartenas."
 
 #. ID 13
 #. ID 14
@@ -99,7 +99,7 @@ msgstr "Dika"
 #. ID 14
 msgctxt "items.description"
 msgid "Balloon in size."
-msgstr "Dikiĝi kiel balono."
+msgstr "Grandiĝi."
 
 #. ID 15
 #. ID 16
@@ -165,13 +165,13 @@ msgstr "Perdi vian korpon."
 #. ID 26
 msgctxt "items.name"
 msgid "Towel"
-msgstr "Mantuko"
+msgstr "Bantuko"
 
 #. ID 25
 #. ID 26
 msgctxt "items.description"
 msgid "Wrap yourself in a towel."
-msgstr "Envolvi vin en mantukon."
+msgstr "Envolviĝi per bantuko."
 
 #. ID 27
 #. ID 28
@@ -195,7 +195,7 @@ msgstr "Lampo"
 #. ID 30
 msgctxt "items.description"
 msgid "Change into a lamp."
-msgstr "Turni vian kapon en lampon."
+msgstr "Lumigi la nokton."
 
 #. ID 31
 #. ID 32
@@ -213,13 +213,13 @@ msgstr "Munti biciklon."
 #. ID 34
 msgctxt "items.name"
 msgid "Long Hair"
-msgstr "Longaj Haroj"
+msgstr "Longa Hararo"
 
 #. ID 33
 #. ID 34
 msgctxt "items.description"
 msgid "Grow long hair."
-msgstr "Elkreskigi viajn harojn."
+msgstr "Elkreskigi vian hararon."
 
 #. ID 35
 #. ID 36
@@ -243,19 +243,19 @@ msgstr "Blonda"
 #. ID 38
 msgctxt "items.description"
 msgid "Grow long blonde hair."
-msgstr "Kreski blondajn harojn."
+msgstr "Kreski blondan hararon. Aŭ ĉu ĝi estas peruko…?"
 
 #. ID 39
 #. ID 40
 msgctxt "items.name"
 msgid "Spirit Headband"
-msgstr "Spirita Kaprubando"
+msgstr "Triangula Kaptuko"
 
 #. ID 39
 #. ID 40
 msgctxt "items.description"
 msgid "Put on a Spirit Headband."
-msgstr "Surmeti Spiritan Kapbendon."
+msgstr "Surmeti triangulan kaptukon."
 
 #. ID 41
 #. ID 42
@@ -267,7 +267,7 @@ msgstr "Sorĉistino"
 #. ID 42
 msgctxt "items.description"
 msgid "Become a witch incarnate."
-msgstr "Fariĝi sorĉistino enkarniĝinta."
+msgstr "Fariĝi sorĉistino! La balailo ne rapidigas vin, bedaŭrinde."
 
 #. ID 43
 #. ID 44
@@ -279,7 +279,7 @@ msgstr "Demono"
 #. ID 44
 msgctxt "items.description"
 msgid "Reconstitute as an oni."
-msgstr "Rekonstrui kiel demono."
+msgstr "Ĉu vi eskapis el la infero? (...La alia.)"
 
 #. ID 45
 #. ID 46
@@ -303,7 +303,7 @@ msgstr "Semaforo"
 #. ID 48
 msgctxt "items.description"
 msgid "Change into a traffic light."
-msgstr "Turniĝi en semaforo."
+msgstr "Sed kie estas la aŭtoj?"
 
 #. ID 57
 msgctxt "items.name"
@@ -637,7 +637,7 @@ msgstr ""
 
 msgctxt "terms.gold"
 msgid "\\"
-msgstr ""
+msgstr "₷"
 
 msgctxt "terms.command_attack"
 msgid "UŒ‚"
@@ -657,7 +657,7 @@ msgstr "Ĉesi"
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr "Nova Ludo"
+msgstr "Komenci Ludon"
 
 msgctxt "terms.load_game"
 msgid "Dream Diary"
@@ -665,7 +665,7 @@ msgstr "Sonĝa Taglibro"
 
 msgctxt "terms.exit_game"
 msgid "Quit"
-msgstr "Ĉesi Ludon"
+msgstr "Ĉesi Ludo"
 
 msgctxt "terms.lvl_short"
 msgid "E"
@@ -677,11 +677,11 @@ msgstr ""
 
 msgctxt "terms.save_game_message"
 msgid "Write in Diary"
-msgstr "Skribi en Taglibro"
+msgstr "Sur kiun paĝon vi volas skribi?"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "Legi la Taglibron"
+msgstr "Kiun paĝon vi volas legi?"
 
 msgctxt "terms.file"
 msgid "Page"
