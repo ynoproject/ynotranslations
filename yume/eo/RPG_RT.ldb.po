@@ -243,7 +243,7 @@ msgstr "Blonda"
 #. ID 38
 msgctxt "items.description"
 msgid "Grow long blonde hair."
-msgstr "Kreskigi blondan hararon. (Aŭ ĉu ĝi estas peruko…?)"
+msgstr "Tinkturi vian hararon blonda."
 
 #. ID 39
 #. ID 40
