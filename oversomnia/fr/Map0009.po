@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 19, Page 1, Line 9, Pos (37,20)
+msgid "\\C[19]Greetings, Irving.\\. What do you need?"
+msgstr "\\C[19]Salut Irving.\\. T'as besoin de quoi ?"
+
+#. ID 19, Page 1, Line 21, Pos (37,20)
+#. Choice (2 options)
+msgid ""
+"Temporary Effects\n"
+"Nevermind"
+msgstr ""
+"Effets temporaires\n"
+"Laisse tomber"
+
+#. ID 19, Page 1, Line 25, Pos (37,20)
+msgid ""
+"\\C[19]These are temporary effects,\\. they will \n"
+"vanish from your memory when you wake up...\\.\\.\n"
+"Here's what I'm selling."
+msgstr ""
+"\\C[19]Ce sont des effets temporaires,\\. ils disparaîtront\n"
+"de tes souvenirs lorsque tu te réveilleras...\\.\\.\n"
+"Voici ce que je propose."
+
+#. ID 19, Page 1, Line 33, Pos (37,20)
+#. Choice (4 options)
+msgid ""
+"Speed-Up Effect [10$q]\n"
+"Attack Effect   [10$q]\n"
+"Escape Effect   [10$q]\n"
+"Nevermind"
+msgstr ""
+"Effet de Vitesse +   [10$q]\n"
+"Effet d'Attaque      [10$q]\n"
+"Effet d'Échappatoire [10$q]\n"
+"Laisse tomber"
+
