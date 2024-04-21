@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 15, Page 1, Line 1, Pos (1,0)
+msgid "速度変更"
+msgstr "Change Speed"
+
+#. ID 15, Page 1, Line 2, Pos (1,0)
+#. Choice (4 options)
+msgid ""
+"ふつう\n"
+"速い\n"
+"戦闘機並み\n"
+"変更しない"
+msgstr ""
+"Normal\n"
+"Fast\n"
+"Fighter Plane\n"
+"No change"
