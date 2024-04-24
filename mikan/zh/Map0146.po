@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 9, Pos (35,6)
+#. ID 4, Page 1, Line 9, Pos (31,6)
+#. ID 5, Page 1, Line 9, Pos (35,9)
+#. ID 6, Page 1, Line 9, Pos (31,9)
+#. ID 7, Page 1, Line 9, Pos (39,6)
+#. ID 8, Page 1, Line 9, Pos (39,9)
+#. ID 9, Page 1, Line 9, Pos (43,9)
+#. ID 10, Page 1, Line 9, Pos (43,6)
+#. ID 11, Page 1, Line 9, Pos (47,6)
+#. ID 12, Page 1, Line 9, Pos (47,9)
+#. ID 13, Page 1, Line 9, Pos (51,6)
+#. ID 14, Page 1, Line 9, Pos (51,9)
+#. ID 15, Page 1, Line 9, Pos (27,6)
+#. ID 16, Page 1, Line 9, Pos (27,9)
+#. ID 17, Page 1, Line 9, Pos (23,9)
+#. ID 18, Page 1, Line 9, Pos (22,9)
+#. ID 19, Page 1, Line 9, Pos (23,6)
+#. ID 20, Page 1, Line 9, Pos (19,6)
+#. ID 21, Page 1, Line 9, Pos (19,9)
+#. ID 22, Page 1, Line 9, Pos (20,9)
+#. ID 23, Page 1, Line 9, Pos (15,6)
+#. ID 24, Page 1, Line 9, Pos (15,9)
+#. ID 25, Page 1, Line 9, Pos (11,9)
+#. ID 26, Page 1, Line 9, Pos (11,6)
+#. ID 27, Page 1, Line 9, Pos (7,6)
+#. ID 28, Page 1, Line 9, Pos (7,9)
+#. ID 29, Page 1, Line 9, Pos (3,9)
+#. ID 30, Page 1, Line 9, Pos (3,6)
+msgid ""
+"\n"
+"\n"
+"　　　　　　　　　　　\\V[49]\\V[50]\\V[56]\\V[57]\\V[58]"
+msgstr ""
+

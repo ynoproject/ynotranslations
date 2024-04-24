@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 70, Line 5
+msgid "\\$ \\^"
+msgstr ""
+
+#. ID 192, Line 8
+#. Choice (2 options)
+msgid ""
+"クイックセーブ\n"
+"場所移動"
+msgstr ""
+
+#. ID 192, Line 13
+#. Choice (4 options)
+msgid ""
+"廃屋\n"
+"偏頭痛\n"
+"厭世\n"
+"未定"
+msgstr ""
+
