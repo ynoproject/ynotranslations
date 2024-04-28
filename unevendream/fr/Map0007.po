@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1, Page 1, Line 1, Pos (7,4)
 #. Contains choice at line 2 (2 options)
 msgid "Go to..."
-msgstr "Aller à..."
+msgstr "Aller dans la..."
 
 #. ID 1, Page 1, Line 2, Pos (7,4)
 #. Choice (2 options, embedded in a message)
@@ -41,8 +41,6 @@ msgstr "Hé, c'est Backbeat Anthem. Obtenir KUBOEFFET03 ?"
 #. Choice (2 options, embedded in a message)
 #. ID 75, Page 1, Line 2, Pos (19,4)
 #. Choice (2 options, embedded in a message)
-#. ID 76, Page 1, Line 2, Pos (23,3)
-#. Choice (2 options, embedded in a message)
 #. ID 79, Page 1, Line 40, Pos (28,4)
 #. Choice (2 options, embedded in a message)
 #. ID 79, Page 1, Line 55, Pos (28,4)
@@ -60,7 +58,7 @@ msgid ""
 "NPCs,\\. then interact with them to kill them."
 msgstr ""
 "Effet Boule à neige obtenu.\\! Équipez-le pour geler\n"
-"les PNJs, puis interagissez avec eux pour les tuer."
+"les PNJs,\\. puis interagissez avec eux pour les tuer."
 
 #. ID 2, Page 1, Line 12, Pos (5,4)
 msgid "Suit yourself. Have EFFECT028 instead."
@@ -73,7 +71,7 @@ msgid ""
 "(Obtained the Lily of the Valley Effect. Interact\n"
 " with NPCs to poison and kill them.)"
 msgstr ""
-"(Obtenu l'effet Muguet. Interagissez avec les\n"
+"(Effet Muguet obtenu. Interagissez avec les\n"
 " PNJs pour les empoisonner et les tuer.)"
 
 #. ID 4, Page 1, Line 1, Pos (10,4)
@@ -116,8 +114,8 @@ msgid ""
 "\\>\"activate\" chaser? (if it catches you, you can\n"
 "\\>choose not to be warped somewhere else)"
 msgstr ""
-"\\>\"activer\" le chasseur ? (si il t'attrape, tu peux\n"
-"\\>choisir de ne pas te faire téléporter autre part)"
+"\\>« Activer » le chasseur ? (si il t'attrape, tu\n"
+"\\>peux choisir de ne pas te faire attraper)"
 
 #. ID 66, Page 2, Line 1, Pos (14,4)
 #. Choice (2 options)
@@ -125,8 +123,8 @@ msgid ""
 "\"deactivate\" chaser\n"
 "get caught"
 msgstr ""
-"\"désactiver\" le chasseur\n"
-"se faire attraper"
+"« Désactiver » le chasseur\n"
+"Se faire attraper"
 
 #. ID 68, Page 1, Line 1, Pos (16,4)
 #. Contains choice at line 2 (2 options)
@@ -135,11 +133,11 @@ msgstr "\\>Test aquatique"
 
 #. ID 70, Page 1, Line 1, Pos (18,4)
 msgid "wallpaper to modify:"
-msgstr "fond d'écran à modifier :"
+msgstr "Fond d'écran à modifier :"
 
 #. ID 70, Page 1, Line 3, Pos (18,4)
 msgid "what do you want to do?"
-msgstr "que veux-tu faire ?"
+msgstr "Que voulez-vous faire ?"
 
 #. ID 70, Page 1, Line 4, Pos (18,4)
 #. Choice (4 options)
@@ -147,17 +145,21 @@ msgid ""
 "read (0)\n"
 "unfound --> found (1)\n"
 "found --> read (2)\n"
-"exit"
+"lock (3)"
 msgstr ""
-"lire (0)\n"
-"à trouver --> trouvé (1)\n"
-"trouvé --> lire (2)\n"
-"quitter"
+"Lire le statut du fond d'écran (0)\n"
+"Passer de non trouvé à trouvé (1)\n"
+"Passer de trouvé à lu (2)\n"
+"Verrouiller le fond d'écran (3)"
+
+#. ID 70, Page 1, Line 22, Pos (18,4)
+msgid "\\v[0060]"
+msgstr "Statut du fond d'écran : \\v[0060]"
 
 #. ID 71, Page 1, Line 1, Pos (21,4)
 #. Contains choice at line 2 (3 options)
 msgid "Braille events:"
-msgstr "Événements en Braille :"
+msgstr "Événements en braille :"
 
 #. ID 71, Page 1, Line 2, Pos (21,4)
 #. Choice (3 options, embedded in a message)
@@ -167,7 +169,7 @@ msgid ""
 "Don't change."
 msgstr ""
 "ANG\n"
-"JPN\n"
+"JAP\n"
 "Ne pas changer."
 
 #. ID 71, Page 1, Line 6, Pos (21,4)
@@ -175,16 +177,16 @@ msgid ""
 "All Braille Easter eggs will now be displayed in English \n"
 "Braille/Grade 2 Braille.\n"
 msgstr ""
-"Tous les Easter eggs en Braille seront affichés en \n"
-"Anglais, Braille/Grade 2 Braille.\n"
+"Tous les secrets en braille seront affichés en \n"
+"anglais, Braille/Braille Grade 2.\n"
 
 #. ID 71, Page 1, Line 13, Pos (21,4)
 msgid ""
 "All Braille Easter eggs will now be displayed in Tenji/Japanese \n"
 "Braille."
 msgstr ""
-"Tous les Easter eggs en Braille seront affichés en \n"
-"Tenji/Japonais, Braille."
+"Tous les secrets en braille seront affichés en \n"
+"Tenji/Braille japonais."
 
 #. ID 72, Page 1, Line 1, Pos (23,5)
 #. Contains choice at line 2 (2 options)
@@ -192,97 +194,111 @@ msgid "Play current credits?"
 msgstr "Lancer les crédits actuels ?"
 
 #. ID 72, Page 1, Line 9, Pos (23,5)
-#. ID 76, Page 1, Line 8, Pos (23,3)
-msgid ""
-"Team uneven:\n"
-"\n"
-msgstr ""
-"Team uneven :\n"
-"\n"
+msgid "Team Uneven:"
+msgstr "Team Uneven :"
 
-#. ID 72, Page 1, Line 12, Pos (23,5)
-#. ID 76, Page 1, Line 11, Pos (23,3)
+#. ID 72, Page 1, Line 10, Pos (23,5)
 msgid "Administrators:"
 msgstr "Administrateurs :"
 
-#. ID 72, Page 1, Line 13, Pos (23,5)
-msgid "FD"
+#. ID 72, Page 1, Line 11, Pos (23,5)
+msgid "River"
 msgstr ""
 
-#. ID 72, Page 1, Line 14, Pos (23,5)
+#. ID 72, Page 1, Line 12, Pos (23,5)
 msgid "Nexus0.10"
 msgstr ""
 
-#. ID 72, Page 1, Line 15, Pos (23,5)
+#. ID 72, Page 1, Line 13, Pos (23,5)
 msgid "Members and contributors:"
 msgstr "Membres et contributeurs :"
 
-#. ID 72, Page 1, Line 16, Pos (23,5)
-msgid "OLM"
+#. ID 72, Page 1, Line 14, Pos (23,5)
+msgid "Olm/jovana"
 msgstr ""
 
-#. ID 72, Page 1, Line 17, Pos (23,5)
+#. ID 72, Page 1, Line 15, Pos (23,5)
 msgid "Sakura"
 msgstr ""
 
+#. ID 72, Page 1, Line 16, Pos (23,5)
+msgid "Question Mark/Q.Mark"
+msgstr ""
+
+#. ID 72, Page 1, Line 17, Pos (23,5)
+msgid "John Ruiz"
+msgstr ""
+
 #. ID 72, Page 1, Line 18, Pos (23,5)
-msgid "Question Mark/Q.Mark\n"
-msgstr ""
-
-#. ID 72, Page 1, Line 20, Pos (23,5)
-msgid "BackbeatAnthem/Anthem\n"
-msgstr ""
-
-#. ID 72, Page 1, Line 22, Pos (23,5)
 msgid "OutlanderS3S/Ipomoea"
 msgstr ""
 
-#. ID 72, Page 1, Line 23, Pos (23,5)
+#. ID 72, Page 1, Line 19, Pos (23,5)
 msgid "Milica"
 msgstr ""
 
-#. ID 72, Page 1, Line 24, Pos (23,5)
-msgid "Rindre\n"
+#. ID 72, Page 1, Line 20, Pos (23,5)
+msgid "Rindre"
 msgstr ""
 
-#. ID 72, Page 1, Line 26, Pos (23,5)
-msgid "001247"
-msgstr ""
-
-#. ID 72, Page 1, Line 27, Pos (23,5)
+#. ID 72, Page 1, Line 21, Pos (23,5)
 msgid "Jojogape"
 msgstr ""
 
-#. ID 72, Page 1, Line 28, Pos (23,5)
+#. ID 72, Page 1, Line 22, Pos (23,5)
 msgid "Rurima"
 msgstr ""
 
-#. ID 72, Page 1, Line 29, Pos (23,5)
-msgid "Hecatia/River"
-msgstr ""
-
-#. ID 72, Page 1, Line 30, Pos (23,5)
+#. ID 72, Page 1, Line 23, Pos (23,5)
 msgid "EBroxas72/Gaby Mitchell"
 msgstr ""
 
-#. ID 72, Page 1, Line 31, Pos (23,5)
+#. ID 72, Page 1, Line 24, Pos (23,5)
 msgid "Sniperbob"
 msgstr ""
 
-#. ID 72, Page 1, Line 32, Pos (23,5)
+#. ID 72, Page 1, Line 25, Pos (23,5)
 msgid "gummy"
 msgstr ""
 
-#. ID 72, Page 1, Line 33, Pos (23,5)
+#. ID 72, Page 1, Line 26, Pos (23,5)
 msgid "Hashtag_Underscore"
 msgstr ""
 
-#. ID 72, Page 1, Line 34, Pos (23,5)
+#. ID 72, Page 1, Line 27, Pos (23,5)
 msgid "Stylzm"
 msgstr ""
 
-#. ID 72, Page 1, Line 35, Pos (23,5)
+#. ID 72, Page 1, Line 28, Pos (23,5)
 msgid "Laeaurra Flamehawk"
+msgstr ""
+
+#. ID 72, Page 1, Line 29, Pos (23,5)
+msgid "maple/lumiscosity"
+msgstr ""
+
+#. ID 72, Page 1, Line 30, Pos (23,5)
+msgid "Forest"
+msgstr ""
+
+#. ID 72, Page 1, Line 31, Pos (23,5)
+msgid "shirleycrow"
+msgstr ""
+
+#. ID 72, Page 1, Line 32, Pos (23,5)
+msgid "ZLD1"
+msgstr ""
+
+#. ID 72, Page 1, Line 33, Pos (23,5)
+msgid "Former members and contributors:"
+msgstr "Anciens membres et contributeurs :"
+
+#. ID 72, Page 1, Line 34, Pos (23,5)
+msgid "FD/patbytes"
+msgstr ""
+
+#. ID 72, Page 1, Line 35, Pos (23,5)
+msgid "001247"
 msgstr ""
 
 #. ID 72, Page 1, Line 36, Pos (23,5)
@@ -290,7 +306,7 @@ msgid ""
 "These credits will be updated whenever\n"
 "a new member of the team is added."
 msgstr ""
-"Ces crédits seront mis à jour quand un\n"
+"Ces crédits seront mis à jour chaque fois qu'un\n"
 "nouveau membre de l'équipe sera ajouté."
 
 #. ID 72, Page 1, Line 38, Pos (23,5)
@@ -312,224 +328,7 @@ msgstr "Merci d'avoir joué !"
 #. ID 75, Page 1, Line 1, Pos (19,4)
 #. Contains choice at line 2 (2 options)
 msgid "unlock all wallpapers?"
-msgstr "débloquer tous les fonds d'écrans ?"
-
-#. ID 76, Page 1, Line 1, Pos (23,3)
-#. Contains choice at line 2 (2 options)
-msgid "Play Current Credits?"
-msgstr "Jouer les crédits actuels ?"
-
-#. ID 76, Page 1, Line 12, Pos (23,3)
-msgid ""
-"FD\n"
-"- Patbytes.neocities.org\n"
-"- Twitter.com/cleann_slate\n"
-"- Twitter.com/ambienttiger"
-msgstr ""
-
-#. ID 76, Page 1, Line 16, Pos (23,3)
-msgid ""
-"Nexus0.10\n"
-"-youtube.com/channel/UCgVB7Wuhqv9Ot9d2IQYuvPg\n"
-"- 010nexus.itch.io"
-msgstr ""
-
-#. ID 76, Page 1, Line 19, Pos (23,3)
-msgid "Members And Contributors:"
-msgstr "Membres et contributeurs :"
-
-#. ID 76, Page 1, Line 20, Pos (23,3)
-msgid ""
-"OLM\n"
-"- ???"
-msgstr ""
-
-#. ID 76, Page 1, Line 22, Pos (23,3)
-msgid ""
-"Sakura\n"
-"- twitter.com/karikari_flower"
-msgstr ""
-
-#. ID 76, Page 1, Line 24, Pos (23,3)
-msgid ""
-"Question Mark/Q.Mark\n"
-"- twitter.com/mirabolantes256"
-msgstr ""
-
-#. ID 76, Page 1, Line 26, Pos (23,3)
-msgid ""
-"BackbeatAnthem/Anthem\n"
-"-twitter.com/johnbruiz"
-msgstr ""
-
-#. ID 76, Page 1, Line 28, Pos (23,3)
-msgid ""
-"OutlanderS3S/Ipomoea\n"
-"- twitter.com/IpomoeaDracoART"
-msgstr ""
-
-#. ID 76, Page 1, Line 30, Pos (23,3)
-msgid ""
-"Milica\n"
-"- delmunsoft.com\n"
-"- twitter.com/NoyemiK"
-msgstr ""
-
-#. ID 76, Page 1, Line 33, Pos (23,3)
-msgid ""
-"Rindre\n"
-"- twitter.com/uxseries"
-msgstr ""
-
-#. ID 76, Page 1, Line 35, Pos (23,3)
-msgid ""
-"001247\n"
-"- ???"
-msgstr ""
-
-#. ID 76, Page 1, Line 37, Pos (23,3)
-msgid ""
-"Jojogape\n"
-"- jojogape.tumblr.com\n"
-"- twitter.com/jojogape"
-msgstr ""
-
-#. ID 76, Page 1, Line 40, Pos (23,3)
-msgid ""
-"Rurima\n"
-"- twitter.com/mariel_ophi11"
-msgstr ""
-
-#. ID 76, Page 1, Line 42, Pos (23,3)
-msgid ""
-"Hecatia/River\n"
-"- starlightintheriver.tumblr.com"
-msgstr ""
-
-#. ID 76, Page 1, Line 44, Pos (23,3)
-msgid ""
-"EBroxas72/Gaby Mitchell\n"
-"- twitter.com/EBroxas72gaby\n"
-"- soundcloud.com/eb-roxas-seventytwo\n"
-"- ebroxas72.tumblr.com/"
-msgstr ""
-
-#. ID 76, Page 1, Line 48, Pos (23,3)
-msgid "Usages: "
-msgstr "Usages : "
-
-#. ID 76, Page 1, Line 49, Pos (23,3)
-msgid ""
-"http://www.music-palette.com\n"
-"- Music/bgm_296.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 51, Pos (23,3)
-msgid ""
-"http://koukaongen.com\n"
-"- Music/070916_xxxx27_R09.mp3\n"
-"- Music/080412_051514_d50.mp3\n"
-"- Music/120619_182608.mp3"
-msgstr ""
-
-#. ID 76, Page 1, Line 55, Pos (23,3)
-msgid ""
-"http://maoudamashii.jokersounds.com\n"
-"- Music/loop_117.wav\n"
-"- Sound/se_maoudamashii_se_footstep02.wav\n"
-"- Sound/se_maoudamashii_se_sound07.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 59, Pos (23,3)
-msgid ""
-"- Sound/se_maoudamashii_se_sound14.wav\n"
-"- Sound/se_maoudamashii_system06.wav\n"
-"- Sound/se_maoudamashii_system40.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 62, Pos (23,3)
-msgid ""
-"- Sound/se_maoudamashii_system41.wav\n"
-"- Sound/se_maoudamashii_voice_human03.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 64, Pos (23,3)
-msgid ""
-"http://osabisi.sakura.ne.jp/m2/tm4/se_new.html\n"
-"- Sound/tm2_alchemist000.wav\n"
-"- Sound/tm2_switch000.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 67, Pos (23,3)
-msgid ""
-"http://www.freesound.org\n"
-"- Music/170515__devlab__forest-ambient-01-loop.wav\n"
-"- Music/400862__bobv2__film-01.wav\n"
-"- Sound/17169__lg__eh-uh.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 71, Pos (23,3)
-msgid ""
-"- Sound/42773__decembered__metaldoor.wav\n"
-"- Sound/50928__rutgermuller__voices-short.wav\n"
-"- Sound/51745__erkanozan__bubbles.wav\n"
-"- Sound/60443__jobro__tada1.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 75, Pos (23,3)
-msgid ""
-"- Sound/71853__ludvique__record-scratch.wav\n"
-"- Sound/87717__pierosacco__u.wav\n"
-"- Sound/115604__matteusnova__press-five.wav\n"
-"- Sound/117614__soundmary__door-close.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 79, Pos (23,3)
-msgid ""
-"- Sound/131330__kaonaya__beer-bottle-6.wav\n"
-"- Sound/131886__vtownpunks__closet-1.wav\n"
-"- Sound/135481__shinshi__doorclosing.wav\n"
-"- Sound/161391__tuben__metal-door-close-with-creeks.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 83, Pos (23,3)
-msgid ""
-"- Sound/369779__morganpurkis__snow-step-3.wav\n"
-"- Sound/398937__mypantsfelldown__metal-footstep.wav\n"
-"- Sound/419454__mativve__snow-step-4.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 86, Pos (23,3)
-msgid ""
-"http://www.01earth.net/sound/material/effect/b\n"
-"- Sound/b_021.wav\n"
-"- Sound/b_041.wav\n"
-"- Sound/b_042.wav"
-msgstr ""
-
-#. ID 76, Page 1, Line 90, Pos (23,3)
-msgid ""
-"http://soundbible.com\n"
-"- Music/Car Driving-SoundBible.com-923766101.mp3"
-msgstr ""
-
-#. ID 76, Page 1, Line 92, Pos (23,3)
-msgid ""
-"https://pixabay.com/\n"
-"- Panorama/[Various panoramas by Question Mark]"
-msgstr ""
-"https://pixabay.com/\n"
-"- Panorama/[Divers panoramas par Question Mark]"
-
-#. ID 76, Page 1, Line 94, Pos (23,3)
-msgid ""
-"These credits will be updated whenever \n"
-"a new member of the team is added.\n"
-"Thanks for playing."
-msgstr ""
-"Ces crédits seront mis à jour quand un \n"
-"nouveau membre de l'équipe sera ajouté.\n"
-"Merci d'avoir joué."
+msgstr "Débloquer tous les fonds d'écran ?"
 
 #. ID 77, Page 1, Line 1, Pos (8,4)
 msgid ""
@@ -570,15 +369,16 @@ msgid "OH..."
 msgstr ""
 
 #. ID 78, Page 1, Line 1, Pos (26,4)
-#. Contains choice at line 2 (2 options)
-msgid "menu unlock test"
-msgstr "test de déblocage de menu"
+msgid "menu unlock"
+msgstr "déblocage de menu"
 
 #. ID 78, Page 1, Line 2, Pos (26,4)
-#. Choice (2 options, embedded in a message)
+#. Choice (4 options)
 msgid ""
 "menu 0\n"
-"menu pc98"
+"menu 4\n"
+"menu 5\n"
+"menu 6"
 msgstr ""
 
 #. ID 79, Page 1, Line 2, Pos (28,4)
@@ -646,3 +446,17 @@ msgid "BGM Unlock debug messages are now OFF."
 msgstr ""
 "Les messages de debug de déblocage de piste sont\n"
 "maintenant désactivés."
+
+#. ID 85, Page 1, Line 1, Pos (30,4)
+#. Contains choice at line 2 (2 options)
+msgid "EffectWipe/GiveEffects testing"
+msgstr "Test de débarass'effets/Don d'effets"
+
+#. ID 85, Page 1, Line 2, Pos (30,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"EffectWipe\n"
+"GiveEffects"
+msgstr ""
+"Débarass'effets\n"
+"Don d'effets"
