@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 4, Page 1, Line 1, Pos (19,14)
+#. Contains choice at line 2 (2 options)
+msgid "ミニゲームその１"
+msgstr "Mini-jeu partie 1"
+
+#. ID 4, Page 1, Line 2, Pos (19,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 4, Page 1, Line 4, Pos (19,14)
+#. Contains choice at line 2 (2 options)
+msgid "OP有でやりますか？"
+msgstr "Démarrer depuis la scène d'ouverture ?"
+
+#. ID 4, Page 1, Line 5, Pos (19,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"あり\n"
+"なし"
+msgstr ""
+"Pourquoi pas\n"
+"Sans façon"
