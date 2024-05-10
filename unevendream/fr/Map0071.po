@@ -14,7 +14,7 @@ msgid ""
 "\\>This area is under construction, but available\n"
 "\\>for previewing."
 msgstr ""
-"\\>    !!CHANTIER!!\n"
+"\\>  !! CHANTIER !!\n"
 "\\>Cette zone est en construction, mais est\n"
 "\\>disponible en tant qu'aperçu."
 
