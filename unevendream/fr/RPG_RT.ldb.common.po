@@ -532,6 +532,15 @@ msgstr ""
 msgid "Return to main menu?"
 msgstr "Retourner au menu principal ?"
 
+#. ID 110, Line 271
+#. Choice (2 options)
+msgid ""
+"Silent wallpaper notification\n"
+"Back"
+msgstr ""
+"Notification de fond d'écran silencieuse\n"
+"Retour"
+
 #. ID 110, Line 274
 #. Choice (3 options)
 msgid ""
