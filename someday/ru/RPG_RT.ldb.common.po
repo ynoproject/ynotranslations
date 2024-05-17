@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Project-Id-Version: Someday\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 3, Line 24
 #. ChangeHeroName (Actor 1)
@@ -71,6 +75,10 @@ msgid ""
 "\"I just had the most disgusting feeling today.\n"
 "Mom isn't like this. \\.She's not a bad person.\""
 msgstr ""
+"Запись №47\\.\n"
+"24 Августа, 2008\\.\n"
+"\"Сегодня я испытал кое-что крайне отвратительное.\n"
+"Мама не такая. \\.Она не такой человек.\""
 
 #. ID 62, Line 40
 msgid ""
@@ -78,6 +86,9 @@ msgid ""
 "\\....really busy...\n"
 "\\..\\..\\..\\.all the time.\""
 msgstr ""
+"\"Но и Папа тоже не такой. Он же просто занятой...\n"
+"\\….Реально занятой...\n"
+"\\..\\..\\..\\.постоянно.\""
 
 #. ID 62, Line 52
 msgid ""
@@ -85,6 +96,9 @@ msgid ""
 "she's not needed. But I do need her.\n"
 "\\.But Dad is not a bad person either...\""
 msgstr ""
+"\"Временами она не может перестать реветь. Она \n"
+"говорит, что не нужна. Но мне-то она нужна.\n"
+"\\.Но ведь Папа тоже не плохой же человек..."
 
 #. ID 63, Line 28
 msgid ""
@@ -92,6 +106,9 @@ msgid ""
 "May 10, 2006\\.\n"
 "\"I think I'm better off alone. Why even bother?\""
 msgstr ""
+"Запись №7\\.\n"
+"10 Мая, 2006\\.\n"
+"\"Думаю, мне одному лучше. Зачем вообще париться?\""
 
 #. ID 63, Line 41
 msgid ""
@@ -100,10 +117,14 @@ msgid ""
 "\\.I'm used to being alone.\n"
 "\\.I can live with that.\""
 msgstr ""
+"\"Если я ТАК сильно отличаюсь, то мне и смысла нет\n"
+"пытаться заводить друзей.\n"
+"\\.Я уже привык быть один.\n"
+"\\.Я могу с этим жить.\""
 
 #. ID 63, Line 57
 msgid "\\.\\.\"I don't even like birthday parties anyway.\""
-msgstr ""
+msgstr "\\.\\.\"Не так уж я и рад справлять дни рождения.\""
 
 #. ID 64, Line 29
 msgid ""
@@ -112,12 +133,18 @@ msgid ""
 "\"You know how a lot people feel that we're all\n"
 "connected in some way?\""
 msgstr ""
+"Запись №43\n"
+"11 Июня, 2008\n"
+"\"У многих ведь есть чувство, что мы все так \n"
+"или иначе связанны?\""
 
 #. ID 64, Line 41
 msgid ""
 "\"I always felt like I'm missing a link.\n"
 "\\.\\.And now I know why. But it's too late.\""
 msgstr ""
+"\"Ну а мне кажется, что я эту связь потерял.\n"
+"\\.\\.И я даже знаю, почему. Но уже слишком поздно.\""
 
 #. ID 64, Line 51
 msgid ""
@@ -125,6 +152,9 @@ msgid ""
 "intentional. I believe they really did love me.\n"
 "\\.They really tried to make things better.\""
 msgstr ""
+"\"И всё-таки, где-то внутри я знаю, что это не \n"
+"было целью. Я всё-ещё верю, что они любили меня.\n"
+"\\.Они и правда пытались исправить ситуацию.\""
 
 #. ID 64, Line 62
 msgid ""
@@ -133,6 +163,10 @@ msgid ""
 "\\.Even if I don't remember them.\n"
 "\\.Wherever they are...\""
 msgstr ""
+"\"Как-бы мне хотелось просто иметь возможность \n"
+"сказать им, что я Выжил. Сказать, что я любил их.\n"
+"\\.Даже если я не помню их.\n"
+"\\.Где-бы они ни были...\""
 
 #. ID 65, Line 27
 msgid ""
@@ -140,6 +174,9 @@ msgid ""
 "March 31, 2007\\.\n"
 "\"I saw a fox today.\""
 msgstr ""
+"Запись №25\\.\n"
+"31 Марта, 2007\\.\n"
+"\"Сегодня я увидел лису.\""
 
 #. ID 65, Line 38
 msgid ""
@@ -147,6 +184,9 @@ msgid ""
 "staring at me. I think it enjoyed my company!\n"
 "\\.\\.It was really cute.\""
 msgstr ""
+"\"Говорят, лисы очень стеснительные, но эта \n"
+"продолжала на меня смотреть. Думаю, я ей понравился!\n"
+"\\.\\.Она была очень милой.\""
 
 #. ID 65, Line 49
 msgid ""
@@ -155,10 +195,14 @@ msgid ""
 "humans dedicate so much time to.\n"
 "\\....I wish I took it home.\""
 msgstr ""
+"\"Вы знали, что животные довольно-таки беззаботны?\n"
+"Их не беспокоят вещи, о которых мы, люди, всё \n"
+"время печёмся и тратим на них время.\n"
+"\\….Хотел-бы я взять её домой.\""
 
 #. ID 65, Line 64
 msgid "\"I've named it Miru.\""
-msgstr ""
+msgstr "\"Я назвал её Миру.\""
 
 #. ID 66, Line 31
 msgid ""
@@ -167,12 +211,18 @@ msgid ""
 "\"Growing up is really weird. I keep asking myself\n"
 "about these wooden dolls I used to play with.\""
 msgstr ""
+"Запись №3\\.\n"
+"7 Февраля, 2006\\.\n"
+"\"Взрослеть - Это странно. Я из раза в раз задаюсь \n"
+"вопросом о деревянных куклах, с которыми играл.\""
 
 #. ID 66, Line 44
 msgid ""
 "\"But Mom says she doesn't know what toys am I\n"
 "talking about.\""
 msgstr ""
+"\"Однако, Мама говорит, что не в курсе, о каких \n"
+"игрушках я говорю.\""
 
 #. ID 66, Line 55
 msgid ""
@@ -181,6 +231,10 @@ msgid ""
 "\\.When I was... \\.\\.Three? \\.\\.Four?\n"
 "\\.\\.I'm not sure.\""
 msgstr ""
+"\"Я ведь точно помню, что играл с деревянными\n"
+"кубиками, разрисованными фигурами и буквами.\n"
+"\\.Тогда мне было... \\.\\.Три? \\.\\.Четыре?\n"
+"\\.\\.Не знаю.\""
 
 #. ID 67, Line 30
 msgid ""
@@ -189,6 +243,10 @@ msgid ""
 "\"I think I just found out why Mom doesn't like the\n"
 "sea. \\.She had an accident.\""
 msgstr ""
+"Запись №36\n"
+"3 Ноября, 2007\n"
+"\"Думаю, я понял, почему Маме не нравится море.\n"
+"\\.С ней однажды что-то случилось.\""
 
 #. ID 67, Line 45
 msgid ""
@@ -197,12 +255,18 @@ msgid ""
 "\\.I saw it last night, hidden inside her hair.\n"
 "\\.Maybe that's also why she moved to this city?\""
 msgstr ""
+"\"Она не любит об этом говорить...\n"
+"\\….но у неё на голове есть большой шрам.\n"
+"\\.Я его заметил прошлой ночью у неё в волосах.\n"
+"\\.Может, потому она и переехала в этот город?"
 
 #. ID 67, Line 63
 msgid ""
 "\"Her parents' old house is next to a cliff.\n"
 "\\|But we never got to visit it.\""
 msgstr ""
+"\"Старый дом её родителей у скалы.\n"
+"\\|Но мы никогда туда не ходили.\""
 
 #. ID 68, Line 30
 #. ID 69, Line 30
@@ -212,11 +276,15 @@ msgid ""
 "\"i had an idea.\n"
 "i just drew this perfect girl.\""
 msgstr ""
+"Запись №49\\.\n"
+"19 Сентября 2008\\.\n"
+"\"у меня есть идея.\n"
+"я сейчас нарисовал вот эту девочку: она идеальна.\""
 
 #. ID 68, Line 41
 #. ID 69, Line 41
 msgid "\"her name is \\C[2]Kondo\\C[0]\""
-msgstr ""
+msgstr "\"её зовут \\C[2]Кондо\\C[0]\""
 
 #. ID 68, Line 42
 #. ID 69, Line 42
@@ -225,6 +293,9 @@ msgid ""
 "\\.and everybody loves her\n"
 "\\.\\.because she is perfect\""
 msgstr ""
+"\"она красивая, умная, и не приёмная\n"
+"\\.и все её любят\n"
+"\\.\\.потому что она совершенна\""
 
 #. ID 68, Line 52
 #. ID 69, Line 52
@@ -232,11 +303,13 @@ msgid ""
 "\"but i hate her because she is who i want to be\n"
 "i feel terrible haha\""
 msgstr ""
+"\"но я её ненавижу ибо она та кем я хочу быть\n"
+"да я сейчас не в духе ага хаха"
 
 #. ID 68, Line 120
 #. ID 69, Line 120
 msgid "\"if i was \\C[2]Kondo\\C[0] everything would be over.\""
-msgstr ""
+msgstr "\"если бы я был \\C[2]Кондо\\C[0] ничего этого бы не произошло.\""
 
 #. ID 171, Line 14
 #. ID 171, Line 32
@@ -334,11 +407,12 @@ msgstr ""
 
 #. ID 191, Line 458
 msgid "                   \\_Scooter+Fox"
-msgstr ""
+msgstr "                    Скутер+Лис"
 
 #. ID 191, Line 461
 msgid ""
 "You have unlocked this special effect mix!\n"
 "Use with caution!"
 msgstr ""
-
+"Вы разблокировали специальный микс эффектов!\n"
+"Используйте осторожно!"
