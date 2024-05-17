@@ -21,7 +21,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 ## Credits
 * aku - Library's books for the English translation of Yume 2kki
 * Aya - Initial French translation of Yume 2kki
-* Carbonara - French translations of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
+* Carbonara - French translations of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
 * Catmat (貓毯) - Porting and maintenance of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * CDMilky - Romanian translation of Yume 2kki
 * CloudyThoughts - Esperanto translation of Yume Nikki
@@ -32,7 +32,8 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * fcoldstar (飛揚寒星) - Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * FlashfyreDev (Sam) - English translation of Yume 2kki; Misc edits on the English translation of Mikan Muzou
 * .flow Chinese Group (.flow汉化组) - Chinese translation of .flow
-* Fonvight - Russian translations of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Ultra Violet; English translation of the wallpaper gallery in Yume 2kki
+* fokifox - Russian translation of Yume Nikki
+* Fonvight - Russian translations of Yume 2kki, .flow, Answered Prayers, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Ultra Violet; English translation of the wallpaper gallery in Yume 2kki
 * FukoSan - Spanish translation of Yume 2kki
 * Gugu (菇菇) - Chinese translation of .flow
 * handsomedove - Korean translation of Yume 2kki
@@ -43,7 +44,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * KRBlacky - Korean translations of Yume 2kki, Answered Prayers, Deep Dreams
 * Leo9 - Esperanto translation of Yume Nikki
 * lich65 - Korean translation of Yume Nikki
-* Lovena - Initial French translation of Yume 2kki; French translation of Oversomnia
+* Lovena - Initial French translation of Yume 2kki; French translation of Oversomnia, nostAlgic
 * maple - Polish translation of Uneven Dream
 * Mhhh (Sundance) - Initial French translation of Yume 2kki; French translation of Answered Prayers
 * Midomido - Japanese translation of Answered Prayers, Deep Dreams, Braingirl, Muma|Rope; English translation of the Debug Room in Yume 2kki
@@ -61,6 +62,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * Sakura - Japanese translation of Someday
 * Sarah - Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * Shirleycrow - Chinese translation of Someday
+* srv_ui - Feedback on the French translation of She Awaits
 * sniperbob - Hebrew translation of Yume Nikki
 * takne77 - Estonian translation of Yume Nikki
 * TanDen___ ☄ - Chinese translation of Dream Genie
@@ -68,5 +70,5 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * VioletNeiv - Vietnamese translations of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams
 * Xiaodao (小岛) - Porting of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * YNOproject Chinese Team (YNOproject汉化组) - Chinese translation of Deep Dreams, Uneven Dream
-* YouArentDistorted (yugamineena) - English translation of Ultra Violet; Wavy Up, Gimmick Runner, Plated Snow Country & Library's books for the English translation of Yume 2kki
+* YouArentDistorted (yugamineena) - English translation of Ultra Violet, nostAlgic; Wavy Up, Gimmick Runner, Plated Snow Country & Library's books for the English translation of Yume 2kki
 * Yume 2kki Chinese Translation Group (梦二记汉化组) - Chinese translation of Yume 2kki
