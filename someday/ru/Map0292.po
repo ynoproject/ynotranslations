@@ -14,11 +14,11 @@ msgstr ""
 
 #. ID 9, Page 1, Line 8, Pos (2,6)
 msgid "               \\.ZApNeF OST: Classic"
-msgstr "               \\.Саундтрек ЗАпНеФ: Стандартный"
+msgstr "           \\.Саундтрек ЗАпНеФ: Стандартный"
 
 #. ID 9, Page 1, Line 16, Pos (2,6)
 msgid "                \\.ZApNeF OST: Remix"
-msgstr "               \\.Саундтрек ЗАпНеФ: Ремикс"
+msgstr "              \\.Саундтрек ЗАпНеФ: Ремикс"
 
 #. ID 49, Page 1, Line 4, Pos (16,0)
 #. Choice (3 options)
