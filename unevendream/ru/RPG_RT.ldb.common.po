@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Uneven Dream\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Fonvight\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 9, Line 14
 msgid "                  *Fast Forward*"
@@ -49,8 +49,8 @@ msgid "                      *Seer*"
 msgstr "                    *Провидец*"
 
 #. ID 9, Line 50
-msgid "                      *Hood*"
-msgstr "                    *Капюшон*"
+msgid "                     *Hoodie*"
+msgstr "                    *Мастерка*"
 
 #. ID 9, Line 54
 msgid "                      *Plug*"
@@ -60,55 +60,71 @@ msgstr "                    *Зарядка*"
 msgid "                      *Mouth*"
 msgstr "                      *Рот*"
 
-#. ID 9, Line 64
+#. ID 9, Line 62
+msgid "                      *Wither*"
+msgstr "                     *Иссохший*"
+
+#. ID 9, Line 66
+msgid "                     *Teapot*"
+msgstr "                     *Чайник*"
+
+#. ID 9, Line 72
 msgid "                      *Star*"
 msgstr "                     *Звезда*"
 
-#. ID 9, Line 68
+#. ID 9, Line 76
 msgid "                    *Music Box*"
 msgstr "              *Музыкальная шкатулка*"
 
-#. ID 9, Line 72
+#. ID 9, Line 80
 msgid "                *Lily of the Valley*"
 msgstr "                     *Ландыш*"
 
-#. ID 9, Line 76
+#. ID 9, Line 84
 msgid "                      *Cape*"
 msgstr "                      *Плащ*"
 
-#. ID 9, Line 80
+#. ID 9, Line 88
 msgid "                    *UV Light*"
 msgstr "                  *Ультрафиолет*"
 
-#. ID 9, Line 84
+#. ID 9, Line 92
 msgid "                    *Sunflower*"
 msgstr "                   *Подсолнух*"
 
-#. ID 9, Line 88
+#. ID 9, Line 96
 msgid "                    *Nightcap*"
 msgstr "                    *Ночнушка*"
 
-#. ID 9, Line 92
+#. ID 9, Line 100
 msgid "                    *Butterfly*"
 msgstr "                    *Бабочка*"
 
-#. ID 9, Line 96
+#. ID 9, Line 104
 msgid "                    *Mermaid*"
 msgstr "                    *Русалка*"
 
-#. ID 9, Line 100
+#. ID 9, Line 108
 msgid "                    *Sidetail*"
 msgstr "                  *Хвостик сбоку*"
 
-#. ID 9, Line 104
+#. ID 9, Line 112
 msgid "                     *Origami*"
 msgstr "                     *Оригами*"
 
-#. ID 9, Line 108
+#. ID 9, Line 116
 msgid "                      *Cyber*"
 msgstr "                      *Кибер*"
 
-#. ID 14, Line 4
+#. ID 9, Line 120
+msgid "                      *Snail*"
+msgstr "                     *Улитка*"
+
+#. ID 9, Line 124
+msgid "                   *Sandcastle*"
+msgstr "                 *Песочный замок*"
+
+#. ID 14, Line 3
 #. Choice (4 options)
 msgid ""
 "\\>Player Speed\n"
@@ -121,7 +137,7 @@ msgstr ""
 "\\>Стр. 2\n"
 "\\>Выход"
 
-#. ID 14, Line 6
+#. ID 14, Line 5
 #. Choice (4 options)
 msgid ""
 "\\><<<< - MAXIMUM SPEED\n"
@@ -134,7 +150,7 @@ msgstr ""
 "\\><< - 2-кратная скорость\n"
 "\\>< - Нормальная скорость"
 
-#. ID 14, Line 30
+#. ID 14, Line 29
 #. Choice (2 options)
 msgid ""
 "Special Locations\n"
@@ -143,7 +159,7 @@ msgstr ""
 "Особые локации\n"
 "Настраиваемая"
 
-#. ID 14, Line 32
+#. ID 14, Line 31
 #. Choice (4 options)
 msgid ""
 "Debug Room\n"
@@ -156,9 +172,9 @@ msgstr ""
 "Нексусы\n"
 "Перед мирами Игр"
 
-#. ID 14, Line 40
+#. ID 14, Line 39
 #. Choice (2 options)
-#. ID 14, Line 56
+#. ID 14, Line 55
 #. Choice (2 options)
 msgid ""
 "Kubo\n"
@@ -167,11 +183,19 @@ msgstr ""
 "Кубо\n"
 "Тоцу"
 
-#. ID 14, Line 92
+#. ID 14, Line 91
+#. ID 108, Line 118
+#. ID 108, Line 160
+#. ID 108, Line 203
+#. ID 108, Line 305
 msgid "\\>Your current location is Map \\V[0005] X \\V[0006] Y \\V[0007]."
 msgstr "\\>Вы сейчас находитесь на Карте \\V[0005] X \\V[0006] Y \\V[0007]."
 
-#. ID 14, Line 93
+#. ID 14, Line 92
+#. ID 108, Line 119
+#. ID 108, Line 161
+#. ID 108, Line 204
+#. ID 108, Line 306
 msgid ""
 "\\>M: XXXX X: XXX Y: XXX\n"
 "\\>Enter your map #:"
@@ -179,7 +203,8 @@ msgstr ""
 "\\>Карта: XXXX X: XXX Y: XXX\n"
 "\\>Введите № Карты:"
 
-#. ID 14, Line 97
+#. ID 14, Line 96
+#. ID 108, Line 310
 msgid ""
 "\\>M: \\V[0009] X: XXX Y: XXX\n"
 "\\>Enter your map X:"
@@ -187,7 +212,8 @@ msgstr ""
 "\\>Карта: \\V[0009] X: XXX Y: XXX\n"
 "\\>Введите X Карты:"
 
-#. ID 14, Line 106
+#. ID 14, Line 105
+#. ID 108, Line 319
 msgid ""
 "\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
 "\\>Enter your map Y:"
@@ -195,7 +221,7 @@ msgstr ""
 "\\>Карта: \\V[0009] X: \\V[0010] Y: XXX\n"
 "\\>Введите Y Карты:"
 
-#. ID 14, Line 130
+#. ID 14, Line 129
 #. Choice (4 options)
 msgid ""
 "\\>Save\n"
@@ -208,22 +234,24 @@ msgstr ""
 "\\>Разблокировать Положение экрана\n"
 "\\>Главное меню"
 
-#. ID 19, Line 73
-#. ID 19, Line 97
-msgid "Quick Effect 1 is not set."
-msgstr "Быстрый Эффект 1 не назначен."
-
-#. ID 19, Line 84
-#. ID 19, Line 108
-msgid "Quick Effect 2 is not set."
-msgstr "Быстрый Эффект 2 не назначен."
-
-#. ID 77, Line 203
+#. ID 77, Line 227
 #. Contains choice at line 2 (2 options)
 msgid "Switch characters?"
 msgstr "Сменить персонажей?"
 
-#. ID 77, Line 204
+#. ID 77, Line 228
+#. Choice (2 options, embedded in a message)
+#. ID 108, Line 303
+#. Choice (2 options, embedded in a message)
+#. ID 108, Line 465
+#. Choice (2 options, embedded in a message)
+#. ID 110, Line 495
+#. Choice (2 options, embedded in a message)
+#. ID 110, Line 515
+#. Choice (2 options, embedded in a message)
+#. ID 110, Line 536
+#. Choice (2 options, embedded in a message)
+#. ID 115, Line 1143
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Yes\n"
@@ -232,18 +260,17 @@ msgstr ""
 "Да\n"
 "Нет"
 
-#. ID 77, Line 372
-#. ID 77, Line 383
+#. ID 77, Line 411
 msgid "(Work in progress!)"
 msgstr "(В разработке!)"
 
-#. ID 77, Line 391
+#. ID 77, Line 436
 #. Choice (1 options)
 msgid "Quick Effects"
 msgstr "Быстрые Эффекты"
 
-#. ID 77, Line 397
-#. ID 77, Line 447
+#. ID 77, Line 442
+#. ID 77, Line 492
 msgid ""
 "Quick Effect 1 is not set.\n"
 "Quick Effect 2 is not set."
@@ -251,8 +278,8 @@ msgstr ""
 "Быстрый Эффект 1 не назначен.\n"
 "Быстрый Эффект 2 не назначен."
 
-#. ID 77, Line 401
-#. ID 77, Line 451
+#. ID 77, Line 446
+#. ID 77, Line 496
 msgid ""
 "Quick Effect 1 is not set.\n"
 "Quick Effect 2 is set."
@@ -260,8 +287,8 @@ msgstr ""
 "Быстрый Эффект 1 не назначен.\n"
 "Быстрый Эффект 2 назначен."
 
-#. ID 77, Line 408
-#. ID 77, Line 458
+#. ID 77, Line 453
+#. ID 77, Line 503
 msgid ""
 "Quick Effect 1 is set.\n"
 "Quick Effect 2 is not set."
@@ -269,8 +296,8 @@ msgstr ""
 "Быстрый Эффект 1 назначен.\n"
 "Быстрый Эффект 2 не назначен."
 
-#. ID 77, Line 412
-#. ID 77, Line 462
+#. ID 77, Line 457
+#. ID 77, Line 507
 msgid ""
 "Quick Effect 1 is set.\n"
 "Quick Effect 2 is set."
@@ -278,9 +305,9 @@ msgstr ""
 "Быстрый Эффект 1 назначен.\n"
 "Быстрый Эффект 2 назначен."
 
-#. ID 77, Line 418
+#. ID 77, Line 463
 #. Choice (2 options)
-#. ID 77, Line 468
+#. ID 77, Line 513
 #. Choice (2 options)
 msgid ""
 "Modify Quick Effect 1\n"
@@ -289,33 +316,2120 @@ msgstr ""
 "Изменить Быстрый Эффект 1\n"
 "Изменить Быстрый Эффект 2"
 
-#. ID 77, Line 420
-#. ID 77, Line 430
-#. ID 77, Line 470
-#. ID 77, Line 480
+#. ID 77, Line 465
+#. ID 77, Line 475
+#. ID 77, Line 515
+#. ID 77, Line 525
 msgid "Select your preferred quick effect."
 msgstr "Выберите предпочитаемый быстрый эффект."
 
-#. ID 77, Line 426
-#. ID 77, Line 476
+#. ID 77, Line 471
+#. ID 77, Line 521
 msgid "Quick Effect 1 set."
 msgstr "Быстрый Эффект 1 назначен."
 
-#. ID 77, Line 436
-#. ID 77, Line 486
+#. ID 77, Line 481
+#. ID 77, Line 531
 msgid "Quick Effect 2 set."
 msgstr "Быстрый Эффект 2 назначен."
-
-#. ID 87, Line 21
-#. ID 89, Line 21
-#. ID 89, Line 51
-#. ID 89, Line 63
-msgid "how did you manage to do this?"
-msgstr "Как ты это делаешь?"
 
 #. ID 105, Line 15
 #. ID 105, Line 32
 #. ID 105, Line 39
-#. ID 105, Line 238
+#. ID 105, Line 244
 msgid "\\$\\|\\^"
 msgstr "\\$\\|\\^"
+
+#. ID 108, Line 109
+#. Contains choice at line 2 (3 options)
+msgid "Current quick teleport 1: \\V[0713] X \\V[0716] Y \\V[0719]."
+msgstr "Быстрый телепорт 1: \\V[0173] X \\V[0716] Y \\V[0719]."
+
+#. ID 108, Line 110
+#. Choice (3 options, embedded in a message)
+#. ID 108, Line 152
+#. Choice (3 options, embedded in a message)
+#. ID 108, Line 195
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Teleport\n"
+"Set\n"
+"Back"
+msgstr ""
+"Телепортироваться\n"
+"Назначить\n"
+"Назад"
+
+#. ID 108, Line 123
+msgid ""
+"\\>M: \\V[0713] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+"\\>M: \\V[0713] X: XXX Y: XXX\n"
+"\\>Введите X на карте:"
+
+#. ID 108, Line 132
+msgid ""
+"\\>M: \\V[0713] X: \\V[0716] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+"\\>M: \\V[0713] X: \\V[0716] Y: XXX\n"
+"\\>Введите Y на карте:"
+
+#. ID 108, Line 151
+#. Contains choice at line 2 (3 options)
+msgid "Current quick teleport 2: \\V[0714] X \\V[0717] Y \\V[0720]."
+msgstr "Быстрый телепорт 2: \\V[0714] X \\V[0717] Y \\V[0720]."
+
+#. ID 108, Line 165
+msgid ""
+"\\>M: \\V[0714] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+"\\>M: \\V[0714] X: XXX Y: XXX\n"
+"\\>Введите X на карте:"
+
+#. ID 108, Line 174
+msgid ""
+"\\>M: \\V[0714] X: \\V[0717] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+"\\>M: \\V[0714] X: \\V[0717] Y: XXX\n"
+"\\>Введите Y на карте:"
+
+#. ID 108, Line 194
+#. Contains choice at line 2 (3 options)
+msgid "Current quick teleport 3: \\V[0715] X \\V[0718] Y \\V[0721]."
+msgstr "Быстрый телепорт 3: \\V[0715] X \\V[0718] Y \\V[0721]."
+
+#. ID 108, Line 208
+msgid ""
+"\\>M: \\V[0715] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+"\\>M: \\V[0715] X: XXX Y: XXX\n"
+"\\>Введите X на карте:"
+
+#. ID 108, Line 217
+msgid ""
+"\\>M: \\V[0715] X: \\V[0718] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+"\\>M: \\V[0715] X: \\V[0718] Y: XXX\n"
+"\\>Введите Y на карте:"
+
+#. ID 108, Line 236
+msgid "Preset locations:"
+msgstr "Преднастроенные локации:"
+
+#. ID 108, Line 238
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Nexuses\n"
+"Bedrooms (real)\n"
+"Page 2 ->"
+msgstr ""
+"Комната отладки\n"
+"Нексусы\n"
+"Спальни (Реальность)\n"
+"Стр. 2 ->"
+
+#. ID 108, Line 244
+#. Choice (3 options)
+#. ID 108, Line 259
+#. Choice (3 options)
+msgid ""
+"Kubo\n"
+"Totsu\n"
+"Back"
+msgstr ""
+"Кубо\n"
+"Тоцу\n"
+"Назад"
+
+#. ID 108, Line 274
+#. Choice (3 options)
+msgid ""
+"Before VG worlds\n"
+"<- Page 1\n"
+"Back"
+msgstr ""
+"Миры до VG\n"
+"<- Стр. 1\n"
+"Назад"
+
+#. ID 108, Line 302
+#. Contains choice at line 2 (2 options)
+msgid "Do you want to teleport to a specific spot?"
+msgstr "Вы хотите переместиться куда-то конкретно?"
+
+#. ID 108, Line 351
+msgid "Map scroll unlocked."
+msgstr "Прокрутка карты разблокирована"
+
+#. ID 108, Line 370
+msgid "Change your money amount:"
+msgstr "Изменить количество денег:"
+
+#. ID 108, Line 371
+#. Choice (4 options)
+msgid ""
+"Set\n"
+"Add\n"
+"Remove\n"
+"Back"
+msgstr ""
+"Назначить\n"
+"Добавить\n"
+"Удалить\n"
+"Назад"
+
+#. ID 108, Line 373
+msgid "Money to set:"
+msgstr "Сделать денег:"
+
+#. ID 108, Line 381
+msgid "Money to add:"
+msgstr "Добавить денег:"
+
+#. ID 108, Line 388
+msgid "Money to remove:"
+msgstr "Удалить денег:"
+
+#. ID 108, Line 405
+#. Contains choice at line 2 (3 options)
+msgid "Change all effects:"
+msgstr "Заменить все эффекты:"
+
+#. ID 108, Line 406
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Locked\n"
+"Unlocked\n"
+"Back"
+msgstr ""
+"Закрыть\n"
+"Открыть\n"
+"Назад"
+
+#. ID 108, Line 442
+#. Contains choice at line 2 (3 options)
+msgid "Weather options:"
+msgstr "Настройки погоды:"
+
+#. ID 108, Line 443
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Reset\n"
+"Turn off\n"
+"Back"
+msgstr ""
+"Сбросить\n"
+"Выключить\n"
+"Назад"
+
+#. ID 108, Line 464
+#. Contains choice at line 2 (2 options)
+msgid "Return to main menu?"
+msgstr "Вернуться в главное меню?"
+
+#. ID 110, Line 274
+#. Choice (3 options)
+msgid ""
+"Silent wallpaper notification\n"
+"Sound cache toggle\n"
+"Back"
+msgstr ""
+"Заглушить уведомления обоев\n"
+"Переключить кеш звуков\n"
+"Назад"
+
+#. ID 110, Line 277
+msgid "New wallpaper notifications are now REGULAR."
+msgstr "Уведомления обоев теперь ОБЫЧНЫЕ."
+
+#. ID 110, Line 282
+msgid "New wallpaper notifications are now SILENT."
+msgstr "Уведомления обоев теперь ТИХИЕ."
+
+#. ID 110, Line 290
+msgid ""
+"Audio will be saved to memory upon every \n"
+"save/load to help with minor lag\n"
+"on large maps. (Currently: ON)"
+msgstr ""
+"Звуки будут загружаться в кеш при каждых \n"
+"сохранении/загрузке, чтобы уменьшить тормоза\n"
+"на больших локациях. (Включено)"
+
+#. ID 110, Line 295
+msgid ""
+"Audio will be saved to memory upon every \n"
+"save/load to help with minor lag\n"
+"on large maps. (Currently: OFF)"
+msgstr ""
+"Звуки будут загружаться в кеш при каждых \n"
+"сохранении/загрузке, чтобы уменьшить тормоза\n"
+"на больших локациях. (Выключено)"
+
+#. ID 110, Line 300
+#. Choice (2 options)
+msgid ""
+"ON\n"
+"OFF"
+msgstr ""
+"Включить\n"
+"Выключить"
+
+#. ID 110, Line 302
+msgid "Sound cache is ENABLED."
+msgstr "Кеширование звуков ВКЛЮЧЕНО."
+
+#. ID 110, Line 307
+msgid "Sound cache is DISABLED."
+msgstr "Кеширование звуков ВЫКЛЮЧЕНО."
+
+#. ID 110, Line 493
+#. Contains choice at line 3 (2 options)
+#. ID 110, Line 513
+#. Contains choice at line 3 (2 options)
+#. ID 110, Line 534
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Previewing...\n"
+"Are you sure?"
+msgstr ""
+"Предпросмотр...\n"
+"Вы уверены?"
+
+#. ID 112, Line 1
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Menu graphic preview\n"
+"Standard - \\C[1]Highlights\\C[0] - \\C[3]Disabled\\C[0]"
+msgstr ""
+"Предпросмотр графики меню\n"
+"По умолчанию - \\C[1]Подсветка\\C[0] - \\C[3]Отключено\\C[0]"
+
+#. ID 112, Line 3
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Accept\n"
+"Cancel"
+msgstr ""
+"Принять\n"
+"Отмена"
+
+#. ID 113, Line 15
+msgid "                   Menu Type : 0"
+msgstr "                  Стиль меню : 0"
+
+#. ID 113, Line 26
+msgid "                   Menu Type : 4"
+msgstr "                  Стиль меню : 4"
+
+#. ID 113, Line 37
+msgid "                   Menu Type : 5"
+msgstr "                  Стиль меню : 5"
+
+#. ID 113, Line 48
+msgid "                   Menu Type : 6"
+msgstr "                  Стиль меню : 6"
+
+#. ID 113, Line 59
+msgid "                   Menu Type : 7"
+msgstr "                  Стиль меню : 7"
+
+#. ID 115, Line 26
+#. Condition (Actor Name = BOGUS)
+msgctxt "actors.name"
+msgid "BOGUS"
+msgstr ""
+
+#. ID 115, Line 371
+#. ID 117, Line 9
+msgid "Unlocking BGM \\v[2297], variation \\v[2298]."
+msgstr "Разблокируем саундтрек \\v[2297], вариант \\v[2296]."
+
+#. ID 115, Line 485
+#. ID 115, Line 1134
+#. ID 117, Line 123
+#. ID 123, Line 123
+msgid ""
+"BGMs unlocked: \\v[2277] / \\v[2279]\n"
+"Variations unlocked: \\v[2278] / \\v[2280]"
+msgstr ""
+"Разблокированные саундтреки: \\v[2277] / \\v[2279]\n"
+"Разблокированные варианты: \\v[2278] / \\v[2280]"
+
+#. ID 115, Line 1116
+msgid "Jump to:"
+msgstr "Перейти к:"
+
+#. ID 115, Line 1142
+#. Contains choice at line 2 (2 options)
+msgid "Set currently playing track as the PC BGM?"
+msgstr "Назначить включённый трек фоновой музыкой ПК?"
+
+#. ID 116, Line 3
+msgid ""
+"fd-title\n"
+"by FD"
+msgstr ""
+"fd-title\n"
+"от FD"
+
+#. ID 116, Line 8
+msgid ""
+"fd-safe\n"
+"by FD"
+msgstr ""
+"fd-safe\n"
+"от FD"
+
+#. ID 116, Line 14
+msgid ""
+"fd-save\n"
+"by FD"
+msgstr ""
+"fd-save\n"
+"от FD"
+
+#. ID 116, Line 19
+msgid ""
+"maple-save-musicbox\n"
+"by maple"
+msgstr ""
+"maple-save-musicbox\n"
+"от maple"
+
+#. ID 116, Line 26
+msgid ""
+"080412_051514_d50\n"
+"Stock sound"
+msgstr ""
+"080412_051514_d50\n"
+"Стоковый звук"
+
+#. ID 116, Line 31
+msgid ""
+"120619_182608\n"
+"Stock sound"
+msgstr ""
+"120619_182608\n"
+"Стоковый звук"
+
+#. ID 116, Line 36
+msgid ""
+"070916_xxxx27_R09\n"
+"Stock sound"
+msgstr ""
+"070916_xxxx27_R09\n"
+"Стоковый звук"
+
+#. ID 116, Line 41
+msgid ""
+"fd-crystale\n"
+"by FD"
+msgstr ""
+"fd-crystale\n"
+"от FD"
+
+#. ID 116, Line 46
+msgid ""
+"fd-karasfield\n"
+"by FD"
+msgstr ""
+"fd-karasfield\n"
+"от FD"
+
+#. ID 116, Line 51
+msgid ""
+"fd-sleep\n"
+"by FD"
+msgstr ""
+"fd-sleep\n"
+"от FD"
+
+#. ID 116, Line 56
+msgid ""
+"olmmusic1\n"
+"by olm"
+msgstr ""
+"olmmusic1\n"
+"от olm"
+
+#. ID 116, Line 62
+msgid ""
+"olmmusic_cavenormal\n"
+"by olm"
+msgstr ""
+"olmmusic_cavenormal\n"
+"от olm"
+
+#. ID 116, Line 67
+msgid ""
+"olmmusic_cavecorrupt\n"
+"by olm"
+msgstr ""
+"olmmusic_cavecorrupt\n"
+"от olm"
+
+#. ID 116, Line 75
+msgid ""
+"Question Mark - Death Lullaby\n"
+"Stock sound"
+msgstr ""
+"Question Mark - Death Lullaby\n"
+"Стоковый звук"
+
+#. ID 116, Line 80
+#. ID 116, Line 85
+msgid ""
+"Question Mark - Death Lullabyreversed\n"
+"Stock sound"
+msgstr ""
+"Question Mark - Death Lullabyreversed\n"
+"Стоковый звук"
+
+#. ID 116, Line 92
+msgid ""
+"170515__devlab__forest-ambient-01-loop\n"
+"Stock sound"
+msgstr ""
+"170515__devlab__forest-ambient-01-loop\n"
+"Стоковый звук"
+
+#. ID 116, Line 98
+msgid ""
+"Question Mark - Way of the Mime 2\n"
+"by QMark"
+msgstr ""
+"Question Mark - Way of the Mime 2\n"
+"от QMark"
+
+#. ID 116, Line 102
+msgid ""
+"Question Mark - Way of the Mime 1\n"
+"by QMark"
+msgstr ""
+"Question Mark - Way of the Mime 1\n"
+"от QMark"
+
+#. ID 116, Line 109
+msgid ""
+"Question Mark - Cold Ancient Cosmic Metal \n"
+"Chord\n"
+"by QMark"
+msgstr ""
+"Question Mark - Cold Ancient Cosmic Metal \n"
+"Chord\n"
+"от QMark"
+
+#. ID 116, Line 115
+msgid ""
+"fd-broken1\n"
+"by FD"
+msgstr ""
+"fd-broken1\n"
+"от FD"
+
+#. ID 116, Line 120
+msgid ""
+"OutlanderS3S-Rolling Waves\n"
+"by OutlanderS3S"
+msgstr ""
+"OutlanderS3S-Rolling Waves\n"
+"от OutlanderS3S"
+
+#. ID 116, Line 126
+msgid ""
+"OutlanderS3S-trickle1\n"
+"by OutlanderS3S"
+msgstr ""
+"OutlanderS3S-trickle1\n"
+"от OutlanderS3S"
+
+#. ID 116, Line 131
+msgid ""
+"OutlanderS3S-trickle2\n"
+"by OutlanderS3S"
+msgstr ""
+"OutlanderS3S-trickle2\n"
+"от OutlanderS3S"
+
+#. ID 116, Line 138
+msgid ""
+"Milica_BGM1\n"
+"by Milica"
+msgstr ""
+"Milica_BGM1\n"
+"от Milica"
+
+#. ID 116, Line 143
+msgid ""
+"Milica_BGM4\n"
+"by Milica"
+msgstr ""
+"Milica_BGM4\n"
+"от Milica"
+
+#. ID 116, Line 148
+msgid ""
+"Question Mark-Dirty Cyan and Bloody Red\n"
+"by QMark"
+msgstr ""
+"Question Mark-Dirty Cyan and Bloody Red\n"
+"от QMark"
+
+#. ID 116, Line 153
+msgid ""
+"fd-296-04\n"
+"by FD"
+msgstr ""
+"fd-296-04\n"
+"от FD"
+
+#. ID 116, Line 158
+msgid ""
+"fd-296-02\n"
+"by FD"
+msgstr ""
+"fd-296-02\n"
+"от FD"
+
+#. ID 116, Line 163
+msgid ""
+"Question Mark - Way of the Dreamy Mime\n"
+"by QMark"
+msgstr ""
+"Question Mark - Way of the Dreamy Mime\n"
+"от QMark"
+
+#. ID 116, Line 169
+msgid ""
+"Milica_BGM2\n"
+"by Milica"
+msgstr ""
+"Milica_BGM2\n"
+"от Milica"
+
+#. ID 116, Line 174
+#. ID 116, Line 179
+msgid ""
+"Milica_BGM2-Backbeat\n"
+"by Milica"
+msgstr ""
+"Milica_BGM2-Backbeat\n"
+"от Milica"
+
+#. ID 116, Line 187
+msgid ""
+"FD-neonpark\n"
+"by FD"
+msgstr ""
+"FD-neonpark\n"
+"от FD"
+
+#. ID 116, Line 192
+msgid ""
+"FD-neonpark2\n"
+"by FD"
+msgstr ""
+"FD-neonpark2\n"
+"от FD"
+
+#. ID 116, Line 199
+msgid ""
+"Nexus-craziness\n"
+"by Nexus"
+msgstr ""
+"Nexus-craziness\n"
+"от Nexus"
+
+#. ID 116, Line 204
+msgid ""
+"Question Mark - Fabricamento\n"
+"by QMark"
+msgstr ""
+"Question Mark - Fabricamento\n"
+"от QMark"
+
+#. ID 116, Line 209
+msgid ""
+"Question Mark - Estrada\n"
+"by QMark"
+msgstr ""
+"Question Mark - Estrada\n"
+"от QMark"
+
+#. ID 116, Line 214
+msgid ""
+"Question Mark - 78 Skidoo\n"
+"by QMark"
+msgstr ""
+"Question Mark - 78 Skidoo\n"
+"от QMark"
+
+#. ID 116, Line 219
+msgid ""
+"FD-errorsine\n"
+"by FD"
+msgstr ""
+"FD-errorsine\n"
+"от FD"
+
+#. ID 116, Line 225
+msgid ""
+"fd-sepiaL\n"
+"by FD"
+msgstr ""
+"fd-sepiaL\n"
+"от FD"
+
+#. ID 116, Line 230
+msgid ""
+"fd-sepia\n"
+"by FD"
+msgstr ""
+"fd-sepia\n"
+"от FD"
+
+#. ID 116, Line 237
+msgid ""
+"Jojogape - Light Breeze\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Light Breeze\n"
+"от Jojogape"
+
+#. ID 116, Line 242
+msgid ""
+"Jojogape - Oil Paint Sky\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Oil Paint Sky\n"
+"от Jojogape"
+
+#. ID 116, Line 247
+msgid ""
+"Nexus-bgm013\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm013\n"
+"от Nexus"
+
+#. ID 116, Line 252
+msgid ""
+"Nexus-bgm013-1\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm013-1\n"
+"от Nexus"
+
+#. ID 116, Line 257
+msgid ""
+"Jojogape - Sea of Static\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Sea of Static\n"
+"от Jojogape"
+
+#. ID 116, Line 263
+msgid ""
+"Jojogape - Acid Waves 2\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Acid Waves 2\n"
+"от Jojogape"
+
+#. ID 116, Line 268
+msgid ""
+"Jojogape - Acid Waves 2 back\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Acid Waves 2 back\n"
+"от Jojogape"
+
+#. ID 116, Line 275
+msgid ""
+"EBroxas-Starfields\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Starfields\n"
+"от EBroxas72"
+
+#. ID 116, Line 280
+msgid ""
+"Nexus-bgm007\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm007\n"
+"от Nexus"
+
+#. ID 116, Line 285
+msgid ""
+"Nexus-bgm005\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm005\n"
+"от Nexus"
+
+#. ID 116, Line 290
+msgid ""
+"EBroxas72-Ominus\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Ominus\n"
+"от EBroxas72"
+
+#. ID 116, Line 295
+msgid ""
+"Question Mark - cerebisected \n"
+"by QMark"
+msgstr ""
+"Question Mark - cerebisected \n"
+"от QMark"
+
+#. ID 116, Line 300
+msgid ""
+"QMark-BGMWhat\n"
+"by QMark"
+msgstr ""
+"QMark-BGMWhat\n"
+"от QMark"
+
+#. ID 116, Line 305
+msgid ""
+"QMark-PaleLavenderColored\n"
+"by QMark"
+msgstr ""
+"QMark-PaleLavenderColored\n"
+"от QMark"
+
+#. ID 116, Line 310
+msgid ""
+"QMark-PaleLavenderScented\n"
+"by QMark"
+msgstr ""
+"QMark-PaleLavenderScented\n"
+"от QMark"
+
+#. ID 116, Line 315
+msgid ""
+"001247xFD-00\n"
+"by 001247 and FD"
+msgstr ""
+"001247xFD-00\n"
+"от 001247 и FD"
+
+#. ID 116, Line 320
+msgid ""
+"fd-0112\n"
+"by FD"
+msgstr ""
+"fd-0112\n"
+"от FD"
+
+#. ID 116, Line 325
+msgid ""
+"Nexus-bgm006\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm006\n"
+"от Nexus"
+
+#. ID 116, Line 330
+msgid ""
+"Nexus-bgm020a\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm020a\n"
+"от Nexus"
+
+#. ID 116, Line 335
+msgid ""
+"Nexus-bgm020\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm020\n"
+"от Nexus"
+
+#. ID 116, Line 340
+msgid ""
+"fd-10002\n"
+"by FD"
+msgstr ""
+"fd-10002\n"
+"от FD"
+
+#. ID 116, Line 345
+msgid ""
+"Ebroxas-back\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-back\n"
+"от EBroxas72"
+
+#. ID 116, Line 350
+msgid ""
+"Milica_BGM6\n"
+"by Milica"
+msgstr ""
+"Milica_BGM6\n"
+"от Milica"
+
+#. ID 116, Line 355
+msgid ""
+"Milica_BGM3\n"
+"by Milica"
+msgstr ""
+"Milica_BGM3\n"
+"от Milica"
+
+#. ID 116, Line 360
+msgid ""
+"1247-YM2612-001\n"
+"by 001247"
+msgstr ""
+"1247-YM2612-001\n"
+"от 001247"
+
+#. ID 116, Line 365
+msgid ""
+"Nexus-bgm021a\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm021a\n"
+"от Nexus"
+
+#. ID 116, Line 370
+msgid ""
+"TK-1-CrystallineDream\n"
+"by ZLD"
+msgstr ""
+"TK-1-CrystallineDream\n"
+"от ZLD"
+
+#. ID 116, Line 375
+msgid ""
+"Nexus-bgm014\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm014\n"
+"от Nexus"
+
+#. ID 116, Line 380
+msgid ""
+"EBroxas-Snowy-town\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Snowy-town\n"
+"от EBroxas72"
+
+#. ID 116, Line 385
+msgid ""
+"Ebroxas-NPC song\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-NPC song\n"
+"от EBroxas72"
+
+#. ID 116, Line 391
+msgid ""
+"EBroxas-Snow-inside\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Snow-inside\n"
+"от EBroxas72"
+
+#. ID 116, Line 396
+msgid ""
+"EBroxas72-Snow1\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Snow1\n"
+"от EBroxas72"
+
+#. ID 116, Line 401
+msgid ""
+"EBroxas72-Snow2\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Snow2\n"
+"от EBroxas72"
+
+#. ID 116, Line 408
+msgid ""
+"EBroxas72-Waltz\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Waltz\n"
+"от EBroxas72"
+
+#. ID 116, Line 413
+msgid ""
+"EBroxas-clock\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-clock\n"
+"от EBroxas72"
+
+#. ID 116, Line 418
+msgid ""
+"400862_bobv2_film-01\n"
+"Stock sound"
+msgstr ""
+"400862_bobv2_film-01\n"
+"Стоковый звук"
+
+#. ID 116, Line 423
+msgid ""
+"EBroxas72-Horse\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Horse\n"
+"от EBroxas72"
+
+#. ID 116, Line 428
+msgid ""
+"EBroxas72-church\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-church\n"
+"от EBroxas72"
+
+#. ID 116, Line 433
+msgid ""
+"1247-mystical\n"
+"by 001247"
+msgstr ""
+"1247-mystical\n"
+"от 001247"
+
+#. ID 116, Line 438
+msgid ""
+"EBroxas-Churche\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Churche\n"
+"от EBroxas72"
+
+#. ID 116, Line 443
+msgid ""
+"EBroxas-forest_normal\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-forest_normal\n"
+"от EBroxas72"
+
+#. ID 116, Line 448
+msgid ""
+"EBroxas-Cliffs\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Cliffs\n"
+"от EBroxas72"
+
+#. ID 116, Line 453
+msgid ""
+"EBroxas-Eye-forest-Remix\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Eye-forest-Remix\n"
+"от EBroxas72"
+
+#. ID 116, Line 458
+msgid ""
+"Ebroxas-forest-scary-slow2\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-forest-scary-slow2\n"
+"от EBroxas72"
+
+#. ID 116, Line 463
+msgid ""
+"EBroxas-seers-room (1)\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-seers-room (1)\n"
+"от EBroxas72"
+
+#. ID 116, Line 468
+msgid ""
+"Nexus-crazinessb\n"
+"by Nexus"
+msgstr ""
+"Nexus-crazinessb\n"
+"от Nexus"
+
+#. ID 116, Line 473
+msgid ""
+"Nexus-bgm014b\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm014b\n"
+"от Nexus"
+
+#. ID 116, Line 478
+msgid ""
+"EBroxas-purple town outside\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-purple town outside\n"
+"от EBroxas72"
+
+#. ID 116, Line 483
+msgid ""
+"EBroxas-angel\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-angel\n"
+"от EBroxas72"
+
+#. ID 116, Line 488
+msgid ""
+"EBroxas-Nexus-13remix\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Nexus-13remix\n"
+"от EBroxas72"
+
+#. ID 116, Line 493
+msgid ""
+"EBroxas-Sky-islands\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Sky-islands\n"
+"от EBroxas72"
+
+#. ID 116, Line 498
+msgid ""
+"EBroxas-Dojo\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Dojo\n"
+"от EBroxas72"
+
+#. ID 116, Line 503
+msgid ""
+"Ebroxas-Doodle-world\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-Doodle-world\n"
+"от EBroxas72"
+
+#. ID 116, Line 508
+msgid ""
+"fd-zaku\n"
+"by FD"
+msgstr ""
+"fd-zaku\n"
+"от FD"
+
+#. ID 116, Line 513
+msgid ""
+"sniperbob-boardonmyheadHAHA\n"
+"by sniperbob"
+msgstr ""
+"sniperbob-boardonmyheadHAHA\n"
+"от sniperbob"
+
+#. ID 116, Line 518
+msgid ""
+"sniperbob-chipstuckinthroat\n"
+"by sniperbob"
+msgstr ""
+"sniperbob-chipstuckinthroat\n"
+"от sniperbob"
+
+#. ID 116, Line 523
+msgid ""
+"sniperbob-pencilinmynose\n"
+"by sniperbob"
+msgstr ""
+"sniperbob-pencilinmynose\n"
+"от sniperbob"
+
+#. ID 116, Line 528
+msgid ""
+"Ebroxas-BGM-4\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-BGM-4\n"
+"от EBroxas72"
+
+#. ID 116, Line 533
+msgid ""
+"fd-296_05\n"
+"by FD"
+msgstr ""
+"fd-296_05\n"
+"от FD"
+
+#. ID 116, Line 538
+msgid ""
+"sniperbob-teratoma\n"
+"by sniperbob"
+msgstr ""
+"sniperbob-teratoma\n"
+"от sniperbob"
+
+#. ID 116, Line 543
+msgid ""
+"sniperbob-braincannibal\n"
+"by sniperbob"
+msgstr ""
+"sniperbob-braincannibal\n"
+"от sniperbob"
+
+#. ID 116, Line 548
+msgid ""
+"sniperbob-fingerbitingoff\n"
+"by sniperbob"
+msgstr ""
+"sniperbob-fingerbitingoff\n"
+"от sniperbob"
+
+#. ID 116, Line 553
+msgid ""
+"Jojogape - Acid Waves\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Acid Waves\n"
+"от Jojogape"
+
+#. ID 116, Line 558
+msgid ""
+"fd-tone3\n"
+"by FD"
+msgstr ""
+"fd-tone3\n"
+"от FD"
+
+#. ID 116, Line 563
+msgid ""
+"Ebroxas-Omonu\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-Omonu\n"
+"от EBroxas72"
+
+#. ID 116, Line 568
+msgid ""
+"ebroxas-8bit-1\n"
+"by EBroxas72"
+msgstr ""
+"ebroxas-8bit-1\n"
+"от EBroxas72"
+
+#. ID 116, Line 573
+msgid ""
+"Ebroxas-8bit-2\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-8bit-2\n"
+"от EBroxas72"
+
+#. ID 116, Line 578
+msgid ""
+"EBroxas-8bit-3\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-8bit-3\n"
+"от EBroxas72"
+
+#. ID 116, Line 583
+msgid ""
+"QMark-Neneon\n"
+"by QMark"
+msgstr ""
+"QMark-Neneon\n"
+"от QMark"
+
+#. ID 116, Line 588
+msgid ""
+"QMark-Pipeswithgrass\n"
+"by QMark"
+msgstr ""
+"QMark-Pipeswithgrass\n"
+"от QMark"
+
+#. ID 116, Line 594
+msgid ""
+"QMark-AstrallSky\n"
+"by QMark"
+msgstr ""
+"QMark-AstrallSky\n"
+"от QMark"
+
+#. ID 116, Line 599
+msgid ""
+"QMark-PastelSky\n"
+"by QMark"
+msgstr ""
+"QMark-PastelSky\n"
+"от QMark"
+
+#. ID 116, Line 606
+msgid ""
+"QMark-NaturalArcadea\n"
+"by QMark"
+msgstr ""
+"QMark-NaturalArcadea\n"
+"от QMark"
+
+#. ID 116, Line 612
+msgid ""
+"QMark-NeonVillage\n"
+"by QMark"
+msgstr ""
+"QMark-NeonVillage\n"
+"от QMark"
+
+#. ID 116, Line 617
+msgid ""
+"QMark-NeonVillageTWO\n"
+"by QMark"
+msgstr ""
+"QMark-NeonVillageTWO\n"
+"от QMark"
+
+#. ID 116, Line 624
+msgid ""
+"QMark-Musicboxperiod\n"
+"by QMark"
+msgstr ""
+"QMark-Musicboxperiod\n"
+"от QMark"
+
+#. ID 116, Line 629
+msgid ""
+"stylzm-wasteland\n"
+"by stylzm"
+msgstr ""
+"stylzm-wasteland\n"
+"от stylzm"
+
+#. ID 116, Line 634
+msgid ""
+"gummy-waynesworld2\n"
+"by gummy"
+msgstr ""
+"gummy-waynesworld2\n"
+"от gummy"
+
+#. ID 116, Line 639
+msgid ""
+"gummy-sleepdeprived2\n"
+"by gummy"
+msgstr ""
+"gummy-sleepdeprived2\n"
+"от gummy"
+
+#. ID 116, Line 644
+msgid ""
+"stylzm-machinery1\n"
+"by stylzm"
+msgstr ""
+"stylzm-machinery1\n"
+"от stylzm"
+
+#. ID 116, Line 649
+msgid ""
+"fd-0044\n"
+"by FD"
+msgstr ""
+"fd-0044\n"
+"от FD"
+
+#. ID 116, Line 654
+msgid ""
+"Hashtag_underscore_abyss_ejay\n"
+"by #_"
+msgstr ""
+"Hashtag_underscore_abyss_ejay\n"
+"от #_"
+
+#. ID 116, Line 659
+msgid ""
+"EBroxas-Void-Murals\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Void-Murals\n"
+"от EBroxas72"
+
+#. ID 116, Line 664
+msgid ""
+"Car Driving-SoundBible.com-923766101\n"
+"Stock sound"
+msgstr ""
+"Car Driving-SoundBible.com-923766101\n"
+"Стоковый звук"
+
+#. ID 116, Line 669
+msgid ""
+"EBroxas-Dudecomplex\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Dudecomplex\n"
+"от EBroxas72"
+
+#. ID 116, Line 674
+msgid ""
+"Ebroxas-globe5\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-globe5\n"
+"от EBroxas72"
+
+#. ID 116, Line 679
+msgid ""
+"Ebroxas-backwardspiano\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-backwardspiano\n"
+"от EBroxas72"
+
+#. ID 116, Line 684
+msgid ""
+"EBroxas72-Totsu-grave\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Totsu-grave\n"
+"от EBroxas72"
+
+#. ID 116, Line 689
+msgid ""
+"fd-noisewhite\n"
+"by FD"
+msgstr ""
+"fd-noisewhite\n"
+"от FD"
+
+#. ID 116, Line 694
+msgid ""
+"fd-midi9\n"
+"by FD"
+msgstr ""
+"fd-midi9\n"
+"от FD"
+
+#. ID 116, Line 699
+msgid ""
+"EBroxas-Starplusejapan\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-Starplusejapan\n"
+"от EBroxas72"
+
+#. ID 116, Line 704
+msgid ""
+"Rindre-008a That Night I Saw\n"
+"by Rindre"
+msgstr ""
+"Rindre-008a That Night I Saw\n"
+"от Rindre"
+
+#. ID 116, Line 709
+msgid ""
+"Jojogape - Shivers\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Shivers\n"
+"от Jojogape"
+
+#. ID 116, Line 714
+msgid ""
+"gummy-strange_ambience2\n"
+"by gummy"
+msgstr ""
+"gummy-strange_ambience2\n"
+"от gummy"
+
+#. ID 116, Line 719
+msgid ""
+"Nexus-dadladladladla1\n"
+"by Nexus"
+msgstr ""
+"Nexus-dadladladladla1\n"
+"от Nexus"
+
+#. ID 116, Line 724
+msgid ""
+"Nexus-playplayce2_edit\n"
+"by Nexus"
+msgstr ""
+"Nexus-playplayce2_edit\n"
+"от Nexus"
+
+#. ID 116, Line 730
+msgid ""
+"nexus-germz\n"
+"by Nexus"
+msgstr ""
+"nexus-germz\n"
+"от Nexus"
+
+#. ID 116, Line 735
+msgid ""
+"nexus-germz2\n"
+"by Nexus"
+msgstr ""
+"nexus-germz2\n"
+"от Nexus"
+
+#. ID 116, Line 743
+#. ID 116, Line 753
+msgid ""
+"nexus-playplayce4\n"
+"by Nexus"
+msgstr ""
+"nexus-playplayce4\n"
+"от Nexus"
+
+#. ID 116, Line 748
+msgid ""
+"nexus-playplayce5\n"
+"by Nexus"
+msgstr ""
+"nexus-playplayce5\n"
+"от Nexus"
+
+#. ID 116, Line 760
+msgid ""
+"Nexus-sunflower\n"
+"by Nexus"
+msgstr ""
+"Nexus-sunflower\n"
+"от Nexus"
+
+#. ID 116, Line 765
+msgid ""
+"Nexus-bgm009\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm009\n"
+"от Nexus"
+
+#. ID 116, Line 770
+msgid ""
+"nexus-bgm026\n"
+"by Nexus"
+msgstr ""
+"nexus-bgm026\n"
+"от Nexus"
+
+#. ID 116, Line 776
+msgid ""
+"nexus-bgm028 without noise\n"
+"by Nexus"
+msgstr ""
+"nexus-bgm028 without noise\n"
+"от Nexus"
+
+#. ID 116, Line 781
+#. ID 116, Line 786
+msgid ""
+"nexus-bgm028\n"
+"by Nexus"
+msgstr ""
+"nexus-bgm028\n"
+"от Nexus"
+
+#. ID 116, Line 793
+msgid ""
+"Nexus-bgm003\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm003\n"
+"от Nexus"
+
+#. ID 116, Line 798
+msgid ""
+"maple-spacey\n"
+"by maple"
+msgstr ""
+"maple-spacey\n"
+"от maple"
+
+#. ID 116, Line 803
+msgid ""
+"maple-vwoom\n"
+"by maple"
+msgstr ""
+"maple-vwoom\n"
+"от maple"
+
+#. ID 116, Line 808
+msgid ""
+"maple-bubbly\n"
+"by maple"
+msgstr ""
+"maple-bubbly\n"
+"от maple"
+
+#. ID 116, Line 813
+msgid ""
+"maple-loop3\n"
+"by maple"
+msgstr ""
+"maple-loop3\n"
+"от maple"
+
+#. ID 116, Line 818
+msgid ""
+"maple-shroom\n"
+"by maple"
+msgstr ""
+"maple-shroom\n"
+"от maple"
+
+#. ID 116, Line 824
+msgid ""
+"maple-seaside\n"
+"by maple"
+msgstr ""
+"maple-seaside\n"
+"от maple"
+
+#. ID 116, Line 829
+msgid ""
+"maple-seaside2\n"
+"by maple"
+msgstr ""
+"maple-seaside2\n"
+"от maple"
+
+#. ID 116, Line 836
+msgid ""
+"maple-nightly\n"
+"by maple"
+msgstr ""
+"maple-nightly\n"
+"от maple"
+
+#. ID 116, Line 841
+msgid ""
+"fd-0831c\n"
+"by FD"
+msgstr ""
+"fd-0831c\n"
+"от FD"
+
+#. ID 116, Line 846
+msgid ""
+"Milica_BGM5\n"
+"by Milica"
+msgstr ""
+"Milica_BGM5\n"
+"от Milica"
+
+#. ID 116, Line 851
+msgid ""
+"fd-1216b\n"
+"by FD"
+msgstr ""
+"fd-1216b\n"
+"от FD"
+
+#. ID 116, Line 856
+msgid ""
+"Jojogape - Inside the Bell\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Inside the Bell\n"
+"от Jojogape"
+
+#. ID 116, Line 861
+msgid ""
+"Jojogape - Rosetta\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Rosetta\n"
+"от Jojogape"
+
+#. ID 116, Line 866
+msgid ""
+"Jojogape - Nothing Means\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Nothing Means\n"
+"от Jojogape"
+
+#. ID 116, Line 871
+msgid ""
+"Jojogape - Oxygen Wall\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Oxygen Wall\n"
+"от Jojogape"
+
+#. ID 116, Line 876
+msgid ""
+"Jojogape - Pre\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Pre\n"
+"от Jojogape"
+
+#. ID 116, Line 881
+msgid ""
+"Jojogape - Organism\n"
+"by Jojogape"
+msgstr ""
+"Jojogape - Organism\n"
+"от Jojogape"
+
+#. ID 116, Line 886
+msgid ""
+"fd-noisefreeze\n"
+"by FD"
+msgstr ""
+"fd-noisefreeze\n"
+"от FD"
+
+#. ID 116, Line 891
+msgid ""
+"Question Mark - oncologic\n"
+"by QMark"
+msgstr ""
+"Question Mark - oncologic\n"
+"от QMark"
+
+#. ID 116, Line 896
+msgid ""
+"Ebroxas-Flight\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-Flight\n"
+"от EBroxas72"
+
+#. ID 116, Line 901
+msgid ""
+"Nexus-bgm023\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm023\n"
+"от Nexus"
+
+#. ID 116, Line 906
+msgid ""
+"Nexus-bgm030-8000\n"
+"by Nexus"
+msgstr ""
+"Nexus-bgm030-8000\n"
+"от Nexus"
+
+#. ID 116, Line 911
+msgid ""
+"maple-elecwaters\n"
+"by maple"
+msgstr ""
+"maple-elecwaters\n"
+"от maple"
+
+#. ID 116, Line 916
+msgid ""
+"fd-220121\n"
+"by FD"
+msgstr ""
+"fd-220121\n"
+"от FD"
+
+#. ID 116, Line 921
+msgid ""
+"Milica_BGM7\n"
+"by Milica"
+msgstr ""
+"Milica_BGM7\n"
+"от Milica"
+
+#. ID 116, Line 926
+msgid ""
+"FD-cyber\n"
+"by FD"
+msgstr ""
+"FD-cyber\n"
+"от FD"
+
+#. ID 116, Line 931
+msgid ""
+"fd-banger1\n"
+"by FD"
+msgstr ""
+"fd-banger1\n"
+"от FD"
+
+#. ID 116, Line 936
+msgid ""
+"nexus-vape_bitcrush\n"
+"by Nexus"
+msgstr ""
+"nexus-vape_bitcrush\n"
+"от Nexus"
+
+#. ID 116, Line 941
+msgid ""
+"gummy-eyeball hallway\n"
+"by gummy"
+msgstr ""
+"gummy-eyeball hallway\n"
+"от gummy"
+
+#. ID 116, Line 946
+msgid ""
+"gummy-purple hat world thingie2\n"
+"by gummy"
+msgstr ""
+"gummy-purple hat world thingie2\n"
+"от gummy"
+
+#. ID 116, Line 951
+msgid ""
+"gummy-lonely waterpark2\n"
+"by gummy"
+msgstr ""
+"gummy-lonely waterpark2\n"
+"от gummy"
+
+#. ID 116, Line 956
+msgid ""
+"gummy-machine in the basement2\n"
+"by gummy"
+msgstr ""
+"gummy-machine in the basement2\n"
+"от gummy"
+
+#. ID 116, Line 961
+msgid ""
+"gummy-dance babe2\n"
+"by gummy"
+msgstr ""
+"gummy-dance babe2\n"
+"от gummy"
+
+#. ID 116, Line 966
+msgid ""
+"gummy-duck hallway2\n"
+"by gummy"
+msgstr ""
+"gummy-duck hallway2\n"
+"от gummy"
+
+#. ID 116, Line 971
+msgid ""
+"gummy-pink desert2\n"
+"by gummy"
+msgstr ""
+"gummy-pink desert2\n"
+"от gummy"
+
+#. ID 116, Line 976
+msgid ""
+"gummy-bumblebee cafe\n"
+"by gummy"
+msgstr ""
+"gummy-bumblebee cafe\n"
+"от gummy"
+
+#. ID 116, Line 981
+msgid ""
+"gummy-blue lovers4\n"
+"by gummy"
+msgstr ""
+"gummy-blue lovers4\n"
+"от gummy"
+
+#. ID 116, Line 986
+msgid ""
+"gummy-I HAVE AWOKEN2\n"
+"by gummy"
+msgstr ""
+"gummy-I HAVE AWOKEN2\n"
+"от gummy"
+
+#. ID 116, Line 991
+msgid ""
+"gummy-cybercityscape\n"
+"by gummy"
+msgstr ""
+"gummy-cybercityscape\n"
+"от gummy"
+
+#. ID 116, Line 996
+msgid ""
+"fd-noisebrown\n"
+"by FD"
+msgstr ""
+"fd-noisebrown\n"
+"от FD"
+
+#. ID 116, Line 1001
+msgid ""
+"gummy-lockerroomsdotexe\n"
+"by gummy"
+msgstr ""
+"gummy-lockerroomsdotexe\n"
+"от gummy"
+
+#. ID 116, Line 1006
+msgid ""
+"gummy-joj piano2\n"
+"by gummy"
+msgstr ""
+"gummy-joj piano2\n"
+"от gummy"
+
+#. ID 116, Line 1012
+msgid ""
+"gummy-freaking epic rave2\n"
+"by gummy"
+msgstr ""
+"gummy-freaking epic rave2\n"
+"от gummy"
+
+#. ID 116, Line 1017
+msgid ""
+"gummy-freaking epic rave lowpass2\n"
+"by gummy"
+msgstr ""
+"gummy-freaking epic rave lowpass2\n"
+"от gummy"
+
+#. ID 116, Line 1024
+msgid ""
+"gummy-hexagon_land2\n"
+"by gummy"
+msgstr ""
+"gummy-hexagon_land2\n"
+"от gummy"
+
+#. ID 116, Line 1029
+msgid ""
+"gummy-smiling ocean\n"
+"by gummy"
+msgstr ""
+"gummy-smiling ocean\n"
+"от gummy"
+
+#. ID 116, Line 1034
+msgid ""
+"gummy-ominous factory2\n"
+"by gummy"
+msgstr ""
+"gummy-ominous factory2\n"
+"от gummy"
+
+#. ID 116, Line 1039
+msgid ""
+"fd-296_01\n"
+"by FD"
+msgstr ""
+"fd-296_01\n"
+"от FD"
+
+#. ID 116, Line 1045
+msgid ""
+"Ebroxas-color-Void\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-color-Void\n"
+"от EBroxas72"
+
+#. ID 116, Line 1050
+#. ID 116, Line 1055
+msgid ""
+"EBroxas72-Grinds\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas72-Grinds\n"
+"от EBroxas72"
+
+#. ID 116, Line 1062
+msgid ""
+"nexus-fairy_LHZ\n"
+"by Nexus"
+msgstr ""
+"nexus-fairy_LHZ\n"
+"от Nexus"
+
+#. ID 116, Line 1067
+msgid ""
+"Ebroxas-crater\n"
+"by EBroxas72"
+msgstr ""
+"Ebroxas-crater\n"
+"от EBroxas72"
+
+#. ID 116, Line 1072
+msgid ""
+"EBroxas-water-Palace\n"
+"by EBroxas72"
+msgstr ""
+"EBroxas-water-Palace\n"
+"от EBroxas72"
+
+#. ID 116, Line 1077
+msgid ""
+"ForestDecoHighrise\n"
+"by Forest"
+msgstr ""
+"ForestDecoHighrise\n"
+"от Forest"
+
+#. ID 116, Line 1082
+msgid ""
+"ForestDecoParking\n"
+"by Forest"
+msgstr ""
+"ForestDecoParking\n"
+"от Forest"
+
+#. ID 116, Line 1087
+msgid ""
+"ForestDecoMetro\n"
+"by Forest"
+msgstr ""
+"ForestDecoMetro\n"
+"от Forest"
+
+#. ID 116, Line 1092
+msgid ""
+"ForestDecoHallway\n"
+"by Forest"
+msgstr ""
+"ForestDecoHallway\n"
+"от Forest"
+
+#. ID 116, Line 1097
+msgid ""
+"lapis mus_moonside\n"
+"by River"
+msgstr ""
+"lapis mus_moonside\n"
+"от River"
+
+#. ID 116, Line 1102
+msgid ""
+"lapis mus_symmetry\n"
+"by River"
+msgstr ""
+"lapis mus_symmetry\n"
+"от River"
+
+#. ID 116, Line 1107
+msgid ""
+"fd-midi3\n"
+"by FD"
+msgstr ""
+"fd-midi3\n"
+"от FD"
+
+#. ID 116, Line 1112
+msgid ""
+"fd-airconditioner\n"
+"by FD"
+msgstr ""
+"fd-airconditioner\n"
+"от FD"
+
+#. ID 116, Line 1117
+msgid ""
+"Lattex-ambient3\n"
+"by Lattex"
+msgstr ""
+"Lattex-ambient3\n"
+"от Lattex"
+
+#. ID 116, Line 1122
+msgid ""
+"lapis mus_snail\n"
+"by River"
+msgstr ""
+"lapis mus_snail\n"
+"от River"
+
+#. ID 116, Line 1127
+msgid ""
+"lapis mus_musicbox\n"
+"by River"
+msgstr ""
+"lapis mus_musicbox\n"
+"от River"
+
+#. ID 116, Line 1132
+msgid ""
+"ZLD-Stars\n"
+"by ZLD"
+msgstr ""
+"ZLD-Stars\n"
+"от ZLD"
+
+#. ID 116, Line 1137
+msgid ""
+"ZLD-Mall-1\n"
+"by ZLD"
+msgstr ""
+"ZLD-Mall-1\n"
+"от ZLD"
+
+#. ID 116, Line 1142
+msgid ""
+"ZLD-ErrorScreen\n"
+"by ZLD"
+msgstr ""
+"ZLD-ErrorScreen\n"
+"от ZLD"
+
+#. ID 116, Line 1147
+msgid ""
+"ZLD-Mall_SAFE\n"
+"by ZLD"
+msgstr ""
+"ZLD-Mall_SAFE\n"
+"от ZLD"
+
+#. ID 116, Line 1152
+msgid ""
+"maple-whistle\n"
+"by maple"
+msgstr ""
+"maple-whistle\n"
+"от maple"
+
+#. ID 116, Line 1157
+msgid ""
+"QMark-BubblesAmb\n"
+"by QMark"
+msgstr ""
+"QMark-BubblesAmb\n"
+"от QMark"
+
+#. ID 116, Line 1162
+msgid ""
+"fd-title2\n"
+"by FD"
+msgstr ""
+"fd-title2\n"
+"от FD"
+
+#. ID 123, Line 10
+msgid "Locking BGM \\v[2297], variation \\v[2298]."
+msgstr "Блокируем саундтрек \\v[2297], вариант \\v[2298]."
+
+#. ID 125, Line 14
+msgid ""
+"                   !!Warning!!\n"
+"You are currently playing with an outdated save\n"
+"file.\\!\n"
+"Adjusting save data..."
+msgstr ""
+"                  !!Внимание!!\n"
+"Вы играете на файле сохранения от старой версии.\\!\n"
+"Перенастраиваем файл сохранения..."
+
+#. ID 125, Line 101
+msgid "Save update complete!"
+msgstr "Обновление сохранения завершено!"

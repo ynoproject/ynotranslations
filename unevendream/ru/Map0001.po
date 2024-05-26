@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uneven Dream\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 26, Page 1, Line 2, Pos (15,8)
+#. Contains choice at line 2 (3 options)
+msgid "Music Room Data Management"
+msgstr "Работа с данными музыкальной комнаты"
+
+#. ID 26, Page 1, Line 3, Pos (15,8)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Modify data\n"
+"Toggle debug messages\n"
+"Exit"
+msgstr ""
+"Изменить данные\n"
+"Переключить сообщения отладки\n"
+"Выход"
+
+#. ID 26, Page 1, Line 6, Pos (15,8)
+#. Choice (4 options)
+msgid ""
+"Unlock specific BGM\n"
+"Unlock all\n"
+"Lock all\n"
+"Back"
+msgstr ""
+"Разблокировать конкретный саундтрек\n"
+"Разблокировать все\n"
+"Заблокировать все\n"
+"Назад"
+
+#. ID 26, Page 1, Line 9, Pos (15,8)
+msgid "BGM ID: (1-1400)"
+msgstr "ID Саундтрека: (1-1400)"
+
+#. ID 26, Page 1, Line 12, Pos (15,8)
+#. ID 26, Page 1, Line 17, Pos (15,8)
+msgid "The value needs to be in the range of 1-1400!"
+msgstr "Значение должно быть в пределах от 1 до 1400!"
+
+#. ID 26, Page 1, Line 22, Pos (15,8)
+msgid "Variation: (1-8)"
+msgstr "Вариант: (1-8)"
+
+#. ID 26, Page 1, Line 25, Pos (15,8)
+#. ID 26, Page 1, Line 30, Pos (15,8)
+msgid "The value needs to be in the range of 1-8!"
+msgstr "Значение должно быть от 1 до 8!"
+
+#. ID 26, Page 1, Line 39, Pos (15,8)
+#. Contains choice at line 2 (2 options)
+#. ID 26, Page 1, Line 54, Pos (15,8)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#. ID 26, Page 1, Line 40, Pos (15,8)
+#. Choice (2 options, embedded in a message)
+#. ID 26, Page 1, Line 55, Pos (15,8)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 26, Page 1, Line 76, Pos (15,8)
+msgid "BGM Unlock debug messages are now ON."
+msgstr "Сообщения о разблокировке саундтреков включены."
+
+#. ID 26, Page 1, Line 79, Pos (15,8)
+msgid "BGM Unlock debug messages are now OFF."
+msgstr "Сообщения о разблокировке саундтреков отключены."
