@@ -343,7 +343,7 @@ msgstr "\\$\\|\\^"
 #. ID 108, Line 109
 #. Contains choice at line 2 (3 options)
 msgid "Current quick teleport 1: \\V[0713] X \\V[0716] Y \\V[0719]."
-msgstr "Быстрый телепорт 1: \\V[0173] X \\V[0716] Y \\V[0719]."
+msgstr "Быстрый телепорт 1: \\V[0713] X \\V[0716] Y \\V[0719]."
 
 #. ID 108, Line 110
 #. Choice (3 options, embedded in a message)
@@ -466,7 +466,7 @@ msgstr "Вы хотите переместиться куда-то конкре�
 
 #. ID 108, Line 351
 msgid "Map scroll unlocked."
-msgstr "Прокрутка карты разблокирована"
+msgstr "Прокрутка карты разблокирована."
 
 #. ID 108, Line 370
 msgid "Change your money amount:"
@@ -533,6 +533,15 @@ msgstr ""
 #. Contains choice at line 2 (2 options)
 msgid "Return to main menu?"
 msgstr "Вернуться в главное меню?"
+
+#. ID 110, Line 271
+#. Choice (2 options)
+msgid ""
+"Silent wallpaper notification\n"
+"Back"
+msgstr ""
+"Заглушить уведомления обоев\n"
+"Назад"
 
 #. ID 110, Line 274
 #. Choice (3 options)
@@ -1566,10 +1575,10 @@ msgstr ""
 
 #. ID 116, Line 599
 msgid ""
-"QMark-PastelSky\n"
+"QMark-PastellSky\n"
 "by QMark"
 msgstr ""
-"QMark-PastelSky\n"
+"QMark-PastellSky\n"
 "от QMark"
 
 #. ID 116, Line 606
@@ -2414,6 +2423,14 @@ msgid ""
 msgstr ""
 "fd-title2\n"
 "от FD"
+
+#. ID 116, Line 1167
+msgid ""
+"QMark-PastelSky\n"
+"by QMark"
+msgstr ""
+"QMark-PastelSky\n"
+"от QMark"
 
 #. ID 123, Line 10
 msgid "Locking BGM \\v[2297], variation \\v[2298]."
