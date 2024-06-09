@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 93, Page 1, Line 1, Pos (145,7)
+#. ID 98, Page 1, Line 1, Pos (140,53)
+msgid "how did you even get here?"
+msgstr "どうやってここに来たんだ？"
+
+#. ID 93, Page 1, Line 2, Pos (145,7)
+#. ID 98, Page 1, Line 2, Pos (140,53)
+msgid "you know what? adam, that's it, you need to leave"
+msgstr "あのな？アダム、そうだ、ここを去れ。"

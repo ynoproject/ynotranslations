@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 4, Line 19
+msgid ""
+"\n"
+"                   * Soulfire *"
+msgstr ""
+"\n"
+"                   * 魂火 *"
+
+#. ID 4, Line 48
+msgid ""
+"\n"
+"                     * Umbra *"
+msgstr ""
+"\n"
+"                     * 黑暗 *"
+
+#. ID 4, Line 77
+msgid ""
+"\n"
+"                   * Rodentia *"
+msgstr ""
+"\n"
+"                   * 啮齿 *"
+
+#. ID 4, Line 106
+msgid ""
+"\n"
+"                    * Lumen *"
+msgstr ""
+"\n"
+"                    * 光辉 *"
+
+#. ID 4, Line 135
+msgid ""
+"\n"
+"                    * Youth *"
+msgstr ""
+"\n"
+"                    * 年少 *"
+
+#. ID 4, Line 162
+msgid ""
+"\n"
+"                   * Spectral *"
+msgstr ""
+"\n"
+"                   * 光谱 *"
+
+#. ID 4, Line 189
+msgid ""
+"\n"
+"                    * Climate *"
+msgstr ""
+"\n"
+"                   * 气候 *"
+
+#. ID 4, Line 216
+msgid ""
+"\n"
+"                    * Kalimba *"
+msgstr ""
+"\n"
+"                   * 卡林巴 *"
+
+#. ID 21, Line 12
+#. ID 21, Line 15
+#. ID 21, Line 34
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Line 11
+msgid ""
+"\n"
+"               * Menu theme: Office *"
+msgstr ""
+"\n"
+"                * 菜单样式：办公 *"
+
+#. ID 28, Line 27
+msgid ""
+"\n"
+"               * Menu theme: Sun *"
+msgstr ""
+"\n"
+"                * 菜单样式：太阳 *"
+
+#. ID 28, Line 45
+msgid ""
+"\n"
+"               * Menu theme: Dusk *"
+msgstr ""
+"\n"
+"                * 菜单样式：黄昏 *"
+
+#. ID 28, Line 61
+msgid ""
+"\n"
+"           * Menu theme: Vague Memory *"
+msgstr ""
+"\n"
+"              * 菜单样式：模糊记忆 *"
+
+#. ID 28, Line 77
+msgid ""
+"\n"
+"              * Menu theme: Squids *"
+msgstr ""
+"\n"
+"                * 菜单样式：鱿鱼 *"
+
+#. ID 28, Line 93
+msgid ""
+"\n"
+"              * Menu theme: Willow *"
+msgstr ""
+"\n"
+"                * 菜单样式：垂柳 *"
+
+#. ID 28, Line 109
+msgid ""
+"\n"
+"           * Menu theme: Vibrant Blue *"
+msgstr ""
+"\n"
+"               * 菜单样式：活力蓝 *"
+
+#. ID 28, Line 125
+msgid ""
+"\n"
+"          * Menu theme: Glitched Static *"
+msgstr ""
+"\n"
+"              * 菜单样式：故障噪音 *"
+
+#. ID 28, Line 141
+msgid ""
+"\n"
+"             * Menu theme: Ammolites *"
+msgstr ""
+"\n"
+"              * 菜单样式：彩斑菊石 *"
+
+#. ID 28, Line 157
+msgid ""
+"\n"
+"            * Menu theme: Box Office *"
+msgstr ""
+"\n"
+"                * 菜单样式：票房 *"
+
+#. ID 28, Line 173
+msgid ""
+"\n"
+"                * Menu theme: Mural *"
+msgstr ""
+"\n"
+"                * 菜单样式：壁画 *"
+
+#. ID 28, Line 189
+msgid ""
+"\n"
+"            * Menu theme: Neon Mural *"
+msgstr ""
+"\n"
+"              * 菜单样式：霓虹壁画 *"
+
+#. ID 28, Line 205
+msgid ""
+"\n"
+"             * Menu theme: Altered *"
+msgstr ""
+"\n"
+"                * 菜单样式：修改 *"
+
+#. ID 28, Line 221
+msgid ""
+"\n"
+"              * Menu theme: Glowing *"
+msgstr ""
+"\n"
+"                * 菜单样式：发光 *"
+
+#. ID 28, Line 237
+msgid ""
+"\n"
+"              * Menu theme: Sunset *"
+msgstr ""
+"\n"
+"                * 菜单样式：日落 *"
+
+#. ID 28, Line 253
+msgid ""
+"\n"
+"             * Menu theme: Celestial *"
+msgstr ""
+"\n"
+"                * 菜单样式：天界 *"
+
+#. ID 28, Line 269
+msgid ""
+"\n"
+"               * Menu theme: Sweet *"
+msgstr ""
+"\n"
+"                * 菜单样式：甜糖 *"
+
+#. ID 28, Line 285
+msgid ""
+"\n"
+"          * Menu theme: Blueing Plastic *"
+msgstr ""
+
+#. ID 28, Line 301
+msgid ""
+"\n"
+"             * Menu theme: Voidbound *"
+msgstr ""
+
+#. ID 28, Line 317
+msgid ""
+"\n"
+"             * Menu theme: Handheld *"
+msgstr ""
+
+#. ID 28, Line 333
+msgid ""
+"\n"
+"             * Menu theme: Sidereal *"
+msgstr ""
+
+#. ID 28, Line 349
+msgid ""
+"\n"
+"             * Menu theme: Golfer *"
+msgstr ""
+
+#. ID 28, Line 365
+msgid ""
+"\n"
+"              * Menu theme: Virtual *"
+msgstr ""
+
+#. ID 28, Line 381
+msgid ""
+"\n"
+"              * Menu theme: Orchid *"
+msgstr ""
+
+#. ID 28, Line 397
+msgid ""
+"\n"
+"            * Menu theme: Streetlight *"
+msgstr ""
+
+#. ID 28, Line 413
+msgid ""
+"\n"
+"              * Menu theme: Basalt *"
+msgstr ""
+
+#. ID 28, Line 429
+msgid ""
+"\n"
+"               * Menu theme: Metal *"
+msgstr ""
+
+#. ID 28, Line 445
+msgid ""
+"\n"
+"              * Menu theme: Charred *"
+msgstr ""
+
+#. ID 28, Line 461
+msgid ""
+"\n"
+"             * Menu theme: Chromatic *"
+msgstr ""
+
+#. ID 28, Line 477
+msgid ""
+"\n"
+"             * Menu theme: Mossy Lab *"
+msgstr ""

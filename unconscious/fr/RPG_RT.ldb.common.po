@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 4, Line 19
+msgid ""
+"\n"
+"                   * Soulfire *"
+msgstr ""
+"\n"
+"                   * Feu d'âme *"
+
+#. ID 4, Line 48
+msgid ""
+"\n"
+"                     * Umbra *"
+msgstr ""
+"\n"
+"                     * Ombre *"
+
+#. ID 4, Line 77
+msgid ""
+"\n"
+"                   * Rodentia *"
+msgstr ""
+
+#. ID 4, Line 106
+msgid ""
+"\n"
+"                    * Lumen *"
+msgstr ""
+
+#. ID 4, Line 135
+msgid ""
+"\n"
+"                    * Youth *"
+msgstr ""
+"\n"
+"                   * Jouvence *"
+
+#. ID 4, Line 162
+msgid ""
+"\n"
+"                   * Spectral *"
+msgstr ""
+
+#. ID 4, Line 189
+msgid ""
+"\n"
+"                    * Climate *"
+msgstr ""
+"\n"
+"                    * Climat *"
+
+#. ID 4, Line 216
+msgid ""
+"\n"
+"                    * Kalimba *"
+msgstr ""
+
+#. ID 21, Line 12
+#. ID 21, Line 15
+#. ID 21, Line 34
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Line 11
+msgid ""
+"\n"
+"               * Menu theme: Office *"
+msgstr ""
+"\n"
+"            * Thème de menu : Bureau *"
+
+#. ID 28, Line 27
+msgid ""
+"\n"
+"               * Menu theme: Sun *"
+msgstr ""
+"\n"
+"            * Thème de menu : Soleil *"
+
+#. ID 28, Line 45
+msgid ""
+"\n"
+"               * Menu theme: Dusk *"
+msgstr ""
+"\n"
+"          * Thème de menu : Crépuscule *"
+
+#. ID 28, Line 61
+msgid ""
+"\n"
+"           * Menu theme: Vague Memory *"
+msgstr ""
+"\n"
+"        * Thème de menu : Vague souvenir *"
+
+#. ID 28, Line 77
+msgid ""
+"\n"
+"              * Menu theme: Squids *"
+msgstr ""
+"\n"
+"           * Thème de menu : Calamars *"
+
+#. ID 28, Line 93
+msgid ""
+"\n"
+"              * Menu theme: Willow *"
+msgstr ""
+"\n"
+"            * Thème de menu : Saule *"
+
+#. ID 28, Line 109
+msgid ""
+"\n"
+"           * Menu theme: Vibrant Blue *"
+msgstr ""
+"\n"
+"           * Thème de menu : Bleu vif *"
+
+#. ID 28, Line 125
+msgid ""
+"\n"
+"          * Menu theme: Glitched Static *"
+msgstr ""
+"\n"
+"        * Thème de menu : Statique buguée *"
+
+#. ID 28, Line 141
+msgid ""
+"\n"
+"             * Menu theme: Ammolites *"
+msgstr ""
+"\n"
+"          * Thème de menu : Ammolites *"
+
+#. ID 28, Line 157
+msgid ""
+"\n"
+"            * Menu theme: Box Office *"
+msgstr ""
+"\n"
+"         * Thème de menu : Box Office *"
+
+#. ID 28, Line 173
+msgid ""
+"\n"
+"                * Menu theme: Mural *"
+msgstr ""
+"\n"
+"        * Thème de menu : Peinture murale *"
+
+#. ID 28, Line 189
+msgid ""
+"\n"
+"            * Menu theme: Neon Mural *"
+msgstr ""
+"\n"
+"      * Thème de menu : Peinture murale néon *"
+
+#. ID 28, Line 205
+msgid ""
+"\n"
+"             * Menu theme: Altered *"
+msgstr ""
+"\n"
+"            * Thème de menu : Altéré *"
+
+#. ID 28, Line 221
+msgid ""
+"\n"
+"              * Menu theme: Glowing *"
+msgstr ""
+"\n"
+"           * Thème de menu : Lumineux *"
+
+#. ID 28, Line 237
+msgid ""
+"\n"
+"              * Menu theme: Sunset *"
+msgstr ""
+"\n"
+"       * Thème de menu : Coucher de soleil *"
+
+#. ID 28, Line 253
+msgid ""
+"\n"
+"             * Menu theme: Celestial *"
+msgstr ""
+"\n"
+"            * Thème de menu : Céleste *"
+
+#. ID 28, Line 269
+msgid ""
+"\n"
+"               * Menu theme: Sweet *"
+msgstr ""
+"\n"
+"           * Thème de menu : Sucrerie *"
+
+#. ID 28, Line 285
+msgid ""
+"\n"
+"          * Menu theme: Blueing Plastic *"
+msgstr ""
+"\n"
+"       * Thème de menu : Plastique bleuté *"
+
+#. ID 28, Line 301
+msgid ""
+"\n"
+"             * Menu theme: Voidbound *"
+msgstr ""
+"\n"
+"       * Thème de menu : Bordure du vide *"
+
+#. ID 28, Line 317
+msgid ""
+"\n"
+"             * Menu theme: Handheld *"
+msgstr ""
+"\n"
+"       * Thème de menu : Console portable *"
+
+#. ID 28, Line 333
+msgid ""
+"\n"
+"             * Menu theme: Sidereal *"
+msgstr ""
+"\n"
+"            * Thème de menu : Astral *"
+
+#. ID 28, Line 349
+msgid ""
+"\n"
+"             * Menu theme: Golfer *"
+msgstr ""
+"\n"
+"           * Thème de menu : Golfeur *"
+
+#. ID 28, Line 365
+msgid ""
+"\n"
+"              * Menu theme: Virtual *"
+msgstr ""
+"\n"
+"           * Thème de menu : Virtuel *"
+
+#. ID 28, Line 381
+msgid ""
+"\n"
+"              * Menu theme: Orchid *"
+msgstr ""
+"\n"
+"           * Thème de menu : Orchidée *"
+
+#. ID 28, Line 397
+msgid ""
+"\n"
+"            * Menu theme: Streetlight *"
+msgstr ""
+"\n"
+"          * Thème de menu : Réverbère *"
+
+#. ID 28, Line 413
+msgid ""
+"\n"
+"              * Menu theme: Basalt *"
+msgstr ""
+"\n"
+"           * Thème de menu : Basalte *"
+
+#. ID 28, Line 429
+msgid ""
+"\n"
+"               * Menu theme: Metal *"
+msgstr ""
+"\n"
+"            * Thème de menu : Métal *"
+
+#. ID 28, Line 445
+msgid ""
+"\n"
+"              * Menu theme: Charred *"
+msgstr ""
+"\n"
+"           * Thème de menu : Calciné *"
+
+#. ID 28, Line 461
+msgid ""
+"\n"
+"             * Menu theme: Chromatic *"
+msgstr ""
+"\n"
+"         * Thème de menu : Chromatique *"
+
+#. ID 28, Line 477
+msgid ""
+"\n"
+"             * Menu theme: Mossy Lab *"
+msgstr ""
+"\n"
+"         * Thème de menu : Labo mousseux *"
