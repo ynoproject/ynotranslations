@@ -71,7 +71,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * takne77 - Estonian translation of Yume Nikki
 * TanDen___ ☄ - Chinese translation of Dream Genie
 * Team Compote - French, Japanese translations of Amillusion
-* uroyo - Japanese translation of Collective Unconscious
+* uroyu - Japanese translation of Collective Unconscious
 * VioletNeiv - Vietnamese translations of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams
 * Xiaodao (小岛) - Porting of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * YNOproject Chinese Team (YNOproject汉化组) - Chinese translation of Deep Dreams, Uneven Dream, Collective Unconscious
