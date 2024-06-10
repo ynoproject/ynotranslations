@@ -80,7 +80,7 @@ msgstr "Chłopak"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "チェーンソー"
-msgstr "Piła Maszynowa"
+msgstr "Piła Mechaniczna"
 
 #. ID 5, Page 2, Line 56, Pos (13,5)
 #. ChangeHeroName (Actor 2)
