@@ -9751,13 +9751,13 @@ msgstr "Stań się chłopakiem"
 #. ID 14
 msgctxt "items.name"
 msgid "チェーンソー"
-msgstr "Piła Maszynowa"
+msgstr "Piła Mechaniczna"
 
 #. ID 14
 #. ID 55
 msgctxt "items.description"
 msgid "「チェーンソー」をもつ"
-msgstr "Używaj piły maszynowej"
+msgstr "Używaj piły mechanicznej"
 
 #. ID 15
 msgctxt "items.name"
