@@ -20,7 +20,7 @@ msgstr "Urotsuki"
 #. ID 1
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Sleepwalking"
+msgstr "Lunatyzm"
 
 #. ID 2
 msgctxt "actors.name"
@@ -55,12 +55,12 @@ msgstr ""
 #. ID 7
 msgctxt "actors.name"
 msgid "Player Name"
-msgstr ""
+msgstr "Nazwa Gracza"
 
 #. ID 8
 msgctxt "actors.name"
 msgid "First Effect"
-msgstr ""
+msgstr "Pierwszy Efekt"
 
 #. ID 11
 #. ID 12
@@ -106,13 +106,13 @@ msgstr ""
 #. ID 2
 msgctxt "skills.name"
 msgid "ほほをつねる"
-msgstr "Pinch Cheek"
+msgstr "Uszczypnij Policzko"
 
 #. ID 1
 #. ID 2
 msgctxt "skills.description"
 msgid "ほほをつねって、ゆめからさめる"
-msgstr "Pinch your cheek and wake up from your dream"
+msgstr "Uszczypnij policzko aby się obudzić ze snu"
 
 #. ID 1
 #. ID 3
@@ -9719,7 +9719,7 @@ msgstr "Restart Debug Mode"
 #. ID 10
 msgctxt "items.name"
 msgid "使用不可"
-msgstr "Unusable"
+msgstr "Nieużywalny"
 
 #. ID 11
 msgctxt "items.name"
@@ -9729,123 +9729,123 @@ msgstr ""
 #. ID 12
 msgctxt "items.name"
 msgid "バイク"
-msgstr "Bike"
+msgstr "Motocykl"
 
 #. ID 12
 #. ID 53
 msgctxt "items.description"
 msgid "「バイク」にのる"
-msgstr "Ride a motorcycle"
+msgstr "Jeźdź na motocyklu"
 
 #. ID 13
 msgctxt "items.name"
 msgid "おとこのこ"
-msgstr "Boy"
+msgstr "Chłopak"
 
 #. ID 13
 #. ID 54
 msgctxt "items.description"
 msgid "「おとこのこ」になる"
-msgstr "Become a boy"
+msgstr "Stań się chłopakiem"
 
 #. ID 14
 msgctxt "items.name"
 msgid "チェーンソー"
-msgstr "Chainsaw"
+msgstr "Piła Maszynowa"
 
 #. ID 14
 #. ID 55
 msgctxt "items.description"
 msgid "「チェーンソー」をもつ"
-msgstr "Wield a chainsaw"
+msgstr "Używaj piły maszynowej"
 
 #. ID 15
 msgctxt "items.name"
 msgid "カンテラ"
-msgstr "Lantern"
+msgstr "Latarnia"
 
 #. ID 15
 #. ID 56
 msgctxt "items.description"
 msgid "「カンテラ」をもつ"
-msgstr "Carry a lantern"
+msgstr "Noś latarnię"
 
 #. ID 16
 msgctxt "items.name"
 msgid "ようせい"
-msgstr "Fairy"
+msgstr "Wróżka"
 
 #. ID 16
 #. ID 57
 msgctxt "items.description"
 msgid "「ようせい」になる"
-msgstr "Become a fairy"
+msgstr "Stań się wróżką"
 
 #. ID 17
 msgctxt "items.name"
 msgid "うちゅうふく"
-msgstr "Spacesuit"
+msgstr "Kombinezon"
 
 #. ID 17
 #. ID 58
 msgctxt "items.description"
 msgid "「うちゅうふく」をきる"
-msgstr "Wear a spacesuit"
+msgstr "Noś kombinezon"
 
 #. ID 18
 msgctxt "items.name"
 msgid "めがね"
-msgstr "Glasses"
+msgstr "Okulary"
 
 #. ID 18
 #. ID 59
 msgctxt "items.description"
 msgid "「めがね」をかける"
-msgstr "Wear glasses"
+msgstr "Noś okulary"
 
 #. ID 19
 msgctxt "items.name"
 msgid "にじ"
-msgstr "Rainbow"
+msgstr "Tęcza"
 
 #. ID 19
 #. ID 60
 msgctxt "items.description"
 msgid "「にじ」になる"
-msgstr "Become rainbow-colored"
+msgstr "Stań się tęczowo-kolorowy"
 
 #. ID 20
 msgctxt "items.name"
 msgid "おおかみ"
-msgstr "Wolf"
+msgstr "Wilk"
 
 #. ID 20
 #. ID 61
 msgctxt "items.description"
 msgid "「おおかみ」の みみとしっぽがつく"
-msgstr "Become a wolf girl (awoo!)"
+msgstr "Stań się wilczą dziewczyną (awoo!)"
 
 #. ID 21
 msgctxt "items.name"
 msgid "めだまばくだん"
-msgstr "Eyeball Bomb"
+msgstr "Oczna Bomba"
 
 #. ID 21
 #. ID 62
 msgctxt "items.description"
 msgid "「めだまばくだん」になる"
-msgstr "Your head becomes an eyeball bomb"
+msgstr "Twoja głowa staje się oczną bombą"
 
 #. ID 22
 msgctxt "items.name"
 msgid "くろでんわ"
-msgstr "Telephone"
+msgstr "Telefon"
 
 #. ID 22
 #. ID 63
 msgctxt "items.description"
 msgid "「くろでんわ」になる"
-msgstr "Your head becomes a rotary telephone"
+msgstr "Twoja głowa staje się telefonem"
 
 #. ID 23
 msgctxt "items.name"
@@ -9856,95 +9856,95 @@ msgstr "Maiko"
 #. ID 64
 msgctxt "items.description"
 msgid "「まいこさん」になる"
-msgstr "Become a maiko/dancing girl"
+msgstr "Stań się maiko"
 
 #. ID 24
 msgctxt "items.name"
 msgid "ツインテール"
-msgstr "Twintails"
+msgstr "Kucyki"
 
 #. ID 24
 #. ID 65
 msgctxt "items.description"
 msgid "「ツインテール」のかみがたになる"
-msgstr "Get tsundere hair"
+msgstr "Dostań włosy tsundere"
 
 #. ID 25
 msgctxt "items.name"
 msgid "ぺんぎん"
-msgstr "Penguin"
+msgstr "Pingwin"
 
 #. ID 25
 #. ID 66
 msgctxt "items.description"
 msgid "「ぺんぎん」になりきる"
-msgstr "Wear a penguin outfit"
+msgstr "Noś kostium pingwina"
 
 #. ID 26
 msgctxt "items.name"
 msgid "むし"
-msgstr "Insect"
+msgstr "Insekt"
 
 #. ID 26
 #. ID 67
 msgctxt "items.description"
 msgid "「むし」っぽくなる"
-msgstr "Become insectoid"
+msgstr "Stań się insektoidem"
 
 #. ID 27
 msgctxt "items.name"
 msgid "バネ"
-msgstr "Spring"
+msgstr "Sprężyna"
 
 #. ID 27
 #. ID 68
 msgctxt "items.description"
 msgid "あしが「バネ」になる"
-msgstr "Your legs become a spring"
+msgstr "Twoje nogi stają się sprężyną"
 
 #. ID 28
 msgctxt "items.name"
 msgid "とうめい"
-msgstr "Invisible"
+msgstr "Niewidzialność"
 
 #. ID 28
 #. ID 69
 msgctxt "items.description"
 msgid "「とうめい」になる"
-msgstr "Become invisible"
+msgstr "Stań się niewidzialną"
 
 #. ID 29
 msgctxt "items.name"
 msgid "がくラン"
-msgstr "School Boy"
+msgstr "Uczeń"
 
 #. ID 29
 #. ID 70
 msgctxt "items.description"
 msgid "「がくラン」をきて マントをはおる"
-msgstr "Wear a school boy outfit with a cloak"
+msgstr "Noś ubiór ucznia"
 
 #. ID 30
 msgctxt "items.name"
 msgid "ギプス"
-msgstr "Plaster Cast"
+msgstr "Gips"
 
 #. ID 30
 #. ID 71
 msgctxt "items.description"
 msgid "「ギプス」をつける"
-msgstr "Your arm gets wrapped in a plaster cast"
+msgstr "Miej rękę w gipsie"
 
 #. ID 31
 msgctxt "items.name"
 msgid "せのび"
-msgstr "Stretch"
+msgstr "Rozciągnięcie"
 
 #. ID 31
 #. ID 72
 msgctxt "items.description"
 msgid "「せのび」する"
-msgstr "Become stretched out"
+msgstr "Stań się rozciągniętą"
 
 #. ID 32
 msgctxt "items.name"
@@ -9955,84 +9955,84 @@ msgstr "Haniwa"
 #. ID 73
 msgctxt "items.description"
 msgid "「はにわ」になる"
-msgstr "Become a haniwa statue"
+msgstr "Stań się posągiem haniwa"
 
 #. ID 33
 msgctxt "items.name"
 msgid "トロンボーン"
-msgstr "Trombone"
+msgstr "Puzon"
 
 #. ID 33
 #. ID 74
 msgctxt "items.description"
 msgid "「トロンボーン」をもつ"
-msgstr "Hold a trombone (doot doot)"
+msgstr "Graj na puzonie (doot doot)"
 
 #. ID 34
 msgctxt "items.name"
 msgid "ケーキ"
-msgstr "Cake"
+msgstr "Ciasto"
 
 #. ID 34
 #. ID 75
 msgctxt "items.description"
 msgid "「ケーキ」をあたまにのせる"
-msgstr "Wear a slice of cake as a hat"
+msgstr "Trzymaj kawałek ciasta"
 
 #. ID 35
 msgctxt "items.name"
 msgid "こども"
-msgstr "Child"
+msgstr "Dziecko"
 
 #. ID 35
 #. ID 76
 msgctxt "items.description"
 msgid "「こども」になる"
-msgstr "Revert to childhood"
+msgstr "Powróć do dzieciństwa"
 
 #. ID 36
 msgctxt "items.name"
 msgid "あかずきん"
-msgstr "Red Riding Hood"
+msgstr "Czerwony Kapturek"
 
 #. ID 36
 #. ID 77
 msgctxt "items.description"
 msgid "「あかずきん」をかぶる"
-msgstr "Wear a red hood"
+msgstr "Noś czerwony kaptur"
 
 #. ID 37
 msgctxt "items.name"
 msgid "ティッシュ"
-msgstr "Tissue"
+msgstr "Chusteczka"
 
 #. ID 37
 #. ID 78
 msgctxt "items.description"
 msgid "「ティッシュ」のケースになる"
-msgstr "Your head becomes a tissue box"
+msgstr "Twoja głowa staje się pudełkiem chusteczek"
 
 #. ID 38
 msgctxt "items.name"
 msgid "コウモリ"
-msgstr "Bat"
+msgstr "Nietoperz"
 
 #. ID 38
 #. ID 79
 msgctxt "items.description"
 msgid "「コウモリ」のはねをつける"
-msgstr "Get bat wings"
+msgstr "Dostań skrzydła nietoperza"
 
 #. ID 39
 msgctxt "items.name"
 msgid "ポリゴン"
-msgstr "Polygon"
+msgstr "Wielokąt"
 
 #. ID 39
 #. ID 80
 msgctxt "items.description"
 msgid "「ポリゴン」っぽくなる"
-msgstr "Become polygonal"
+msgstr "Stań się wielokątnym"
 
 #. ID 40
 msgctxt "items.name"
@@ -10043,78 +10043,78 @@ msgstr "Teru Teru Bōzu"
 #. ID 81
 msgctxt "items.description"
 msgid "「てるてるぼうず」のかわりになる"
-msgstr "Change into a teru teru bōzu"
+msgstr "Stań się teru teru bōzu"
 
 #. ID 41
 msgctxt "items.name"
 msgid "マージナル"
-msgstr "Marginal"
+msgstr "Marginalny"
 
 #. ID 41
 #. ID 82
 msgctxt "items.description"
 msgid "「マージナルビビッドワーカー」になる"
-msgstr "Become a marginal vivid worker"
+msgstr "Stań się marginalnym pracownikiem"
 
 #. ID 42
 msgctxt "items.name"
 msgid "ドラムかん"
-msgstr "Drum"
+msgstr "Beczka"
 
 #. ID 42
 #. ID 83
 msgctxt "items.description"
 msgid "からだが「ドラムかん」になる"
-msgstr "Your body becomes a steel drum"
+msgstr "Twoje ciało staje się stalową beczką"
 
 #. ID 43
 msgctxt "items.name"
 msgid "おはか"
-msgstr "Grave"
+msgstr "Grób"
 
 #. ID 43
 #. ID 84
 msgctxt "items.description"
 msgid "「おはか」になる"
-msgstr "Become a grave"
+msgstr "Stań się grobem"
 
 #. ID 44
 msgctxt "items.name"
 msgid "ふみきり"
-msgstr "Railroad Crossing"
+msgstr "Sygnalizacja Kolejowa"
 
 #. ID 44
 #. ID 85
 msgctxt "items.description"
 msgid "「ふみきり」になる"
-msgstr "Your head becomes a crossing signal"
+msgstr "Twoja głowa staje się sygnalizacją"
 
 #. ID 45
 msgctxt "items.name"
 msgid "うさみみ"
-msgstr "Bunny Ears"
+msgstr "Królicze Uszy"
 
 #. ID 45
 #. ID 86
 msgctxt "items.description"
 msgid "「うさみみ」をつける"
-msgstr "Wear bunny ears on your head"
+msgstr "Noś królicze uszy"
 
 #. ID 46
 msgctxt "items.name"
 msgid "サイコロ"
-msgstr "Dice"
+msgstr "Kostka"
 
 #. ID 46
 #. ID 87
 msgctxt "items.description"
 msgid "「サイコロ」になる"
-msgstr "Become a die (a game die)"
+msgstr "Stań się kostką do gry"
 
 #. ID 47
 msgctxt "items.name"
 msgid "バイク＋おおかみ"
-msgstr "Bike + Wolf"
+msgstr "Motocykl + Wilk"
 
 #. ID 47
 #. ID 88
@@ -10130,12 +10130,12 @@ msgstr ""
 #. ID 50
 msgctxt "items.name"
 msgid "説明書"
-msgstr "Instructions"
+msgstr "Instrukcje"
 
 #. ID 50
 msgctxt "items.description"
 msgid "「ゲームのせつめい」をみる"
-msgstr "View game instructions"
+msgstr "Wyświetl instrukcje"
 
 #. ID 52
 msgctxt "items.name"
@@ -10145,57 +10145,57 @@ msgstr ""
 #. ID 53
 msgctxt "items.name"
 msgid " バイク"
-msgstr " Bike"
+msgstr " Motocykl"
 
 #. ID 54
 msgctxt "items.name"
 msgid " おとこのこ"
-msgstr " Boy"
+msgstr " Chłopak"
 
 #. ID 55
 msgctxt "items.name"
 msgid " チェーンソー"
-msgstr " Chainsaw"
+msgstr " Piła Maszynowa"
 
 #. ID 56
 msgctxt "items.name"
 msgid " カンテラ"
-msgstr " Lantern"
+msgstr " Latarnia"
 
 #. ID 57
 msgctxt "items.name"
 msgid " ようせい"
-msgstr " Fairy"
+msgstr " Wróżka"
 
 #. ID 58
 msgctxt "items.name"
 msgid " うちゅうふく"
-msgstr " Spacesuit"
+msgstr " Kombinezon"
 
 #. ID 59
 msgctxt "items.name"
 msgid " めがね"
-msgstr " Glasses"
+msgstr " Okulary"
 
 #. ID 60
 msgctxt "items.name"
 msgid " にじ"
-msgstr " Rainbow"
+msgstr " Tęcza"
 
 #. ID 61
 msgctxt "items.name"
 msgid " おおかみ"
-msgstr " Wolf"
+msgstr " Wilk"
 
 #. ID 62
 msgctxt "items.name"
 msgid " めだまばくだん"
-msgstr " Eyeball Bomb"
+msgstr " Oczna Bomba"
 
 #. ID 63
 msgctxt "items.name"
 msgid " くろでんわ"
-msgstr " Telephone"
+msgstr " Telefon"
 
 #. ID 64
 msgctxt "items.name"
@@ -10205,42 +10205,42 @@ msgstr " Maiko"
 #. ID 65
 msgctxt "items.name"
 msgid " ツインテール"
-msgstr " Twintails"
+msgstr " Kucyki"
 
 #. ID 66
 msgctxt "items.name"
 msgid " ぺんぎん"
-msgstr " Penguin"
+msgstr " Pingwin"
 
 #. ID 67
 msgctxt "items.name"
 msgid " むし"
-msgstr " Insect"
+msgstr " Insekt"
 
 #. ID 68
 msgctxt "items.name"
 msgid " バネ"
-msgstr " Spring"
+msgstr " Sprężyna"
 
 #. ID 69
 msgctxt "items.name"
 msgid " とうめい"
-msgstr " Invisible"
+msgstr " Niewidzialność"
 
 #. ID 70
 msgctxt "items.name"
 msgid " がくラン"
-msgstr " School Boy"
+msgstr " Uczeń"
 
 #. ID 71
 msgctxt "items.name"
 msgid " ギプス"
-msgstr " Plaster Cast"
+msgstr " Gips"
 
 #. ID 72
 msgctxt "items.name"
 msgid " せのび"
-msgstr " Stretch"
+msgstr " Rozciągnięcie"
 
 #. ID 73
 msgctxt "items.name"
@@ -10250,37 +10250,37 @@ msgstr " Haniwa"
 #. ID 74
 msgctxt "items.name"
 msgid " トロンボーン"
-msgstr " Trombone"
+msgstr " Puzon"
 
 #. ID 75
 msgctxt "items.name"
 msgid " ケーキ"
-msgstr " Cake"
+msgstr " Ciasto"
 
 #. ID 76
 msgctxt "items.name"
 msgid " こども"
-msgstr " Child"
+msgstr " Dziecko"
 
 #. ID 77
 msgctxt "items.name"
 msgid " あかずきん"
-msgstr " Red Riding Hood"
+msgstr " Czerwony Kapturek"
 
 #. ID 78
 msgctxt "items.name"
 msgid " ティッシュ"
-msgstr " Tissue"
+msgstr " Chusteczka"
 
 #. ID 79
 msgctxt "items.name"
 msgid " コウモリ"
-msgstr " Bat"
+msgstr " Nietoperz"
 
 #. ID 80
 msgctxt "items.name"
 msgid " ポリゴン"
-msgstr " Polygon"
+msgstr " Wielokąt"
 
 #. ID 81
 msgctxt "items.name"
@@ -10290,37 +10290,37 @@ msgstr " Teru Teru Bōzu"
 #. ID 82
 msgctxt "items.name"
 msgid " マージナル"
-msgstr " Marginal"
+msgstr " Marginalny"
 
 #. ID 83
 msgctxt "items.name"
 msgid " ドラムかん"
-msgstr " Drum"
+msgstr " Beczka"
 
 #. ID 84
 msgctxt "items.name"
 msgid " おはか"
-msgstr " Grave"
+msgstr " Grób"
 
 #. ID 85
 msgctxt "items.name"
 msgid " ふみきり"
-msgstr " Railroad Crossing"
+msgstr " Sygnalizacja Kolejowa"
 
 #. ID 86
 msgctxt "items.name"
 msgid " うさみみ"
-msgstr " Bunny Ears"
+msgstr " Królicze Uszy"
 
 #. ID 87
 msgctxt "items.name"
 msgid " サイコロ"
-msgstr " Dice"
+msgstr " Kość"
 
 #. ID 88
 msgctxt "items.name"
 msgid " バイク＋おおかみ"
-msgstr " Bike + Wolf"
+msgstr " Motocykl + Wilk"
 
 #. ID 89
 msgctxt "items.name"
@@ -10330,12 +10330,12 @@ msgstr ""
 #. ID 90
 msgctxt "items.name"
 msgid "鍵"
-msgstr "Key"
+msgstr "Klucz"
 
 #. ID 90
 msgctxt "items.description"
 msgid "格子の模様が入った鍵"
-msgstr "A key with a squared motif"
+msgstr "Klucz ze wzorem w kratkę"
 
 #. ID 1
 msgctxt "states.message_actor"
@@ -10482,11 +10482,11 @@ msgstr ""
 
 msgctxt "terms.command_item"
 msgid "エフェクト"
-msgstr "Effects"
+msgstr "Efekty"
 
 msgctxt "terms.command_skill"
 msgid "おきる"
-msgstr "Wake Up"
+msgstr "Obudź się"
 
 msgctxt "terms.menu_equipment"
 msgid "じょうたい"
@@ -10494,19 +10494,19 @@ msgstr "Status"
 
 msgctxt "terms.menu_quit"
 msgid "おわる"
-msgstr "Quit"
+msgstr "Zakończ"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "  Start"
+msgstr "  Rozpocznij"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
-msgstr "Continue"
+msgstr "Kontynuuj"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "  Quit"
+msgstr "  Zakończ"
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"
@@ -10522,27 +10522,27 @@ msgstr ""
 
 msgctxt "terms.save_game_message"
 msgid "◆どのファイルに書きますか？"
-msgstr "◆ Which file will you save to?"
+msgstr "◆ Do którego pliku zapisać?"
 
 msgctxt "terms.load_game_message"
 msgid "◆どのファイルを読みますか？"
-msgstr "◆ Which file will you load?"
+msgstr "◆ Z którego pliku odczytać?"
 
 msgctxt "terms.file"
 msgid "◆ファイル"
-msgstr "◆ File"
+msgstr "◆ Plik"
 
 msgctxt "terms.exit_game_message"
 msgid "おわっても よろしいですか？"
-msgstr "Are you sure you want to quit?"
+msgstr "Czy na pewno chcerz zakończyć grę?"
 
 msgctxt "terms.yes"
 msgid "はい"
-msgstr "Yes"
+msgstr "Tak"
 
 msgctxt "terms.no"
 msgid "いいえ"
-msgstr "No"
+msgstr "Nie"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
