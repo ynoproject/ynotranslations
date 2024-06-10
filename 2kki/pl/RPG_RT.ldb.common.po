@@ -42,7 +42,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "First Effect"
-msgstr ""
+msgstr "Pierwszy Efekt"
 
 #. ID 14, Line 27
 #. ChangeHeroName (Actor 8)
@@ -66,67 +66,67 @@ msgstr "Debug"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Bike"
+msgstr "Motocykl"
 
 #. ID 14, Line 47
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "おとこのこ"
-msgstr "Boy"
+msgstr "Chłopak"
 
 #. ID 14, Line 51
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "チェーンソー"
-msgstr "Chainsaw"
+msgstr "Piła Maszynowa"
 
 #. ID 14, Line 55
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "カンテラ"
-msgstr "Lantern"
+msgstr "Latarnia"
 
 #. ID 14, Line 59
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ようせい"
-msgstr "Fairy"
+msgstr "Wróżka"
 
 #. ID 14, Line 63
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "うちゅうふく"
-msgstr "Spacesuit"
+msgstr "Kombinezon"
 
 #. ID 14, Line 67
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "めがね"
-msgstr "Glasses"
+msgstr "Okulary"
 
 #. ID 14, Line 71
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "にじ"
-msgstr "Rainbow"
+msgstr "Tęcza"
 
 #. ID 14, Line 75
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "おおかみ"
-msgstr "Wolf"
+msgstr "Wilk"
 
 #. ID 14, Line 79
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "めだまばくだん"
-msgstr "Eyeball Bomb"
+msgstr "Oczna Bomba"
 
 #. ID 14, Line 83
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "くろでんわ"
-msgstr "Telephone"
+msgstr "Telefon"
 
 #. ID 14, Line 87
 #. ChangeHeroName (Actor 8)
@@ -138,49 +138,49 @@ msgstr "Maiko"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ツインテール"
-msgstr "Twintails"
+msgstr "Kucyki"
 
 #. ID 14, Line 95
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ぺんぎん"
-msgstr "Penguin"
+msgstr "Pingwin"
 
 #. ID 14, Line 99
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "むし"
-msgstr "Insect"
+msgstr "Insekt"
 
 #. ID 14, Line 103
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "バネ"
-msgstr "Spring"
+msgstr "Sprężyna"
 
 #. ID 14, Line 107
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "とうめい"
-msgstr "Invisible"
+msgstr "Niewidzialność"
 
 #. ID 14, Line 111
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "がくラン"
-msgstr "School Boy"
+msgstr "Uczeń"
 
 #. ID 14, Line 115
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ギプス"
-msgstr "Plaster Cast"
+msgstr "Gips"
 
 #. ID 14, Line 119
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "せのび"
-msgstr "Stretch"
+msgstr "Rozciągnięcie"
 
 #. ID 14, Line 123
 #. ChangeHeroName (Actor 8)
@@ -192,43 +192,43 @@ msgstr "Haniwa"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "トロンボーン"
-msgstr "Trombone"
+msgstr "Puzon"
 
 #. ID 14, Line 131
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ケーキ"
-msgstr "Cake"
+msgstr "Ciasto"
 
 #. ID 14, Line 135
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "こども"
-msgstr "Child"
+msgstr "Dziecko"
 
 #. ID 14, Line 139
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "あかずきん"
-msgstr "Red Riding Hood"
+msgstr "Czerwony Kapturek"
 
 #. ID 14, Line 143
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ティッシュ"
-msgstr "Tissue"
+msgstr "Chusteczka"
 
 #. ID 14, Line 147
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "コウモリ"
-msgstr "Bat"
+msgstr "Nietoperz"
 
 #. ID 14, Line 151
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ポリゴン"
-msgstr "Polygon"
+msgstr "Wielokąt"
 
 #. ID 14, Line 155
 #. ChangeHeroName (Actor 8)
@@ -240,37 +240,37 @@ msgstr "Teru Teru Bōzu"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "マージナル"
-msgstr "Marginal"
+msgstr "Marginalny"
 
 #. ID 14, Line 163
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ドラムかん"
-msgstr "Drum"
+msgstr "Beczka"
 
 #. ID 14, Line 167
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "おはか"
-msgstr "Grave"
+msgstr "Grób"
 
 #. ID 14, Line 171
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Railroad Crossing"
+msgstr "Sygnalizacja Kolejowa"
 
 #. ID 14, Line 175
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "うさみみ"
-msgstr "Bunny Ears"
+msgstr "Królicze Uszy"
 
 #. ID 14, Line 179
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "サイコロ"
-msgstr "Dice"
+msgstr "Kostka"
 
 #. ID 37, Line 6
 #. Condition (Actor Name = 新仕様の解説＆サンプル)
@@ -286,7 +286,7 @@ msgid ""
 "\\>\\C[\\V[1]] 0010 (おなまえ)\n"
 "\\>\\N[1]"
 msgstr ""
-"\\>\\C[\\V[1]] 0010 (name)\n"
+"\\>\\C[\\V[1]] 0010 (nazwa)\n"
 "\\>\\N[1]"
 
 #. ID 37, Line 37
@@ -309,10 +309,10 @@ msgid ""
 "\\>マップ移動\n"
 "\\>内部データ表示"
 msgstr ""
-"\\>Change Walk Speed\n"
-"\\>Change Effects/Mask/Money\n"
-"\\>Set Map\n"
-"\\>Display Internal Data"
+"\\>Zmień prędkość poruszania się\n"
+"\\>Zmień Efekty/Maskę/Pieniądze\n"
+"\\>Ustaw Mapę\n"
+"\\>Wyświetl Wewnętrzne Dane"
 
 #. ID 43, Line 47
 #. Choice (4 options)
@@ -322,14 +322,14 @@ msgid ""
 "\\>>>>　ﾃﾞﾌｫより少し速(自転車並?\n"
 "\\>>　遅い　※キャンセルでDefault"
 msgstr ""
-"\\>>>>>>　　Hyperspeed\n"
-"\\>>>>>　 Fast\n"
-"\\>>>>　A little faster than default\n"
-"\\>>　Slow　* Cancel for default"
+"\\>>>>>>　　Turbo\n"
+"\\>>>>>　 Szybka\n"
+"\\>>>>　Szybsza Niż Domyślna\n"
+"\\>>　Wolna　* Anuluj Dla Domyślnej"
 
 #. ID 43, Line 71
 msgid "\\>歩行速度 \\V[45] になりました。"
-msgstr "\\>Walking speed has been set to \\V[45]."
+msgstr "\\>Prędkość poruszania została zmieniona na \\V[45]."
 
 #. ID 43, Line 81
 #. Choice (4 options)
@@ -339,10 +339,10 @@ msgid ""
 "\\>所持金変更\n"
 "\\>デバッグ破棄"
 msgstr ""
-"\\>Obtain or Discard All Effects\n"
-"\\>Current Mask\n"
-"\\>Money\n"
-"\\>Discard Debug"
+"\\>Zdobądź lub odrzuć wszystkie efekty\n"
+"\\>Bierząca maska\n"
+"\\>Pieniądze\n"
+"\\>Odrzuć Debug"
 
 #. ID 43, Line 83
 #. Choice (2 options)
@@ -350,16 +350,16 @@ msgid ""
 "\\>エフェクト全取得\n"
 "\\>エフェクト全未取得"
 msgstr ""
-"\\>Obtain all effects\n"
-"\\>Discard all effects"
+"\\>Zdobądź wszystkie efekty\n"
+"\\>Odrzuć wszystkie efekty"
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "Obtained all effects"
+msgstr "Zdobyto wszystkie efekty"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "Discarded all effects"
+msgstr "Odrzucono wszystkie efekty"
 
 #. ID 43, Line 126
 msgid ""
@@ -367,17 +367,17 @@ msgid ""
 "\\>1～エフェ / 51～エフェMIX / 100～すっぴんランダム\n"
 "\\>/ 500000～その他Ev用　　　現在の値:\\V[3930]"
 msgstr ""
-"\\>◆Change Mask (0 to cancel)\n"
+"\\>◆Zmień Maskę (0 aby anulować)\n"
 "\\>1～Effect /51～Effect MIX/ 100～Non-Effect Masks\n"
-"\\>/500000～For Event Masks - Current: \\V[3930]"
+"\\>/500000～Dla Mask Wydarzeń - Bierząca: \\V[3930]"
 
 #. ID 43, Line 141
 msgid ""
 "\\>　入力した数値と同じ金額にします\n"
 "\\>　(900000でキャンセル)"
 msgstr ""
-"\\>　Input a value for your amount of money\n"
-"\\>　(900000 to Cancel)"
+"\\>　Wpisz wartość dla ilości pieniędzy\n"
+"\\>　(900000 aby anulować)"
 
 #. ID 43, Line 175
 #. Choice (4 options)
@@ -387,10 +387,10 @@ msgid ""
 "\\>扉部屋\n"
 "\\>1つ前のMAP (MAP ID:\\v[1435] X:\\v[1432] Y:\\v[1433])"
 msgstr ""
-"\\>Specify MAP ID\n"
-"\\>Debug Room\n"
-"\\>The Nexus\n"
-"\\>Previous MAP (MAP ID:\\v[1435] X:\\v[1432] Y:\\v[1433])"
+"\\>SOkreśl MAP ID\n"
+"\\>Pokój Debug\n"
+"\\>Nexus\n"
+"\\>Poprzednia MAP (MAP ID:\\v[1435] X:\\v[1432] Y:\\v[1433])"
 
 #. ID 43, Line 177
 msgid ""
@@ -398,9 +398,9 @@ msgid ""
 "\\>　\\C[1]※0001:ﾃﾞﾊﾞｯｸﾞﾙｰﾑ, 0010:扉部屋\n"
 "\\>　※仕様上\"BGMが変わってない\"等が起こりえます\\C[0]"
 msgstr ""
-"\\>　MAP ID: ???? (0 to cancel) \\C[2](Current MAP ID: \\V[26])\\C[0]\n"
-"\\>　\\C[1]※0001: Debug Room, 0010: The Nexus\n"
-"\\>　※Sometimes the BGM will not be changed\\C[0]"
+"\\>　MAP ID: ???? (0 aby anulować) \\C[2](Current MAP ID: \\V[26])\\C[0]\n"
+"\\>　\\C[1]※0001: Pokój Debug, 0010: Nexus\n"
+"\\>　※Czasami muzyka w tle się nie zmieni\\C[0]"
 
 #. ID 43, Line 185
 msgid ""
@@ -408,7 +408,7 @@ msgid ""
 "\\>　\\C[2]X座標を指定してください\\C[0]"
 msgstr ""
 "\\>　MAP ID: \\v[1435] X: ??? \\C[2](Current X: \\V[22])\\C[0]\n"
-"\\>　\\C[2]Input the X-coordinate\\C[0]"
+"\\>　\\C[2]Wpisz współrzędną X\\C[0]"
 
 #. ID 43, Line 188
 msgid ""
@@ -416,7 +416,7 @@ msgid ""
 "\\>　\\C[2]Y座標を指定してください\\C[0]"
 msgstr ""
 "\\>　MAP ID: \\v[1435] X: \\v[1432] Y: ??? \\C[2](Current Y: \\V[23])\\C[0]\n"
-"\\>　\\C[2]Input the Y-coordinate\\C[0]"
+"\\>　\\C[2]Wpisz współrzędną Y\\C[0]"
 
 #. ID 43, Line 191
 #. ID 43, Line 228
@@ -425,7 +425,7 @@ msgstr ""
 
 #. ID 43, Line 224
 msgid "\\>1つ前のMAPIDが記録されていません。"
-msgstr "\\>No previous MAP ID found."
+msgstr "\\>Nie znaleziono poprzedniego MAP ID."
 
 #. ID 43, Line 260
 #. Condition (Actor Name = 旧処理)
@@ -442,10 +442,10 @@ msgid ""
 "\\>歩行速度 \\V[45] /ｼｽｸﾞﾗNo.\\V[46] /効果音ｾｯﾄNo.\\V[47] /文字ｲﾍﾞ \\V[48]\n"
 "\\>本体Ver.\\V[11] /SaveVer.\\V[12] /END No.\\V[59] /ｸﾘｱ回数 \\V[58]"
 msgstr ""
-"\\>MAP: \\V[26] X: \\V[22] Y: \\V[23] Terrain: \\V[27]\n"
-"\\>Times Slept: \\V[43] Variable 44: \\V[44] Weather: \\V[42]\n"
-"\\>Walk Speed: \\V[45] Menu Theme: \\V[46] Sys SE: \\V[47] Text Events: \\V[48]\n"
-"\\>Ver: \\V[11] SaveVer: \\V[12] ED. No.\\V[59] ED. watched \\V[58]"
+"\\>MAP: \\V[26] X: \\V[22] Y: \\V[23] Teren: \\V[27]\n"
+"\\>Ilość Snów: \\V[43] Zmienna 44: \\V[44] Pogoda: \\V[42]\n"
+"\\>Prędkość: \\V[45] Typ Menu: \\V[46] Sys SE: \\V[47] Wydarzenia Text: \\V[48]\n"
+"\\>Ver: \\V[11] SaveVer: \\V[12] ED. Nr\\V[59] Zakończenia widziane \\V[58]"
 
 #. ID 43, Line 267
 msgid ""
@@ -454,10 +454,10 @@ msgid ""
 "\\>入眠の回数.\\V[43] 入眠毎の固定変数.\\V[44] 天候.\\V[42]\n"
 "\\>季節.\\V[94] 変身No.\\V[3930] 直前MAP.\\V[99]:\\V[100]"
 msgstr ""
-"\\>MAP: \\V[26] X: \\V[22] Y: \\V[23] Terrain: \\V[27] Step SE type: \\V[4274]\n"
-"\\>Walk Speed: \\V[45] Size: \\V[4275] Effect Graphic: \\V[4276]\n"
-"\\>Times Slept: \\V[43] Variable 44: \\V[44] Weather: \\V[42]\n"
-"\\>Season: \\V[94] Mask: \\V[3930] Prev. MAP: \\V[99] (\\V[100])"
+"\\>MAP: \\V[26] X: \\V[22] Y: \\V[23] Teren: \\V[27] Typ odgłosu: \\V[4274]\n"
+"\\>Prędkość: \\V[45] Rozmiar: \\V[4275] Graf. Efektu: \\V[4276]\n"
+"\\>Ilość Snów: \\V[43] Zmienna 44: \\V[44] Pogoda: \\V[42]\n"
+"\\>Sezon: \\V[94] Maska: \\V[3930] Podgl. MAP: \\V[99] (\\V[100])"
 
 #. ID 43, Line 271
 msgid ""
@@ -465,9 +465,9 @@ msgid ""
 "\\>ﾒﾆｭｰﾀｲﾌﾟ.\\V[46] ﾒﾆｭｰSE.\\V[47] 文字ｲﾍﾞ.\\V[48]\n"
 "\\>ﾌﾟﾚｲ時間.\\V[87]h \\V[86]m \\V[85]s 歩数.\\V[91]_\\V[90]"
 msgstr ""
-"\\>Ver: \\V[11] SaveVer: \\V[12] ED. No.\\V[59] ED. watched \\V[58]\n"
-"\\>Menu Theme: \\V[46] Sys SE: \\V[47] Text Events: \\V[48]\n"
-"\\>Play Time: \\V[87]h \\V[86]m \\V[85]s Steps: \\V[91]\\V[90]"
+"\\>Ver: \\V[11] SaveVer: \\V[12] ED. Nr\\V[59] Zakończenia widziane \\V[58]\n"
+"\\>Typ Menu: \\V[46] Sys SE: \\V[47] Wydarzenia Text: \\V[48]\n"
+"\\>Czas: \\V[87]h \\V[86]m \\V[85]s Kroki: \\V[91]\\V[90]"
 
 #. ID 61, Line 16
 msgid "\\>\\^\\"
@@ -480,10 +480,10 @@ msgid ""
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
 "\\!\\>続行した場合、セーブデータ破損のおそれがあります。"
 msgstr ""
-"\\>You are using a save from an upcoming version.\n"
+"\\>Używasz zapisu z nadchodzącej wersji.\n"
 "\\>　　　　　　SaveData \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
-"\\!\\>You may end up with a corrupted save by continuing."
+"\\!\\>Możesz utracić zapis jeśli będziesz kontynuować."
 
 #. ID 62, Line 26
 #. Contains choice at line 3 (2 options)
@@ -491,8 +491,8 @@ msgid ""
 "\\>続行した場合、セーブデータ破損のおそれがあります。\n"
 "\\>　　　本当にこのまま続けてよろしいですか？"
 msgstr ""
-"\\>You may end up with a corrupted save by continuing.\n"
-"\\>Are you sure you want to continue?"
+"\\>Możesz utracić zapis jeśli będziesz kontynuować.\n"
+"\\>Czy chcerz kontynuować?"
 
 #. ID 62, Line 28
 #. Choice (2 options, embedded in a message)
@@ -502,8 +502,8 @@ msgid ""
 "\\>はい\n"
 "\\>いいえ"
 msgstr ""
-"\\>Yes\n"
-"\\>No"
+"\\>Tak\n"
+"\\>Nie"
 
 #. ID 62, Line 30
 #. Contains choice at line 3 (2 options)
@@ -511,7 +511,7 @@ msgid ""
 "\\>　　　\\<\\S[10]本当にこのまま続けてよろしいですか？\n"
 "\\>"
 msgstr ""
-"\\>　　　\\<\\S[10]Are you sure you want to continue?\n"
+"\\>　　　\\<\\S[10]Czy chcerz kontynuować?\n"
 "\\>"
 
 #. ID 62, Line 46
@@ -521,10 +521,10 @@ msgid ""
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
 "\\!\\>　　　セーブデータの引継ぎ処理を行います。"
 msgstr ""
-"\\>     Your save data is from a previous version.\n"
+"\\>     Używasz zapisu z poprzedniej wersji.\n"
 "\\>　　　　　　SaveData \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
 "\\>　　　　　　    Game \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
-"\\!\\>Save data will be migrated to the current version."
+"\\!\\>Zapis zostanie przeniesiony do bierzącej wersji."
 
 #. ID 62, Line 314
 msgid ""
@@ -544,7 +544,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>Your save data was migrated to the current version."
+"\\>Zapis został przeniesiony do bierzącej wersji."
 
 #. ID 62, Line 526
 #. ChangeHeroName (Actor 1)
@@ -723,7 +723,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Sleepwalking"
+msgstr "Lunatyzm"
 
 #. ID 69, Line 55
 msgid ""
@@ -9244,9 +9244,9 @@ msgid ""
 "\\>目的。ゲームを終了する際はわざと死ぬかメニューの\n"
 "\\>「Quit」を選択してください。"
 msgstr ""
-"\\>Your goal is to rescue a classmate missing in an\n"
-"\\>uninhabited building. To exit the game, either\n"
-"\\>die intentionally or select \"Quit\" from the menu."
+"\\>Twoim celem jest uratowanie kolżanki z klasy\n"
+"\\>w porzuconym budynku. Aby wyjść z gry albo\n"
+"\\>umrzyj albo naciśnij \"Zakończ\" z menu."
 
 #. ID 238, Line 37
 msgid ""
@@ -9255,9 +9255,9 @@ msgid ""
 "\\>最後に記録した時の進行状況から再開することが\n"
 "\\>出来ます。"
 msgstr ""
-"\\>There are places in the game that let you record\n"
-"\\>your progress. By recording your progress, you\n"
-"\\>can resume ↑V↑ from where you last left off."
+"\\>Są miejsca w grze które pozwalają ci nagrać\n"
+"\\>postępy. Nagrywając postępy możesz\n"
+"\\>kontynuować ↑V↑ z ostatniego punktu."
 
 #. ID 238, Line 44
 #. Contains choice at line 2 (2 options)
@@ -9272,11 +9272,13 @@ msgid ""
 "Y\n"
 "N"
 msgstr ""
+"T\n"
+"N"
 
 #. ID 239, Line 9
 #. Contains choice at line 2 (2 options)
 msgid "Re?"
-msgstr ""
+msgstr "Ponów?"
 
 #. ID 270, Line 19
 #. ChangeHeroName (Actor 1)
@@ -9317,7 +9319,7 @@ msgid ""
 "\n"
 "\\>　　　　　　　　　　　　　　　　　　? _(:3」∠)_"
 msgstr ""
-"\\>ERROR CEV[0289] -> \"No Background picture selected\"\n"
+"\\>BŁĄD CEV[0289] -> \"Brak zdjęcia w tle\"\n"
 "\\>\\\\V[0015] == \\V[15]\\<\\|\\|\\|\\|\\|\n"
 "\n"
 "\\>　　　　　　　　　　　　　　　　　　? _(:3」∠)_"
@@ -9329,10 +9331,10 @@ msgid ""
 "\n"
 "\\>タイトル画面へ戻ります"
 msgstr ""
-"\\>Error: You are in an abnormal location.\n"
+"\\>Błąd: Jesteś w nienormalnej lokalizacji.\n"
 "\\>(Map\\v[1460])\n"
 "\n"
-"\\>Press Enter to return to the Title Screen."
+"\\>Naciśnij Enter aby powrócić do tytułu."
 
 #. ID 309, Line 8
 #. Condition (Actor Name = 中断サンプル)
