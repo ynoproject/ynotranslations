@@ -10498,7 +10498,7 @@ msgstr "Zakończ"
 
 msgctxt "terms.new_game"
 msgid " はじめて "
-msgstr "  Rozpocznij"
+msgstr "Rozpocznij"
 
 msgctxt "terms.load_game"
 msgid "　つづき　"
@@ -10506,7 +10506,7 @@ msgstr "Kontynuuj"
 
 msgctxt "terms.exit_game"
 msgid "　おわり　"
-msgstr "  Zakończ"
+msgstr "Zakończ"
 
 msgctxt "terms.lvl_short"
 msgid "Ｅ"
