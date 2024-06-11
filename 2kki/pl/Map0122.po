@@ -78,7 +78,7 @@ msgstr ""
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>\\c[4]前回の記録\\c[0] \n"
-"\\>　NO DATA
+"\\>　NO DATA"
 msgstr ""
 "\\>\\c[4]POPRZEDNI REKORD\\c[0] \n"
 "\\>　BRAK DANYCH"
