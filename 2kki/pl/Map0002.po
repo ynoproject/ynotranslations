@@ -50,7 +50,7 @@ msgstr ""
 #. Condition (Actor Name = Player Name)
 msgctxt "actors.name"
 msgid "Player Name"
-msgstr ""
+msgstr "Nazwa Gracza"
 
 #. ID 6, Page 4, Line 700, Pos (12,5)
 #. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
@@ -121,7 +121,7 @@ msgstr ""
 #. ID 6, Page 5, Line 361, Pos (12,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\>No. \\V[1405]に変更しました"
-msgstr "\\>Changed to No. \\V[1405]"
+msgstr "\\>Zmieniono na Nr. \\V[1405]"
 
 #. ID 6, Page 5, Line 362, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -139,7 +139,7 @@ msgid ""
 "\\>\n"
 "\\>サウンドルームでShiftキーを押すと登録できます。"
 msgstr ""
-"\\>No. \\V[17]:\n"
+"\\>Nr. \\V[17]:\n"
 "\\>Zmień zarejestrowaną muzykę w tle w sound room.\n"
 "\\>\n"
 "\\>Zarejestruj poprzez trzymanie shift w sound room."
@@ -151,10 +151,10 @@ msgid ""
 "\\>\n"
 "\\>(メモリー登録が無い場合は無音になります。)"
 msgstr ""
-"\\>No. \\V[17]:\n"
-"\\>Set BGM randomly from sound room playlist.\n"
-"\\>(If there are no tracks registered in the playlist,\n"
-"\\>nothing will play.)"
+"\\>Nr. \\V[17]:\n"
+"\\>Ustaw losową muzykę w tle z Sound Room.\n"
+"\\>(Jeżeli nie ma utworów w playliście,\n"
+"\\>nic nie zagra.)"
 
 #. ID 6, Page 5, Line 379, Pos (12,5)
 msgid ""
@@ -163,10 +163,10 @@ msgid ""
 "\\>\n"
 "\\>(未開放曲がいっぱいあると時間がかかるかも。)"
 msgstr ""
-"\\>No. \\V[17]:\n"
-"\\>Set BGM randomly from sound room.\n"
+"\\>Nr. \\V[17]:\n"
+"\\>Ustaw losową muzykę w tle z Sound Room.\n"
 "\\>\n"
-"\\>(This might take a while if not many tracks are unlocked.)"
+"\\>(Może chwilę potrchwać.)"
 
 #. ID 6, Page 6, Line 84, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -185,10 +185,10 @@ msgid ""
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]\n"
 "\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
-"\\>　!! You cannot save in Time Trial Mode !!　\n"
-"\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>First Clear: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
-"\\>\\C[2]　　　　(Excludes time spent in menu screens)"
+"\\>　!! Nie można zapisać w trybie Time Trial !!　\n"
+"\\>Czas gry: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>Pierwsze zak.: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
+"\\>\\C[2]　　　　(Wyklucza czas spędzony w menu)"
 
 #. ID 6, Page 6, Line 359, Pos (12,5)
 msgid ""
@@ -197,14 +197,14 @@ msgid ""
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
 "\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
-"\\>　!! You cannot save in Time Trial Mode !!　\n"
+"\\>　!! Nie można zapisać w trybie Time Trial !!　\n"
 "\\>\n"
-"\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>\\C[2]　　　　(Excludes time spent in menu screens)"
+"\\>Czas gry: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>\\C[2]　　　　(Wyklucza czas spędzony w menu)"
 
 #. ID 6, Page 6, Line 415, Pos (12,5)
 msgid "\\>♪Secret Code：\\V[15]"
-msgstr "\\>♪ Secret Code: \\V[15]"
+msgstr "\\>♪ Sekretny Kod: \\V[15]"
 
 #. ID 6, Page 6, Line 422, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -216,7 +216,7 @@ msgstr "\\>♪ Secret Code: \\V[15]"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "Code入力中"
-msgstr "Enter Code"
+msgstr "Wpisz Kod"
 
 #. ID 6, Page 6, Line 467, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -227,7 +227,7 @@ msgstr ""
 #. ID 6, Page 6, Line 543, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>通知機能を設定してください"
-msgstr "\\>Please set the notification function"
+msgstr "\\>Ustaw ustawienia powiadomień"
 
 #. ID 6, Page 6, Line 544, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -236,13 +236,13 @@ msgid ""
 "・OFF\n"
 "・あとで設定する"
 msgstr ""
-"・On\n"
-"・Off\n"
-"・Decide Later"
+"・Włącz\n"
+"・Wyłącz\n"
+"・Zadecyduj później"
 
 #. ID 6, Page 6, Line 552, Pos (12,5)
 msgid "\\>壁紙メニューのオプションで設定が変えられます"
-msgstr "\\>Setting can be changed in the wallpaper menu options"
+msgstr "\\>Ustawienie może być zmienione w menu opcji tapet"
 
 #. ID 6, Page 6, Line 567, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -254,7 +254,7 @@ msgstr "\\>Setting can be changed in the wallpaper menu options"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "OFF"
-msgstr "Off"
+msgstr "Wyłaczone"
 
 #. ID 6, Page 6, Line 570, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -266,12 +266,12 @@ msgstr "Off"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ON"
-msgstr "On"
+msgstr "Włączone"
 
 #. ID 6, Page 6, Line 581, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
-msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Cur. Wallpaper: No.\\C[4]\\V[19] \\C[0]Random: \\C[4]\\N[2] \\C[0]New: \\C[4]\\N[3]\\C[0]"
+msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Tapeta: No.\\C[4]\\V[19] \\C[0]Losowa: \\C[4]\\N[2] \\C[0]Nowa: \\C[4]\\N[3]\\C[0]"
 
 #. ID 6, Page 6, Line 582, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -280,9 +280,9 @@ msgid ""
 "\\>・壁紙を読み込み\n"
 "\\>・オプション"
 msgstr ""
-"\\>・Select Wallpaper\n"
-"\\>・Import Wallpaper\n"
-"\\>・Options"
+"\\>・Ustaw Tapetę\n"
+"\\>・Importuj Tapetę\n"
+"\\>・Opcje"
 
 #. ID 6, Page 6, Line 598, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -291,7 +291,7 @@ msgid ""
 "\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
 msgstr ""
 "\\>Use the file at in Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
-"\\>\\C[4]If the file cannot be read, the game will crash.\\C[0]"
+"\\>\\C[4]Jeżeli plik nie może być odczytany, gra się zawiesi.\\C[0]"
 
 #. ID 6, Page 6, Line 600, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -299,13 +299,13 @@ msgid ""
 "\\>・壁紙を読み込む\n"
 "\\>・やめる"
 msgstr ""
-"\\>・Import Wallpaper\n"
-"\\>・Quit"
+"\\>・Importuj Tapetę\n"
+"\\>・Wyjdź"
 
 #. ID 6, Page 6, Line 616, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[4]壁紙オプション\\C[0]"
-msgstr "\\>\\C[4]Wallpaper Options\\C[0]"
+msgstr "\\>\\C[4]Opcje Tapet\\C[0]"
 
 #. ID 6, Page 6, Line 617, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -314,9 +314,9 @@ msgid ""
 "\\>・新着通知設定 切替\n"
 "\\>・New表示操作"
 msgstr ""
-"\\>・Random Mode Toggle\n"
-"\\>・New Wallpaper Indicator Toggle\n"
-"\\>・New Wallpaper Indicator Settings"
+"\\>・Toggle Trybu Losowego\n"
+"\\>・Toggle Wskaźnika Nowej Tapety\n"
+"\\>・Ustawienia Wskaźnika Nowej Tapety"
 
 #. ID 6, Page 6, Line 626, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -324,8 +324,8 @@ msgid ""
 "\\C[3]\\>壁紙をランダムで自動切り替えします\n"
 "\\>現在：\\C[4]\\N[2]\\C[3]"
 msgstr ""
-"\\C[3]\\>Automatically set the wallpaper randomly\n"
-"\\>Current Setting: \\C[4]\\N[2]\\C[3]"
+"\\C[3]\\>Automatycznie ustawiaj losową tapetę\n"
+"\\>Bierzące Ustawienia: \\C[4]\\N[2]\\C[3]"
 
 #. ID 6, Page 6, Line 628, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -335,23 +335,23 @@ msgid ""
 "\\>・ON\n"
 "\\>・OFF"
 msgstr ""
-"\\>・On\n"
-"\\>・Off"
+"\\>・Włącz\n"
+"\\>・Wyłącz"
 
 #. ID 6, Page 6, Line 636, Pos (12,5)
 #. ID 6, Page 6, Line 664, Pos (12,5)
 msgid "\\>ONにしました。"
-msgstr "\\>Set to 'On'."
+msgstr "\\>Włączono."
 
 #. ID 6, Page 6, Line 641, Pos (12,5)
 #. ID 6, Page 6, Line 668, Pos (12,5)
 msgid "\\>OFFにしました。"
-msgstr "\\>Set to 'Off'."
+msgstr "\\>Wyłączono."
 
 #. ID 6, Page 6, Line 659, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
-msgstr "\\>New Wallpaper Notifications　Current Setting: \\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>Bierzące Ustawienie Powiadomienia Nowych Tapet: \\C[4]\\N[2]\\C[0]\n"
 
 #. ID 6, Page 6, Line 677, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -359,7 +359,7 @@ msgid ""
 "\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
 "\\>"
 msgstr ""
-"\\>\\C[3]Mark or unmark all wallpapers as new\n"
+"\\>\\C[3]Zaznacz wszystkie tapety jako nowe\n"
 "\\>"
 
 #. ID 6, Page 6, Line 679, Pos (12,5)
@@ -368,20 +368,20 @@ msgid ""
 "\\>・入手済みの全ての壁紙からNew表示を外す\n"
 "\\>・入手済みの全ての壁紙にNew表示をつける"
 msgstr ""
-"\\>・Unmark all wallpapers as new\n"
-"\\>・Mark all wallpapers as new"
+"\\>・Zaznacz wszystkie tapety jako stare\n"
+"\\>・Zaznacz wszystkie tapety jako nowe"
 
 #. ID 6, Page 6, Line 681, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "入手済みの全ての壁紙からNew表示を外し"
-msgstr "Unmark all wallpapers as new"
+msgstr "Zaznacz wszystkie tapety jako stare"
 
 #. ID 6, Page 6, Line 686, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "入手済みの全ての壁紙にNew表示をつけ"
-msgstr "Mark all wallpapers as new"
+msgstr "Zaznacz wszystkie tapety jako nowe"
 
 #. ID 6, Page 6, Line 696, Pos (12,5)
 msgid ""
@@ -390,9 +390,9 @@ msgid ""
 "\\>  \\C[4]\\N[2]ています。\n"
 "\\>  ・\\<\\|\\^"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Pokaż wszystkie znaczniki na raz\n"
 "\\>\n"
-"\\>  \\C[4]\\N[2] in progress.\n"
+"\\>  \\C[4]\\N[2] w trakcie.\n"
 "\\>  ・\\<\\|\\^"
 
 #. ID 6, Page 6, Line 702, Pos (12,5)
@@ -403,9 +403,9 @@ msgid ""
 "\\>\n"
 "\\>  \\C[4]処理を中断しました。"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Pokaż wszystkie znaczniki na raz\n"
 "\\>\n"
-"\\>  \\C[4]Processing was interrupted."
+"\\>  \\C[4]Proces przerwany."
 
 #. ID 6, Page 6, Line 708, Pos (12,5)
 msgid ""
@@ -414,9 +414,9 @@ msgid ""
 "\\>  \\C[4]\\N[2]ています。\n"
 "\\>  ・・\\<\\|\\^"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Pokaż wszystkie znaczniki na raz\n"
 "\\>\n"
-"\\>  \\C[4]\\N[2] in progress.\n"
+"\\>  \\C[4]\\N[2] w trakcie.\n"
 "\\>  ・・\\<\\|\\^"
 
 #. ID 6, Page 6, Line 720, Pos (12,5)
@@ -426,9 +426,9 @@ msgid ""
 "\\>  \\C[4]\\N[2]ています。\n"
 "\\>  ・・・\\<\\|\\^"
 msgstr ""
-"\\>\\C[3]Display all new wallpaper indicators at once\n"
+"\\>\\C[3]Pokaż wszystkie znaczniki na raz\n"
 "\\>\n"
-"\\>  \\C[4]\\N[2] in progress.\n"
+"\\>  \\C[4]\\N[2] w trakcie.\n"
 "\\>  ・・・\\<\\|\\^"
 
 #. ID 6, Page 6, Line 732, Pos (12,5)
@@ -439,7 +439,7 @@ msgstr ""
 
 #. ID 6, Page 6, Line 735, Pos (12,5)
 msgid "\\>\\C[3]\\N[2]ました。"
-msgstr "\\>\\C[3]\\N[2] succeeded."
+msgstr "\\>\\C[3]\\N[2] zakończone sukcesem."
 
 #. ID 6, Page 6, Line 741, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -451,18 +451,18 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ナシ"
-msgstr "Off"
+msgstr "Wyłączony"
 
 #. ID 6, Page 6, Line 771, Pos (12,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "アリ"
-msgstr "On"
+msgstr "Włączony"
 
 #. ID 6, Page 6, Line 776, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
-msgstr "\\>In-Dream Text Events　Current Setting: \\C[4]\\N[2]\\C[0]"
+msgstr "\\>Bierzące ustawienie Wydarzeń Tekstowych: \\C[4]\\N[2]\\C[0]"
 
 #. ID 6, Page 6, Line 777, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -471,17 +471,17 @@ msgid ""
 "\\>・ナシ\n"
 "\\>・設定終了"
 msgstr ""
-"\\>・On\n"
-"\\>・Off\n"
-"\\>・Close Settings"
+"\\>・Włącz\n"
+"\\>・Wyłącz\n"
+"\\>・Zamknij Ustawienia"
 
 #. ID 6, Page 6, Line 780, Pos (12,5)
 msgid "\\>アリにしました。"
-msgstr "\\>Set to 'On'."
+msgstr "\\>Włączone."
 
 #. ID 6, Page 6, Line 784, Pos (12,5)
 msgid "\\>ナシにしました。"
-msgstr "\\>Set to 'Off'."
+msgstr "\\>Wyłączone."
 
 #. ID 6, Page 6, Line 802, Pos (12,5)
 #. Choice (4 options)
@@ -491,10 +491,10 @@ msgid ""
 "\\>・デフォルトに戻す\n"
 "\\>・設定終了"
 msgstr ""
-"\\>・Menu Theme and Sound Effects\n"
-"\\>・PC Screen BGM\n"
-"\\>・Revert to Default\n"
-"\\>・Close Settings"
+"\\>・Typ Manu i Efekty Dźwiękowe\n"
+"\\>・Muzyka w tle\n"
+"\\>・Powrót do domyślnych\n"
+"\\>・Zamknij Ustawienia"
 
 #. ID 6, Page 6, Line 826, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -502,8 +502,8 @@ msgid ""
 "\\>以下の設定をデフォルトに戻します。\n"
 "\\>メニュータイプ / 効果音 / PC画面BGM"
 msgstr ""
-"\\>Revert to default settings.\n"
-"\\>Menu Theme / Sound Effects / PC Screen BGM"
+"\\>Powrót do domyślnych ustawień.\n"
+"\\>Typ menu / Efekty Dźwiękowe / Muzyka w tle"
 
 #. ID 6, Page 6, Line 828, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -511,16 +511,16 @@ msgid ""
 "\\>・デフォルトに戻す\n"
 "\\>・キャンセル"
 msgstr ""
-"\\>・ Default\n"
-"\\>・ Cancel"
+"\\>・ Domyślne\n"
+"\\>・ Anuluj"
 
 #. ID 6, Page 6, Line 836, Pos (12,5)
 msgid ""
 "\\>メニュータイプ / 効果音 / PC画面BGM\n"
 "\\>…をデフォルトに戻しました。"
 msgstr ""
-"\\>Menu Theme / Sound Effects / PC Screen Music\n"
-"\\>Revert to Default"
+"\\>Typ menu / Efekty Dźwiękowe / Muzyka w tle\n"
+"\\>Powróć do domyślnych"
 
 #. ID 6, Page 6, Line 921, Pos (12,5)
 #. ChangeHeroName (Actor 3)
@@ -557,7 +557,7 @@ msgstr ""
 #. ID 6, Page 6, Line 1018, Pos (12,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\>\\C[4]【DATA】\\C[0]　ゆめ２っき　ver\\V[7]\\N[4]\\V[9]\\N[2]"
-msgstr "\\>\\C[4]【DATA】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
+msgstr "\\>\\C[4]【DANE】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
 
 #. ID 6, Page 6, Line 947, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -566,9 +566,9 @@ msgid ""
 "\\>エンディングを見返す\n"
 "\\>このウィンドウを閉じる"
 msgstr ""
-"\\>View Game Record\n"
-"\\>Rewatch Endings\n"
-"\\>Close Window"
+"\\>Wyświetl Statystyki\n"
+"\\>Zobacz Zakończenia\n"
+"\\>Zamknij Onko"
 
 #. ID 6, Page 6, Line 949, Pos (12,5)
 msgid ""
@@ -578,9 +578,9 @@ msgid ""
 "\\>(最初に入手したエフェクトは \\C[4]\\N[8]\\C[0])"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
-"\\>　　Version: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
-"\\>　　Effects: \\C[4]\\V[2]％\\C[0]\n"
-"\\> (First effect obtained was \\C[4]\\N[8]\\C[0])"
+"\\>　　Wersja: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Efekty: \\C[4]\\V[2]％\\C[0]\n"
+"\\> (Pierwszy efekt zdobyty to \\C[4]\\N[8]\\C[0])"
 
 #. ID 6, Page 6, Line 953, Pos (12,5)
 msgid ""
@@ -591,8 +591,8 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
 "\\>Sound Room   : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
-"\\>PC Wallpapers: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
-"\\>Kura Puzzles : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+"\\>Tapety: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Zagadki Kura : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
 #. ID 6, Page 6, Line 958, Pos (12,5)
 msgid ""
@@ -601,10 +601,10 @@ msgid ""
 "\\>　　　　(メニュー画面を開いている時間を含めず)\n"
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
-"\\>Play Time  : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
-"\\>　　　　(Excludes time spent in menu screens)\n"
-"\\>First Clear: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Czas Gry  : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
+"\\>　　　　(Wyklucza czas w menu)\n"
+"\\>Pierwsze Zak.: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 964, Pos (12,5)
 msgid ""
@@ -613,10 +613,10 @@ msgid ""
 "\\>　　　　(メニュー画面を開いている時間を含めず)\n"
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
-"\\>Play Time  : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Excludes time spent in menu screens)\n"
-"\\>First Clear: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Czas Gry  : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>　　　　(Wyklucza czas w menu)\n"
+"\\>Pierwsze Zak.: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
 #. ID 6, Page 6, Line 971, Pos (12,5)
 msgid ""
@@ -624,9 +624,9 @@ msgid ""
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[90] Steps\\C[0]"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Kroki: \\C[4]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 977, Pos (12,5)
 msgid ""
@@ -635,8 +635,8 @@ msgid ""
 "\\>　　　歩数： \\C[4]\\v[91]\\N[3]000000歩\\C[0]"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[91]\\N[3]\\000000 Steps\\C[0]"
+"\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Kroki: \\C[4]\\v[91]\\N[3]\\000000 Steps\\C[0]"
 
 #. ID 6, Page 6, Line 982, Pos (12,5)
 msgid ""
@@ -645,8 +645,8 @@ msgid ""
 "\\>　　　歩数： \\C[4]\\v[91]\\N[3]\\v[90]歩\\C[0]"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[91]\\N[3]\\v[90] Steps\\C[0]"
+"\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Kroki: \\C[4]\\v[91]\\N[3]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 989, Pos (12,5)
 msgid ""
@@ -655,8 +655,8 @@ msgid ""
 "\\>　　殺傷数： \\C[4]\\v[3936]回\\C[0](無機物も含む)"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
-"\\>Worlds Visited: \\C[4]\\V[71]\\C[0] (approximate)\n"
-"\\>Body Count    : \\C[4]\\v[3936]\\C[0] (includes inanimate objects)"
+"\\>Światy Odwiedzone: \\C[4]\\V[71]\\C[0] (około)\n"
+"\\>Zabójstwa    : \\C[4]\\v[3936]\\C[0] (wlicza obiekty)"
 
 #. ID 6, Page 6, Line 1019, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -664,8 +664,8 @@ msgid ""
 "\\>プレイ記録を見る\n"
 "\\>このウィンドウを閉じる"
 msgstr ""
-"\\>View Game Record\n"
-"\\>Close Window"
+"\\>Wyświetl rekord\n"
+"\\>Zamknij"
 
 #. ID 6, Page 6, Line 1021, Pos (12,5)
 msgid ""
@@ -674,8 +674,8 @@ msgid ""
 "\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
-"\\>　　Version: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
-"\\>　　Effects: \\C[4]\\V[2]%\\C[0]"
+"\\>　　Wersja: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Efekty: \\C[4]\\V[2]%\\C[0]"
 
 #. ID 6, Page 6, Line 1024, Pos (12,5)
 msgid ""
@@ -684,10 +684,10 @@ msgid ""
 "\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
 "\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
 "\\>Sound Room  : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
-"\\>PC Wallpapers: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
-"\\>Kura Puzzles : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+"\\>Tapety: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Zagadki Kura : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
 #. ID 6, Page 6, Line 1028, Pos (12,5)
 msgid ""
@@ -697,7 +697,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
 "\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>　　　　(Excludes time spent in menu screens)"
+"\\>　　　　(Wyklucza czas spędzony w menu)"
 
 #. ID 6, Page 6, Line 1032, Pos (12,5)
 msgid ""
@@ -706,8 +706,8 @@ msgid ""
 "\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[90] Steps\\C[0]"
+"\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Kroki: \\C[4]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 1037, Pos (12,5)
 msgid ""
@@ -716,8 +716,8 @@ msgid ""
 "\\>　　　歩数： \\C[4]\\v[91]\\v[90]歩\\C[0]"
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
-"\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[91]\\v[90] Steps\\C[0]"
+"\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
+"\\>　Kroki: \\C[4]\\v[91]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 1051, Pos (12,5)
 #. ChangeHeroName (Actor 5)
@@ -742,6 +742,8 @@ msgid ""
 "\\>\\N[2]  Original ver - \\V[1012]\n"
 "\\>\\N[2]     EX ver    - \\V[1454]"
 msgstr ""
+"\\>\\N[2]  Oryginalna Wer. - \\V[1012]\n"
+"\\>\\N[2]     Wersja EX    - \\V[1454]"
 
 #. ID 9, Page 3, Line 72, Pos (9,10)
 #. Contains choice at line 3 (2 options)
@@ -749,8 +751,8 @@ msgid ""
 "\\>前回セーブまでの死亡回数：\\v[1262]\n"
 "\\>ロードしますか？"
 msgstr ""
-"\\>Deaths since last save: \\v[1262]\n"
-"\\>Do you want to load?"
+"\\>Śmierci od ostatniego zapisu: \\v[1262]\n"
+"\\>Chcerz wczytać grę?"
 
 #. ID 9, Page 3, Line 74, Pos (9,10)
 #. Choice (2 options, embedded in a message)
@@ -758,15 +760,15 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
-"Yes\n"
-"No"
+"Tak\n"
+"Nie"
 
 #. ID 9, Page 3, Line 118, Pos (9,10)
 #. Contains choice at line 2 (2 options)
 #. ID 9, Page 3, Line 150, Pos (9,10)
 #. Contains choice at line 2 (2 options)
 msgid "\\>ゲームを終了しますか？"
-msgstr "\\>End the game?"
+msgstr "\\>Zakończ grę?"
 
 #. ID 9, Page 3, Line 119, Pos (9,10)
 #. Choice (2 options, embedded in a message)
@@ -776,8 +778,8 @@ msgid ""
 "\\>はい\n"
 "\\>いいえ"
 msgstr ""
-"\\>Yes\n"
-"\\>No"
+"\\>Tak\n"
+"\\>Nie"
 
 #. ID 12, Page 2, Line 10, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -785,7 +787,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おおかみ"
-msgstr "Wolf "
+msgstr "Wilk "
 
 #. ID 12, Page 2, Line 11, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -793,13 +795,13 @@ msgstr "Wolf "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "バイク"
-msgstr "Bike"
+msgstr "Motocykl"
 
 #. ID 12, Page 2, Line 18, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテ"
-msgstr "Twintails "
+msgstr "Kucyki "
 
 #. ID 12, Page 2, Line 19, Pos (13,5)
 #. ChangeHeroName (Actor 3)
@@ -807,7 +809,7 @@ msgstr "Twintails "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めがね"
-msgstr "Glasses"
+msgstr "Okulary"
 
 #. ID 12, Page 2, Line 26, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -823,67 +825,67 @@ msgstr "Haniwa "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ケーキ"
-msgstr "Cake"
+msgstr "Ciasto"
 
 #. ID 12, Page 2, Line 34, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "レインコート"
-msgstr "Raincoat"
+msgstr "Płaszcz"
 
 #. ID 12, Page 2, Line 44, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "くろでんわ"
-msgstr "Telephone"
+msgstr "Telefon"
 
 #. ID 12, Page 2, Line 48, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おとこのこ"
-msgstr "Boy"
+msgstr "Chłopak"
 
 #. ID 12, Page 2, Line 52, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "チェーンソー"
-msgstr "Chainsaw"
+msgstr "Piła M."
 
 #. ID 12, Page 2, Line 56, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "カンテラ"
-msgstr "Lantern"
+msgstr "Latarnia"
 
 #. ID 12, Page 2, Line 60, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ようせい"
-msgstr "Fairy"
+msgstr "Wróżka"
 
 #. ID 12, Page 2, Line 64, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "うちゅうふく"
-msgstr "Spacesuit"
+msgstr "Kombinezon"
 
 #. ID 12, Page 2, Line 72, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "にじ"
-msgstr "Rainbow"
+msgstr "Tęcza"
 
 #. ID 12, Page 2, Line 80, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めだま"
-msgstr "Eyeball "
+msgstr "Oczna "
 
 #. ID 12, Page 2, Line 81, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ばくだん"
-msgstr "Bomb"
+msgstr "Bomba"
 
 #. ID 12, Page 2, Line 89, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -895,85 +897,85 @@ msgstr "Maiko"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテール"
-msgstr "Twintails"
+msgstr "Kucyki"
 
 #. ID 12, Page 2, Line 97, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ぺんぎん"
-msgstr "Penguin"
+msgstr "Pingwin"
 
 #. ID 12, Page 2, Line 101, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "むし"
-msgstr "Insect"
+msgstr "Insekt"
 
 #. ID 12, Page 2, Line 105, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "バネ"
-msgstr "Spring"
+msgstr "Sprężyna"
 
 #. ID 12, Page 2, Line 109, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "とうめい"
-msgstr "Invisible"
+msgstr "Niewidzialność"
 
 #. ID 12, Page 2, Line 113, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "がくラン"
-msgstr "School Boy"
+msgstr "Uczeń"
 
 #. ID 12, Page 2, Line 117, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ギプス"
-msgstr "Plaster Cast"
+msgstr "Gips"
 
 #. ID 12, Page 2, Line 121, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "せのび"
-msgstr "Stretch"
+msgstr "Rozciągnięcie"
 
 #. ID 12, Page 2, Line 129, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "トロンボーン"
-msgstr "Trombone"
+msgstr "Puzon"
 
 #. ID 12, Page 2, Line 137, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "こども"
-msgstr "Child"
+msgstr "Dziecko"
 
 #. ID 12, Page 2, Line 141, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "あかずきん"
-msgstr "Red Riding Hood"
+msgstr "Czerwony Kapturek"
 
 #. ID 12, Page 2, Line 145, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ティッシュ"
-msgstr "Tissue"
+msgstr "Chusteczka"
 
 #. ID 12, Page 2, Line 149, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "コウモリ"
-msgstr "Bat"
+msgstr "Nietoperz"
 
 #. ID 12, Page 2, Line 153, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ポリゴン"
-msgstr "Polygon"
+msgstr "Wielokąt"
 
 #. ID 12, Page 2, Line 157, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -991,49 +993,49 @@ msgstr " Bōzu"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "マージナル"
-msgstr "Marginal"
+msgstr "Marginalny"
 
 #. ID 12, Page 2, Line 166, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ドラムかん"
-msgstr "Drum"
+msgstr "Beczka"
 
 #. ID 12, Page 2, Line 170, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おはか"
-msgstr "Grave"
+msgstr "Grób"
 
 #. ID 12, Page 2, Line 174, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Railroad Crossing"
+msgstr "Sygnalizacja Kolejowa"
 
 #. ID 12, Page 2, Line 178, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "うさみみ"
-msgstr "Bunny Ears"
+msgstr "Królicze Uszy"
 
 #. ID 12, Page 2, Line 182, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "サイコロ"
-msgstr "Dice"
+msgstr "Kość"
 
 #. ID 12, Page 2, Line 186, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "なし（エフェ"
-msgstr "None "
+msgstr "Brak "
 
 #. ID 12, Page 2, Line 187, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "クト解除）"
-msgstr "(Removed)"
+msgstr "(Usunięte)"
 
 #. ID 12, Page 3, Line 23, Pos (13,5)
 #. ChangeHeroName (Actor 4)
@@ -1045,7 +1047,7 @@ msgstr "(Removed)"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]使用中"
-msgstr "\\C[1]Enabled"
+msgstr "\\C[1]Włączone"
 
 #. ID 12, Page 3, Line 26, Pos (13,5)
 #. ChangeHeroName (Actor 4)
@@ -1057,7 +1059,7 @@ msgstr "\\C[1]Enabled"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]未使用"
-msgstr "\\C[2]Disabled"
+msgstr "\\C[2]Wyłączone"
 
 #. ID 12, Page 3, Line 36, Pos (13,5)
 #. ChangeHeroName (Actor 5)
@@ -1068,7 +1070,7 @@ msgstr "\\C[0]"
 #. ID 12, Page 3, Line 38, Pos (13,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> ★ シフトキー拡張機能 ★ "
-msgstr "\\> ★ Shift Key Functionality ★ "
+msgstr "\\> ★ Funkcja Shifta ★ "
 
 #. ID 12, Page 3, Line 39, Pos (13,5)
 #. Choice (3 options, embedded in a message)
@@ -1077,9 +1079,9 @@ msgid ""
 "\\>\\N[5]クトシフトチェンジ:\\N[6]\n"
 "\\>\\C[0]やめる"
 msgstr ""
-"\\>Favorite Effect : \\N[4]\n"
-"\\>\\N[5]Effect Shift Key: \\N[6]\n"
-"\\>\\C[0]Exit"
+"\\>Ulubiony Efekt : \\N[4]\n"
+"\\>\\N[5]Efekt Pod Shiftem: \\N[6]\n"
+"\\>\\C[0]Wyjdź"
 
 #. ID 12, Page 3, Line 44, Pos (13,5)
 #. ChangeHeroName (Actor 5)
@@ -1087,7 +1089,7 @@ msgstr ""
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "使わない"
-msgstr "Off"
+msgstr "Wyłącz"
 
 #. ID 12, Page 3, Line 48, Pos (13,5)
 #. ChangeHeroName (Actor 5)
@@ -1095,7 +1097,7 @@ msgstr "Off"
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "使う"
-msgstr "On"
+msgstr "Włącz"
 
 #. ID 12, Page 3, Line 51, Pos (13,5)
 #. Contains choice at line 3 (2 options)
