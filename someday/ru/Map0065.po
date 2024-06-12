@@ -1,20 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
+"Project-Id-Version: Someday\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 30, Page 1, Line 8, Pos (36,162)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\$Kaokola - 320 N\n"
 "Sunny 4 - 340 N\n"
@@ -22,7 +21,7 @@ msgid ""
 "Don't buy anything"
 msgstr ""
 "\\$Као-кола - 320 Н\n"
-"Sunny 4 - 340 Н\n"
+"Сол 4 - 340 Н\n"
 "7 Муп - 350 Н\n"
 "Не покупать ничего"
 
@@ -59,7 +58,6 @@ msgstr "Скидка 50% на ВСЕ напитки!"
 
 #. ID 30, Page 2, Line 10, Pos (36,162)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\$Kaokola - 160 N\n"
 "Sunny 4 - 170 N\n"
@@ -67,6 +65,6 @@ msgid ""
 "Don't buy anything"
 msgstr ""
 "\\$Као-кола - 160 Н\n"
-"Sunny 4 - 170 Н\n"
+"Сол 4 - 170 Н\n"
 "7 Муп - 175 Н\n"
 "Не покупать ничего"
