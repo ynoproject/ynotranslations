@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 3, Page 1, Line 6, Pos (2,1)
+msgid ""
+"\\>◆デバッグ用あらすじ\n"
+"\\>エフェクト全部集めて、\n"
+"\\>現実でほほをつねったら暗闇の中だ！\n"
+"\\>"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>【エンディングリストから閲覧中】\n"
+"\\>もどりますか？"
+msgstr "\\>Do you want to return to the endings menu?"
+
+#. ID 7, Page 1, Line 3, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Yes\n"
+"\\>No"
