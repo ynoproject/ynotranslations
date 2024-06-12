@@ -80,7 +80,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Sleepwalking"
+msgstr "Lunatyzm"
 
 #. ID 26, Page 1, Line 3, Pos (16,0)
 #. ChangeHeroName (Actor 1)
@@ -102,13 +102,13 @@ msgstr "Urotsuki"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢夢夢夢夢病"
-msgstr "Sleeeeepking"
+msgstr "Lunaaaatyzm"
 
 #. ID 27, Page 1, Line 4, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢。。。。。"
-msgstr "Sleeping..."
+msgstr "Sen..."
 
 #. ID 27, Page 1, Line 6, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
@@ -174,7 +174,7 @@ msgstr "うろつき"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "夢遊病"
-msgstr "Sleepwalking"
+msgstr "Lunatyzm"
 
 #. ID 28, Page 1, Line 12, Pos (11,2)
 #. ChangeHeroName (Actor 1)
