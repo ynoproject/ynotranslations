@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Project-Id-Version: Someday\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -341,32 +345,32 @@ msgstr "Убейте всех шершней в лесу и вернитесь."
 #. ID 33
 msgctxt "skills.name"
 msgid "Vitamin"
-msgstr ""
+msgstr "Витамин"
 
 #. ID 33
 msgctxt "skills.description"
 msgid "Get your daily dose of vitamin C"
-msgstr ""
+msgstr "Получите ежедневную дозу витамина Ц."
 
 #. ID 34
 msgctxt "skills.name"
 msgid "Life"
-msgstr ""
+msgstr "Жизнь"
 
 #. ID 34
 msgctxt "skills.description"
 msgid "Find the source of the pulse"
-msgstr ""
+msgstr "Найдите источник пульсаций."
 
 #. ID 35
 msgctxt "skills.name"
 msgid "Isolated"
-msgstr ""
+msgstr "Изоляция"
 
 #. ID 35
 msgctxt "skills.description"
 msgid "It's just not the same"
-msgstr ""
+msgstr "Совсем другое."
 
 #. ID 51
 msgctxt "skills.name"
@@ -921,12 +925,12 @@ msgstr "Дополнительный контент разблокирован."
 #. ID 54
 msgctxt "items.name"
 msgid "CHEAT Scooter+Fox"
-msgstr ""
+msgstr "ЧИТ Скутер + Лис"
 
 #. ID 54
 msgctxt "items.description"
 msgid "No limits."
-msgstr ""
+msgstr "Без границ."
 
 #. ID 1
 msgctxt "states.message_actor"
@@ -1502,4 +1506,3 @@ msgstr ""
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""
-

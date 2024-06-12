@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
+"Project-Id-Version: Someday\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 41, Page 1, Line 8, Pos (9,8)
 #. Choice (4 options)
@@ -75,14 +75,13 @@ msgstr ""
 
 #. ID 41, Page 1, Line 253, Pos (9,8)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\$Sakkubo - 240 N\n"
 "Yetotsu - 210 N\n"
 "The Looking Kvass - 220 N\n"
 "Don't buy anything"
 msgstr ""
-"\\$Sakkubo - 240 Н\n"
-"Yetotsu - 210 Н\n"
-"The Looking Kvass - 220 Н\n"
+"\\$Мешкуб - 240 Н\n"
+"Ётоцу - 210 Н\n"
+"Уквасичительное стекло - 220 Н\n"
 "Не брать ничего"
