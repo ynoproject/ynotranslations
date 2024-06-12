@@ -142,7 +142,7 @@ msgstr ""
 "\\>Nr. \\V[17]:\n"
 "\\>Zmień zarejestrowaną muzykę w tle w sound room.\n"
 "\\>\n"
-"\\>Zarejestruj poprzez trzymanie shift w sound room."
+"\\>Zarejestruj poprzez trzymanie Shift w sound room."
 
 #. ID 6, Page 5, Line 372, Pos (12,5)
 msgid ""
@@ -1105,8 +1105,8 @@ msgid ""
 "\\> ★ お気に入りエフェクト ★ \n"
 "\\>※現在の設定:\\N[4]\\C[0]　\\N[2]\\N[3]"
 msgstr ""
-"\\> ★ Favorite Effect ★ \n"
-"\\>* Current Setting: \\N[4]\\C[0]　\\N[2]\\N[3]"
+"\\> ★ Ulubiony Efekt ★ \n"
+"\\>* Bierzące Ustawienie: \\N[4]\\C[0]　\\N[2]\\N[3]"
 
 #. ID 12, Page 3, Line 53, Pos (13,5)
 #. Choice (2 options, embedded in a message)
@@ -1115,7 +1115,7 @@ msgid ""
 "\\>せつめい"
 msgstr ""
 "\\>\\N[5]\n"
-"\\>Help"
+"\\>Pomoc"
 
 #. ID 12, Page 3, Line 58, Pos (13,5)
 msgid ""
@@ -1124,15 +1124,15 @@ msgid ""
 "\\>　登録したいエフェクトを使用している状態で\n"
 "\\>　夢の中にあるこの引き出しを調べてください。"
 msgstr ""
-"\\>Changed to 'On'.\n"
-"\\>　When you want to register an effect,\n"
-"\\>　use the drawer in your dream room\n"
-"\\>　with the effect you want to register."
+"\\>Włączono.\n"
+"\\>　Gdy chcerz zarejestrować efekt,\n"
+"\\>　użyj szuflady w pokoju w śnie\n"
+"\\>　z efektem który chcerz zarejestrować."
 
 #. ID 12, Page 3, Line 64, Pos (13,5)
 #. ID 12, Page 3, Line 108, Pos (13,5)
 msgid "\\>※\"使わない\"に変更しました。"
-msgstr "\\>* Set to 'Off'."
+msgstr "\\>* Wyłączono."
 
 #. ID 12, Page 3, Line 70, Pos (13,5)
 msgid ""
@@ -1141,9 +1141,9 @@ msgid ""
 "　登録したエフェクトは、シフトキー長押しで\n"
 "　使用できます。"
 msgstr ""
-"\\>　★ About Favorite Effect Functionality ★\n"
-"* You may only register one effect at a time.\n"
-"  Press shift to use the registered effect."
+"\\>　★ O Funkcji Ulubionego Efektu ★\n"
+"* Możesz tylko zarejestrować jeden efekt.\n"
+"  Naciśnij Shift aby użyć efektu."
 
 #. ID 12, Page 3, Line 74, Pos (13,5)
 msgid ""
@@ -1152,9 +1152,9 @@ msgid ""
 "　登録エフェクトにチェンジする前に使用していた\n"
 "　エフェクトに戻します。"
 msgstr ""
-"\\>　★ About Favorite Effect Functionality ★\n"
-"* If you press shift while using the registered\n"
-"  effect, it will use your previously used effect."
+"\\>　★ O Funkcji Ulubionego Efektu ★\n"
+"* Gdy naciśniesz Shift podczas używania ulubionego\n"
+"  efektu, zostanie użyty poprzedni efekt."
 
 #. ID 12, Page 3, Line 98, Pos (13,5)
 #. Contains choice at line 3 (2 options)
@@ -1162,8 +1162,8 @@ msgid ""
 "\\> ★ エフェクトシフトチェンジ ★ \n"
 "\\>※現在の設定:\\N[6]\\C[0]"
 msgstr ""
-"\\> ★ Effect Shift Change ★ \n"
-"\\>* Current Setting: \\N[6]\\C[0]"
+"\\> ★ Zmiana Efektu Shift ★ \n"
+"\\>* Bierzące Ustawienie: \\N[6]\\C[0]"
 
 #. ID 12, Page 3, Line 100, Pos (13,5)
 #. Choice (2 options, embedded in a message)
@@ -1172,40 +1172,40 @@ msgid ""
 "\\>せつめい / おぷしょん"
 msgstr ""
 "\\>\\N[5]\n"
-"\\>Help / Options"
+"\\>Pomoc / Opcje"
 
 #. ID 12, Page 3, Line 105, Pos (13,5)
 msgid "\\>※\"使う\"に変更しました。"
-msgstr "\\>* Set to 'On'."
+msgstr "\\>* Włączono."
 
 #. ID 12, Page 3, Line 119, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[2]エフェクト解除する"
-msgstr "\\C[2]Remove Effect"
+msgstr "\\C[2]Usuń Efekt"
 
 #. ID 12, Page 3, Line 122, Pos (13,5)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "\\C[1]なにもしない"
-msgstr "\\C[1]Do Nothing"
+msgstr "\\C[1]Nie Rób Nic"
 
 #. ID 12, Page 3, Line 126, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[2]お気に入りエフェクト"
-msgstr "\\C[2]Favorite Effect"
+msgstr "\\C[2]Ulubiony Efekt"
 
 #. ID 12, Page 3, Line 129, Pos (13,5)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[1]エフェクト解除"
-msgstr "\\C[1]Remove Effect"
+msgstr "\\C[1]Usuń Efekt"
 
 #. ID 12, Page 3, Line 132, Pos (13,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> ★ エフェクトシフトチェンジ ★ おぷしょん"
-msgstr "\\> ★ Effect Shift Change ★ Options"
+msgstr "\\> ★ Zmiana Efektu Shift ★ Opcje"
 
 #. ID 12, Page 3, Line 133, Pos (13,5)
 #. Choice (3 options, embedded in a message)
@@ -1214,9 +1214,9 @@ msgid ""
 "\\>上キーを押した時　：\\N[6]\\C[0]\n"
 "\\>せつめい"
 msgstr ""
-"\\>When selecting same item: \\N[5]\\C[0]\n"
-"\\>When up key is pressed  : \\N[6]\\C[0]\n"
-"\\>Help"
+"\\>Podczas wybierania: \\N[5]\\C[0]\n"
+"\\>Gdy Klawisz Jest Naciśnięty  : \\N[6]\\C[0]\n"
+"\\>Pomoc"
 
 #. ID 12, Page 3, Line 138, Pos (13,5)
 msgid ""
@@ -1225,14 +1225,14 @@ msgid ""
 "\\>現在のエフェクトと同じ項目を選んでも、\n"
 "\\>エフェクト解除しないようにします。"
 msgstr ""
-"\\>* Set to \"Do Nothing\".\n"
+"\\>* Ustawione na \"Nie rób nic\".\n"
 "\n"
-"\\>Selecting the same effect as you are using\n"
-"\\>will not cancel your effect."
+"\\>Wybranie tego samego efektu\n"
+"\\>nie anuluje twojego efektu."
 
 #. ID 12, Page 3, Line 145, Pos (13,5)
 msgid "\\>※\"エフェクト解除する\"に変更しました。"
-msgstr "\\>* Set to \"Remove Effect\"."
+msgstr "\\>* Ustawione na \"Usuń Efekt\"."
 
 #. ID 12, Page 3, Line 153, Pos (13,5)
 msgid ""
@@ -1241,10 +1241,10 @@ msgid ""
 "\\>上キーでエフェクト解除、\n"
 "\\>下キーでお気に入りエフェクトを選択します。"
 msgstr ""
-"\\>* Set to \"Remove Effect\".\n"
+"\\>* Ustawione na \"Usuń Efekt\".\n"
 "\n"
-"\\>Remove your effect by pressing up.\n"
-"\\>Use your favorite effect by pressing down."
+"\\>Usuń swój efekt naciskając w górę.\n"
+"\\>Użyj efektu naciskając w dół."
 
 #. ID 12, Page 3, Line 160, Pos (13,5)
 msgid ""
@@ -1253,10 +1253,10 @@ msgid ""
 "\\>上キーと下キーのどちらでも\n"
 "\\>お気に入りエフェクトを選択します。"
 msgstr ""
-"\\>* Set to \"Favorite Effect\".\n"
+"\\>* Ustawiono na \"Ulubiony Efekt\".\n"
 "\n"
-"\\>Pressing either up or down will use your\n"
-"\\>favorite effect."
+"\\>Naciskanie w dół lub w górę użyje\n"
+"\\>ulubionego efektu."
 
 #. ID 12, Page 3, Line 168, Pos (13,5)
 msgid ""
@@ -1264,9 +1264,9 @@ msgid ""
 "シフトキーでエフェクトを選ぶ画面が出る機能です。\n"
 "もちろん、いつものメニューもそのまま使えます。"
 msgstr ""
-"\\> ★ Effect Shift Change ★ \n"
-"Pressing shift displays an effect selection screen.\n"
-"You can still use the regular menu as usual."
+"\\> ★ Zmiana Efektu Shift ★ \n"
+"Naciśnięcie Shift wyświetli menu efektów.\n"
+"Można nadal używać normalnego menu."
 
 #. ID 12, Page 3, Line 171, Pos (13,5)
 msgid ""
@@ -1274,9 +1274,9 @@ msgid ""
 "また、シフトキーを押してから下キーを押すと\n"
 "お気に入りエフェクトに登録したものを選択できます。"
 msgstr ""
-"\\> ★ Effect Shift Change ★ \n"
-"You can also quickly jump to your favorite effect\n"
-"by pressing the down key."
+"\\> ★ Zmiana Efektu Shift ★ \n"
+"Można również przeskoczyć do ulubionego\n"
+"efektu naciskając klawisz w dół."
 
 #. ID 23, Page 1, Line 12, Pos (1,14)
 msgid ""
@@ -1289,7 +1289,7 @@ msgstr ""
 #. ID 25, Page 5, Line 45, Pos (5,6)
 #. Contains choice at line 2 (2 options)
 msgid "\\>どちらのアルバムを見ますか？"
-msgstr "\\>View which album?"
+msgstr "\\>Który album wyświetlić?"
 
 #. ID 25, Page 5, Line 46, Pos (5,6)
 #. Choice (2 options, embedded in a message)
@@ -1297,8 +1297,8 @@ msgid ""
 "\\>改変後（現行処理）ver.\n"
 "\\>改変前（元処理）ver."
 msgstr ""
-"\\>Updated version ver.\n"
-"\\>Old version ver."
+"\\>Nowa wersja ver.\n"
+"\\>Stara wersja ver."
 
 #. ID 26, Page 1, Line 18, Pos (0,14)
 #. Choice (4 options)
@@ -1308,10 +1308,10 @@ msgid ""
 "\\>ミニゲームＣ\n"
 "やめる"
 msgstr ""
-"\\>Minigame A\n"
-"\\>Minigame B\n"
-"\\>Minigame C\n"
-"Quit"
+"\\>Gra A\n"
+"\\>Gra B\n"
+"\\>Gra C\n"
+"Wyjdź"
 
 #. ID 26, Page 1, Line 29, Pos (0,14)
 msgid "\\>大変長らく更新せずすいませんでした。"
@@ -1348,7 +1348,7 @@ msgid ""
 "やらない"
 msgstr ""
 "Start\n"
-"Don't Start"
+"Nie Start"
 
 #. ID 26, Page 4, Line 9, Pos (0,14)
 #. Choice (2 options)
@@ -1363,8 +1363,8 @@ msgid ""
 "\\>初めから\n"
 "\\>続きから"
 msgstr ""
-"\\>Start\n"
-"\\>Continue"
+"\\>Rozpocznij\n"
+"\\>Kontynuuj"
 
 #. ID 26, Page 4, Line 31, Pos (0,14)
 msgid ""
