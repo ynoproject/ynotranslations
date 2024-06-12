@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Uneven Dream\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 1, Page 1, Line 1, Pos (7,4)
+#. Contains choice at line 2 (2 options)
+msgid "Go to..."
+msgstr "Перенестись в..."
+
+#. ID 1, Page 1, Line 2, Pos (7,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Kubo's room\n"
+"Totsu's room"
+msgstr ""
+"Комнату Кубо\n"
+"Комнату Тоцу"
+
+#. ID 2, Page 1, Line 1, Pos (5,4)
+#. Contains choice at line 2 (2 options)
+msgid "Hey, it's Backbeat Anthem. Aquire KUBOEFFECT03?"
+msgstr "Йо, это Backbeat Anthem. Получить KUBOEFFECT03?"
+
+#. ID 2, Page 1, Line 2, Pos (5,4)
+#. Choice (2 options, embedded in a message)
+#. ID 66, Page 1, Line 3, Pos (14,4)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 2, Pos (16,4)
+#. Choice (2 options, embedded in a message)
+#. ID 72, Page 1, Line 2, Pos (23,5)
+#. Choice (2 options, embedded in a message)
+#. ID 75, Page 1, Line 2, Pos (19,4)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 40, Pos (28,4)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 55, Pos (28,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Да\n"
+"Нет"
+
+#. ID 2, Page 1, Line 6, Pos (5,4)
+msgid ""
+"Obtained the Snowglobe Effect.\\! Equip it to freeze\n"
+"NPCs,\\. then interact with them to kill them."
+msgstr ""
+"Получен эффект Снежного Шара.\\! Наденьте его, чтобы\n"
+"заморозить существ,\\. затем троньте, чтобы убить."
+
+#. ID 2, Page 1, Line 12, Pos (5,4)
+msgid "Suit yourself. Have EFFECT028 instead."
+msgstr "Приоденься. Получай тогда EFFECT028."
+
+#. ID 2, Page 1, Line 13, Pos (5,4)
+msgid ""
+"(Obtained the Lily of the Valley Effect. Interact\n"
+" with NPCs to poison and kill them.)"
+msgstr ""
+"(Получен эффект Ландыша. Дотроньтесь до существ,\n"
+"чтобы отравить и убить их.)"
+
+#. ID 4, Page 1, Line 1, Pos (10,4)
+#. Contains choice at line 2 (2 options)
+msgid "Effect animation testing"
+msgstr "Тест анимации эффекта"
+
+#. ID 4, Page 1, Line 2, Pos (10,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Kubo\n"
+"Totsu"
+msgstr ""
+"Кубо\n"
+"Тоцу"
+
+#. ID 65, Page 1, Line 1, Pos (12,4)
+msgid "\\>How did you even do this"
+msgstr "\\>Как это вообще у тебя удалось"
+
+#. ID 65, Page 2, Line 1, Pos (12,4)
+#. Contains choice at line 2 (2 options)
+#. ID 65, Page 3, Line 1, Pos (12,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\>Wanna jump?"
+msgstr "\\>Хочешь прыгнуть?"
+
+#. ID 65, Page 2, Line 2, Pos (12,4)
+#. Choice (2 options, embedded in a message)
+#. ID 65, Page 3, Line 2, Pos (12,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"sure thing buddy\n"
+"lol nope"
+msgstr ""
+"ага, давай\n"
+"не, ненад"
+
+#. ID 66, Page 1, Line 1, Pos (14,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\"activate\" chaser? (if it catches you, you can\n"
+"\\>choose not to be warped somewhere else)"
+msgstr ""
+"\\>\"включить\" преследователя? (если он поймает вас,\n"
+"\\>вы можете выбрать не перемещаться куда-либо)"
+
+#. ID 66, Page 2, Line 1, Pos (14,4)
+#. Choice (2 options)
+msgid ""
+"\"deactivate\" chaser\n"
+"get caught"
+msgstr ""
+"\"выключить\" преследоватея\n"
+"пойматься"
+
+#. ID 68, Page 1, Line 1, Pos (16,4)
+#. Contains choice at line 2 (2 options)
+msgid "\\>Underwater Test"
+msgstr "\\>Тест пребывания под водой"
+
+#. ID 70, Page 1, Line 1, Pos (18,4)
+msgid "wallpaper to modify:"
+msgstr "обои для изменения:"
+
+#. ID 70, Page 1, Line 3, Pos (18,4)
+msgid "what do you want to do?"
+msgstr "что вы хотите сделать?"
+
+#. ID 70, Page 1, Line 4, Pos (18,4)
+#. Choice (4 options)
+msgid ""
+"read (0)\n"
+"unfound --> found (1)\n"
+"found --> read (2)\n"
+"lock (3)"
+msgstr ""
+"прочесть (0)\n"
+"ненайдено --> найдено (1)\n"
+"найдено --> прочитано (2)\n"
+"заблокировать (3)"
+
+#. ID 70, Page 1, Line 22, Pos (18,4)
+msgid "\\v[0060]"
+msgstr "\\v[0060]"
+
+#. ID 71, Page 1, Line 1, Pos (21,4)
+#. Contains choice at line 2 (3 options)
+msgid "Braille events:"
+msgstr "События Браиля:"
+
+#. ID 71, Page 1, Line 2, Pos (21,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"ENG\n"
+"JPN\n"
+"Don't change."
+msgstr ""
+"Англ.\n"
+"Яп.\n"
+"Не менять."
+
+#. ID 71, Page 1, Line 6, Pos (21,4)
+msgid ""
+"All Braille Easter eggs will now be displayed in English \n"
+"Braille/Grade 2 Braille.\n"
+msgstr ""
+"Все пасхалки шрифтом Браиля теперь отображаются \n"
+"на основе Английского языка.\n"
+
+#. ID 71, Page 1, Line 13, Pos (21,4)
+msgid ""
+"All Braille Easter eggs will now be displayed in Tenji/Japanese \n"
+"Braille."
+msgstr ""
+"Все пасхалки шрифтом Браиля теперь отображаются \n"
+"на основе Японского языка."
+
+#. ID 72, Page 1, Line 1, Pos (23,5)
+#. Contains choice at line 2 (2 options)
+msgid "Play current credits?"
+msgstr "Проиграть титры?"
+
+#. ID 72, Page 1, Line 9, Pos (23,5)
+msgid "Team Uneven:"
+msgstr "Команда Uneven:"
+
+#. ID 72, Page 1, Line 10, Pos (23,5)
+msgid "Administrators:"
+msgstr "Администрация:"
+
+#. ID 72, Page 1, Line 11, Pos (23,5)
+msgid "River"
+msgstr ""
+
+#. ID 72, Page 1, Line 12, Pos (23,5)
+msgid "Nexus0.10"
+msgstr ""
+
+#. ID 72, Page 1, Line 13, Pos (23,5)
+msgid "Members and contributors:"
+msgstr "Участники и те, кто помогли:"
+
+#. ID 72, Page 1, Line 14, Pos (23,5)
+msgid "Olm/jovana"
+msgstr ""
+
+#. ID 72, Page 1, Line 15, Pos (23,5)
+msgid "Sakura"
+msgstr ""
+
+#. ID 72, Page 1, Line 16, Pos (23,5)
+msgid "Nulsdodage"
+msgstr ""
+
+#. ID 72, Page 1, Line 17, Pos (23,5)
+msgid "Question Mark/Q.Mark"
+msgstr ""
+
+#. ID 72, Page 1, Line 18, Pos (23,5)
+msgid "John Ruiz"
+msgstr ""
+
+#. ID 72, Page 1, Line 19, Pos (23,5)
+msgid "OutlanderS3S/Ipomoea"
+msgstr ""
+
+#. ID 72, Page 1, Line 20, Pos (23,5)
+msgid "Milica"
+msgstr ""
+
+#. ID 72, Page 1, Line 21, Pos (23,5)
+msgid "Rindre"
+msgstr ""
+
+#. ID 72, Page 1, Line 22, Pos (23,5)
+msgid "Jojogape"
+msgstr ""
+
+#. ID 72, Page 1, Line 23, Pos (23,5)
+msgid "Rurima"
+msgstr ""
+
+#. ID 72, Page 1, Line 24, Pos (23,5)
+msgid "EBroxas72/Gaby Mitchell"
+msgstr ""
+
+#. ID 72, Page 1, Line 25, Pos (23,5)
+msgid "Sniperbob"
+msgstr ""
+
+#. ID 72, Page 1, Line 26, Pos (23,5)
+msgid "gummy"
+msgstr ""
+
+#. ID 72, Page 1, Line 27, Pos (23,5)
+msgid "Hashtag_Underscore"
+msgstr ""
+
+#. ID 72, Page 1, Line 28, Pos (23,5)
+msgid "Stylzm"
+msgstr ""
+
+#. ID 72, Page 1, Line 29, Pos (23,5)
+msgid "Laeaurra Flamehawk"
+msgstr ""
+
+#. ID 72, Page 1, Line 30, Pos (23,5)
+msgid "maple/lumiscosity"
+msgstr ""
+
+#. ID 72, Page 1, Line 31, Pos (23,5)
+msgid "Forest"
+msgstr ""
+
+#. ID 72, Page 1, Line 32, Pos (23,5)
+msgid "shirleycrow"
+msgstr ""
+
+#. ID 72, Page 1, Line 33, Pos (23,5)
+msgid "ZLD1"
+msgstr ""
+
+#. ID 72, Page 1, Line 34, Pos (23,5)
+msgid "Lattex"
+msgstr ""
+
+#. ID 72, Page 1, Line 35, Pos (23,5)
+msgid "Former members and contributors:"
+msgstr "Бывшие участники и помощники:"
+
+#. ID 72, Page 1, Line 36, Pos (23,5)
+msgid "FD/patbytes"
+msgstr ""
+
+#. ID 72, Page 1, Line 37, Pos (23,5)
+msgid "001247"
+msgstr ""
+
+#. ID 72, Page 1, Line 38, Pos (23,5)
+msgid ""
+"These credits will be updated whenever\n"
+"a new member of the team is added."
+msgstr ""
+"Эти титры будут обновлены, когда в команде\n"
+"появится кто-либо новый."
+
+#. ID 72, Page 1, Line 40, Pos (23,5)
+msgid ""
+"(See devlist.txt in the [Documents] folder \n"
+"for contact info for these creators,\n"
+"and see usage.txt for the sources for some of the\n"
+"sound effects/tracks/images)"
+msgstr ""
+"(Проверьте devlist.txt в папке [Documents], \n"
+"чтобы узнать, как связаться с разработчиками,\n"
+"а так-же проверьте usage.txt, чтобы узнать об \n"
+"источниках некоторых звуков/музыки/картинок)"
+
+#. ID 72, Page 1, Line 44, Pos (23,5)
+msgid "Thanks for playing!"
+msgstr "Спасибо за игру!"
+
+#. ID 75, Page 1, Line 1, Pos (19,4)
+#. Contains choice at line 2 (2 options)
+msgid "unlock all wallpapers?"
+msgstr "разблокировать все обои?"
+
+#. ID 77, Page 1, Line 1, Pos (8,4)
+msgid ""
+"HEY\\!\n"
+"IM A DOOR\\!\n"
+"JUST SO YOU KNOW\\!\n"
+"WE SHOULD HAVE ADDED A WAY TO GET MONEY HERE"
+msgstr ""
+"ЙО\\!\n"
+"Я ДВЕРЬ\\!\n"
+"ЕСЛИ ИНТЕРЕСНО\\!\n"
+"НАМ НУЖНО БЫЛО КАК-ТО СДЕЛАТЬ ВЫДАЧУ ДЕНЕГ ЗДЕСЬ"
+
+#. ID 77, Page 1, Line 5, Pos (8,4)
+msgid "A LONG TIME AGO"
+msgstr "ДАВНЫМ ДАВНО"
+
+#. ID 77, Page 1, Line 6, Pos (8,4)
+#. Contains choice at line 2 (2 options)
+msgid "SO HERE YOU GO"
+msgstr "ТЕПЕРЬ СТУПАЙ"
+
+#. ID 77, Page 1, Line 7, Pos (8,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Fo' sho'\n"
+"No"
+msgstr ""
+"Ага\n"
+"Не"
+
+#. ID 77, Page 1, Line 11, Pos (8,4)
+msgid "\\$\\|\\^"
+msgstr "\\$\\|\\^"
+
+#. ID 77, Page 1, Line 15, Pos (8,4)
+msgid "OH..."
+msgstr "ОУ..."
+
+#. ID 78, Page 1, Line 1, Pos (26,4)
+msgid "menu unlock"
+msgstr "разблокировать меню"
+
+#. ID 78, Page 1, Line 2, Pos (26,4)
+#. Choice (4 options)
+msgid ""
+"menu 0\n"
+"menu 4\n"
+"menu 5\n"
+"menu 6"
+msgstr ""
+"меню 0\n"
+"меню 4\n"
+"меню 5\n"
+"меню 6"
+
+#. ID 79, Page 1, Line 2, Pos (28,4)
+#. Contains choice at line 2 (3 options)
+msgid "Music Room Data Management"
+msgstr "Работа с данными музыкальной комнаты"
+
+#. ID 79, Page 1, Line 3, Pos (28,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Modify data\n"
+"Toggle debug messages\n"
+"Exit"
+msgstr ""
+"Изменить данные\n"
+"Переключить сообщения отладки\n"
+"Выход"
+
+#. ID 79, Page 1, Line 6, Pos (28,4)
+#. Choice (4 options)
+msgid ""
+"Unlock specific BGM\n"
+"Unlock all\n"
+"Lock all\n"
+"Back"
+msgstr ""
+"Разблокировать конкретный саундтрек\n"
+"Разблокировать все\n"
+"Заблокировать все\n"
+"Назад"
+
+#. ID 79, Page 1, Line 9, Pos (28,4)
+msgid "BGM ID: (1-1400)"
+msgstr "ID Саундтрека: (1-1400)"
+
+#. ID 79, Page 1, Line 12, Pos (28,4)
+#. ID 79, Page 1, Line 17, Pos (28,4)
+msgid "The value needs to be in the range of 1-1400!"
+msgstr "Значение должно быть в пределах от 1 до 1400!"
+
+#. ID 79, Page 1, Line 22, Pos (28,4)
+msgid "Variation: (1-8)"
+msgstr "Вариант: (1-8)"
+
+#. ID 79, Page 1, Line 25, Pos (28,4)
+#. ID 79, Page 1, Line 30, Pos (28,4)
+msgid "The value needs to be in the range of 1-8!"
+msgstr "Значение должно быть от 1 до 8!"
+
+#. ID 79, Page 1, Line 39, Pos (28,4)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 54, Pos (28,4)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#. ID 79, Page 1, Line 76, Pos (28,4)
+msgid "BGM Unlock debug messages are now ON."
+msgstr "Сообщения о разблокировке саундтреков включены."
+
+#. ID 79, Page 1, Line 79, Pos (28,4)
+msgid "BGM Unlock debug messages are now OFF."
+msgstr "Сообщения о разблокировке саундтреков отключены."
+
+#. ID 85, Page 1, Line 1, Pos (30,4)
+#. Contains choice at line 2 (2 options)
+msgid "EffectWipe/GiveEffects testing"
+msgstr "Тестирование выдачи/стирания эффектов"
+
+#. ID 85, Page 1, Line 2, Pos (30,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"EffectWipe\n"
+"GiveEffects"
+msgstr ""
+"Стереть\n"
+"Выдать"
