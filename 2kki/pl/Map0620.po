@@ -91,10 +91,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v: Track Selection\n"
-"\\>Z       : Play Track・Switch Variant\n"
-"\\>X       : Go to Menu\n"
-"\\>Shift   : View Track Info・Register"
+"\\>$s$t$u$v: Wybór Utworu\n"
+"\\>Z       : Odtwórz・Zmień Wariant\n"
+"\\>X       : Idź Do Menu\n"
+"\\>Shift   : Wyświetl Info・Rejestruj"
 
 #. ID 1, Page 1, Line 1823, Pos (19,14)
 msgid ""
@@ -103,10 +103,10 @@ msgid ""
 "\\>・旧SRへ切替\n"
 "\\>・操作ガイド表示"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [1/3]\n"
-"\\>・Return to PC Screen\n"
-"\\>・Switch to Old Sound Room\n"
-"\\>・Display Instructions"
+"\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [1/3]\n"
+"\\>・Powróć Do Ekranu PC\n"
+"\\>・Przejdź Do Starego Sound Room\n"
+"\\>・Wyświetl Instrukcje"
 
 #. ID 1, Page 1, Line 1829, Pos (19,14)
 msgid ""
@@ -115,10 +115,10 @@ msgid ""
 "\\>・旧SRへ切替\\_/\\_SREDの閲覧\n"
 "\\>・操作ガイド表示"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [1/3]\n"
-"\\>・Return to PC Screen\n"
-"\\>・Switch to Old Sound Room\\_/\\_Sound Room ED\n"
-"\\>・Display Instructions"
+"\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [1/3]\n"
+"\\>・Powróć Do Ekranu PC\n"
+"\\>・Przejdź Do Starego Sound Room\\_/\\_Sound Room ED\n"
+"\\>・Wyświetl Instrukcje"
 
 #. ID 1, Page 1, Line 1841, Pos (19,14)
 msgid ""
@@ -127,10 +127,10 @@ msgid ""
 "\\>・自動曲送りの設定\n"
 "\\>・演奏を止める"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [2/3]\n"
-"\\>・Change Play Mode\n"
-"\\>・Autoplay Settings\n"
-"\\>・Stop Current Track"
+"\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [2/3]\n"
+"\\>・Zmień Tryb Odtwarzania\n"
+"\\>・Ustawienia Autoodtwarzania\n"
+"\\>・Zatrzymaj Utwór"
 
 #. ID 1, Page 1, Line 1852, Pos (19,14)
 msgid ""
@@ -139,10 +139,10 @@ msgid ""
 "\\>・メモリーの交換\\_/\\_全消去\n"
 "\\>・詳細設定の変更"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [3/3]\n"
-"\\>・Listen and Register Tracks\n"
-"\\>・Playlist Swap\\_/\\_Remove All\n"
-"\\>・Advanced Settings"
+"\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [3/3]\n"
+"\\>・Słuchaj i Rejestruj Utwory\n"
+"\\>・Zmiana Playlisty\\_/\\_Usuń Wszystkie\n"
+"\\>・Zaawansowane Opcje"
 
 #. ID 1, Page 1, Line 1859, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -150,7 +150,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "サウンドサーチ"
-msgstr "Track Search"
+msgstr "Szukaj Utworu"
 
 #. ID 1, Page 1, Line 1862, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -158,7 +158,7 @@ msgstr "Track Search"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "未解放箇所を探す"
-msgstr "Locked Track Search"
+msgstr "Zamknięte Szukanie Utworu"
 
 #. ID 1, Page 1, Line 1865, Pos (19,14)
 msgid ""
@@ -167,10 +167,10 @@ msgid ""
 "\\>・カーソルジャンプ\n"
 "\\>・詳細設定の変更"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Available Menu Options [3/3]\n"
+"\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [3/3]\n"
 "\\>・\\N[1]\n"
-"\\>・Set Cursor Position\n"
-"\\>・Advanced Settings"
+"\\>・Ustaw Pozycje Kursora\n"
+"\\>・Zaawansowane Opcje"
 
 #. ID 1, Page 1, Line 1878, Pos (19,14)
 msgid ""
@@ -179,7 +179,7 @@ msgid ""
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
 msgstr ""
-"\\>\\C[10]■ \\C[0]How to Add Tracks to Playlist\n"
+"\\>\\C[10]■ \\C[0]Jak Dodać Utwory Do Playlisy\n"
 "\\>\n"
 "\\>曲未登録欄でZ\\_>\\_曲＆演出No.を入力 or\n"
 "\\>メニュー\\_>\\_高度な機能\\_>\\_演奏可能曲を登録"
@@ -190,9 +190,9 @@ msgid ""
 "\\>\n"
 "\\>Shiftダイアログから選択"
 msgstr ""
-"\\>\\C[10]■ \\C[0]How to Add Tracks to Playlist\n"
+"\\>\\C[10]■ \\C[0]Jak Dodać Utwory Do Playlisy\n"
 "\\>\n"
-"\\>Select from shift dialog"
+"\\>Wybierz z Opcji Shift"
 
 #. ID 1, Page 1, Line 1910, Pos (19,14)
 #. Choice (2 options)
@@ -200,8 +200,8 @@ msgid ""
 "\\>ヒントを見る\n"
 "\\>ギブアップ"
 msgstr ""
-"\\>Show Hint\n"
-"\\>Give Up"
+"\\>Pokaż Poradę\n"
+"\\>Poddaj Się"
 
 #. ID 1, Page 1, Line 1925, Pos (19,14)
 msgid ""
@@ -231,10 +231,10 @@ msgid ""
 "\\>\n"
 "\\>＞指定した条件で自動曲送りする機能です"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Autoplay\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Autoodtwarzanie\\C[0]\n"
 "\\>\n"
-"\\>> This function plays tracks automatically\n"
-"\\>  with specified conditions"
+"\\>> Ta funkcja automatycznie gra utwory\n"
+"\\>  pod określonymi warunkami"
 
 #. ID 1, Page 1, Line 1995, Pos (19,14)
 msgid ""
@@ -282,7 +282,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]自動曲送り\\C[0]\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Autoplay\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Autoodtwarzanie\\C[0]\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2038, Pos (19,14)
@@ -291,8 +291,8 @@ msgid ""
 "\\>自動曲送りを\\N[6]する\n"
 "\\>詳細設定"
 msgstr ""
-"\\>\\N[6] Autoplay\n"
-"\\>Advanced Settings"
+"\\>\\N[6] Autoodtwarzanie\n"
+"\\>Zaawansowane Opcje"
 
 #. ID 1, Page 1, Line 2055, Pos (19,14)
 msgid ""
@@ -300,39 +300,39 @@ msgid ""
 "\\>\n"
 "\\>＞自動曲送りを\\N[6]しました\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Autoplay\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Autoodtwarzanie\\C[0]\n"
 "\\>\n"
-"\\>> Autoplay \\N[6]\\<\\.\\.\\^"
+"\\>> Autoodtwarzanie \\N[6]\\<\\.\\.\\^"
 
 #. ID 1, Page 1, Line 2105, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ノーマル"
-msgstr "Normal"
+msgstr "Normalne"
 
 #. ID 1, Page 1, Line 2109, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リバース"
-msgstr "Reverse"
+msgstr "Odwrotne"
 
 #. ID 1, Page 1, Line 2113, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ランダム"
-msgstr "Random"
+msgstr "Losowe"
 
 #. ID 1, Page 1, Line 2117, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "時間経過"
-msgstr "Time Elapsed"
+msgstr "Czas"
 
 #. ID 1, Page 1, Line 2120, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "ループ回数"
-msgstr "Loop Count"
+msgstr "Ilość Pętli"
 
 #. ID 1, Page 1, Line 2136, Pos (19,14)
 #. Contains choice at line 2 (3 options)
@@ -341,7 +341,7 @@ msgstr "Loop Count"
 #. ID 1, Page 1, Line 2176, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]自動曲送りの設定\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Autoplay Settings\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Ustawienia Autoodtwarzania\\C[0]"
 
 #. ID 1, Page 1, Line 2137, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -350,9 +350,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[119]秒\\C[0]経過"
 msgstr ""
-"\\>Track Order     : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Play Time       : \\C[4]\\V[119]s\\C[0] in"
+"\\>Kolejność Utw.  : \\C[4]\\N[6]\\C[0]\n"
+"\\>Warunek         : \\C[4]\\N[1]\\C[0]\n"
+"\\>Czas            : \\C[4]\\V[119]s\\C[0] in"
 
 #. ID 1, Page 1, Line 2154, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -361,9 +361,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>時間　　　：\\C[4]\\V[593]分\\V[594]秒\\C[0]経過"
 msgstr ""
-"\\>Track Order         : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Play Time           : \\C[4]\\V[593]m \\V[594]s\\C[0] in"
+"\\>Kolejność Utw.  : \\C[4]\\N[6]\\C[0]\n"
+"\\>Warunek         : \\C[4]\\N[1]\\C[0]\n"
+"\\>Czas            : \\C[4]\\V[593]m \\V[594]s\\C[0] in"
 
 #. ID 1, Page 1, Line 2177, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -372,9 +372,9 @@ msgid ""
 "\\>切替条件　：\\C[4]\\N[1]\\C[0]\n"
 "\\>ループ回数：\\C[4]\\V[593]回\\C[0]"
 msgstr ""
-"\\>Track Order         : \\C[4]\\N[6]\\C[0]\n"
-"\\>Elapse Condition: \\C[4]\\N[1]\\C[0]\n"
-"\\>Loop Count          : \\C[4]\\V[593] Times\\C[0]"
+"\\>Kolejność Utw.  : \\C[4]\\N[6]\\C[0]\n"
+"\\>Warunek         : \\C[4]\\N[1]\\C[0]\n"
+"\\>Ilość Pętli     : \\C[4]\\V[593] Times\\C[0]"
 
 #. ID 1, Page 1, Line 2201, Pos (19,14)
 msgid ""
@@ -382,14 +382,14 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の選曲方法を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Track Order\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0]）\n"
+"\\>\\C[10]■ \\C[6]Ustaw Kolejnoiść Odtw.\\C[0] (Bierząco: \\C[4]\\N[6]\\C[0]）\n"
 "\\>\n"
-"\\>> You can change the order tracks play in"
+"\\>> Możesz zmienić kolejność odtw. utworów"
 
 #. ID 1, Page 1, Line 2204, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]選曲タイプの設定\\C[0]（現在：\\C[4]\\N[6]\\C[0]）"
-msgstr "\\>\\C[10]■ \\C[6]Set Track Order\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0]）"
+msgstr "\\>\\C[10]■ \\C[6]Ustaw Kolejność\\C[0] (Bierząco: \\C[4]\\N[6]\\C[0]）"
 
 #. ID 1, Page 1, Line 2205, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -398,9 +398,9 @@ msgid ""
 "\\>・リバース\n"
 "\\>・ランダム"
 msgstr ""
-"\\>・Normal\n"
-"\\>・Reverse\n"
-"\\>・Random"
+"\\>・Normale\n"
+"\\>・Odwrotne\n"
+"\\>・Losowe"
 
 #. ID 1, Page 1, Line 2222, Pos (19,14)
 msgid ""
@@ -408,9 +408,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲送り時の切替条件を変えられます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Elapse Condition\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Warunek\\C[0] (Bierząco: \\C[4]\\N[1]\\C[0])\n"
 "\\>\n"
-"\\>> You can change when the next track plays"
+"\\>> Możesz zmienić kiedy zmienia się utw."
 
 #. ID 1, Page 1, Line 2225, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -418,7 +418,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]切替条件の設定\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Elapse Condition\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Warunek\\C[0] (Bierząco: \\C[4]\\N[1]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2227, Pos (19,14)
@@ -427,8 +427,8 @@ msgid ""
 "\\>・時間経過\n"
 "\\>・ループ回数"
 msgstr ""
-"\\>・Time Elapsed\n"
-"\\>・Loop Count"
+"\\>・Czas\n"
+"\\>・Ilość Petli"
 
 #. ID 1, Page 1, Line 2248, Pos (19,14)
 msgid ""
@@ -437,10 +437,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Czasu\\C[0]\n"
 "\\>\n"
-"\\>> How long should each track play for? (1~9999)\n"
-"\\>  (Current Setting: \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>> Jak długo powinien grać każdy u.? (1~9999)\n"
+"\\>  (Bierząco: \\C[4]\\V[119]s\\C[0]  0 aby powrócić)"
 
 #. ID 1, Page 1, Line 2252, Pos (19,14)
 msgid ""
@@ -448,9 +448,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Czasu\\C[0]\n"
 "\\>\n"
-"\\>  (Current Setting: \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>  (Bierząco: \\C[4]\\V[119]s\\C[0]  0 aby powrócić)"
 
 #. ID 1, Page 1, Line 2267, Pos (19,14)
 msgid ""
@@ -459,10 +459,10 @@ msgid ""
 "\\>＞何秒に設定しますか？（1～9999）\n"
 "\\>　（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Czasu\\C[0]\n"
 "\\>\n"
-"\\>> How long should each track play for? (1~9999)\n"
-"\\>> (Current Setting: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>> Jak długo powinien grać każdy u.? (1~9999)\n"
+"\\>> (Bierząco: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 aby powrócić)"
 
 #. ID 1, Page 1, Line 2271, Pos (19,14)
 msgid ""
@@ -470,9 +470,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[592]分\\V[593]秒\\C[0] = \\C[4]\\V[119]秒\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Time Elapsed Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Czasu\\C[0]\n"
 "\\>\n"
-"\\>> (Current Setting: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 to leave unchanged)"
+"\\>> (Bierząco: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 aby powrócić)"
 
 #. ID 1, Page 1, Line 2288, Pos (19,14)
 msgid ""
@@ -481,10 +481,10 @@ msgid ""
 "\\>＞何回に設定しますか？（1～9）\n"
 "\\>　（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Loop Count Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Pętli\\C[0]\n"
 "\\>\n"
-"\\>> How many times should each track loop? (1~9)\n"
-"\\>  (Current Setting: \\C[4]\\V[119] Times\\C[0]  0 to leave unchanged)"
+"\\>> Ile razy utwór ma się zapętlać? (1~9)\n"
+"\\>  (Bierząco: \\C[4]\\V[119] Times\\C[0]  0 aby powrócić)"
 
 #. ID 1, Page 1, Line 2292, Pos (19,14)
 msgid ""
@@ -492,9 +492,9 @@ msgid ""
 "\\>\n"
 "\\>＞（現在：\\C[4]\\V[119]回\\C[0]  0で現状維持）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Loop Count Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Pętli\\C[0]\n"
 "\\>\n"
-"\\>  (Current Setting: \\C[4]\\V[119] Times\\C[0]  0 to leave unchanged)"
+"\\>  (Bierząco: \\C[4]\\V[119] Times\\C[0]  0 aby powrócić)"
 
 #. ID 1, Page 1, Line 2318, Pos (19,14)
 msgid ""
@@ -502,9 +502,9 @@ msgid ""
 "\\>\n"
 "\\>＞設定を変更しました\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Autoplay Settings\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustawienia Autood.\\C[0]\n"
 "\\>\n"
-"\\>> Settings have been updated\\<\\.\\.\\^"
+"\\>> Ustawienia zostały zmienione\\<\\.\\.\\^"
 
 #. ID 1, Page 1, Line 2443, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -512,7 +512,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "なし"
-msgstr "Off"
+msgstr "Wyłącz"
 
 #. ID 1, Page 1, Line 2446, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -520,14 +520,14 @@ msgstr "Off"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "あり"
-msgstr "On"
+msgstr "Włącz"
 
 #. ID 1, Page 1, Line 2449, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 #. ID 1, Page 1, Line 2552, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]オプション\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Options\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Opcje\\C[0]"
 
 #. ID 1, Page 1, Line 2450, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -536,9 +536,9 @@ msgid ""
 "\\>操作ラグの時間：\\C[4]\\V[109]\\C[0]　　　 （標準：5）\n"
 "\\>次の項目へ"
 msgstr ""
-"\\>Sound Effects: \\C[4]\\N[6]\\C[0]　　(Default: On)\n"
-"\\>Delay Time   : \\C[4]\\V[109]\\C[0]　　　 (Default: 5)\n"
-"\\>Next Page"
+"\\>Efekty dźwię.: \\C[4]\\N[6]\\C[0]　　(Default: On)\n"
+"\\>Opóźnienie   : \\C[4]\\V[109]\\C[0]　　　 (Default: 5)\n"
+"\\>Następna Str."
 
 #. ID 1, Page 1, Line 2466, Pos (19,14)
 msgid ""
@@ -546,9 +546,9 @@ msgid ""
 "\\>\n"
 "\\>＞操作音の有無を選べます"
 msgstr ""
-"\\>\\C[10]■\\C[6]Sound Effects\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■\\C[6]Efekty Dźwiękowe\\C[0] (Bierząco: \\C[4]\\N[6]\\C[0])\n"
 "\\>\n"
-"\\>> You can choose whether to enable sound effects"
+"\\>> Możesz włączyć efekty dźwiękowe"
 
 #. ID 1, Page 1, Line 2469, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -556,7 +556,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]操作時の効果音\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■\\C[6]Sound Effects\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■\\C[6]Efekty Dźwiękowe\\C[0] (Bierząco: \\C[4]\\N[6]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2471, Pos (19,14)
@@ -565,8 +565,8 @@ msgid ""
 "\\>・\\C[\\V[593]]あり\\C[0]（標準）\n"
 "\\>・\\C[\\V[592]]なし\\C[0]"
 msgstr ""
-"\\>・\\C[\\V[593]]On\\C[0] (Default)\n"
-"\\>・\\C[\\V[592]]Off\\C[0]"
+"\\>・\\C[\\V[593]]Włącz\\C[0] (Domyślnie)\n"
+"\\>・\\C[\\V[592]]Wyłącz\\C[0]"
 
 #. ID 1, Page 1, Line 2494, Pos (19,14)
 msgid ""
@@ -587,13 +587,13 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "てきぱき"
-msgstr "Fast"
+msgstr "Szybkie"
 
 #. ID 1, Page 1, Line 2542, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ゆっくり"
-msgstr "Slow"
+msgstr "Wolne"
 
 #. ID 1, Page 1, Line 2553, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -602,9 +602,9 @@ msgid ""
 "\\>未解放の通知　：\\C[4]\\N[1]\\C[0]　　（標準：なし）\n"
 "\\>前の項目へ"
 msgstr ""
-"\\>Transition Speed   : \\C[4]\\N[6]\\C[0] (Default: Slow)\n"
-"\\>Locked Notification: \\C[4]\\N[1]\\C[0]  (Default: Off)\n"
-"\\>Previous Page"
+"\\>Prędkość Przejść   : \\C[4]\\N[6]\\C[0] (Default: Slow)\n"
+"\\>Powiadomienia      : \\C[4]\\N[1]\\C[0]  (Default: Off)\n"
+"\\>Poprzednia Str."
 
 #. ID 1, Page 1, Line 2572, Pos (19,14)
 msgid ""
@@ -612,9 +612,9 @@ msgid ""
 "\\>\n"
 "\\>＞演出変更時の切り替え方式を選べます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Transition Speed\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Prędkość Przejść\\C[0] (Bierząco: \\C[4]\\N[6]\\C[0])\n"
 "\\>\n"
-"\\>> You can choose the track/variant transition speed"
+"\\>> Możesz wybrać prędkość przejść utworów"
 
 #. ID 1, Page 1, Line 2575, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -622,7 +622,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]切り替え方式\\C[0]（現在：\\C[4]\\N[6]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Transition Speed\\C[0] (Current Setting: \\C[4]\\N[6]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Prędkość Przejść\\C[0] (Bierząco: \\C[4]\\N[6]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2577, Pos (19,14)
@@ -631,8 +631,8 @@ msgid ""
 "\\>・\\C[\\V[592]]ゆっくり\\C[0]（標準）\n"
 "\\>・\\C[\\V[593]]てきぱき\\C[0]"
 msgstr ""
-"\\>・\\C[\\V[592]]Slow\\C[0] (Default)\n"
-"\\>・\\C[\\V[593]]Fast\\C[0]"
+"\\>・\\C[\\V[592]]Wolna\\C[0] (Domyślnie)\n"
+"\\>・\\C[\\V[593]]Szybka\\C[0]"
 
 #. ID 1, Page 1, Line 2614, Pos (19,14)
 msgid ""
@@ -641,10 +641,10 @@ msgid ""
 "\\>＞曲リストの未解放箇所を選択した時\n"
 "\\>　どう処理するか選べます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Notification\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Powiadomienia\\C[0] (Bierząco: \\C[4]\\N[1]\\C[0])\n"
 "\\>\n"
-"\\>> You can choose what happens when\n"
-"\\>  a locked track/variant is selected"
+"\\>> Możesz wybrać co się dzieje gdy\n"
+"\\>  zablokowany utwór jest wybrany"
 
 #. ID 1, Page 1, Line 2618, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -652,7 +652,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]未解放の通知\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Notification\\C[0] (Current Setting: \\C[4]\\N[1]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Powiadomienia\\C[0] (Bierząco: \\C[4]\\N[1]\\C[0])\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2620, Pos (19,14)
@@ -661,8 +661,8 @@ msgid ""
 "\\>・\\C[\\V[592]]なし\\C[0]：飛ばして解放演出を流します（標準）\n"
 "\\>・\\C[\\V[593]]あり\\C[0]：演奏を止めてお知らせします"
 msgstr ""
-"\\>・\\C[\\V[592]]Off\\C[0]: Skip to Next Unlocked Track/Variant (Default)\n"
-"\\>・\\C[\\V[593]]On\\C[0]: Stop Playback and Display Notification"
+"\\>・\\C[\\V[592]]Off\\C[0]: Pomiń do następnego utwotu (Domyślnie)\n"
+"\\>・\\C[\\V[593]]On\\C[0]: Zakończ odtwarzanie"
 
 #. ID 1, Page 1, Line 2665, Pos (19,14)
 msgid ""
@@ -670,9 +670,9 @@ msgid ""
 "\\>\n"
 "\\>＞設定を変更しました\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Options\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Opcje\\C[0]\n"
 "\\>\n"
-"\\>> Settings have been updated\\<\\.\\.\\^"
+"\\>> Ustawienia zostału zmienione\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 118, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -758,7 +758,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
 "\\>\n"
-"\\>> This variant is locked"
+"\\>> Ten wariant jest zablokowany"
 
 #. ID 1, Page 2, Line 597, Pos (19,14)
 msgid ""
@@ -769,8 +769,8 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Track Variant Switch\\C[0]\n"
 "\\>\n"
-"\\>> There is one variant\n"
-"\\>  (there are no other variants)"
+"\\>> Jest 1 wariant\n"
+"\\>  (nia ma innych)"
 
 #. ID 1, Page 2, Line 617, Pos (19,14)
 msgid ""
