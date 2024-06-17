@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 4, Line 19
+msgid ""
+"\n"
+"                   * Soulfire *"
+msgstr ""
+"\n"
+"                   * 魂の火 *"
+
+#. ID 4, Line 48
+msgid ""
+"\n"
+"                     * Umbra *"
+msgstr ""
+"\n"
+"                     * 陰 *"
+
+#. ID 4, Line 77
+msgid ""
+"\n"
+"                   * Rodentia *"
+msgstr ""
+"\n"
+"                   * 齧歯類 *"
+
+#. ID 4, Line 106
+msgid ""
+"\n"
+"                    * Lumen *"
+msgstr ""
+"\n"
+"                    * 陽 *"
+
+#. ID 4, Line 135
+msgid ""
+"\n"
+"                    * Youth *"
+msgstr ""
+"\n"
+"                    * 若者 *"
+
+#. ID 4, Line 162
+msgid ""
+"\n"
+"                   * Spectral *"
+msgstr ""
+"\n"
+"                   * 霊体 *"
+
+#. ID 4, Line 189
+msgid ""
+"\n"
+"                    * Climate *"
+msgstr ""
+"\n"
+"                    * 気象 *"
+
+#. ID 4, Line 216
+msgid ""
+"\n"
+"                    * Kalimba *"
+msgstr ""
+"\n"
+"                    * カリンバ *"
+
+#. ID 21, Line 12
+#. ID 21, Line 15
+#. ID 21, Line 34
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Line 11
+msgid ""
+"\n"
+"               * Menu theme: Office *"
+msgstr ""
+"\n"
+"           * メニュータイプ: オフィス *"
+
+#. ID 28, Line 27
+msgid ""
+"\n"
+"               * Menu theme: Sun *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 太陽 *"
+
+#. ID 28, Line 45
+msgid ""
+"\n"
+"               * Menu theme: Dusk *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 夕暮 *"
+
+#. ID 28, Line 61
+msgid ""
+"\n"
+"           * Menu theme: Vague Memory *"
+msgstr ""
+"\n"
+"          * メニュータイプ: 朧気な記憶 *"
+
+#. ID 28, Line 77
+msgid ""
+"\n"
+"              * Menu theme: Squids *"
+msgstr ""
+"\n"
+"             * メニュータイプ: イカ *"
+
+#. ID 28, Line 93
+msgid ""
+"\n"
+"              * Menu theme: Willow *"
+msgstr ""
+"\n"
+"              * メニュータイプ: 柳 *"
+
+#. ID 28, Line 109
+msgid ""
+"\n"
+"           * Menu theme: Vibrant Blue *"
+msgstr ""
+"\n"
+"          * メニュータイプ: 鮮やかな青 *"
+
+#. ID 28, Line 125
+msgid ""
+"\n"
+"          * Menu theme: Glitched Static *"
+msgstr ""
+"\n"
+"          * メニュータイプ: 乱れた静寂 *"
+
+#. ID 28, Line 141
+msgid ""
+"\n"
+"             * Menu theme: Ammolites *"
+msgstr ""
+"\n"
+"         * メニュータイプ: アンモライト *"
+
+#. ID 28, Line 157
+msgid ""
+"\n"
+"            * Menu theme: Box Office *"
+msgstr ""
+"\n"
+"        * メニュータイプ: チケット売り場 *"
+
+#. ID 28, Line 173
+msgid ""
+"\n"
+"                * Menu theme: Mural *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 壁画 *"
+
+#. ID 28, Line 189
+msgid ""
+"\n"
+"            * Menu theme: Neon Mural *"
+msgstr ""
+"\n"
+"          * メニュータイプ: ネオン壁画 *"
+
+#. ID 28, Line 205
+msgid ""
+"\n"
+"             * Menu theme: Altered *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 変貌 *"
+
+#. ID 28, Line 221
+msgid ""
+"\n"
+"              * Menu theme: Glowing *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 発光 *"
+
+#. ID 28, Line 237
+msgid ""
+"\n"
+"              * Menu theme: Sunset *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 日没 *"
+
+#. ID 28, Line 253
+msgid ""
+"\n"
+"             * Menu theme: Celestial *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 天体 *"
+
+#. ID 28, Line 269
+msgid ""
+"\n"
+"               * Menu theme: Sweet *"
+msgstr ""
+"\n"
+"           * メニュータイプ: スイーツ *"
+
+#. ID 28, Line 285
+msgid ""
+"\n"
+"          * Menu theme: Blueing Plastic *"
+msgstr ""
+"\n"
+"      * メニュータイプ: 青染めプラスチック *"
+
+#. ID 28, Line 301
+msgid ""
+"\n"
+"             * Menu theme: Voidbound *"
+msgstr ""
+"\n"
+"            * メニュータイプ: 空虚 *"
+
+#. ID 28, Line 317
+msgid ""
+"\n"
+"             * Menu theme: Handheld *"
+msgstr ""
+"\n"
+"        * メニュータイプ: 携帯ゲーム機 *"
+
+#. ID 28, Line 333
+msgid ""
+"\n"
+"             * Menu theme: Sidereal *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 恒星 *"
+
+#. ID 28, Line 349
+msgid ""
+"\n"
+"             * Menu theme: Golfer *"
+msgstr ""
+"\n"
+"          * メニュータイプ: ゴルファー *"
+
+#. ID 28, Line 365
+msgid ""
+"\n"
+"              * Menu theme: Virtual *"
+msgstr ""
+"\n"
+"          * メニュータイプ: バーチャル *"
+
+#. ID 28, Line 381
+msgid ""
+"\n"
+"              * Menu theme: Orchid *"
+msgstr ""
+"\n"
+"              * メニュータイプ: 蘭 *"
+
+#. ID 28, Line 397
+msgid ""
+"\n"
+"            * Menu theme: Streetlight *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 街灯 *"
+
+#. ID 28, Line 413
+msgid ""
+"\n"
+"              * Menu theme: Basalt *"
+msgstr ""
+"\n"
+"            * メニュータイプ: 玄武岩 *"
+
+#. ID 28, Line 429
+msgid ""
+"\n"
+"               * Menu theme: Metal *"
+msgstr ""
+"\n"
+"            * メニュータイプ: メタル *"
+
+#. ID 28, Line 445
+msgid ""
+"\n"
+"              * Menu theme: Charred *"
+msgstr ""
+"\n"
+"            * メニュータイプ: 黒焦げ *"
+
+#. ID 28, Line 461
+msgid ""
+"\n"
+"             * Menu theme: Chromatic *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 色彩 *"
+
+#. ID 28, Line 477
+msgid ""
+"\n"
+"             * Menu theme: Mossy Lab *"
+msgstr ""
+"\n"
+"        * メニュータイプ: 苔生した実験室 *"

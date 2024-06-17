@@ -1,20 +1,19 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: GAME_NAME 1.0\n"
+"Project-Id-Version: Someday\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: YOUR NAME <mail@your.address>\n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 2, Page 1, Line 7, Pos (11,4)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "Save\n"
 "Play ZApNeF\n"
@@ -23,7 +22,7 @@ msgid ""
 msgstr ""
 "Сохранить\n"
 "Сыграть в ЗАпНеФ\n"
-"Options\n"
+"Настройки\n"
 "Выключить ПК"
 
 #. ID 2, Page 1, Line 115, Pos (11,4)
@@ -34,17 +33,16 @@ msgstr "Ицуки"
 
 #. ID 2, Page 1, Line 233, Pos (11,4)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "Cache setting\n"
 "Crystal display mode\n"
 "View game data\n"
 "Close"
 msgstr ""
-"Настройки\n"
-"Crystal display mode\n"
-"View game data\n"
-"Close"
+"Кеширование\n"
+"Отображение кристалов\n"
+"Просмотр данных об игре\n"
+"Закрыть"
 
 #. ID 2, Page 1, Line 236, Pos (11,4)
 msgid ""
@@ -53,7 +51,7 @@ msgid ""
 "Disable this option if save progress takes longer\n"
 "than usual."
 msgstr ""
-"\\> Предварительное кеширование (Сейчас: ВКЛ)\\<\n"
+"\\> Кеширование (Сейчас: ВКЛ)\\<\n"
 "Загружать все Саундтреки и Спецэффекты в Кеш,\n"
 "пока вы загружаетесь из файла. Отключите это, \n"
 "если загрузка сохранения идёт слишком долго."
@@ -61,7 +59,7 @@ msgstr ""
 #. ID 2, Page 1, Line 240, Pos (11,4)
 #. Contains choice at line 2 (2 options)
 msgid "\\> Cache Load (Current : ON) \\<"
-msgstr "\\> Предварительное кеширование (Сейчас: ВКЛ)\\<"
+msgstr "\\> Кеширование (Сейчас: ВКЛ)\\<"
 
 #. ID 2, Page 1, Line 241, Pos (11,4)
 #. Choice (2 options, embedded in a message)
@@ -79,33 +77,32 @@ msgstr ""
 #. ID 2, Page 1, Line 271, Pos (11,4)
 #. ID 2, Page 1, Line 274, Pos (11,4)
 msgid " Current setting has been retained."
-msgstr "Настройка сохранена как есть."
+msgstr " Настройка сохранена как есть."
 
 #. ID 2, Page 1, Line 249, Pos (11,4)
 msgid " Cache Load has been disabled."
-msgstr " Предварительное Кеширование Отключено."
+msgstr " Кеширование Отключено."
 
 #. ID 2, Page 1, Line 258, Pos (11,4)
-#, fuzzy
 msgid ""
 "\\> Cache Load (Current : OFF)\\<\n"
 "Proceeds without loading cache.\n"
 "Enable this option if you experience slow down\n"
 "when entering certain maps."
 msgstr ""
-"\\> Предварительное кеширование (Сейчас: ВЫКЛ)\\<\n"
-"Играть не кешируя аудиофайлы.\n"
-"Если локации слишком долго загружаются, можете\n"
-"попробовать Включить эту функцию."
+"\\> Кеширование (Сейчас: ВЫКЛ)\\<\n"
+"Играть не кешируя файлы.\n"
+"Включите, если загрузка некоторых карт длится \n"
+"слишком долго."
 
 #. ID 2, Page 1, Line 262, Pos (11,4)
 #. Contains choice at line 2 (2 options)
 msgid "\\> Cache Load (Current : OFF)\\<"
-msgstr "\\> Предварительное кеширование (Сейчас: ВЫКЛ)\\<"
+msgstr "\\> Кеширование (Сейчас: ВЫКЛ)\\<"
 
 #. ID 2, Page 1, Line 267, Pos (11,4)
 msgid " Cache Load has been enabled."
-msgstr " Предварительное Кеширование Включено."
+msgstr " Кеширование Включено."
 
 #. ID 2, Page 1, Line 284, Pos (11,4)
 msgid ""
@@ -113,6 +110,9 @@ msgid ""
 "When collecting a crystal, you will see a short\n"
 "animation with a text Entry from Itsuki's blog."
 msgstr ""
+"Включён текст и анимации.\n"
+"При сборе кристаллов вы увидите небольшую\n"
+"видео-вставку и запись из блога Ицуки."
 
 #. ID 2, Page 1, Line 289, Pos (11,4)
 msgid ""
@@ -120,6 +120,9 @@ msgid ""
 "When collecting a crystal, you will see a text\n"
 "Entry from Itsuki's blog, but no pictures."
 msgstr ""
+"Только текст.\n"
+"При сборе кристаллов вы увидите только запись\n"
+"из блога Ицуки, без анимированной вставки."
 
 #. ID 2, Page 1, Line 297, Pos (11,4)
 msgid ""
@@ -127,6 +130,9 @@ msgid ""
 "When collecting a crystal, you will see a short\n"
 "picture animation, but no text explanation."
 msgstr ""
+"Только анимация.\n"
+"При сборе кристаллов вы увидите только анимацию, \n"
+"и никаких текстовых записей."
 
 #. ID 2, Page 1, Line 302, Pos (11,4)
 msgid ""
@@ -134,12 +140,16 @@ msgid ""
 "An error may have occurred.\n"
 "Restoring to default setting (both enabled)."
 msgstr ""
+"Без текста и анимации.\n"
+"Вероятно, произошла ошибка.\n"
+"Восстанавливаем настройки по умолчанию.\n"
+"(Текст и анимация включены)"
 
 #. ID 2, Page 1, Line 311, Pos (11,4)
 msgid ""
 "Please choose the option that you prefer to see\n"
 "for collecting crystals."
-msgstr ""
+msgstr "Выберите режим отображения при сборе кристаллов:"
 
 #. ID 2, Page 1, Line 313, Pos (11,4)
 #. Choice (4 options)
@@ -149,31 +159,42 @@ msgid ""
 "Text and animation\n"
 "Cancel"
 msgstr ""
+"Только текст\n"
+"Только анимация\n"
+"Текст и Анимация\n"
+"Отмена"
 
 #. ID 2, Page 1, Line 318, Pos (11,4)
 msgid ""
 "Only text will be displayed when collecting\n"
 "crystals now."
 msgstr ""
+"Теперь при сборе кристаллов будет отображаться\n"
+"только текст."
 
 #. ID 2, Page 1, Line 325, Pos (11,4)
 msgid ""
 "Only animation will be displayed when collecting\n"
 "crystals now."
 msgstr ""
+"Теперь при сборе кристаллов будет отображаться\n"
+"только анимация."
 
 #. ID 2, Page 1, Line 332, Pos (11,4)
 msgid ""
 "Text and animation will be displayed when\n"
 "collecting crystals now."
 msgstr ""
+"Теперь при сборе кристаллов будут отображаться\n"
+"и текст, и анимация."
 
 #. ID 2, Page 1, Line 336, Pos (11,4)
 msgid "Crystal display setting has been retained."
 msgstr ""
+"Настройки отображения при сборе кристаллов\n"
+"оставлены как есть."
 
 #. ID 2, Page 1, Line 345, Pos (11,4)
-#, fuzzy
 msgid ""
 "Effects: \\V[505]/24\n"
 "Feats: \\V[9]/\\V[513]\n"
@@ -182,7 +203,7 @@ msgid ""
 msgstr ""
 "Эффекты: \\V[505]/24\n"
 "Свершения: \\V[9]/\\V[513]\n"
-"Crystals: \\V[18]/7\n"
+"Кристалы: \\V[18]/7\n"
 "Прогресс сбора Саундтреков: \\V[0385]%"
 
 #. ID 3, Page 2, Line 56, Pos (7,6)

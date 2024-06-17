@@ -1,19 +1,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-CreatedBy: LcfTrans"
 
-#. ID 10, Page 1, Line 2, Pos (21,26)
+#. ID 3, Page 1, Line 2, Pos (14,15)
+#. ID 8, Page 1, Line 2, Pos (21,27)
 msgid "There are currently no maps created for this area."
 msgstr ""
 "Nu există hărți create pentru această\n"
 "zonă."
+
+#. ID 20, Page 1, Line 2, Pos (17,13)
+msgid ""
+"These maps are TEMPORARILY blocked because\n"
+"they are under major renovations.\n"
+"See you soon!"
+msgstr ""
+

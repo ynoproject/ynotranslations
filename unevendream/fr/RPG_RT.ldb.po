@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -32,55 +32,32 @@ msgctxt "actors.title"
 msgid "Convex"
 msgstr "Convexe"
 
-#. ID 2
-#. ID 3
-msgctxt "skills.name"
-msgid "Wake Up"
-msgstr "Se réveiller"
-
-#. ID 2
-msgctxt "skills.description"
-msgid "Return to the real world."
-msgstr "Retourner au monde réel."
+#. ID 4
+msgctxt "actors.name"
+msgid "Worlds"
+msgstr "Mondes"
 
 #. ID 4
+msgctxt "actors.title"
+msgid "Visited"
+msgstr "Visités"
+
+#. ID 2
 msgctxt "skills.name"
-msgid "Wake up!"
-msgstr "Se réveiller !"
+msgid "Pinch Cheek"
+msgstr "Se pincer la joue"
 
-#. ID 4
+#. ID 2
 msgctxt "skills.description"
-msgid "Rise and shine!"
-msgstr "Lève-toi et brille !"
-
-#. ID 5
-msgctxt "skills.name"
-msgid "Wake up?"
-msgstr "Se réveiller ?"
-
-#. ID 5
-msgctxt "skills.description"
-msgid "You're already awake!"
-msgstr "Tu es déjà réveillée !"
+msgid "Wake up from the dream world."
+msgstr "Réveille-toi depuis le monde des rêves."
 
 #. ID 6
-#. ID 8
 msgctxt "skills.name"
 msgid "How to Play"
 msgstr "Comment jouer"
 
 #. ID 6
-msgctxt "skills.description"
-msgid "Learn how to play the game!"
-msgstr "Apprends à jouer au jeu !"
-
-#. ID 7
-#. ID 9
-msgctxt "skills.name"
-msgid "Instructions"
-msgstr ""
-
-#. ID 7
 msgctxt "skills.description"
 msgid "View the game's instructions."
 msgstr "Lire les instructions du jeu."
@@ -158,7 +135,7 @@ msgstr "Tortue"
 #. ID 9
 msgctxt "items.description"
 msgid "Turn into a turtle that changes your size."
-msgstr "Transforme-toi en tortue qui change ta taille."
+msgstr "Transforme-toi en tortue qui change de taille."
 
 #. ID 10
 msgctxt "items.description"
@@ -195,7 +172,7 @@ msgstr "Cache-toi dans une boîte pour retourner au Nexus."
 #. ID 14
 msgctxt "items.description"
 msgid "Memories of moving."
-msgstr "Souvenirs de mouvemements."
+msgstr "Souvenirs de mouvements."
 
 #. ID 15
 #. ID 16
@@ -232,8 +209,8 @@ msgstr "Souvenirs d'occultisme."
 #. ID 19
 #. ID 20
 msgctxt "items.name"
-msgid "Hood"
-msgstr "Capuche"
+msgid "Hoodie"
+msgstr "Sweat à capuche"
 
 #. ID 19
 msgctxt "items.description"
@@ -278,14 +255,20 @@ msgid "Memories of intimidation."
 msgstr "Souvenirs d'intimidation."
 
 #. ID 25
-msgctxt "items.name"
-msgid "KuboItem13Dream"
-msgstr ""
-
 #. ID 26
 msgctxt "items.name"
-msgid "KuboItem13Real"
-msgstr ""
+msgid "Wither"
+msgstr "Fané"
+
+#. ID 25
+msgctxt "items.description"
+msgid "Shamble around like a zombie. "
+msgstr "Erre aux alentours comme un zombie. "
+
+#. ID 26
+msgctxt "items.description"
+msgid "Memories of gardening."
+msgstr "Souvenirs de jardinage."
 
 #. ID 27
 msgctxt "items.name"
@@ -298,14 +281,20 @@ msgid "KuboItem14Real"
 msgstr ""
 
 #. ID 29
-msgctxt "items.name"
-msgid "KuboItem15Dream"
-msgstr ""
-
 #. ID 30
 msgctxt "items.name"
-msgid "KuboItem15Real"
-msgstr ""
+msgid "Teapot"
+msgstr "Théière"
+
+#. ID 29
+msgctxt "items.description"
+msgid "Pour a spot of tea on the ground."
+msgstr "Verse une tache de thé sur le sol."
+
+#. ID 30
+msgctxt "items.description"
+msgid "Memories of whistling."
+msgstr "Souvenirs de sifflement."
 
 #. ID 31
 msgctxt "items.name"
@@ -416,7 +405,7 @@ msgstr "Étoile"
 #. ID 51
 msgctxt "items.description"
 msgid "Become a shining star fit for the night sky!"
-msgstr "Deviens une brillante étoile comme le ciel étoilé !"
+msgstr "Deviens une brillante étoile telle le ciel étoilé !"
 
 #. ID 52
 msgctxt "items.description"
@@ -432,7 +421,7 @@ msgstr "Boîte à musique"
 #. ID 53
 msgctxt "items.description"
 msgid "Play a song with your head!"
-msgstr "Joue un son avec ta tête !"
+msgstr "Joue une musique avec ta tête !"
 
 #. ID 54
 msgctxt "items.description"
@@ -549,7 +538,7 @@ msgstr "Nage comme une sirène !"
 #. ID 68
 msgctxt "items.description"
 msgid "A dream about the ocean floor."
-msgstr "Un rêve à propos du monde sous-marin."
+msgstr "Un rêve à propos du fond de l'océan."
 
 #. ID 69
 #. ID 70
@@ -592,7 +581,7 @@ msgstr ""
 #. ID 73
 msgctxt "items.description"
 msgid "Ever wanted to live inside a computer?"
-msgstr "Toujours eue envie de vivre dans un ordinateur ?"
+msgstr "Toujours eu envie de vivre dans un ordinateur ?"
 
 #. ID 74
 msgctxt "items.description"
@@ -600,14 +589,20 @@ msgid "A dream about a bright future."
 msgstr "Un rêve à propos d'un futur radieux."
 
 #. ID 75
-msgctxt "items.name"
-msgid "TotsuItem13Dream"
-msgstr ""
-
 #. ID 76
 msgctxt "items.name"
-msgid "TotsuItem13Real"
-msgstr ""
+msgid "Snail"
+msgstr "Escargot"
+
+#. ID 75
+msgctxt "items.description"
+msgid "Just like when you were in elementary school!"
+msgstr "C'est comme à l'école élémentaire !"
+
+#. ID 76
+msgctxt "items.description"
+msgid "A dream about a lazy day."
+msgstr "Un rêve à propos d'une journée de paresse."
 
 #. ID 77
 #. ID 78
@@ -618,7 +613,7 @@ msgstr "Château de sable"
 #. ID 77
 msgctxt "items.description"
 msgid "Become a fortress amidst the sand!"
-msgstr "Deviens une forteresse sableuse !"
+msgstr "Deviens une forteresse au milieu du sable !"
 
 #. ID 78
 msgctxt "items.description"

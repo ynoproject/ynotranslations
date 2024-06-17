@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 20, Page 1, Line 1, Pos (82,41)
+msgid ""
+"if you're going to use this one,\n"
+"please, contact Bathynomus on Discord\n"
+"There should be some stuff we can do\n"
+"togheter to be a good connection"
+msgstr ""
+
