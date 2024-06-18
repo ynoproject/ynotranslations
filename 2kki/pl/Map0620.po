@@ -1182,7 +1182,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0] (Bierzący: \\C[4]Nr\\V[110]\\C[0])\n"
 "\\>\n"
-"\\>> Podaj Nr utwory do którego przejść\n"
+"\\>> Podaj Nr utworu do którego przejść\n"
 "\\>  (\\C[1]1~\\V[111]\\C[0]  0 aby anulować  \\V[591] i powyższe są losowe)"
 
 #. ID 1, Page 2, Line 1419, Pos (19,14)
@@ -1382,9 +1382,9 @@ msgid ""
 "\\>\n"
 "\\>＞SR No.\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]を登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register as PC Screen BGM\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zarejestruj jako tło PC\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] has been registered"
+"\\>> Utwór Nr \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] został zarejestrowany"
 
 #. ID 1, Page 2, Line 1997, Pos (19,14)
 msgid ""
@@ -1395,7 +1395,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Register as PC Screen BGM\\C[0]\n"
 "\\>\n"
-"\\>> PCの \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
+"\\>> PCの \\C[4]NARZĘDZIA\\C[0]\\_>\\_\\C[4]TypMenu\\C[0]\\_>\\_\\C[4]PC画面BGM変更\\C[0] から\n"
 "\\>> 登録した曲を設定できます"
 
 #. ID 1, Page 3, Line 61, Pos (19,14)
@@ -1566,10 +1566,10 @@ msgid ""
 "\\>\\C[1]♪\\C[0]Pattern：\\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
 "\\>\\C[1]♪\\C[0]Rate   ：\\C[4]\\V[591]％\\C[0] (\\N[6]\\V[5]％\\C[0])"
 msgstr ""
-"\\>　　　　　 \\C[4]☆ \\C[0]Unlocked Info \\C[4]★\\C[0]\n"
-"\\>\\C[1]♪\\C[0]Track  : \\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
-"\\>\\C[1]♪\\C[0]Variant: \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
-"\\>\\C[1]♪\\C[0]Rate   : \\C[4]\\V[591]%\\C[0] (\\N[6]\\V[5]%\\C[0])"
+"\\>　　　　　 \\C[4]☆ \\C[0]Statystyki \\C[4]★\\C[0]\n"
+"\\>\\C[1]♪\\C[0]Utwór  : \\C[4]\\V[113]\\C[0]/\\C[4]\\V[111]\\C[0] (\\N[4]\\V[3]\\C[0]/\\N[2]\\V[1]\\C[0])\n"
+"\\>\\C[1]♪\\C[0]Wariant: \\C[4]\\V[114]\\C[0]/\\C[4]\\V[112]\\C[0] (\\N[5]\\V[4]\\C[0]/\\N[3]\\V[2]\\C[0])\n"
+"\\>\\C[1]♪\\C[0]Ilość  : \\C[4]\\V[591]%\\C[0] (\\N[6]\\V[5]%\\C[0])"
 
 #. ID 1, Page 4, Line 459, Pos (19,14)
 msgid ""
@@ -1577,9 +1577,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が全解放されています"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Notice\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Uwaga\\C[0]\n"
 "\\>\n"
-"\\>> All tracks have been unlocked"
+"\\>> Wszystkie utwory zostały odblokowane"
 
 #. ID 1, Page 4, Line 462, Pos (19,14)
 msgid ""
@@ -1588,10 +1588,10 @@ msgid ""
 "\\>＞メニューの「未解放箇所を探す」を\n"
 "\\>　「サウンドサーチ」に変更しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Notice\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Uwaga\\C[0]\n"
 "\\>\n"
-"\\>> The menu option 'Locked Track Search'\n"
-"\\>  has been changed to 'Track Search'"
+"\\>> Opcja 'Szukaj Zablokowanuch Utw.'\n"
+"\\>  została zamieniona na 'Szukaj Utw.'"
 
 #. ID 1, Page 4, Line 476, Pos (19,14)
 msgid ""
@@ -1613,9 +1613,9 @@ msgid ""
 "\\>\n"
 "\\>＞メモリーの登録内容が更新されています"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Save Playlist Changes\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zapisz Zmiany Playli.\\C[0]\n"
 "\\>\n"
-"\\>> Changes were made to your playlist"
+"\\>> Playlista została zaaktualizowana"
 
 #. ID 1, Page 4, Line 575, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1624,9 +1624,9 @@ msgid ""
 "\\>\n"
 "\\>＞今回のメモリーの登録状況を保存しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Save Playlist Changes\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zapisz Zmiany Playli.\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to save your playlist changes?\\<\\!"
+"\\>> Czy chcerz zapisać zmiany dokonane na Playliście?\\<\\!"
 
 #. ID 1, Page 4, Line 591, Pos (19,14)
 msgid ""
@@ -1634,9 +1634,9 @@ msgid ""
 "\\>\n"
 "\\>＞保存が完了しました\\<\\.\\.\\^"
 msgstr ""
-"\\>♪ \\C[6]Save Playlist Changes\\C[0]\n"
+"\\>♪ \\C[6]Zapisz Zmiany Playli.\\C[0]\n"
 "\\>\n"
-"\\>> Changes has been saved\\<\\.\\.\\^"
+"\\>> Zmiany zostały zapisane\\<\\.\\.\\^"
 
 #. ID 1, Page 4, Line 611, Pos (19,14)
 msgid ""
@@ -1645,7 +1645,7 @@ msgid ""
 "\\>＞SR退室に伴い\n"
 "\\>　デバッグ退避を解除します"
 msgstr ""
-"\\>\\C[10]■ \\C[0]Debug Confirmation\n"
+"\\>\\C[10]■ \\C[0]Potwierdzenie Debug\n"
 "\\>\n"
 "\\>＞SR退室に伴い\n"
 "\\>　デバッグ退避を解除します"
@@ -1706,9 +1706,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が登録されていません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zarejestruj\\C[0]\n"
 "\\>\n"
-"\\>> The track could not be registered"
+"\\>> Utwór nie mógł być zarejestrowany"
 
 #. ID 1, Page 5, Line 371, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1717,9 +1717,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を直接入力して登録しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zarejestruj\\C[0]\n"
 "\\>\n"
-"\\>> Would you like to enter a track no.?\\<\\!"
+"\\>> Czy chcerz wpisać numer utworu?\\<\\!"
 
 #. ID 1, Page 5, Line 378, Pos (19,14)
 msgid ""
@@ -1727,9 +1727,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0] 0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zarejestruj\\C[0]\n"
 "\\>\n"
-"\\>> Enter a track no. (\\C[1]1~\\V[111]\\C[0] 0 to cancel)"
+"\\>> Wpisz Nr utworu (\\C[1]1~\\V[111]\\C[0] 0 aby anulować)"
 
 #. ID 1, Page 5, Line 404, Pos (19,14)
 msgid ""
@@ -1737,21 +1737,21 @@ msgid ""
 "\\>\n"
 "\\>＞演出No.を指定してください（\\C[1]1～\\V[104]\\C[0] 0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zarejestruj\\C[0]\n"
 "\\>\n"
-"\\>> Enter a track variant no. (\\C[1]1~\\V[104]\\C[0] 0 to cancel)"
+"\\>> Wpisz Nr wariantu(\\C[1]1~\\V[104]\\C[0] 0 aby anulować)"
 
 #. ID 1, Page 5, Line 434, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演出"
-msgstr "Variant"
+msgstr "Wariant"
 
 #. ID 1, Page 5, Line 437, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "曲"
-msgstr "Track"
+msgstr "Utwór"
 
 #. ID 1, Page 5, Line 440, Pos (19,14)
 msgid ""
@@ -1759,9 +1759,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の\\N[6]です"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zarejestruj\\C[0]\n"
 "\\>\n"
-"\\>> This \\N[6] is locked"
+"\\>> To \\N[6] jest zablokowane"
 
 #. ID 1, Page 5, Line 468, Pos (19,14)
 msgid ""
@@ -1771,7 +1771,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] has been registered to slot no. \\V[110]"
+"\\>> Utwór Nr \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] został zarejestrowany do Nr \\V[110]"
 
 #. ID 1, Page 5, Line 527, Pos (19,14)
 msgid ""
@@ -1779,9 +1779,9 @@ msgid ""
 "\\>\n"
 "\\>＞かかった時間：\\V[35]秒"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukaj Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Time Elapsed: \\V[35]s"
+"\\>> Czas: \\V[35]s"
 
 #. ID 1, Page 5, Line 532, Pos (19,14)
 msgid ""
@@ -1789,9 +1789,9 @@ msgid ""
 "\\>\n"
 "\\>＞かかった時間：\\V[34]分\\V[35]秒"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukaj Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Time Elapsed: \\V[34]m \\V[35]s"
+"\\>> Czas: \\V[34]m \\V[35]s"
 
 #. ID 1, Page 5, Line 537, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1800,9 +1800,9 @@ msgid ""
 "\\>\n"
 "\\>＞もう一度やりますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukaj Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Play again?\\<\\!"
+"\\>> Powtórz?\\<\\!"
 
 #. ID 1, Page 5, Line 544, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1826,28 +1826,28 @@ msgid ""
 "\\>高度な機能\n"
 "\\>操作ガイド"
 msgstr ""
-"\\>Leave Sound Room\n"
-"\\>Change Mode\n"
-"\\>Advanced Options\n"
-"\\>Display Instructions"
+"\\>Opuść Sound Room\n"
+"\\>Zmień Tryb\n"
+"\\>Zaawansowane\n"
+"\\>Instrukcje"
 
 #. ID 1, Page 5, Line 625, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "PC画面"
-msgstr "PC Screen"
+msgstr "Ekran PC"
 
 #. ID 1, Page 5, Line 627, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "ﾃﾞﾊﾞｯｸﾞﾙｰﾑ"
-msgstr "Debug Room"
+msgstr "Pokój Debug"
 
 #. ID 1, Page 5, Line 631, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "製作者部屋"
-msgstr "Developer Room"
+msgstr "Pokój Developerów"
 
 #. ID 1, Page 5, Line 637, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -1855,7 +1855,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]退室先の選択\\C[0]\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Select Exit Destination\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Wybierz Pozycje Wyjścia\\C[0]\n"
 "\\>"
 
 #. ID 1, Page 5, Line 639, Pos (19,14)
@@ -1864,13 +1864,13 @@ msgid ""
 "\\>\\C[4]退室して\\N[6]へ戻る\\C[0]\n"
 "\\>旧SRへ移動"
 msgstr ""
-"\\>\\C[4]Leave Room and Return to \\N[6]\\C[0]\n"
-"\\>Switch to Old Sound Room"
+"\\>\\C[4]Opóść i powróć do \\N[6]\\C[0]\n"
+"\\>Przejdź do starego Sound Room"
 
 #. ID 1, Page 5, Line 650, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]退室先の選択\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Select Exit Destination\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Wybierz pozycje wyjścia\\C[0]"
 
 #. ID 1, Page 5, Line 651, Pos (19,14)
 #. Choice (3 options, embedded in a message)
