@@ -756,7 +756,7 @@ msgid ""
 "\\>\n"
 "\\>＞未解放の演出です"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zmiana Utworu\\C[0]\n"
 "\\>\n"
 "\\>> Ten wariant jest zablokowany"
 
@@ -767,7 +767,7 @@ msgid ""
 "\\>＞演出は1種類です\n"
 "\\>　（演出変化なし）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Variant Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zmiana Wariantu Utworu\\C[0]\n"
 "\\>\n"
 "\\>> Jest 1 wariant\n"
 "\\>  (nia ma innych)"
@@ -779,10 +779,10 @@ msgid ""
 "\\>＞登録された曲・演出は未解放です\n"
 "\\>　解放条件が変わったかもしれません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zmiana Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Registered Track・Variant is Locked\n"
-"\\>  Unlock condition may have changed"
+"\\>> Zarejestrowany Wariant・Wariant Zablokowany\n"
+"\\>  Warunki odblokowania mogły się zmienić"
 
 #. ID 1, Page 2, Line 621, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -791,9 +791,9 @@ msgid ""
 "\\>\n"
 "\\>＞登録を消去しますか？"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zmiana Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to unregister this track?"
+"\\>>Czy chcerz odrejestrować utwór?"
 
 #. ID 1, Page 2, Line 624, Pos (19,14)
 #. Choice (1 options, embedded in a message)
@@ -810,7 +810,7 @@ msgstr ""
 #. ID 1, Page 5, Line 540, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>はい = Z / いいえ = X"
-msgstr "\\>Yes = Z / No = X"
+msgstr "\\>Tak = Z / Nie = X"
 
 #. ID 1, Page 2, Line 628, Pos (19,14)
 msgid ""
@@ -818,9 +818,9 @@ msgid ""
 "\\>\n"
 "\\>＞\\V[110]番の曲を消去しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Unregister From Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Odrejestruj\\C[0]\n"
 "\\>\n"
-"\\>> Track no. \\V[110] has been unregistered"
+"\\>> Utwór nr \\V[110] został odrejestrowany"
 
 #. ID 1, Page 2, Line 633, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -861,7 +861,7 @@ msgid ""
 "\\>＞曲・演出・ヒントから\n"
 "\\>　曲No.を探し出すゲームです"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukanie Utw.\\C[0]\n"
 "\\>\n"
 "\\>＞曲・演出・ヒントから\n"
 "\\>　曲No.を探し出すゲームです"
@@ -873,9 +873,9 @@ msgid ""
 "\\>\n"
 "\\>＞やりますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Track Search\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukanie Utw.\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to play?\\<\\!"
+"\\>> Czy chcerz odtworzyć?\\<\\!"
 
 #. ID 1, Page 2, Line 856, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -907,7 +907,7 @@ msgstr ""
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "メモリー"
-msgstr "Playlist"
+msgstr "Playlista"
 
 #. ID 1, Page 2, Line 888, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -915,7 +915,7 @@ msgstr "Playlist"
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "リスト"
-msgstr "List"
+msgstr "Lista"
 
 #. ID 1, Page 2, Line 892, Pos (19,14)
 msgid ""
@@ -923,9 +923,9 @@ msgid ""
 "\\>\n"
 "\\>＞\\N[6]モードに切り替えました\\N[1]"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Play Mode Switch\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Zmiana Trybu\\C[0]\n"
 "\\>\n"
-"\\>> Switched to \\N[6] Mode\\N[1]"
+"\\>> Zmieniono na \\N[6] Tryb\\N[1]"
 
 #. ID 1, Page 2, Line 898, Pos (19,14)
 msgid ""
@@ -933,9 +933,9 @@ msgid ""
 "\\>\n"
 "\\>曲＆演出を10個まで登録して聞くことができます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]About Playlist Mode\\C[0]\n"
+"\\>\\C[10]■ \\C[6]O Trybie Playlisty\\C[0]\n"
 "\\>\n"
-"\\>You can register up to 10 tracks to listen to"
+"\\>Możesz zarejestrować do 10 utworów"
 
 #. ID 1, Page 2, Line 905, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -954,14 +954,14 @@ msgid ""
 "\\>\n"
 "\\>＞どこからチェックを開始しますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Track Check\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukaj Zab. Utwory\\C[0]\n"
 "\\>\n"
-"\\>> Where do you want to start the check?\\<\\!"
+"\\>> Gdzie chcerz rozpocząć szukanie?\\<\\!"
 
 #. ID 1, Page 2, Line 995, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>カーソル位置 = Z / No.1 = X"
-msgstr "\\>Cursor Position = Z / No. 1 = X"
+msgstr "\\>Pozycja Kurs. = Z / Nr 1 = X"
 
 #. ID 1, Page 2, Line 1023, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1006,14 +1006,14 @@ msgid ""
 "\\>\n"
 "\\>＞未解放No.：\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Track Check\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukaj Zab. Utwory\\C[0]\n"
 "\\>\n"
-"\\>> Locked Track No.: \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
+"\\>> Zablokowany Utw. nr: \\C[4]\\N[1]\\V[103]\\N[6]\\C[0]"
 
 #. ID 1, Page 2, Line 1042, Pos (19,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>次へ = Z / 終了 = X"
-msgstr "\\>Next = Z / End = X"
+msgstr "\\>Następne = Z / Zakończ = X"
 
 #. ID 1, Page 2, Line 1062, Pos (19,14)
 msgid ""
@@ -1021,9 +1021,9 @@ msgid ""
 "\\>\n"
 "\\>＞未解放箇所は見つかりませんでした"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Locked Track Check\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Szukaj Zab. Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Couldn't find any locked tracks"
+"\\>> Nie zostały znalezione zab. utwory"
 
 #. ID 1, Page 2, Line 1111, Pos (19,14)
 msgid ""
@@ -1031,9 +1031,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲を聞きながら登録できます"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj Utwory\\C[0]\n"
 "\\>\n"
-"\\>> You can register tracks as you listen to them"
+"\\>> Możesz rejestrować utwory podczas słuchania ich"
 
 #. ID 1, Page 2, Line 1114, Pos (19,14)
 msgid ""
@@ -1042,10 +1042,10 @@ msgid ""
 "\\>＞曲名が暗くなっているのが未登録です\n"
 "\\>　指定No.が未解放の場合は飛ばします"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj Utwory\\C[0]\n"
 "\\>\n"
-"\\>> Unregistered tracks will show as dark\n"
-"\\>  Locked tracks will be skipped"
+"\\>> Niezarejestrowane utwory będą ciemne\n"
+"\\>  Zablokowane utwory będą pominięte"
 
 #. ID 1, Page 2, Line 1122, Pos (19,14)
 msgid ""
@@ -1054,10 +1054,10 @@ msgid ""
 "\\>＞未解放曲が長く続く箇所があると\n"
 "\\>　切り替えに\\C[1]時間がかかります"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj Utwory\\C[0]\n"
 "\\>\n"
-"\\>> If there are a lot of locked tracks in a row,\n"
-"\\>  it may \\C[1]take a long time"
+"\\>> Jeżeli jest wiele zablokowanych utw.,\n"
+"\\>  może \\C[1]zająć chwilę"
 
 #. ID 1, Page 2, Line 1126, Pos (19,14)
 msgid ""
@@ -1066,7 +1066,7 @@ msgid ""
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj Utwory\\C[0]\n"
 "\\>\n"
 "\\>＞リストモードで星が\\C[1]1つもつかない区間がある\\C[0]時は\n"
 "\\>　注意してください"
@@ -1078,10 +1078,10 @@ msgid ""
 "\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
 "\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Listen and Register Tracks\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj Utwory\\C[0]\n"
 "\\>\n"
-"\\>＞演出解放数4/609の場合、SRNo.3D→45で\\C[1]5秒\\C[0]程度\n"
-"\\>　SRNo.45→1Aで\\C[1]30秒\\C[0]程度止まります"
+"\\>＞演出解放数4/609の場合、Nr.3D→45で\\C[1]5秒\\C[0]程度\n"
+"\\>　Nr.45→1Aで\\C[1]30秒\\C[0]程度止まります"
 
 #. ID 1, Page 2, Line 1253, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1108,7 +1108,7 @@ msgstr ""
 #. ID 1, Page 2, Line 1324, Pos (19,14)
 #. Contains choice at line 2 (2 options)
 msgid "\\>SRNo.：\\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
-msgstr "\\>Track No.: \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
+msgstr "\\>Utw. Nr: \\C[\\V[593]]\\N[1]\\V[103]\\N[6]  \\N[2]\\N[3]\\N[4]\\N[5]\\C[0]"
 
 #. ID 1, Page 2, Line 1293, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1117,9 +1117,9 @@ msgid ""
 "\\>指定No.へ移動\n"
 "\\>メモリー登録 / 終了"
 msgstr ""
-"\\>Next = Z / Previous = X\n"
-"\\>Set Track No.\n"
-"\\>Register to Playlist / Exit"
+"\\>Następne = Z / Poprzednie = X\n"
+"\\>Ustaw Nr\n"
+"\\>Zarejestruj / Wyjdź"
 
 #. ID 1, Page 2, Line 1306, Pos (19,14)
 msgid ""
@@ -1127,9 +1127,9 @@ msgid ""
 "\\>\n"
 "\\>＞SRNo.を指定してください（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Track No.\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustaw Nr\\C[0]\n"
 "\\>\n"
-"\\>> Please specify the track no. (\\C[1]1~\\V[111]\\C[0]  0 to cancel）"
+"\\>> Wpisz numer utworu(\\C[1]1~\\V[111]\\C[0]  0 aby anulować）"
 
 #. ID 1, Page 2, Line 1325, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1137,8 +1137,8 @@ msgid ""
 "\\>メモリー登録\n"
 "\\>終了"
 msgstr ""
-"\\>Register to Playlist\n"
-"\\>Exit"
+"\\>Zarejestruj\n"
+"\\>Wyjdź"
 
 #. ID 1, Page 2, Line 1330, Pos (19,14)
 msgid ""
@@ -1147,10 +1147,10 @@ msgid ""
 "\\>＞登録するNo.を指定してください\n"
 "\\>　 (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj\\C[0]\n"
 "\\>\n"
-"\\>> Select the playlist slot no. to register to\n"
-"\\>  (Select 0 for No. 10)"
+"\\>> Wybierz numer playlisty do którego zarejestrować\n"
+"\\>  (Wybierz 0 dla Nr 10)"
 
 #. ID 1, Page 2, Line 1334, Pos (19,14)
 #. ID 1, Page 2, Line 1950, Pos (19,14)
@@ -1159,9 +1159,9 @@ msgid ""
 "\\>\n"
 "\\>＞ (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj\\C[0]\n"
 "\\>\n"
-"\\>　 (Select 0 for No. 10)"
+"\\>　 (Wybierz 0 dla Nr 10)"
 
 #. ID 1, Page 2, Line 1347, Pos (19,14)
 msgid ""
@@ -1169,9 +1169,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[101]に登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj\\C[0]\n"
 "\\>\n"
-"\\>> Registered track to playlist slot no. \\V[101]"
+"\\>> Zarejestrowano utwór do playlisty pod Nr \\V[101]"
 
 #. ID 1, Page 2, Line 1415, Pos (19,14)
 msgid ""
@@ -1180,10 +1180,10 @@ msgid ""
 "\\>＞ジャンプ先No.を指定してください\n"
 "\\>　（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Cursor Position\\C[0] (Current: \\C[4]No.\\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0] (Bierzący: \\C[4]Nr\\V[110]\\C[0])\n"
 "\\>\n"
-"\\>> Please specify the track no. to jump to\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 to cancel  \\V[591] and above are random)"
+"\\>> Podaj Nr utwory do którego przejść\n"
+"\\>  (\\C[1]1~\\V[111]\\C[0]  0 aby anulować  \\V[591] i powyższe są losowe)"
 
 #. ID 1, Page 2, Line 1419, Pos (19,14)
 msgid ""
@@ -1191,9 +1191,9 @@ msgid ""
 "\\>\n"
 "\\>＞（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Cursor Position\\C[0] (Current: \\C[4]No. \\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0] (Bierzący: \\C[4]Nr \\V[110]\\C[0])\n"
 "\\>\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 to cancel  \\V[591] and above are random)"
+"\\>  (\\C[1]1~\\V[111]\\C[0]  0 aby anulować  \\V[591] i powyższe są losowe)"
 
 #. ID 1, Page 2, Line 1580, Pos (19,14)
 msgid ""
@@ -1201,9 +1201,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にジャンプします\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Set Cursor Position\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0]\n"
 "\\>\n"
-"\\>> Jump to track no. \\V[110]\\<\\.\\.\\^"
+"\\>> Idź do utworu Nr \\V[110]\\<\\.\\.\\^"
 
 #. ID 1, Page 2, Line 1617, Pos (19,14)
 msgid ""
@@ -1255,9 +1255,9 @@ msgid ""
 "\\>\n"
 "\\>＞曲が演奏されていません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Display Track Info\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Informacje Utworu\\C[0]\n"
 "\\>\n"
-"\\>> Track could not be played"
+"\\>> Utwór nie mógł był odtworzony"
 
 #. ID 1, Page 2, Line 1779, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -1274,7 +1274,7 @@ msgid ""
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：\\C[4]\\V[591]\\C[0])"
 msgstr ""
 "\\>File Name: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Track No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: \\C[4]\\V[591]\\C[0])"
+"\\>Track No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Numer Playli.: \\C[4]\\V[591]\\C[0])"
 
 #. ID 1, Page 2, Line 1845, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1282,8 +1282,8 @@ msgid ""
 "\\>メモリーを消去\n"
 "\\>PC画面BGMに登録"
 msgstr ""
-"\\>Unregister From Playlist\n"
-"\\>Register as PC Screen BGM"
+"\\>Odrejestruj z Playlity\n"
+"\\>Ustaw jako muzyka w tle dla PC"
 
 #. ID 1, Page 2, Line 1861, Pos (19,14)
 #. Contains choice at line 3 (2 options)
@@ -1291,8 +1291,8 @@ msgid ""
 "\\>File Name：\\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
 "\\>SR No.   ：\\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Memory No.：---)"
 msgstr ""
-"\\>File Name: \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
-"\\>Track No.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: ---)"
+"\\>Nazwa    : \\C[4]\\N[2]\\N[3]\\N[4]\\N[5]\\C[0]\n"
+"\\>Numer Ut.: \\C[4]\\N[1]\\V[115]\\N[6]\\C[0]  (Playlist Slot: ---)"
 
 #. ID 1, Page 2, Line 1863, Pos (19,14)
 #. Choice (2 options, embedded in a message)
@@ -1300,8 +1300,8 @@ msgid ""
 "\\>メモリーに登録\n"
 "\\>PC画面BGMに登録"
 msgstr ""
-"\\>Register to Playlist\n"
-"\\>Register as PC Screen BGM"
+"\\>Zarejestruj do Playlisty\n"
+"\\>Ustaw jako muzyka w tle dla PC"
 
 #. ID 1, Page 2, Line 1889, Pos (19,14)
 msgid ""
@@ -1309,9 +1309,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[122]を消去しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Unregister From Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Odrejestruj z Playlity\\C[0]\n"
 "\\>\n"
-"\\>> Track has been unregistered from slot no. \\V[122]"
+"\\>> Utwór został odrejestrowany z numeru \\V[122]"
 
 #. ID 1, Page 2, Line 1909, Pos (19,14)
 msgid ""
@@ -1319,9 +1319,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[591]を消去しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Unregister From Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Odrejestruj z Playlity\\C[0]\n"
 "\\>\n"
-"\\>> Track has been unregistered from slot no. \\V[591]"
+"\\>> Utwór został odrejestrowany z numeru \\V[591]"
 
 #. ID 1, Page 2, Line 1930, Pos (19,14)
 msgid ""
@@ -1329,9 +1329,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[592]に登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj do Playlity\\C[0]\n"
 "\\>\n"
-"\\>> Track has been registered to slot no. \\V[592]"
+"\\>> Utwór został zarejestrowany do numeru \\V[592]"
 
 #. ID 1, Page 2, Line 1938, Pos (19,14)
 msgid ""
@@ -1339,9 +1339,9 @@ msgid ""
 "\\>\n"
 "\\>＞記憶枠が空いていません"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj do Playlity\\C[0]\n"
 "\\>\n"
-"\\>> There are no free slots left in your playlist"
+"\\>> Nie ma wolnych miejsc na twojej Playli."
 
 #. ID 1, Page 2, Line 1941, Pos (19,14)
 #. Contains choice at line 4 (1 options)
@@ -1350,9 +1350,9 @@ msgid ""
 "\\>\n"
 "\\>＞上書きしますか？\\<\\!"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj do Playlity\\C[0]\n"
 "\\>\n"
-"\\>> Do you want to overwrite the existing track?\\<\\!"
+"\\>> Czy chcerz nadpisać ten utwór?\\<\\!"
 
 #. ID 1, Page 2, Line 1946, Pos (19,14)
 msgid ""
@@ -1361,10 +1361,10 @@ msgid ""
 "\\>＞上書きするNo.を指定してください\n"
 "\\>　 (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj do Playlity\\C[0]\n"
 "\\>\n"
-"\\>> Enter a slot no. to overwrite\n"
-"\\>  (Enter 0 for slot no. 10)"
+"\\>> Wpisz numer dla nadpisania\n"
+"\\>  (Wpisz 0 dla numeru 10)"
 
 #. ID 1, Page 2, Line 1965, Pos (19,14)
 msgid ""
@@ -1372,9 +1372,9 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[592]に上書きしました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Register to Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Rejestruj do Playlity\\C[0]\n"
 "\\>\n"
-"\\>> Slot no. \\V[592] has been overwritten"
+"\\>> Numer \\V[592] został nadpisany"
 
 #. ID 1, Page 2, Line 1985, Pos (19,14)
 msgid ""
