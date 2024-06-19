@@ -14,36 +14,36 @@ msgstr ""
 
 #. ID 2, Page 1, Line 7, Pos (26,3)
 msgid "Ｐ獲得：通常クリア！"
-msgstr "Point acquired: Normal Clear!"
+msgstr "Punkt Zdobyty: Normalne Zakończenie!"
 
 #. ID 2, Page 1, Line 15, Pos (26,3)
 msgid "Ｐ獲得：短時間クリア！"
-msgstr "Point acquired: Speedy Clear!"
+msgstr "Punkt Zdobyty: Szybkie Zakończenie!"
 
 #. ID 2, Page 1, Line 20, Pos (26,3)
 msgid "Ｐ未獲得：短時間クリア"
-msgstr "Unacquired point: Speedy Clear"
+msgstr "Punkt Utracony: Szybkie Zakończenie"
 
 #. ID 2, Page 1, Line 28, Pos (26,3)
 msgid "Ｐ獲得：チップ回収クリア！"
-msgstr "Point acquired: Clear with all chips collected!"
+msgstr "Punkt Zdobyty: Zakończenie ze wszystkimi Punktami!"
 
 #. ID 2, Page 1, Line 33, Pos (26,3)
 msgid "Ｐ未獲得：チップ回収クリア"
-msgstr "Unacquired Point: Clear with all chips collected"
+msgstr "Punkt Utracony: Zakończenie ze wszystkimi Punktami"
 
 #. ID 2, Page 1, Line 41, Pos (26,3)
 msgid "Ｐ獲得：ノーミスクリア！"
-msgstr "Point acquired: Flawless Clear!"
+msgstr "Punkt Zdobyty: Perfekcyjne Zakończenie!"
 
 #. ID 2, Page 1, Line 46, Pos (26,3)
 msgid "Ｐ未獲得：ノーミスクリア"
-msgstr "Unacquired Point: Flawless Clear"
+msgstr "Punkt Utracony: Perfekcyjne Zakończenie"
 
 #. ID 2, Page 1, Line 54, Pos (26,3)
 msgid "Ｐ獲得：全セーブポイント通過クリア！"
-msgstr "Point acquired: Clear with all save points!"
+msgstr "Punkt Zdobyty: Zakończenie ze wszystkimi Zapisami!"
 
 #. ID 2, Page 1, Line 59, Pos (26,3)
 msgid "Ｐ未獲得：全セーブポイント通過クリア"
-msgstr "Unacquired Point: Clear with all save points"
+msgstr "Punkt Utracony: Zakończenie ze wszystkimi Zapisami"
