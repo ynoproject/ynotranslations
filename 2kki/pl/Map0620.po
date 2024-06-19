@@ -1864,7 +1864,7 @@ msgid ""
 "\\>\\C[4]退室して\\N[6]へ戻る\\C[0]\n"
 "\\>旧SRへ移動"
 msgstr ""
-"\\>\\C[4]Opóść i powróć do \\N[6]\\C[0]\n"
+"\\>\\C[4]Opuść i powróć do \\N[6]\\C[0]\n"
 "\\>Przejdź do starego Sound Room"
 
 #. ID 1, Page 5, Line 650, Pos (19,14)
@@ -1879,9 +1879,9 @@ msgid ""
 "\\>旧SRへ移動\n"
 "\\>SREDを見る"
 msgstr ""
-"\\>\\C[4]Leave Room and Return to \\N[6]\\C[0]\n"
-"\\>Switch to Old Sound Room\n"
-"\\>View Sound Room ED"
+"\\>\\C[4]Opuść i powróć do \\N[6]\\C[0]\n"
+"\\>Przejdź do starego Sound Room\n"
+"\\>Wyświetl Sound Room ED"
 
 #. ID 1, Page 5, Line 668, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1893,18 +1893,18 @@ msgstr ""
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "演奏を止める"
-msgstr "Stop Current Track"
+msgstr "Zatrzymaj Utwór"
 
 #. ID 1, Page 5, Line 685, Pos (19,14)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "次の曲を演奏する"
-msgstr "Skip to Next Track"
+msgstr "Pomiń Utwór"
 
 #. ID 1, Page 5, Line 695, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]モード変更\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Change Mode\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Zmień Tryb\\C[0]"
 
 #. ID 1, Page 5, Line 696, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1913,8 +1913,8 @@ msgid ""
 "\\>自動曲送りの設定\n"
 "\\>\\N[5]"
 msgstr ""
-"\\>Switch to \\N[6] Mode\n"
-"\\>Autoplay Settings\n"
+"\\>Zmień na \\N[6] tryb\n"
+"\\>Ustawienia Autoplay\n"
 "\\>\\N[5]"
 
 #. ID 1, Page 5, Line 700, Pos (19,14)
@@ -1939,24 +1939,24 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "カーソルジャンプ"
-msgstr "Cursor Jump"
+msgstr "Przeskok Kursora"
 
 #. ID 1, Page 5, Line 751, Pos (19,14)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "演奏可能曲を登録"
-msgstr "Listen and Register Tracks"
+msgstr "Słuchaj i Rejestruj Utw."
 
 #. ID 1, Page 5, Line 752, Pos (19,14)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "メモリーの交換 / 全消去"
-msgstr "Playlist Swap / Remove All"
+msgstr "Zamień Playli. / Usuń Wszystkie"
 
 #. ID 1, Page 5, Line 755, Pos (19,14)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\C[10]■\\C[6]高度な機能\\C[0]"
-msgstr "\\>\\C[10]■ \\C[6]Advanced Options\\C[0]"
+msgstr "\\>\\C[10]■ \\C[6]Zaawansowane Opcje\\C[0]"
 
 #. ID 1, Page 5, Line 756, Pos (19,14)
 #. Choice (3 options, embedded in a message)
@@ -1967,7 +1967,7 @@ msgid ""
 msgstr ""
 "\\>\\N[6]\n"
 "\\>\\N[1]\n"
-"\\>Options"
+"\\>Opcje"
 
 #. ID 1, Page 5, Line 770, Pos (19,14)
 #. ChangeHeroName (Actor 1)
@@ -1993,7 +1993,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]メモリーの操作\\C[0]\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Playlist Options\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Opcje Playli.\\C[0]\n"
 "\\>"
 
 #. ID 1, Page 5, Line 797, Pos (19,14)
@@ -2002,8 +2002,8 @@ msgid ""
 "\\> 交換\n"
 "\\> 全消去"
 msgstr ""
-"\\> Swap\n"
-"\\> Remove All"
+"\\> Zamień\n"
+"\\> Usuń Wszystkie"
 
 #. ID 1, Page 5, Line 801, Pos (19,14)
 #. ChangeHeroName (Actor 1)
