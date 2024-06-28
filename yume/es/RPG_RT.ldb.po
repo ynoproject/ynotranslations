@@ -308,12 +308,12 @@ msgstr "Conviértete en un semáforo."
 #. ID 57
 msgctxt "items.name"
 msgid "Tutorial"
-msgstr "Tutorial"
+msgstr "Instrucciones"
 
 #. ID 57
 msgctxt "items.description"
 msgid "Review the game's tutorial."
-msgstr "Revisa el tutorial del juego."
+msgstr "Revisa las instrucciones del juego."
 
 msgctxt "terms.special_combat"
 msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
