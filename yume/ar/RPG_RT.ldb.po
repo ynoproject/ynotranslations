@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: ar\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 1
 msgctxt "actors.name"
@@ -27,7 +23,7 @@ msgstr "ضفدع                               "
 #. ID 2
 msgctxt "items.description"
 msgid "Transform into a frog."
-msgstr "                                                                     . ضفدع إلى تحولت به"
+msgstr "                                                                       . ضفدع إلى تحولت به"
 
 #. ID 3
 #. ID 4
@@ -39,13 +35,13 @@ msgstr "مظلة                                "
 #. ID 4
 msgctxt "items.description"
 msgid "Use an umbrella."
-msgstr "                                                                    . المظلة استخدمت به"
+msgstr "                                                                      . المظلة استخدمت به"
 
 #. ID 5
 #. ID 6
 msgctxt "items.name"
 msgid "Hat & Scarf"
-msgstr "قبعة ووشاح                      "
+msgstr "قبعة ووشاح                        "
 
 #. ID 5
 #. ID 6
@@ -57,37 +53,37 @@ msgstr "                                                                  . وو
 #. ID 8
 msgctxt "items.name"
 msgid "Snow Woman"
-msgstr "امرأة ثلج                           "
+msgstr "امرأة ثلج                            "
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
 msgid "Morph into a Snow Woman."
-msgstr "                                                               . ثلج امرأة إلى مسخت به"
+msgstr "                                                                 . ثلج امرأة إلى مسخت به"
 
 #. ID 9
 #. ID 10
 msgctxt "items.name"
 msgid "Kitchen Knife"
-msgstr "سكين مطبخ                    "
+msgstr "سكين مطبخ                      "
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
 msgid "Equip a kitchen knife."
-msgstr "                                                               . مطبخ بسكين تجهزت به"
+msgstr "                                                                 . مطبخ بسكين تجهزت به"
 
 #. ID 11
 #. ID 12
 msgctxt "items.name"
 msgid "Eye Palm"
-msgstr "كف عين                           "
+msgstr "كف عين                            "
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
 msgid "Warp into an Eye Palm."
-msgstr "                                                           . عين كف وصرت مسخت به"
+msgstr "                                                              . عين كف وصرت مسخت به"
 
 #. ID 13
 #. ID 14
@@ -99,31 +95,31 @@ msgstr "بدانة                                 "
 #. ID 14
 msgctxt "items.description"
 msgid "Balloon in size."
-msgstr "                                                                 . حجمك وكبر انتفخت به"
+msgstr "                                                                   . حجمك وكبر انتفخت به"
 
 #. ID 15
 #. ID 16
 msgctxt "items.name"
 msgid "Midget"
-msgstr "قزامة                                "
+msgstr "قزامة                                 "
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
 msgid "Shrink in size."
-msgstr "                                                                . حجمك وصغر تقلصت به"
+msgstr "                                                                  . حجمك وصغر تقلصت به"
 
 #. ID 17
 #. ID 18
 msgctxt "items.name"
 msgid "Flute"
-msgstr "مزمار                                "
+msgstr "مزمار                                 "
 
 #. ID 17
 #. ID 18
 msgctxt "items.description"
 msgid "Brandish a flute."
-msgstr "                                                                           . مزماراً شهرت به"
+msgstr "                                                                            . مزماراً شهرت به"
 
 #. ID 19
 #. ID 20
@@ -135,43 +131,43 @@ msgstr "نيون                                  "
 #. ID 20
 msgctxt "items.description"
 msgid "Glow like a neon sign."
-msgstr "                                                         . النيون لافتات مثل توهجت به"
+msgstr "                                                           . النيون لافتات مثل توهجت به"
 
 #. ID 21
 #. ID 22
 msgctxt "items.name"
 msgid "Faceless Ghost"
-msgstr "شبح بلا وجه                    "
+msgstr "شبح بلا وجه                      "
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
 msgid "Materialize as a faceless ghost."
-msgstr "                                                             . وجه بلا شبحاً تجسدت به"
+msgstr "                                                              . وجه بلا شبحاً تجسدت به"
 
 #. ID 23
 #. ID 24
 msgctxt "items.name"
 msgid "Severed Head"
-msgstr "رأس مقطوع                      "
+msgstr "رأس مقطوع                        "
 
 #. ID 23
 #. ID 24
 msgctxt "items.description"
 msgid "Be reduced to a severed head."
-msgstr "                                                           . مقطوع رأس مجرد صرت به"
+msgstr "                                                              . مقطوع رأس مجرد صرت به"
 
 #. ID 25
 #. ID 26
 msgctxt "items.name"
 msgid "Towel"
-msgstr "منشفة                            "
+msgstr "منشفة                             "
 
 #. ID 25
 #. ID 26
 msgctxt "items.description"
 msgid "Wrap yourself in a towel."
-msgstr "                                                               . بمنشفة نفسك لقيت به"
+msgstr "                                                                 . بمنشفة نفسك لقيت به"
 
 #. ID 27
 #. ID 28
@@ -183,19 +179,19 @@ msgstr "قطة                                  "
 #. ID 28
 msgctxt "items.description"
 msgid "Sprout cat-ears and a tail."
-msgstr "                                                          . قطة وذيل أذن عليك نبتت به"
+msgstr "                                                            . قطة وذيل أذن عليك نبتت به"
 
 #. ID 29
 #. ID 30
 msgctxt "items.name"
 msgid "Lamp"
-msgstr "مصباح                              "
+msgstr "مصباح                               "
 
 #. ID 29
 #. ID 30
 msgctxt "items.description"
 msgid "Change into a lamp."
-msgstr "                                                                     . قنديل إلى تحولت به"
+msgstr "                                                                       . قنديل إلى تحولت به"
 
 #. ID 31
 #. ID 32
@@ -213,61 +209,61 @@ msgstr "                                                                        
 #. ID 34
 msgctxt "items.name"
 msgid "Long Hair"
-msgstr "شعر طويل                        "
+msgstr "شعر طويل                         "
 
 #. ID 33
 #. ID 34
 msgctxt "items.description"
 msgid "Grow long hair."
-msgstr "                                                        . طويل شعر رأسك من طلع به"
+msgstr "                                                           . طويل شعر رأسك من طلع به"
 
 #. ID 35
 #. ID 36
 msgctxt "items.name"
 msgid "Poo Hair"
-msgstr "شعر الروث                        "
+msgstr "شعر الروث                         "
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
 msgid "Grow poo hair."
-msgstr "                                                      . كالروث شعر رأسك من طلع به"
+msgstr "                                                         . كالروث شعر رأسك من طلع به"
 
 #. ID 37
 #. ID 38
 msgctxt "items.name"
 msgid "Blonde"
-msgstr "شعر أشقر                        "
+msgstr "شعر أشقر                         "
 
 #. ID 37
 #. ID 38
 msgctxt "items.description"
 msgid "Grow long blonde hair."
-msgstr "                                                        . أشقر شعر رأسك من طلع به"
+msgstr "                                                           . أشقر شعر رأسك من طلع به"
 
 #. ID 39
 #. ID 40
 msgctxt "items.name"
 msgid "Spirit Headband"
-msgstr "عصابة روحية                     "
+msgstr "عصابة روحية                      "
 
 #. ID 39
 #. ID 40
 msgctxt "items.description"
 msgid "Put on a Spirit Headband."
-msgstr "                                               . روحية عصابة جبينك على لبست به"
+msgstr "                                                 . روحية عصابة جبينك على لبست به"
 
 #. ID 41
 #. ID 42
 msgctxt "items.name"
 msgid "Witch"
-msgstr "ساحرة                             "
+msgstr "ساحرة                              "
 
 #. ID 41
 #. ID 42
 msgctxt "items.description"
 msgid "Become a witch incarnate."
-msgstr "                                                         . ساحرة تجسد إلى تحولت به"
+msgstr "                                                            . ساحرة تجسد إلى تحولت به"
 
 #. ID 43
 #. ID 44
@@ -279,41 +275,41 @@ msgstr "مارد                                  "
 #. ID 44
 msgctxt "items.description"
 msgid "Reconstitute as an oni."
-msgstr "                                                                 . شريراً مارداً مسخت به"
+msgstr "                                                                    . شريراً مارداً مسخت به"
 
 #. ID 45
 #. ID 46
 msgctxt "items.name"
 msgid "Squish-Squish"
-msgstr "دبق-دبق                          "
+msgstr "دبق-دبق                           "
 
 #. ID 45
 #. ID 46
 msgctxt "items.description"
 msgid "Change into a squishy blob."
-msgstr "                                                          . لزج دبق كائن إلى تحولت به"
+msgstr "                                                             . لزج دبق كائن إلى تحولت به"
 
 #. ID 47
 #. ID 48
 msgctxt "items.name"
 msgid "Traffic Light"
-msgstr "إشارة مرور                       "
+msgstr "إشارة مرور                         "
 
 #. ID 47
 #. ID 48
 msgctxt "items.description"
 msgid "Change into a traffic light."
-msgstr "                                                                  . مرور لإشارة تحولت به"
+msgstr "                                                                     . مرور لإشارة تحولت به"
 
 #. ID 57
 msgctxt "items.name"
 msgid "Tutorial"
-msgstr "شرح اللعبة                       "
+msgstr "شرح اللعبة                        "
 
 #. ID 57
 msgctxt "items.description"
 msgid "Review the game's tutorial."
-msgstr "                                                             . اللعب طريقة شرح مراجعة"
+msgstr "                                                                . اللعب طريقة شرح مراجعة"
 
 msgctxt "terms.special_combat"
 msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
@@ -653,19 +649,19 @@ msgstr "تأثير                  "
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
-msgstr "خروج                "
+msgstr "خروج                 "
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr "بدء اللعبة"
+msgstr "بدء اللعبة          "
 
 msgctxt "terms.load_game"
 msgid "Dream Diary"
-msgstr "مفكرة الأحلام"
+msgstr "مفكرة الأحلام     "
 
 msgctxt "terms.exit_game"
 msgid "Quit"
-msgstr "خروج"
+msgstr "خروج                "
 
 msgctxt "terms.lvl_short"
 msgid "E"
@@ -677,11 +673,11 @@ msgstr ""
 
 msgctxt "terms.save_game_message"
 msgid "Write in Diary"
-msgstr "                                                                                  المفكرة كتابة"
+msgstr "                                                                                   المفكرة كتابة"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "                                                                                  المفكرة قراءة"
+msgstr "                                                                                    المفكرة قراءة"
 
 msgctxt "terms.file"
 msgid "Page"
@@ -774,3 +770,4 @@ msgstr ""
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""
+
