@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 1, Line 6, Pos (133,350)
 msgid ""
@@ -18,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　  学生服\\<\\|\\^"
+"\\>　　　　　　　　　　  学生服\\<\\|\\|\\^"
 
 #. ID 2, Page 6, Line 6, Pos (133,350)
 msgid ""
@@ -27,4 +31,3 @@ msgid ""
 "\\>\n"
 "\\>　　　　　　　　GET♪ 「がくラン」\\<\\|\\|\\^"
 msgstr ""
-
