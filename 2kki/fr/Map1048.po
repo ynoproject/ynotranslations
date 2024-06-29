@@ -5,27 +5,25 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
-#. ID 32, Page 1, Line 26, Pos (179,36)
-#. ID 53, Page 1, Line 7, Pos (179,32)
+#. ID 3, Page 1, Line 1, Pos (35,39)
+msgid "YEAH!　AIBOはどこだぁ！！！"
+msgstr ""
+
+#. ID 18, Page 2, Line 7, Pos (61,5)
 msgid ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　メニュータイプ：40\\<\\|\\|\\^"
+"\\>　　　　　　　　\\c[2]メニュータイプ：40\\<\\|\\|\\^\\c[0]"
 msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　   Style de menu:40\\<\\|\\|\\^"
-
-#. ID 279, Page 1, Line 8, Pos (83,100)
-msgid "\\$\\.\\.\\.\\^"
-msgstr ""
+"\\>　　　　　　　   \\c[2]Style de menu:40\\<\\|\\|\\^\\c[0]"
