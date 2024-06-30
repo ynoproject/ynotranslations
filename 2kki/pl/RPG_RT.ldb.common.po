@@ -258,7 +258,7 @@ msgstr "Grób"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Sygnalizacja Kolejowa"
+msgstr "Sygn. Kolejowa"
 
 #. ID 14, Line 175
 #. ChangeHeroName (Actor 8)
