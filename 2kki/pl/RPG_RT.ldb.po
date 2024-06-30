@@ -10081,7 +10081,7 @@ msgstr "Stań się grobem"
 #. ID 44
 msgctxt "items.name"
 msgid "ふみきり"
-msgstr "Sygnalizacja Kolejowa"
+msgstr "Sygn. Kolejowa"
 
 #. ID 44
 #. ID 85
@@ -10305,7 +10305,7 @@ msgstr " Grób"
 #. ID 85
 msgctxt "items.name"
 msgid " ふみきり"
-msgstr " Sygnalizacja Kolejowa"
+msgstr " Sygn. Kolejowa"
 
 #. ID 86
 msgctxt "items.name"
