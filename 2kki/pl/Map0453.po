@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: Fonvight\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
@@ -126,7 +126,7 @@ msgid ""
 msgstr ""
 "\\>◆ Setup Auto-Scrollowania Tapet\n"
 "\\>\n"
-"\\>Zasięg: 1~9999 (Teraz: \\V[3934]) "
+"\\>Zasięg: 1~9999 (Teraz: \\V[3934])"
 
 #. ID 1, Page 3, Line 57, Pos (0,14)
 #. ID 1, Page 3, Line 73, Pos (0,14)
@@ -2858,7 +2858,8 @@ msgid ""
 "\\>未取得のため設定できませんでした"
 msgstr ""
 "\\>◆ Szukanie Tapet\n"
-"\\>Tapeta #\\V[5] nie może być wyświetlona \n"
+"\\>\n"
+"\\>Tapeta #\\V[5] nie może być wyświetlona\n"
 "\\>ponieważ nie jest odblokowana."
 
 #. ID 6, Page 2, Line 42, Pos (1,14)
@@ -2900,7 +2901,8 @@ msgid ""
 "\\>未開放のため再生できませんでした"
 msgstr ""
 "\\>◆ Wybór Muzyki\n"
-"\\>Utwór # \\V[7] nie może być odtowrzony \n"
+"\\>\n"
+"\\>Utwór # \\V[7] nie może być odtowrzony\n"
 "\\>ponieważ nie jest odblokowany."
 
 #. ID 6, Page 6, Line 32, Pos (1,14)

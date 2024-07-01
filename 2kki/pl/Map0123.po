@@ -38,9 +38,11 @@ msgstr "KONIEC?"
 #. ID 301, Page 1, Line 31, Pos (3,1)
 #. Choice (2 options, embedded in a message)
 msgid ""
-"T\n"
+"Y\n"
 "N"
 msgstr ""
+"T\n"
+"N"
 
 #. ID 286, Page 2, Line 2, Pos (24,9)
 msgid ""

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -62,12 +62,13 @@ msgstr ""
 
 #. ID 6, Page 4, Line 845, Pos (12,5)
 #. Contains choice at line 3 (2 options)
+#, fuzzy
 msgid ""
 "\\>No. \\V[46] に変更しました\n"
 "\\>文字色サンプル:\\C[0]$j通常 \\C[1]$k強調 \\C[3]$m選択不可"
 msgstr ""
 "\\>Zmienione na Nr \\V[46]\n"
-"\\>Przykłady koloru czcionki: \\C[0]$jNormalna \\C[1]$kPogrubiona \\C[3]$mWyłaczona"
+"\\>Przykłady koloru czcionki: \\C[0]$jNorm. \\C[1]$kPogr. \\C[3]$mWyła."
 
 #. ID 6, Page 4, Line 847, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -636,7 +637,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Kroki     : \\C[4]\\v[91]\\N[3]\\000000 Steps\\C[0]"
+"\\>　Kroki     : \\C[4]\\v[91]\\N[3]000000 Steps\\C[0]"
 
 #. ID 6, Page 6, Line 982, Pos (12,5)
 msgid ""
