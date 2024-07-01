@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 1, Line 1, Pos (57,2)
 msgid "111111111"
@@ -80,7 +80,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Somnambule"
+msgstr "  Somnambule"
 
 #. ID 26, Page 1, Line 3, Pos (16,0)
 #. ChangeHeroName (Actor 1)
@@ -102,13 +102,13 @@ msgstr "Urotsuki"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢夢夢夢夢病"
-msgstr "Soooomnule"
+msgstr "  Soooomnule"
 
 #. ID 27, Page 1, Line 4, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢。。。。。"
-msgstr "Somnole..."
+msgstr "  Somnole..."
 
 #. ID 27, Page 1, Line 6, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
@@ -126,13 +126,13 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "うろつき"
-msgstr "Urotsuki"
+msgstr "  Urotsuki"
 
 #. ID 27, Page 1, Line 12, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "ああああああ"
-msgstr "AAAAAAAAAAAA"
+msgstr "  AAAAAAAAAAAA"
 
 #. ID 27, Page 1, Line 14, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)

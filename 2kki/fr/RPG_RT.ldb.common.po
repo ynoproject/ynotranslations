@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -723,7 +723,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Somnambule"
+msgstr "  Somnambule"
 
 #. ID 69, Line 55
 msgid ""
