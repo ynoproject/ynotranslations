@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 286, Page 1, Line 1, Pos (24,9)
 #. Contains choice at line 2 (2 options)
@@ -21,7 +21,7 @@ msgstr ""
 #. ID 301, Page 1, Line 30, Pos (3,1)
 #. Contains choice at line 2 (2 options)
 msgid "END?"
-msgstr "FIN?"
+msgstr "FIN ?"
 
 #. ID 286, Page 1, Line 2, Pos (24,9)
 #. Choice (2 options, embedded in a message)
@@ -50,14 +50,14 @@ msgid ""
 "\\>　DEAD: \\c[2]\\v[1262]\\c[0]"
 msgstr ""
 "\\>\\c[4]SAUVEGARDE PRÉCÉDENTE\\c[0] \n"
-"\\>　MORTS: \\c[2]\\v[1262]\\c[0]"
+"\\>　MORTS : \\c[2]\\v[1262]\\c[0]"
 
 #. ID 286, Page 2, Line 5, Pos (24,9)
 #. Contains choice at line 2 (2 options)
 #. ID 286, Page 2, Line 31, Pos (24,9)
 #. Contains choice at line 2 (2 options)
 msgid "SAVE?"
-msgstr "SAUVER?"
+msgstr "SAUVER ?"
 
 #. ID 286, Page 2, Line 28, Pos (24,9)
 msgid ""
@@ -65,17 +65,17 @@ msgid ""
 "\\>　NO DATA"
 msgstr ""
 "\\>\\c[4]SAUVEGARDE PRÉCÉDENTE\\c[0] \n"
-"\\>　AUCUNE DONNÉES"
+"\\>　AUCUNE DONNÉE"
 
 #. ID 287, Page 1, Line 30, Pos (56,10)
 #. Contains choice at line 2 (2 options)
 msgid "Re?"
-msgstr ""
+msgstr "Re ?"
 
 #. ID 287, Page 1, Line 132, Pos (56,10)
 #. ID 301, Page 1, Line 122, Pos (3,1)
 msgid "ゲーム中の音楽募集中"
-msgstr "Recherche musique de jeu!"
+msgstr "Recherche musique de jeu !"
 
 #. ID 301, Page 1, Line 4, Pos (3,1)
 #. Choice (3 options)

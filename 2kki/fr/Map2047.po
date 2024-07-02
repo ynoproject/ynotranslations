@@ -112,15 +112,17 @@ msgstr "  Somnole..."
 
 #. ID 27, Page 1, Line 6, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
+#, fuzzy
 msgctxt "actors.title"
 msgid "朴念仁"
-msgstr ""
+msgstr "  朴念仁"
 
 #. ID 27, Page 1, Line 8, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
+#, fuzzy
 msgctxt "actors.title"
 msgid "insomnia"
-msgstr ""
+msgstr "  insomnia"
 
 #. ID 27, Page 1, Line 10, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
@@ -136,15 +138,17 @@ msgstr "  AAAAAAAAAAAA"
 
 #. ID 27, Page 1, Line 14, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
+#, fuzzy
 msgctxt "actors.title"
 msgid "xxxxxxxx"
-msgstr ""
+msgstr "  xxxxxxxx"
 
 #. ID 27, Page 1, Line 16, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
+#, fuzzy
 msgctxt "actors.title"
 msgid "螟｢驕顔羅"
-msgstr ""
+msgstr "  螟｢驕顔羅"
 
 #. ID 28, Page 1, Line 2, Pos (11,2)
 #. ChangeHeroName (Actor 1)
@@ -212,7 +216,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　   Style de menu:52\\<\\|\\|\\^"
+"\\>　　　　　　　  Style de menu : 52\\<\\|\\|\\^"
 
 #. ID 29, Page 1, Line 18, Pos (91,98)
 msgid ""
@@ -232,7 +236,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　■■■■■■■■■■■■■:52\\<\\|\\|\\^"
+"\\>　　　　　■■■■■ ■■ ■■■■ : 52\\<\\|\\|\\^"
 
 #. ID 33, Page 1, Line 1, Pos (87,115)
 #. Choice (2 options)
