@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 278, Page 1, Line 9, Pos (92,111)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：73\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  Menu Type: 73\\<\\|\\|\\^"
+
+#. ID 550, Page 1, Line 29, Pos (90,87)
+msgid "\\$\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 550, Page 1, Line 34, Pos (90,87)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 572, Page 1, Line 6, Pos (93,3)
+#. ID 573, Page 1, Line 6, Pos (95,3)
+msgid ""
+"<placeholder>\n"
+"<menu shroom>\n"
+"<THIS TEXT SHOULD NOT SHOW INGAME. PLEASE\n"
+"REPORT IF IT DOES>"
+msgstr ""

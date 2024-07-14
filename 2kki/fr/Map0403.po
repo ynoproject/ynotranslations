@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 1, Line 7, Pos (26,3)
 msgid "Ｐ獲得：通常クリア！"
-msgstr "Point acquis : Normal terminé!"
+msgstr "Point acquis : Normal terminé !"
 
 #. ID 2, Page 1, Line 15, Pos (26,3)
 msgid "Ｐ獲得：短時間クリア！"
-msgstr "Point acquis : Terminé rapidement!"
+msgstr "Point acquis : Terminé rapidement !"
 
 #. ID 2, Page 1, Line 20, Pos (26,3)
 msgid "Ｐ未獲得：短時間クリア"
@@ -27,7 +27,7 @@ msgstr "Point non acquis : Terminé rapidement"
 #. ID 2, Page 1, Line 28, Pos (26,3)
 msgid "Ｐ獲得：チップ回収クリア！"
 msgstr ""
-"Point acquis : Terminé avec tous les \n"
+"Point acquis : Terminé avec tous les\n"
 "jetons collectés!"
 
 #. ID 2, Page 1, Line 33, Pos (26,3)
@@ -38,17 +38,17 @@ msgstr ""
 
 #. ID 2, Page 1, Line 41, Pos (26,3)
 msgid "Ｐ獲得：ノーミスクリア！"
-msgstr "Point acquis: Terminé parfaitement!"
+msgstr "Point acquis : Terminé parfaitement !"
 
 #. ID 2, Page 1, Line 46, Pos (26,3)
 msgid "Ｐ未獲得：ノーミスクリア"
-msgstr "Point non acquis: Terminé parfaitement"
+msgstr "Point non acquis : Terminé parfaitement"
 
 #. ID 2, Page 1, Line 54, Pos (26,3)
 msgid "Ｐ獲得：全セーブポイント通過クリア！"
 msgstr ""
 "Point acquis : Terminé avec tous les points\n"
-"de passage!"
+"de passage !"
 
 #. ID 2, Page 1, Line 59, Pos (26,3)
 msgid "Ｐ未獲得：全セーブポイント通過クリア"
