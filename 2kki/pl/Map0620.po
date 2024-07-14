@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 1477, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -73,16 +73,17 @@ msgid "J"
 msgstr ""
 
 #. ID 1, Page 1, Line 1804, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>$s$t$u$v：曲の選択\n"
 "\\>Z       ：曲の演奏・No.指定登録\n"
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v: Track Selection\n"
-"\\>Z       : Play Track・Reg. Track No.\n"
-"\\>X       : Go to Menu\n"
-"\\>Shift   : View Track Info・Register"
+"\\>$s$t$u$v: Wybór Utworu\n"
+"\\>Z       : Odtwórz・Reg. Track No.\n"
+"\\>X       : Idź Do Menu\n"
+"\\>Shift   : Wyświetl Info・Rejestruj"
 
 #. ID 1, Page 1, Line 1810, Pos (19,14)
 msgid ""
@@ -105,7 +106,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [1/3]\n"
 "\\>・Powróć Do Ekranu PC\n"
-"\\>・Przejdź Do Starego Sound Room\n"
+"\\>・Do Starego Sound Room\n"
 "\\>・Wyświetl Instrukcje"
 
 #. ID 1, Page 1, Line 1829, Pos (19,14)
@@ -117,7 +118,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[0]Dostępne Opcje Menu [1/3]\n"
 "\\>・Powróć Do Ekranu PC\n"
-"\\>・Przejdź Do Starego Sound Room\\_/\\_Sound Room ED\n"
+"\\>・Do Starego Sound Room\\_/\\_Zakończenie\n"
 "\\>・Wyświetl Instrukcje"
 
 #. ID 1, Page 1, Line 1841, Pos (19,14)
@@ -855,6 +856,7 @@ msgid "【★リストを表示する】"
 msgstr ""
 
 #. ID 1, Page 2, Line 679, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]サウンドサーチ\\C[0]\n"
 "\\>\n"
@@ -1060,6 +1062,7 @@ msgstr ""
 "\\>  może \\C[1]zająć chwilę"
 
 #. ID 1, Page 2, Line 1126, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1072,6 +1075,7 @@ msgstr ""
 "\\>　注意してください"
 
 #. ID 1, Page 2, Line 1130, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1180,7 +1184,7 @@ msgid ""
 "\\>＞ジャンプ先No.を指定してください\n"
 "\\>　（\\C[1]1～\\V[111]\\C[0]  0でｷｬﾝｾﾙ  \\V[591]以上でﾗﾝﾀﾞﾑ）"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0] (Bierzący: \\C[4]Nr\\V[110]\\C[0])\n"
+"\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0] (Bierzący: \\C[4]Nr \\V[110]\\C[0])\n"
 "\\>\n"
 "\\>> Podaj Nr utworu do którego przejść\n"
 "\\>  (\\C[1]1~\\V[111]\\C[0]  0 aby anulować  \\V[591] i powyższe są losowe)"
@@ -1193,7 +1197,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ustaw Pozycje Kurs.\\C[0] (Bierzący: \\C[4]Nr \\V[110]\\C[0])\n"
 "\\>\n"
-"\\>  (\\C[1]1~\\V[111]\\C[0]  0 aby anulować  \\V[591] i powyższe są losowe)"
+"\\>> (\\C[1]1~\\V[111]\\C[0]  0 aby anulować  \\V[591] i powyższe są losowe)"
 
 #. ID 1, Page 2, Line 1580, Pos (19,14)
 msgid ""
@@ -1387,6 +1391,7 @@ msgstr ""
 "\\>> Utwór Nr \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] został zarejestrowany"
 
 #. ID 1, Page 2, Line 1997, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
@@ -1639,6 +1644,7 @@ msgstr ""
 "\\>> Zmiany zostały zapisane\\<\\.\\.\\^"
 
 #. ID 1, Page 4, Line 611, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[0]デバッグ確認\n"
 "\\>\n"
@@ -1865,7 +1871,7 @@ msgid ""
 "\\>旧SRへ移動"
 msgstr ""
 "\\>\\C[4]Opuść i powróć do \\N[6]\\C[0]\n"
-"\\>Przejdź do starego Sound Room"
+"\\>Do starego Sound Room"
 
 #. ID 1, Page 5, Line 650, Pos (19,14)
 #. Contains choice at line 2 (3 options)
@@ -1880,8 +1886,8 @@ msgid ""
 "\\>SREDを見る"
 msgstr ""
 "\\>\\C[4]Opuść i powróć do \\N[6]\\C[0]\n"
-"\\>Przejdź do starego Sound Room\n"
-"\\>Wyświetl Sound Room ED"
+"\\>Do starego Sound Room\n"
+"\\>Wyświetl Zakończenie"
 
 #. ID 1, Page 5, Line 668, Pos (19,14)
 #. ChangeHeroName (Actor 1)

@@ -12,14 +12,14 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.4.4\n"
 
-#. ID 25, Page 1, Line 12, Pos (85,8)
+#. ID 42, Page 1, Line 4, Pos (98,97)
 msgid ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　ドラムかん\\<\\|\\^"
+"\\>　　　　　　　　メニュータイプ：72\\<\\|\\|\\^"
 msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　　　 Beczka\\<\\|\\^"
+"\\>　　　　　　　　  Typ Menu: 72\\<\\|\\|\\^"

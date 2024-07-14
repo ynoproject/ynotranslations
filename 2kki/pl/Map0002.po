@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -62,12 +62,13 @@ msgstr ""
 
 #. ID 6, Page 4, Line 845, Pos (12,5)
 #. Contains choice at line 3 (2 options)
+#, fuzzy
 msgid ""
 "\\>No. \\V[46] に変更しました\n"
 "\\>文字色サンプル:\\C[0]$j通常 \\C[1]$k強調 \\C[3]$m選択不可"
 msgstr ""
 "\\>Zmienione na Nr \\V[46]\n"
-"\\>Przykłady koloru czcionki: \\C[0]$jNormalna \\C[1]$kPogrubiona \\C[3]$mWyłaczona"
+"\\>Przykłady koloru czcionki: \\C[0]$jNorm. \\C[1]$kPogr. \\C[3]$mWyła."
 
 #. ID 6, Page 4, Line 847, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -271,7 +272,7 @@ msgstr "Włączone"
 #. ID 6, Page 6, Line 581, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
-msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Tapeta: No.\\C[4]\\V[19] \\C[0]Losowa: \\C[4]\\N[2] \\C[0]Nowa: \\C[4]\\N[3]\\C[0]"
+msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Tapeta: \\C[4]\\V[19] \\C[0]Los: \\C[4]\\N[2] \\C[0]Nowa: \\C[4]\\N[3]\\C[0]"
 
 #. ID 6, Page 6, Line 582, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -290,8 +291,8 @@ msgid ""
 "\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
 "\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
 msgstr ""
-"\\>Use the file at in Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
-"\\>\\C[4]Jeżeli plik nie może być odczytany, gra się zawiesi.\\C[0]"
+"\\>Użyj pliku w Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
+"\\>\\C[4]Gdy plik nie może być odczytany, gra się zawiesi.\\C[0]"
 
 #. ID 6, Page 6, Line 600, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -351,7 +352,7 @@ msgstr "\\>Wyłączono."
 #. ID 6, Page 6, Line 659, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
-msgstr "\\>Bierzące Ustawienie Powiadomienia Nowych Tapet: \\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>Bierzące Powiadomienia Nowych Tapet: \\C[4]\\N[2]\\C[0]\n"
 
 #. ID 6, Page 6, Line 677, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -577,7 +578,7 @@ msgid ""
 "\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]\n"
 "\\>(最初に入手したエフェクトは \\C[4]\\N[8]\\C[0])"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
 "\\>　　Wersja: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
 "\\>　　Efekty: \\C[4]\\V[2]％\\C[0]\n"
 "\\> (Pierwszy efekt zdobyty to \\C[4]\\N[8]\\C[0])"
@@ -589,10 +590,10 @@ msgid ""
 "\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
 "\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
-"\\>Sound Room   : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
-"\\>Tapety: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
-"\\>Zagadki Kura : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
+"\\>Sound Room  : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Tapety      : \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Zagadki Kura: \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
 #. ID 6, Page 6, Line 958, Pos (12,5)
 msgid ""
@@ -602,7 +603,7 @@ msgid ""
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
 msgstr ""
 "\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
-"\\>Czas Gry  : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
+"\\>Czas Gry     : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
 "\\>　　　　(Wyklucza czas w menu)\n"
 "\\>Pierwsze Zak.: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
@@ -614,7 +615,7 @@ msgid ""
 "\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
 msgstr ""
 "\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
-"\\>Czas Gry  : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>Czas Gry     : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>　　　　(Wyklucza czas w menu)\n"
 "\\>Pierwsze Zak.: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
 
@@ -626,7 +627,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Kroki: \\C[4]\\v[90] Steps\\C[0]"
+"\\>　Kroki     : \\C[4]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 977, Pos (12,5)
 msgid ""
@@ -634,9 +635,9 @@ msgid ""
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[91]\\N[3]000000歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Kroki: \\C[4]\\v[91]\\N[3]\\000000 Steps\\C[0]"
+"\\>　Kroki     : \\C[4]\\v[91]\\N[3]000000 Steps\\C[0]"
 
 #. ID 6, Page 6, Line 982, Pos (12,5)
 msgid ""
@@ -644,9 +645,9 @@ msgid ""
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[91]\\N[3]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Kroki: \\C[4]\\v[91]\\N[3]\\v[90] Steps\\C[0]"
+"\\>　Kroki     : \\C[4]\\v[91]\\N[3]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 989, Pos (12,5)
 msgid ""
@@ -654,9 +655,9 @@ msgid ""
 "\\>訪れた世界： \\C[4]\\V[71]ヵ所\\C[0]ぐらい\n"
 "\\>　　殺傷数： \\C[4]\\v[3936]回\\C[0](無機物も含む)"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
 "\\>Światy Odwiedzone: \\C[4]\\V[71]\\C[0] (około)\n"
-"\\>Zabójstwa    : \\C[4]\\v[3936]\\C[0] (wlicza obiekty)"
+"\\>Zabójstwa        : \\C[4]\\v[3936]\\C[0] (wlicza obiekty)"
 
 #. ID 6, Page 6, Line 1019, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -673,7 +674,7 @@ msgid ""
 "\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
 "\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
 "\\>　　Wersja: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
 "\\>　　Efekty: \\C[4]\\V[2]%\\C[0]"
 
@@ -686,8 +687,8 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
 "\\>Sound Room  : \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
-"\\>Tapety: \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
-"\\>Zagadki Kura : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+"\\>Tapety      : \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Zagadki Kura: \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
 
 #. ID 6, Page 6, Line 1028, Pos (12,5)
 msgid ""
@@ -695,8 +696,8 @@ msgid ""
 "\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
 "\\>　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
-"\\>Play Time: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
+"\\>Czas Gry: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>　　　　(Wyklucza czas spędzony w menu)"
 
 #. ID 6, Page 6, Line 1032, Pos (12,5)
@@ -705,9 +706,9 @@ msgid ""
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Kroki: \\C[4]\\v[90] Steps\\C[0]"
+"\\>　Kroki     : \\C[4]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 1037, Pos (12,5)
 msgid ""
@@ -715,9 +716,9 @@ msgid ""
 "\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
 "\\>　　　歩数： \\C[4]\\v[91]\\v[90]歩\\C[0]"
 msgstr ""
-"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>\\C[4]【DANE】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　Ilość Snów: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Kroki: \\C[4]\\v[91]\\v[90] Steps\\C[0]"
+"\\>　Kroki     : \\C[4]\\v[91]\\v[90] Steps\\C[0]"
 
 #. ID 6, Page 6, Line 1051, Pos (12,5)
 #. ChangeHeroName (Actor 5)

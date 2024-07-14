@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 31, Page 2, Line 4, Pos (14,18)
 msgid ""
@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　 Telefon\\<\\|\\^"
+"\\>　　　　　　　　  　 Telefon\\<\\|\\^"
 
 #. ID 32, Page 2, Line 4, Pos (10,14)
 msgid ""
@@ -34,7 +34,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 　　　  Chłopak\\<\\|\\^"
+"\\>　　　　　　  　　　 Chłopak\\<\\|\\^"
 
 #. ID 33, Page 2, Line 4, Pos (7,14)
 msgid ""
@@ -46,7 +46,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　 　　   Motocykl\\<\\|\\^"
+"\\>　　　　　　　 　 　 Motocykl\\<\\|\\^"
 
 #. ID 34, Page 2, Line 4, Pos (17,18)
 msgid ""
@@ -118,7 +118,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　   Wróżka\\<\\|\\^"
+"\\>　　　　　　　　　　  Wróżka\\<\\|\\^"
 
 #. ID 40, Page 2, Line 4, Pos (10,16)
 msgid ""
@@ -130,7 +130,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　 Kombinezon\\<\\|\\^"
+"\\>　　　　　　　　　  Kombinezon\\<\\|\\^"
 
 #. ID 41, Page 2, Line 4, Pos (14,20)
 msgid ""
@@ -154,7 +154,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　  Sprężyna\\<\\|\\^"
+"\\>　　　　　　　　     Sprężyna\\<\\|\\^"
 
 #. ID 43, Page 2, Line 4, Pos (14,16)
 msgid ""
@@ -178,7 +178,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Tęcza\\<\\|\\^"
+"\\>　　　　　　　　　    Tęcza\\<\\|\\^"
 
 #. ID 45, Page 2, Line 4, Pos (7,22)
 msgid ""
@@ -190,7 +190,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Niewidzialne\\<\\|\\^"
+"\\>　　　　　　　　  Niewidzialne\\<\\|\\^"
 
 #. ID 46, Page 2, Line 4, Pos (10,22)
 msgid ""
@@ -202,7 +202,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Uczeń\\<\\|\\^"
+"\\>　　　　　　　　 　   Uczeń\\<\\|\\^"
 
 #. ID 47, Page 2, Line 4, Pos (7,18)
 msgid ""
@@ -238,7 +238,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　 Gips\\<\\|\\^"
+"\\>　　　　　　　    　　Gips\\<\\|\\^"
 
 #. ID 50, Page 2, Line 4, Pos (17,22)
 msgid ""
@@ -250,7 +250,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　 Rozciągnięcie\\<\\|\\^"
+"\\>　　　　　　　 　 Rozciągnięcie\\<\\|\\^"
 
 #. ID 51, Page 2, Line 4, Pos (7,24)
 msgid ""
@@ -274,7 +274,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Puzon\\<\\|\\^"
+"\\>　　　　　　　　　    Puzon\\<\\|\\^"
 
 #. ID 53, Page 2, Line 4, Pos (14,24)
 msgid ""
@@ -286,7 +286,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　   Ciasto\\<\\|\\^"
+"\\>　　　　　　　　　　  Ciasto\\<\\|\\^"
 
 #. ID 54, Page 2, Line 4, Pos (17,24)
 msgid ""
@@ -298,7 +298,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　  Dziecko\\<\\|\\^"
+"\\>　　　　　　　　　　 Dziecko\\<\\|\\^"
 
 #. ID 55, Page 2, Line 4, Pos (7,26)
 msgid ""
@@ -310,7 +310,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　   Czerwony Kapturek\\<\\|\\^"
+"\\>　　　　　　　  Czerwony Kapturek\\<\\|\\^"
 
 #. ID 56, Page 2, Line 4, Pos (10,26)
 msgid ""
@@ -322,7 +322,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　  Chusteczka\\<\\|\\^"
+"\\>　　　　　　　　　  Chusteczka\\<\\|\\^"
 
 #. ID 57, Page 2, Line 4, Pos (10,28)
 msgid ""
@@ -370,7 +370,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　　 Nietoperz\\<\\|\\^"
+"\\>　　　　　　　 　　  Nietoperz\\<\\|\\^"
 
 #. ID 62, Page 2, Line 4, Pos (7,28)
 msgid ""
@@ -394,7 +394,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　　   Beczka\\<\\|\\^"
+"\\>　　　　　　　 　　　 Beczka\\<\\|\\^"
 
 #. ID 67, Page 2, Line 4, Pos (17,28)
 msgid ""
@@ -418,7 +418,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　    Sygnalizacja Kolejowa\\<\\|\\^"
+"\\>　　　　　　      Sygn. Kolejowa\\<\\|\\^"
 
 #. ID 71, Page 2, Line 4, Pos (10,30)
 msgid ""
@@ -430,7 +430,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　  Królicze Uszy\\<\\|\\^"
+"\\>　　　　　　　　　 Królicze Uszy\\<\\|\\^"
 
 #. ID 76, Page 2, Line 4, Pos (14,30)
 msgid ""

@@ -258,7 +258,7 @@ msgstr "Grób"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Sygnalizacja Kolejowa"
+msgstr "Sygn. Kolejowa"
 
 #. ID 14, Line 175
 #. ChangeHeroName (Actor 8)
@@ -531,8 +531,8 @@ msgid ""
 "\\>設定中のシステム効果音が未開放のため、\n"
 "\\>システム効果音の設定を変更しました"
 msgstr ""
-"\\>Since the System SE selected has not been\n"
-"\\>released, your System SE settings were changed."
+"\\>Jako że wybrane Efekty Dźw. nie zostały\n"
+"\\>wprowadzone, przywrócono je do domyślnych."
 
 #. ID 62, Line 508
 msgid ""
@@ -1564,10 +1564,10 @@ msgid ""
 "\\>ｴﾌｪｸﾄｼﾌﾄﾁｪﾝｼﾞの起動を抑制できていない、\n"
 "\\>といった原因が考えられます。"
 msgstr ""
-"\\>You are in the opening effect selection screen\n"
-"\\>of Urotsuki's Room. This might be due to:\n"
-"\\>Not using/unable to control the CEV\n"
-"\\>[Forbid Action while Event]"
+"\\>Jesteś w wstępnej części wyboru efektów\n"
+"\\>w Pokoju Urotsuki. To może być ponieważ:\n"
+"\\>Nie można kontrolować CEV\n"
+"\\>[Zakaż Akcje przy Wydarzeniu]"
 
 #. ID 76, Line 3066
 msgid ""
@@ -1576,10 +1576,10 @@ msgid ""
 "\n"
 "この表示は10秒後に消えます。\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
 msgstr ""
-"This message should not be displayed.\n"
-"Please tell us if you saw it.\n"
+"Ta wiadomość nie powinna się wyświetlać.\n"
+"Powiedz nam jeśli ją zobaczyliście.\n"
 "CEV:0076 MAP:\\V[99] XY:\\V[100]\n"
-"Dismissed in 10 seconds. \\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
+"Zakończone za 10 sekund. \\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
 
 #. ID 80, Line 34
 msgid ""

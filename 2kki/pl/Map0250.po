@@ -3,17 +3,18 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 2, Line 98, Pos (1,2)
 #. Contains choice at line 2 (2 options)
+#, fuzzy
 msgid "スタート地点に戻ります。"
 msgstr "Return to the starting point."
 
@@ -27,8 +28,8 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
-"Yes\n"
-"No"
+"Tak\n"
+"Nie"
 
 #. ID 2, Page 2, Line 136, Pos (1,2)
 msgid ""
@@ -47,7 +48,7 @@ msgid ""
 "　　　　　　　　　　　霜　柱　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　　　　　　Podmrożony Filar　　　　　　　　　　"
+"　　　　　　　   Podmrożony Filar　　　　　　　　　　"
 
 #. ID 10, Page 1, Line 3, Pos (129,13)
 #. ID 184, Page 1, Line 3, Pos (103,13)
@@ -58,7 +59,7 @@ msgid ""
 "　　　　　　　　　　　樹　氷　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　　　　　　Podmrożone Drzewo　　　　　　　　　　"
+"　　　　　　　   Podmrożone Drzewo　　　　　　　　　　"
 
 #. ID 13, Page 1, Line 3, Pos (89,57)
 #. ID 26, Page 1, Line 3, Pos (282,54)
@@ -69,7 +70,7 @@ msgid ""
 "　　　　　　　　　　　あられ　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　　　　　　　　Grad　　　　　　　　　　　"
+"　　　　　　　　　　　 Grad　　　　　　　　　　　"
 
 #. ID 14, Page 1, Line 2, Pos (206,207)
 msgid "EniaruK."
@@ -113,12 +114,12 @@ msgid "・・・・・・・・・・"
 msgstr ""
 
 #. ID 47, Page 2, Line 63, Pos (275,204)
-msgid "　　　　　　　　　　　ZŁE ZAKOŃCZENIE"
-msgstr ""
+msgid "　　　　　　　　　　　BAD END"
+msgstr "　　　　　　      ZŁE ZAKOŃCZENIE"
 
 #. ID 47, Page 3, Line 12, Pos (275,204)
-msgid "　　　　　　　　　　 DOBRE ZAKOŃCZENIE"
-msgstr ""
+msgid "　　　　　　　　　　 GOOD END"
+msgstr "　　　　　　     DOBRE ZAKOŃCZENIE"
 
 #. ID 51, Page 1, Line 2, Pos (78,110)
 msgid "EniumaS."
@@ -190,7 +191,7 @@ msgid ""
 "　　　　　　　　　　　氷　柱　　　　　　　　　　　"
 msgstr ""
 "\n"
-"　　　　　　　　　　　Sopel　　　　　　　　　　　　"
+"　　　　　　　　　　　 Sopel　　　　　　　　　　　　"
 
 #. ID 167, Page 1, Line 2, Pos (43,237)
 msgid "AdnianeroboN."
