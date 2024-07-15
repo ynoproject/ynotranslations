@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: Fonvight <->\n"
 "Language-Team: Fonvight\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
@@ -126,7 +126,7 @@ msgid ""
 msgstr ""
 "\\>◆ Wallpaper Auto-Scrolling Setup\n"
 "\\>\n"
-"\\>Range: 1~9999 (Now: \\V[3934])"
+"\\>Range: 1~9999 (Now: \\V[3934]) "
 
 #. ID 1, Page 3, Line 57, Pos (0,14)
 #. ID 1, Page 3, Line 73, Pos (0,14)
@@ -2609,7 +2609,7 @@ msgid ""
 "\\>現在の設定は「\\V[3934]」\n"
 "\\>初期設定は「30」です"
 msgstr ""
-"\\>Auto-scrolling setup (1~9999)\n"
+"\\>Auto-scrolling setup (1~9999) \n"
 "\\>Now = \\V[3934]\n"
 "\\>Default = 30"
 
@@ -2858,7 +2858,7 @@ msgid ""
 "\\>未取得のため設定できませんでした"
 msgstr ""
 "\\>◆ Wallpaper Search\n"
-"\\>Wallpaper #\\V[5] cannot be viewed, since\n"
+"\\>Wallpaper #\\V[5] cannot be viewed, since \n"
 "\\>it is not yet unlocked."
 
 #. ID 6, Page 2, Line 42, Pos (1,14)
@@ -2900,7 +2900,7 @@ msgid ""
 "\\>未開放のため再生できませんでした"
 msgstr ""
 "\\>◆ BGM Selection\n"
-"\\>Track # \\V[7] cannot be played, since\n"
+"\\>Track # \\V[7] cannot be played, since \n"
 "\\>it is not yet unlocked."
 
 #. ID 6, Page 6, Line 32, Pos (1,14)

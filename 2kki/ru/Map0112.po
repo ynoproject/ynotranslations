@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 183, Page 3, Line 1, Pos (30,8)
+msgid ""
+"とある動画作成者さんにいたく感動して博物館からここに来れるように\n"
+"変更したよ。\n"
+""
+msgstr ""
+
+#. ID 183, Page 3, Line 4, Pos (30,8)
+msgid ""
+"一応あのメガネを使ってリベンジ博物館から旧博物館に行けるルートは\n"
+"残すことにしました。\n"
+""
+msgstr ""
+
+#. ID 183, Page 3, Line 7, Pos (30,8)
+msgid ""
+"そもそもあの旧博物館へのリンクは想定外のバグでしたが\n"
+"あのファラオとミイラが居る部屋は隠し部屋みたいなものにする予定だ\n"
+"ったたのでちょうどいいかなと思います"
+msgstr ""
+
+#. ID 183, Page 3, Line 10, Pos (30,8)
+msgid ""
+"あの部屋からHAL氏に提供した　今現在はMAP0037 404洞窟となっている\n"
+"マップチップでピラミッド内部に繋がるというイメージを想定してたけ\n"
+"どもうその気力はありませんｗｗ"
+msgstr ""
+
+#. ID 183, Page 3, Line 13, Pos (30,8)
+msgid ""
+"ほんとうにもうここらのMAPは何もないけど懐かしい人には懐かしいと\n"
+"思うのでゆっくりしてってね。"
+msgstr ""
+

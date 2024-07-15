@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -355,11 +355,11 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "\\>Adquiridos todos los efectos"
+msgstr "Adquiridos todos los efectos"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "\\>Descartados los todos efectos"
+msgstr "Descartados los todos efectos"
 
 #. ID 43, Line 126
 msgid ""

@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 36, Page 1, Line 251, Pos (2,1)
 #. Contains choice at line 2 (2 options)
@@ -90,7 +90,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>　　　　　　　　    \\_Félicitations !"
+"\\>　　　　　　　　     Félicitations!"
 
 #. ID 39, Page 2, Line 111, Pos (2,5)
 msgid ""
@@ -102,7 +102,7 @@ msgstr ""
 "\n"
 "\n"
 "\n"
-"\\>                \\_Nouveau Record !!"
+"\\>                 Nouveau Record!!"
 
 #. ID 40, Page 3, Line 11, Pos (1,5)
 #. Contains choice at line 2 (3 options)
@@ -116,14 +116,14 @@ msgid ""
 "\\>Control Type (Now:\\V[1471])\n"
 "\\>Close"
 msgstr ""
-"\\>Fond d'écran    (Actuel :\\V[1463])\n"
-"\\>Type de contrôles (Actuel :\\V[1471])\n"
+"\\>Fond d'écran    (Actuel:\\V[1463])\n"
+"\\>Type de contrôles (Actuel:\\V[1471])\n"
 "\\>Fermer"
 
 #. ID 40, Page 3, Line 14, Pos (1,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\> MENU > OPTION > Wallpaper (Now:\\V[1463])"
-msgstr "\\> MENU > OPTION > F. D'ÉCRAN (Actuel :\\V[1463])"
+msgstr "\\> MENU > OPTION > F. D'ÉCRAN (Actuel:\\V[1463])"
 
 #. ID 40, Page 3, Line 15, Pos (1,5)
 #. Choice (3 options, embedded in a message)
@@ -139,7 +139,7 @@ msgstr ""
 #. ID 40, Page 3, Line 30, Pos (1,5)
 #. Contains choice at line 2 (2 options)
 msgid "\\> MENU > OPTION > Control Type (Now:\\V[1471])"
-msgstr "\\> MENU > OPTION > Contrôles (Actuel :\\V[1471])"
+msgstr "\\> MENU > OPTION > Contrôles (Actuel:\\V[1471])"
 
 #. ID 40, Page 3, Line 31, Pos (1,5)
 #. Choice (2 options, embedded in a message)

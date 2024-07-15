@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -355,11 +355,11 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "\\>이펙트를 전부 획득했습니다"
+msgstr "이펙트를 전부 획득했습니다"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "\\>이펙트를 전부 파기했습니다"
+msgstr "이펙트를 전부 파기했습니다"
 
 #. ID 43, Line 126
 msgid ""
@@ -550,7 +550,7 @@ msgstr "우로츠키"
 
 #. ID 62, Line 534
 msgid "\\>　　　　　　　　　　　　　　　　　　　　　　　　　\\^\\"
-msgstr ""
+msgstr "\\>　　　　　　　　　　　　　　　　　　　　　　　　　\\^\\"
 
 #. ID 63, Line 7
 msgid "\\>「おおかみ」が没収されました。"
@@ -677,7 +677,6 @@ msgstr "\\> 배경화면 No.163을 삭제하시겠습니까? 아니면 유지하
 #. Choice (3 options, embedded in a message)
 #. ID 63, Line 608
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "\\>もう１回聞かせて\n"
 "\\>没収してもらう\n"
@@ -685,7 +684,7 @@ msgid ""
 msgstr ""
 "\\>한번 더 말해줘\n"
 "\\> 삭제함\n"
-"\\>入手したままにする"
+"\\"
 
 #. ID 63, Line 571
 msgid ""

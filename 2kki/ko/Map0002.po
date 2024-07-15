@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -96,6 +96,7 @@ msgid ""
 msgstr ""
 "\n"
 "\\>　／       ／\n"
+"\n"
 "\\>♪재생중: 결정키 소리\\<\\.\\.\\^"
 
 #. ID 6, Page 4, Line 1135, Pos (12,5)

@@ -1,0 +1,986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2
+msgid "Chambre"
+msgstr "Chambre"
+
+#. ID 3
+msgid "Chambre degrade"
+msgstr "Chambre degrade"
+
+#. ID 4
+#. ID 29
+msgid "Balcon"
+msgstr "Balcon"
+
+#. ID 5
+msgid "Opening"
+msgstr "Opening"
+
+#. ID 6
+msgid "Balcon2"
+msgstr "Balcon2"
+
+#. ID 7
+msgid "Nexus"
+msgstr "Nexus"
+
+#. ID 8
+msgid "Orbes"
+msgstr "Orbes"
+
+#. ID 9
+msgid "Monde Semaphore"
+msgstr "Monde Semaphore"
+
+#. ID 10
+msgid "Plage"
+msgstr "Plage"
+
+#. ID 11
+msgid "Ruches"
+msgstr "Ruches"
+
+#. ID 12
+msgid "Desert"
+msgstr "Desert"
+
+#. ID 13
+#. ID 63
+msgid "Maison"
+msgstr "Maison"
+
+#. ID 14
+msgid "VraiMaison"
+msgstr "VraiMaison"
+
+#. ID 15
+msgid "Maison1"
+msgstr "Maison1"
+
+#. ID 16
+msgid "Maison2"
+msgstr "Maison2"
+
+#. ID 17
+msgid "Maison3"
+msgstr "Maison3"
+
+#. ID 18
+msgid "JB's House"
+msgstr "JB's House"
+
+#. ID 19
+msgid "Maison4"
+msgstr "Maison4"
+
+#. ID 20
+msgid "Maison5"
+msgstr "Maison5"
+
+#. ID 21
+msgid "Espace"
+msgstr "Espace"
+
+#. ID 22
+msgid "Vaisseau"
+msgstr "Vaisseau"
+
+#. ID 23
+msgid "Mamyrave"
+msgstr "Mamyrave"
+
+#. ID 24
+msgid "Salle de bain"
+msgstr "Salle de bain"
+
+#. ID 25
+msgid "Ronces"
+msgstr "Ronces"
+
+#. ID 26
+msgid "Choses"
+msgstr "Choses"
+
+#. ID 27
+msgid "Couloir"
+msgstr "Couloir"
+
+#. ID 28
+msgid "Chambre100"
+msgstr "Chambre100"
+
+#. ID 30
+msgid "Chambre102"
+msgstr "Chambre102"
+
+#. ID 31
+msgid "Chambre101"
+msgstr "Chambre101"
+
+#. ID 32
+msgid "Prison"
+msgstr "Prison"
+
+#. ID 33
+msgid "Chambre103"
+msgstr "Chambre103"
+
+#. ID 34
+msgid "Chambre104"
+msgstr "Chambre104"
+
+#. ID 35
+msgid "Chambre105"
+msgstr "Chambre105"
+
+#. ID 36
+msgid "Chambre106"
+msgstr "Chambre106"
+
+#. ID 37
+msgid "Chambre107"
+msgstr "Chambre107"
+
+#. ID 38
+msgid "Chambre108"
+msgstr "Chambre108"
+
+#. ID 39
+msgid "Chambre109"
+msgstr "Chambre109"
+
+#. ID 40
+msgid "Chambre110"
+msgstr "Chambre110"
+
+#. ID 41
+msgid "Chambre111"
+msgstr "Chambre111"
+
+#. ID 42
+msgid "Chambre114"
+msgstr "Chambre114"
+
+#. ID 43
+msgid "Chambre113"
+msgstr "Chambre113"
+
+#. ID 44
+msgid "Chambre112"
+msgstr "Chambre112"
+
+#. ID 45
+msgid "Chambre115"
+msgstr "Chambre115"
+
+#. ID 46
+msgid "Couloir2"
+msgstr "Couloir2"
+
+#. ID 47
+msgid "Chambre116"
+msgstr "Chambre116"
+
+#. ID 48
+msgid "Chambre118"
+msgstr "Chambre118"
+
+#. ID 49
+msgid "Chambre119"
+msgstr "Chambre119"
+
+#. ID 50
+msgid "Chambre200"
+msgstr "Chambre200"
+
+#. ID 51
+msgid "Chambre201"
+msgstr "Chambre201"
+
+#. ID 52
+msgid "Chambre202"
+msgstr "Chambre202"
+
+#. ID 53
+msgid "Chambre203"
+msgstr "Chambre203"
+
+#. ID 54
+msgid "Chambre204"
+msgstr "Chambre204"
+
+#. ID 55
+msgid "Chambre205"
+msgstr "Chambre205"
+
+#. ID 56
+msgid "Chambre206"
+msgstr "Chambre206"
+
+#. ID 57
+msgid "Chambre207"
+msgstr "Chambre207"
+
+#. ID 58
+msgid "Chambre208"
+msgstr "Chambre208"
+
+#. ID 59
+msgid "Chambre210"
+msgstr "Chambre210"
+
+#. ID 60
+msgid "Machinetransition"
+msgstr "Machinetransition"
+
+#. ID 61
+msgid "Machine"
+msgstr "Machine"
+
+#. ID 62
+msgid "DEssin"
+msgstr "DEssin"
+
+#. ID 64
+msgid "Bus"
+msgstr "Bus"
+
+#. ID 65
+msgid "Glauque"
+msgstr "Glauque"
+
+#. ID 66
+msgid "Buvette"
+msgstr "Buvette"
+
+#. ID 67
+msgid "Soupe"
+msgstr "Soupe"
+
+#. ID 68
+msgid "Pre-Temple"
+msgstr "Pre-Temple"
+
+#. ID 69
+msgid "Autruche"
+msgstr "Autruche"
+
+#. ID 70
+msgid "Tenebresptofondes"
+msgstr "Tenebresptofondes"
+
+#. ID 71
+msgid "TV"
+msgstr "TV"
+
+#. ID 72
+#. ID 114
+msgid "Ciel"
+msgstr "Ciel"
+
+#. ID 73
+msgid "Commercialentree"
+msgstr "Commercialentree"
+
+#. ID 74
+msgid "Bonbon"
+msgstr "Bonbon"
+
+#. ID 75
+msgid "Commercial"
+msgstr "Commercial"
+
+#. ID 76
+msgid "Toilettes"
+msgstr "Toilettes"
+
+#. ID 77
+msgid "Bonbon2"
+msgstr "Bonbon2"
+
+#. ID 78
+msgid "Abstrait"
+msgstr "Abstrait"
+
+#. ID 79
+msgid "Port"
+msgstr "Port"
+
+#. ID 80
+msgid "Interieurpeniche"
+msgstr "Interieurpeniche"
+
+#. ID 81
+msgid "Fleuve"
+msgstr "Fleuve"
+
+#. ID 82
+msgid "Sous-Sol"
+msgstr "Sous-Sol"
+
+#. ID 83
+msgid "Organeboutique"
+msgstr "Organeboutique"
+
+#. ID 84
+msgid "Naissance"
+msgstr "Naissance"
+
+#. ID 85
+msgid "Peche"
+msgstr "Peche"
+
+#. ID 86
+msgid "tatami"
+msgstr "tatami"
+
+#. ID 87
+msgid "Tatami2"
+msgstr "Tatami2"
+
+#. ID 88
+msgid "Lacblanc"
+msgstr "Lacblanc"
+
+#. ID 89
+msgid "Enfance"
+msgstr "Enfance"
+
+#. ID 90
+msgid "ProjectEPACSE"
+msgstr "ProjectEPACSE"
+
+#. ID 91
+msgid "Mouche"
+msgstr "Mouche"
+
+#. ID 92
+msgid "Jumeaux"
+msgstr "Jumeaux"
+
+#. ID 93
+msgid "Ado"
+msgstr "Ado"
+
+#. ID 94
+msgid "Comptines"
+msgstr "Comptines"
+
+#. ID 95
+msgid "Passage"
+msgstr "Passage"
+
+#. ID 96
+msgid "Bouillant"
+msgstr "Bouillant"
+
+#. ID 97
+msgid "Adulte"
+msgstr "Adulte"
+
+#. ID 98
+msgid "Grotte Ocre"
+msgstr "Grotte Ocre"
+
+#. ID 99
+msgid "Passerelle"
+msgstr "Passerelle"
+
+#. ID 100
+msgid "Vieux"
+msgstr "Vieux"
+
+#. ID 101
+msgid "Coiffeur"
+msgstr "Coiffeur"
+
+#. ID 102
+msgid "Ponton"
+msgstr "Ponton"
+
+#. ID 103
+msgid "Neigepunition"
+msgstr "Neigepunition"
+
+#. ID 104
+msgid "Bureausecret"
+msgstr "Bureausecret"
+
+#. ID 105
+msgid "Verspalais"
+msgstr "Verspalais"
+
+#. ID 106
+msgid "Monde Mignon"
+msgstr "Monde Mignon"
+
+#. ID 107
+msgid "Dalle"
+msgstr "Dalle"
+
+#. ID 108
+msgid "Mer"
+msgstr "Mer"
+
+#. ID 109
+msgid "Temple"
+msgstr "Temple"
+
+#. ID 110
+msgid "Hopital"
+msgstr "Hopital"
+
+#. ID 111
+msgid "HopitalChambre"
+msgstr "HopitalChambre"
+
+#. ID 112
+msgid "HopitalDudehros"
+msgstr "HopitalDudehros"
+
+#. ID 113
+msgid "Flou"
+msgstr "Flou"
+
+#. ID 115
+msgid "Bulle Rose"
+msgstr "Bulle Rose"
+
+#. ID 116
+msgid "Couloircontamine"
+msgstr "Couloircontamine"
+
+#. ID 117
+msgid "Pendules"
+msgstr "Pendules"
+
+#. ID 118
+msgid "Plancher"
+msgstr "Plancher"
+
+#. ID 119
+msgid "FuséeVersEspace"
+msgstr "FuséeVersEspace"
+
+#. ID 120
+msgid "FuséeVersPlancher"
+msgstr "FuséeVersPlancher"
+
+#. ID 121
+msgid "Abysses"
+msgstr "Abysses"
+
+#. ID 122
+msgid "Silouhette11"
+msgstr "Silouhette11"
+
+#. ID 123
+msgid "Silouhette12"
+msgstr "Silouhette12"
+
+#. ID 124
+msgid "Silouhette10"
+msgstr "Silouhette10"
+
+#. ID 125
+msgid "Silouhette13"
+msgstr "Silouhette13"
+
+#. ID 126
+msgid "Silouhette14"
+msgstr "Silouhette14"
+
+#. ID 127
+msgid "Silouhette15"
+msgstr "Silouhette15"
+
+#. ID 128
+msgid "Silouhette09"
+msgstr "Silouhette09"
+
+#. ID 129
+msgid "Silouhette06"
+msgstr "Silouhette06"
+
+#. ID 130
+msgid "Silouhette05"
+msgstr "Silouhette05"
+
+#. ID 131
+msgid "Silouhette04"
+msgstr "Silouhette04"
+
+#. ID 132
+msgid "Silouhette03"
+msgstr "Silouhette03"
+
+#. ID 133
+msgid "Silouhette07"
+msgstr "Silouhette07"
+
+#. ID 134
+msgid "Silouhette02"
+msgstr "Silouhette02"
+
+#. ID 135
+msgid "Silouhette01"
+msgstr "Silouhette01"
+
+#. ID 136
+msgid "Silouhette16"
+msgstr "Silouhette16"
+
+#. ID 137
+msgid "Silouhette08"
+msgstr "Silouhette08"
+
+#. ID 138
+msgid "Effet visse"
+msgstr "Effet visse"
+
+#. ID 139
+msgid "Labyrinthe"
+msgstr "Labyrinthe"
+
+#. ID 140
+msgid "Magie"
+msgstr "Magie"
+
+#. ID 141
+msgid "Artichauts"
+msgstr "Artichauts"
+
+#. ID 142
+msgid "Melasse"
+msgstr "Melasse"
+
+#. ID 143
+msgid "Tunnel"
+msgstr "Tunnel"
+
+#. ID 144
+msgid "CheveuxPart1"
+msgstr "CheveuxPart1"
+
+#. ID 145
+msgid "Gare entree"
+msgstr "Gare entree"
+
+#. ID 146
+msgid "CrazyMaze"
+msgstr "CrazyMaze"
+
+#. ID 147
+msgid "Gare dedans"
+msgstr "Gare dedans"
+
+#. ID 148
+msgid "Grottesorciere"
+msgstr "Grottesorciere"
+
+#. ID 149
+msgid "Hutte1"
+msgstr "Hutte1"
+
+#. ID 150
+msgid "Hutte2"
+msgstr "Hutte2"
+
+#. ID 151
+msgid "Hutte3"
+msgstr "Hutte3"
+
+#. ID 152
+msgid "Hutte4"
+msgstr "Hutte4"
+
+#. ID 153
+msgid "Hutte5"
+msgstr "Hutte5"
+
+#. ID 154
+msgid "Hutte6"
+msgstr "Hutte6"
+
+#. ID 155
+msgid "Hutte7"
+msgstr "Hutte7"
+
+#. ID 156
+msgid "HutteChef"
+msgstr "HutteChef"
+
+#. ID 157
+msgid "Rail"
+msgstr "Rail"
+
+#. ID 158
+msgid "Brosse"
+msgstr "Brosse"
+
+#. ID 159
+msgid "Centrale"
+msgstr "Centrale"
+
+#. ID 160
+msgid "Chemindespate"
+msgstr "Chemindespate"
+
+#. ID 161
+msgid "Nurserie"
+msgstr "Nurserie"
+
+#. ID 162
+msgid "Jardinabysses"
+msgstr "Jardinabysses"
+
+#. ID 163
+msgid "Rail2"
+msgstr "Rail2"
+
+#. ID 164
+msgid "Cerisier"
+msgstr "Cerisier"
+
+#. ID 165
+msgid "CiseauxPart2"
+msgstr "CiseauxPart2"
+
+#. ID 166
+msgid "Transfert"
+msgstr "Transfert"
+
+#. ID 167
+msgid "Roxanemaison"
+msgstr "Roxanemaison"
+
+#. ID 168
+msgid "Torture"
+msgstr "Torture"
+
+#. ID 169
+msgid "ChezRoxane"
+msgstr "ChezRoxane"
+
+#. ID 170
+msgid "Geyser"
+msgstr "Geyser"
+
+#. ID 171
+msgid "Cheminextra"
+msgstr "Cheminextra"
+
+#. ID 172
+msgid "Pluie"
+msgstr "Pluie"
+
+#. ID 173
+msgid "Champs-Lozere"
+msgstr "Champs-Lozere"
+
+#. ID 174
+msgid "Crepe"
+msgstr "Crepe"
+
+#. ID 175
+msgid "Champs-Lozere2"
+msgstr "Champs-Lozere2"
+
+#. ID 176
+msgid "Train"
+msgstr "Train"
+
+#. ID 177
+msgid "JO"
+msgstr "JO"
+
+#. ID 178
+msgid "SalonversJardin"
+msgstr "SalonversJardin"
+
+#. ID 179
+msgid "Mine-Orbe"
+msgstr "Mine-Orbe"
+
+#. ID 180
+msgid "Mall"
+msgstr "Mall"
+
+#. ID 181
+msgid "Mine-Orbe-2"
+msgstr "Mine-Orbe-2"
+
+#. ID 182
+msgid "Chambre-2"
+msgstr "Chambre-2"
+
+#. ID 183
+msgid "Containers"
+msgstr "Containers"
+
+#. ID 184
+msgid "Chaufferie"
+msgstr "Chaufferie"
+
+#. ID 185
+msgid "Chambre-2-degrade"
+msgstr "Chambre-2-degrade"
+
+#. ID 186
+msgid "Jeux"
+msgstr "Jeux"
+
+#. ID 187
+msgid "Pre-Bar"
+msgstr "Pre-Bar"
+
+#. ID 188
+msgid "Bar"
+msgstr "Bar"
+
+#. ID 189
+msgid "BarPendu"
+msgstr "BarPendu"
+
+#. ID 190
+msgid "CheveuxPart3"
+msgstr "CheveuxPart3"
+
+#. ID 191
+msgid "Choix-Tableaux"
+msgstr "Choix-Tableaux"
+
+#. ID 192
+msgid "ZooZone-3"
+msgstr "ZooZone-3"
+
+#. ID 193
+msgid "ZooZone-1"
+msgstr "ZooZone-1"
+
+#. ID 194
+msgid "ZooZone-2"
+msgstr "ZooZone-2"
+
+#. ID 195
+msgid "ZooZone-5"
+msgstr "ZooZone-5"
+
+#. ID 196
+msgid "ZooZone-4"
+msgstr "ZooZone-4"
+
+#. ID 197
+msgid "Vivarium"
+msgstr "Vivarium"
+
+#. ID 198
+msgid "Aquarium"
+msgstr "Aquarium"
+
+#. ID 199
+msgid "Pouleine"
+msgstr "Pouleine"
+
+#. ID 200
+msgid "Pouleine-Voyage"
+msgstr "Pouleine-Voyage"
+
+#. ID 201
+msgid "EpacseIle"
+msgstr "EpacseIle"
+
+#. ID 202
+msgid "Sequoia"
+msgstr "Sequoia"
+
+#. ID 203
+msgid "Prison-2"
+msgstr "Prison-2"
+
+#. ID 204
+msgid "Espace-2"
+msgstr "Espace-2"
+
+#. ID 205
+msgid "ZooZone-6"
+msgstr "ZooZone-6"
+
+#. ID 206
+msgid "Glace"
+msgstr "Glace"
+
+#. ID 207
+msgid "VersVue"
+msgstr "VersVue"
+
+#. ID 208
+msgid "Vue"
+msgstr "Vue"
+
+#. ID 209
+msgid "PistesSki"
+msgstr "PistesSki"
+
+#. ID 210
+msgid "Pistes-2"
+msgstr "Pistes-2"
+
+#. ID 211
+msgid "BasPiste"
+msgstr "BasPiste"
+
+#. ID 212
+msgid "Musee-Meca"
+msgstr "Musee-Meca"
+
+#. ID 213
+msgid "Musee-Astro"
+msgstr "Musee-Astro"
+
+#. ID 214
+msgid "Telesiege"
+msgstr "Telesiege"
+
+#. ID 215
+msgid "TelesiegeAction"
+msgstr "TelesiegeAction"
+
+#. ID 216
+msgid "Musee"
+msgstr "Musee"
+
+#. ID 217
+msgid "Entrepot"
+msgstr "Entrepot"
+
+#. ID 218
+msgid "Appart"
+msgstr "Appart"
+
+#. ID 219
+msgid "ZooZone-7"
+msgstr "ZooZone-7"
+
+#. ID 220
+msgid "Musee-Geol"
+msgstr "Musee-Geol"
+
+#. ID 221
+msgid "Entree"
+msgstr "Entree"
+
+#. ID 222
+msgid "Desole"
+msgstr "Desole"
+
+#. ID 223
+msgid "Revasse"
+msgstr "Revasse"
+
+#. ID 224
+msgid "Rail3"
+msgstr "Rail3"
+
+#. ID 225
+#. ID 228
+msgid "Infini-1"
+msgstr "Infini-1"
+
+#. ID 226
+msgid "Infini-2"
+msgstr "Infini-2"
+
+#. ID 227
+msgid "Infini-3"
+msgstr "Infini-3"
+
+#. ID 229
+msgid "Infini-4"
+msgstr "Infini-4"
+
+#. ID 230
+msgid "Infini-5"
+msgstr "Infini-5"
+
+#. ID 231
+msgid "Infini-6"
+msgstr "Infini-6"
+
+#. ID 232
+msgid "Infini-7"
+msgstr "Infini-7"
+
+#. ID 233
+msgid "Infini-8"
+msgstr "Infini-8"
+
+#. ID 234
+msgid "Infini-9"
+msgstr "Infini-9"
+
+#. ID 235
+msgid "Infini-10"
+msgstr "Infini-10"
+
+#. ID 236
+msgid "Infini-11"
+msgstr "Infini-11"
+
+#. ID 237
+msgid "Orbes-2"
+msgstr "Orbes-2"
+
+#. ID 238
+msgid "Semaphore-1"
+msgstr "Semaphore-1"
+
+#. ID 239
+msgid "Semaphore-2"
+msgstr "Semaphore-2"
+
+#. ID 240
+msgid "Semaphore-3"
+msgstr "Semaphore-3"
+
+#. ID 241
+msgid "Semaphore-4"
+msgstr "Semaphore-4"
+
+#. ID 242
+msgid "Semaphore-5"
+msgstr "Semaphore-5"
+
+#. ID 243
+msgid "Musee-Medecine"
+msgstr "Musee-Medecine"
+
+#. ID 244
+msgid "Semaphore-F"
+msgstr "Semaphore-F"
+
+#. ID 245
+msgid "Infini-12"
+msgstr "Infini-12"
+
+#. ID 246
+msgid "Infini-13"
+msgstr "Infini-13"
+
+#. ID 247
+msgid "Infini-14"
+msgstr "Infini-14"
+
+#. ID 248
+msgid "Desert-2"
+msgstr "Desert-2"
+

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -242,7 +242,7 @@ msgstr ""
 
 #. ID 6, Page 6, Line 552, Pos (12,5)
 msgid "\\>壁紙メニューのオプションで設定が変えられます"
-msgstr "\\>As configurações podem ser alteradas nas opções do menu de papel de parede"
+msgstr "\\>As configurações podem ser alteradas nas opções do menu de papel de parede "
 
 #. ID 6, Page 6, Line 567, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -630,7 +630,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DADOS】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
-"\\>　Passos Dados : \\C[4]\\v[90] Passos\\C[0]"
+"\\>　Passos Dados: \\C[4]\\v[90] Passos\\C[0]"
 
 #. ID 6, Page 6, Line 977, Pos (12,5)
 msgid ""
@@ -721,7 +721,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DADOS】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
 "\\>　Tempo de Sono: \\C[4]\\v[43] Dias\\C[0]\n"
-"\\>　Passos Dados : \\C[4]\\v[91]\\v[90] Passos\\C[0]"
+"\\>　Passos Dados: \\C[4]\\v[91]\\v[90] Passos\\C[0]"
 
 #. ID 6, Page 6, Line 1051, Pos (12,5)
 #. ChangeHeroName (Actor 5)

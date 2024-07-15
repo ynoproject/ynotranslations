@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -9707,7 +9707,7 @@ msgstr "★ Debug ★"
 #. ID 1
 msgctxt "items.description"
 msgid "デバッグモードを起動する"
-msgstr "Reiniciar o Modo Debug."
+msgstr "Reiniciar o Modo Debug"
 
 #. ID 2
 #. ID 3
@@ -9890,7 +9890,7 @@ msgstr "Inseto"
 #. ID 67
 msgctxt "items.description"
 msgid "「むし」っぽくなる"
-msgstr "Se torne um insectoide."
+msgstr "Se torne um insectoide "
 
 #. ID 27
 msgctxt "items.name"
@@ -10136,7 +10136,7 @@ msgstr "Introduções"
 #. ID 50
 msgctxt "items.description"
 msgid "「ゲームのせつめい」をみる"
-msgstr "Ver introduções do jogo."
+msgstr "Ver introduções do jogo"
 
 #. ID 52
 msgctxt "items.name"
@@ -10336,7 +10336,7 @@ msgstr "Chave"
 #. ID 90
 msgctxt "items.description"
 msgid "格子の模様が入った鍵"
-msgstr "Uma chave com um padrão de treliça."
+msgstr "Uma chave com um padrão de treliça"
 
 #. ID 1
 msgctxt "states.message_actor"

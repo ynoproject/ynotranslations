@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1, Page 1, Line 24, Pos (19,14)
 #. Condition (Actor Name = 【★リストを表示する】)
@@ -486,7 +486,7 @@ msgstr ""
 "\\>\\C[10]■\\C[6] Tự động phát\\C[0]\n"
 "\\>\n"
 "\\>＞Phát nhạc tự động dựa trên các điều kiện \n"
-"\\>  xác định"
+"  xác định"
 
 #. ID 1, Page 1, Line 2027, Pos (19,14)
 msgid ""
@@ -702,7 +702,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■\\C[6] Cài đặt thời gian phát\\C[0]\n"
 "\\>\n"
-"\\>＞(Hiện tại: \\C[4]\\V[119]s\\C[0]    0 để giữ nguyên)"
+"\\>　(Hiện tại: \\C[4]\\V[119]s\\C[0]    0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2299, Pos (19,14)
 msgid ""
@@ -746,7 +746,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■\\C[6] Cài đặt số lần lặp\\C[0]\n"
 "\\>\n"
-"\\>＞(Hiện tại: \\C[4]\\V[119] lần\\C[0]    0 để giữ nguyên)"
+"\\>　(Hiện tại: \\C[4]\\V[119] lần\\C[0]    0 để giữ nguyên)"
 
 #. ID 1, Page 1, Line 2350, Pos (19,14)
 msgid ""
@@ -1383,24 +1383,22 @@ msgstr ""
 "\\>＞Nhập STT bài sẽ đổi (nhập 0 cho v.trí số 10)"
 
 #. ID 1, Page 2, Line 1625, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]No.\\C[1]\\V[591]\\C[6]とNo.?を交換\\C[0]\n"
 "\\>\n"
 "\\>＞交換先のNo.を指定してください (No.10なら0を選択)"
 msgstr ""
-"\\>\\C[10]■\\C[6]No.\\C[1]\\V[591]\\C[6]とNo.?を交換\\C[0]\n"
+"\\>\\C[10]■\\C[6] Chọn vị trí cho bài nhạc số \\C[1]\\V[591]\\C[0]\n"
 "\\>\n"
 "\\>＞Nhập STT mới cho bài (nhập 0 cho v.trí số 10)"
 
 #. ID 1, Page 2, Line 1671, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]No.\\C[1]\\V[591]\\C[6]とNo.\\C[1]\\V[592]\\C[6]を交換\\C[0]\n"
 "\\>\n"
 "\\>＞交換が完了しました\\<\\.\\.\\^"
 msgstr ""
-"\\>\\C[10]■\\C[6]No.\\C[1]\\V[591]\\C[6]とNo.\\C[1]\\V[592]\\C[6]を交換\\C[0]\n"
+"\\>\\C[10]■\\C[6] Đổi vị trí bài số \\C[1]\\V[591]\\C[6] và bài số \\C[1]\\V[592]\\C[0]\n"
 "\\>\n"
 "\\>＞Đã thay đổi vị trí\\<\\.\\.\\^"
 

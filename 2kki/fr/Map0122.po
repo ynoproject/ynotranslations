@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 37, Page 1, Line 2, Pos (147,63)
 msgid "開かない。鍵がかかっている"
@@ -25,7 +25,7 @@ msgid ""
 "\\>　DEAD: \\c[2]\\v[1262]\\c[0]"
 msgstr ""
 "\\>\\c[4]DERNIÈRE SAUVEGARDE\\c[0] \n"
-"\\>　MORTS : \\c[2]\\v[1262]\\c[0]"
+"\\>　MORTS: \\c[2]\\v[1262]\\c[0]"
 
 #. ID 164, Page 1, Line 7, Pos (185,38)
 #. Choice (2 options, embedded in a message)
@@ -51,7 +51,7 @@ msgstr ""
 #. ID 207, Page 2, Line 52, Pos (34,71)
 #. Contains choice at line 2 (2 options)
 msgid "記録が完了しました。ゲームを終了しますか。"
-msgstr "Sauvegarde effectuée. Voulez-vous quitter le jeu ?"
+msgstr "Sauvegarde effectuée. Voulez-vous quitter le jeu?"
 
 #. ID 164, Page 1, Line 16, Pos (185,38)
 #. Choice (2 options, embedded in a message)
@@ -81,7 +81,7 @@ msgid ""
 "\\>　NO DATA"
 msgstr ""
 "\\>\\c[4]DERNIÈRE SAUVEGARDE\\c[0] \n"
-"\\>　AUCUNE DONNÉE"
+"\\>　AUCUNE DONNÉES"
 
 #. ID 244, Page 1, Line 9, Pos (78,46)
 #. ID 264, Page 1, Line 9, Pos (23,64)
@@ -115,8 +115,6 @@ msgid ""
 "ＹＥＳ\n"
 "ＮＯ"
 msgstr ""
-"OUI\n"
-"NON"
 
 #. ID 268, Page 1, Line 1, Pos (12,28)
 #. Contains choice at line 2 (2 options)

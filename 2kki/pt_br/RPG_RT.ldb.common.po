@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -355,11 +355,11 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "\\>Efeitos Obtidos"
+msgstr "Efeitos Obtidos"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "\\>Efeitos Descartados"
+msgstr "Efeitos Descartados"
 
 #. ID 43, Line 126
 msgid ""
@@ -488,7 +488,7 @@ msgstr ""
 "\\>     Seu dado de save é de uma versão anterior.\n"
 "\\>　　　　　　Dados do Save \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
 "\\>　　　　　　    Jogo \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
-"\\!\\>            Seu save migrará para essa versão."
+"\\!\\>            Seu save migrará para essa versão"
 
 #. ID 62, Line 314
 msgid ""

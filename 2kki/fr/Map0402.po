@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 2, Page 1, Line 10, Pos (39,12)
 #. Choice (4 options)
@@ -72,12 +72,12 @@ msgstr ""
 
 #. ID 2, Page 1, Line 33, Pos (39,12)
 msgid "ゲーム中のＢＧＭ随時募集中！！"
-msgstr "Nous cherchons des musiques pour ce jeu !!"
+msgstr "Nous cherchons des musiques pour ce jeu!!"
 
 #. ID 2, Page 1, Line 37, Pos (39,12)
 #. Contains choice at line 2 (2 options)
 msgid "本当によろしいですか？"
-msgstr "Êtes-vous vraiment sûr ?"
+msgstr "Êtes-vous vraiment sûr?"
 
 #. ID 2, Page 1, Line 38, Pos (39,12)
 #. Choice (2 options, embedded in a message)
@@ -188,5 +188,5 @@ msgid ""
 msgstr ""
 "[No.7 Parcours Professionnel]　Inachevé\n"
 "Points Requis…24(\\V[3808])\n"
-"Points Gagnés  …\\V[3815]/5\n"
+"Points Gagnés  …\\V[3814]/5\n"
 "Difficulté     …★★★★★★"

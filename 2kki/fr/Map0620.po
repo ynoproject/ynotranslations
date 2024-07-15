@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.1.1\n"
 
 #. ID 1, Page 1, Line 1477, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -79,10 +79,10 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v : Sélection du Morceau\n"
-"\\>Z       : Jouer morceau・Ajouter morceau n°\n"
+"\\>$s$t$u$v: Sélection du Morceau\n"
+"\\>Z       : Jouer le morceau・Ajouter morceau n°\n"
 "\\>X       : Retourner au menu\n"
-"\\>Maj     : Voir infos morceau・Ajouter"
+"\\>Shift   : Voir les infos du morceau・Ajouter"
 
 #. ID 1, Page 1, Line 1810, Pos (19,14)
 msgid ""
@@ -91,7 +91,7 @@ msgid ""
 "\\>X       ：メニュー\n"
 "\\>Shift   ：曲情報の閲覧・曲の登録\\_/\\_消去"
 msgstr ""
-"\\>$s$t$u$v : Sélection du Morceau\n"
+"\\>$s$t$u$v: Sélection du Morceau\n"
 "\\>Z       : Jouer morceau・Changer var.\n"
 "\\>X       : Retourner au menu\n"
 "\\>Maj     : Voir infos morceau・Ajouter"
@@ -173,7 +173,6 @@ msgstr ""
 "\\>・Paramètres avancés"
 
 #. ID 1, Page 1, Line 1878, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[0]メモリーモード用曲登録の方法\n"
 "\\>\n"
@@ -486,7 +485,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Paramètres du Nombre de Répétitions\\C[0]\n"
 "\\>> Combien de fois les morceaux doivent-ils\n"
-"\\>  se répéter ? (1~9) (Réglage actuel :\n"
+"\\>  se répéter ? (1~9) (Réglage actuel:\n"
 "\\>  \\C[4]\\V[119] Fois\\C[0] 0 pour laisser inchangé)"
 
 #. ID 1, Page 1, Line 2292, Pos (19,14)
@@ -591,7 +590,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■\\C[6] Temps de délai\\C[0]\n"
 "\\>\n"
-"\\>＞（Actuel : \\C[4]\\V[109]\\C[0] Normal : 5  0 conserve l'état act.）"
+"\\>＞（Actuel: \\C[4]\\V[109]\\C[0]  Normal : 5  0 conserve l'état act.）"
 
 #. ID 1, Page 1, Line 2539, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -1047,7 +1046,6 @@ msgstr ""
 "\\>  il se pourrait que \\C[1]cela prenne du temps"
 
 #. ID 1, Page 2, Line 1126, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1060,7 +1058,6 @@ msgstr ""
 "\\>　注意してください"
 
 #. ID 1, Page 2, Line 1130, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1150,7 +1147,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
 "\\>\n"
-"\\>> (Mettre 0 pour n° 10)"
+"\\>　 (Mettre 0 pour n° 10)"
 
 #. ID 1, Page 2, Line 1347, Pos (19,14)
 msgid ""
@@ -1376,7 +1373,6 @@ msgstr ""
 "\\>> Le morceau n° \\C[4]\\N[1]\\V[115]\\N[6]\\C[0] a bien été ajouté"
 
 #. ID 1, Page 2, Line 1997, Pos (19,14)
-#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]PC画面BGMに登録\\C[0]\n"
 "\\>\n"
@@ -1746,7 +1742,7 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にSRNo.\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]を登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6]Ajouter à la Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]メモリー登録\\C[0]\n"
 "\\>\n"
 "\\>> Le morceau n° \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] a été ajouté à l'emplacement n° \\V[110]"
 
@@ -1768,7 +1764,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Recherche de Morceau\\C[0]\n"
 "\\>\n"
-"\\>> Temps écoulé : \\V[34]m \\V[35]s"
+"\\>> かかった時間：\\V[34]分\\V[35]秒"
 
 #. ID 1, Page 5, Line 537, Pos (19,14)
 #. Contains choice at line 4 (1 options)

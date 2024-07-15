@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -355,11 +355,11 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "\\>Zdobyto wszystkie efekty"
+msgstr "Zdobyto wszystkie efekty"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "\\>Odrzucono wszystkie efekty"
+msgstr "Odrzucono wszystkie efekty"
 
 #. ID 43, Line 126
 msgid ""
@@ -467,7 +467,7 @@ msgid ""
 msgstr ""
 "\\>Ver: \\V[11] SaveVer: \\V[12] ED. Nr\\V[59] Zakończenia widziane \\V[58]\n"
 "\\>Typ Menu: \\V[46] Sys SE: \\V[47] Wydarzenia Text: \\V[48]\n"
-"\\>Czas: \\V[87]h \\V[86]m \\V[85]s Kroki: \\V[91]_\\V[90]"
+"\\>Czas: \\V[87]h \\V[86]m \\V[85]s Kroki: \\V[91]\\V[90]"
 
 #. ID 61, Line 16
 msgid "\\>\\^\\"

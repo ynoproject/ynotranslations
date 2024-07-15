@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: Fonvight <->\n"
 "Language-Team: Fonvight\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.2\n"
 
 #. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
@@ -126,7 +126,7 @@ msgid ""
 msgstr ""
 "\\>◆ Frequência do Slide\n"
 "\\>\n"
-"\\>Variar: 1~9999 (Atual: \\V[3934])"
+"\\>Variar: 1~9999 (Atual: \\V[3934]) "
 
 #. ID 1, Page 3, Line 57, Pos (0,14)
 #. ID 1, Page 3, Line 73, Pos (0,14)

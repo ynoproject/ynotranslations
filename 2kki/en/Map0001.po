@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. ID 4, Page 1, Line 2, Pos (16,2)
 msgid "\\>【製作者のコメント】（仕様変更など、ここに書く）"
@@ -130,9 +130,9 @@ msgid ""
 "　詳しくはコモンイベント一覧を見てみてください」"
 msgstr ""
 "\\>\\c[2]◆9G8(ry\\c[0]\\<\n"
-"\"\\c[4]You can call the Vending Machine EV\n"
-"from the Common Event\\c[0]\\!\n"
-"For more details, check the CEV list\""
+"\\>\"\\c[4]You can call the Vending Machine EV\n"
+"\\>from the Common Event\\c[0]\\!\n"
+"\\>For more details, check the CEV list\""
 
 #. ID 4, Page 1, Line 31, Pos (16,2)
 msgid ""
@@ -142,9 +142,9 @@ msgid ""
 "　各製作者さんは確認をしてください」"
 msgstr ""
 "\\>\\c[2]◆9G8(ry\\c[0]\\<\n"
-"\"Therefore I changed the Vending Machine EV\n"
-"for each map. There may be omissions,\n"
-"so please check your map\""
+"\\>\"Therefore I changed the Vending Machine EV\n"
+"\\>for each map. There may be omissions,\n"
+"\\>so please check your map\""
 
 #. ID 5, Page 1, Line 7, Pos (17,2)
 #. Choice (4 options)
@@ -262,7 +262,7 @@ msgstr ""
 #. ID 9, Page 2, Line 5, Pos (26,3)
 msgid "\\>「チェーンソー」エフェクトを破棄しました"
 msgstr ""
-"\\>Chainsaw\n"
+"\\<Chainsaw\n"
 "\\>Discarded Chainsaw effect"
 
 #. ID 10, Page 1, Line 5, Pos (28,3)
@@ -810,7 +810,7 @@ msgstr ""
 
 #. ID 57, Page 1, Line 2, Pos (59,6)
 msgid "\\>サウンドテスト　曲番00はBGMOFF"
-msgstr "\\>Sound Test [00 to cancel]"
+msgstr "Sound Test [00 to cancel]"
 
 #. ID 57, Page 1, Line 16, Pos (59,6)
 msgid "\\V[0001]/BGMOFF"
@@ -1540,8 +1540,8 @@ msgid ""
 "\\>はい\n"
 "\\>いいえ"
 msgstr ""
-"\\>Yes\n"
-"\\>No"
+"Yes\n"
+"No"
 
 #. ID 67, Page 1, Line 4, Pos (6,8)
 #. Contains choice at line 2 (3 options)
@@ -1775,7 +1775,7 @@ msgstr ""
 msgid "\\c[2]この機能は実装されました\\c[0]"
 msgstr ""
 "\\c[2]This functionality has been implemented.\n"
-"The next comments from there are old.\\c[0]"
+"The next comments from there are old."
 
 #. ID 95, Page 1, Line 2, Pos (46,5)
 msgid "設置に失敗したミニゲームE\n"
@@ -1873,7 +1873,7 @@ msgid ""
 "\\>エンディングの　サンプルがある‥‥\n"
 "\\>これは「だれかさんのゆめにっき」というらしい"
 msgstr ""
-"\\>You found an Ending Sample...\n"
+"You found an Ending Sample...\n"
 "\\>It is written \"Someone's Dream Diary\""
 
 #. ID 100, Page 1, Line 3, Pos (50,5)
@@ -2210,14 +2210,14 @@ msgid ""
 "暗くして視界を狭める関係の処理\n"
 "その1です。よかったら使ってあげてください。　"
 msgstr ""
-"Darken and shrink sight event\n"
-"No.1. Feel free to use this."
+"\\>Darken and shrink sight event\n"
+"\\>No.1. Feel free to use this."
 
 #. ID 121, Page 1, Line 3, Pos (18,25)
 msgid "但し上下左右　20*15　以上空けたMAP限定になります。"
 msgstr ""
-"Only available for maps that are bigger\n"
-"than 20*15."
+"\\>Only available for maps that are bigger\n"
+"\\>than 20*15."
 
 #. ID 121, Page 1, Line 4, Pos (18,25)
 msgid ""
@@ -2225,9 +2225,9 @@ msgid ""
 "常にうろつきが画面の中央に居ないと\n"
 "おかしいことになるので。"
 msgstr ""
-"This is just a black picture with a hole at the\n"
-"center. Therefore, Urotsuki must always be\n"
-"positioned at the center."
+"\\>This is just a black picture with a hole at the\n"
+"\\>center. Therefore, Urotsuki must always be\n"
+"\\>positioned at the center."
 
 #. ID 121, Page 1, Line 7, Pos (18,25)
 msgid ""
@@ -2235,9 +2235,9 @@ msgid ""
 "利用しております。そちらのイベントも参考にして\n"
 "いただければと思います。"
 msgstr ""
-"A similar event is used for the Lantern Event\n"
-"in the Dark Museum. So please refer\n"
-"to this event too."
+"\\>A similar event is used for the Lantern Event\n"
+"\\>in the Dark Museum. So please refer\n"
+"\\>to this event too."
 
 #. ID 121, Page 1, Line 10, Pos (18,25)
 #. Contains choice at line 2 (2 options)
@@ -2309,7 +2309,6 @@ msgid ""
 msgstr ""
 "\\>Penguin's action when holding Enter is \"sliding\".\n"
 "\\>It makes you slide 5 steps forward.\n"
-"\n"
 "\\>\\C[4]While sliding, the following events won't begin."
 
 #. ID 134, Page 1, Line 6, Pos (5,39)
@@ -2381,7 +2380,7 @@ msgstr ""
 #. ID 141, Page 1, Line 2, Pos (4,18)
 #. Contains choice at line 2 (2 options)
 msgid "ボートイベントについての説明を聞きますか？"
-msgstr "Do you want to know about the Boat Event?"
+msgstr "\\>Do you want to know about the Boat Event?"
 
 #. ID 141, Page 1, Line 5, Pos (4,18)
 msgid ""
@@ -2389,9 +2388,9 @@ msgid ""
 "実装には「乗船するイベント」と\n"
 "「下船するイベント」が最低1個ずつ必要です。"
 msgstr ""
-"Boat Sample Event\n"
-"To implement it, you need to use a 「Boarding\n"
-"Event」and a 「Disembarking Event」."
+"\\>Boat Sample Event\n"
+"\\>To implement it, you need to use a 「Boarding\n"
+"\\>Event」and a 「Disembarking Event」."
 
 #. ID 141, Page 1, Line 8, Pos (4,18)
 msgid ""
@@ -2399,9 +2398,9 @@ msgid ""
 "編集するだけです。\n"
 "実装方法は大きく分けて2つあります。"
 msgstr ""
-"To use the boat event, just Copy & Paste\n"
-"and edit them.\n"
-"There are 2 ways to implement them."
+"\\>To use the boat event, just Copy & Paste\n"
+"\\>and edit them.\n"
+"\\>There are 2 ways to implement them."
 
 #. ID 141, Page 1, Line 11, Pos (4,18)
 msgid ""
@@ -2422,12 +2421,12 @@ msgid ""
 "もっと詳しく聞きますか？"
 msgstr ""
 "(2) is easier to implement.\n"
-"Do you need more details?"
+"\\>Do you need more details?"
 
 #. ID 141, Page 1, Line 20, Pos (4,18)
 #. ID 141, Page 1, Line 73, Pos (4,18)
 msgid "どの説明を聞きますか？"
-msgstr "Which method do you want to know?"
+msgstr "\\>Which method do you want to know?"
 
 #. ID 141, Page 1, Line 21, Pos (4,18)
 #. Choice (4 options)
@@ -2707,7 +2706,7 @@ msgid ""
 msgstr ""
 "\\>What is that? How to use?\n"
 "\\>How does it work?\n"
-"\\>TL;DR (X key to Cancel)"
+">TL;DR (X key to Cancel)"
 
 #. ID 151, Page 1, Line 26, Pos (18,14)
 msgid ""
@@ -3422,7 +3421,7 @@ msgid ""
 "\\>訪問した判定になっていないマップを調べます。"
 msgstr ""
 "\\>【Unvisited Maps Checker】\n"
-"\\>Check unvisited map(s) that detect visit."
+"Check unvisited map(s) that detect visit."
 
 #. ID 158, Page 2, Line 13, Pos (19,0)
 #. Contains choice at line 2 (3 options)
@@ -3812,8 +3811,8 @@ msgid ""
 "\\>特殊なアニメを組み込むときのサンプルイベントです\\<\n"
 "\\>こんな感じの実装にすると、良い感じに処理できるかも\\<"
 msgstr ""
-"\\>Sample event of special animation\\<\n"
-"\\>If you implement it like this, it might\\<\n"
+"\\>Sample event of special animation\n"
+"\\>If you implement it like this, it might\n"
 "\\>process well.\\<"
 
 #. ID 174, Page 1, Line 13, Pos (16,28)
@@ -3862,7 +3861,7 @@ msgid ""
 "\\>\\C[3]＞商品の演出を確認する\\C[0]\n"
 "\\>"
 msgstr ""
-"\\>\\C[3]＞Check the product animation\\C[0]\n"
+"\\>\\C[3]＞Check the product animation\n"
 "\\>"
 
 #. ID 183, Page 3, Line 11, Pos (56,8)
@@ -3920,7 +3919,7 @@ msgid ""
 "\\>・n\\_を指定 (0の場合は無限)\n"
 "\\>  "
 msgstr ""
-"\\>\\C[3]>Calculate \\C[4]\\_N\\_time(s)\\C[3] until the product emerges\\C[0]\n"
+"\\>\\C[3]>Calculate \\C[4]\\_N\\_time(s)\\C[3] until the product emerges\n"
 "\\>・Set\\_N (0 for Infinite)"
 
 #. ID 183, Page 5, Line 51, Pos (56,8)
@@ -3939,7 +3938,7 @@ msgid ""
 "\\>・どの商品を調べるか指定 (最大\\V[80])\n"
 "\\>　\\C[1]0の場合はすべての商品が揃うまでの回数を調べます"
 msgstr ""
-"\\>\\C[3]>Calculate\\C[4]\\_∞\\_time(s)\\C[3] until the product emerges\\C[0]\n"
+"\\>\\C[3]>Calculate\\C[4]\\_∞\\_time(s)\\C[3] until the product emerges\n"
 "\\>Select Product(s) (MAX:\\V[80])\n"
 "\\>\\C[1]0 to test all products."
 
@@ -4237,7 +4236,7 @@ msgid ""
 "\\>　イベント数結果で確認できる"
 msgstr ""
 "\\>\\C[3]＞MAP\\v[71]\\C[0]\n"
-"\\>・While counting the Amount of Events,\n"
+"\\>・While counting the Amount of Event,\n"
 "\\>　you can find if the parallel process worked\n"
 "\\>　or not as a result"
 

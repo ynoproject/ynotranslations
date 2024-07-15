@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: ko\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 1, Page 1, Line 1477, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -680,7 +676,7 @@ msgid ""
 "\\>\\C[10]■\\C[6]未解放の通知\\C[0]（現在：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 msgstr ""
-"\\>\\C[10]■\\C[6]미해방 알림\\C[0]（현재：\\C[4]\\N[1]\\C[0]）\n"
+"\\>\\C[10]■\\C[6]미해방 통지\\C[0]（현재：\\C[4]\\N[1]\\C[0]）\n"
 "\\>"
 
 #. ID 1, Page 1, Line 2620, Pos (19,14)
@@ -7183,3 +7179,4 @@ msgstr "파일 명"
 msgctxt "actors.name"
 msgid "曲名(ﾌｧｲﾙ名)"
 msgstr "곡 명(파일명)"
+
