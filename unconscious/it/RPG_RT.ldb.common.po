@@ -18,7 +18,7 @@ msgid ""
 "                   * Soulfire *"
 msgstr ""
 "\n"
-"                   * Fuoco d'Anima *"
+"                * Fuoco d'Anima *"
 
 #. ID 4, Line 48
 msgid ""
@@ -50,7 +50,7 @@ msgid ""
 "                    * Youth *"
 msgstr ""
 "\n"
-"                    * Giovinezza *"
+"                  * Giovinezza *"
 
 #. ID 4, Line 162
 msgid ""
@@ -58,7 +58,7 @@ msgid ""
 "                   * Spectral *"
 msgstr ""
 "\n"
-"                   * Spettrale *"
+"                   * Spettrzale *"
 
 #. ID 4, Line 189
 msgid ""
@@ -88,7 +88,7 @@ msgid ""
 "               * Menu theme: Office *"
 msgstr ""
 "\n"
-"             * Tema del menù: Ufficio *"
+"            * Tema del menù: Ufficio *"
 
 #. ID 28, Line 27
 msgid ""
@@ -96,7 +96,7 @@ msgid ""
 "               * Menu theme: Sun *"
 msgstr ""
 "\n"
-"               * Tema del menù: Sole *"
+"              * Tema del menù: Sole *"
 
 #. ID 28, Line 45
 msgid ""
@@ -104,7 +104,7 @@ msgid ""
 "               * Menu theme: Dusk *"
 msgstr ""
 "\n"
-"               * Tema del menù: Crepuscolo *"
+"           * Tema del menù: Crepuscolo *"
 
 #. ID 28, Line 61
 msgid ""
@@ -112,7 +112,7 @@ msgid ""
 "           * Menu theme: Vague Memory *"
 msgstr ""
 "\n"
-"           * Tema del menù: Vaga Memoria *"
+"         * Tema del menù: Vago Ricordo *"
 
 #. ID 28, Line 77
 msgid ""
@@ -120,7 +120,7 @@ msgid ""
 "              * Menu theme: Squids *"
 msgstr ""
 "\n"
-"              * Tema del menù: Meduse *"
+"            * Tema del menù: Calamari *"
 
 #. ID 28, Line 93
 msgid ""
@@ -128,7 +128,7 @@ msgid ""
 "              * Menu theme: Willow *"
 msgstr ""
 "\n"
-"              * Tema del menù: Salice *"
+"             * Tema del menù: Salice *"
 
 #. ID 28, Line 109
 msgid ""
@@ -136,7 +136,7 @@ msgid ""
 "           * Menu theme: Vibrant Blue *"
 msgstr ""
 "\n"
-"           * Tema del menù: Blu vibrante *"
+"           * Tema del menù: Blu Acceso *"
 
 #. ID 28, Line 125
 msgid ""
@@ -144,7 +144,7 @@ msgid ""
 "          * Menu theme: Glitched Static *"
 msgstr ""
 "\n"
-"          * Tema del menù: Statico Glitchato *"
+"        * Tema del menù: Segnale Distorto *"
 
 #. ID 28, Line 141
 msgid ""
@@ -152,7 +152,7 @@ msgid ""
 "             * Menu theme: Ammolites *"
 msgstr ""
 "\n"
-"             * Tema del menù: Ammoliti *"
+"           * Tema del menù: Ammoliti *"
 
 #. ID 28, Line 157
 msgid ""
@@ -160,7 +160,7 @@ msgid ""
 "            * Menu theme: Box Office *"
 msgstr ""
 "\n"
-"            * Tema del menù: Botteghino *"
+"          * Tema del menù: Botteghino *"
 
 #. ID 28, Line 173
 msgid ""
@@ -168,7 +168,7 @@ msgid ""
 "                * Menu theme: Mural *"
 msgstr ""
 "\n"
-"                * Tema del menù: Murale *"
+"             * Tema del menù: Murale *"
 
 #. ID 28, Line 189
 msgid ""
@@ -176,7 +176,7 @@ msgid ""
 "            * Menu theme: Neon Mural *"
 msgstr ""
 "\n"
-"            * Tema del menù: Murale di Neon *"
+"         * Tema del menù: Murale di Neon *"
 
 #. ID 28, Line 205
 msgid ""
@@ -184,7 +184,7 @@ msgid ""
 "             * Menu theme: Altered *"
 msgstr ""
 "\n"
-"             * Tema del menù: Alterato *"
+"           * Tema del menù: Alterato *"
 
 #. ID 28, Line 221
 msgid ""
@@ -192,7 +192,7 @@ msgid ""
 "              * Menu theme: Glowing *"
 msgstr ""
 "\n"
-"              * Tema del menù: Luminoso *"
+"           * Tema del menù: Brillante *"
 
 #. ID 28, Line 237
 msgid ""
@@ -200,7 +200,7 @@ msgid ""
 "              * Menu theme: Sunset *"
 msgstr ""
 "\n"
-"              * Tema del menù: Tramonto *"
+"            * Tema del menù: Tramonto *"
 
 #. ID 28, Line 253
 msgid ""
@@ -208,7 +208,7 @@ msgid ""
 "             * Menu theme: Celestial *"
 msgstr ""
 "\n"
-"             * Tema del menù: Celestiale *"
+"           * Tema del menù: Celestiale *"
 
 #. ID 28, Line 269
 msgid ""
@@ -224,7 +224,7 @@ msgid ""
 "          * Menu theme: Blueing Plastic *"
 msgstr ""
 "\n"
-"             * Tema del menù: Plastica Blu *"
+"       * Tema del menù: Plastica Bluastra *"
 
 #. ID 28, Line 301
 msgid ""
@@ -232,7 +232,7 @@ msgid ""
 "             * Menu theme: Voidbound *"
 msgstr ""
 "\n"
-"             * Tema del menù: Destinato al Vuoto *"
+"       * Tema del menù: Richiamo del Vuoto *"
 
 #. ID 28, Line 317
 msgid ""
@@ -240,7 +240,7 @@ msgid ""
 "             * Menu theme: Handheld *"
 msgstr ""
 "\n"
-"             * Tema del menù: Portatile *"
+"           * Tema del menù: Portatile *"
 
 #. ID 28, Line 333
 msgid ""
@@ -248,7 +248,7 @@ msgid ""
 "             * Menu theme: Sidereal *"
 msgstr ""
 "\n"
-"             * Tema del menù: Sidereo *"
+"            * Tema del menù: Sidereo *"
 
 #. ID 28, Line 349
 msgid ""
@@ -256,7 +256,7 @@ msgid ""
 "             * Menu theme: Golfer *"
 msgstr ""
 "\n"
-"             * Tema del menù: Golfista *"
+"           * Tema del menù: Golfista *"
 
 #. ID 28, Line 365
 msgid ""
@@ -264,7 +264,7 @@ msgid ""
 "              * Menu theme: Virtual *"
 msgstr ""
 "\n"
-"             * Tema del menù: Virtuale *"
+"            * Tema del menù: Virtuale *"
 
 #. ID 28, Line 381
 msgid ""
@@ -272,7 +272,7 @@ msgid ""
 "              * Menu theme: Orchid *"
 msgstr ""
 "\n"
-"             * Tema del menù: Orchidea *"
+"            * Tema del menù: Orchidea *"
 
 #. ID 28, Line 397
 msgid ""
@@ -280,7 +280,7 @@ msgid ""
 "            * Menu theme: Streetlight *"
 msgstr ""
 "\n"
-"             * Tema del menù: Lampione *"
+"           * Tema del menù: Lampione *"
 
 #. ID 28, Line 413
 msgid ""
@@ -288,7 +288,7 @@ msgid ""
 "              * Menu theme: Basalt *"
 msgstr ""
 "\n"
-"             * Tema del menù: Basalto *"
+"            * Tema del menù: Basalto *"
 
 #. ID 28, Line 429
 msgid ""
@@ -296,7 +296,7 @@ msgid ""
 "               * Menu theme: Metal *"
 msgstr ""
 "\n"
-"             * Tema del menù: Metallo *"
+"            * Tema del menù: Metallo *"
 
 #. ID 28, Line 445
 msgid ""
@@ -304,7 +304,7 @@ msgid ""
 "              * Menu theme: Charred *"
 msgstr ""
 "\n"
-"             * Tema del menù: Bruciato *"
+"           * Tema del menù: Bruciato *"
 
 #. ID 28, Line 461
 msgid ""
@@ -312,7 +312,7 @@ msgid ""
 "             * Menu theme: Chromatic *"
 msgstr ""
 "\n"
-"             * Tema del menù: Cromatico *"
+"           * Tema del menù: Cromatico *"
 
 #. ID 28, Line 477
 msgid ""
@@ -320,4 +320,4 @@ msgid ""
 "             * Menu theme: Mossy Lab *"
 msgstr ""
 "\n"
-"             * Tema del menù: Laboratorio Muschioso *"
+"     * Tema del menù: Laboratorio Muschioso *"

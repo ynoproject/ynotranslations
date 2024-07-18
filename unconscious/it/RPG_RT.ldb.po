@@ -10047,7 +10047,7 @@ msgstr "Fuoco d'Anima"
 #. ID 12
 msgctxt "items.description"
 msgid "Your soul burns within a wooden idol."
-msgstr "La tua anima brucia all'interno di un idolo di legno."
+msgstr "La tua anima brucia in un idolo di legno."
 
 #. ID 12
 msgctxt "items.name"
@@ -10095,7 +10095,7 @@ msgstr ""
 #. ID 18
 msgctxt "items.description"
 msgid "Your inner light guides you."
-msgstr "Fatti guidare dalla luce dentro di te."
+msgstr "La tua luce interna ti guida."
 
 #. ID 18
 msgctxt "items.name"
@@ -10111,7 +10111,7 @@ msgstr "Giovinezza"
 #. ID 20
 msgctxt "items.description"
 msgid "It's only with the heart that one can see rightly."
-msgstr "Solo col cuore si può vedere in modo giusto."
+msgstr "È solo col cuore che si può vedere in modo giusto."
 
 #. ID 20
 msgctxt "items.name"
@@ -10127,7 +10127,7 @@ msgstr "Spettrale"
 #. ID 22
 msgctxt "items.description"
 msgid "Enigmatic optics to observe beyond the veil."
-msgstr "Ottiche enigmatiche da osservare oltre il velo."
+msgstr "Ottiche enigmatiche per osservare oltre il velo."
 
 #. ID 22
 msgctxt "items.name"
