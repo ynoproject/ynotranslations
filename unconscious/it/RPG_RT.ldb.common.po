@@ -58,7 +58,7 @@ msgid ""
 "                   * Spectral *"
 msgstr ""
 "\n"
-"                   * Spettrzale *"
+"                   * Spettrale *"
 
 #. ID 4, Line 189
 msgid ""
