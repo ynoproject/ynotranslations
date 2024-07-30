@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 27, Page 1, Line 5, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Font Color Sample: \\c[0]$fNormal \\c[1]$gStrong \\c[3]$hMuted\n"
+"\\c[0]Equip this theme?"
+msgstr ""
+"Prova di Colore del Font: \\c[0]$fNormale \\c[1]$gForte \\c[3]$hMuto\n"
+"\\c[0]Equipaggiare questo tema?"
+
+#. ID 27, Page 1, Line 7, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"OK\n"
+"Cancel"
+msgstr ""
+"Conferma\n"
+"Annulla"
+
+#. ID 36, Page 1, Line 23, Pos (0,14)
+msgid ""
+"\\c[1]The save data is outdated.\n"
+"\\c[0]Updating from \\v[0138].\\v[0139].\\v[0140]."
+msgstr ""
+"\\c[1]Il file di salvataggio è deprecato.\n"
+"\\c[0]Aggiornando da \\v[0138].\\v[0139].\\v[0140]."
