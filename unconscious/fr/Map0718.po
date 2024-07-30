@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 7, Page 1, Line 1, Pos (7,0)
+msgid "remember to add rain sounds & cricket sounds"
+msgstr ""
+"Pense-bête : n'oublie pas d'ajouter des sons de\n"
+"pluie et des sons de crickets !"
+
+#. ID 7, Page 1, Line 2, Pos (7,0)
+msgid "also might want to just do no tint or effects except rain tbh"
+msgstr ""
+"Aussi, peut-être qu'il faudrait ne pas appliquer de teintes\n"
+"ou d'effets en dehors de la pluie, honnêtement."
