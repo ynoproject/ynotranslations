@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -20,170 +20,170 @@ msgstr "Sabitsuki"
 #. ID 2
 msgctxt "actors.name"
 msgid "錆"
-msgstr "Rust"
+msgstr "Ruggine"
 
 #. ID 1
 msgctxt "skills.name"
 msgid "おきる"
-msgstr "Wake Up"
+msgstr "Svegliati"
 
 #. ID 1
 msgctxt "skills.description"
 msgid "じぶんのへやにもどる。"
-msgstr "Return to your room."
+msgstr "Ritorna nella tua stanza."
 
 #. ID 2
 msgctxt "skills.name"
 msgid "かそくそうち"
-msgstr "Accelerator"
+msgstr "Acceleratore"
 
 #. ID 2
 msgctxt "skills.description"
 msgid "デバッグせんよう"
-msgstr "Debugging purposes."
+msgstr "A scopo di debugging."
 
 #. ID 1
 #. ID 2
 #. ID 36
 msgctxt "items.name"
 msgid "ヘッドフォン"
-msgstr "Headphones"
+msgstr "Cuffie"
 
 #. ID 1
 #. ID 2
 msgctxt "items.description"
 msgid "｢ヘッドフォン｣をかぶる。"
-msgstr "Put on Headphones."
+msgstr "Indossa delle Cuffie."
 
 #. ID 3
 #. ID 4
 #. ID 37
 msgctxt "items.name"
 msgid "てつパイプ"
-msgstr "Iron Pipe"
+msgstr "Tubo di Ferro"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "｢てつパイプ｣をもつ。"
-msgstr "Wield an Iron Pipe."
+msgstr "Tieni in mano un Tubo di Ferro."
 
 #. ID 5
 #. ID 6
 #. ID 38
 msgctxt "items.name"
 msgid "ゆうれい"
-msgstr "Ghost"
+msgstr "Fantasma"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
 msgid "｢ゆうれい｣になる。"
-msgstr "Become a Ghost."
+msgstr "Diventa un Fantasma."
 
 #. ID 7
 #. ID 8
 #. ID 39
 msgctxt "items.name"
 msgid "モノアイ"
-msgstr "Mono Eye"
+msgstr "Mono-Occhio"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
 msgid "｢モノアイ｣になる。"
-msgstr "Become a Mono Eye."
+msgstr "Diventa Mono-Occhio."
 
 #. ID 9
 #. ID 10
 #. ID 40
 msgctxt "items.name"
 msgid "せんすいふく"
-msgstr "Diving Helmet"
+msgstr "Scafandro"
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
 msgid "｢せんすいふく｣をかぶる。"
-msgstr "Equip a Diving Helmet."
+msgstr "Indossa uno Scafandro."
 
 #. ID 11
 #. ID 12
 #. ID 41
 msgctxt "items.name"
 msgid "ねこ"
-msgstr "Cat"
+msgstr "Gatto"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
 msgid "｢ねこ｣になる。"
-msgstr "Become a Cat."
+msgstr "Diventa un Gatto."
 
 #. ID 13
 #. ID 14
 #. ID 42
 msgctxt "items.name"
 msgid "ほうき"
-msgstr "Broom"
+msgstr "Scopa"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
 msgid "｢ほうき｣にのる。"
-msgstr "Ride a Broom."
+msgstr "Cavalca una Scopa."
 
 #. ID 15
 #. ID 16
 #. ID 43
 msgctxt "items.name"
 msgid "じょうろ"
-msgstr "Watering Can"
+msgstr "Annaffiatoio"
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
 msgid "｢じょうろ｣をもつ。"
-msgstr "Hold a Watering Can."
+msgstr "Tieni in mano un Annaffiatoio."
 
 #. ID 17
 #. ID 18
 #. ID 44
 msgctxt "items.name"
 msgid "ホイッスル"
-msgstr "Whistle"
+msgstr "Fischietto"
 
 #. ID 17
 #. ID 18
 msgctxt "items.description"
 msgid "｢ホイッスル｣をくわえる。"
-msgstr "Hold a Whistle in your mouth."
+msgstr "Tieni in bocca un Fischietto."
 
 #. ID 19
 #. ID 20
 #. ID 45
 msgctxt "items.name"
 msgid "ガスマスク"
-msgstr "Gas Mask"
+msgstr "Maschera Antigas"
 
 #. ID 19
 #. ID 20
 msgctxt "items.description"
 msgid "｢ガスマスク｣をかぶる。"
-msgstr "Wear a Gas Mask."
+msgstr "Indossa una Maschera Antigas."
 
 #. ID 21
 #. ID 22
 #. ID 46
 msgctxt "items.name"
 msgid "きかい"
-msgstr "Machine"
+msgstr "Macchinario"
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
 msgid "｢きかい｣になる。"
-msgstr "Become a Machine."
+msgstr "Diventa un Macchinario."
 
 #. ID 23
 #. ID 24
@@ -196,7 +196,7 @@ msgstr "Daruma"
 #. ID 24
 msgctxt "items.description"
 msgid "｢だるま｣になる。"
-msgstr "Become a Daruma."
+msgstr "Diventa una bambola Daruma."
 
 #. ID 25
 #. ID 26
@@ -209,20 +209,20 @@ msgstr "Slime"
 #. ID 26
 msgctxt "items.description"
 msgid "｢スライム｣になる。"
-msgstr "Become a Slime."
+msgstr "Diventa uno Slime."
 
 #. ID 27
 #. ID 28
 #. ID 49
 msgctxt "items.name"
 msgid "うで"
-msgstr "Arms"
+msgstr "Braccia"
 
 #. ID 27
 #. ID 28
 msgctxt "items.description"
 msgid "｢うで｣がふえる。"
-msgstr "Grow multiple Arms."
+msgstr "Il numero di Braccia aumenta."
 
 #. ID 29
 #. ID 60
@@ -243,22 +243,22 @@ msgstr "A product of the misunderstanding of the Tscool specification. [???]"
 #. ID 31
 msgctxt "items.name"
 msgid "ねぐせ"
-msgstr "Bed Hair"
+msgstr "Arruffati"
 
 #. ID 32
 msgctxt "items.name"
 msgid "いつもの"
-msgstr "The Usual"
+msgstr "Il solito"
 
 #. ID 33
 msgctxt "items.name"
 msgid "おきにいり"
-msgstr "My Favourite"
+msgstr "La preferita"
 
 #. ID 34
 msgctxt "items.name"
 msgid "かわぐつ"
-msgstr "Leather Shoes"
+msgstr "Scarpe in Pelle"
 
 #. ID 35
 msgctxt "items.name"
@@ -270,140 +270,140 @@ msgstr "None"
 #. ID 62
 msgctxt "items.name"
 msgid "ないぞう"
-msgstr "Viscera"
+msgstr "Viscere"
 
 #. ID 51
 #. ID 63
 #. ID 64
 msgctxt "items.name"
 msgid "サイケデリック"
-msgstr "Psychedelic"
+msgstr "Psichedelia"
 
 #. ID 52
 #. ID 65
 #. ID 66
 msgctxt "items.name"
 msgid "けんじゅう"
-msgstr "Handgun"
+msgstr "Pistola"
 
 #. ID 53
 #. ID 67
 #. ID 68
 msgctxt "items.name"
 msgid "したい"
-msgstr "Corpse"
+msgstr "Cadavere"
 
 #. ID 54
 #. ID 69
 #. ID 70
 msgctxt "items.name"
 msgid "くろフード"
-msgstr "Black Hood"
+msgstr "Cappuccio Nero"
 
 #. ID 55
 #. ID 71
 #. ID 72
 msgctxt "items.name"
 msgid "せいふく"
-msgstr "Uniform"
+msgstr "Divisa Scolastica"
 
 #. ID 56
 #. ID 73
 #. ID 74
 msgctxt "items.name"
 msgid "テレビ"
-msgstr "Television"
+msgstr "TV"
 
 #. ID 57
 #. ID 75
 #. ID 76
 msgctxt "items.name"
 msgid "しょくぶつ"
-msgstr "Plant"
+msgstr "Pianta"
 
 #. ID 58
 #. ID 77
 #. ID 78
 msgctxt "items.name"
 msgid "いれずみ"
-msgstr "Tattoo"
+msgstr "Tatuaggio"
 
 #. ID 59
 #. ID 79
 #. ID 80
 msgctxt "items.name"
 msgid "ドレス"
-msgstr "Dress"
+msgstr "Abito"
 
 #. ID 61
 #. ID 62
 msgctxt "items.description"
 msgid "｢ないぞう｣がでる。"
-msgstr "Viscera is spilling out..."
+msgstr "Fuoriescono le Viscere."
 
 #. ID 63
 #. ID 64
 msgctxt "items.description"
 msgid "｢サイケデリック｣になる。"
-msgstr "Become Psychedelic."
+msgstr "Entra in stato di Psichedelia."
 
 #. ID 65
 #. ID 66
 msgctxt "items.description"
 msgid "｢けんじゅう｣をもつ。"
-msgstr "Wield a Handgun."
+msgstr "Tieni in mano una Pistola."
 
 #. ID 67
 #. ID 68
 msgctxt "items.description"
 msgid "｢したい｣になる。"
-msgstr "Become a Corpse."
+msgstr "Diventa un Cadavere."
 
 #. ID 69
 #. ID 70
 msgctxt "items.description"
 msgid "「くろフード」のふくをきる。"
-msgstr "Wear a Black Hood."
+msgstr "Indossa un vestito con un Cappuccio Nero."
 
 #. ID 71
 #. ID 72
 msgctxt "items.description"
 msgid "「せいふく」をきる。"
-msgstr "Wear a Uniform."
+msgstr "Indossa una Divisa Scolastica."
 
 #. ID 73
 #. ID 74
 msgctxt "items.description"
 msgid "「テレビ」になる。"
-msgstr "Become a Television."
+msgstr "Diventa una TV."
 
 #. ID 75
 #. ID 76
 msgctxt "items.description"
 msgid "「しょくぶつ」になる。"
-msgstr "Become a Plant."
+msgstr "Diventa una Pianta."
 
 #. ID 77
 #. ID 78
 msgctxt "items.description"
 msgid "「いれずみ」をほる。"
-msgstr "Tattoo your eyes."
+msgstr "Incidi un Tatuaggio."
 
 #. ID 79
 #. ID 80
 msgctxt "items.description"
 msgid "「ドレス」をきる。"
-msgstr "Wear a Dress."
+msgstr "Indossa un Abito."
 
 #. ID 100
 msgctxt "items.name"
 msgid "ゲームのせつめい"
-msgstr "Instructions"
+msgstr "Istruzioni di Gioco"
 
 #. ID 100
 msgctxt "items.description"
 msgid "ゲームのせつめいをみる。"
-msgstr "See the game's instructions."
+msgstr "Controlla le Istruzioni di Gioco."
 
 msgctxt "terms.gold"
 msgid "円"
@@ -411,15 +411,15 @@ msgstr "Yen"
 
 msgctxt "terms.command_item"
 msgid "エフェクト"
-msgstr "Effects"
+msgstr "Effetti"
 
 msgctxt "terms.command_skill"
 msgid "とくべつ"
-msgstr "Special"
+msgstr "Speciale"
 
 msgctxt "terms.menu_equipment"
 msgid "じぶん"
-msgstr "Me"
+msgstr "Io"
 
 msgctxt "terms.menu_save"
 msgid "."
@@ -427,7 +427,7 @@ msgstr "."
 
 msgctxt "terms.menu_quit"
 msgid "おわりにする"
-msgstr "Quit"
+msgstr "Esci"
 
 msgctxt "terms.new_game"
 msgid ".flow"
@@ -435,11 +435,11 @@ msgstr ""
 
 msgctxt "terms.load_game"
 msgid "きろく"
-msgstr "Load"
+msgstr "Carica"
 
 msgctxt "terms.exit_game"
 msgid "おわる"
-msgstr "Quit"
+msgstr "Termina"
 
 msgctxt "terms.level"
 msgid "E"
@@ -459,31 +459,31 @@ msgstr ""
 
 msgctxt "terms.weapon"
 msgid "エフェクト"
-msgstr "Effect"
+msgstr "Effetto"
 
 msgctxt "terms.shield"
 msgid "かみ"
-msgstr "Top"
+msgstr "Capelli"
 
 msgctxt "terms.armor"
 msgid "ふく"
-msgstr "Uniform"
+msgstr "Abbigliamento"
 
 msgctxt "terms.helmet"
 msgid "スカート"
-msgstr "Skirt"
+msgstr "Gonna"
 
 msgctxt "terms.accessory"
 msgid "くつ"
-msgstr "Shoes"
+msgstr "Scarpe"
 
 msgctxt "terms.save_game_message"
 msgid "きろくをつける"
-msgstr "Save a Record"
+msgstr "Effettua un Salvataggio"
 
 msgctxt "terms.load_game_message"
 msgid "きろくをひらく"
-msgstr "Load a Record"
+msgstr "Carica un Salvataggio"
 
 msgctxt "terms.file"
 msgid "."
@@ -491,11 +491,11 @@ msgstr ""
 
 msgctxt "terms.exit_game_message"
 msgid "おわりにしますか？"
-msgstr "Do you want to quit?"
+msgstr "Vuoi terminare?"
 
 msgctxt "terms.yes"
 msgid "はい"
-msgstr "Yes"
+msgstr "Sì"
 
 msgctxt "terms.no"
 msgid "いいえ"

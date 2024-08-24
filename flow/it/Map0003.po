@@ -1,0 +1,688 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 3, Page 1, Line 1, Pos (11,3)
+msgid "ヘッドフォン"
+msgstr "[Cuffie]"
+
+#. ID 3, Page 1, Line 3, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 6, Page 1, Line 2, Pos (12,1)
+#. ID 9, Page 1, Line 3, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 3, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 3, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 3, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 1, Line 3, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 1, Line 5, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 3, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 24, Page 1, Line 5, Pos (13,9)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 3, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 3, Pos (17,7)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 3, Pos (11,9)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 1, Line 3, Pos (13,7)
+#. Contains choice at line 2 (2 options)
+#. ID 34, Page 1, Line 3, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 3, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 1, Line 4, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 4, Pos (13,11)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 3, Pos (17,9)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 1, Line 3, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 1, Line 3, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 1, Line 3, Pos (11,13)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 1, Line 3, Pos (13,13)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 3, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 1, Line 3, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "エフェクト破棄"
+msgstr "Rimuovi Effetto"
+
+#. ID 3, Page 1, Line 4, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 24, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 4, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 1, Line 24, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 4, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 24, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 4, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 24, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 4, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 24, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 24, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 6, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 26, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 24, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 6, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 1, Line 26, Pos (13,9)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 4, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 24, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 4, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 1, Line 24, Pos (17,7)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 4, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 24, Pos (11,9)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 4, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 1, Line 24, Pos (13,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 4, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 1, Line 24, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 4, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 1, Line 24, Pos (15,9)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 5, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 1, Line 25, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 5, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 25, Pos (13,11)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 4, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 1, Line 24, Pos (17,9)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 4, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 1, Line 24, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 4, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+#. ID 40, Page 1, Line 24, Pos (17,11)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 4, Pos (11,13)
+#. Choice (2 options, embedded in a message)
+#. ID 42, Page 1, Line 24, Pos (11,13)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 4, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 44, Page 1, Line 24, Pos (13,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 4, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 24, Pos (15,13)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 4, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 24, Pos (17,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"Sì\n"
+"No"
+
+#. ID 3, Page 1, Line 6, Pos (11,3)
+msgid "ヘッドフォン破棄"
+msgstr "Scartato Cuffie"
+
+#. ID 3, Page 1, Line 23, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 1, Line 23, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+#. ID 12, Page 1, Line 23, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 15, Page 1, Line 23, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 16, Page 1, Line 23, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 18, Page 1, Line 23, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 19, Page 1, Line 25, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 23, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 22, Page 1, Line 3, Pos (11,1)
+#. ID 24, Page 1, Line 25, Pos (13,9)
+#. Contains choice at line 2 (2 options)
+#. ID 27, Page 1, Line 23, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+#. ID 28, Page 1, Line 23, Pos (17,7)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 23, Pos (11,9)
+#. Contains choice at line 2 (2 options)
+#. ID 33, Page 1, Line 23, Pos (13,7)
+#. Contains choice at line 2 (2 options)
+#. ID 34, Page 1, Line 23, Pos (15,7)
+#. Contains choice at line 2 (2 options)
+#. ID 35, Page 1, Line 23, Pos (15,9)
+#. Contains choice at line 2 (2 options)
+#. ID 36, Page 1, Line 24, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 24, Pos (13,11)
+#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 23, Pos (17,9)
+#. Contains choice at line 2 (2 options)
+#. ID 39, Page 1, Line 23, Pos (15,11)
+#. Contains choice at line 2 (2 options)
+#. ID 40, Page 1, Line 23, Pos (17,11)
+#. Contains choice at line 2 (2 options)
+#. ID 42, Page 1, Line 23, Pos (11,13)
+#. Contains choice at line 2 (2 options)
+#. ID 44, Page 1, Line 23, Pos (13,13)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 23, Pos (15,13)
+#. Contains choice at line 2 (2 options)
+#. ID 47, Page 1, Line 23, Pos (17,13)
+#. Contains choice at line 2 (2 options)
+msgid "エフェクト取得"
+msgstr "Ottieni Effetto"
+
+#. ID 3, Page 1, Line 26, Pos (11,3)
+msgid "ヘッドフォン取得"
+msgstr "Ottenuto Cuffie"
+
+#. ID 8, Page 1, Line 1, Pos (7,1)
+#. Contains choice at line 2 (3 options)
+msgid "エントランスの背景をきめてね"
+msgstr "Scegli lo sfondo dell'Ingresso"
+
+#. ID 8, Page 1, Line 2, Pos (7,1)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"1\n"
+"2\n"
+"3"
+msgstr ""
+"1\n"
+"2\n"
+"3"
+
+#. ID 9, Page 1, Line 1, Pos (15,3)
+msgid "じょうろ"
+msgstr "[Annaffiatoio]"
+
+#. ID 9, Page 1, Line 6, Pos (15,3)
+msgid "じょうろ破棄"
+msgstr "Scartato Annaffiatoio"
+
+#. ID 9, Page 1, Line 26, Pos (15,3)
+msgid "じょうろ取得"
+msgstr "Ottenuto Annaffiatoio"
+
+#. ID 10, Page 1, Line 1, Pos (8,1)
+msgid "はやくはしるよ！"
+msgstr "Velocità di Corsa!"
+
+#. ID 10, Page 1, Line 2, Pos (8,1)
+#. Choice (4 options)
+msgid ""
+"ふつう\n"
+"はやい\n"
+"はあやい\n"
+"神速"
+msgstr ""
+"Normale\n"
+"Veloce\n"
+"Veloceee\n"
+"Extrarapido"
+
+#. ID 11, Page 1, Line 1, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "いつでもセーブ可能になるよ！"
+msgstr "Possibilità di salvare ovunque!"
+
+#. ID 11, Page 1, Line 2, Pos (9,1)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"いい"
+msgstr ""
+"Sì\n"
+"No"
+
+#. ID 12, Page 1, Line 1, Pos (13,3)
+msgid "てつパイプ"
+msgstr "[Tubo di Ferro]"
+
+#. ID 12, Page 1, Line 6, Pos (13,3)
+msgid "てつパイプ破棄"
+msgstr "Scartato Tubo di Ferro"
+
+#. ID 12, Page 1, Line 26, Pos (13,3)
+msgid "てつパイプ取得"
+msgstr "Ottenuto Tubo di Ferro"
+
+#. ID 15, Page 1, Line 1, Pos (17,3)
+msgid "モノアイ　かわいい"
+msgstr "[Mono-Occhio] Carino!"
+
+#. ID 15, Page 1, Line 6, Pos (17,3)
+msgid "モノアイ破棄"
+msgstr "Scartato Mono-Occhio"
+
+#. ID 15, Page 1, Line 26, Pos (17,3)
+msgid "モノアイ取得"
+msgstr "Ottenuto Mono-Occhio"
+
+#. ID 16, Page 1, Line 1, Pos (11,5)
+msgid "せんすいふく　ふく…？"
+msgstr "[Scafandro] ...ma c'è solo l'elmo?"
+
+#. ID 16, Page 1, Line 6, Pos (11,5)
+msgid "せんすいふく破棄"
+msgstr "Scartato Scafandro"
+
+#. ID 16, Page 1, Line 26, Pos (11,5)
+msgid "せんすいふく取得"
+msgstr "Ottenuto Scafandro"
+
+#. ID 18, Page 1, Line 1, Pos (13,5)
+msgid "ねこ　小さいところに入れるようになりました。"
+msgstr ""
+"[Gatto] Si può ora entrare in piccoli ingressi.\n"
+"(N.d.T. Questo commento risale ad una vecchia\n"
+"versione di .flow in cui era stato appena aggiunto\n"
+"Gatto. Questo spiega la precisazione \"ora\".)"
+
+#. ID 18, Page 1, Line 6, Pos (13,5)
+msgid "ねこ破棄"
+msgstr "Scartato Gatto"
+
+#. ID 18, Page 1, Line 26, Pos (13,5)
+msgid "ねこ取得"
+msgstr "Ottenuto Gatto"
+
+#. ID 19, Page 1, Line 1, Pos (15,5)
+msgid ""
+"ほうき　魔女＋自転車\n"
+"ほうきイベントをどうしても作りたかったから\n"
+"作っちゃった。"
+msgstr ""
+"[Scopa] Strega + Bicicletta. Volevo a tutti i\n"
+"costi che ci fosse un evento con la scopa,\n"
+"e alla fine ho creato questo Effetto! (N.d.T.\n"
+"Strega e Bicicletta sono Effetti di Yume Nikki.)"
+
+#. ID 19, Page 1, Line 8, Pos (15,5)
+msgid "ほうき破棄"
+msgstr "Scartato Scopa"
+
+#. ID 19, Page 1, Line 28, Pos (15,5)
+msgid "ほうき取得"
+msgstr "Ottenuto Scopa"
+
+#. ID 20, Page 1, Line 1, Pos (10,1)
+msgid "メニュータイプ変更"
+msgstr "Cambia Tema del Menù"
+
+#. ID 20, Page 1, Line 2, Pos (10,1)
+#. Choice (4 options)
+msgid ""
+"タイプflow\n"
+"タイプfc\n"
+"タイプdot\n"
+"次"
+msgstr ""
+"Menù Flow\n"
+"Menù Famicom\n"
+"Menù Puntinato\n"
+"Avanti"
+
+#. ID 20, Page 1, Line 5, Pos (10,1)
+msgid "メニュータイプflow"
+msgstr "Tema del Menù: Flow"
+
+#. ID 20, Page 1, Line 10, Pos (10,1)
+msgid "メニュータイプfc"
+msgstr "Tema del Menù: Famicom"
+
+#. ID 20, Page 1, Line 15, Pos (10,1)
+msgid "メニュータイプドット"
+msgstr "Tema del Menù: Dot"
+
+#. ID 20, Page 1, Line 19, Pos (10,1)
+#. Choice (4 options)
+msgid ""
+"タイプorange\n"
+"タイプflower\n"
+"タイプsugar\n"
+"タイプrust"
+msgstr ""
+"Menù Arancione\n"
+"Menù Floreale\n"
+"Menù Zucchero\n"
+"Menù Ruggine"
+
+#. ID 20, Page 1, Line 22, Pos (10,1)
+msgid "メニュータイプorange"
+msgstr "Tema del Menù: Arancione"
+
+#. ID 20, Page 1, Line 27, Pos (10,1)
+msgid "メニュータイプflower"
+msgstr "Tema del Menù: Floreale"
+
+#. ID 20, Page 1, Line 32, Pos (10,1)
+msgid "メニュータイプsugar"
+msgstr "Tema del Menù: Zucchero"
+
+#. ID 20, Page 1, Line 37, Pos (10,1)
+msgid "メニュータイプrust"
+msgstr "Tema del Menù: Ruggine"
+
+#. ID 21, Page 1, Line 1, Pos (17,5)
+msgid "ゆうれい"
+msgstr "[Fantasma]"
+
+#. ID 21, Page 1, Line 6, Pos (17,5)
+msgid "ゆうれい破棄"
+msgstr "Scartato Fantasma"
+
+#. ID 21, Page 1, Line 26, Pos (17,5)
+msgid "ゆうれい取得"
+msgstr "Ottenuto Fantasma"
+
+#. ID 24, Page 1, Line 1, Pos (13,9)
+msgid ""
+"うで\n"
+"モノ子ッッ可愛いよかわいいいよォモノ子ォォァアアアアッアァッッ！\n"
+"！！"
+msgstr ""
+"[Braccia]\n"
+"Monoko è carinaaa monokooo aaAAAAA!!!\n"
+"(N.d.T. Monoko è un personaggio di Yume Nikki con\n"
+"più braccia. Sembrerebbe aver ispirato Braccia.)"
+
+#. ID 24, Page 1, Line 8, Pos (13,9)
+msgid "うで破棄"
+msgstr "Scartato Braccia"
+
+#. ID 24, Page 1, Line 28, Pos (13,9)
+msgid "うで取得"
+msgstr "Ottenuto Braccia"
+
+#. ID 25, Page 1, Line 1, Pos (14,1)
+#. Contains choice at line 2 (2 options)
+msgid ".かそくそうち."
+msgstr "Acceleratore"
+
+#. ID 25, Page 1, Line 2, Pos (14,1)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 1, Line 3, Pos (3,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Sì\n"
+"No"
+
+#. ID 25, Page 1, Line 4, Pos (14,1)
+msgid "メニューのとくべつから。"
+msgstr "Accessibile da Speciale nel Menù."
+
+#. ID 27, Page 1, Line 1, Pos (11,7)
+msgid "ホイッスル"
+msgstr "[Fischietto]"
+
+#. ID 27, Page 1, Line 6, Pos (11,7)
+msgid "ホイッスル破棄"
+msgstr "Scartato Fischietto"
+
+#. ID 27, Page 1, Line 26, Pos (11,7)
+msgid "ホイッスル取得"
+msgstr "Ottenuto Fischietto"
+
+#. ID 28, Page 1, Line 1, Pos (17,7)
+msgid "だるま　動作追加。違和感あり。"
+msgstr ""
+"[Daruma] Azione aggiunta. Mette a disagio...\n"
+"(N.d.T. Questo commento risale ad una vecchia\n"
+"versione di .flow in cui era stata appena aggiunta\n"
+"l'Azione di accasciarsi a terra premendo Shift.)"
+
+#. ID 28, Page 1, Line 6, Pos (17,7)
+msgid "だるま破棄"
+msgstr "Scartato Daruma"
+
+#. ID 28, Page 1, Line 26, Pos (17,7)
+msgid "だるま取得"
+msgstr "Ottenuto Daruma"
+
+#. ID 29, Page 1, Line 1, Pos (3,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"ガスマスクツインテールver\n"
+"せっかく作ったので。"
+msgstr ""
+"[Maschera Antigas, Ver. Codini]\n"
+"Dato che l'ho fatto con tanta fatica.\n"
+"(N.d.T. Cosmetico presente solo in questa stanza.)"
+
+#. ID 29, Page 1, Line 6, Pos (3,13)
+msgid "ver.ツインテールon"
+msgstr "Versione Doppi Codini ON"
+
+#. ID 29, Page 1, Line 11, Pos (3,13)
+msgid "ver.ツインテールoff"
+msgstr "Versione Doppi Codini OFF"
+
+#. ID 31, Page 1, Line 1, Pos (11,9)
+msgid "スライム　ぶよぶよ強化。"
+msgstr "[Slime] Blob Blob."
+
+#. ID 31, Page 1, Line 6, Pos (11,9)
+msgid "スライム破棄"
+msgstr "Scartato Slime"
+
+#. ID 31, Page 1, Line 26, Pos (11,9)
+msgid "スライム取得"
+msgstr "Ottenuto Slime"
+
+#. ID 33, Page 1, Line 1, Pos (13,7)
+msgid "ガスマスク　非常に可愛い"
+msgstr "[Maschera Antigas] Estremamente carina!"
+
+#. ID 33, Page 1, Line 6, Pos (13,7)
+msgid "ガスマスク破棄"
+msgstr "Scartato Maschera Antigas"
+
+#. ID 33, Page 1, Line 26, Pos (13,7)
+msgid "ガスマスク取得"
+msgstr "Ottenuto Maschera Antigas"
+
+#. ID 34, Page 1, Line 1, Pos (15,7)
+msgid "きかい　やっつけかもしれない。"
+msgstr ""
+"[Macchinario] Forse completato.\n"
+"(N.d.T. Questo commento risale ad una vecchia\n"
+"versione di .flow)"
+
+#. ID 34, Page 1, Line 6, Pos (15,7)
+msgid "きかい破棄"
+msgstr "Scartato Macchinario"
+
+#. ID 34, Page 1, Line 26, Pos (15,7)
+msgid "きかい取得"
+msgstr "Ottenuto Macchina"
+
+#. ID 35, Page 1, Line 1, Pos (15,9)
+msgid "ないぞう　リョナいよ。"
+msgstr ""
+"[Viscere] A mo' di Ryona.\n"
+"(N.d.T. Ryona: Espressione giapponese che indica\n"
+"la rappresentazione di una figura femminile che \n"
+"soffre fisicamente e/o mentalmente.)"
+
+#. ID 35, Page 1, Line 6, Pos (15,9)
+msgid "ないぞう破棄"
+msgstr "Scartato Viscere"
+
+#. ID 35, Page 1, Line 26, Pos (15,9)
+msgid "ないぞう取得"
+msgstr "Ottenuto Viscere"
+
+#. ID 36, Page 1, Line 1, Pos (11,11)
+msgid ""
+"けんじゅう\n"
+"ドットが小さくて見えにくい。"
+msgstr ""
+"[Pistola]\n"
+"I pixel son piccoli e difficili da vedere."
+
+#. ID 36, Page 1, Line 7, Pos (11,11)
+msgid "けんじゅう破棄"
+msgstr "Scartato Pistola"
+
+#. ID 36, Page 1, Line 27, Pos (11,11)
+msgid "けんじゅう取得"
+msgstr "Ottenuto Pistola"
+
+#. ID 37, Page 1, Line 1, Pos (13,11)
+msgid ""
+"したい\n"
+"腐乱死体。"
+msgstr ""
+"[Cadavere]\n"
+"Corpo in decomposizione."
+
+#. ID 37, Page 1, Line 7, Pos (13,11)
+msgid "したい破棄"
+msgstr "Scartato Cadavere"
+
+#. ID 37, Page 1, Line 27, Pos (13,11)
+msgid "したい取得"
+msgstr "Ottenuto Cadavere"
+
+#. ID 38, Page 1, Line 1, Pos (17,9)
+msgid "サイケデリック　"
+msgstr "[Psichedelia]"
+
+#. ID 38, Page 1, Line 6, Pos (17,9)
+msgid "サイケデリック破棄"
+msgstr "Scartato Psichedelia"
+
+#. ID 38, Page 1, Line 26, Pos (17,9)
+msgid "サイケデリック取得"
+msgstr "Ottenuto Psichedelia"
+
+#. ID 39, Page 1, Line 1, Pos (15,11)
+msgid "くろフード"
+msgstr "[Cappuccio Nero]"
+
+#. ID 39, Page 1, Line 6, Pos (15,11)
+msgid "くろフード破棄"
+msgstr "Scartato Cappuccio Nero"
+
+#. ID 39, Page 1, Line 26, Pos (15,11)
+msgid "くろフード取得"
+msgstr "Ottenuto Cappuccio Nero"
+
+#. ID 40, Page 1, Line 1, Pos (17,11)
+msgid "せいふく"
+msgstr "[Divisa Scolastica]"
+
+#. ID 40, Page 1, Line 6, Pos (17,11)
+msgid "せいふく破棄"
+msgstr "Scartato Divisa Scolastica"
+
+#. ID 40, Page 1, Line 26, Pos (17,11)
+msgid "せいふく取得"
+msgstr "Ottenuto Divisa Scolastica"
+
+#. ID 42, Page 1, Line 1, Pos (11,13)
+msgid "テレビ"
+msgstr "[TV]"
+
+#. ID 42, Page 1, Line 6, Pos (11,13)
+msgid "テレビ破棄"
+msgstr "Scartato TV"
+
+#. ID 42, Page 1, Line 26, Pos (11,13)
+msgid "テレビ取得"
+msgstr "Ottenuto TV"
+
+#. ID 44, Page 1, Line 1, Pos (13,13)
+msgid "いれずみ"
+msgstr "[Tatuaggio]"
+
+#. ID 44, Page 1, Line 6, Pos (13,13)
+msgid "いれずみ破棄"
+msgstr "Scartato Tatuaggio"
+
+#. ID 44, Page 1, Line 26, Pos (13,13)
+msgid "いれずみ取得"
+msgstr "Ottenuto Tatuaggio"
+
+#. ID 46, Page 1, Line 1, Pos (15,13)
+msgid "しょくぶつ"
+msgstr "[Pianta]"
+
+#. ID 46, Page 1, Line 6, Pos (15,13)
+msgid "しょくぶつ破棄"
+msgstr "Scartato Pianta"
+
+#. ID 46, Page 1, Line 26, Pos (15,13)
+msgid "しょくぶつ取得"
+msgstr "Ottenuto Pianta"
+
+#. ID 47, Page 1, Line 1, Pos (17,13)
+msgid "ドレス"
+msgstr "[Abito]"
+
+#. ID 47, Page 1, Line 6, Pos (17,13)
+msgid "ドレス破棄"
+msgstr "Scartato Abito"
+
+#. ID 47, Page 1, Line 26, Pos (17,13)
+msgid "ドレス取得"
+msgstr "Ottenuto Abito"

@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 1, Line 5, Pos (12,6)
 #. ID 4, Page 1, Line 5, Pos (5,6)
 msgid "　　　　　　　　     .ほうき."
-msgstr "　　　　　　　　     .Broom."
+msgstr "　　　　　　　　    .Scopa."

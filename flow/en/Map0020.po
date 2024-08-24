@@ -10,18 +10,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 3, Page 1, Line 5, Pos (34,23)
 #. ID 3, Page 1, Line 10, Pos (34,23)
 #. ID 3, Page 1, Line 15, Pos (34,23)
 msgid "グラフィック変更"
-msgstr "Set Menu Theme"
+msgstr "Seleziona Grafica"
 
 #. ID 4, Page 1, Line 5, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプorange"
-msgstr "Orange Menu"
+msgstr "Tema del Menù: Arancione"
 
 #. ID 4, Page 1, Line 6, Pos (36,25)
 #. Choice (3 options, embedded in a message)
@@ -38,26 +38,26 @@ msgid ""
 "つぎ\n"
 "やめる"
 msgstr ""
-"Set\n"
-"Next\n"
-"Cancel"
+"Conferma\n"
+"Avanti\n"
+"Esci"
 
 #. ID 4, Page 1, Line 22, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプflower"
-msgstr "Flower Menu"
+msgstr "Tema del Menù: Floreale"
 
 #. ID 4, Page 1, Line 39, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプsugar"
-msgstr "Sugar Menu"
+msgstr "Tema del Menù: Zuccherato"
 
 #. ID 4, Page 1, Line 56, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプrust"
-msgstr "Rust Menu"
+msgstr "Tema del Menù: Arrugginito"
 
 #. ID 4, Page 1, Line 73, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプsmile"
-msgstr "Smile Menu"
+msgstr "Tema del Menù: Smile"
