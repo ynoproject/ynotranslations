@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 6, Page 2, Line 21, Pos (28,22)
 msgid "　　　　　　　　   .てつパイプ."
-msgstr "　　　　　　　　  .Tubo di Ferro."
+msgstr "　　　　　　　　   .Iron Pipe."

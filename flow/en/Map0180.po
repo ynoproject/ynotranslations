@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 14, Page 1, Line 1, Pos (6,7)
 #. Contains choice at line 2 (2 options)
 msgid "すべて　すてますか　？"
-msgstr "Scartarli tutti?"
+msgstr "Do you want to throw it all away?"
 
 #. ID 14, Page 1, Line 2, Pos (6,7)
 #. Choice (2 options, embedded in a message)
@@ -23,15 +23,15 @@ msgid ""
 "はい\n"
 "いいえ"
 msgstr ""
-"Sì\n"
+"Yes\n"
 "No"
 
 #. ID 14, Page 1, Line 54, Pos (6,7)
 msgid "すてました。"
-msgstr "Scartati."
+msgstr "Scrapped."
 
 #. ID 14, Page 1, Line 60, Pos (6,7)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "錆"
-msgstr "Ruggine"
+msgstr "Rust"

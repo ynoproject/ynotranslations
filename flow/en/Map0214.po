@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 1, Page 3, Line 17, Pos (11,8)
 msgid "　　　　　  　 .メニュータイプsmile."
-msgstr "　　　   　  　 .Tema del Menù: Smile."
+msgstr "　　　  　　　  　 .Smile Menu."

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #. ID 26, Page 2, Line 5, Pos (23,20)
 #. ID 26, Page 3, Line 5, Pos (23,20)
@@ -28,4 +28,4 @@ msgstr ""
 #. ID 31, Page 4, Line 58, Pos (23,18)
 #. ID 32, Page 4, Line 57, Pos (23,19)
 msgid "　　　　　  　 .メニュータイプsugar."
-msgstr "　　　　　  .Tema del Menù: Zuccherato."
+msgstr "　　　　　  　　　 .Sugar Menu."
