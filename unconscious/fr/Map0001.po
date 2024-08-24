@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 4, Page 1, Line 1, Pos (35,27)
 msgid "sniperbob minigame1"
@@ -74,6 +74,7 @@ msgstr ""
 #. ID 108, Page 2, Line 2, Pos (31,5)
 #. ID 110, Page 2, Line 3, Pos (33,5)
 #. ID 115, Page 2, Line 3, Pos (27,7)
+#. ID 116, Page 2, Line 3, Pos (29,7)
 #. ID 117, Page 2, Line 3, Pos (31,7)
 #. ID 118, Page 2, Line 3, Pos (33,7)
 #. ID 119, Page 2, Line 4, Pos (19,9)
@@ -91,11 +92,13 @@ msgstr ""
 #. ID 135, Page 2, Line 3, Pos (19,13)
 #. ID 136, Page 2, Line 2, Pos (21,13)
 #. ID 137, Page 2, Line 3, Pos (23,13)
+#. ID 138, Page 2, Line 2, Pos (25,13)
 #. ID 139, Page 2, Line 3, Pos (27,13)
 #. ID 141, Page 2, Line 2, Pos (31,13)
 #. ID 143, Page 2, Line 2, Pos (19,15)
 #. ID 144, Page 2, Line 4, Pos (21,15)
 #. ID 145, Page 2, Line 3, Pos (23,15)
+#. ID 146, Page 2, Line 3, Pos (25,15)
 #. ID 147, Page 2, Line 2, Pos (27,15)
 #. ID 149, Page 2, Line 3, Pos (31,15)
 msgid ""
@@ -339,6 +342,16 @@ msgstr ""
 msgid "Killable NPC (x1)"
 msgstr "PNJ tuable (x1)"
 
+#. ID 72, Page 1, Line 2, Pos (21,27)
+#. ID 74, Page 1, Line 2, Pos (19,27)
+#. ID 76, Page 1, Line 3, Pos (17,27)
+msgid ""
+"Please also use NPC templates as a base for\n"
+"destructable events!"
+msgstr ""
+"Veuillez aussi utiliser les modèles de PNJ comme\n"
+"base pour les événements destructibles !"
+
 #. ID 74, Page 1, Line 1, Pos (19,27)
 msgid "Not killable NPC"
 msgstr "PNJ non tuable"
@@ -413,7 +426,7 @@ msgstr ""
 msgid "Unlocked automatically!"
 msgstr "Ce thème de menu est débloqué par défaut."
 
-#. ID 81, Page 1, Line 29, Pos (33,25)
+#. ID 81, Page 1, Line 33, Pos (33,25)
 #. Choice (2 options)
 msgid ""
 "Lock one\n"
@@ -438,15 +451,12 @@ msgstr ""
 #. ID 86, Page 2, Line 1, Pos (25,3)
 #. ID 102, Page 2, Line 1, Pos (25,5)
 #. ID 114, Page 2, Line 1, Pos (25,7)
-#. ID 116, Page 2, Line 1, Pos (29,7)
 #. ID 124, Page 2, Line 1, Pos (29,9)
 #. ID 126, Page 2, Line 1, Pos (33,9)
 #. ID 132, Page 2, Line 1, Pos (29,11)
 #. ID 134, Page 2, Line 1, Pos (33,11)
-#. ID 138, Page 2, Line 1, Pos (25,13)
 #. ID 140, Page 2, Line 1, Pos (29,13)
 #. ID 142, Page 2, Line 1, Pos (33,13)
-#. ID 146, Page 2, Line 1, Pos (25,15)
 #. ID 148, Page 2, Line 1, Pos (29,15)
 #. ID 150, Page 2, Line 1, Pos (33,15)
 msgid "Unused."
@@ -587,6 +597,14 @@ msgstr ""
 "qui demandent d'utiliser une petite forme pour\n"
 "passer."
 
+#. ID 116, Page 2, Line 1, Pos (29,7)
+msgid ""
+"Icon for events that handle mechanics for a\n"
+"day-night cycle."
+msgstr ""
+"Icône pour les événements qui gèrent les\n"
+"mécaniques d'un cycle jour-nuit."
+
 #. ID 117, Page 2, Line 1, Pos (31,7)
 msgid ""
 "Icon for events that require floating to pass or\n"
@@ -724,6 +742,12 @@ msgstr ""
 "parallèle qui ne correspondent pas à d'autres\n"
 "catégories."
 
+#. ID 138, Page 2, Line 1, Pos (25,13)
+msgid "Used for events which place the player in a boat."
+msgstr ""
+"Icône pour les événements qui placent le joueur\n"
+"dans un bateau."
+
 #. ID 139, Page 2, Line 1, Pos (27,13)
 msgid ""
 "Icon for events that prevent movement into\n"
@@ -762,6 +786,14 @@ msgstr ""
 "Icône pour les événements généraux autorun qui\n"
 "ne correspondent pas à d'autres catégories."
 
+#. ID 146, Page 2, Line 1, Pos (25,15)
+msgid ""
+"Used for events which stop the player if they're\n"
+"in a boat."
+msgstr ""
+"Icône pour les événements qui arrêtent le joueur\n"
+"si il est dans un bateau."
+
 #. ID 147, Page 2, Line 1, Pos (27,15)
 msgid "Icon for events that handle picture events."
 msgstr ""
@@ -775,3 +807,25 @@ msgid ""
 msgstr ""
 "Icône pour les événements qui donnent un autre\n"
 "type d'objet."
+
+#. ID 178, Page 1, Line 1, Pos (43,29)
+msgid "Use number 2 to use Sculpture"
+msgstr "Utilisez la touche 2 pour utiliser Sculpture"
+
+#. ID 182, Page 1, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"debug overlay\n"
+"Cancel"
+msgstr ""
+"Surcouche de débogage\n"
+"Annuler"
+
+#. ID 182, Page 2, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"turn off debug overlay\n"
+"Cancel"
+msgstr ""
+"Désactiver la surcouche de débogage\n"
+"Annuler"
