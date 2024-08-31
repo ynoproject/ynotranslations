@@ -14,8 +14,8 @@ msgstr ""
 
 #. ID 2, Page 1, Line 20, Pos (14,8)
 msgid "                Change Menu Type"
-msgstr "                Ŝanĝi Menuan Temon"
+msgstr "                Ŝanĝi Menuan Etoson"
 
 #. ID 2, Page 3, Line 20, Pos (14,8)
 msgid "@@@@@@šƒƒjƒ…[ƒ^ƒCƒvƒ`ƒFƒ“ƒWš"
-msgstr "                Ŝanĝi Menuan Temon"
+msgstr "                Ŝanĝi Menuan Etoson"
