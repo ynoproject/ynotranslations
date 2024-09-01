@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 1, Line 7, Pos (26,3)
 msgid "Ｐ獲得：通常クリア！"
@@ -23,7 +23,7 @@ msgstr "Ponto adquirido: Conclusão rápida!"
 
 #. ID 2, Page 1, Line 20, Pos (26,3)
 msgid "Ｐ未獲得：短時間クリア"
-msgstr "Pontos não adquiridos: Conclusão rápida "
+msgstr "Pontos não adquiridos: Conclusão rápida"
 
 #. ID 2, Page 1, Line 28, Pos (26,3)
 msgid "Ｐ獲得：チップ回収クリア！"

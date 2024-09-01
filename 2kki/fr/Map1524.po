@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 32, Page 1, Line 26, Pos (179,36)
 #. ID 53, Page 1, Line 7, Pos (179,32)
@@ -24,7 +24,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　   Style de menu:22\\<\\|\\|\\^"
+"\\>　　　　　　　  Style de menu : 22\\<\\|\\|\\^"
 
 #. ID 279, Page 1, Line 8, Pos (83,100)
 msgid "\\$\\.\\.\\.\\^"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 37, Page 1, Line 2, Pos (147,63)
 msgid "開かない。鍵がかかっている"
@@ -117,7 +117,7 @@ msgid ""
 "ＮＯ"
 msgstr ""
 "SIM\n"
-"NÂO"
+"NÃO"
 
 #. ID 268, Page 1, Line 1, Pos (12,28)
 #. Contains choice at line 2 (2 options)
@@ -136,7 +136,7 @@ msgid ""
 "NO"
 msgstr ""
 "SIM\n"
-"NÃOS"
+"NÃO"
 
 #. ID 276, Page 3, Line 3, Pos (186,8)
 msgid "ﾂｶﾏｴﾀ････"

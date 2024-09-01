@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -355,11 +355,11 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "Tous les effets ont été obtenus"
+msgstr "\\>Tous les effets ont été obtenus"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "Tous les effets ont été retirés"
+msgstr "\\>Tous les effets ont été retirés"
 
 #. ID 43, Line 126
 msgid ""
@@ -407,7 +407,7 @@ msgid ""
 "\\>　MAP ID:\\v[1435] X:??? \\C[2](Now X:\\V[22])\\C[0]\n"
 "\\>　\\C[2]X座標を指定してください\\C[0]"
 msgstr ""
-"\\>　ID carte : \\v[1435] X : ??? \\C[2]( X actuel : \\V[22])\\C[0]\n"
+"\\>　ID carte : \\v[1435] X : ??? \\C[2](X actuel : \\V[22])\\C[0]\n"
 "\\>　\\C[2]Entrez la coordonnée X\\C[0]"
 
 #. ID 43, Line 188
@@ -415,13 +415,13 @@ msgid ""
 "\\>　MAP ID:\\v[1435] X:\\v[1432] Y:??? \\C[2](Now Y:\\V[23])\\C[0]\n"
 "\\>　\\C[2]Y座標を指定してください\\C[0]"
 msgstr ""
-"\\>　ID carte : \\v[1435] X : \\v[1432] \\C[2]( Y actuel : \\V[23])\\C[0]\n"
+"\\>　ID carte : \\v[1435] X : \\v[1432] Y: ??? \\C[2] (Y actuel : \\V[23])\\C[0]\n"
 "\\>　\\C[2]Entrez la coordonnée Y\\C[0]"
 
 #. ID 43, Line 191
 #. ID 43, Line 228
 msgid "\\>　MAP ID:\\v[1435] X:\\v[1432] Y:\\v[1433]\\<\\.\\^"
-msgstr "\\>　ID carte :\\v[1435] X : \\v[1432] Y : \\v[1433]\\<\\.\\^"
+msgstr "\\>　ID carte : \\v[1435] X : \\v[1432] Y : \\v[1433]\\<\\.\\^"
 
 #. ID 43, Line 224
 msgid "\\>1つ前のMAPIDが記録されていません。"
@@ -467,7 +467,7 @@ msgid ""
 msgstr ""
 "\\>Ver : \\V[11] Ver sauv. : \\V[12] FIN No. \\V[59] Fin vue \\V[58]\n"
 "\\>Style de menu : \\V[46] Sons sys : \\V[47] Évén. txt : \\V[48]\n"
-"\\>Temps de jeu : \\V[87]h \\V[86]m \\V[85]s Pas : \\V[91]\\V[90]"
+"\\>Temps de jeu : \\V[87]h \\V[86]m \\V[85]s Pas : \\V[91] \\V[90]"
 
 #. ID 61, Line 16
 msgid "\\>\\^\\"
@@ -723,7 +723,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Somnambule"
+msgstr "  Somnambule"
 
 #. ID 69, Line 55
 msgid ""
@@ -1567,7 +1567,7 @@ msgstr ""
 "\\>Vous êtes sur l'écran de sélection des effets\n"
 "\\>de la Chambre d'Urotsuki. Cela peut être dû à :\n"
 "\\>Non utilisation/inapte à contrôler le CEV\n"
-"\\>[Interdir action pendant événement]"
+"\\>[Interdire action pendant événement]"
 
 #. ID 76, Line 3066
 msgid ""
@@ -9236,7 +9236,7 @@ msgstr ""
 
 #. ID 238, Line 30
 msgid "\\>\\c[4]DEAD\\c[0]: \\v[1204]"
-msgstr "\\>\\c[4]MORTS\\c[0]: \\v[1204]"
+msgstr "\\>\\c[4]MORTS\\c[0] : \\v[1204]"
 
 #. ID 238, Line 34
 msgid ""
@@ -9263,7 +9263,7 @@ msgstr ""
 #. ID 238, Line 44
 #. Contains choice at line 2 (2 options)
 msgid "END?"
-msgstr "FIN?"
+msgstr "FIN ?"
 
 #. ID 238, Line 45
 #. Choice (2 options, embedded in a message)
@@ -9333,7 +9333,7 @@ msgid ""
 "\\>タイトル画面へ戻ります"
 msgstr ""
 "\\>Erreur : vous vous situez dans un lieu anormal.\n"
-"\\>(Map\\v[1460])\n"
+"\\>(Map : \\v[1460])\n"
 "\n"
 "\\>Appuyez sur Entrer pour retourner au titre."
 
