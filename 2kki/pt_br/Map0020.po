@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 10, Page 4, Line 28, Pos (22,16)
 #. ID 59, Page 4, Line 29, Pos (20,31)
@@ -60,7 +60,7 @@ msgstr ""
 #. ID 16, Page 1, Line 19, Pos (7,16)
 #. Contains choice at line 2 (2 options)
 msgid "タイトル「意味不明（３）」　　　著作「>>826氏」"
-msgstr "Título: \"Ambiguidade  (3)\"      　Autor: >>826"
+msgstr "Título: \"Ambiguidade  (3)\"　　　Autor: >>826"
 
 #. ID 17, Page 1, Line 19, Pos (5,16)
 #. Contains choice at line 2 (2 options)

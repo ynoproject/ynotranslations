@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 6, Line 95
 #. ID 6, Line 102
@@ -258,7 +258,7 @@ msgstr "Grób"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ふみきり"
-msgstr "Sygn. Kolejowa"
+msgstr "Sygnalizacja Kolejowa"
 
 #. ID 14, Line 175
 #. ChangeHeroName (Actor 8)
@@ -355,11 +355,11 @@ msgstr ""
 
 #. ID 43, Line 96
 msgid "\\>全てのエフェクトを取得しました"
-msgstr "Zdobyto wszystkie efekty"
+msgstr "\\>Zdobyto wszystkie efekty"
 
 #. ID 43, Line 107
 msgid "\\>全てのエフェクトを破棄しました"
-msgstr "Odrzucono wszystkie efekty"
+msgstr "\\>Odrzucono wszystkie efekty"
 
 #. ID 43, Line 126
 msgid ""
@@ -467,7 +467,7 @@ msgid ""
 msgstr ""
 "\\>Ver: \\V[11] SaveVer: \\V[12] ED. Nr\\V[59] Zakończenia widziane \\V[58]\n"
 "\\>Typ Menu: \\V[46] Sys SE: \\V[47] Wydarzenia Text: \\V[48]\n"
-"\\>Czas: \\V[87]h \\V[86]m \\V[85]s Kroki: \\V[91]\\V[90]"
+"\\>Czas: \\V[87]h \\V[86]m \\V[85]s Kroki: \\V[91]_\\V[90]"
 
 #. ID 61, Line 16
 msgid "\\>\\^\\"
@@ -531,8 +531,8 @@ msgid ""
 "\\>設定中のシステム効果音が未開放のため、\n"
 "\\>システム効果音の設定を変更しました"
 msgstr ""
-"\\>Jako że wybrane Efekty Dźw. nie zostały\n"
-"\\>wprowadzone, przywrócono je do domyślnych."
+"\\>Since the System SE selected has not been\n"
+"\\>released, your System SE settings were changed."
 
 #. ID 62, Line 508
 msgid ""
@@ -1564,10 +1564,10 @@ msgid ""
 "\\>ｴﾌｪｸﾄｼﾌﾄﾁｪﾝｼﾞの起動を抑制できていない、\n"
 "\\>といった原因が考えられます。"
 msgstr ""
-"\\>Jesteś w wstępnej części wyboru efektów\n"
-"\\>w Pokoju Urotsuki. To może być ponieważ:\n"
-"\\>Nie można kontrolować CEV\n"
-"\\>[Zakaż Akcje przy Wydarzeniu]"
+"\\>You are in the opening effect selection screen\n"
+"\\>of Urotsuki's Room. This might be due to:\n"
+"\\>Not using/unable to control the CEV\n"
+"\\>[Forbid Action while Event]"
 
 #. ID 76, Line 3066
 msgid ""
@@ -1576,10 +1576,10 @@ msgid ""
 "\n"
 "この表示は10秒後に消えます。\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
 msgstr ""
-"Ta wiadomość nie powinna się wyświetlać.\n"
-"Powiedz nam jeśli ją zobaczyliście.\n"
+"This message should not be displayed.\n"
+"Please tell us if you saw it.\n"
 "CEV:0076 MAP:\\V[99] XY:\\V[100]\n"
-"Zakończone za 10 sekund. \\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
+"Dismissed in 10 seconds. \\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
 
 #. ID 80, Line 34
 msgid ""

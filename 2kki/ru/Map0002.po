@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -186,8 +186,8 @@ msgid ""
 "\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
 "\\>      !В Режиме На время Сохраняться нельзя!\n"
-"\\> Время Игры: \\C[4]\\V[87]ч \\V[86]мин \\V[85]сек\\C[0]; \n"
-"\\>Прохождение: \\C[4]\\V[3520]ч \\V[3519]мин \\V[3518]сек\\C[0].\n"
+"\\> Время Игры: \\C[4]\\v[87]ч \\v[86]мин \\v[85]сек\\C[0]; \n"
+"\\>Прохождение: \\C[4]\\v[3520]ч \\v[3519]мин \\v[3518]сек\\C[0].\n"
 "\\>\\C[2]            (Помимо времени в меню)"
 
 #. ID 6, Page 6, Line 359, Pos (12,5)
@@ -227,7 +227,7 @@ msgstr ""
 #. ID 6, Page 6, Line 543, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>通知機能を設定してください"
-msgstr "Включить уведомления?"
+msgstr "\\>Включить уведомления?"
 
 #. ID 6, Page 6, Line 544, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -526,31 +526,31 @@ msgstr ""
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "00000"
-msgstr "00000"
+msgstr ""
 
 #. ID 6, Page 6, Line 923, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "0000"
-msgstr "0000"
+msgstr ""
 
 #. ID 6, Page 6, Line 927, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "000"
-msgstr "000"
+msgstr ""
 
 #. ID 6, Page 6, Line 931, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "00"
-msgstr "00"
+msgstr ""
 
 #. ID 6, Page 6, Line 935, Pos (12,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "0"
-msgstr "0"
+msgstr ""
 
 #. ID 6, Page 6, Line 946, Pos (12,5)
 #. Contains choice at line 2 (3 options)

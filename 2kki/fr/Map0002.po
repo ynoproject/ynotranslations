@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -151,7 +151,7 @@ msgid ""
 "\\>\n"
 "\\>(メモリー登録が無い場合は無音になります。)"
 msgstr ""
-"\\>No. \\V[17]:\n"
+"\\>No. \\V[17] :\n"
 "\\>Change la musique de fond aléatoirement depuis\n"
 "\\>la playlist de la salle de son.\n"
 "\\>(Si aucune n'est dans la playlist rien ne jouera.)"
@@ -163,7 +163,7 @@ msgid ""
 "\\>\n"
 "\\>(未開放曲がいっぱいあると時間がかかるかも。)"
 msgstr ""
-"\\>No. \\V[17]:\n"
+"\\>No. \\V[17] :\n"
 "\\>Change la musique de fond aléatoirement depuis\n"
 "\\>la salle de son.\n"
 "\\>(Cela peut durer si peu de pistes sont débloquées.)"
@@ -186,8 +186,8 @@ msgid ""
 "\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
 msgstr ""
 "\\>!! Vous ne pouvez pas sauver en contre-la-montre !!\n"
-"\\>Temps de jeu: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
-"\\>Première fin: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
+"\\>Temps de jeu : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>Première fin : \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
 "\\>\\C[2]　　　　(Temps passé dans les menus exclus)"
 
 #. ID 6, Page 6, Line 359, Pos (12,5)
@@ -199,12 +199,12 @@ msgid ""
 msgstr ""
 "\\>!! Vous ne pouvez pas sauver en contre-la-montre !!\n"
 "\\>\n"
-"\\>Temps de Jeu: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>Temps de jeu : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
 "\\>\\C[2]　　　　(Temps passé dans les menus exclus)"
 
 #. ID 6, Page 6, Line 415, Pos (12,5)
 msgid "\\>♪Secret Code：\\V[15]"
-msgstr "\\>♪Code secret: \\V[15]"
+msgstr "\\>♪Code secret : \\V[15]"
 
 #. ID 6, Page 6, Line 422, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -273,7 +273,7 @@ msgstr "Act."
 #. ID 6, Page 6, Line 581, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
-msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Fond: No.\\C[4]\\V[19] \\C[0]Aléatoire: \\C[4]\\N[2] \\C[0]Nouv: \\C[4]\\N[3]\\C[0]"
+msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0] Fond : No.\\C[4]\\V[19] \\C[0]Aléatoire : \\C[4]\\N[2] \\C[0]Nouv : \\C[4]\\N[3]\\C[0]"
 
 #. ID 6, Page 6, Line 582, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -327,7 +327,7 @@ msgid ""
 "\\>現在：\\C[4]\\N[2]\\C[3]"
 msgstr ""
 "\\C[3]\\>Choisit automatiquement un fond d'écran au hasard\n"
-"\\>Choix actuel: \\C[4]\\N[2]\\C[3]"
+"\\>Choix actuel : \\C[4]\\N[2]\\C[3]"
 
 #. ID 6, Page 6, Line 628, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -353,7 +353,7 @@ msgstr "\\>Désactivé."
 #. ID 6, Page 6, Line 659, Pos (12,5)
 #. Contains choice at line 3 (2 options)
 msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
-msgstr "\\>Notifs de nouveaux fonds　Choix act.: \\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>Notifs de nouveaux fonds　Choix act. : \\C[4]\\N[2]\\C[0]\n"
 
 #. ID 6, Page 6, Line 677, Pos (12,5)
 #. Contains choice at line 3 (2 options)
@@ -464,7 +464,7 @@ msgstr "Activer"
 #. ID 6, Page 6, Line 776, Pos (12,5)
 #. Contains choice at line 2 (3 options)
 msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
-msgstr "\\>Événements de texte en rêve　Choix actuel: \\C[4]\\N[2]\\C[0]"
+msgstr "\\>Événements de texte en rêve　Choix actuel : \\C[4]\\N[2]\\C[0]"
 
 #. ID 6, Page 6, Line 777, Pos (12,5)
 #. Choice (3 options, embedded in a message)
@@ -522,7 +522,7 @@ msgid ""
 "\\>…をデフォルトに戻しました。"
 msgstr ""
 "\\>Style de menu / Bruitages / Musique d'écran PC\n"
-"\\>Revenu par défaut"
+"\\>Réinitialiser"
 
 #. ID 6, Page 6, Line 921, Pos (12,5)
 #. ChangeHeroName (Actor 3)
@@ -751,8 +751,8 @@ msgid ""
 "\\>前回セーブまでの死亡回数：\\v[1262]\n"
 "\\>ロードしますか？"
 msgstr ""
-"\\>Morts depuis la dernière sauvegarde: \\v[1262]\n"
-"\\>Voulez-vous charger?"
+"\\>Morts depuis la dernière sauvegarde : \\v[1262]\n"
+"\\>Voulez-vous charger ?"
 
 #. ID 9, Page 3, Line 74, Pos (9,10)
 #. Choice (2 options, embedded in a message)
@@ -768,7 +768,7 @@ msgstr ""
 #. ID 9, Page 3, Line 150, Pos (9,10)
 #. Contains choice at line 2 (2 options)
 msgid "\\>ゲームを終了しますか？"
-msgstr "\\>Quitter le jeu?"
+msgstr "\\>Quitter le jeu ?"
 
 #. ID 9, Page 3, Line 119, Pos (9,10)
 #. Choice (2 options, embedded in a message)
@@ -1125,7 +1125,7 @@ msgid ""
 "\\>　夢の中にあるこの引き出しを調べてください。"
 msgstr ""
 "\\>*Activé.\n"
-"\\>　Lorsque vous voulez enregister un effet,\n"
+"\\>　Lorsque vous voulez enregistrer un effet,\n"
 "\\>　utilisez le tiroir dans votre chambre en rêve\n"
 "\\>　avec l'effet que vous souhaitez enregistrer."
 
@@ -1173,7 +1173,7 @@ msgid ""
 "\\>せつめい / おぷしょん"
 msgstr ""
 "\\>\\N[5]\n"
-"\\>Aide / Options"
+"\\>Aide/Options"
 
 #. ID 12, Page 3, Line 105, Pos (13,5)
 msgid "\\>※\"使う\"に変更しました。"
@@ -1229,7 +1229,7 @@ msgstr ""
 "\\>* Changer par \"Ne rien faire\".\n"
 "\n"
 "\\>Resélectionner le même effet que vous utilisiez\n"
-"\\>n'annulera pas votre effet"
+"\\>n'annulera pas votre effet."
 
 #. ID 12, Page 3, Line 145, Pos (13,5)
 msgid "\\>※\"エフェクト解除する\"に変更しました。"

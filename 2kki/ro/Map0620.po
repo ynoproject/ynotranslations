@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 1477, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -857,6 +857,7 @@ msgid "【★リストを表示する】"
 msgstr ""
 
 #. ID 1, Page 2, Line 679, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]サウンドサーチ\\C[0]\n"
 "\\>\n"
@@ -1775,7 +1776,7 @@ msgid ""
 "\\>\n"
 "\\>＞No.\\V[110]にSRNo.\\C[4]\\N[1]\\V[103]\\N[6]\\C[0]を登録しました"
 msgstr ""
-"\\>\\C[10]■ \\C[6Adaugă în Playlist\\C[0]\n"
+"\\>\\C[10]■ \\C[6]Adaugă în Playlist\\C[0]\n"
 "\\>\n"
 "\\>> Piesa nr. \\C[4]\\N[1]\\V[103]\\N[6]\\C[0] a fost înregistrată la slotul nr. \\V[110]"
 
