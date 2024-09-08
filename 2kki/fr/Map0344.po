@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 4, Line 16, Pos (1,0)
 msgid ""
@@ -20,10 +20,10 @@ msgid ""
 "\\>                   score: \\V[3218]\n"
 "\\>                   \\C[6]highscore: \\V[3219]"
 msgstr ""
-"\\>                   morts: \\V[3216]\n"
-"\\>                   temps: \\V[3217]\n"
-"\\>                   score: \\V[3218]\n"
-"\\>                   \\C[6]meilleur score: \\V[3219]"
+"\\>                   morts : \\V[3216]\n"
+"\\>                   temps : \\V[3217]\n"
+"\\>                   score : \\V[3218]\n"
+"\\>                   \\C[6]meilleur score : \\V[3219]"
 
 #. ID 1, Page 4, Line 22, Pos (1,0)
 msgid ""

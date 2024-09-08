@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Nulsdodage, Cottage\n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
 #. Choice (4 options)
@@ -1444,7 +1444,7 @@ msgstr ""
 "\\>SRa(사운드 룸)\n"
 "\\>잘 즐기고 있을까\n"
 "<easyrpg:new_page>\n"
-"<감상>"
+"\\><감상>"
 
 #. ID 67, Page 1, Line 9, Pos (32,68)
 #. Choice (3 options)
@@ -2959,7 +2959,7 @@ msgstr ""
 "원했습니다. \\!말하자면 소재 제공자입니다. \n"
 "\\!뭐, 구현되어 있진 않지만요.\"\n"
 "<easyrpg:new_page>\n"
-"\""몇몇은 너무 끔찍해서 지웠습니다."\""
+"\"\"몇몇은 너무 끔찍해서 지웠습니다.\"\""
 
 #. ID 79, Page 1, Line 11, Pos (42,41)
 msgid ""
@@ -3055,7 +3055,7 @@ msgstr ""
 
 #. ID 79, Page 1, Line 40, Pos (42,41)
 msgid "「用を済ませる動作はあまり再現出来なくて・・・」\\.\\.\\^"
-msgstr "\"특정 행동을 끝내는 동작은 잘 재현이 안 돼서...\""
+msgstr "\"특정 행동을 끝내는 동작은 잘 재현이 안 돼서...\"\\.\\.\\^"
 
 #. ID 79, Page 1, Line 41, Pos (42,41)
 msgid "「中では史上最悪な反撃イベントも作ったり・・・」\\.\\.\\^"
@@ -4813,10 +4813,6 @@ msgid ""
 "Nuls_03-dbwld\n"
 "->"
 msgstr ""
-"Nuls_01-dtslm\n"
-"Nuls_02-Debug\n"
-"Nuls_03-dbwld\n"
-"->"
 
 #. ID 101, Page 3, Line 20, Pos (18,67)
 #. Choice (4 options)
@@ -4832,10 +4828,6 @@ msgid ""
 "Nuls_06_split\n"
 "->"
 msgstr ""
-"Nuls_04-dgtmn\n"
-"Nuls_05-nuvod\n"
-"Nuls_06_split\n"
-"->"
 
 #. ID 101, Page 3, Line 31, Pos (18,67)
 #. Choice (4 options)
@@ -4851,10 +4843,6 @@ msgid ""
 "Nuls_09_Data_Tech\n"
 "->"
 msgstr ""
-"Nuls_08-Dtdbr\n"
-"Nuls_08b-dscom\n"
-"Nuls_09_Data_Tech\n"
-"->"
 
 #. ID 101, Page 3, Line 42, Pos (18,67)
 #. Choice (4 options)
@@ -4870,10 +4858,6 @@ msgid ""
 "nuls_12_Prelude\n"
 "->"
 msgstr ""
-"nuls_10_Coup_de_Grace(tunnel)\n"
-"nuls_11_Turning_Point\n"
-"nuls_12_Prelude\n"
-"->"
 
 #. ID 101, Page 3, Line 53, Pos (18,67)
 #. Choice (4 options)
@@ -4889,10 +4873,6 @@ msgid ""
 "nuls_xx_insengmusang\n"
 "->"
 msgstr ""
-"nuls_xx_Coup_de_Grace\n"
-"Nuls_xx_GB_Remastered\n"
-"nuls_xx_insengmusang\n"
-"->"
 
 #. ID 101, Page 3, Line 64, Pos (18,67)
 #. Choice (4 options)
@@ -4902,10 +4882,6 @@ msgid ""
 "Nuls_xx_town_retro\n"
 "X"
 msgstr ""
-"Nuls_xx_lastwave_reduced\n"
-"Nuls_xx_Town\n"
-"Nuls_xx_town_retro\n"
-"X"
 
 #. ID 101, Page 4, Line 64, Pos (18,67)
 #. Choice (4 options)
@@ -4919,10 +4895,6 @@ msgid ""
 "Nuls_xx_town_retro\n"
 "->"
 msgstr ""
-"Nuls_xx_lastwave_reduced\n"
-"Nuls_xx_Town\n"
-"Nuls_xx_town_retro\n"
-"->"
 
 #. ID 101, Page 4, Line 75, Pos (18,67)
 #. Choice (3 options)
@@ -4935,9 +4907,6 @@ msgid ""
 "Nuls_Commentary_Version_2\n"
 "X"
 msgstr ""
-"Nuls_09_Data_Tech\n"
-"Nuls_Commentary_Version_2\n"
-"X"
 
 #. ID 102, Page 1, Line 2, Pos (52,58)
 msgid ""
@@ -7391,4 +7360,3 @@ msgstr ""
 "28까지만 있다고 했죠?\n"
 "이 이상 입력해도 현 시점에서 말할 수 있는 건\n"
 "아무것도 없으니까."
-

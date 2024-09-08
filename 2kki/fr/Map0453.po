@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
@@ -37,7 +37,7 @@ msgid ""
 msgstr ""
 "\\>                Actions disponibles\n"
 "\\>     Aller à un fond … $s … aléatoire\n"
-"\\>     Reculer de 1  … $v　$t … Avancer de 1 \n"
+"\\>     Reculer de 1  … $v　$t … Avancer de 1\n"
 "\\>　　　    Rechercher … $u … par No."
 
 #. ID 1, Page 1, Line 23, Pos (0,14)
@@ -126,7 +126,7 @@ msgid ""
 msgstr ""
 "\\>◆ Configuration du défilement auto des fonds\n"
 "\\>\n"
-"\\>Valeur possible entre 1 et 9999 (Actuel : \\V[3934]) "
+"\\>Valeur possible entre 1 et 9999 (Actuel : \\V[3934])"
 
 #. ID 1, Page 3, Line 57, Pos (0,14)
 #. ID 1, Page 3, Line 73, Pos (0,14)
@@ -2611,7 +2611,7 @@ msgid ""
 "\\>現在の設定は「\\V[3934]」\n"
 "\\>初期設定は「30」です"
 msgstr ""
-"\\>Configuration du défilement auto (entre 1 et 9999) \n"
+"\\>Configuration du défilement auto (entre 1 et 9999)\n"
 "\\>Actuel = \\V[3934]\n"
 "\\>Défaut = 30"
 
@@ -2860,6 +2860,7 @@ msgid ""
 "\\>未取得のため設定できませんでした"
 msgstr ""
 "\\>◆ Recherche de fond d'écran\n"
+"\\>\n"
 "\\>Le fond d'écran #\\V[5] ne peut pas être visionné,\n"
 "\\>car il n'a pas encore été débloqué."
 
@@ -2902,6 +2903,7 @@ msgid ""
 "\\>未開放のため再生できませんでした"
 msgstr ""
 "\\>◆ Sélection de la musique\n"
+"\\>\n"
 "\\>Le morceau # \\V[7] ne peut pas être joué,\n"
 "\\>car il n'a pas encore été débloqué."
 

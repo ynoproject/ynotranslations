@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 1477, Pos (19,14)
 #. ChangeHeroName (Actor 6)
@@ -174,6 +174,7 @@ msgstr ""
 "\\>・Configurações Avançadas"
 
 #. ID 1, Page 1, Line 1878, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[0]メモリーモード用曲登録の方法\n"
 "\\>\n"
@@ -451,7 +452,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Conf. de Condição de Decurso\\C[0]\n"
 "\\>\n"
-"\\>  (Conf. atual: \\C[4]\\V[119]s\\C[0]  0 cancela)"
+"\\>> (Conf. atual: \\C[4]\\V[119]s\\C[0]  0 cancela)"
 
 #. ID 1, Page 1, Line 2267, Pos (19,14)
 msgid ""
@@ -463,7 +464,7 @@ msgstr ""
 "\\>\\C[10]■ \\C[6]Conf. de Condição de Decurso\\C[0]\n"
 "\\>\n"
 "\\>> Quão longo cada faixa irá tocar? (~9999)\n"
-"\\>> (Current Setting: \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 cancela)"
+"\\>　(Conf. atual： \\C[4]\\V[592]m \\V[593]s\\C[0] = \\C[4]\\V[119]s\\C[0]  0 cancela)"
 
 #. ID 1, Page 1, Line 2271, Pos (19,14)
 msgid ""
@@ -1064,6 +1065,7 @@ msgstr ""
 "\\>   numa fila, pode \\C[1]levar um tempo"
 
 #. ID 1, Page 2, Line 1126, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1076,6 +1078,7 @@ msgstr ""
 "\\>　注意してください"
 
 #. ID 1, Page 2, Line 1130, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[6]演奏可能曲を登録\\C[0]\n"
 "\\>\n"
@@ -1165,7 +1168,7 @@ msgid ""
 msgstr ""
 "\\>\\C[10]■ \\C[6]Registrar para Playlist\\C[0]\n"
 "\\>\n"
-"\\>　 (Selecione de 0 á No. 10)"
+"\\>> (Selecione de 0 á No. 10)"
 
 #. ID 1, Page 2, Line 1347, Pos (19,14)
 msgid ""
@@ -1643,6 +1646,7 @@ msgstr ""
 "\\>> As alterações foram salvas\\<\\.\\.\\^"
 
 #. ID 1, Page 4, Line 611, Pos (19,14)
+#, fuzzy
 msgid ""
 "\\>\\C[10]■\\C[0]デバッグ確認\n"
 "\\>\n"

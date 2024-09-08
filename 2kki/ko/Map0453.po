@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
@@ -2563,7 +2567,7 @@ msgid ""
 "\\>作品情報を表示しますか？\n"
 "\\>現在の設定は「表示しない」です"
 msgstr ""
-"\\>작품 정보를 표시하시겠습니까?\\n"
+"\\>작품 정보를 표시하시겠습니까?\n"
 "\\>현재 설정은 '표시하지 않는다'입니다"
 
 #. ID 3, Page 1, Line 166, Pos (18,0)

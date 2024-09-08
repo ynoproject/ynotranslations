@@ -11,11 +11,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 1, Line 31, Pos (0,0)
 #. ID 1, Page 2, Line 31, Pos (0,0)
 #. ID 1, Page 4, Line 8, Pos (0,0)
+#, fuzzy
 msgid ""
 "\\>\n"
 "\\>\n"
