@@ -75,7 +75,7 @@ msgstr "Tranĉilo"
 #. ID 10
 msgctxt "items.description"
 msgid "Equip a kitchen knife."
-msgstr "Por ponardi… aferojn?"
+msgstr "Teni tre akran tranĉilon."
 
 #. ID 11
 #. ID 12
@@ -183,7 +183,7 @@ msgstr "Kato"
 #. ID 28
 msgctxt "items.description"
 msgid "Sprout cat-ears and a tail."
-msgstr "Kreski katajn orelojn kaj voston."
+msgstr "Kreskigi katajn orelojn kaj voston."
 
 #. ID 29
 #. ID 30
@@ -231,7 +231,7 @@ msgstr "Kaka Hararo"
 #. ID 36
 msgctxt "items.description"
 msgid "Grow poo hair."
-msgstr "Mi certe esperas, ke ĝi estas hararo..."
+msgstr "Via hararo aspektas kiel kako."
 
 #. ID 37
 #. ID 38
@@ -243,7 +243,7 @@ msgstr "Blonda"
 #. ID 38
 msgctxt "items.description"
 msgid "Grow long blonde hair."
-msgstr "Kreski blondan hararon. Aŭ ĉu ĝi estas peruko…?"
+msgstr "Tinkturi vian hararon blonda."
 
 #. ID 39
 #. ID 40
@@ -267,7 +267,7 @@ msgstr "Sorĉistino"
 #. ID 42
 msgctxt "items.description"
 msgid "Become a witch incarnate."
-msgstr "Fariĝi sorĉistino! La balailo ne rapidigas vin, bedaŭrinde."
+msgstr "Fariĝi sorĉistino kun balailo."
 
 #. ID 43
 #. ID 44
@@ -279,7 +279,7 @@ msgstr "Demono"
 #. ID 44
 msgctxt "items.description"
 msgid "Reconstitute as an oni."
-msgstr "Ĉu vi eskapis el la infero? (...La alia.)"
+msgstr "Fariĝi infera estaĵo."
 
 #. ID 45
 #. ID 46
@@ -303,7 +303,7 @@ msgstr "Semaforo"
 #. ID 48
 msgctxt "items.description"
 msgid "Change into a traffic light."
-msgstr "Sed kie estas la aŭtoj?"
+msgstr "Fariĝi ruĝa kaj verda semaforo."
 
 #. ID 57
 msgctxt "items.name"
