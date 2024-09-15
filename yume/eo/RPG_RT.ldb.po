@@ -10,12 +10,12 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 1
 msgctxt "actors.name"
 msgid "Madotsuki"
-msgstr ""
+msgstr "Madocuki"
 
 #. ID 1
 #. ID 2
