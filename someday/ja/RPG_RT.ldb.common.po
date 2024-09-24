@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 3, Line 24
 #. ChangeHeroName (Actor 1)
@@ -72,6 +76,12 @@ msgid ""
 "\"I just had the most disgusting feeling today.\n"
 "Mom isn't like this. \\.She's not a bad person.\""
 msgstr ""
+"エントリー　＃47\\.\n"
+"2008年8月24月\\.\n"
+"今日が一番嫌な気分だった。\n"
+"お母さんはこうじゃない。\n"
+"<easyrpg:new_page>\n"
+"\\.お母さんは悪い人ではありません。"
 
 #. ID 62, Line 40
 msgid ""
@@ -79,6 +89,9 @@ msgid ""
 "\\....really busy...\n"
 "\\..\\..\\..\\.all the time.\""
 msgstr ""
+"しかし、父もそうではない。ただ忙しいだけだ…。\n"
+"\\.…本当に忙しい…。\n"
+"\\.\\.\\.…常に。"
 
 #. ID 62, Line 52
 msgid ""
@@ -86,6 +99,10 @@ msgid ""
 "she's not needed. But I do need her.\n"
 "\\.But Dad is not a bad person either...\""
 msgstr ""
+"お母さんは時々泣きやまない。\n"
+"お母さんは必要のない人と言っています。\n"
+"でも、どうしてもお母さんが必要なんだ。\n"
+"\\.しかし、お父さんも悪い人ではありません…。"
 
 #. ID 63, Line 28
 msgid ""
@@ -93,6 +110,10 @@ msgid ""
 "May 10, 2006\\.\n"
 "\"I think I'm better off alone. Why even bother?\""
 msgstr ""
+"エントリー　＃7\\.\n"
+"2006年5月10月\\.\n"
+"一人でいる方がいいと思います。\n"
+"なぜ、迷惑なの？"
 
 #. ID 63, Line 41
 msgid ""
@@ -101,10 +122,14 @@ msgid ""
 "\\.I'm used to being alone.\n"
 "\\.I can live with that.\""
 msgstr ""
+"もし私が違としたら友達を作ることを\n"
+"全く試みないかもしれません。\n"
+"\\.一人でいるのに慣れています。\n"
+"\\.それと共に生きることができます。"
 
 #. ID 63, Line 57
 msgid "\\.\\.\"I don't even like birthday parties anyway.\""
-msgstr ""
+msgstr "\\.\\.とにかく誕生日パーティさえ好きではありません。"
 
 #. ID 64, Line 29
 msgid ""
@@ -113,12 +138,18 @@ msgid ""
 "\"You know how a lot people feel that we're all\n"
 "connected in some way?\""
 msgstr ""
+"エントリー　＃43\n"
+"2008年6月11月\n"
+"みんながつながっていると聞いた。"
 
 #. ID 64, Line 41
 msgid ""
 "\"I always felt like I'm missing a link.\n"
 "\\.\\.And now I know why. But it's too late.\""
 msgstr ""
+"いつも繋がりがなくなっているような気がしました。\n"
+"\\.\\.そして今、その理由をしっています。\n"
+"しかし、手遅れです。"
 
 #. ID 64, Line 51
 msgid ""
@@ -126,6 +157,10 @@ msgid ""
 "intentional. I believe they really did love me.\n"
 "\\.They really tried to make things better.\""
 msgstr ""
+"それでも、それが意図的ではなかったことを\n"
+"私の一部は知っています。\n"
+"私は彼らが本当に私を愛していたと思います。\n"
+"\\.彼らは本当に物事を良くしようとしました。"
 
 #. ID 64, Line 62
 msgid ""
@@ -134,6 +169,12 @@ msgid ""
 "\\.Even if I don't remember them.\n"
 "\\.Wherever they are...\""
 msgstr ""
+"生き残った彼らに伝える機会\n"
+"があったらいいのにと思います。\n"
+"彼らを愛したのを伝えるために。\n"
+"\\.覚えていなくでも。\n"
+"<easyrpg:new_page>\n"
+"\\.どこにいても…"
 
 #. ID 65, Line 27
 msgid ""
@@ -141,6 +182,9 @@ msgid ""
 "March 31, 2007\\.\n"
 "\"I saw a fox today.\""
 msgstr ""
+"エントリー　＃25\\.\n"
+"2007年3月31月\\.\n"
+"今日、キツネを見た。"
 
 #. ID 65, Line 38
 msgid ""
@@ -148,6 +192,10 @@ msgid ""
 "staring at me. I think it enjoyed my company!\n"
 "\\.\\.It was really cute.\""
 msgstr ""
+"キツネは本当にシャイと言われていますがこのキツネ\n"
+"はずっと、私を見つめていました。\n"
+"キツネは私と一緒にいるのが好きだったと思う！\n"
+"\\.\\.とてもかわいかったです。"
 
 #. ID 65, Line 49
 msgid ""
@@ -156,10 +204,14 @@ msgid ""
 "humans dedicate so much time to.\n"
 "\\....I wish I took it home.\""
 msgstr ""
+"動物はいつも、のんびりしているでしょう。\n"
+"動物は、私たち人間が多くの時間を\n"
+"割く愚かなことを気にしていないようだ。\n"
+"\\.…家に持って帰れればいいのに。"
 
 #. ID 65, Line 64
 msgid "\"I've named it Miru.\""
-msgstr ""
+msgstr "ミルと名付けました。"
 
 #. ID 66, Line 31
 msgid ""
@@ -168,12 +220,19 @@ msgid ""
 "\"Growing up is really weird. I keep asking myself\n"
 "about these wooden dolls I used to play with.\""
 msgstr ""
+"エントリー　＃3\\.\n"
+"2006年2月7月\\.\n"
+"成長は本当に不思議です。"
 
 #. ID 66, Line 44
 msgid ""
 "\"But Mom says she doesn't know what toys am I\n"
 "talking about.\""
 msgstr ""
+"昔遊んでいた、これらの木製人形について自問\n"
+"じ続けています。\n"
+"でも、お母さんは私が何のおもちゃのことを\n"
+"言っているのかわからないと言っています。"
 
 #. ID 66, Line 55
 msgid ""
@@ -182,6 +241,10 @@ msgid ""
 "\\.When I was... \\.\\.Three? \\.\\.Four?\n"
 "\\.\\.I'm not sure.\""
 msgstr ""
+"形と色に鮮やか文字が描かれた木のサイコロ\n"
+"で遊んだ覚えがあります。\n"
+"\\.あの時、私が…\\.\\.3歳？\\.\\.4歳？\n"
+"\\.\\.よくわかりません。"
 
 #. ID 67, Line 30
 msgid ""
@@ -190,6 +253,10 @@ msgid ""
 "\"I think I just found out why Mom doesn't like the\n"
 "sea. \\.She had an accident.\""
 msgstr ""
+"エントリー　＃36\n"
+"2007年11月3月\n"
+"お母さんが海が嫌いな理由が分かると思う。\n"
+"\\.お母さんは事故にあった。"
 
 #. ID 67, Line 45
 msgid ""
@@ -198,12 +265,18 @@ msgid ""
 "\\.I saw it last night, hidden inside her hair.\n"
 "\\.Maybe that's also why she moved to this city?\""
 msgstr ""
+"お母さんはそれについて話したくありません…。\n"
+"\\.…しかし、お母さんは頭に大きな傷跡があります。\n"
+"\\.昨晩、お母さんの髪の中に隠されれているのを見ました。\n"
+"\\.それでこの町に引き越したのかも？"
 
 #. ID 67, Line 63
 msgid ""
 "\"Her parents' old house is next to a cliff.\n"
 "\\|But we never got to visit it.\""
 msgstr ""
+"お母さんの両親の前の家は崖のそばにある。\n"
+"\\|しかし、私たちはそれを訪わることがしなかった。"
 
 #. ID 68, Line 30
 #. ID 69, Line 30
@@ -213,11 +286,15 @@ msgid ""
 "\"i had an idea.\n"
 "i just drew this perfect girl.\""
 msgstr ""
+"エントリー　＃49\\.\n"
+"2008年9月19月\\.\n"
+"考えがありました\n"
+"ただ今、完璧な女の子を描いたところです"
 
 #. ID 68, Line 41
 #. ID 69, Line 41
 msgid "\"her name is \\C[2]Kondo\\C[0]\""
-msgstr ""
+msgstr "名前は\\C[2]コンド\\C[0]です"
 
 #. ID 68, Line 42
 #. ID 69, Line 42
@@ -226,6 +303,9 @@ msgid ""
 "\\.and everybody loves her\n"
 "\\.\\.because she is perfect\""
 msgstr ""
+"コンドはかわいくて頭もいいし\n"
+"\\.養子にもなっていないし\n"
+"\\.\\.完璧だから、みんなに愛されている"
 
 #. ID 68, Line 52
 #. ID 69, Line 52
@@ -233,11 +313,13 @@ msgid ""
 "\"but i hate her because she is who i want to be\n"
 "i feel terrible haha\""
 msgstr ""
+"でも、私がコンドになりたいからコンドが嫌いなんです\n"
+"気分最悪（笑）"
 
 #. ID 68, Line 120
 #. ID 69, Line 120
 msgid "\"if i was \\C[2]Kondo\\C[0] everything would be over.\""
-msgstr ""
+msgstr "私が\\C[2]コンド\\C[0]だったら、すべてが終わっていたでしょう。"
 
 #. ID 171, Line 14
 #. ID 171, Line 32
@@ -325,4 +407,3 @@ msgid ""
 "You have unlocked this special effect mix!\n"
 "Use with caution!"
 msgstr ""
-
