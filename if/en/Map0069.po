@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 3, Line 2, Pos (9,12)
+msgid ""
+"*:Nee!Nagai Jikan! \n"
+"  Sore ha Hijou ni Nagai Jikan ga\n"
+"  Omotteita youdeha Arimasen!"
+msgstr ""
+
+#. ID 1, Page 3, Line 7, Pos (9,12)
+msgid "I:...Sate, Anata ha Dare ja Naindesu!?"
+msgstr ""
+
+#. ID 1, Page 3, Line 9, Pos (9,12)
+msgid ""
+"*:Sonoyouna!?\n"
+"  Anata ha Watashi no Koto wo\n"
+"  Wasurete Shimaimashita!"
+msgstr ""
+
+#. ID 1, Page 3, Line 13, Pos (9,12)
+msgid ""
+"*:Shikashi, Watashi!\n"
+"  Anata no Shinyuu ga, \n"
+"  \\|Kogorou no Takebayashi!"
+msgstr ""
+
+#. ID 1, Page 3, Line 17, Pos (9,12)
+msgid ""
+"I:...Donata!?\n"
+"  Watashi ha aidea wo Motteimasu..."
+msgstr ""
+
+#. ID 1, Page 3, Line 20, Pos (9,12)
+msgid ""
+"K.T:Anata no Koto wo Ieba,\n"
+"    Watashi ha Takusan kawaxtu\n"
+"    Sagashite Imasu. "
+msgstr ""
+
+#. ID 1, Page 3, Line 24, Pos (9,12)
+msgid ""
+"K.T:Kankou Mae ni Modotte Hahaoya ni Souharuka ni\n"
+"    Hayai Kono Naka de Kigae, Shinai Baai\n"
+"    Soreha desu!"
+msgstr ""
+
+#. ID 1, Page 3, Line 29, Pos (9,12)
+msgid ""
+"I:Chotto Matte. Kore ha, Kore ha Watashi no\n"
+"  Gaiken no Neithibu deha Naiyouni Mieruno\n"
+"  desuka?"
+msgstr ""
+
+#. ID 1, Page 3, Line 33, Pos (9,12)
+msgid ""
+"K.T:Sorya Kanousei ga Takai desyou.\n"
+"    Hora', EI."
+msgstr ""
+
+#. ID 1, Page 3, Line 45, Pos (9,12)
+msgid ""
+"I:Sore ha Watashi no Sin no Sugata Desuka?\n"
+"  Watashi ha Zettai ni Kawaii desu,\n"
+"  Izen to Omoimasu."
+msgstr ""
+
+#. ID 1, Page 3, Line 49, Pos (9,12)
+msgid ""
+"K.T:Namono ha Arimasen! Dare ga Ima, N ko no \n"
+"    Bo-ru wo Poppu Yaku Kawaii desu!\n"
+"    Watashi ha Zutto Imasuguni demo wo Teian\n"
+"    shitaidesu!"
+msgstr ""
+
+#. ID 1, Page 3, Line 55, Pos (9,12)
+msgid ""
+"I:Kore ga Sou de Aruka Douka no Darouka.\n"
+"  Juubun ni iiga, Memori ga aimai deha Nai.\n"
+"  Watashi ha Osusume ha Mou Iku Ikimasenka?"
+msgstr ""
+
+#. ID 1, Page 3, Line 60, Pos (9,12)
+msgid ""
+"K.T:Sousou! Imasugu!\n"
+"    Mata ha Jinsoku Guri-ze ni Modorimasu!"
+msgstr ""
+
+#. ID 1, Page 3, Line 67, Pos (9,12)
+msgid ""
+"I:Sore ha Kono Toki ni Ryoukou de Atta Baai ha\n"
+"  Hontou ni Darouka...?\n"
+"  Watashi ga Kanjite irukoto Hohu \n"
+"  Samazama na Nani ka."
+msgstr ""
+
