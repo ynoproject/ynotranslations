@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 1, Page 3, Line 17, Pos (11,8)
 msgid "　　　　　  　 .メニュータイプsmile."
-msgstr "　　　  　　　     .Menuo de Smile."
+msgstr "　　　  　　　   .Menuo de Smile."

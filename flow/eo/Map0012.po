@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 3, Page 1, Line 5, Pos (4,2)
 msgid "　　　　　　　　    .モノアイ."
-msgstr "　　　　　　　　  .Unu-Okulo."
+msgstr "　　　　　　　　    .Unu-Okulo."

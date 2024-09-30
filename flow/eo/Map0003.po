@@ -346,9 +346,9 @@ msgid ""
 "ほうきイベントをどうしても作りたかったから\n"
 "作っちゃった。"
 msgstr ""
-"Balailo [Kiel la Sorĉistino de Yume Nikki kaj la biciklo.\n"
-"Mi vere volis krei eventon kun balailo, do...\n"
-"Mi kreis ĝin!]"
+"Balailo [Kiel la Sorĉistino de Yume Nikki kaj\n"
+"la biciklo. Mi vere volis krei eventon kun\n"
+"balailo, do... Mi kreis ĝin!]"
 
 #. ID 19, Page 1, Line 8, Pos (15,5)
 msgid "ほうき破棄"

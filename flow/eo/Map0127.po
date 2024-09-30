@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 157, Page 1, Line 6, Pos (72,74)
 msgid "　　　　　  　　　　　.うで."
-msgstr "　　　　　  　　　　   .Brakoj."
+msgstr "　　　　　  　　　　 .Brakoj."

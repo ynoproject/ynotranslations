@@ -233,7 +233,7 @@ msgstr "::::::::::::::::::::"
 #. ID 30
 msgctxt "items.name"
 msgid "にせゲームのせつめい"
-msgstr "Malveraj Instrukcioj de Ludo"
+msgstr "Malveraj Instrukcioj"
 
 #. ID 30
 msgctxt "items.description"
