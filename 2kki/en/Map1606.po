@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 8, Page 3, Line 22, Pos (35,11)
+msgid ""
+"error: \n"
+"01101011 01101001 01100100 00100000 01101110 \n"
+"01101111 01110100 00100000 01100110 01101111 \n"
+"01110101 01101110 01100100."
+msgstr ""
+
+#. ID 130, Page 1, Line 14, Pos (15,51)
+msgid ""
+"\n"
+"                     \\_\\s[15]\\c[7]$m$m$m$m"
+msgstr ""
+
+#. ID 520, Page 1, Line 8, Pos (43,80)
+#. ID 1184, Page 1, Line 10, Pos (46,80)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：??\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  Menu Type: ??\\<\\|\\|\\^"
+
+#. ID 520, Page 1, Line 9, Pos (43,80)
+#. ID 1184, Page 1, Line 11, Pos (46,80)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：83\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  Menu Type: 83\\<\\|\\|\\^"
+
+#. ID 520, Page 1, Line 10, Pos (43,80)
+#. ID 1184, Page 1, Line 12, Pos (46,80)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　メニュータイプ：84\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　　  Menu Type: 84\\<\\|\\|\\^"
