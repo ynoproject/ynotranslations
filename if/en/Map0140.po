@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 4, Page 2, Line 6, Pos (4,9)
+#. ID 4, Page 3, Line 6, Pos (4,9)
+#. ID 5, Page 2, Line 6, Pos (5,8)
+#. ID 5, Page 3, Line 6, Pos (5,8)
+#. ID 6, Page 2, Line 6, Pos (6,9)
+#. ID 6, Page 3, Line 6, Pos (6,9)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 9, Page 3, Line 7, Pos (16,0)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　GET　「いかり」\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　GET　「Anchor」\\<\\|\\^"

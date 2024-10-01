@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "しみつき"
+msgstr "Shimitsuki"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "記憶喪失"
+msgstr "Amnesiac"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "しみ"
+msgstr "Shimi"
+
+#. ID 3
+msgctxt "actors.name"
+msgid "いずみ"
+msgstr "Izumi"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほつねり"
+msgstr "Twist Cheeks"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "覚める。"
+msgstr "Awaken."
+
+#. ID 2
+#. ID 4
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Pinch Cheeks"
+
+#. ID 2
+#. ID 4
+msgctxt "skills.description"
+msgid "ゆめからさめる。"
+msgstr "Awaken from the dream."
+
+#. ID 3
+msgctxt "skills.name"
+msgid "説明書"
+msgstr "Instructions"
+
+#. ID 3
+msgctxt "skills.description"
+msgid "どうしたらいいか考える。"
+msgstr "Figure out what to do."
+
+#. ID 1
+msgctxt "items.name"
+msgid "にんじゃ"
+msgstr "Ninja"
+
+#. ID 1
+msgctxt "items.description"
+msgid "「にんじゃ」になる。"
+msgstr "Become a ninja."
+
+#. ID 2
+msgctxt "items.name"
+msgid "　にんじゃ"
+msgstr "　Ninja"
+
+#. ID 2
+msgctxt "items.description"
+msgid "隠密"
+msgstr "Secrecy"
+
+#. ID 3
+msgctxt "items.name"
+msgid "がめん"
+msgstr "Screen"
+
+#. ID 3
+msgctxt "items.description"
+msgid "「がめん」にうつる。"
+msgstr "Be displayed on a screen."
+
+#. ID 4
+msgctxt "items.name"
+msgid "　がめん"
+msgstr "　Screen"
+
+#. ID 4
+msgctxt "items.description"
+msgid "憧憬"
+msgstr "Aspiration"
+
+#. ID 5
+msgctxt "items.name"
+msgid "スタンド"
+msgstr "Standing Lamp"
+
+#. ID 5
+msgctxt "items.description"
+msgid "あたまが「でんきスタンド」になる。"
+msgstr "Turn your head into a standing lamp."
+
+#. ID 6
+msgctxt "items.name"
+msgid "　スタンド"
+msgstr "　Standing Lamp"
+
+#. ID 6
+msgctxt "items.description"
+msgid "月光"
+msgstr "Moonlight"
+
+#. ID 7
+msgctxt "items.name"
+msgid "りす"
+msgstr "Squirrel"
+
+#. ID 7
+msgctxt "items.description"
+msgid "「りす」のしっぽとみみがつく。"
+msgstr "Get a squirrel's ears and tail attached to you."
+
+#. ID 8
+msgctxt "items.name"
+msgid "　りす"
+msgstr "　Squirrel"
+
+#. ID 8
+msgctxt "items.description"
+msgid "弱小"
+msgstr "Weakness"
+
+#. ID 9
+msgctxt "items.name"
+msgid "ベース"
+msgstr "Bass"
+
+#. ID 9
+msgctxt "items.description"
+msgid "「ベース」をもつ。"
+msgstr "Carry a bass guitar."
+
+#. ID 10
+msgctxt "items.name"
+msgid "　ベース"
+msgstr "　Bass"
+
+#. ID 10
+msgctxt "items.description"
+msgid "傀儡"
+msgstr "Puppetry"
+
+#. ID 11
+msgctxt "items.name"
+msgid "かげ"
+msgstr "Shadow"
+
+#. ID 11
+msgctxt "items.description"
+msgid "「かげ」がおおきくなる。"
+msgstr "Let a shadow engulf you."
+
+#. ID 12
+msgctxt "items.name"
+msgid "　かげ"
+msgstr "　Shadow"
+
+#. ID 12
+msgctxt "items.description"
+msgid "日陰"
+msgstr "Shade"
+
+#. ID 13
+msgctxt "items.name"
+msgid "なぎなた"
+msgstr "Naginata"
+
+#. ID 13
+msgctxt "items.description"
+msgid "「なぎなた」をもつ。"
+msgstr "Carry a naginata."
+
+#. ID 14
+msgctxt "items.name"
+msgid "　なぎなた"
+msgstr "　Naginata"
+
+#. ID 14
+msgctxt "items.description"
+msgid "回帰"
+msgstr "Recurrence"
+
+#. ID 15
+msgctxt "items.name"
+msgid "げんき"
+msgstr "Lively"
+
+#. ID 15
+msgctxt "items.description"
+msgid "「げんき」になれる。"
+msgstr "Become lively."
+
+#. ID 16
+msgctxt "items.name"
+msgid "　げんき"
+msgstr "　Lively"
+
+#. ID 16
+msgctxt "items.description"
+msgid "桃源"
+msgstr "Utopia"
+
+#. ID 17
+msgctxt "items.name"
+msgid "こうすい"
+msgstr "Perfume"
+
+#. ID 17
+msgctxt "items.description"
+msgid "あたまが「こうすい」になる。"
+msgstr "Turn your head into a perfume bottle."
+
+#. ID 18
+msgctxt "items.name"
+msgid "　こうすい"
+msgstr "　Perfume"
+
+#. ID 18
+msgctxt "items.description"
+msgid "仮初"
+msgstr "Transience"
+
+#. ID 19
+msgctxt "items.name"
+msgid "すみぬき"
+msgstr "Ink Wash"
+
+#. ID 19
+msgctxt "items.description"
+msgid "「すみぬき」になる。"
+msgstr "Become ink-washed."
+
+#. ID 20
+msgctxt "items.name"
+msgid "　すみぬき"
+msgstr "　Ink Wash"
+
+#. ID 20
+msgctxt "items.description"
+msgid "灰塵"
+msgstr "Dust"
+
+#. ID 21
+msgctxt "items.name"
+msgid "はぐるま"
+msgstr "Gears"
+
+#. ID 21
+msgctxt "items.description"
+msgid "「はぐるま」になる。"
+msgstr "Turn your arms into gears."
+
+#. ID 22
+msgctxt "items.name"
+msgid "　はぐるま"
+msgstr "　Gears"
+
+#. ID 22
+msgctxt "items.description"
+msgid "時間"
+msgstr "Time"
+
+#. ID 23
+msgctxt "items.name"
+msgid "ノイズ"
+msgstr "Noise"
+
+#. ID 23
+msgctxt "items.description"
+msgid "からだが「ノイズ」になる。"
+msgstr "Let your body become noise."
+
+#. ID 24
+msgctxt "items.name"
+msgid "　ノイズ"
+msgstr "　Noise"
+
+#. ID 24
+msgctxt "items.description"
+msgid "拒絶"
+msgstr "Rejection"
+
+#. ID 25
+msgctxt "items.name"
+msgid "ＵＦＯ"
+msgstr "UFO"
+
+#. ID 25
+msgctxt "items.description"
+msgid "「ＵＦＯ」にのる。"
+msgstr "Ride a UFO."
+
+#. ID 26
+msgctxt "items.name"
+msgid "　ＵＦＯ"
+msgstr "　UFO"
+
+#. ID 26
+msgctxt "items.description"
+msgid "天涯"
+msgstr "Distant Lands"
+
+#. ID 27
+msgctxt "items.name"
+msgid "いかり"
+msgstr "Anchor"
+
+#. ID 27
+msgctxt "items.description"
+msgid "いかりをおとす。"
+msgstr "Drop an anchor."
+
+#. ID 28
+msgctxt "items.name"
+msgid "　いかり"
+msgstr "　Anchor"
+
+#. ID 28
+msgctxt "items.description"
+msgid "幽閉"
+msgstr "Confinement"
+
+#. ID 29
+msgctxt "items.name"
+msgid "ジャンク"
+msgstr "Junk"
+
+#. ID 29
+msgctxt "items.description"
+msgid "「ジャンク」になる。"
+msgstr "Become junk."
+
+#. ID 30
+msgctxt "items.name"
+msgid "　ジャンク"
+msgstr "　Junk"
+
+#. ID 30
+msgctxt "items.description"
+msgid "空蝉"
+msgstr "Temporality"
+
+#. ID 31
+msgctxt "items.name"
+msgid "こおり"
+msgstr "Ice"
+
+#. ID 31
+msgctxt "items.description"
+msgid "「こおり」になる。"
+msgstr "Become icy."
+
+#. ID 32
+msgctxt "items.name"
+msgid "　こおり"
+msgstr "　Ice"
+
+#. ID 32
+msgctxt "items.description"
+msgid "水月"
+msgstr "Lunar Reflection"
+
+#. ID 33
+msgctxt "items.name"
+msgid "ききょう"
+msgstr "Kikyou"
+
+#. ID 33
+msgctxt "items.description"
+msgid "「ききょう」をつける。"
+msgstr "Wear a kikyou (bellflower) on your head."
+
+#. ID 34
+msgctxt "items.name"
+msgid "　ききょう"
+msgstr "　Kikyou"
+
+#. ID 34
+msgctxt "items.description"
+msgid "風花"
+msgstr "Flowery Breeze"
+
+#. ID 35
+msgctxt "items.name"
+msgid "おそろい"
+msgstr "Matching"
+
+#. ID 35
+msgctxt "items.description"
+msgid "「おそろい」になる。"
+msgstr "Get matching pigtails."
+
+#. ID 36
+msgctxt "items.name"
+msgid "　おそろい"
+msgstr "　Matching"
+
+#. ID 36
+msgctxt "items.description"
+msgid "星霜"
+msgstr "Time"
+
+#. ID 37
+msgctxt "items.name"
+msgid "ひがさ"
+msgstr "Parasol"
+
+#. ID 37
+msgctxt "items.description"
+msgid "「ひがさ」をさす。"
+msgstr "Carry a parasol."
+
+#. ID 38
+msgctxt "items.name"
+msgid "　ひがさ"
+msgstr "　Parasol"
+
+#. ID 38
+msgctxt "items.description"
+msgid "神託"
+msgstr "Revelation"
+
+#. ID 39
+msgctxt "items.name"
+msgid "からん"
+msgstr "Faucet"
+
+#. ID 39
+msgctxt "items.description"
+msgid "「からん」になる。"
+msgstr "Become a faucet."
+
+#. ID 40
+msgctxt "items.name"
+msgid "　からん"
+msgstr "　Faucet"
+
+#. ID 40
+msgctxt "items.description"
+msgid "透明"
+msgstr "Transparence"
+
+#. ID 41
+msgctxt "items.name"
+msgid "ふたり"
+msgstr "Twin"
+
+#. ID 41
+msgctxt "items.description"
+msgid "「ふたり」になる。"
+msgstr "Become a pair of twins."
+
+#. ID 42
+msgctxt "items.name"
+msgid "　ふたり"
+msgstr "　Twin"
+
+#. ID 42
+msgctxt "items.description"
+msgid "分散"
+msgstr "Dispersion"
+
+#. ID 43
+msgctxt "items.name"
+msgid "カーテン"
+msgstr "Curtain"
+
+#. ID 43
+msgctxt "items.description"
+msgid "「カーテン」がつく。"
+msgstr "Put on a curtain."
+
+#. ID 44
+msgctxt "items.name"
+msgid "　カーテン"
+msgstr "　Curtain"
+
+#. ID 44
+msgctxt "items.description"
+msgid "裏側"
+msgstr "Other Side"
+
+#. ID 45
+msgctxt "items.name"
+msgid "げんしょく"
+msgstr "Primary Colors"
+
+#. ID 45
+msgctxt "items.description"
+msgid "「げんしょく」になる。"
+msgstr "Become primary colors."
+
+#. ID 46
+msgctxt "items.name"
+msgid "　げんしょく"
+msgstr "　Primary Colors"
+
+#. ID 46
+msgctxt "items.description"
+msgid "根源"
+msgstr "Origin"
+
+#. ID 50
+msgctxt "items.name"
+msgid "なまえ"
+msgstr "Name"
+
+#. ID 50
+msgctxt "items.description"
+msgid "なまえがつく。"
+msgstr "Bear a name."
+
+#. ID 96
+#. ID 97
+#. ID 98
+#. ID 99
+#. ID 100
+msgctxt "items.name"
+msgid "完成"
+msgstr "Complete"
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "￠"
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "戦う"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "オート"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "逃げる"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "攻撃"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "防御"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Effects"
+
+msgctxt "terms.command_skill"
+msgid "とくべつ"
+msgstr "Skills"
+
+msgctxt "terms.menu_equipment"
+msgid "ふくそう"
+msgstr "Equipment"
+
+msgctxt "terms.menu_quit"
+msgid "ゲーム終了"
+msgstr "Quit Game"
+
+msgctxt "terms.new_game"
+msgid "初めて"
+msgstr "Begin"
+
+msgctxt "terms.load_game"
+msgid "取り出し"
+msgstr "Retrieve"
+
+msgctxt "terms.exit_game"
+msgid "終わり"
+msgstr "Quit"
+
+msgctxt "terms.level"
+msgid "エフェクト"
+msgstr "Effects"
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "Ｌ"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "Ｅ"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "★"
+msgstr ""
+
+msgctxt "terms.attack"
+msgid "ちから"
+msgstr "Power"
+
+msgctxt "terms.defense"
+msgid "つよさ"
+msgstr "Strength"
+
+msgctxt "terms.spirit"
+msgid "こころ"
+msgstr "Soul"
+
+msgctxt "terms.agility"
+msgid "あし"
+msgstr "Movement"
+
+msgctxt "terms.weapon"
+msgid "みぎて"
+msgstr "Left Hand"
+
+msgctxt "terms.shield"
+msgid "ひだりて"
+msgstr "Right Hand"
+
+msgctxt "terms.armor"
+msgid "からだ"
+msgstr "Body"
+
+msgctxt "terms.helmet"
+msgid "あたま"
+msgstr "Head"
+
+msgctxt "terms.accessory"
+msgid "かみかざり"
+msgstr "Hair"
+
+msgctxt "terms.save_game_message"
+msgid "どの記録に残しますか？"
+msgstr "What record do you want to keep?"
+
+msgctxt "terms.load_game_message"
+msgid "どの記録を取り出しますか？"
+msgstr "What record do you want to retrieve?"
+
+msgctxt "terms.file"
+msgid "記録"
+msgstr "Record"
+
+msgctxt "terms.exit_game_message"
+msgid "終わりますか？"
+msgstr "Are you done?"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "Yes"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "No"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

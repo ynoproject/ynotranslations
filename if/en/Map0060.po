@@ -1,0 +1,1078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 1, Pos (4,2)
+msgid ""
+"速度管理。\n"
+"非常にめんどくさい仕様なのでいつ戻るかわかりません。"
+msgstr ""
+
+#. ID 2, Page 1, Line 3, Pos (4,2)
+#. Choice (4 options)
+msgid ""
+"神速\n"
+"速め\n"
+"普通くらい\n"
+"元に戻しなさい。"
+msgstr ""
+
+#. ID 2, Page 1, Line 7, Pos (4,2)
+msgid "それはそれははやいぞ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 12, Pos (4,2)
+msgid "いやはやはやいぞ。"
+msgstr ""
+
+#. ID 2, Page 1, Line 17, Pos (4,2)
+msgid "よきかな。"
+msgstr ""
+
+#. ID 2, Page 1, Line 22, Pos (4,2)
+msgid "はい。"
+msgstr ""
+
+#. ID 3, Page 1, Line 1, Pos (6,2)
+msgid ""
+"横のグラフィックとの違いがわかったなら\n"
+"ちょっと嬉しいです。\n"
+"そんだけ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 1, Pos (7,5)
+msgid ""
+"薙刀（なぎなた）です。\n"
+"殺傷エフェクトです。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 4, Page 1, Line 5, Pos (7,5)
+msgid "あ、すいません。これ実はレプリカなんです。"
+msgstr ""
+
+#. ID 4, Page 1, Line 8, Pos (7,5)
+#. Choice (2 options)
+#. ID 5, Page 1, Line 8, Pos (9,5)
+#. Choice (2 options)
+#. ID 6, Page 1, Line 8, Pos (11,5)
+#. Choice (2 options)
+#. ID 7, Page 1, Line 8, Pos (13,5)
+#. Choice (2 options)
+#. ID 8, Page 1, Line 8, Pos (15,5)
+#. Choice (2 options)
+#. ID 9, Page 1, Line 8, Pos (7,7)
+#. Choice (2 options)
+#. ID 10, Page 1, Line 9, Pos (9,7)
+#. Choice (2 options)
+#. ID 11, Page 1, Line 8, Pos (11,7)
+#. Choice (2 options)
+#. ID 12, Page 1, Line 8, Pos (13,7)
+#. Choice (2 options)
+#. ID 13, Page 1, Line 10, Pos (7,11)
+#. Choice (2 options)
+#. ID 15, Page 1, Line 8, Pos (15,7)
+#. Choice (2 options)
+#. ID 16, Page 1, Line 9, Pos (7,9)
+#. Choice (2 options)
+#. ID 17, Page 1, Line 8, Pos (9,9)
+#. Choice (2 options)
+#. ID 18, Page 1, Line 8, Pos (11,9)
+#. Choice (2 options)
+#. ID 19, Page 1, Line 8, Pos (13,9)
+#. Choice (2 options)
+#. ID 21, Page 1, Line 8, Pos (15,9)
+#. Choice (2 options)
+#. ID 26, Page 1, Line 8, Pos (7,13)
+#. Choice (2 options)
+#. ID 27, Page 1, Line 8, Pos (11,11)
+#. Choice (2 options)
+#. ID 28, Page 1, Line 9, Pos (13,11)
+#. Choice (2 options)
+#. ID 29, Page 1, Line 8, Pos (15,11)
+#. Choice (2 options)
+#. ID 30, Page 1, Line 8, Pos (9,13)
+#. Choice (2 options)
+#. ID 31, Page 1, Line 8, Pos (9,11)
+#. Choice (2 options)
+#. ID 32, Page 1, Line 8, Pos (11,13)
+#. Choice (2 options)
+msgid ""
+"よこせ\n"
+"いらん"
+msgstr ""
+
+#. ID 4, Page 1, Line 11, Pos (7,5)
+#. ID 5, Page 1, Line 11, Pos (9,5)
+#. ID 6, Page 1, Line 11, Pos (11,5)
+#. ID 7, Page 1, Line 11, Pos (13,5)
+#. ID 8, Page 1, Line 11, Pos (15,5)
+#. ID 9, Page 1, Line 11, Pos (7,7)
+#. ID 10, Page 1, Line 12, Pos (9,7)
+#. ID 11, Page 1, Line 11, Pos (11,7)
+#. ID 12, Page 1, Line 11, Pos (13,7)
+#. ID 13, Page 1, Line 13, Pos (7,11)
+#. ID 15, Page 1, Line 11, Pos (15,7)
+#. ID 16, Page 1, Line 12, Pos (7,9)
+#. ID 17, Page 1, Line 11, Pos (9,9)
+#. ID 18, Page 1, Line 11, Pos (11,9)
+#. ID 19, Page 1, Line 11, Pos (13,9)
+#. ID 21, Page 1, Line 11, Pos (15,9)
+#. ID 26, Page 1, Line 11, Pos (7,13)
+#. ID 27, Page 1, Line 11, Pos (11,11)
+#. ID 28, Page 1, Line 12, Pos (13,11)
+#. ID 29, Page 1, Line 11, Pos (15,11)
+#. ID 30, Page 1, Line 11, Pos (9,13)
+#. ID 31, Page 1, Line 11, Pos (9,11)
+#. ID 32, Page 1, Line 11, Pos (11,13)
+msgid "ほれ。"
+msgstr ""
+
+#. ID 4, Page 1, Line 17, Pos (7,5)
+#. ID 4, Page 2, Line 17, Pos (7,5)
+#. ID 5, Page 1, Line 17, Pos (9,5)
+#. ID 5, Page 2, Line 17, Pos (9,5)
+#. ID 6, Page 1, Line 17, Pos (11,5)
+#. ID 6, Page 2, Line 17, Pos (11,5)
+#. ID 7, Page 1, Line 17, Pos (13,5)
+#. ID 7, Page 2, Line 17, Pos (13,5)
+#. ID 8, Page 1, Line 17, Pos (15,5)
+#. ID 8, Page 2, Line 17, Pos (15,5)
+#. ID 9, Page 1, Line 17, Pos (7,7)
+#. ID 9, Page 2, Line 17, Pos (7,7)
+#. ID 10, Page 1, Line 18, Pos (9,7)
+#. ID 10, Page 2, Line 17, Pos (9,7)
+#. ID 11, Page 1, Line 17, Pos (11,7)
+#. ID 11, Page 2, Line 17, Pos (11,7)
+#. ID 12, Page 1, Line 17, Pos (13,7)
+#. ID 12, Page 2, Line 17, Pos (13,7)
+#. ID 13, Page 1, Line 19, Pos (7,11)
+#. ID 13, Page 2, Line 17, Pos (7,11)
+#. ID 15, Page 1, Line 17, Pos (15,7)
+#. ID 15, Page 2, Line 17, Pos (15,7)
+#. ID 16, Page 1, Line 18, Pos (7,9)
+#. ID 16, Page 2, Line 17, Pos (7,9)
+#. ID 17, Page 1, Line 17, Pos (9,9)
+#. ID 17, Page 2, Line 17, Pos (9,9)
+#. ID 18, Page 1, Line 17, Pos (11,9)
+#. ID 18, Page 2, Line 17, Pos (11,9)
+#. ID 19, Page 1, Line 17, Pos (13,9)
+#. ID 19, Page 2, Line 17, Pos (13,9)
+#. ID 21, Page 1, Line 17, Pos (15,9)
+#. ID 21, Page 2, Line 17, Pos (15,9)
+#. ID 26, Page 1, Line 17, Pos (7,13)
+#. ID 26, Page 2, Line 17, Pos (7,13)
+#. ID 27, Page 1, Line 17, Pos (11,11)
+#. ID 27, Page 2, Line 17, Pos (11,11)
+#. ID 28, Page 1, Line 18, Pos (13,11)
+#. ID 28, Page 2, Line 17, Pos (13,11)
+#. ID 29, Page 1, Line 17, Pos (15,11)
+#. ID 29, Page 2, Line 17, Pos (15,11)
+#. ID 30, Page 1, Line 17, Pos (9,13)
+#. ID 30, Page 2, Line 17, Pos (9,13)
+#. ID 31, Page 1, Line 17, Pos (9,11)
+#. ID 31, Page 2, Line 17, Pos (9,11)
+#. ID 32, Page 1, Line 17, Pos (11,13)
+#. ID 32, Page 2, Line 17, Pos (11,13)
+#. ID 34, Page 1, Line 37, Pos (15,13)
+msgid "そうかそうか。"
+msgstr ""
+
+#. ID 4, Page 2, Line 1, Pos (7,5)
+msgid ""
+"薙刀（なぎなた）です。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 4, Page 2, Line 4, Pos (7,5)
+#. Choice (2 options)
+#. ID 5, Page 2, Line 4, Pos (9,5)
+#. Choice (2 options)
+#. ID 6, Page 2, Line 4, Pos (11,5)
+#. Choice (2 options)
+#. ID 7, Page 2, Line 4, Pos (13,5)
+#. Choice (2 options)
+#. ID 8, Page 2, Line 4, Pos (15,5)
+#. Choice (2 options)
+#. ID 9, Page 2, Line 4, Pos (7,7)
+#. Choice (2 options)
+#. ID 10, Page 2, Line 4, Pos (9,7)
+#. Choice (2 options)
+#. ID 11, Page 2, Line 4, Pos (11,7)
+#. Choice (2 options)
+#. ID 12, Page 2, Line 4, Pos (13,7)
+#. Choice (2 options)
+#. ID 13, Page 2, Line 4, Pos (7,11)
+#. Choice (2 options)
+#. ID 15, Page 2, Line 4, Pos (15,7)
+#. Choice (2 options)
+#. ID 16, Page 2, Line 4, Pos (7,9)
+#. Choice (2 options)
+#. ID 17, Page 2, Line 4, Pos (9,9)
+#. Choice (2 options)
+#. ID 18, Page 2, Line 4, Pos (11,9)
+#. Choice (2 options)
+#. ID 19, Page 2, Line 4, Pos (13,9)
+#. Choice (2 options)
+#. ID 21, Page 2, Line 4, Pos (15,9)
+#. Choice (2 options)
+#. ID 26, Page 2, Line 4, Pos (7,13)
+#. Choice (2 options)
+#. ID 27, Page 2, Line 4, Pos (11,11)
+#. Choice (2 options)
+#. ID 28, Page 2, Line 4, Pos (13,11)
+#. Choice (2 options)
+#. ID 29, Page 2, Line 4, Pos (15,11)
+#. Choice (2 options)
+#. ID 30, Page 2, Line 4, Pos (9,13)
+#. Choice (2 options)
+#. ID 31, Page 2, Line 4, Pos (9,11)
+#. Choice (2 options)
+#. ID 32, Page 2, Line 4, Pos (11,13)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"うんにゃ"
+msgstr ""
+
+#. ID 4, Page 2, Line 11, Pos (7,5)
+#. ID 5, Page 2, Line 11, Pos (9,5)
+#. ID 6, Page 2, Line 11, Pos (11,5)
+#. ID 7, Page 2, Line 11, Pos (13,5)
+#. ID 8, Page 2, Line 11, Pos (15,5)
+#. ID 9, Page 2, Line 11, Pos (7,7)
+#. ID 10, Page 2, Line 11, Pos (9,7)
+#. ID 11, Page 2, Line 11, Pos (11,7)
+#. ID 12, Page 2, Line 11, Pos (13,7)
+#. ID 13, Page 2, Line 11, Pos (7,11)
+#. ID 15, Page 2, Line 11, Pos (15,7)
+#. ID 16, Page 2, Line 11, Pos (7,9)
+#. ID 17, Page 2, Line 11, Pos (9,9)
+#. ID 18, Page 2, Line 11, Pos (11,9)
+#. ID 19, Page 2, Line 11, Pos (13,9)
+#. ID 21, Page 2, Line 11, Pos (15,9)
+#. ID 26, Page 2, Line 11, Pos (7,13)
+#. ID 27, Page 2, Line 11, Pos (11,11)
+#. ID 28, Page 2, Line 11, Pos (13,11)
+#. ID 29, Page 2, Line 11, Pos (15,11)
+#. ID 30, Page 2, Line 11, Pos (9,13)
+#. ID 31, Page 2, Line 11, Pos (9,11)
+#. ID 32, Page 2, Line 11, Pos (11,13)
+msgid "回収しちゃいました。"
+msgstr ""
+
+#. ID 4, Page 3, Line 1, Pos (7,5)
+msgid "最初期に考えたエフェクト。"
+msgstr ""
+
+#. ID 4, Page 3, Line 2, Pos (7,5)
+msgid ""
+"裏話：\n"
+"作者の従姉妹が部活で薙刀部に入ったのを小耳に挟み\n"
+"「薙刀か、いいな。」と思い、出来上がりました。"
+msgstr ""
+
+#. ID 5, Page 1, Line 1, Pos (9,5)
+msgid ""
+"画面（がめん）です。\n"
+"色んな事を知らせるかも知れないです。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 5, Page 1, Line 5, Pos (9,5)
+#. ID 18, Page 1, Line 5, Pos (11,9)
+msgid "おっと、今のあなたには必要の無いものでしたね。"
+msgstr ""
+
+#. ID 5, Page 2, Line 1, Pos (9,5)
+msgid ""
+"画面」（がめん）です。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 5, Page 3, Line 1, Pos (9,5)
+msgid ""
+"裏話：\n"
+"忍者が気に入っているのに、波形のせいで空気になって\n"
+"いるのが残念だったので画面になって頂きました。"
+msgstr ""
+
+#. ID 6, Page 1, Line 1, Pos (11,5)
+msgid ""
+"忍者（にんじゃ）です。\n"
+"透明になれます。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 6, Page 1, Line 5, Pos (11,5)
+msgid "捨てた以上、振り返らないほうがかっこいいです。"
+msgstr ""
+
+#. ID 6, Page 2, Line 1, Pos (11,5)
+msgid ""
+"忍者（にんじゃ）です。今とても見づらいです。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 6, Page 3, Line 1, Pos (11,5)
+msgid ""
+"裏話：\n"
+"最初は倍速かつ殺傷エフェというあまりにも便利なもの\n"
+"でした。隠れ身という発想に辿り着いてよかった。"
+msgstr ""
+
+#. ID 7, Page 1, Line 1, Pos (13,5)
+msgid ""
+"スタンドです。\n"
+"周りを明るくします。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 7, Page 1, Line 5, Pos (13,5)
+msgid "すみません。今電球がが切れてしまって･･･"
+msgstr ""
+
+#. ID 7, Page 2, Line 1, Pos (13,5)
+msgid ""
+"スタンドです。無駄無駄ラッシュは出来ません。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 7, Page 3, Line 1, Pos (13,5)
+msgid ""
+"裏話：\n"
+"割とすぐに出てきたエフェクト。\n"
+"電気が付く時の動作にやたらと拘っていました。"
+msgstr ""
+
+#. ID 8, Page 1, Line 1, Pos (15,5)
+msgid ""
+"栗鼠（りす）です。\n"
+"ちっちゃいリスに変身します。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 8, Page 1, Line 5, Pos (15,5)
+msgid "あ、聞いてみただけです。"
+msgstr ""
+
+#. ID 8, Page 2, Line 1, Pos (15,5)
+msgid ""
+"栗鼠（リス）です。若干手抜き気味です。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 8, Page 3, Line 1, Pos (15,5)
+msgid ""
+"裏話：\n"
+"製作者がリス好きなのでこうなりました。\n"
+"いつか現実でも飼いたいです。切実に"
+msgstr ""
+
+#. ID 9, Page 1, Line 1, Pos (7,7)
+msgid ""
+"影（かげ）です。\n"
+"扉部屋に戻ります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 9, Page 1, Line 5, Pos (7,7)
+msgid "あら、在庫が無いのでほほつねりで代用して下さい。"
+msgstr ""
+
+#. ID 9, Page 2, Line 1, Pos (7,7)
+msgid ""
+"影（かげ）です。目玉の変わりです。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 9, Page 3, Line 1, Pos (7,7)
+msgid ""
+"裏話：\n"
+"なんとなく「めだま」ってのに執着してましたが\n"
+"こんな風に落ち着きました。目玉もついてるのでよし。"
+msgstr ""
+
+#. ID 10, Page 1, Line 1, Pos (9,7)
+msgid ""
+"香水（香水）です。\n"
+"異世界キャラを引き寄せます。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 10, Page 1, Line 5, Pos (9,7)
+msgid ""
+"いや\n"
+"やっぱりあげません。レモンかけちゃったので"
+msgstr ""
+
+#. ID 10, Page 2, Line 1, Pos (9,7)
+msgid ""
+"香水（こうすい）です。からあげでは無いです。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 10, Page 3, Line 1, Pos (9,7)
+msgid ""
+"裏話：\n"
+"からあげってのはPixivのアンケートネタです。"
+msgstr ""
+
+#. ID 11, Page 1, Line 1, Pos (11,7)
+msgid ""
+"歯車（はぐるま）です。\n"
+"倍速エフェクトです。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 11, Page 1, Line 5, Pos (11,7)
+msgid "ん、捨てちゃったからには自分の足で歩きましょう。"
+msgstr ""
+
+#. ID 11, Page 2, Line 1, Pos (11,7)
+msgid ""
+"歯車（はぐるま）。どうしてこうなった。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 11, Page 3, Line 1, Pos (11,7)
+msgid ""
+"裏話：\n"
+"最初は「しゃりん」でした。\\!思いついた直後に\n"
+"某派生のバージョンが上がりました。おうふ"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (13,7)
+msgid ""
+"ノイズです。\n"
+"異世界キャラを遠ざけます。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 12, Page 1, Line 5, Pos (13,7)
+msgid "いや、やっぱりやめておきます。"
+msgstr ""
+
+#. ID 12, Page 2, Line 1, Pos (13,7)
+msgid ""
+"ノイズです。正直うるさいですね。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 12, Page 3, Line 1, Pos (13,7)
+msgid ""
+"裏話：\n"
+"最初期に思いついたエフェクト。そういえば･･･\n"
+"流○のロッ○マン3にハマっていた時期でした。\n"
+"\\!あの作品はもっと評価されてよかった･･･。"
+msgstr ""
+
+#. ID 13, Page 1, Line 1, Pos (7,11)
+msgid ""
+"錨（いかり）です。\n"
+"仕様が変わりました。"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (7,11)
+msgid ""
+"シフトキーで錨を落とします。\n"
+"5つまで目印として設置できます。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 13, Page 1, Line 7, Pos (7,11)
+msgid "おやおや？あなたにはもう渡せませんね"
+msgstr ""
+
+#. ID 13, Page 2, Line 1, Pos (7,11)
+msgid ""
+"錨（いかり）です。まあ納得のいく形になりました。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 13, Page 3, Line 1, Pos (7,11)
+msgid ""
+"裏話：\n"
+"目印つけて後でそこに戻る発想はいいと思ったのですが\n"
+"作者のツクール技術が低いため、没となりました。残念"
+msgstr ""
+
+#. ID 14, Page 1, Line 1, Pos (8,2)
+msgid ""
+"どうも。Bokunです。\n"
+"見た目にこれといった意味はありません。"
+msgstr ""
+
+#. ID 14, Page 1, Line 3, Pos (8,2)
+msgid ""
+"ほんっっっっっっっとにお久しぶりですね……。\n"
+"もはやてめえ誰だよ状態です。\n"
+"\\!はじめまして、Bokunでございます。"
+msgstr ""
+
+#. ID 14, Page 1, Line 6, Pos (8,2)
+msgid ""
+"思えば色々なことがありましたね。\n"
+"えっと、あんなこととか……こんなこととか、\n"
+"うん。"
+msgstr ""
+
+#. ID 14, Page 1, Line 12, Pos (8,2)
+msgid "（やべえ。思った以上に書くことがねえ。）"
+msgstr ""
+
+#. ID 14, Page 1, Line 16, Pos (8,2)
+msgid ""
+"まあ！とりあえずもう少しだけ\n"
+"更新するつもりはありますので\n"
+"ちょびちょびがんばります！"
+msgstr ""
+
+#. ID 14, Page 1, Line 19, Pos (8,2)
+msgid "では。"
+msgstr ""
+
+#. ID 14, Page 2, Line 1, Pos (8,2)
+msgid ""
+"用意しておきましたよ。\n"
+"絶対誰かやると思っていましたからね。\n"
+"どうぞぶった切ってやってください。"
+msgstr ""
+
+#. ID 14, Page 2, Line 18, Pos (8,2)
+msgid "ただし私は死にません。"
+msgstr ""
+
+#. ID 14, Page 3, Line 16, Pos (8,2)
+msgid "何度でも蘇ります。"
+msgstr ""
+
+#. ID 14, Page 3, Line 18, Pos (8,2)
+msgid "（なんだか随分恨まれてるみたいだな……。）"
+msgstr ""
+
+#. ID 15, Page 1, Line 1, Pos (15,7)
+msgid ""
+"ジャンクです。\n"
+"遅くなります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 15, Page 1, Line 5, Pos (15,7)
+msgid "欲しくないですよね。遅いし。"
+msgstr ""
+
+#. ID 15, Page 2, Line 1, Pos (15,7)
+msgid ""
+"ジャンクです。汚い。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 15, Page 3, Line 1, Pos (15,7)
+msgid ""
+"裏話:だいぶ大人になってきましたが\n"
+"割と泥まみれになるのは好きです。\n"
+"その後思いっきり体の汚れを落としまくるんじゃ。"
+msgstr ""
+
+#. ID 16, Page 1, Line 1, Pos (7,9)
+msgid ""
+"こおりです。\n"
+"雪を降らせる事ができます。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 16, Page 1, Line 5, Pos (7,9)
+msgid ""
+"あれ？\n"
+"すみません。保存状態が悪くて全部溶けちゃいました。"
+msgstr ""
+
+#. ID 16, Page 2, Line 1, Pos (7,9)
+msgid ""
+"こおりです。ひやや。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 16, Page 3, Line 1, Pos (7,9)
+msgid ""
+"裏話：\n"
+"実を言うと、マジでアイスうんちゃらに\n"
+"影響を受けています。"
+msgstr ""
+
+#. ID 17, Page 1, Line 1, Pos (9,9)
+msgid ""
+"UFOです。\n"
+"謎の行動をします。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 17, Page 1, Line 5, Pos (9,9)
+msgid "おっと、今のあなたには必要無いものでしたね。"
+msgstr ""
+
+#. ID 17, Page 2, Line 1, Pos (9,9)
+msgid ""
+"UFOです。押す長さで動作が変わります。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 17, Page 3, Line 1, Pos (9,9)
+msgid ""
+"裏話：\n"
+"育成ゲームが下手糞だった自分に光を与えてくれたのが\n"
+"彼でした。\\!誰とまでは言いません。"
+msgstr ""
+
+#. ID 17, Page 4, Line 1, Pos (9,9)
+msgid ""
+"UFO乗り場を覚えてる？\n"
+"\\!おまけ程度に楽しんでくれればいいな。"
+msgstr ""
+
+#. ID 18, Page 1, Line 1, Pos (11,9)
+msgid ""
+"ききょう（桔梗）です。\n"
+"今のところ動作はありません。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 18, Page 2, Line 1, Pos (11,9)
+msgid ""
+"ききょう（桔梗）です。和風っていいよね\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 18, Page 3, Line 1, Pos (11,9)
+msgid ""
+"裏話：\n"
+"最初は植木鉢に桔梗が植わっているだけでした。\n"
+"こうなってよかった。"
+msgstr ""
+
+#. ID 19, Page 1, Line 1, Pos (13,9)
+msgid ""
+"おそろいです。\n"
+"シフトで座ります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 19, Page 1, Line 5, Pos (13,9)
+msgid "あれ、輪ゴムしかない……。"
+msgstr ""
+
+#. ID 19, Page 2, Line 1, Pos (13,9)
+msgid ""
+"おそろいです。あの子とおそろいです。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 19, Page 3, Line 1, Pos (13,9)
+msgid ""
+"裏話：\n"
+"お揃いの女の子は一応「しずく」という名前です。"
+msgstr ""
+
+#. ID 20, Page 1, Line 1, Pos (10,2)
+msgid ""
+"BGM提供をしていただいた、かめりあ様\n"
+"今一度この場でお礼をさせて頂きます。"
+msgstr ""
+
+#. ID 20, Page 1, Line 3, Pos (10,2)
+msgid ""
+"あなたとのかかわりが無ければ\n"
+"作品が映える事も無かったでしょう。\n"
+"BGMって本当にすごい。"
+msgstr ""
+
+#. ID 20, Page 1, Line 6, Pos (10,2)
+msgid ""
+"出来れば自分で作ってもみたいのですが\n"
+"クオリティの差に驚かされて、結局\n"
+"ほぼ手を付けられていません。"
+msgstr ""
+
+#. ID 20, Page 1, Line 9, Pos (10,2)
+msgid ""
+"とにかく、人との関わりは\n"
+"とても大切ですね。いえい"
+msgstr ""
+
+#. ID 21, Page 1, Line 1, Pos (15,9)
+msgid ""
+"すみぬきです。\n"
+"今のところ動作はありません。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 21, Page 1, Line 5, Pos (15,9)
+msgid "と、丁度切らしていました。"
+msgstr ""
+
+#. ID 21, Page 2, Line 1, Pos (15,9)
+msgid ""
+"すみぬきです。いわゆる白黒ですね。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 21, Page 3, Line 1, Pos (15,9)
+msgid ""
+"裏話：\n"
+"最初はそのまんま白黒という名前でしたが\n"
+"色々あってこの名前になりました。"
+msgstr ""
+
+#. ID 26, Page 1, Line 1, Pos (7,13)
+msgid ""
+"カーテンです。\n"
+"シフトで色々変わります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 26, Page 1, Line 5, Pos (7,13)
+#. ID 29, Page 1, Line 5, Pos (15,11)
+#. ID 30, Page 1, Line 5, Pos (9,13)
+#. ID 32, Page 1, Line 5, Pos (11,13)
+msgid "と言いたいところですが、もうあげられません。"
+msgstr ""
+
+#. ID 26, Page 2, Line 1, Pos (7,13)
+msgid ""
+"カーテンです。若干急ごしらえ。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 26, Page 3, Line 1, Pos (7,13)
+msgid ""
+"裏話：\n"
+"没予定でしたが、あるサイトに姿を上げられていたので\n"
+"まあいいや、という具合で正規エフェクトに。"
+msgstr ""
+
+#. ID 27, Page 1, Line 1, Pos (11,11)
+msgid ""
+"からんです。\n"
+"シフトで雨を降らします。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 27, Page 1, Line 5, Pos (11,11)
+#. ID 28, Page 1, Line 6, Pos (13,11)
+msgid "あ、もう駄目です。"
+msgstr ""
+
+#. ID 27, Page 2, Line 1, Pos (11,11)
+msgid ""
+"からんです。からんって響きが好き。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 27, Page 3, Line 1, Pos (11,11)
+msgid ""
+"裏話：\n"
+"これも割りと初期から発想はあったエフェクト。\n"
+"時間の都合上最後期に"
+msgstr ""
+
+#. ID 28, Page 1, Line 1, Pos (13,11)
+msgid ""
+"ベースです。\n"
+"シフトで演奏します。\n"
+"の予定でしたが、時間の都合上まだ未実装。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 28, Page 2, Line 1, Pos (13,11)
+msgid ""
+"ベースです。たまーにウッドベースに。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 28, Page 3, Line 1, Pos (13,11)
+msgid ""
+"裏話：\n"
+"最初はハーモニカでした。\n"
+"音源作るのは絶対ハーモニカの方が楽でした。\n"
+"\\!いや、まだできてませんけど"
+msgstr ""
+
+#. ID 29, Page 1, Line 1, Pos (15,11)
+msgid ""
+"ひがさです。\n"
+"天候が良くなります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 29, Page 2, Line 1, Pos (15,11)
+msgid ""
+"ひがさです。何故アルビノになるのか。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 29, Page 3, Line 1, Pos (15,11)
+msgid ""
+"裏話：\n"
+"アルビノってどこか神々しい印象がありますよね。\n"
+"\\!人によっては憧れを抱いているかもしれません。\n"
+"\\!人によっては。"
+msgstr ""
+
+#. ID 30, Page 1, Line 1, Pos (9,13)
+msgid ""
+"ふたりです。\n"
+"シフトで上の子がキョロキョロします。\n"
+"今は無いけど可愛いから許して。\\!欲しい？"
+msgstr ""
+
+#. ID 30, Page 2, Line 1, Pos (9,13)
+msgid ""
+"ふたりです。下の子の首の力がすごい。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 30, Page 3, Line 1, Pos (9,13)
+msgid ""
+"裏話：\n"
+"若干意識が朦朧としている中生まれたエフェクト。\n"
+"他のと比べるとなんか発想がおかしいです。"
+msgstr ""
+
+#. ID 31, Page 1, Line 1, Pos (9,11)
+msgid ""
+"げんきです。\n"
+"若干血色が良くなります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 31, Page 1, Line 5, Pos (9,11)
+msgid "捨てているならもうあげられませんよ。"
+msgstr ""
+
+#. ID 31, Page 2, Line 1, Pos (9,11)
+msgid ""
+"げんきです。恐らく最も地味なエフェクト。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 31, Page 3, Line 1, Pos (9,11)
+msgid ""
+"裏話：\n"
+"最初期のエフェクトでありながら\n"
+"地味すぎて最後期まで姿を現さなかったエフェクト。"
+msgstr ""
+
+#. ID 31, Page 3, Line 4, Pos (9,11)
+msgid ""
+"ネタ切れじゃないんです。\n"
+"思いついたネタを生かしきれてないだけなんです。"
+msgstr ""
+
+#. ID 32, Page 1, Line 1, Pos (11,13)
+msgid ""
+"げんしょくです。\n"
+"シフトで画面の色が変わります。\n"
+"欲しい？"
+msgstr ""
+
+#. ID 32, Page 2, Line 1, Pos (11,13)
+msgid ""
+"原色です。植木鉢が没になり、こうなりました。\n"
+"ちなみに2個もあげられません。\n"
+"それとも回収ですか？"
+msgstr ""
+
+#. ID 32, Page 3, Line 1, Pos (11,13)
+msgid ""
+"裏話：\n"
+"植木鉢の効果は、天候が雨の時に成長して移動が\n"
+"速くなるというものでした。"
+msgstr ""
+
+#. ID 32, Page 3, Line 4, Pos (11,13)
+msgid ""
+"ちなみにここでの原色は\n"
+"プリンタのイエロー,マゼンタ,シアン,ブラックです。\n"
+"そして各々の混色である赤、緑、青が使われています。\n"
+"\\!影の部分はもはや原色では無いけど、気にするな。"
+msgstr ""
+
+#. ID 33, Page 1, Line 1, Pos (13,13)
+msgid ""
+"通常エフェクトは全部で23個です。\n"
+"ここまでしっかりプレイで集めてくれた人。\n"
+"素晴らしいです。うひょー"
+msgstr ""
+
+#. ID 33, Page 2, Line 1, Pos (13,13)
+msgid ""
+"派生部屋を安易に作ろうと考えると大変です。\n"
+"気がついたら既に50を超える作品数じゃないですか。\n"
+"結局取り上げられてない作品もあります。"
+msgstr ""
+
+#. ID 33, Page 2, Line 4, Pos (13,13)
+msgid ""
+"出来ていない作品も多々ありますが、ちらっと見て\n"
+"「うっわこの人の技術力半端ねえ」\n"
+"ってよく思うくらい\n"
+"最近の作品のレベルは高くなってる気がします。"
+msgstr ""
+
+#. ID 33, Page 2, Line 8, Pos (13,13)
+msgid ""
+"自分も負けてられるか！と意気込むものも\n"
+"結局は社会の荒波に飲まれて萎んでいく今日この頃。"
+msgstr ""
+
+#. ID 34, Page 1, Line 1, Pos (15,13)
+msgid ""
+"おめでとう。後はエンディングを探すだけだね。\n"
+"でも、私が見えてる状態だと、一つだけエンディングが\n"
+"見れないんだよ。あらら"
+msgstr ""
+
+#. ID 34, Page 1, Line 4, Pos (15,13)
+msgid ""
+"ちなみに私は3つほどあります。\n"
+"「エンディング分岐がどうしてもわからない！」\n"
+"って人を救済するための存在です。ネタバレ注意！"
+msgstr ""
+
+#. ID 34, Page 1, Line 8, Pos (15,13)
+msgid "さて、どのヒントが聞きたい？"
+msgstr ""
+
+#. ID 34, Page 1, Line 9, Pos (15,13)
+#. Choice (4 options)
+msgid ""
+"1つ目のED\n"
+"2つ目のED\n"
+"3つ目のED\n"
+"         "
+msgstr ""
+
+#. ID 34, Page 1, Line 11, Pos (15,13)
+msgid ""
+"エフェクト23個を集めた後\n"
+"現実部屋の扉を調べてみましょう。\n"
+"捨てちゃダメです。"
+msgstr ""
+
+#. ID 34, Page 1, Line 17, Pos (15,13)
+msgid ""
+"エフェクトを全て集めて捨てた後、\n"
+"あの女の子に最後のエフェクトを貰いましょう。\n"
+"まあ、それを使ったのが今の状態ですね。"
+msgstr ""
+
+#. ID 34, Page 1, Line 20, Pos (15,13)
+msgid "そのまま現実部屋の扉を調べればED2です。"
+msgstr ""
+
+#. ID 34, Page 1, Line 24, Pos (15,13)
+msgid ""
+"女の子から貰ったエフェクトを貰った後\n"
+"またその女の子のところへ行ってみてください。\n"
+"後は流れで。"
+msgstr ""
+
+#. ID 34, Page 1, Line 30, Pos (15,13)
+msgid ""
+"おや？あなた･･････知ってる口だね？\n"
+"\\!あそこにいるUFOエフェクトが何か言いたげだよ。\n"
+"\\!と言いたいところだけど、まだ出し惜しみしてるね。"
+msgstr ""
+
+#. ID 34, Page 1, Line 33, Pos (15,13)
+msgid "今回は聞かなかったことにしてね$k"
+msgstr ""
+
+#. ID 37, Page 1, Line 2, Pos (17,2)
+msgid ""
+"こんなところに小銭が落ちているぞ！\n"
+"全部で何枚あるだろう･･･？"
+msgstr ""
+
+#. ID 37, Page 1, Line 7, Pos (17,2)
+msgid "目の錯覚だったようだ。"
+msgstr ""
+
+#. ID 37, Page 1, Line 10, Pos (17,2)
+msgid "しょっぱい。"
+msgstr ""
+
+#. ID 37, Page 1, Line 26, Pos (17,2)
+msgid "ほくほく。"
+msgstr ""
+
+#. ID 37, Page 1, Line 39, Pos (17,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"一応確認ですけど、本当にそんなに\n"
+"落ちてると思いますか？"
+msgstr ""
+
+#. ID 37, Page 1, Line 41, Pos (17,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+
+#. ID 37, Page 1, Line 43, Pos (17,2)
+msgid ""
+"さいですか。\n"
+"\\!じゃあ\\V[22]回小銭取るので覚悟してくださいね。"
+msgstr ""
+
+#. ID 37, Page 1, Line 47, Pos (17,2)
+msgid ""
+"やっぱりそうでしたか。\n"
+"いやぁびっくりした。"
+msgstr ""
+
+#. ID 37, Page 1, Line 54, Pos (17,2)
+msgid "落ちてるってレベルじゃねえ。"
+msgstr ""
+
+#. ID 42, Page 1, Line 1, Pos (0,0)
+msgid ""
+"エフェクトに関するちょっとした裏話を用意しました。\n"
+"\\!一応言っておきますが、作者の裏話であって\n"
+"この子達の裏話ではありません。"
+msgstr ""
+
+#. ID 42, Page 1, Line 4, Pos (0,0)
+msgid "では、ごゆっくり"
+msgstr ""
+
