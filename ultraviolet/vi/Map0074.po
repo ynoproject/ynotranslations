@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 4, Page 2, Line 21, Pos (3,0)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　     ウィンドウ「hexe violett」\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　 Giao diện \"hexe violett\"\\<\\|\\|\\^"
+
+#. ID 4, Page 2, Line 26, Pos (3,0)
+#. Contains choice at line 2 (2 options)
+msgid "ここでウィンドウを変更しますか？"
+msgstr "Bạn có muốn đổi sang giao diện này?"
+
+#. ID 4, Page 2, Line 27, Pos (3,0)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"します\n"
+"しません"
+msgstr ""
+"Có\n"
+"Không"

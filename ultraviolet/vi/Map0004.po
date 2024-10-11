@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 9, Page 1, Line 1, Pos (10,3)
+msgid ""
+"\\>エフェクト★うさぎ★です。\n"
+"\\>エフェ動作でウサギに変身します。"
+msgstr ""
+"\\>Đây là hiệu ứng ★ Thỏ ★ .\n"
+"\\>Dùng hiệu ứng sẽ biến bạn thành một chú thỏ."
+
+#. ID 9, Page 1, Line 3, Pos (10,3)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 3, Pos (12,3)
+#. Contains choice at line 2 (2 options)
+#. ID 23, Page 1, Line 3, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 3, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 4, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 71, Page 1, Line 3, Pos (18,3)
+#. Contains choice at line 2 (2 options)
+#. ID 73, Page 1, Line 3, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 76, Page 1, Line 3, Pos (16,3)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 4, Pos (16,5)
+#. Contains choice at line 2 (2 options)
+#. ID 81, Page 1, Line 3, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+#. ID 86, Page 1, Line 3, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 88, Page 1, Line 5, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 96, Page 1, Line 4, Pos (18,5)
+#. Contains choice at line 2 (2 options)
+#. ID 97, Page 1, Line 3, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 99, Page 1, Line 4, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 100, Page 1, Line 3, Pos (10,7)
+#. Contains choice at line 2 (2 options)
+#. ID 135, Page 1, Line 3, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>入手しますか？"
+msgstr "\\>Nhận hiệu ứng này?"
+
+#. ID 9, Page 1, Line 4, Pos (10,3)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (12,3)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 4, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 4, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 5, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 71, Page 1, Line 4, Pos (18,3)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 76, Page 1, Line 4, Pos (16,3)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 5, Pos (16,5)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 4, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 86, Page 1, Line 4, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 88, Page 1, Line 6, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 96, Page 1, Line 5, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+#. ID 99, Page 1, Line 5, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 100, Page 1, Line 4, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 1, Line 4, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>する\n"
+"\\>しない"
+msgstr ""
+"\\>Nhận\n"
+"\\>Không"
+
+#. ID 9, Page 1, Line 6, Pos (10,3)
+msgid "\\>エフェクト★うさぎ★を入手しました。"
+msgstr "\\>Đã nhận hiệu ứng ★ Thỏ ★ ."
+
+#. ID 9, Page 1, Line 13, Pos (10,3)
+#. ID 21, Page 1, Line 12, Pos (12,3)
+#. ID 23, Page 1, Line 12, Pos (10,5)
+#. ID 37, Page 1, Line 12, Pos (13,3)
+#. ID 46, Page 1, Line 13, Pos (11,5)
+#. ID 71, Page 1, Line 12, Pos (18,3)
+#. ID 73, Page 1, Line 12, Pos (13,5)
+#. ID 76, Page 1, Line 12, Pos (16,3)
+#. ID 79, Page 1, Line 13, Pos (16,5)
+#. ID 81, Page 1, Line 12, Pos (12,5)
+#. ID 86, Page 1, Line 12, Pos (17,5)
+#. ID 88, Page 1, Line 14, Pos (11,3)
+#. ID 96, Page 1, Line 13, Pos (18,5)
+#. ID 97, Page 1, Line 12, Pos (15,5)
+#. ID 99, Page 1, Line 13, Pos (17,3)
+#. ID 100, Page 1, Line 12, Pos (10,7)
+#. ID 135, Page 1, Line 12, Pos (15,3)
+msgid "\\>キャンセルしました。"
+msgstr "\\>Đã hủy hành động."
+
+#. ID 9, Page 2, Line 7, Pos (10,3)
+msgid "\\>エフェクト★うさぎ★を破棄しました。"
+msgstr "\\>Đã loại bỏ hiệu ứng ★ Thỏ ★ ."
+
+#. ID 11, Page 1, Line 1, Pos (12,1)
+#. Choice (4 options)
+msgid ""
+"\\>速度：ふつう\n"
+"\\>速度：はやい\n"
+"\\>速度：はやいはやい\n"
+"\\>速度：おお、はやいはやい"
+msgstr ""
+"\\>Tốc độ: Chậm\n"
+"\\>Tốc độ: Nhanh\n"
+"\\>Tốc độ: Siêu nhanh\n"
+"\\>Tốc độ: Úi, siêu cực kỳ nhanh"
+
+#. ID 12, Page 1, Line 1, Pos (13,1)
+#. Choice (3 options)
+msgid ""
+"\\>エフェクト全入手\n"
+"\\>エフェクト全破棄\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Nhận tất cả hiệu ứng\n"
+"\\>Loại bỏ tất cả hiệu ứng\n"
+"\\>Hủy"
+
+#. ID 12, Page 1, Line 90, Pos (13,1)
+msgid "\\>エフェクトを全て入手しました。"
+msgstr "\\>Đã nhận tất cả hiệu ứng."
+
+#. ID 12, Page 1, Line 113, Pos (13,1)
+msgid "\\>エフェクトを全て破棄しました。"
+msgstr "\\>Đã loại bỏ tất cả hiệu ứng."
+
+#. ID 21, Page 1, Line 1, Pos (12,3)
+msgid ""
+"\\>エフェクト★ケーキ★です。\n"
+"\\>エフェ動作で、完全にケーキです。"
+msgstr ""
+"\\>Đây là hiệu ứng ★ Bánh ngọt ★ .\n"
+"\\>Dùng hiệu ứng sẽ biến bạn thành một lát bánh ngọt."
+
+#. ID 21, Page 1, Line 6, Pos (12,3)
+msgid "\\>エフェクト★ケーキ★を入手しました。"
+msgstr "\\>Đã nhận hiệu ứng ★ Bánh ngọt ★ ."
+
+#. ID 21, Page 2, Line 6, Pos (12,3)
+msgid "\\>エフェクト★ケーキ★を破棄しました。"
+msgstr "\\>Đã loại bỏ hiệu ứng ★ Bánh ngọt ★ ."
+
+#. ID 22, Page 1, Line 2, Pos (7,1)
+msgid ""
+"\\>デバッグルームへ　\\|とうこそ！\n"
+"\\>本作品のダウンロード、誠にありがとうございます。\n"
+"\\>この場を借りて、感謝の意を表させていただきます。"
+msgstr ""
+"\\>Chào mừng bạn đến với Phòng Gỡ lỗi!\n"
+"\\>Cảm ơn bạn đã chơi trò chơi này.\n"
+"\\>Tôi xin được thể hiện lòng biết ơn ở nơi này."
+
+#. ID 22, Page 1, Line 5, Pos (7,1)
+msgid ""
+"\\>ごちゃごちゃして少々見苦しいかと思いますが、\n"
+"\\>ゆっくりして行って下さい。"
+msgstr ""
+"\\>Tôi biết ở đây trông khá lộn xộn và khó coi, nhưng\n"
+"\\>xin hãy thong thả nhé."
+
+#. ID 23, Page 1, Line 1, Pos (10,5)
+msgid ""
+"\\>エフェクト★くびなし★です。\n"
+"\\>エフェ動作でグラフィックが若干変化します。"
+msgstr ""
+
+#. ID 23, Page 1, Line 6, Pos (10,5)
+msgid "\\>エフェクト★くびなし★を入手しました。"
+msgstr ""
+
+#. ID 23, Page 2, Line 6, Pos (10,5)
+msgid "\\>エフェクト★くびなし★を破棄しました。"
+msgstr ""
+
+#. ID 27, Page 1, Line 2, Pos (18,14)
+msgid "\\>こちら側は一時消去されないお金イベントです。"
+msgstr ""
+
+#. ID 30, Page 1, Line 1, Pos (15,1)
+#. Choice (4 options)
+msgid ""
+"\\>￥1000増加\n"
+"\\>￥5000増加\n"
+"\\>￥10000増加\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Nhận 1000¥\n"
+"\\>Nhận 5000¥\n"
+"\\>Nhận 10000¥\n"
+"\\>Hủy"
+
+#. ID 32, Page 1, Line 1, Pos (16,1)
+#. Choice (3 options)
+msgid ""
+"\\>夢日記帳取得\n"
+"\\>夢日記帳破棄\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Nhận Nhật ký trong mơ\n"
+"\\>Loại bỏ Nhật ký trong mơ\n"
+"\\>Hủy"
+
+#. ID 34, Page 1, Line 2, Pos (18,11)
+msgid ""
+"\\>ランダムでお金を拾えるイベントです。\n"
+"\\>左側：調べて起動　右側：通過した時に起動。\n"
+"\\>起動した時点で一時消去されます。"
+msgstr ""
+
+#. ID 36, Page 1, Line 2, Pos (10,12)
+msgid ""
+"\\>あんまりジュース飲みまくったら、\n"
+"\\>トイレに近なんで。お腹もたぷんたぷんなるし。\n"
+"\\>自重しいや。"
+msgstr ""
+
+#. ID 37, Page 1, Line 1, Pos (13,3)
+msgid ""
+"\\>エフェクト★コートとマフラー★です。\n"
+"\\>エフェ動作で見た目が僅かに変化。"
+msgstr ""
+
+#. ID 37, Page 1, Line 6, Pos (13,3)
+msgid "\\>エフェクト★コートとマフラー★を入手しました。"
+msgstr ""
+
+#. ID 37, Page 2, Line 7, Pos (13,3)
+msgid "\\>エフェクト★コートとマフラー★を破棄しました。"
+msgstr ""
+
+#. ID 43, Page 1, Line 2, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 43, Page 1, Line 4, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 4, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 4, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+#. ID 55, Page 1, Line 4, Pos (0,3)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 4, Pos (0,4)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 1, Line 4, Pos (0,5)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 4, Pos (0,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"します\n"
+"しません"
+msgstr ""
+
+#. ID 43, Page 1, Line 7, Pos (0,0)
+msgid "\\>タイプ　Violet に変更しました！"
+msgstr ""
+
+#. ID 46, Page 1, Line 1, Pos (11,5)
+msgid ""
+"\\>エフェクト★ほうでんとう★です。\n"
+"\\>エフェ動作でON・OFFの切り替えです。\n"
+"\\>ONで暗闇マップを明るく照らします。"
+msgstr ""
+
+#. ID 46, Page 1, Line 7, Pos (11,5)
+msgid "\\>エフェクト★ほうでんとう★を入手しました。"
+msgstr ""
+
+#. ID 46, Page 2, Line 6, Pos (11,5)
+msgid "\\>エフェクト★ほうでんとう★を破棄しました。"
+msgstr ""
+
+#. ID 47, Page 1, Line 2, Pos (0,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　monochrome\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 47, Page 1, Line 7, Pos (0,1)
+msgid "\\>タイプ　monochrome に変更しました！"
+msgstr ""
+
+#. ID 50, Page 1, Line 2, Pos (0,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　silver\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 50, Page 1, Line 7, Pos (0,2)
+msgid "\\>タイプ　silver に変更しました！"
+msgstr ""
+
+#. ID 55, Page 1, Line 2, Pos (0,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　orange\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 55, Page 1, Line 7, Pos (0,3)
+msgid "\\>タイプ　orange に変更しました！"
+msgstr ""
+
+#. ID 64, Page 1, Line 2, Pos (8,12)
+msgid ""
+"\\>自動販売機。\n"
+"\\>所持金が\\c[1]120円\\c[0]以上で\n"
+"\\>ジュース購入可\n"
+"\\>ver0.05よりステータス上昇効果アリ。"
+msgstr ""
+
+#. ID 67, Page 1, Line 1, Pos (17,1)
+#. Choice (3 options)
+msgid ""
+"\\>デバッグ用メニュー追加\n"
+"\\>デバッグ用メニュー消滅\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 68, Page 1, Line 2, Pos (0,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　cookie\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 68, Page 1, Line 7, Pos (0,4)
+msgid "\\>タイプ　cookie に変更しました！"
+msgstr ""
+
+#. ID 71, Page 1, Line 1, Pos (18,3)
+msgid ""
+"\\>エフェクト★ショートヘアー★です。\n"
+"\\>エフェ動作で座り込みます。"
+msgstr ""
+
+#. ID 71, Page 1, Line 6, Pos (18,3)
+msgid "\\>エフェクト★ショートヘアー★を入手しました。"
+msgstr ""
+
+#. ID 71, Page 2, Line 6, Pos (18,3)
+msgid "\\>エフェクト★ショートヘアー★を破棄しました。"
+msgstr ""
+
+#. ID 73, Page 1, Line 1, Pos (13,5)
+msgid ""
+"\\>エフェクト★たまご★です。\n"
+"\\>エフェ動作で扉部屋に戻ることが出来ます。"
+msgstr ""
+
+#. ID 73, Page 1, Line 6, Pos (13,5)
+msgid "\\>エフェクト★たまご★を入手しました。"
+msgstr ""
+
+#. ID 73, Page 2, Line 6, Pos (13,5)
+msgid "\\>エフェクト★たまご★を破棄しました。"
+msgstr ""
+
+#. ID 76, Page 1, Line 1, Pos (16,3)
+msgid ""
+"\\>エフェクト★まじょ★です。\n"
+"\\>エフェ動作で箒に乗ります。移動速度も上昇。"
+msgstr ""
+
+#. ID 76, Page 1, Line 6, Pos (16,3)
+msgid "\\>エフェクト★まじょ★を入手しました。"
+msgstr ""
+
+#. ID 76, Page 2, Line 6, Pos (16,3)
+msgid "\\>エフェクト★まじょ★を破棄しました。"
+msgstr ""
+
+#. ID 77, Page 1, Line 2, Pos (0,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 77, Page 1, Line 7, Pos (0,5)
+msgid "\\>タイプ　hexe に変更しました！"
+msgstr ""
+
+#. ID 78, Page 1, Line 2, Pos (0,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe violett\n"
+"\\>変更しますか？"
+msgstr ""
+
+#. ID 78, Page 1, Line 7, Pos (0,6)
+msgid "\\>タイプ　hexe violett に変更しました！"
+msgstr ""
+
+#. ID 79, Page 1, Line 1, Pos (16,5)
+msgid ""
+"\\>エフェクト★しっけんけん★です。\n"
+"\\>エフェ動作で雪を降らせます。\n"
+"\\>降雪量は3段階で変更可。"
+msgstr ""
+
+#. ID 79, Page 1, Line 7, Pos (16,5)
+msgid "\\>エフェクト★しっけんけん★を入手しました。"
+msgstr ""
+
+#. ID 79, Page 2, Line 6, Pos (16,5)
+msgid "\\>エフェクト★しっけんけん★を破棄しました。"
+msgstr ""
+
+#. ID 81, Page 1, Line 1, Pos (12,5)
+msgid ""
+"\\>エフェクト★アンドロイド★です。\n"
+"\\>特に何もありません。"
+msgstr ""
+
+#. ID 81, Page 1, Line 6, Pos (12,5)
+msgid "\\>エフェクト★アンドロイド★を入手しました。"
+msgstr ""
+
+#. ID 81, Page 2, Line 6, Pos (12,5)
+msgid "\\>エフェクト★アンドロイド★を破棄しました。"
+msgstr ""
+
+#. ID 85, Page 1, Line 1, Pos (14,1)
+#. Choice (3 options)
+msgid ""
+"\\>ウィンドウ全種選択可能\n"
+"\\>初期状態に戻す\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 85, Page 1, Line 3, Pos (14,1)
+msgid "\\>全種選択可能になりました。"
+msgstr ""
+
+#. ID 85, Page 1, Line 9, Pos (14,1)
+msgid "\\>初期状態に戻りました。"
+msgstr ""
+
+#. ID 86, Page 1, Line 1, Pos (17,5)
+msgid ""
+"\\>エフェクト★リボン★です。\n"
+"\\>エフェ動作で座り込みます。"
+msgstr ""
+
+#. ID 86, Page 1, Line 6, Pos (17,5)
+msgid "\\>エフェクト★リボン★を入手しました。"
+msgstr ""
+
+#. ID 86, Page 2, Line 6, Pos (17,5)
+msgid "\\>エフェクト★リボン★を破棄しました。"
+msgstr ""
+
+#. ID 88, Page 1, Line 1, Pos (11,3)
+msgid ""
+"\\>エフェクト★ネイルハンマー★です。\n"
+"\\>エフェ動作でハンマーを構え、もう一度押すと解除。\n"
+"\\>通常の状態で攻撃は出来ずキャラクターも反応ナシ。\n"
+"\\>ハンマーを構えた状態で攻撃が可能になります。"
+msgstr ""
+
+#. ID 88, Page 1, Line 8, Pos (11,3)
+msgid "\\>エフェクト★ネイルハンマー★を入手しました。"
+msgstr ""
+
+#. ID 88, Page 2, Line 6, Pos (11,3)
+msgid "\\>エフェクト★ネイルハンマー★を破棄しました。"
+msgstr ""
+
+#. ID 93, Page 1, Line 2, Pos (7,15)
+msgid ""
+"\\>強制起床イベント用のキャラクター\n"
+"\\>調べて起動"
+msgstr ""
+
+#. ID 96, Page 1, Line 1, Pos (18,5)
+msgid ""
+"\\>エフェクト★くも★です。\n"
+"\\>装備中は移動速度が上昇します。\n"
+"\\>ver0.04現在未完成、ゲーム内では入手不可"
+msgstr ""
+
+#. ID 96, Page 1, Line 7, Pos (18,5)
+msgid "\\>エフェクト★くも★を入手しました。"
+msgstr ""
+
+#. ID 96, Page 2, Line 6, Pos (18,5)
+msgid "\\>エフェクト★くも★を破棄しました。"
+msgstr ""
+
+#. ID 97, Page 1, Line 1, Pos (15,5)
+msgid ""
+"\\>エフェクト★みこ★です。\n"
+"\\>エフェ動作で追いかけキャラを一時的に追い払う。"
+msgstr ""
+
+#. ID 97, Page 1, Line 4, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+
+#. ID 97, Page 1, Line 6, Pos (15,5)
+msgid "\\>エフェクト★みこ★を入手しました。"
+msgstr ""
+
+#. ID 97, Page 2, Line 6, Pos (15,5)
+msgid "\\>エフェクト★みこ★を破棄しました。"
+msgstr ""
+
+#. ID 99, Page 1, Line 1, Pos (17,3)
+msgid ""
+"\\>エフェクト★アメフラシ★です。\n"
+"\\>エフェ動作で雨を降らします。\n"
+"\\>ドット難しい。アメフラシっぽさが分からない。"
+msgstr ""
+
+#. ID 99, Page 1, Line 7, Pos (17,3)
+msgid "\\>エフェクト★アメフラシ★を入手しました。"
+msgstr ""
+
+#. ID 99, Page 2, Line 6, Pos (17,3)
+msgid "\\>エフェクト★アメフラシ★を破棄しました。"
+msgstr ""
+
+#. ID 100, Page 1, Line 1, Pos (10,7)
+msgid ""
+"\\>エフェクト★バイオリン★です。\n"
+"\\>エフェ動作でバイオリンを演奏します。"
+msgstr ""
+
+#. ID 100, Page 1, Line 6, Pos (10,7)
+msgid "\\>エフェクト★バイオリン★を入手しました。"
+msgstr ""
+
+#. ID 100, Page 2, Line 6, Pos (10,7)
+msgid "\\>エフェクト★バイオリン★を破棄しました。"
+msgstr ""
+
+#. ID 103, Page 1, Line 2, Pos (9,12)
+msgid ""
+"\\>自動販売機。\n"
+"\\>色によって上がるステータスが変化。\n"
+"\\>サイズによって上昇数値も変化。\n"
+"\\>"
+msgstr ""
+
+#. ID 117, Page 1, Line 53, Pos (19,1)
+msgid ""
+"\\>　　　　 　　\\c[2]◆\\c[1]◆\\c[0]information\\c[1]◆\\c[2]◆\\c[0]\n"
+"\\>■本体ver：\\c[1]0.05\\c[0]\n"
+"\\>■エフェクト収集率：\\c[1]\\V[0172]％\\c[0]\n"
+"\\>■ウィンドウ収集率：\\c[1]\\V[0173]％\\c[0]"
+msgstr ""
+
+#. ID 117, Page 1, Line 57, Pos (19,1)
+msgid ""
+"\\>■入眠回数　 　 ：\\V[0174]　　■通常起床回数　　：\\v[0175]\n"
+"\\>■強制起床回数　：\\V[0176]　  ■殺害・破壊総数　：\\V[0177]\n"
+"\\>■ジュース購入数：\\V[0178]"
+msgstr ""
+
+#. ID 135, Page 1, Line 1, Pos (15,3)
+msgid ""
+"\\>エフェクト★ステンドグラス★です。\n"
+"\\>エフェ動作で主人公のグラフィックが変化。"
+msgstr ""
+
+#. ID 135, Page 1, Line 6, Pos (15,3)
+msgid "\\>エフェクト★ステンドグラス★を入手しました。"
+msgstr ""
+
+#. ID 135, Page 2, Line 6, Pos (15,3)
+msgid "\\>エフェクト★ステンドグラス★を破棄しました。"
+msgstr ""
+
+#. ID 137, Page 1, Line 2, Pos (20,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\>エフェクト★リボン★のグラフィックを設定します。"
+msgstr ""
+
+#. ID 137, Page 1, Line 3, Pos (20,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>NEW（通常　ver0.04）\n"
+"\\>OLD（旧型　ver0.03）\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 139, Page 1, Line 2, Pos (20,4)
+#. Contains choice at line 2 (3 options)
+msgid "\\>「■夢日記帳」使用時のアニメ再生を設定します。"
+msgstr ""
+
+#. ID 139, Page 1, Line 3, Pos (20,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ON (通常・アニメ再生)\n"
+"\\>OFF(省略・アニメなし）\n"
+"\\>キャンセル"
+msgstr ""
+
+#. ID 141, Page 1, Line 2, Pos (20,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>自販機でのジュース購入時のイベントを設定します。"
+msgstr ""
+
+#. ID 141, Page 1, Line 3, Pos (20,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ON (通常・専用アニメ再生)\n"
+"\\>OFF(省略・ピクチャー表示のみ)\n"
+"\\>キャンセル"
+msgstr ""
