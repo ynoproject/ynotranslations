@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1, Page 2, Line 2, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>デバッグルームに入ります。\n"
+"\\>後悔しませんね？"
+msgstr ""
+"\\>Vào phòng gỡ lỗi.\n"
+"\\>Bạn sẽ không hối hận đâu nhỉ?"
+
+#. ID 1, Page 2, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>全くしない\n"
+"\\>ちょっとする"
+msgstr ""
+"\\>Không hề\n"
+"\\>Có một chút"
+
+#. ID 11, Page 1, Line 1, Pos (3,11)
+#. Contains choice at line 2 (2 options)
+msgid "デバッグ部屋に入れるようにする？"
+msgstr "Bạn có chắc muốn vào phòng gỡ lỗi?"
+
+#. ID 11, Page 1, Line 2, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"Vào\n"
+"Không"
+
+#. ID 11, Page 1, Line 4, Pos (3,11)
+#. ID 11, Page 1, Line 8, Pos (3,11)
+msgid "ほい"
+msgstr ""

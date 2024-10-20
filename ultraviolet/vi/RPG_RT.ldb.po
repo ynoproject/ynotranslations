@@ -1,0 +1,663 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "そめつき"
+msgstr "Sometsuki"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Mộng du"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Véo má"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "起床します。"
+msgstr "Thức dậy."
+
+#. ID 1
+#. ID 2
+msgctxt "skills.using_message1"
+msgid "0"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "デバッグ"
+msgstr "Gỡ lỗi"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "デバッグ的なことをします。"
+msgstr "Công cụ phục vụ gỡ lỗi."
+
+#. ID 1
+msgctxt "items.name"
+msgid "うさぎ"
+msgstr "Thỏ"
+
+#. ID 1
+msgctxt "items.description"
+msgid "ウサギになります。"
+msgstr "Biến thành một con thỏ."
+
+#. ID 2
+msgctxt "items.name"
+msgid "ネイルハンマー"
+msgstr "Búa"
+
+#. ID 2
+msgctxt "items.description"
+msgid "ネイルハンマーを持ちます。"
+msgstr "Cầm một cây búa đóng đinh."
+
+#. ID 3
+msgctxt "items.name"
+msgid "ケーキ"
+msgstr "Bánh ngọt"
+
+#. ID 3
+msgctxt "items.description"
+msgid "ケーキになります。"
+msgstr "Biến thành một lát bánh."
+
+#. ID 4
+msgctxt "items.name"
+msgid "コートとマフラー"
+msgstr "Áo khoác & Khăn cổ"
+
+#. ID 4
+msgctxt "items.description"
+msgid "コートとマフラーを着けます。"
+msgstr "Mang áo khoác và khăn choàng cổ."
+
+#. ID 5
+msgctxt "items.name"
+msgid "ステンドグラス"
+msgstr "Kính màu"
+
+#. ID 5
+msgctxt "items.description"
+msgid "ステンドグラスになります。"
+msgstr "Biến thành một tác phẩm kính màu."
+
+#. ID 7
+msgctxt "items.name"
+msgid "まほうつかい"
+msgstr "Phù thủy"
+
+#. ID 7
+msgctxt "items.description"
+msgid "魔法使いになります。"
+msgstr "Biến thành một phù thủy."
+
+#. ID 8
+msgctxt "items.name"
+msgid "アメフラシ"
+msgstr "Thỏ biển"
+
+#. ID 8
+msgctxt "items.description"
+msgid "アメフラシになります。"
+msgstr "Biến thành thỏ biển."
+
+#. ID 9
+msgctxt "items.name"
+msgid "ショートヘアー"
+msgstr "Tóc ngắn"
+
+#. ID 9
+msgctxt "items.description"
+msgid "ショートヘアーになります。"
+msgstr "Cắt ngắn mái tóc."
+
+#. ID 10
+msgctxt "items.name"
+msgid "くびなし"
+msgstr "Không đầu"
+
+#. ID 10
+msgctxt "items.description"
+msgid "首が無くなります。"
+msgstr "Biến thành người không đầu."
+
+#. ID 12
+msgctxt "items.name"
+msgid "ほうでんとう"
+msgstr "Đèn hồ quang"
+
+#. ID 12
+msgctxt "items.description"
+msgid "頭が放電灯になります。"
+msgstr "Biến đầu thành đèn hồ quang."
+
+#. ID 13
+msgctxt "items.name"
+msgid "アンドロイド"
+msgstr "Android"
+
+#. ID 13
+msgctxt "items.description"
+msgid "アンドロイドになります。"
+msgstr "Biến thành một android."
+
+#. ID 14
+msgctxt "items.name"
+msgid "たまご"
+msgstr "Trứng"
+
+#. ID 14
+msgctxt "items.description"
+msgid "卵になります。"
+msgstr "Biến thành một quả trứng."
+
+#. ID 15
+msgctxt "items.name"
+msgid "みこ"
+msgstr "Vu nữ"
+
+#. ID 15
+msgctxt "items.description"
+msgid "巫女さんになります。"
+msgstr "Biến thành một vu nữ."
+
+#. ID 16
+msgctxt "items.name"
+msgid "-くも"
+msgstr "- Nhện"
+
+#. ID 16
+msgctxt "items.description"
+msgid "蜘蛛になります。"
+msgstr "Biến thành một con nhện."
+
+#. ID 17
+msgctxt "items.name"
+msgid "しっけんけん"
+msgstr "Shikkenken"
+
+#. ID 17
+msgctxt "items.description"
+msgid "シッケンケンになります。"
+msgstr "Biến thành tuyết nữ một chân."
+
+#. ID 18
+msgctxt "items.name"
+msgid "バイオリン"
+msgstr "Violin"
+
+#. ID 18
+msgctxt "items.description"
+msgid "バイオリンを持ちます。"
+msgstr "Chơi đàn violin."
+
+#. ID 19
+msgctxt "items.name"
+msgid "-はとどけい"
+msgstr "- Đồng hồ cúc cu"
+
+#. ID 19
+msgctxt "items.description"
+msgid "頭が鳩時計になります。"
+msgstr "Biến đầu thành đồng hồ cúc cu."
+
+#. ID 20
+#. ID 60
+msgctxt "items.name"
+msgid "----"
+msgstr ""
+
+#. ID 21
+msgctxt "items.name"
+msgid "リボン"
+msgstr "Ruy băng"
+
+#. ID 21
+msgctxt "items.description"
+msgid "リボンを付けます。"
+msgstr "Buộc ruy băng lên tóc."
+
+#. ID 38
+msgctxt "items.name"
+msgid "■夢日記帳"
+msgstr "■ Nhật ký trong mơ"
+
+#. ID 38
+msgctxt "items.description"
+msgid "夢の中でセーブが出来る高級品です。(夢の中専用)"
+msgstr "Sản phẩm giúp bạn lưu trò chơi (chỉ) trong mơ."
+
+#. ID 40
+msgctxt "items.name"
+msgid "＝＝＝＝＝＝＝＝＝＝"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid " うさぎ"
+msgstr " Thỏ"
+
+#. ID 41
+msgctxt "items.description"
+msgid "ウサギになった夢の記憶です。"
+msgstr "Ký ức về một giấc mơ biến thành thỏ."
+
+#. ID 42
+msgctxt "items.name"
+msgid " ネイルハンマー"
+msgstr " Búa"
+
+#. ID 42
+msgctxt "items.description"
+msgid "ネイルハンマーを持った夢の記憶です。"
+msgstr "Ký ức về giấc mơ cầm búa."
+
+#. ID 43
+msgctxt "items.name"
+msgid " ケーキ"
+msgstr " Bánh ngọt"
+
+#. ID 43
+msgctxt "items.description"
+msgid "自分がケーキになった夢の記憶です。"
+msgstr "Ký ức về giấc mơ biến thành bánh ngọt."
+
+#. ID 44
+msgctxt "items.name"
+msgid " コートとマフラー"
+msgstr " Áo khoác & Khăn cổ"
+
+#. ID 44
+msgctxt "items.description"
+msgid "コートとマフラーを着けていた夢の記憶です。"
+msgstr "Ký ức về giấc mơ mang áo khoác và khăn cổ."
+
+#. ID 45
+msgctxt "items.name"
+msgid " ステンドグラス"
+msgstr " Kính màu"
+
+#. ID 45
+msgctxt "items.description"
+msgid "体がステンドグラスのようになった夢の記憶です。"
+msgstr "Ký ức về giấc mơ biến thành kính màu."
+
+#. ID 47
+msgctxt "items.name"
+msgid " まほうつかい"
+msgstr " Phù thủy"
+
+#. ID 47
+msgctxt "items.description"
+msgid "魔法使いになって箒で空を飛んだ夢の記憶です。"
+msgstr "Ký ức về giấc mơ trở thành phù thủy cùng chổi bay."
+
+#. ID 48
+msgctxt "items.name"
+msgid " アメフラシ"
+msgstr " Thỏ biển"
+
+#. ID 48
+msgctxt "items.description"
+msgid "アメフラシになった夢の記憶です。"
+msgstr "Ký ức về giấc mơ biến thành thỏ biển."
+
+#. ID 49
+msgctxt "items.name"
+msgid " ショートヘアー"
+msgstr " Tóc ngắn"
+
+#. ID 49
+msgctxt "items.description"
+msgid "髪型がショートになった夢の記憶です。"
+msgstr "Ký ức về giấc mơ về một mái tóc ngắn."
+
+#. ID 50
+msgctxt "items.name"
+msgid " くびなし"
+msgstr " Không đầu"
+
+#. ID 50
+msgctxt "items.description"
+msgid "首が無くなった夢の記憶です。"
+msgstr "Ký ức về giấc mơ bị mất đầu."
+
+#. ID 52
+msgctxt "items.name"
+msgid " ほうでんとう"
+msgstr " Đèn hồ quang"
+
+#. ID 52
+msgctxt "items.description"
+msgid "頭が放電灯になった夢の記憶です。"
+msgstr "Ký ức về giấc mơ biến thành đèn hồ quang."
+
+#. ID 53
+msgctxt "items.name"
+msgid " アンドロイド"
+msgstr " Android"
+
+#. ID 53
+msgctxt "items.description"
+msgid "アンドロイドになった夢の記憶です。"
+msgstr "Ký ức về giấc mơ trở thành android."
+
+#. ID 54
+msgctxt "items.name"
+msgid " たまご"
+msgstr " Trứng"
+
+#. ID 54
+msgctxt "items.description"
+msgid "卵の殻に閉じこもった夢の記憶です。"
+msgstr "Ký ức về giấc mơ bị giam trong một quả trứng."
+
+#. ID 55
+msgctxt "items.name"
+msgid " みこ"
+msgstr " Vu nữ"
+
+#. ID 55
+msgctxt "items.description"
+msgid "巫女装束を着ていた夢の記憶です。"
+msgstr "Ký ức về giấc mơ mặc trang phục vu nữ."
+
+#. ID 56
+msgctxt "items.name"
+msgid " -くも"
+msgstr " - Nhện"
+
+#. ID 56
+msgctxt "items.description"
+msgid "蜘蛛になった夢の記憶です。"
+msgstr "Ký ức về giấc mơ về nhện."
+
+#. ID 57
+msgctxt "items.name"
+msgid " しっけんけん"
+msgstr " Shikkenken"
+
+#. ID 57
+msgctxt "items.description"
+msgid "一本足の雪女になりきった夢の記憶です。"
+msgstr "Ký ức về giấc mơ biến thành tuyết nữ một chân."
+
+#. ID 58
+msgctxt "items.name"
+msgid " バイオリン"
+msgstr " Violin"
+
+#. ID 58
+msgctxt "items.description"
+msgid "バイオリンを演奏した夢の記憶です。"
+msgstr "Ký ức về giấc mơ chơi đàn violin."
+
+#. ID 59
+msgctxt "items.name"
+msgid " -はとどけい"
+msgstr " - Đồng hồ cúc cu"
+
+#. ID 59
+msgctxt "items.description"
+msgid "頭が鳩時計になった夢の記憶です。"
+msgstr ""
+
+#. ID 61
+msgctxt "items.name"
+msgid " リボン"
+msgstr " Ruy băng"
+
+#. ID 61
+msgctxt "items.description"
+msgid "リボンで髪を結んだ夢の記憶です。"
+msgstr "Ký ức về giấc mơ buộc ruy băng lên tóc."
+
+#. ID 79
+msgctxt "items.name"
+msgid "■ 夢日記帳"
+msgstr "■ Nhật ký trong mơ"
+
+#. ID 79
+msgctxt "items.description"
+msgid "夢の中で夢日記を書いていた夢の記憶です。"
+msgstr "Ký ức về giấc mơ viết nhật ký giấc mơ trong mơ."
+
+#. ID 80
+msgctxt "items.name"
+msgid "■ゲームの説明"
+msgstr "■ Hướng dẫn trò chơi"
+
+#. ID 80
+msgctxt "items.description"
+msgid "このゲームの遊び方を見ます。"
+msgstr "Xem hướng dẫn trò chơi."
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "敵"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "戦闘不能"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "¥"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Hiệu ứng"
+
+msgctxt "terms.command_skill"
+msgid "起きる"
+msgstr "Thức dậy"
+
+msgctxt "terms.menu_equipment"
+msgid "そうび"
+msgstr "Trang bị"
+
+msgctxt "terms.menu_quit"
+msgid "ゲーム終了"
+msgstr "Thoát"
+
+msgctxt "terms.new_game"
+msgid "はじめから"
+msgstr "Bắt đầu"
+
+msgctxt "terms.load_game"
+msgid "つづきから"
+msgstr "Tiếp tục"
+
+msgctxt "terms.exit_game"
+msgid "おしまい"
+msgstr "Thoát"
+
+msgctxt "terms.level"
+msgid "ｴﾌｪｸﾄ数"
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "EX"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "右手"
+msgstr "Tay phải"
+
+msgctxt "terms.shield"
+msgid "左手"
+msgstr "Tay trái"
+
+msgctxt "terms.armor"
+msgid "体"
+msgstr "Thân"
+
+msgctxt "terms.helmet"
+msgid "頭"
+msgstr "Đầu"
+
+msgctxt "terms.accessory"
+msgid "その他"
+msgstr "Khác"
+
+msgctxt "terms.save_game_message"
+msgid "セーブするファイルを選んでください。"
+msgstr "Chọn nơi bạn muốn lưu tệp."
+
+msgctxt "terms.load_game_message"
+msgid "ロードするファイルを選んでください。"
+msgstr "Chọn nơi bạn muốn mở tệp."
+
+msgctxt "terms.file"
+msgid "ファイル"
+msgstr "Tệp"
+
+msgctxt "terms.exit_game_message"
+msgid "ゲームを終了しますか？"
+msgstr "Bạn có chắc muốn thoát trò chơi?"
+
+msgctxt "terms.yes"
+msgid "する"
+msgstr "Có"
+
+msgctxt "terms.no"
+msgid "ちがう"
+msgstr "Không"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

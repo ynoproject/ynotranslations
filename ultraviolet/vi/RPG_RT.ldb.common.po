@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 111, Line 23
+#. ID 111, Line 73
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 138, Line 2
+#. Choice (4 options)
+msgid ""
+"\\>移動速度変更\n"
+"\\>場所移動\n"
+"\\>エフェクト関連\n"
+"\\>その他のメニュー"
+msgstr ""
+"\\>Thay đổi tốc độ\n"
+"\\>Thay đổi địa điểm\n"
+"\\>Về hiệu ứng\n"
+"\\>Khác"
+
+#. ID 138, Line 4
+#. Choice (4 options)
+msgid ""
+"\\>ふつう\n"
+"\\>はやい\n"
+"\\>はやいはやい\n"
+"\\>おお、はやいはやい"
+msgstr ""
+"\\>Chậm\n"
+"\\>Nhanh\n"
+"\\>Siêu nhanh\n"
+"\\>Úi, siêu cực kỳ nhanh"
+
+#. ID 138, Line 24
+#. Choice (2 options)
+msgid ""
+"\\>扉部屋\n"
+"\\>デバッグルーム"
+msgstr ""
+"\\>Nexus\n"
+"\\>Phòng gỡ lỗi"
+
+#. ID 138, Line 45
+#. Choice (3 options)
+msgid ""
+"\\>エフェクト全入手\n"
+"\\>エフェクト全破棄\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Nhận tất cả hiệu ứng\n"
+"\\>Loại bỏ tất cả hiệu ứng\n"
+"\\>Hủy"
+
+#. ID 138, Line 133
+msgid "\\>エフェクトを全て入手しました。"
+msgstr "\\>Đã nhận tất cả hiệu ứng."
+
+#. ID 138, Line 156
+msgid "\\>エフェクトを全て破棄しました。"
+msgstr "\\>Đã loại bỏ tất cả hiệu ứng."
+
+#. ID 138, Line 168
+#. Choice (4 options)
+msgid ""
+"\\>10000円追加\n"
+"\\>夢日記帳追加\n"
+"\\>デバッグスイッチ切り替え\n"
+"\\>デバッグ用メニュー消滅"
+msgstr ""
+"\\>Nhận 10000¥\n"
+"\\>Nhận Nhật ký trong mơ\n"
+"\\>Bật/Tắt Công tắc Gỡ lỗi\n"
+"\\>Loại bỏ menu gỡ lỗi"
+
+#. ID 138, Line 174
+#. Choice (2 options)
+msgid ""
+"\\>追加\n"
+"\\>破棄"
+msgstr ""
+"\\>Nhận\n"
+"\\>Loại bỏ"
+
+#. ID 138, Line 194
+#. Contains choice at line 2 (2 options)
+msgid "\\>デバッグ用スイッチ"
+msgstr "\\>Bật/tắt chế độ gỡ lỗi"
+
+#. ID 138, Line 195
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>スイッチON\n"
+"\\>デバッグOFF"
+msgstr ""
+"\\>Bật\n"
+"\\>Tắt"
+
+#. ID 138, Line 209
+#. Contains choice at line 2 (2 options)
+msgid "\\>消去してよろしいですか？"
+msgstr "\\>Bạn có chắc muốn loại bỏ?"
+
+#. ID 138, Line 210
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Có\n"
+"\\>Không"
