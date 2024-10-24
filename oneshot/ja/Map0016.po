@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 7, Page 2, Line 9, Pos (24,23)
+#. ID 7, Page 3, Line 3, Pos (24,23)
+msgid "Ah!"
+msgstr "ああ!"
+
+#. ID 7, Page 4, Line 3, Pos (24,23)
+msgid "That lightbulb...! You're here!"
+msgstr "その電球は…!いらしたのですね!"
+
+#. ID 7, Page 4, Line 5, Pos (24,23)
+msgid "H-hello?"
+msgstr "こ…こんにちは？"
+
+#. ID 7, Page 4, Line 7, Pos (24,23)
+msgid ""
+"Welcome to our world, little one.\\!\n"
+"I am most humbled by your presence."
+msgstr ""
+"ワタクシたちの世界へようこそ。\\!\n"
+"アナタサマにお会いできて、\n"
+"大変光栄でございます。"
+
+#. ID 7, Page 4, Line 10, Pos (24,23)
+msgid "Uh, thanks..."
+msgstr "えっと、ありがとう…"
+
+#. ID 7, Page 4, Line 11, Pos (24,23)
+#. ID 7, Page 4, Line 14, Pos (24,23)
+msgid ".\\..\\.."
+msgstr ""
+
+#. ID 7, Page 4, Line 16, Pos (24,23)
+msgid "I'm a little lost."
+msgstr "迷子なんだ。"
+
+#. ID 7, Page 4, Line 18, Pos (24,23)
+msgid "Ah right! I will explain."
+msgstr ""
+"なるほど!では、\n"
+"説明しましょう。"
+
+#. ID 7, Page 4, Line 19, Pos (24,23)
+msgid "May I first ask how you arrived here?"
+msgstr ""
+"まず、どうやってここへ来られたのか\n"
+"お聞きしても?"
+
+#. ID 7, Page 4, Line 21, Pos (24,23)
+msgid "I'm not really sure..."
+msgstr "よく…分からない…"
+
+#. ID 7, Page 4, Line 23, Pos (24,23)
+msgid "I woke up in an unusual house, and-\\.\\^"
+msgstr "変な家で目が覚めて、それで――\\.\\^"
+
+#. ID 7, Page 4, Line 25, Pos (24,23)
+msgid "I see! Just as my prophecy foretold!"
+msgstr "なるほど! ワタクシの預言通りです!"
+
+#. ID 7, Page 4, Line 26, Pos (24,23)
+msgid ""
+"You're the savior we've been waiting\n"
+"for."
+msgstr ""
+"アナタサマこそが、ワタクシたちが\n"
+"待ち望んでいた救世主でございます。"
+
+#. ID 7, Page 4, Line 28, Pos (24,23)
+msgid ""
+"You'll be the one to save our world\n"
+"from eternal darkness."
+msgstr ""
+"アナタサマが、この世界を永遠の暗闇\n"
+"からお救いになられるのです。"
+
+#. ID 7, Page 4, Line 34, Pos (24,23)
+msgid "...um."
+msgstr "…えっと。"
+
+#. ID 7, Page 4, Line 36, Pos (24,23)
+msgid "Ask me anything you'd like."
+msgstr "何でもお聞きください。"
+
+#. ID 7, Page 4, Line 40, Pos (24,23)
+#. Choice (4 options)
+msgid ""
+"the world\n"
+"the lightbulb\n"
+"the computer\n"
+"going home"
+msgstr ""
+"この世界について\n"
+"電球について\n"
+"あのコンピューターについて\n"
+"家に帰る方法について"
+
+#. ID 7, Page 4, Line 43, Pos (24,23)
+msgid "Tell me about this world."
+msgstr "この世界について教えて欲しいな。"
+
+#. ID 7, Page 4, Line 45, Pos (24,23)
+msgid ""
+"Our world wasn't always this dim.\\!\n"
+"Nor was it so empty."
+msgstr ""
+"ワタクシたちの世界は、いつもこれほど\n"
+"暗かったわけではございません。\\!\n"
+"これほど空っぽだったわけでも\n"
+"ございません。"
+
+#. ID 7, Page 4, Line 47, Pos (24,23)
+msgid ""
+"But time waits for nobody, not even\n"
+"saviors."
+msgstr ""
+"しかし時間は待ってくれません、\n"
+"たとえ救世主であっても。"
+
+#. ID 7, Page 4, Line 49, Pos (24,23)
+msgid ""
+"The world is divided into three\n"
+"regions.\\!\n"
+"You're on the fringe right now,\n"
+"the Barrens."
+msgstr ""
+"この世界は、3つの地域に分かれて\n"
+"おります。\\!\n"
+"今、アナタサマはその外れ…\n"
+"『不毛の地』という場所におられます。"
+
+#. ID 7, Page 4, Line 53, Pos (24,23)
+msgid ""
+"That spire you see in the distance\n"
+"once held our sun."
+msgstr ""
+"遠くに見えるあの塔には、\n"
+"かつて太陽が置かれておりました。"
+
+#. ID 7, Page 4, Line 55, Pos (24,23)
+msgid ""
+"As you go further towards the center,\n"
+"you will cross the other regions."
+msgstr ""
+"中心に近づくにつれて、\n"
+"他の地域を横断することになります。"
+
+#. ID 7, Page 4, Line 57, Pos (24,23)
+msgid ""
+"There should be a map still\n"
+"in this outpost somewhere..."
+msgstr ""
+"この前哨基地のどこかに、\n"
+"地図がまだあるはずです…"
+
+#. ID 7, Page 4, Line 62, Pos (24,23)
+msgid "What is this lightbulb for?"
+msgstr "この電球は何に使うの？"
+
+#. ID 7, Page 4, Line 64, Pos (24,23)
+msgid "Within your hands is our new sun."
+msgstr ""
+"アナタサマが手に持っておられるのが、\n"
+"ワタクシたちの新しい太陽でございます。"
+
+#. ID 7, Page 4, Line 65, Pos (24,23)
+msgid ""
+"Many years ago, our sun sat atop\n"
+"that spire and spilled its life into\n"
+"the land."
+msgstr ""
+"何年も前、\n"
+"塔の頂上に鎮座していた太陽は、\n"
+"その生命を、大地に注いで\n"
+"くれていました。"
+
+#. ID 7, Page 4, Line 68, Pos (24,23)
+msgid "But one day, it ran dry."
+msgstr "しかしある日、枯れてしまったのです。"
+
+#. ID 7, Page 4, Line 69, Pos (24,23)
+msgid ""
+"The surface of this world is\n"
+"abundant with phosphor, an\n"
+"element that stores light."
+msgstr ""
+"この世界の地表には、\n"
+"光を蓄える物質である蛍光体が\n"
+"豊富に存在しております。"
+
+#. ID 7, Page 4, Line 72, Pos (24,23)
+msgid ""
+"It's provided us some illumination,\n"
+"but its energy is finite."
+msgstr ""
+"それがワタクシたちを\n"
+"照らしてくれています。\n"
+"しかしそのエネルギーには\n"
+"限りがあるのです。"
+
+#. ID 7, Page 4, Line 74, Pos (24,23)
+msgid ""
+"When the last of the light\n"
+"fades, the world will...\\| die."
+msgstr ""
+"最後の光が消えると、\n"
+"世界も…\\|消滅します。"
+
+#. ID 7, Page 4, Line 81, Pos (24,23)
+msgid ""
+"Look to \\n[2] \n"
+"for guidance."
+msgstr "\\n[2]に導きをお求めください。"
+
+#. ID 7, Page 4, Line 87, Pos (24,23)
+msgid ""
+"In the house, I found a computer\n"
+"which said something about\n"
+"someone named \\n[2]."
+msgstr ""
+"家の中で、\\n[2]って\n"
+"名前の誰かについて書いてある\n"
+"コンピューターを見つけたんだ。"
+
+#. ID 7, Page 4, Line 91, Pos (24,23)
+msgid ""
+"Ah, our god.\\!\n"
+"Have you contacted them yet?"
+msgstr ""
+"ああ、ワタクシたちの神様でございます。\\!\n"
+"アナタサマはもう接触しておられますか?"
+
+#. ID 7, Page 4, Line 94, Pos (24,23)
+msgid "...\\|\\^"
+msgstr "…\\|\\^"
+
+#. ID 7, Page 4, Line 97, Pos (24,23)
+msgid "\\>...\\<huh?"
+msgstr "\\>…\\<え？"
+
+#. ID 7, Page 4, Line 99, Pos (24,23)
+msgid ""
+"The traditional name of our\n"
+"god is \\n[2].\\!\n"
+"I'm not sure of the origin\n"
+"of this name."
+msgstr ""
+"ワタクシたちの神様の伝統的な名前が\n"
+"\\n[2]でございます。\\!\n"
+"この名前の由来はよくわかりません。"
+
+#. ID 7, Page 4, Line 103, Pos (24,23)
+msgid ""
+"Being the bringer of our sun,\n"
+"you have the ability to\n"
+"communicate with them.\\!\n"
+"How I envy you!"
+msgstr ""
+"太陽をもたらす者として、アナタサマは\n"
+"神様と対話できるチカラを\n"
+"持っておられます。\\!\n"
+"羨ましいです!"
+
+#. ID 7, Page 4, Line 107, Pos (24,23)
+msgid "Close your eyes and try it!"
+msgstr "目を閉じて、試してみてください!"
+
+#. ID 7, Page 4, Line 109, Pos (24,23)
+msgid "Well..."
+msgstr "そうだね…"
+
+#. ID 7, Page 4, Line 115, Pos (24,23)
+msgid ""
+"Hello?\\!\n"
+"\\n[2]?\\!\n"
+"Is that your name?"
+msgstr ""
+"こんばんは？\\!\n"
+"\\n[2]？\\!\n"
+"それが君の名前？"
+
+#. ID 7, Page 4, Line 120, Pos (24,23)
+#. Choice (2 options)
+#. ID 7, Page 4, Line 175, Pos (24,23)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 7, Page 4, Line 125, Pos (24,23)
+msgid "Wow!"
+msgstr "わあ!"
+
+#. ID 7, Page 4, Line 131, Pos (24,23)
+msgid "Well.\\..\\..\\| what is your name, then?"
+msgstr "それじゃあ.\\..\\..\\|　君の名前は？"
+
+#. ID 7, Page 4, Line 143, Pos (24,23)
+msgid ""
+"I actually heard someone!\\!\n"
+"This is incredible..."
+msgstr ""
+"本当に聞こえた!\\!\n"
+"すごい…"
+
+#. ID 7, Page 4, Line 146, Pos (24,23)
+msgid ""
+"Always look to them for guidance.\\!\n"
+"You've already recieved more\n"
+"than you realize..."
+msgstr ""
+"いかなる時も、神様に導きを\n"
+"お求めください。\\!\n"
+"気づかれていないだけで、アナタサマは\n"
+"すでに多くの導きを授かっておられます…"
+
+#. ID 7, Page 4, Line 154, Pos (24,23)
+msgid ""
+"I don't mean to be rude, but I..\n"
+"I'm not sure about this."
+msgstr ""
+"こんなこと言いたくないんだけど、でも…\n"
+"ちょっと自信ないかも。"
+
+#. ID 7, Page 4, Line 157, Pos (24,23)
+msgid ""
+"I still don't know where I am,\n"
+"or who you are...\\| or how I got here."
+msgstr ""
+"どこにいるのかも、君が誰なのかも…\\|\n"
+"どうやってここに来たのかも\n"
+"まだわかってないし。"
+
+#. ID 7, Page 4, Line 160, Pos (24,23)
+msgid ""
+"This is too much.\\!\n"
+"I just want to go home."
+msgstr ""
+"ひどすぎるよ。\\!\n"
+"ミーは早く家に帰りたいだけなんだ。"
+
+#. ID 7, Page 4, Line 163, Pos (24,23)
+#. ID 7, Page 4, Line 168, Pos (24,23)
+msgid "..."
+msgstr "…"
+
+#. ID 7, Page 4, Line 164, Pos (24,23)
+msgid ""
+"Your mission is to save our world.\\!\n"
+"I am unable to offer you help \n"
+"beyond that."
+msgstr ""
+"アナタサマの使命は、この世界を\n"
+"救うこと。\\!\n"
+"それ以上のことは何もお手伝い\n"
+"できません。"
+
+#. ID 7, Page 4, Line 173, Pos (24,23)
+#. Contains choice at line 2 (2 options)
+msgid "Is that all?"
+msgstr "これで大丈夫でしょうか?"
+
+#. ID 7, Page 4, Line 185, Pos (24,23)
+msgid "Surely you have more questions!"
+msgstr "まだ他にも質問があるはずです!"
+
+#. ID 7, Page 4, Line 194, Pos (24,23)
+#. ID 7, Page 5, Line 2, Pos (24,23)
+msgid "I wish you luck."
+msgstr "幸運を祈っております。"

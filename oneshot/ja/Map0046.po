@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 21, Page 1, Line 5, Pos (20,52)
+msgid ""
+"Hey,\n"
+"\\n[2]?"
+msgstr ""
+"ねえ、\n"
+"\\n[2]？"
+
+#. ID 21, Page 1, Line 7, Pos (20,52)
+msgid ""
+"There were a lot of names\n"
+"on that scroll back there...\\!\n"
+"I wonder who all those people\n"
+"were?"
+msgstr ""
+"たくさんの名前が巻物に書かれてたんだ…\\!\n"
+"あの人たちは誰だったんだろう？"
+
+#. ID 21, Page 1, Line 12, Pos (20,52)
+msgid "It looked really old..."
+msgstr "とっても古そうだった…"

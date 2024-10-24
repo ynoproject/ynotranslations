@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 2, Page 1, Line 2, Pos (34,20)
+msgid ""
+"Ah, there might be something useful in \n"
+"this box."
+msgstr ""
+"あ、何か役立ちそうなものが\n"
+"入ってそうな箱。"
+
+#. ID 2, Page 1, Line 4, Pos (34,20)
+msgid "..."
+msgstr "…"
+
+#. ID 2, Page 1, Line 5, Pos (34,20)
+msgid "I wish I had something to pry it open..."
+msgstr "何かこじ開けるものがあればなあ…"
+
+#. ID 2, Page 2, Line 3, Pos (34,20)
+msgid "This bar should open it."
+msgstr "これなら…"
+
+#. ID 2, Page 2, Line 8, Pos (34,20)
+msgid ""
+"There's a broken portable\n"
+"battery inside.\\!\n"
+"It's still rather on the large\n"
+"side."
+msgstr ""
+"壊れたポータブルバッテリーが入ってる。\\!\n"
+"けっこう大きいよ。"
+
+#. ID 2, Page 3, Line 2, Pos (34,20)
+msgid ""
+"It doesn't fit in the cracks\n"
+"enough to pry it open.\\!\n"
+"Maybe I could flatten it\n"
+"somehow..."
+msgstr ""
+"割れ目に入らなくてこじ開けられない。\\!\n"
+"どうにかして、平たくできるかな…"
+
+#. ID 2, Page 4, Line 2, Pos (34,20)
+msgid ""
+"The screwdriver's not nearly\n"
+"big enough to pry it open."
+msgstr "ドライバーが小さすぎてこじ開けられない。"
+
+#. ID 2, Page 5, Line 2, Pos (34,20)
+msgid "It's empty."
+msgstr "もう空っぽ。"
+
+#. ID 6, Page 1, Line 2, Pos (48,19)
+msgid ""
+"Need extra cash?\n"
+"Start working at the cliffs today!\\!\n"
+"Five positions available.\n"
+"First come, first serve."
+msgstr ""
+"臨時収入が必要？\n"
+"今すぐ崖で働こう！\\!\n"
+"5つの職種が募集を開始。\n"
+"早い者勝ち！"
+
+#. ID 7, Page 1, Line 2, Pos (40,31)
+msgid ""
+"I remember being taught in school\n"
+"about how the waters surrounding\n"
+"the forest stretched until the boundries\n"
+"of space."
+msgstr ""
+"森を囲む海が、\n"
+"宇宙との境界にまで伸びていた。\n"
+"そんなふうに学校で\n"
+"教わったことを覚えてる。"
+
+#. ID 7, Page 1, Line 7, Pos (40,31)
+msgid ""
+"Of course, now they say it's the barrens.\\!\n"
+"But I still wonder...\\!\n"
+"What's beyond the void of the sheer cliffs?\\!\n"
+"Is there a whole undiscovered world below us?"
+msgstr ""
+"もちろん、今は不毛の地って呼ばれてる。\\!\n"
+"でも、まだ不思議…\\!\n"
+"切り立った崖の先には何があるの？\\!\n"
+"私達は未知の世界の上に住んでいるの？"
+
+#. ID 7, Page 1, Line 12, Pos (40,31)
+msgid "I don't like thinking about it."
+msgstr "あまり考えたくない。"
+
+#. ID 9, Page 1, Line 2, Pos (35,19)
+msgid "SOLAR BATTERIES RESTOCKED"
+msgstr "太陽光バッテリー再入荷"
+
+#. ID 10, Page 1, Line 2, Pos (37,19)
+msgid ""
+"Natural Resources of The Barrens\n"
+"[harvesting locations]"
+msgstr ""
+"不毛の地の天然資源\n"
+"[採取場所]"
+
+#. ID 10, Page 1, Line 5, Pos (37,19)
+msgid ""
+"-Blue Phosphor\n"
+"   -Mineral (Ubiquitous)\n"
+"   -Organic/Biophosphor (Southeast)\n"
+"-Biophosphor sap (Southeast, uncommon)"
+msgstr ""
+"-青色蛍光体\n"
+"   -鉱物 (普遍的)\n"
+"   -有機/生物蛍光体 (南東)\n"
+"-生物蛍光体液 (南東、希少)"
+
+#. ID 10, Page 1, Line 10, Pos (37,19)
+msgid ""
+"-Blue limestone (Ubiquitous)\n"
+"-Bauxite (North)\n"
+"-Iron ore (North)\n"
+"-Shale rock (North)"
+msgstr ""
+"-青色石灰岩 (普遍的)\n"
+"-ボーキサイト (北)\n"
+"-鉄鉱石 (北)\n"
+"-頁岩 (北)"
+
+#. ID 10, Page 1, Line 15, Pos (37,19)
+msgid ""
+"-Arobigo Gas (Northwest)\n"
+"-"
+msgstr ""
+"-アロビゴガス (北西)\n"
+"-"
+
+#. ID 10, Page 1, Line 18, Pos (37,19)
+msgid ""
+"...\n"
+"\n"
+"(the list goes on.)"
+msgstr ""
+"…\n"
+"\n"
+"(リストは続いている)"
+
+#. ID 11, Page 1, Line 2, Pos (19,19)
+msgid ""
+"1. A robot may not injure a human being \n"
+"or, through inaction, allow a human being \n"
+"to come to harm."
+msgstr ""
+"1. ロボットは人間に危害を加えてはならない。\n"
+"また、人間に対する危害を看過してはならない。"
+
+#. ID 11, Page 1, Line 6, Pos (19,19)
+msgid ""
+"2. A robot must obey the orders given to\n"
+"it by human beings, except where such\n"
+"orders would conflict with the First Law."
+msgstr ""
+"2. ロボットは人間の命令に従わなければならない。\n"
+"ただし、その命令が第一条に反する場合を除く。"
+
+#. ID 11, Page 1, Line 10, Pos (19,19)
+msgid ""
+"3. A robot must protect its own existence\n"
+"as long as such protection does not\n"
+"conflict with the First or Second Law."
+msgstr ""
+"3. ロボットは、第一条または第二条に反するおそれ\n"
+"のない限り、その存在を守らなければならない。"
+
+#. ID 12, Page 1, Line 2, Pos (23,31)
+msgid ""
+"Recipe for a simple cleaning solvent\n"
+"*Note: wear hand protection"
+msgstr ""
+"簡単な洗浄溶剤の重要性のレシピ\n"
+"※注:手の保護具を着用すること"
+
+#. ID 12, Page 1, Line 5, Pos (23,31)
+msgid ""
+"Reagents:\n"
+"-Arobigo gas\n"
+"-An emulsifier (any viscous liquid)"
+msgstr ""
+"試薬:\n"
+"-アロビゴガス\n"
+"-乳化剤(あらゆる粘性の液体)"
+
+#. ID 12, Page 1, Line 9, Pos (23,31)
+msgid ""
+"Steps:\n"
+"1) Place arobigo gas in a sealed container\n"
+"2) Without breaking the seal, inject emulsifier\n"
+"into container; shake vigorously."
+msgstr ""
+"手順:\n"
+"1)アロビゴガスを\n"
+"密封された容器に入れる。\n"
+"2)開封せずに、乳化剤を容器に\n"
+"注入し、激しく振る。"
+
+#. ID 12, Page 1, Line 14, Pos (23,31)
+msgid ""
+"3) Use as soon as possible. \n"
+"If elements begin to seperate, further shaking \n"
+"is required."
+msgstr ""
+"3)できるだけ速やかに使用すること。\n"
+"物質が分離し始めた場合、さらに振る\n"
+"必要がある。"
+
+#. ID 14, Page 1, Line 2, Pos (35,23)
+msgid "A...screwdriver?"
+msgstr "これは…ドライバー？"
+
+#. ID 15, Page 1, Line 2, Pos (22,24)
+#. ID 16, Page 1, Line 2, Pos (46,20)
+msgid ""
+"There's a lot of tiny shrimp swimming\n"
+"in this jar."
+msgstr ""
+"ビンの中に、ちっちゃなエビが\n"
+"たくさん泳いでる。"

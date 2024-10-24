@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 1, Page 1, Line 3, Pos (19,18)
+msgid "So this is where the sun belongs..."
+msgstr "ここが、太陽のあるべき場所…"
+
+#. ID 1, Page 1, Line 5, Pos (19,18)
+msgid ""
+"The journal said that the only\n"
+"way for me to go home was\n"
+"to shatter the lightbulb here."
+msgstr ""
+"日記には、電球を砕くのがミーが\n"
+"帰還する唯一の方法って書いてあった。"
+
+#. ID 1, Page 1, Line 9, Pos (19,18)
+msgid ""
+"But then...\\.\\.\n"
+"everyone here will..."
+msgstr ""
+"でも、そうすると…\\.\\.\n"
+"ここのみんなは…"
+
+#. ID 1, Page 1, Line 12, Pos (19,18)
+msgid ""
+"I can't...\\.\\.\n"
+"decide..."
+msgstr ""
+"ミーは…\\.\\.\n"
+"決められないよ…"
+
+#. ID 1, Page 1, Line 14, Pos (19,18)
+msgid ""
+"\\n[2]?\n"
+"What should I do\\..\\..\\.?\n"
+"What's the right thing to do\\..\\..\\..?"
+msgstr ""
+"\\n[2]？\n"
+"ミーはどうしたらいいの\\..\\..\\.？\n"
+"どうするのが、正しいの\\..\\..\\..？"
+
+#. ID 1, Page 1, Line 19, Pos (19,18)
+#. Choice (2 options)
+msgid ""
+"Save the world\n"
+"Return home"
+msgstr ""
+"世界を救う\n"
+"元の世界に戻る"
+
+#. ID 1, Page 1, Line 26, Pos (19,18)
+msgid ""
+"Y-You're right...\\!\n"
+"I can't just leave everyone here\n"
+"to die."
+msgstr ""
+"そ、そうだよね…\\!\n"
+"みんなを見殺しにはできないもん。"
+
+#. ID 1, Page 1, Line 30, Pos (19,18)
+msgid ""
+"Thank you for your help,\n"
+"\\n[2].\\!\n"
+"I promise I'll be okay."
+msgstr ""
+"今までありがとう、\n"
+"\\n[2]。\\!\n"
+"きっとミーは大丈夫だよ。"
+
+#. ID 1, Page 1, Line 176, Pos (19,18)
+msgid ""
+"I...\\| trust your judgement,\n"
+"\\n[2].\\|\\^"
+msgstr ""
+"ミーは…\\|　\\n[2]の言うことを、\n"
+"信じるよ。\\|\\^"
+
+#. ID 3, Page 2, Line 2, Pos (19,13)
+#. ID 4, Page 2, Line 2, Pos (20,13)
+msgid "No going back now..."
+msgstr "もう後戻りはできない…"
+
+#. ID 5, Page 1, Line 2, Pos (21,13)
+msgid ""
+"The world below looks\n"
+"so small..."
+msgstr "下界がすごく小さく見える…"

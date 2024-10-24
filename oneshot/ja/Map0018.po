@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 6, Page 1, Line 2, Pos (30,47)
+#. ID 6, Page 2, Line 2, Pos (30,47)
+msgid "Um... hello?"
+msgstr "あの…こんばんは？"
+
+#. ID 6, Page 1, Line 6, Pos (30,47)
+#. ID 6, Page 2, Line 6, Pos (30,47)
+#. ID 6, Page 2, Line 21, Pos (30,47)
+#. ID 6, Page 2, Line 24, Pos (30,47)
+#. ID 6, Page 5, Line 19, Pos (30,47)
+#. ID 6, Page 5, Line 21, Pos (30,47)
+msgid "..."
+msgstr "…"
+
+#. ID 6, Page 2, Line 8, Pos (30,47)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\n[2],\n"
+"are you there?"
+msgstr ""
+"\\n[2]、\n"
+"いる？"
+
+#. ID 6, Page 2, Line 12, Pos (30,47)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 6, Page 2, Line 16, Pos (30,47)
+msgid "Oh, good!"
+msgstr "良かった!"
+
+#. ID 6, Page 2, Line 26, Pos (30,47)
+msgid ""
+"Well...\\| You've certainly\n"
+"got a sense of humor."
+msgstr "うん…\\|冗談がうまいね。"
+
+#. ID 6, Page 2, Line 31, Pos (30,47)
+msgid ""
+"Can you see this robot?\\!\n"
+"It's attached to the boat."
+msgstr ""
+"ロボットが見える？\\!\n"
+"船とくっついてるんだ。"
+
+#. ID 6, Page 2, Line 34, Pos (30,47)
+msgid ""
+"It doesn't seem to have power...\\!\n"
+"There's a large hole in its\n"
+"chest, like it's missing a piece."
+msgstr ""
+"動力がないみたい…\\!\n"
+"胸におっきな穴が開いてて、\n"
+"部品が欠けてるみたい。"
+
+#. ID 6, Page 2, Line 37, Pos (30,47)
+msgid ""
+"Its joints are rusted over as\n"
+"well.\\!\n"
+"I still think we'll be able to\n"
+"fix it."
+msgstr ""
+"関節部分も錆びついてる。\\!\n"
+"でもたぶん、修理できると思う。"
+
+#. ID 6, Page 2, Line 41, Pos (30,47)
+msgid ""
+"The boat's pointed towards the spire.\\!\n"
+"What do you think?"
+msgstr ""
+"ボートが塔の方を向いてるよ。\\!\n"
+"どう思う？"
+
+#. ID 6, Page 4, Line 2, Pos (30,47)
+#. ID 6, Page 5, Line 3, Pos (30,47)
+msgid ""
+"The battery seems to fit the\n"
+"hole perfectly."
+msgstr "バッテリーは穴にぴったり合うみたい。"
+
+#. ID 6, Page 4, Line 5, Pos (30,47)
+msgid ""
+"It won't do any good right\n"
+"now though."
+msgstr "今は何も役に立たないけどね。"
+
+#. ID 6, Page 4, Line 8, Pos (30,47)
+msgid "But we're on the right track!"
+msgstr "でも、ちゃんと先に進んでるよ!"
+
+#. ID 6, Page 5, Line 10, Pos (30,47)
+msgid ""
+"I AM FUNCTIONAL!\\!\n"
+"YOU!\\!\n"
+"THANK YOU."
+msgstr ""
+"機能ガ正常になりましタ!\\!\n"
+"あなタですネ!\\!\n"
+"感謝しまス。"
+
+#. ID 6, Page 5, Line 13, Pos (30,47)
+msgid ""
+"HELLO. NICE TO MEET YOU.\\!\n"
+"I AM ROWBOT #310.\\!\n"
+"WOULD YOU LIKE ME TO TAKE\n"
+"YOU SOMEWHERE?"
+msgstr ""
+"どうモ。初めましテ。\\!\n"
+"ワタシハ、漕ぎボット#310でス。\\!\n"
+"どこカ行きたいところハありますカ?"
+
+#. ID 6, Page 5, Line 23, Pos (30,47)
+msgid "A-are you okay?"
+msgstr "だ、大丈夫？"
+
+#. ID 6, Page 5, Line 26, Pos (30,47)
+#. ID 6, Page 6, Line 2, Pos (30,47)
+msgid "I CANNOT MOVE."
+msgstr "動けませン。"
+
+#. ID 6, Page 5, Line 28, Pos (30,47)
+#. ID 6, Page 6, Line 4, Pos (30,47)
+msgid "Well, you're still really rusty..."
+msgstr "まあ、まだかなり錆びついてるから…"
+
+#. ID 6, Page 7, Line 2, Pos (30,47)
+msgid ""
+"I need something I can\n"
+"use to scrub the acid on\n"
+"the robot."
+msgstr ""
+"酸をゴシゴシするのに使えるものが\n"
+"欲しいね。"
+
+#. ID 6, Page 8, Line 2, Pos (30,47)
+msgid ""
+"A sponge alone isn't\n"
+"going to remove all this\n"
+"rust."
+msgstr "スポンジだけだと錆が全部落ちない。"
+
+#. ID 6, Page 9, Line 6, Pos (30,47)
+msgid "Hold still..."
+msgstr "じっとしてて…"
+
+#. ID 6, Page 9, Line 8, Pos (30,47)
+msgid "AS IF I HAD A CHOICE."
+msgstr "他ニ選択肢があるかのようナ。"
+
+#. ID 6, Page 9, Line 11, Pos (30,47)
+msgid ""
+"I FEEL BETTER ALREADY!\\!\n"
+"...I CAN MOVE!"
+msgstr ""
+"良くなりましタ!\\!\n"
+"…動くことガ可能ニなりましタ!"
+
+#. ID 6, Page 9, Line 13, Pos (30,47)
+msgid ""
+"I AM ABLE TO FOLLOW MY\n"
+"PROGRAMMING AGAIN."
+msgstr ""
+"これデまた、プログラムニ従う\n"
+"ことガできまス。"
+
+#. ID 6, Page 9, Line 16, Pos (30,47)
+msgid ""
+"WHERE WOULD YOU LIKE\n"
+"TO GO?"
+msgstr "どこニ行きたいですカ？"
+
+#. ID 6, Page 9, Line 19, Pos (30,47)
+msgid "I'm headed towards the spire."
+msgstr "塔に向かってるんだ。"
+
+#. ID 6, Page 9, Line 21, Pos (30,47)
+msgid ""
+"CLOSEST DESTINATION TO\n"
+"THE SPIRE IS.\\..\\..\\|\n"
+"THE GLEN-\\|\\^"
+msgstr ""
+"塔ニ最も近い目的地ハ.\\..\\..\\|\n"
+"峡谷-\\|\\^"
+
+#. ID 6, Page 9, Line 25, Pos (30,47)
+msgid ""
+"MY BUILT-IN NAVIGATION\n"
+"CIRCUITS HAVE FRIED."
+msgstr ""
+"内蔵ナビゲーション回路が\n"
+"ショートしましタ。"
+
+#. ID 6, Page 9, Line 28, Pos (30,47)
+msgid ""
+"Oh no...\\!\n"
+"What can I do?"
+msgstr ""
+"そんな…\\!\n"
+"何かミーにできる？"
+
+#. ID 6, Page 9, Line 31, Pos (30,47)
+#. ID 6, Page 10, Line 2, Pos (30,47)
+msgid ""
+"IN THE EVENT OF AN ERROR, YOU\n"
+"SHOULD SPEAK WITH THE HEAD\n"
+"ENGINEER."
+msgstr ""
+"エラーガ発生した場合ハ、\n"
+"主任技術者にご連絡くださイ。"
+
+#. ID 6, Page 9, Line 34, Pos (30,47)
+#. ID 6, Page 10, Line 5, Pos (30,47)
+msgid "SHE WILL KNOW WHAT TO DO."
+msgstr "彼女ナラ、対処方法を知っていまス。"
+
+#. ID 6, Page 9, Line 40, Pos (30,47)
+msgid ""
+"I'll burn my hands off\n"
+"if I don't have any protection!"
+msgstr "保護具がないと手が焼けちゃうよ!"
+
+#. ID 6, Page 11, Line 5, Pos (30,47)
+msgid ""
+"OH.\\!\n"
+"THIS COIN.\\..\\..\\|\n"
+"I..."
+msgstr ""
+"オオ。\\!\n"
+"このコインハ.\\..\\..\\|\n"
+"記憶ガ…"
+
+#. ID 6, Page 11, Line 8, Pos (30,47)
+msgid ""
+"I REMEMBER NOW!\\!\n"
+"SETTING COURSE.\\..\\..\\|\n"
+"TO THE GLEN WE GO!"
+msgstr ""
+"記憶ガ戻ってきましタ!\\!\n"
+"コースヲ設定中.\\..\\..\\|\n"
+"峡谷ヘ出発しましょウ!"
+
+#. ID 6, Page 11, Line 11, Pos (30,47)
+msgid ""
+"...ONE LAST THING.\\!\n"
+"THIS BOAT IS OVER-CAPACITY.\\!\n"
+"YOU'LL NEED TO LEAVE BEHIND SOME\n"
+"OF YOUR POSSESSIONS."
+msgstr ""
+"…最後ニもうひとツ。\\!\n"
+"この船ハ重量オーバーでス。\\!\n"
+"アナタノ所持品を、いくつか\n"
+"置いていく必要ガありまス。"
+
+#. ID 6, Page 11, Line 16, Pos (30,47)
+msgid "Oh."
+msgstr "そっか。"
+
+#. ID 6, Page 11, Line 18, Pos (30,47)
+msgid ""
+"Well...\\. I don't think I'll be needing\n"
+"most of this stuff anymore..."
+msgstr "じゃあ…\\.ほとんどいらないかな…"
+
+#. ID 6, Page 11, Line 28, Pos (30,47)
+msgid ""
+"THAT IS ACCEPTABLE.\\!\n"
+"ONWARD!"
+msgstr ""
+"許容範囲内でス。\\!\n"
+"出発しましょウ!"
+
+#. ID 6, Page 11, Line 54, Pos (30,47)
+msgid ""
+"\\n[2],\n"
+"I'm so tired I can't even\n"
+"see straight anymore."
+msgstr ""
+"\\n[2]、\n"
+"疲れすぎて、目がかすんできた。"
+
+#. ID 6, Page 11, Line 57, Pos (30,47)
+msgid ""
+"Please let me take a nap\n"
+"somewhere before we go..."
+msgstr "出発する前に、お昼寝してもいいかな…"
+
+#. ID 23, Page 1, Line 2, Pos (40,3)
+msgid "The horizon glows a faint green."
+msgstr "水平線がうっすら緑に光ってる。"

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 1, Page 1, Line 6, Pos (0,0)
+msgid ""
+"\\n[2]?\\!\n"
+".\\..\\..\\.What happened?\\!\n"
+"It's very dark in here..."
+msgstr ""
+"\\n[2]？\\!\n"
+".\\..\\..\\.何が起きたの？\\!\n"
+"すごく暗いよ…"
+
+#. ID 1, Page 1, Line 10, Pos (0,0)
+msgid ""
+"...\\.Oh!\n"
+"I can see a light at the\n"
+"end of this passage!"
+msgstr ""
+"…\\.あっ!\n"
+"通路の先に明かりが見えるよ!"
+
+#. ID 1, Page 1, Line 14, Pos (0,0)
+msgid "I think I hear a voice too.\\..\\..\\|\\^"
+msgstr "声も聞こえる気がする.\\..\\..\\|\\^"
+
+#. ID 1, Page 1, Line 16, Pos (0,0)
+msgid ""
+"Mama?\\!\n"
+"I can hear her calling me!"
+msgstr ""
+"ママ？\\!\n"
+"ママがミーを呼んでる!"
+
+#. ID 1, Page 1, Line 37, Pos (0,0)
+msgid ""
+"All I need to do is pass\n"
+"through this wall...\\!\n"
+"I'll finally be home again."
+msgstr ""
+"この壁を通り抜けたら…\\!\n"
+"やっと家に帰れるんだ。"
+
+#. ID 1, Page 1, Line 41, Pos (0,0)
+msgid "..."
+msgstr "…"
+
+#. ID 1, Page 1, Line 43, Pos (0,0)
+msgid ""
+"Ah, \\n[2],\n"
+"I guess..."
+msgstr ""
+"そっか、\\n[2]、\n"
+"ここで…"
+
+#. ID 1, Page 1, Line 46, Pos (0,0)
+msgid "I guess this is goodbye..."
+msgstr "ここで、お別れみたいだね…"
+
+#. ID 1, Page 1, Line 48, Pos (0,0)
+msgid "Thank you for everything."
+msgstr "今まで、ありがとう。"

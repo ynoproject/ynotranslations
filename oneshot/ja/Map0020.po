@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 2, Page 1, Line 2, Pos (50,27)
+msgid ""
+"There's something weird about\n"
+"the robots who get sent to work\n"
+"near the vents."
+msgstr ""
+"通気孔付近に派遣される\n"
+"ロボットには、何か\n"
+"おかしなところがある。"
+
+#. ID 2, Page 1, Line 6, Pos (50,27)
+msgid ""
+"They always look... less rusty and\n"
+"shinier than even the newest models.\\!\n"
+"Is that a result of the acid gas? Or am\n"
+"I just seeing things?"
+msgstr ""
+"彼らは最新のモデルよりも、錆びが\n"
+"少なく、輝いているようだ。\\!\n"
+"あれは酸性ガスの影響なのか？それとも、\n"
+"私は幻覚を見ているだけなのか？"
+
+#. ID 3, Page 1, Line 5, Pos (76,22)
+msgid ""
+"A metal safe.\\!\n"
+"Seems like it's locked with a 6-digit\n"
+"code."
+msgstr ""
+"鉄の金庫だ。\\!\n"
+"６桁のコードでロックされてるみたい。"
+
+#. ID 3, Page 1, Line 8, Pos (76,22)
+msgid ""
+"I don't think I've seen any codes\n"
+"anywhere.\\!\n"
+"Not since the remote, anyway."
+msgstr ""
+"そんなコード、どこにもなかったと思う。\\!\n"
+"ともかく、リモコン以来だね。"
+
+#. ID 3, Page 1, Line 18, Pos (76,22)
+msgid ""
+"I see you've made progress,\n"
+"\\n[2]."
+msgstr ""
+"うまく進んでいるようじゃないか、\n"
+"\\n[2]。"
+
+#. ID 3, Page 1, Line 20, Pos (76,22)
+msgid ""
+"But that stops here if\n"
+"you don't stop to consider\n"
+"this:"
+msgstr ""
+"だが、このことについて考えなければ、\n"
+"君はここで一度足踏みすることになる。"
+
+#. ID 3, Page 1, Line 23, Pos (76,22)
+msgid "This world is falling apart."
+msgstr "この世界は崩壊しつつある。"
+
+#. ID 3, Page 1, Line 24, Pos (76,22)
+msgid ""
+"It's possible the INFORMATION\n"
+"you seek is now in an entirely\n"
+"different plane of existence."
+msgstr ""
+"君が探し求める情報が、今は全く\n"
+"別の次元に存在する可能性すらある。"
+
+#. ID 3, Page 1, Line 65, Pos (76,22)
+#. ID 3, Page 2, Line 125, Pos (76,22)
+#. ID 3, Page 2, Line 155, Pos (76,22)
+msgid ""
+"Good.\\!\n"
+"Start looking."
+msgstr ""
+"よろしい。\\!\n"
+"それではすぐに探したまえ。"
+
+# Line used on YNOproject.
+#. ID 3, Page 1, Line 70, Pos (76,22)
+msgid ""
+"Information is contained within\n"
+"Community Screenshots.\n"
+"Where on your machine would\n"
+"you find Community Screenshots?"
+msgstr ""
+"情報はコミュニティの\n"
+"スクリーンショットの中にある。\n"
+"君の機械のどこにコミュニティの\n"
+"スクリーンショットがある？"
+
+# Line used on the offline version.
+#. ID 3, Page 1, Line 75, Pos (76,22)
+msgid ""
+"Information is contained within\n"
+"Documents.\n"
+"Where on your machine would\n"
+"you find Documents?"
+msgstr ""
+"情報はドキュメントの中にある。\n"
+"君の機械のどこにドキュメントがある？"
+
+#. ID 3, Page 2, Line 10, Pos (76,22)
+msgid "Woah! It worked!"
+msgstr "わあ！開いた！"
+
+#. ID 3, Page 2, Line 11, Pos (76,22)
+msgid ""
+"How did you know that,\n"
+"\\n[2]?"
+msgstr ""
+"どうして分かったの、\n"
+"\\n[2]？"
+
+#. ID 3, Page 2, Line 13, Pos (76,22)
+msgid ""
+"There's a gas mask in here.\\!\n"
+"Also, some weird looking book.\\!\n"
+"It's written in a language\n"
+"I've never seen before...\\!"
+msgstr ""
+"ガスマスクがあるよ。\\!\n"
+"あと、変な本があるよ。\\!\n"
+"見たことない文字で書かれてる…\\!"
+
+#. ID 3, Page 2, Line 31, Pos (76,22)
+msgid "Don't think it worked."
+msgstr "ダメそう…"
+
+#. ID 3, Page 2, Line 72, Pos (76,22)
+msgid ""
+"Very well.\\!\n"
+"I'll repeat myself."
+msgstr ""
+"よろしい。\\!\n"
+"何度でも説明しよう。"
+
+# Line used on YNOproject.
+#. ID 3, Page 2, Line 75, Pos (76,22)
+msgid ""
+"The \\c[3]INFORMATION\\c[0] you need\n"
+"is a \\c[4]code\\c[0].\\!\n"
+"Six numbers contained in a\n"
+"stranded \\c[4]screenshot\\c[0]."
+msgstr ""
+"必要な\\c[3]情報\\c[0]は\\c[4]コード\\c[0]。\\!\n"
+"6つの数字は残された\n"
+"\\c[4]スクリーンショット\\c[0]に含まれている。"
+
+# Line used on the offline version.
+#. ID 3, Page 2, Line 80, Pos (76,22)
+msgid ""
+"The \\c[3]INFORMATION\\c[0] you need\n"
+"is a \\c[4]code\\c[0].\\!\n"
+"Six numbers contained in a\n"
+"stranded \\c[4]document\\c[0]."
+msgstr ""
+"必要な\\c[3]情報\\c[0]は\\c[4]コード\\c[0]。\\!\n"
+"6つの数字は残された\n"
+"\\c[4]ドキュメント\\c[0]に含まれている。"
+
+#. ID 3, Page 2, Line 80, Pos (76,22)
+msgid ""
+"Most of the time, stary pieces of\n"
+"this world would be lost to\n"
+"nothingness."
+msgstr ""
+"この世界の迷える欠片は\n"
+"ほとんどがめでたく消滅するだろう。"
+
+#. ID 3, Page 2, Line 83, Pos (76,22)
+msgid ""
+"But not this time.\\!\n"
+"This \\c[4]document\\c[0] has found\n"
+"a place it belongs\n"
+"\\c[3]outside of the game\\c[0]."
+msgstr ""
+"だが今回は違う。\\!\n"
+"\\c[4]ドキュメント\\c[0]は\\c[3]ゲームの外\\c[0]に\n"
+"居場所を見つけた。"
+
+# Line used on YNOproject.
+#. ID 3, Page 2, Line 130, Pos (76,22)
+msgid ""
+"Dont you know that there's a\n"
+"designated area for Community\n"
+"Screenshots on your own machine?"
+msgstr ""
+"君の機械に、コミュニティの\n"
+"スクリーンショット用に指定された\n"
+"保管場所があることを知らないのか？"
+
+# Line used on the offline version.
+#. ID 3, Page 2, Line 135, Pos (76,22)
+msgid ""
+"Dont you know that there's a\n"
+"designated area for Documents\n"
+"on your own machine?"
+msgstr ""
+"君の機械に、ドキュメント用に指定された\n"
+"保管場所があることを知らないのか？"
+
+#. ID 3, Page 2, Line 134, Pos (76,22)
+msgid "Some god you are."
+msgstr "とんだ神様だな。"
+
+#. ID 3, Page 2, Line 135, Pos (76,22)
+#. ID 5, Page 1, Line 22, Pos (48,7)
+msgid "..."
+msgstr "…"
+
+# Line used on YNOproject.
+#. ID 3, Page 2, Line 137, Pos (76,22)
+msgid ""
+"Look in the Community Screenshots\n"
+"on your computer."
+msgstr ""
+"コンピューターでコミュニティの\n"
+"スクリーンショットを探してみたまえ。"
+
+# Line used on the offline version.
+#. ID 3, Page 2, Line 142, Pos (76,22)
+msgid ""
+"Look in the Documents of this world\n"
+"on your computer."
+msgstr ""
+"コンピューターでこの世界の\n"
+"ドキュメントを探してみたまえ。"
+
+# Line used on YNOproject.
+#. ID 3, Page 2, Line 145, Pos (76,22)
+msgid ""
+"If you still can't find, search by\n"
+"popularity and look for memories made\n"
+"independently of the period."
+msgstr ""
+"それでも見つからないなら、人気順で、\n"
+"時期を絞らずに記録を探してみたまえ。"
+
+#. ID 3, Page 2, Line 149, Pos (76,22)
+msgid ""
+"I don't think I could've made \n"
+"it any more clear."
+msgstr "これ以上、言いようがない。"
+
+#. ID 3, Page 3, Line 2, Pos (76,22)
+msgid "It's empty."
+msgstr "空っぽだ。"
+
+#. ID 4, Page 1, Line 2, Pos (42,22)
+msgid ""
+"XX/XX/XX\n"
+"\n"
+"Bah! \"Destructive and unsustainable\" my foot!"
+msgstr ""
+"XX/XX/XX\n"
+"\n"
+"はあ？「破壊的で持続不可能」だって？ふざけるな!"
+
+#. ID 4, Page 1, Line 6, Pos (42,22)
+msgid ""
+"Folks from the inner city complain about\n"
+"anything if they're bored to death in their nice\n"
+"comfty homes."
+msgstr ""
+"都会のやつらはいい家に住んでるくせに\n"
+"死ぬほど退屈だからってなんにでも文句を\n"
+"言いやがる。"
+
+#. ID 4, Page 1, Line 10, Pos (42,22)
+msgid ""
+"Don't they know their city wouldn't be the way\n"
+"it is, if it weren't for this quarry?"
+msgstr ""
+"採石場が無かったらこんなに街は\n"
+"発展してないってのを知らないのか？"
+
+#. ID 4, Page 1, Line 13, Pos (42,22)
+msgid ""
+"People seem to forget that The Barrens is\n"
+"a gift, and gifts aren't meant to just sit there\n"
+"and collect dust!\\!\n"
+"Gifts need to be opened."
+msgstr ""
+"みーんな、不浄の地が贈り物ってのを忘れてる\n"
+"みてえだ。贈り物ってのは置いといて埃を\n"
+"かぶるためにあるんじゃないんだよ!\\!\n"
+"贈り物は開けるためにあるのさ。"
+
+#. ID 5, Page 1, Line 2, Pos (48,7)
+msgid ""
+"\n"
+"THE SAVIOR\n"
+"IS NOT\n"
+"COMING AND I AM "
+msgstr ""
+"\n"
+"救世主\n"
+"は\n"
+"来ず、私は"
+
+#. ID 5, Page 1, Line 7, Pos (48,7)
+msgid ""
+"AFRAID OF THE\n"
+"DARKNESS AND THE DARKNESS\n"
+"WILL ONLY GET\n"
+"DARKER"
+msgstr ""
+"暗闇を\n"
+"恐れ、暗闇は\n"
+"ますます\n"
+"暗く"
+
+#. ID 5, Page 1, Line 12, Pos (48,7)
+msgid ""
+"AND DARKER AND \n"
+"DARKER\n"
+"\n"
+"TAKING MY LEAVE NOW. FAREWELL"
+msgstr ""
+"暗く暗\n"
+"く\n"
+"\n"
+"これでお別れだ。さようなら"
+
+#. ID 5, Page 1, Line 17, Pos (48,7)
+msgid ""
+"TO ALL\n"
+"\n"
+"I AM SO SORRY"
+msgstr ""
+"みんな\n"
+"\n"
+"本当にすまなかった"
+
+#. ID 9, Page 1, Line 6, Pos (75,18)
+msgid "What IS that?"
+msgstr "何、あれ？"

@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 7, Page 1, Line 2, Pos (18,70)
+#. ID 8, Page 1, Line 2, Pos (19,70)
+#. ID 17, Page 1, Line 2, Pos (28,36)
+#. ID 18, Page 1, Line 2, Pos (29,36)
+msgid ""
+"The door is blocked\n"
+"by vines..."
+msgstr "ツタで道がふさがってる…"
+
+#. ID 26, Page 1, Line 2, Pos (30,37)
+msgid ""
+"A tangle of vines.\n"
+"There's a doorway behind it."
+msgstr ""
+"ツタが絡まってて、\n"
+"後ろに入り口がある。"
+
+#. ID 26, Page 1, Line 4, Pos (30,37)
+msgid "... "
+msgstr "…"
+
+#. ID 26, Page 1, Line 6, Pos (30,37)
+msgid "I think... I just heard a voice? "
+msgstr "たぶん…声が聞こえた？"
+
+#. ID 26, Page 1, Line 8, Pos (30,37)
+msgid "...... "
+msgstr "……"
+
+#. ID 26, Page 1, Line 10, Pos (30,37)
+msgid ""
+"Nevermind... \n"
+"I must've imagined it."
+msgstr ""
+"気にしないで…\n"
+"たぶん気のせい。"
+
+#. ID 51, Page 2, Line 2, Pos (10,44)
+msgid ""
+"Wait a moment...\\!\n"
+"How did you know that\n"
+"I was the,\\. um,\\. messiah?"
+msgstr ""
+"ちょっと待って…\\!\n"
+"どうしてミーが\\.その、\\.救世主だって\n"
+"分かったの？"
+
+#. ID 51, Page 2, Line 6, Pos (10,44)
+msgid ""
+"I don't have the sun \n"
+"with me... "
+msgstr "太陽を持ってないのに…"
+
+#. ID 51, Page 2, Line 9, Pos (10,44)
+msgid "Your eyes!"
+msgstr "あなたの目!"
+
+#. ID 51, Page 2, Line 11, Pos (10,44)
+msgid "Huh?"
+msgstr "え？"
+
+#. ID 51, Page 2, Line 13, Pos (10,44)
+msgid ""
+"They reminded me of \n"
+"the sun!"
+msgstr "太陽みたいだなーって!"
+
+#. ID 51, Page 2, Line 16, Pos (10,44)
+msgid "...oh."
+msgstr "…あっ。"
+
+#. ID 51, Page 2, Line 18, Pos (10,44)
+msgid ""
+"That's why you're our messiah,\n"
+"right?"
+msgstr "だから救世主なんでしょ？"
+
+#. ID 51, Page 2, Line 21, Pos (10,44)
+msgid "Well...\\. I... "
+msgstr "その…\\.　えっと…"
+
+#. ID 51, Page 2, Line 23, Pos (10,44)
+msgid ""
+"A lot of people back in my \n"
+"home world have eyes like\n"
+"mine... "
+msgstr ""
+"ミーの世界では、こういう目をしてる\n"
+"人はたくさんいるよ…"
+
+#. ID 51, Page 2, Line 27, Pos (10,44)
+msgid "Home... world?"
+msgstr "あなたの…世界？"
+
+#. ID 51, Page 2, Line 29, Pos (10,44)
+msgid ""
+"Yeah!\n"
+"I'm actually from another\n"
+"world, you see!"
+msgstr ""
+"うん!\n"
+"実は、違う世界から来たんだ!"
+
+#. ID 51, Page 2, Line 32, Pos (10,44)
+msgid ""
+"It's a place where the sun is in\n"
+"the sky and not in a tower."
+msgstr ""
+"そこだと太陽は塔じゃなくて、\n"
+"空に浮かんでる。"
+
+#. ID 51, Page 2, Line 35, Pos (10,44)
+msgid "Do you like this world too?"
+msgstr "この世界のことも、好き？"
+
+#. ID 51, Page 2, Line 37, Pos (10,44)
+msgid ""
+"I...\\.\n"
+"Yeah."
+msgstr ""
+"えっと…\\.\n"
+"うん。"
+
+#. ID 51, Page 2, Line 40, Pos (10,44)
+msgid "Yay!"
+msgstr "やったあ!"
+
+#. ID 51, Page 2, Line 42, Pos (10,44)
+msgid ""
+"Calamus keeps saying how this\n"
+"world is getting more dangerous by\n"
+"the minute."
+msgstr ""
+"カラムスはいっつも、この世界はだんだん\n"
+"危険な場所になってきてるって言うの。"
+
+#. ID 51, Page 2, Line 46, Pos (10,44)
+msgid ""
+"But that's ok! You're here now!\n"
+"And you like us!"
+msgstr ""
+"でも大丈夫ね!あなたが来たもの!\n"
+"それに、あなたはあたしたちの\n"
+"ことが好き!"
+
+#. ID 51, Page 2, Line 49, Pos (10,44)
+msgid "You can make everything better!"
+msgstr "ぜんぶ解決してくれる!"

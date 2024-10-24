@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 3, Page 1, Line 2, Pos (31,28)
+#. ID 4, Page 1, Line 2, Pos (48,29)
+#. ID 5, Page 1, Line 2, Pos (50,40)
+#. ID 6, Page 1, Line 2, Pos (39,33)
+#. ID 12, Page 1, Line 2, Pos (84,37)
+#. ID 21, Page 1, Line 2, Pos (83,23)
+#. ID 22, Page 1, Line 2, Pos (83,25)
+#. ID 23, Page 1, Line 2, Pos (83,27)
+#. ID 24, Page 1, Line 2, Pos (72,23)
+#. ID 25, Page 1, Line 2, Pos (72,25)
+#. ID 26, Page 1, Line 2, Pos (72,27)
+#. ID 30, Page 1, Line 2, Pos (24,32)
+#. ID 32, Page 1, Line 2, Pos (29,39)
+msgid "The jar is full of fireflies."
+msgstr "ビンはホタルでいっぱいだ。"
+
+#. ID 13, Page 1, Line 3, Pos (86,37)
+msgid ""
+"Oh. I see you don't have\n"
+"that big luggy lightbulb\n"
+"around."
+msgstr ""
+"お、あの大きな電球を\n"
+"持っていないようだな。"
+
+#. ID 13, Page 1, Line 8, Pos (86,37)
+msgid ""
+"Would you like to help\n"
+"me herd rams?\\!\n"
+"There's a nice reward\n"
+"for you, I promise."
+msgstr ""
+"ラムの世話を手伝ってくれないか？\\!\n"
+"お礼にいいものをあげよう。本当だ。"
+
+#. ID 13, Page 1, Line 13, Pos (86,37)
+#. Choice (2 options)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 13, Page 1, Line 16, Pos (86,37)
+msgid ""
+"Excellent.\\!\n"
+"To the south is a\n"
+"peninsula inhabited by\n"
+"my rams."
+msgstr ""
+"よろしい。\\!\n"
+"南のほうに半島があって、そこに僕の\n"
+"飼っているラムたちが住んでいる。"
+
+#. ID 13, Page 1, Line 20, Pos (86,37)
+msgid ""
+"They are all standing\n"
+"in unfortunate spots.\\!\n"
+"You need to move them\n"
+"onto the darker moss."
+msgstr ""
+"あの子たちはみんな、間違った場所にいる。\\!\n"
+"コケのもっと濃いところに\n"
+"移動させてやる必要があるんだ。"
+
+#. ID 13, Page 1, Line 24, Pos (86,37)
+#. ID 13, Page 3, Line 6, Pos (86,37)
+msgid ""
+"If you get stuck, ring a bell\n"
+"and they'll all return to their\n"
+"original positions."
+msgstr ""
+"もし足の踏み場がなくなってしまったら、\n"
+"ベルを鳴らすとラムが元にいた場所に戻る。"
+
+#. ID 13, Page 1, Line 27, Pos (86,37)
+#. ID 13, Page 3, Line 9, Pos (86,37)
+msgid "Good luck."
+msgstr "羊運(よううん)を祈る。"
+
+#. ID 13, Page 1, Line 32, Pos (86,37)
+msgid ""
+"Hrmph.\\!\n"
+"Come back when you\n"
+"understand the power\n"
+"of rams."
+msgstr ""
+"フン。\\!\n"
+"ラムの力を理解したらまた来てくれ。"
+
+#. ID 13, Page 2, Line 2, Pos (86,37)
+msgid ""
+"Hm...\\!\n"
+"If you weren't carrying that\n"
+"lightbulb around, you\n"
+"could help me herd my rams."
+msgstr ""
+"うーむ…\\!\n"
+"君がその電球を持っていなかったら、\n"
+"ラムの世話を手伝ってくれるだろうに。"
+
+#. ID 13, Page 2, Line 7, Pos (86,37)
+msgid ""
+"Uh...\\. I'm not sure\n"
+"I have time for that."
+msgstr "うーん…\\.そんな時間あるかな。"
+
+#. ID 13, Page 2, Line 10, Pos (86,37)
+msgid ""
+"Nonsense!\\!\n"
+"There's always nice\n"
+"rewards in store for\n"
+"herding rams."
+msgstr ""
+"ナンセンスだね!\\!\n"
+"ラムの世話にはいつも素敵な報酬が\n"
+"あるというのに。"
+
+#. ID 13, Page 2, Line 14, Pos (86,37)
+msgid ""
+"Come back when\n"
+"you're able."
+msgstr "できるときに戻ってきてくれ。"
+
+#. ID 13, Page 3, Line 2, Pos (86,37)
+msgid ""
+"The rams are all standing\n"
+"in unfortunate spots.\\!\n"
+"You need to move them\n"
+"onto the darker grass."
+msgstr ""
+"ラム達は現在、不憫な場所に立っている。\\!\n"
+"あの子たちを、コケがさらに濃い場所に\n"
+"移動させてやらなきゃいけない。"
+
+#. ID 13, Page 4, Line 2, Pos (86,37)
+msgid "My rams clock at 1333 megaherds."
+msgstr ""
+"僕のラムたちは\n"
+"1333メェエーガヘルツを叩き出すのさ。"
+
+#. ID 13, Page 4, Line 4, Pos (86,37)
+msgid "...what."
+msgstr "…えっ。"
+
+#. ID 27, Page 1, Line 1, Pos (70,28)
+msgid ""
+"The crops have been growing poorly\n"
+"without the sun... "
+msgstr "太陽がないせいで、作物があまり育たない…"
+
+#. ID 27, Page 1, Line 3, Pos (70,28)
+msgid ""
+"And there's no telling how long\n"
+"our surpluses would last."
+msgstr "それに備蓄も、いつまで持つか分からない。"
+
+#. ID 27, Page 1, Line 5, Pos (70,28)
+msgid "Please, savior, you have to hurry!"
+msgstr "頼む、救世主、急いでくれ!"
+
+#. ID 27, Page 1, Line 7, Pos (70,28)
+msgid "I... "
+msgstr "うん…"
+
+#. ID 27, Page 1, Line 8, Pos (70,28)
+msgid "I'll do my best."
+msgstr "頑張ってみる。"
+
+#. ID 28, Page 1, Line 1, Pos (12,36)
+msgid ""
+"We have left glowing moss on the\n"
+"boundaries of our land.\\!\n"
+"Without it, people could fall into\n"
+"the ocean..."
+msgstr ""
+"我々は光るコケを大地の境界に残してきた。\\!\n"
+"それがなければ、住民は海へと\n"
+"沈んでいくだろう…"
+
+#. ID 29, Page 1, Line 1, Pos (53,22)
+msgid ""
+"The land is fragmenting at an alarming\n"
+"rate..."
+msgstr "この大地は、急速に分裂を繰り返している…"
+
+#. ID 29, Page 1, Line 3, Pos (53,22)
+msgid ""
+"I don't like to think about the day\n"
+"when this town finally loses to the\n"
+"intruding sea."
+msgstr ""
+"この街がいつか海に飲み込まれてしまう\n"
+"なんて…考えたくないよ。"
+
+#. ID 31, Page 1, Line 2, Pos (37,29)
+msgid "Hello!"
+msgstr "こんにちは!"
+
+#. ID 45, Page 1, Line 55, Pos (82,57)
+msgid ""
+"You've provided a great\n"
+"service to all ramkind!\\!\n"
+"In return...\\.\n"
+"Take this fine ram wool."
+msgstr ""
+"君は全ラム類に大きな貢献をしてくれた!\\!\n"
+"お礼に…\\.\n"
+"この上質なラム毛を受け取ってくれ。"
+
+#. ID 45, Page 1, Line 60, Pos (82,57)
+msgid "Oh, uh... thanks."
+msgstr "えっ、えっと…ありがとう。"

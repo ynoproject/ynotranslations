@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 2, Page 1, Line 2, Pos (24,13)
+#. ID 3, Page 1, Line 2, Pos (23,14)
+#. ID 4, Page 1, Line 2, Pos (25,15)
+#. ID 5, Page 1, Line 2, Pos (27,14)
+#. ID 6, Page 1, Line 2, Pos (28,15)
+#. ID 7, Page 1, Line 2, Pos (19,26)
+msgid "It's beyond repair..."
+msgstr "直せそうにないね…"
+
+#. ID 12, Page 1, Line 2, Pos (25,13)
+msgid "Oh, a camera..."
+msgstr "わあ、カメラだ…"
+
+#. ID 12, Page 1, Line 4, Pos (25,13)
+msgid "It's broken though."
+msgstr "壊れてるけど。"

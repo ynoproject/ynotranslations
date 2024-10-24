@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 1, Page 1, Line 9, Pos (17,17)
+msgid ""
+"I'm sure you've seen this\n"
+"particular bed before,\n"
+"\\n[2]."
+msgstr ""
+"このベッドを見たことがあるだろう、\n"
+"\\n[2]。"
+
+#. ID 1, Page 1, Line 12, Pos (17,17)
+msgid ""
+"If Niko sleeps here,\n"
+"you can safely take a\n"
+"break from the game\n"
+"without consequences."
+msgstr ""
+"ニコがここで眠ると、安全に\n"
+"ゲームを休憩することができる。"
+
+#. ID 1, Page 1, Line 16, Pos (17,17)
+msgid ""
+"The game will exit\n"
+"automatically and can\n"
+"be continued later.\\!\n"
+"Don't be alarmed."
+msgstr ""
+"ゲームは自動的に終了するが、\n"
+"後から再開できる。\\!\n"
+"心配するな。"
+
+#. ID 1, Page 1, Line 27, Pos (17,17)
+msgid "But now is no time for rest."
+msgstr "だが、今は休むべき時ではない。"
+
+#. ID 1, Page 2, Line 7, Pos (17,17)
+msgid "Now is no time for rest."
+msgstr "今は休むべき時ではない。"
+
+#. ID 1, Page 3, Line 8, Pos (17,17)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"I'm a little tired from walking.\\!\n"
+"Is it alright if I take a nap?"
+msgstr ""
+"ちょっと歩き疲れたな。\\!\n"
+"お昼寝してもいい？"
+
+#. ID 1, Page 3, Line 12, Pos (17,17)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 2, Line 125, Pos (14,12)
+#. Choice (2 options)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 1, Page 3, Line 40, Pos (17,17)
+#. ID 1, Page 5, Line 4, Pos (17,17)
+msgid ""
+"Ah, well...\\!\n"
+"I suppose there's more\n"
+"work to do."
+msgstr ""
+"あ、そっか…\\!\n"
+"まだやることあるもんね。"
+
+#. ID 7, Page 2, Line 37, Pos (14,12)
+#. Contains choice at line 2 (1 options)
+msgid "\\n[2]?"
+msgstr "\\n[2]？"
+
+#. ID 7, Page 2, Line 40, Pos (14,12)
+#. Choice (1 options, embedded in a message)
+msgid "Yes?"
+msgstr "うん？"
+
+#. ID 7, Page 2, Line 46, Pos (14,12)
+msgid "I'm awake now."
+msgstr "いま起きたよ。"
+
+#. ID 7, Page 2, Line 53, Pos (14,12)
+#. Contains choice at line 3 (1 options)
+msgid ""
+"\\n[2],\n"
+"are you still there?"
+msgstr ""
+"\\n[2]、\n"
+"まだそこにいる？"
+
+#. ID 7, Page 2, Line 57, Pos (14,12)
+#. Choice (1 options, embedded in a message)
+msgid "Yes"
+msgstr "はい"
+
+#. ID 7, Page 2, Line 64, Pos (14,12)
+#. Contains choice at line 3 (1 options)
+msgid ""
+"Ah. I'm awake.\\!\n"
+"I had a dream just now."
+msgstr ""
+"よかった。いま起きたよ。\\!\n"
+"いまね、夢を見てた。"
+
+#. ID 7, Page 2, Line 68, Pos (14,12)
+#. Choice (1 options, embedded in a message)
+msgid "I saw"
+msgstr "知っているよ"
+
+#. ID 7, Page 2, Line 74, Pos (14,12)
+msgid ""
+"You did?\\!\n"
+"Wow!"
+msgstr ""
+"本当？\\!\n"
+"すごい!"
+
+#. ID 7, Page 2, Line 77, Pos (14,12)
+msgid ""
+"....I...\\|\n"
+"I really thought I was back\n"
+"home..."
+msgstr ""
+"…家に…\\|ミーが住んでた家に\n"
+"帰ってこれたんだって、\n"
+"そう思ったんだ…"
+
+#. ID 7, Page 2, Line 81, Pos (14,12)
+msgid ""
+"Oh, the sun back in my\n"
+"home world isn't a lightbulb.\\!\n"
+"It's a big ball of fire in the sky!"
+msgstr ""
+"あ、ミーの世界だと太陽は電球じゃ\n"
+"ないんだよ。\\!\n"
+"空に浮かぶ、おっきな火の玉なんだ!"
+
+#. ID 7, Page 2, Line 85, Pos (14,12)
+msgid ""
+"I don't think I would be\n"
+"able to hold it like I do\n"
+"with the sun from your\n"
+"world..."
+msgstr ""
+"この世界…神様の世界とは違って、\n"
+"手に持つことはできないんだ…"
+
+#. ID 7, Page 2, Line 91, Pos (14,12)
+#. Choice (1 options)
+msgid "This isn't my world"
+msgstr "ここは私の世界ではないぞ"
+
+#. ID 7, Page 2, Line 98, Pos (14,12)
+#. Contains choice at line 2 (1 options)
+msgid "Huh?"
+msgstr "え？"
+
+#. ID 7, Page 2, Line 101, Pos (14,12)
+#. Choice (1 options, embedded in a message)
+msgid "This isn't the world I live in"
+msgstr "私はこの世界の住人ではないんだ"
+
+#. ID 7, Page 2, Line 107, Pos (14,12)
+msgid ""
+"Really?\\!\n"
+"...ah, I guess not.\\!\n"
+"If you're the god of this world,\n"
+"you wouldn't necessarily be in it."
+msgstr ""
+"そうなの？\\!…そっか、そうだよね。\\!\n"
+"この世界の神様だからって、\n"
+"ここに住んでるとは限らないもんね。"
+
+#. ID 7, Page 2, Line 112, Pos (14,12)
+#. Contains choice at line 2 (2 options)
+msgid "What's your home world called?"
+msgstr ""
+"神様が住んでる世界は、\n"
+"何て呼ばれてるの？"
+
+#. ID 7, Page 2, Line 115, Pos (14,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Earth\n"
+"That's a secret"
+msgstr ""
+"地球\n"
+"内緒だ"
+
+#. ID 7, Page 2, Line 120, Pos (14,12)
+msgid ""
+"Earth?\\!\n"
+"Like, the stuff on the ground?\\!\n"
+"...Wait, do you live underground?"
+msgstr ""
+"チキュウ？\\!\n"
+"チキュウ…地の宮殿って意味？\\!\n"
+"…あっ、もしかして地中で暮らしてるの？"
+
+#. ID 7, Page 2, Line 129, Pos (14,12)
+msgid ""
+"Wow...\\!\n"
+"I can't imagine what\n"
+"that's like..."
+msgstr ""
+"わあ…\\!\n"
+"どんな感じか想像もつかないや…"
+
+#. ID 7, Page 2, Line 136, Pos (14,12)
+msgid ""
+"Ah, neither do we!\\!\n"
+"But shrews and field mice\n"
+"and stuff do."
+msgstr ""
+"じゃあ、ミーと一緒だ!\\!\n"
+"あ、でもトガリネズミとか野ネズミとか、\n"
+"そういう生き物は地中に住んでるよね。"
+
+#. ID 7, Page 2, Line 145, Pos (14,12)
+msgid "I see..."
+msgstr "なるほど…"
+
+#. ID 7, Page 2, Line 149, Pos (14,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Does your world have\n"
+"a sun?"
+msgstr "神様の世界にも太陽はある？"
+
+#. ID 7, Page 2, Line 153, Pos (14,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes, it's also a ball of fire\n"
+"I can't tell you that"
+msgstr ""
+"ああ、こっちでも火の玉だ\n"
+"それは言えない"
+
+#. ID 7, Page 2, Line 157, Pos (14,12)
+msgid ""
+"Really?\\!\n"
+"Wow!\\!\n"
+"Can you hold it?"
+msgstr ""
+"本当？\\!\n"
+"すごい!\\!\n"
+"手で持てる？"
+
+#. ID 7, Page 2, Line 161, Pos (14,12)
+msgid "..."
+msgstr "…"
+
+#. ID 7, Page 2, Line 164, Pos (14,12)
+msgid ""
+"...\\!\n"
+"That was a dumb question,\n"
+"wasn't it..."
+msgstr ""
+"…\\!\n"
+"まぬけな質問だったよね…"
+
+#. ID 7, Page 2, Line 171, Pos (14,12)
+msgid "Oh..."
+msgstr "そう…"
+
+#. ID 7, Page 2, Line 175, Pos (14,12)
+msgid ""
+"The sun in my home world\n"
+"is very bright.\\!\n"
+"Warm, too.\\!\n"
+"You saw, right?"
+msgstr ""
+"ミーの世界では、太陽がすごく\n"
+"明るいんだ。\\!\n"
+"それに暖かい。\\!\n"
+"見たでしょ？"
+
+#. ID 7, Page 2, Line 180, Pos (14,12)
+msgid ""
+"But it goes away sometimes,\n"
+"at night.\\!\n"
+"Everything gets dark, kinda\n"
+"like how this world is now."
+msgstr ""
+"でも時々いなくなっちゃうんだ、\n"
+"夜とかに。\\!\n"
+"何もかも暗くなる。この世界みたいに。"
+
+#. ID 7, Page 2, Line 185, Pos (14,12)
+msgid ""
+"But it's okay because the\n"
+"sun always comes back\n"
+"the next day.\\!\n"
+"That's good, don't you think?"
+msgstr ""
+"でも次の日には\n"
+"必ず戻ってくるから大丈夫なんだ。\\!\n"
+"すごいでしょ？"
+
+#. ID 7, Page 2, Line 191, Pos (14,12)
+#. Choice (2 options)
+msgid ""
+"Yeah\n"
+"My world is like that too"
+msgstr ""
+"そうだな\n"
+"私の世界も同じだ"
+
+#. ID 7, Page 2, Line 196, Pos (14,12)
+msgid "M-hm!"
+msgstr "うん!"
+
+#. ID 7, Page 2, Line 198, Pos (14,12)
+msgid ""
+"During the night, people\n"
+"usually go to sleep.\\!\n"
+"But some people stay up\n"
+"and use computers."
+msgstr ""
+"夜になるとね、いつもみんな\n"
+"お布団に入るんだ。\\!\n"
+"でも時々、寝ずにコンピューターを\n"
+"いじってる人もいる。"
+
+#. ID 7, Page 2, Line 206, Pos (14,12)
+msgid ""
+"Ah!\\!\n"
+"Do you sleep during the night?"
+msgstr ""
+"そっか!\\!\n"
+"神様は夜に寝るの？"
+
+#. ID 7, Page 2, Line 208, Pos (14,12)
+msgid ""
+"We go to sleep, usually.\\!\n"
+"But some people stay up\n"
+"and use computers."
+msgstr ""
+"ミーの世界だと、みんな\n"
+"お布団に入るんだ。\\!\n"
+"でも時々、寝ずに\n"
+"コンピューターをいじってる人もいる。"
+
+#. ID 7, Page 2, Line 213, Pos (14,12)
+msgid ""
+"I... don't have to explain\n"
+"what they are, do I?\\!\n"
+"There was one in the house\n"
+"from earlier..."
+msgstr ""
+"コンピューターは…\n"
+"説明しなくても分かるよね？\\!\n"
+"あの家にもあったし…"
+
+#. ID 7, Page 2, Line 220, Pos (14,12)
+msgid ""
+"An-anyway, we should probably\n"
+"get going..."
+msgstr "えっ、と、そろそろ先に進もっか…"

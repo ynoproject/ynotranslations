@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 1, Page 1, Line 2, Pos (14,16)
+msgid ""
+"A chess set.\\!\n"
+"Guess it must be pretty\n"
+"boring here to be alone."
+msgstr ""
+"チェスセット。\\!\n"
+"なんだか寂しそう。"
+
+#. ID 4, Page 1, Line 2, Pos (28,17)
+msgid ""
+"The amount of noxious fumes emitted by the \n"
+"natural gas vents caught our team off-guard.\\!\n"
+"With such a high concentration, it seemed\n"
+"impossible that anything with lungs could exist."
+msgstr ""
+"天然ガスの通気孔から放出された有毒蒸気の\n"
+"量に、我々のチームは不意を突かれた。\\!\n"
+"これほど高濃度のガスでは、肺を持つもの\n"
+"の生存は不可能に思えた。"
+
+#. ID 4, Page 1, Line 7, Pos (28,17)
+msgid ""
+"It remained quite a mystery until our\n"
+"scientists realized the shrimp scattered\n"
+"in the pools were actually consuming it."
+msgstr ""
+"科学者たちがプールに散らばったエビが\n"
+"積極的にガスを吸収していることに気づく\n"
+"まで、それは全く謎のままだった。"
+
+#. ID 4, Page 1, Line 11, Pos (28,17)
+msgid ""
+"Without those shrimp, life wouldn't be.\\!\n"
+"It's kind of depressing to think that we\n"
+"can't thank them."
+msgstr ""
+"あのエビたちが居なければ、生命も\n"
+"成り立たない。\\!\n"
+"彼らに感謝出来ないのは、なんだか憂鬱だ。"
+
+#. ID 4, Page 1, Line 15, Pos (28,17)
+msgid ""
+"Still, we wore masks to be safe, especially\n"
+"around active vent sites.\n"
+"The replacement of our workforce by robots\n"
+"soon rendered masks unecessary."
+msgstr ""
+"それでも、特に活発な通気孔の周辺では、\n"
+"安全のためにマスクを着用していた。\n"
+"作業員がロボットに置き換えられた\n"
+"ことで、マスクはすぐに不要になった。"
+
+#. ID 4, Page 1, Line 20, Pos (28,17)
+msgid ""
+"I wonder what happened to them all? \\!\n"
+"I can't even remember where I placed mine."
+msgstr ""
+"あれはどこにやったのだろう？\\!\n"
+"私のはどこに置いたかも覚えていない。"
+
+#. ID 5, Page 1, Line 2, Pos (30,17)
+msgid ""
+"Dear Silver,\\!\n"
+"\n"
+"I heard the news about the mine.\\!\n"
+"I can't imagine what you're feeling."
+msgstr ""
+"シルバーへ\\!\n"
+"\n"
+"鉱山についてのこと聞いたわ。\\!\n"
+"あなたがどう感じているか想像もつかない。"
+
+#. ID 5, Page 1, Line 7, Pos (30,17)
+msgid ""
+"It's been two weeks.\\!\n"
+"I know it must be hard, but you\n"
+"must leave soon too.\\! It's only a matter\n"
+"of time before the rowbots are recalled."
+msgstr ""
+"もう2週間も経った。\\!\n"
+"つらいだろうけど、あなたもすぐに離れる\n"
+"べきだわ。\\!漕ぎボットが回収されるのは\n"
+"時間の問題よ。"
+
+#. ID 5, Page 1, Line 12, Pos (30,17)
+msgid ""
+"At least let me know you\n"
+"got my message, okay?\\!\n"
+"\n"
+"-Kip"
+msgstr ""
+"とりあえず、このメッセージを\n"
+"受け取ったら私に知らせてね？\\!\n"
+"\n"
+"-キップより"
+
+#. ID 6, Page 1, Line 2, Pos (21,18)
+msgid "A lightbulb..."
+msgstr "電球…"
+
+#. ID 6, Page 1, Line 3, Pos (21,18)
+msgid "So, are you the \"messiah\"?"
+msgstr "あなたが「救世主」なの？"
+
+#. ID 6, Page 1, Line 5, Pos (21,18)
+msgid "That's what I've been told."
+msgstr "そう言われたよ。"
+
+#. ID 6, Page 1, Line 7, Pos (21,18)
+msgid "I was expecting someone... taller."
+msgstr "もっと…背の高い人を想像してた。"
+
+#. ID 6, Page 1, Line 8, Pos (21,18)
+msgid ""
+"I mean, what are you, some kind of\n"
+"cat?"
+msgstr "あなた、ネコ科でしょ？"
+
+#. ID 6, Page 1, Line 10, Pos (21,18)
+msgid ""
+"No offense, but... a tiny little thing\n"
+"like you doesn't exactly scream\n"
+"\"savior material\" to me."
+msgstr ""
+"悪気はないのだけれど…あなたのような\n"
+"小さな子が 「救世主」だなんて、変な\n"
+"感じがするわね。"
+
+#. ID 6, Page 1, Line 14, Pos (21,18)
+msgid ""
+"But that person says there's no\n"
+"mistake..."
+msgstr ""
+"でもさっき、ロボットが\n"
+"間違いないって…"
+
+#. ID 6, Page 1, Line 17, Pos (21,18)
+msgid ""
+"...so I guess I don't have a choice.\\!\n"
+"And I'm not a cat.\\!"
+msgstr ""
+"…だから、そうなんだと思う。\\!\n"
+"あと、ミーはネコじゃないよ。\\!"
+
+#. ID 6, Page 1, Line 20, Pos (21,18)
+msgid "Hah. Alright, Cat-eyes."
+msgstr "はあ。わかったわ、ネコ眼さん。"
+
+#. ID 6, Page 1, Line 21, Pos (21,18)
+msgid ""
+"If you ask me, you're probably better\n"
+"off just leaving and letting the world\n"
+"die naturally."
+msgstr ""
+"私に言わせれば、あなたは早くお家に\n"
+"帰って、世界は自然に滅びてしまった\n"
+"ほうがいいと思うの。"
+
+#. ID 6, Page 1, Line 24, Pos (21,18)
+msgid ""
+"You've seen it, right? It's literally \n"
+"falling apart.\\!\n"
+"Not even bringing back the sun can \n"
+"change that."
+msgstr ""
+"あなたも見たでしょ？文字通りに\n"
+"崩壊している。\\!\n"
+"太陽を戻したところで変えられないわ。"
+
+#. ID 6, Page 1, Line 29, Pos (21,18)
+msgid "...then..."
+msgstr "…うん…"
+
+#. ID 6, Page 1, Line 31, Pos (21,18)
+msgid ""
+"But I suppose you can't just\n"
+"y'know, up and leave, huh?"
+msgstr ""
+"でも、ただ去ることは出来ない、\n"
+"そうでしょう？"
+
+#. ID 6, Page 1, Line 34, Pos (21,18)
+msgid ""
+"That's what I asked the person\n"
+"who told me.\\!\n"
+"He couldn't help."
+msgstr ""
+"さっき教えてくれたロボットに\n"
+"聞いてみたよ。\\!\n"
+"でも、助けてくれなかった。"
+
+#. ID 6, Page 1, Line 38, Pos (21,18)
+msgid ""
+"Let me think about this for a\n"
+"moment..."
+msgstr "少し考えさせて…"
+
+#. ID 6, Page 1, Line 40, Pos (21,18)
+msgid ""
+"You ARE headed towards the spire,\n"
+"yes?"
+msgstr "あなたは塔に向かっている、そうよね？"
+
+#. ID 6, Page 1, Line 43, Pos (21,18)
+msgid "I think so."
+msgstr "そうだと思う。"
+
+#. ID 6, Page 1, Line 45, Pos (21,18)
+msgid ""
+"It's where I'm supposed put the\n"
+"lightbulb... er, sun, isn't it?"
+msgstr ""
+"そこに電球を…えっと、太陽を持って\n"
+"いかなきゃダメなんでしょ？"
+
+#. ID 6, Page 1, Line 48, Pos (21,18)
+msgid ""
+"Uh-huh.\n"
+"Waaaay up top."
+msgstr ""
+"そう。\n"
+"ずーっと頂上にね。"
+
+#. ID 6, Page 1, Line 50, Pos (21,18)
+msgid ""
+"If that weird robot's prophecy is\n"
+"correct, that place holds a force that\n"
+"nobody could comprehend."
+msgstr ""
+"あのロボットの預言が正しければ、\n"
+"そこには私達では到底理解できない力が\n"
+"存在しているの。"
+
+#. ID 6, Page 1, Line 53, Pos (21,18)
+msgid ""
+"Maybe it'll send you back home after\n"
+"you do what you're supposed to do."
+msgstr ""
+"やるべきことをやったら、あなたを\n"
+"故郷に戻してくれるかもしれない。"
+
+#. ID 6, Page 1, Line 56, Pos (21,18)
+msgid "Oh!"
+msgstr "ほんとに!"
+
+#. ID 6, Page 1, Line 58, Pos (21,18)
+msgid "Don't take my word for it, though."
+msgstr "本当かは分からないけれどね。"
+
+#. ID 6, Page 2, Line 2, Pos (21,18)
+msgid "What's inside of the spire?"
+msgstr "塔の中には何があるの？"
+
+#. ID 6, Page 2, Line 4, Pos (21,18)
+msgid ""
+"I don't know. Nobody's ever entered\n"
+"it before."
+msgstr ""
+"分からない。\n"
+"誰も入ったことがないの。"
+
+#. ID 6, Page 2, Line 6, Pos (21,18)
+msgid "At least, nobody history knows."
+msgstr "少なくとも、歴史に残ってる中ではね。"
+
+#. ID 6, Page 2, Line 8, Pos (21,18)
+msgid "Then... who built it?"
+msgstr "じゃあ…誰が建てたの？"
+
+#. ID 6, Page 2, Line 10, Pos (21,18)
+msgid ""
+"Built?\n"
+"As far as anyone can tell, it's been\n"
+"there since the beginning of time,"
+msgstr ""
+"建てた？\n"
+"私たちの知る限りでは、あの塔はこの世界が\n"
+"誕生してからずっと存在している。"
+
+#. ID 6, Page 2, Line 14, Pos (21,18)
+msgid "...I see."
+msgstr "…なるほど。"
+
+#. ID 6, Page 2, Line 16, Pos (21,18)
+msgid ""
+"I don't see how you couldn't,\n"
+"with those big ol' eyes of yours!"
+msgstr ""
+"あなたみたいな大きな目なら、\n"
+"たどり着けるかもしれないわね。"
+
+#. ID 6, Page 3, Line 2, Pos (21,18)
+msgid ""
+"Excuse me again, miss...\\!\n"
+"I found a robot who can take\n"
+"me towards the spire, but it's\n"
+"a bit broken."
+msgstr ""
+"何度もごめんなさい…\\!\n"
+"塔に連れていってくれるロボットを\n"
+"見つけたんだ、でもちょっと\n"
+"壊れてるみたい。"
+
+#. ID 6, Page 3, Line 7, Pos (21,18)
+msgid ""
+"It said something about its\n"
+"navigation circuits being fried."
+msgstr ""
+"ナビゲーション回路が\n"
+"ショートしたとか言ってた。"
+
+#. ID 6, Page 3, Line 10, Pos (21,18)
+msgid ""
+"Hm...\\!\n"
+"If you give it something from\n"
+"the Glen, it ought remember\n"
+"how to get there."
+msgstr ""
+"ふむ…\\!\n"
+"峡谷のものを渡したら、行き方を\n"
+"思い出すはず。"
+
+#. ID 6, Page 3, Line 14, Pos (21,18)
+msgid ""
+"It'll be rare to find anything\n"
+"like that here.\\!\n"
+"Nobody's entered or left for...\\.\n"
+"a long time now."
+msgstr ""
+"ここでそういうのを見つけるのは\n"
+"難しいと思うわ。\\!\n"
+"あそこは…\\.長い間誰も出入りしていない。"
+
+#. ID 6, Page 3, Line 19, Pos (21,18)
+msgid "Wait! I have this."
+msgstr "待って！これがあるわ。"
+
+#. ID 6, Page 3, Line 21, Pos (21,18)
+msgid "A coin?"
+msgstr "コイン？"
+
+#. ID 6, Page 3, Line 23, Pos (21,18)
+msgid ""
+"Look closer. It's a clover,\n"
+"inside amber, inside the coin."
+msgstr ""
+"よく見て。コインの中に、琥珀があって、\n"
+"琥珀の中にクローバーがある。"
+
+#. ID 6, Page 3, Line 26, Pos (21,18)
+msgid "Oh. It's very pretty."
+msgstr "わあ。すごく綺麗。"
+
+#. ID 6, Page 3, Line 28, Pos (21,18)
+msgid ""
+"But... I can't just give this away.\\!\n"
+"It's special to me.\\!\n"
+"I won't bother you with the details."
+msgstr ""
+"でも…ただ手放すわけにはいかないわ。\\!\n"
+"私にとって特別なものなの。\\!\n"
+"わがままなことは言わないわ。"
+
+#. ID 6, Page 3, Line 31, Pos (21,18)
+msgid ""
+"I'll tell you what.\\!\n"
+"I haven't played chess with\n"
+"another person in years."
+msgstr ""
+"そうね…\\!\n"
+"私はもう何年もチェスをしていない。"
+
+#. ID 6, Page 3, Line 34, Pos (21,18)
+msgid ""
+"Play a game with me, and\n"
+"I'll let you have it."
+msgstr "私と遊んでくれたら、それをあげるわ。"
+
+#. ID 6, Page 3, Line 37, Pos (21,18)
+msgid ""
+"I don't know the rules very well....\\!\n"
+"But I guess that's the least I can do."
+msgstr ""
+"ルール、あんまりよく分かってない…\\!\n"
+"でも、任せて。"
+
+#. ID 6, Page 4, Line 2, Pos (21,18)
+msgid ""
+"Excuse me, miss...\\!\n"
+"I found this book.\\!\n"
+"Do you know anything\n"
+"about it?"
+msgstr ""
+"あの、お姉さん…\\!\n"
+"こんな本を見つけたんだ。\\!\n"
+"何か知ってる？"
+
+#. ID 6, Page 4, Line 7, Pos (21,18)
+msgid ""
+"Let me see.\\..\\..\n"
+"What language is this..?\\!\n"
+"I'm sorry, I don't even recognize\n"
+"this writing system."
+msgstr ""
+"見せて.\\..\\..\n"
+"この言語は何かしら…？\\!\n"
+"ごめんなさい、この文字の構造すら\n"
+"見覚えがないわ。"
+
+#. ID 6, Page 4, Line 12, Pos (21,18)
+msgid ""
+"Ah, well, it was worth\n"
+"a shot."
+msgstr ""
+"ううん、\n"
+"もしかしたらって思っただけだから。"
+
+#. ID 6, Page 5, Line 2, Pos (21,18)
+msgid ""
+"Off you go..\\!\n"
+"There's no reason for you to linger\n"
+"in the Barrens."
+msgstr ""
+"行きなさい…\\!\n"
+"不毛の地に留まる意味はないわ。"
+
+#. ID 9, Page 1, Line 2, Pos (25,15)
+#. ID 10, Page 1, Line 2, Pos (15,14)
+#. ID 11, Page 1, Line 2, Pos (13,14)
+#. ID 12, Page 1, Line 2, Pos (35,17)
+#. ID 13, Page 1, Line 2, Pos (35,19)
+#. ID 15, Page 1, Line 2, Pos (14,14)
+#. ID 16, Page 1, Line 2, Pos (26,15)
+msgid ""
+"There's a lot of tiny shrimp swimming\n"
+"in this jar."
+msgstr ""
+"ビンの中に、ちっちゃなエビが\n"
+"たくさん泳いでる。"
+
+#. ID 14, Page 1, Line 2, Pos (35,15)
+msgid "It's a box of medical tools."
+msgstr "医療道具が入った箱だ。"
+
+#. ID 14, Page 1, Line 3, Pos (35,15)
+msgid ""
+"Most of them are broken or rusted \n"
+"beyond use, but...\\!\n"
+"This plastic syringe seems to be \n"
+"okay."
+msgstr ""
+"ほとんどが壊れてるし、残りも\n"
+"錆びててまったく使えなさそうだけど…\\!\n"
+"このプラスチック注射器は大丈夫そう。"

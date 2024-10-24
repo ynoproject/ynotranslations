@@ -1,0 +1,1204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 1, Page 2, Line 36, Pos (36,24)
+#. ID 2, Page 2, Line 36, Pos (36,25)
+msgid ""
+"...What's going on?\\!\n"
+"I hear a humming sound\n"
+"in my pocket..."
+msgstr ""
+"…どうしたんだろう？\\!\n"
+"ポケットの中から何かの音が聞こえる…"
+
+#. ID 3, Page 2, Line 3, Pos (17,27)
+msgid ""
+"Someone here to see me?\\!\n"
+"I'm sure you've caught wind\n"
+"of my genius and couldn't\n"
+"help but see, yes?"
+msgstr ""
+"何者かが、この私に会いに来たようね？\\!\n"
+"ジョージの天才っぷりを風の便りに聞き、\n"
+"どうしても会いたくて\n"
+"ここまで訪れた来た。そうなのでしょう？"
+
+#. ID 3, Page 2, Line 8, Pos (17,27)
+msgid "Um-\\.\\.\\^"
+msgstr "えっと…\\.\\.\\^"
+
+#. ID 3, Page 2, Line 10, Pos (17,27)
+msgid ""
+"Don't answer!\\!\n"
+"Of course you are.\\!\n"
+"What else could you\n"
+"possibly want?"
+msgstr ""
+"答えは要らない!\\!\n"
+"もちろん、そうなのだから。\\!\n"
+"だって、他に何を求めてくるっていうの？"
+
+#. ID 3, Page 2, Line 15, Pos (17,27)
+msgid ""
+"I have a question.\\!\n"
+"Can you please answer?"
+msgstr ""
+"質問があるんだ。\\!\n"
+"答えてくれるかな？"
+
+#. ID 3, Page 2, Line 18, Pos (17,27)
+msgid ""
+"Of course!\\!\n"
+"I know everyting.\\!\n"
+"And if I don't know,\n"
+"my books well tell me."
+msgstr ""
+"もちろん!\\!\n"
+"私は何でも知っているのだから。\\!\n"
+"たとえ知らないことがあっても、\n"
+"本が教えてくれるわ。"
+
+#. ID 3, Page 2, Line 23, Pos (17,27)
+msgid ""
+"How could I get into\n"
+"the tower?"
+msgstr "どうやって塔に入るのかな？"
+
+#. ID 3, Page 2, Line 26, Pos (17,27)
+msgid ""
+"...\\.My books will\n"
+"need to tell me this\n"
+"one."
+msgstr ""
+"…\\.それは私の本が\n"
+"教えてくれるでしょう。"
+
+#. ID 3, Page 2, Line 29, Pos (17,27)
+msgid ""
+"Or at least they would,\n"
+"but its so DREADFULLY\n"
+"boring."
+msgstr ""
+"少なくともそうだけれど、\n"
+"でもそれってとーっても退屈。"
+
+#. ID 3, Page 2, Line 32, Pos (17,27)
+msgid ""
+"As you can clearly\n"
+"see, I enjoy books.\\!\n"
+"Strange books.\\!\n"
+"Wonderful books."
+msgstr ""
+"お分かりのように、私は本を\n"
+"楽しんでるの。\\!\n"
+"奇妙な本。\\!\n"
+"素晴らしい本。"
+
+#. ID 3, Page 2, Line 36, Pos (17,27)
+msgid ""
+"Can't you bring me\n"
+"something interesting?\\!\n"
+"Maybe that will motivate\n"
+"someone as fabulous as me."
+msgstr ""
+"何か面白いものをくれないかしら？\\!\n"
+"そうすれば、私のような素晴らしい人の\n"
+"モチベーションも上がるかもしれないわ。"
+
+#. ID 3, Page 2, Line 49, Pos (17,27)
+msgid ""
+"Oh? What's this?\\!\n"
+"Hm... it looks like it's written\n"
+"in an ancient language."
+msgstr ""
+"あら、これは何かしら？\\!\n"
+"えぇと…古代の言語で\n"
+"書かれているようだわ。"
+
+#. ID 3, Page 2, Line 52, Pos (17,27)
+msgid ""
+"Nothing I can't\n"
+"understand.\\!\n"
+"I'll need some peace\n"
+"I translate this."
+msgstr ""
+"ジョージに理解できないものはない。\\!\n"
+"解読するのに、少し集中力が要りそう。"
+
+#. ID 3, Page 2, Line 60, Pos (17,27)
+#. ID 3, Page 3, Line 53, Pos (17,27)
+#. ID 3, Page 4, Line 39, Pos (17,27)
+#. ID 3, Page 5, Line 49, Pos (17,27)
+#. ID 3, Page 6, Line 45, Pos (17,27)
+#. ID 3, Page 7, Line 45, Pos (17,27)
+msgid "I think I'm hungry."
+msgstr "お腹が空いたみたい。"
+
+#. ID 3, Page 2, Line 62, Pos (17,27)
+#. ID 3, Page 2, Line 78, Pos (17,27)
+msgid ""
+"There's a cafe to the\n"
+"southeast somewhere.\\!\n"
+"Now shoo and leave\n"
+"my magnificence be."
+msgstr ""
+"南東のどこかにカフェがあるわ。\\!\n"
+"惜しいかもしれないけれど、\n"
+"壮麗なジョージから、少し離れる時間よ。"
+
+#. ID 3, Page 2, Line 69, Pos (17,27)
+msgid ""
+"Chop chop.\\!\n"
+"My beautiful young face\n"
+"is only getting older."
+msgstr ""
+"ビシバシ!\\!\n"
+"早くしないと、ジョージの美しい顔が\n"
+"老けていってしまうわ。"
+
+#. ID 3, Page 2, Line 87, Pos (17,27)
+msgid ""
+"I did it.\\!\n"
+"As expected of someone\n"
+"of my ability."
+msgstr ""
+"できたわ。\\!\n"
+"さすがジョージ。"
+
+#. ID 3, Page 2, Line 90, Pos (17,27)
+msgid "Take a look."
+msgstr "見てごらんなさい。"
+
+#. ID 3, Page 2, Line 95, Pos (17,27)
+#. ID 13, Page 1, Line 64, Pos (11,25)
+msgid ""
+"I have faith that you'll save me.\\!\n"
+"I mean, who wouldn't?"
+msgstr ""
+"あなたは私を救うと信頼しているわ!\\!\n"
+"誰だって、そうするでしょう？"
+
+#. ID 3, Page 3, Line 3, Pos (17,27)
+msgid ""
+"Who the hell are you\n"
+"supposed to be?"
+msgstr "アンタ一体何者？"
+
+#. ID 3, Page 3, Line 6, Pos (17,27)
+msgid "..."
+msgstr "…"
+
+#. ID 3, Page 3, Line 8, Pos (17,27)
+msgid ""
+"Well?\\!\n"
+"Out with it."
+msgstr ""
+"それで？\\!\n"
+"何の用かしら。"
+
+#. ID 3, Page 3, Line 11, Pos (17,27)
+msgid ""
+"My name is Niko.\\!\n"
+"I'm trying to reach the\n"
+"spire."
+msgstr ""
+"ミーの名前はニコ。\\!\n"
+"塔に行きたいんだ。"
+
+#. ID 3, Page 3, Line 15, Pos (17,27)
+msgid ""
+"Oh, right.\\!\n"
+"You've got that lightbulb."
+msgstr ""
+"あらそう。\\!\n"
+"電球を持ってるものね。"
+
+#. ID 3, Page 3, Line 17, Pos (17,27)
+msgid ""
+"Listen. You're just some\n"
+"tool the world will use\n"
+"to heal itself."
+msgstr ""
+"よく聞きなさい。\n"
+"アンタは世界自身を癒すための\n"
+"道具に過ぎないの。"
+
+#. ID 3, Page 3, Line 20, Pos (17,27)
+msgid ""
+"If you want my help,\n"
+"you need to help me\n"
+"first.\\!\n"
+"Understand?"
+msgstr ""
+"アタシの助けが必要ってんなら、\n"
+"まずアタシを助けて欲しいのよ。\\!\n"
+"分かる？"
+
+#. ID 3, Page 3, Line 24, Pos (17,27)
+msgid ""
+"Find me a book I've\n"
+"never seen before.\\!\n"
+"That's the deal."
+msgstr ""
+"アタシが見たことない本を見つけるのよ。\\!\n"
+"それが条件。"
+
+#. ID 3, Page 3, Line 28, Pos (17,27)
+msgid "...Okay."
+msgstr "…分かった。"
+
+#. ID 3, Page 3, Line 38, Pos (17,27)
+msgid ""
+"What's this old thing?\\!\n"
+"Huh, it's written in an\n"
+"ancient language."
+msgstr ""
+"この古いのは一体何なの？\\!\n"
+"へえ、古代の言語で書かれてるのね。"
+
+#. ID 3, Page 3, Line 41, Pos (17,27)
+msgid ""
+"Guess you are useful.\\!\n"
+"Now go make yourself\n"
+"even more useful and leave\n"
+"me alone while I translate."
+msgstr ""
+"アンタも役に立つのね。\\!\n"
+"アタシが解読してる間、\n"
+"アンタはアタシを放っておいて。\n"
+"その方がアタシのためになるのよ。"
+
+#. ID 3, Page 3, Line 45, Pos (17,27)
+msgid ""
+"I'll help you with the\n"
+"tower after I'm done.\\!\n"
+"It's not like I want to\n"
+"die, after all."
+msgstr ""
+"終わった後、塔に行くのを助ける。\\!\n"
+"別に、死にたいわけじゃないわよ。"
+
+#. ID 3, Page 3, Line 55, Pos (17,27)
+#. ID 3, Page 3, Line 68, Pos (17,27)
+msgid ""
+"Go bother the people\n"
+"in the cafe southeast\n"
+"of here."
+msgstr ""
+"ここの南東にあるカフェの人に\n"
+"迷惑でもかけてくるのよ。"
+
+#. ID 3, Page 3, Line 61, Pos (17,27)
+msgid "Hurry up."
+msgstr "さっさとね。"
+
+#. ID 3, Page 3, Line 76, Pos (17,27)
+msgid ""
+"I'm finished.\\!\n"
+"You're definitely going\n"
+"to want to take a look\n"
+"at this."
+msgstr ""
+"終わったわ。\\!\n"
+"これは絶対に読んでおいた方がいいわよ。"
+
+#. ID 3, Page 3, Line 84, Pos (17,27)
+msgid "Don't screw this up, please."
+msgstr "お願いだから、しくじるんじゃないわよ。"
+
+#. ID 3, Page 4, Line 3, Pos (17,27)
+msgid ""
+"Si\\.i\\.i\\.\\.i\\.\\.igh.\\!\n"
+"Hi."
+msgstr ""
+"は\\.あ\\.あ\\.あ\\.あ\\.\\.ぁ…\\!\n"
+"こんばんは。"
+
+#. ID 3, Page 4, Line 6, Pos (17,27)
+msgid ""
+"...\\.Hi.\\!\n"
+"I'm looking for a way\n"
+"into the spire."
+msgstr ""
+"…\\.こんばんは。\\!\n"
+"ミー、塔に入る方法を探してるんだ。"
+
+#. ID 3, Page 4, Line 10, Pos (17,27)
+msgid ""
+"Oh. Dunno.\\!\n"
+"It'll probably be\n"
+"in one of my books."
+msgstr ""
+"あぁ。知らない。\\!\n"
+"私の本のどれか1冊に\n"
+"書かれてるかもしれないけど…"
+
+#. ID 3, Page 4, Line 13, Pos (17,27)
+msgid ""
+"I really don't feel\n"
+"like looking, though.\\!\n"
+"I'm so bored."
+msgstr ""
+"探すのが好きじゃなくて…\\!\n"
+"すごく退屈だから。"
+
+#. ID 3, Page 4, Line 16, Pos (17,27)
+#. ID 3, Page 4, Line 47, Pos (17,27)
+msgid ""
+"Please find me some new\n"
+"book that could entertain\n"
+"me.\\!\n"
+"Si\\.i\\.i\\.\\.i\\.\\.igh."
+msgstr ""
+"お願いだから、何か私が楽しめるような、\n"
+"新しい本を見つけてほしいの。\\!\n"
+"は\\.あ\\.あ\\.あ\\.あ\\.\\.ぁ…"
+
+#. ID 3, Page 4, Line 29, Pos (17,27)
+msgid ""
+"Oh.\\!\n"
+"It's written in an\n"
+"ancient language."
+msgstr ""
+"ああ。\\!\n"
+"古代の言語で言語で書かれてるみたいね。"
+
+#. ID 3, Page 4, Line 32, Pos (17,27)
+msgid ""
+"How... interesting.\\!\n"
+"I must translate this.\\!\n"
+"I'll help you when I'm done."
+msgstr ""
+"なんて…興味深いの。\\!\n"
+"これは、私が解読しないと。\\!\n"
+"終わったら、あなたを手伝うわ。"
+
+#. ID 3, Page 4, Line 41, Pos (17,27)
+#. ID 3, Page 4, Line 57, Pos (17,27)
+msgid ""
+"There's a cafe.\\!\n"
+"Southeast.\\!\n"
+"Go."
+msgstr ""
+"カフェがある…\\!\n"
+"南東。\\!\n"
+"行ってきて。"
+
+#. ID 3, Page 4, Line 65, Pos (17,27)
+msgid ""
+"Done.\\!\n"
+"Check it out."
+msgstr ""
+"できた。\\!\n"
+"見てみて…"
+
+#. ID 3, Page 4, Line 71, Pos (17,27)
+#. ID 13, Page 1, Line 106, Pos (11,25)
+msgid ""
+"Death sounds so boring.\\!\n"
+"Don't let it happen."
+msgstr ""
+"死ぬのって、とっても退屈そう。\\!\n"
+"それは…やめてほしいわ。"
+
+#. ID 3, Page 5, Line 3, Pos (17,27)
+msgid ""
+"Hello~!\\!\n"
+"Who might you be?"
+msgstr ""
+"やっほー!\\!\n"
+"キミ、誰かな？"
+
+#. ID 3, Page 5, Line 6, Pos (17,27)
+msgid ""
+"Hello! My name is\n"
+"Niko.\\!\n"
+"I'm looking for a way\n"
+"into the spire."
+msgstr ""
+"こんばんは!ミーの名前はニコだよ。\\!\n"
+"塔に入る方法を探してるんだ。"
+
+#. ID 3, Page 5, Line 11, Pos (17,27)
+msgid ""
+"Hello Niko!\\!\n"
+"I'm sorry, but I don't\n"
+"know a way inside..."
+msgstr ""
+"こんばんは、ニコ!\\!\n"
+"ごめんね、中に入る方法は\n"
+"分かんないんだ…"
+
+#. ID 3, Page 5, Line 15, Pos (17,27)
+msgid "O-Oh, it's okay."
+msgstr "あ、あぁ、大丈夫だよ。"
+
+#. ID 3, Page 5, Line 17, Pos (17,27)
+msgid ""
+"Hm...\\. Maybe one of\n"
+"my books has the key.\\!\n"
+"I'll help you find it if\n"
+"you help me!"
+msgstr ""
+"ふーむ…\\.わたしの本が\n"
+"カギになってるのかも。\\!\n"
+"手伝ってくれるなら、探してあげるよ!"
+
+#. ID 3, Page 5, Line 21, Pos (17,27)
+msgid ""
+"I want more books!\\!\n"
+"Something new and\n"
+"interesting!"
+msgstr ""
+"もっと本が欲しいんだ!\\!\n"
+"新しくって、面白いもの!"
+
+#. ID 3, Page 5, Line 24, Pos (17,27)
+msgid "Just one will do~!"
+msgstr "1冊でいいからー!"
+
+#. ID 3, Page 5, Line 26, Pos (17,27)
+msgid "I'll see what I can find!"
+msgstr "何か探してみるよ!"
+
+#. ID 3, Page 5, Line 37, Pos (17,27)
+msgid ""
+"Oh my!\\!\n"
+"What's this?"
+msgstr ""
+"ひゃー!\\!\n"
+"何これ?"
+
+#. ID 3, Page 5, Line 39, Pos (17,27)
+msgid ""
+"...\\.It's written in an\n"
+"ancient language!\\!\n"
+"Oh my goodness~!"
+msgstr ""
+"…\\.古代の言語で書かれてる!\\!\n"
+"わわー!"
+
+#. ID 3, Page 5, Line 42, Pos (17,27)
+msgid ""
+"Lemme translate it,\n"
+"pleeeease?\\!\n"
+"I'll help you when I'm done!"
+msgstr ""
+"おねがーい、翻訳させて？\\!\n"
+"終わったら手伝うからさ!"
+
+#. ID 3, Page 5, Line 51, Pos (17,27)
+msgid ""
+"There's yummy food\n"
+"in the cafe southeast\n"
+"of here!\\!\n"
+"Why not visit them for a bit?"
+msgstr ""
+"ここの南東のカフェ、美味しいものが\n"
+"いっぱいなんだ!\\!\n"
+"行ってみたらどうかな？"
+
+#. ID 3, Page 5, Line 58, Pos (17,27)
+msgid "You can do it~!"
+msgstr "キミならできるー!"
+
+#. ID 3, Page 5, Line 65, Pos (17,27)
+msgid ""
+"This is hard...\\!\n"
+"Gimme a few minutes,\n"
+"'kay?"
+msgstr ""
+"難しい…\\!\n"
+"ちょっと時間をくれないかな？"
+
+#. ID 3, Page 5, Line 73, Pos (17,27)
+msgid ""
+"Oh, hello! I'm done!\\!\n"
+"You should read it...\\!\n"
+"It seems really important..."
+msgstr ""
+"あ、やっほー!できたよ!\\!\n"
+"これは読むべきだね…\\!\n"
+"とっても重要だと思う…"
+
+#. ID 3, Page 5, Line 80, Pos (17,27)
+#. ID 13, Page 1, Line 126, Pos (11,25)
+msgid "We're all counting on you!"
+msgstr "私たち、みんなキミに期待してるよ!"
+
+#. ID 3, Page 6, Line 3, Pos (17,27)
+msgid ""
+"Oh hello, sweetie.\n"
+"Aren't you adorable?\\!\n"
+"I didn't know the light-bearer\n"
+"would be so cute."
+msgstr ""
+"あらこんばんは、かわいこちゃん。\n"
+"とっても愛らしいわね!\\!\n"
+"光を運ぶ子がこんなに可愛らしいなんて\n"
+"思わなかったわ。"
+
+#. ID 3, Page 6, Line 8, Pos (17,27)
+msgid ""
+"U-\\.Um...\\!\n"
+"Thank you..."
+msgstr ""
+"えっ、\\.と…\\!\n"
+"ありがとう…"
+
+#. ID 3, Page 6, Line 11, Pos (17,27)
+msgid ""
+"Do you know how to\n"
+"enter the tower, miss?"
+msgstr ""
+"お姉さん、どうやって塔に入るか\n"
+"知ってる？"
+
+#. ID 3, Page 6, Line 14, Pos (17,27)
+msgid ""
+"I don't, but I could help\n"
+"you find a book that\n"
+"could."
+msgstr ""
+"いいえ、でもそういう本を見つける\n"
+"手伝いはできるわ。"
+
+#. ID 3, Page 6, Line 17, Pos (17,27)
+msgid ""
+"But first, could you be\n"
+"a sweetheart and bring\n"
+"me a new book for my\n"
+"collection?"
+msgstr ""
+"ただその前に、その優しい心で\n"
+"私のコレクションのための新しい本を\n"
+"持ってきてくれないかしら？"
+
+#. ID 3, Page 6, Line 21, Pos (17,27)
+msgid ""
+"It's a policy I'm afraid\n"
+"I can't change even for\n"
+"you!"
+msgstr ""
+"残念ながら、たとえあなたのためでも\n"
+"変えられないポリシーなの!"
+
+#. ID 3, Page 6, Line 33, Pos (17,27)
+msgid ""
+"How interesting.\\!\n"
+"A journal written in\n"
+"an ancient language."
+msgstr ""
+"何て興味深いの。\\!\n"
+"古代の言語で書かれた日記のようね。"
+
+#. ID 3, Page 6, Line 36, Pos (17,27)
+msgid ""
+"I'm sure you'd like\n"
+"this translated, wouldn't\n"
+"you, sweetie?"
+msgstr ""
+"これを解読してほしいのかしら、\n"
+"かわいこちゃん？"
+
+#. ID 3, Page 6, Line 39, Pos (17,27)
+msgid ""
+"Give me some time to\n"
+"work, please."
+msgstr "少し時間をくれないかしら。"
+
+#. ID 3, Page 6, Line 47, Pos (17,27)
+msgid ""
+"There's a cafe southeast\n"
+"of here."
+msgstr "ここの南東にカフェがあるわ。"
+
+#. ID 3, Page 6, Line 49, Pos (17,27)
+msgid ""
+"I'm sure the people\n"
+"there can fix you\n"
+"up something nice."
+msgstr ""
+"あそこの人なら、きっといいものを\n"
+"用意してくれるわ。"
+
+#. ID 3, Page 6, Line 55, Pos (17,27)
+msgid ""
+"Please be quick,\n"
+"darling."
+msgstr "できるだけ早くね、おちびさん。"
+
+#. ID 3, Page 6, Line 63, Pos (17,27)
+msgid ""
+"I'm sure the people in\n"
+"the cafe can fix you\n"
+"up something nice."
+msgstr ""
+"カフェの人なら、きっといいものを\n"
+"用意してくれるわ。"
+
+#. ID 3, Page 6, Line 71, Pos (17,27)
+msgid ""
+"Welcome back, darling.\\!\n"
+"You might want to have a\n"
+"look at this..."
+msgstr ""
+"おかえり、おちびさん。\\!\n"
+"これを見てほしいんだけど…"
+
+#. ID 3, Page 6, Line 78, Pos (17,27)
+#. ID 13, Page 1, Line 147, Pos (11,25)
+msgid ""
+"I know you'll make the right\n"
+"choice at the top of the spire."
+msgstr ""
+"貴方が塔の頂上で正しい選択をするのは\n"
+"分かっているわ。"
+
+#. ID 3, Page 7, Line 3, Pos (17,27)
+msgid ""
+"Hey pal, what's up?\\!\n"
+"Can I get you anything?"
+msgstr ""
+"やっほーーどしたの？\\!\n"
+"何か困りごと？"
+
+#. ID 3, Page 7, Line 6, Pos (17,27)
+msgid ""
+"Uh, hi.\\!\n"
+"I'm looking for a way\n"
+"into the spire."
+msgstr ""
+"えっと、やあ。\\!\n"
+"塔に入る方法を探してるんだ。"
+
+#. ID 3, Page 7, Line 10, Pos (17,27)
+msgid ""
+"Oh. I dig it, buddy.\\!\n"
+"I'm sure one of my books\n"
+"will help us out."
+msgstr ""
+"オー。いいじゃん、チビくん。\\!\n"
+"たぶんウチの本が助けになるっしょ。"
+
+#. ID 3, Page 7, Line 13, Pos (17,27)
+msgid ""
+"Can you get me a\n"
+"new book or something\n"
+"first though?\\!\n"
+"All of mine are totally lame."
+msgstr ""
+"その前にさー、なんか新しい本くれなーい？\\!\n"
+"もーウチの本ぜーんぶダサいカンジでさあ。"
+
+#. ID 3, Page 7, Line 18, Pos (17,27)
+msgid "Oh, sure. I guess."
+msgstr "えっと、うん。探してみるよ。"
+
+#. ID 3, Page 7, Line 20, Pos (17,27)
+msgid ""
+"Gnarly!\\!\n"
+"Thanks a ton!"
+msgstr ""
+"ワーオ!\\!\n"
+"マジサンキュー!"
+
+#. ID 3, Page 7, Line 31, Pos (17,27)
+msgid "Woah, what IS this?"
+msgstr "ワーオ、何コレ？"
+
+#. ID 3, Page 7, Line 32, Pos (17,27)
+msgid ""
+"It's written in an\n"
+"ancient language!\\!\n"
+"That's so sick!"
+msgstr ""
+"古代の言語で書かれてるし!\\!\n"
+"マジスゲー!"
+
+#. ID 3, Page 7, Line 35, Pos (17,27)
+msgid ""
+"I bet I could translate\n"
+"this in... a couple of minutes!\\!\n"
+"I can translate this before\n"
+"I help you, right?"
+msgstr ""
+"こんくらいなら…2、3分で\n"
+"解読できちゃうかな!\\!\n"
+"お助けタイムの前にさー、\n"
+"終わらせちゃっていい？"
+
+#. ID 3, Page 7, Line 39, Pos (17,27)
+msgid ""
+"We tight.\\!\n"
+"We tight."
+msgstr ""
+"ヨッシャーー。\\!\n"
+"ジョージ、マジ頑張っちゃうから。"
+
+#. ID 3, Page 7, Line 47, Pos (17,27)
+msgid ""
+"There's a pretty sweet\n"
+"cafe southeast of here.\\!\n"
+"Go grab some bites while\n"
+"I work!"
+msgstr ""
+"南東の方にさ、チョー最高な\n"
+"カフェがあんのよ。\\!\n"
+"ウチが解読やってる間、\n"
+"なんか食べてきちゃいな!"
+
+#. ID 3, Page 7, Line 54, Pos (17,27)
+msgid ""
+"C'mon bud,\n"
+"I can't wait forever."
+msgstr ""
+"ガンバレチビくん、\n"
+"チョー楽しみにしてっから。"
+
+#. ID 3, Page 7, Line 62, Pos (17,27)
+msgid ""
+"What are you waiting\n"
+"for, bud?\\!\n"
+"Go grab some grub!"
+msgstr ""
+"チビくん何待ち？\\!\n"
+"さっさと腹ごしらえ、してきちゃいな!"
+
+#. ID 3, Page 7, Line 70, Pos (17,27)
+msgid ""
+"Hey buddy!\\!\n"
+"Uh, there was some,\\. like,\\.\n"
+"totally weird stuff in that book.\\!\n"
+"Here, read it yourself."
+msgstr ""
+"やっほーーチビくん!\\!\n"
+"あー、\\.なんかさ、\\.すっげーヘンなこと\n"
+"書いてあったんだわ。\\!\n"
+"ほら、読んでみ。"
+
+#. ID 3, Page 7, Line 78, Pos (17,27)
+#. ID 13, Page 1, Line 170, Pos (11,25)
+msgid "You are gonna save us, right?"
+msgstr "ウチらのこと、救ってくれるよな？"
+
+#. ID 4, Page 1, Line 2, Pos (19,22)
+msgid "It's off."
+msgstr "電源が切れてる。"
+
+#. ID 13, Page 1, Line 3, Pos (11,25)
+msgid ""
+"There is an Entity few know about in this world.\\!\n"
+"It has a habit of silencing those aware of it.\n"
+"I'm one of the few still alive."
+msgstr ""
+"この世界にはほとんど知られていない\n"
+"「存在」がある。\\!\n"
+"それは、気付いた者を口封じをすることがある。\n"
+"私はまだ生きている数少ない一人だ。"
+
+#. ID 13, Page 1, Line 7, Pos (11,25)
+msgid ""
+"This being is somehow connected to the world.\n"
+"Perhaps, it is the spirit of the world.\\!\n"
+"Just as the light within our world fluctuates,\n"
+"so does the temperament of this being."
+msgstr ""
+"この「存在」は、この世界と何らかの形で繋がって\n"
+"いる。おそらく、それは世界の魂なのだろう。\\!\n"
+"この世界の光が変動するのと同様に、\n"
+"その「存在」の気質も変動する。"
+
+#. ID 13, Page 1, Line 12, Pos (11,25)
+msgid ""
+"As the light is now fading, the Entity is now\n"
+"seeking death.\\!\n"
+"Death not to itself, but to our entire world."
+msgstr ""
+"光が消えつつある今、「存在」は死を求めている。\\!\n"
+"自身の死ではなく、我々の世界全体の死だ。"
+
+#. ID 13, Page 1, Line 16, Pos (11,25)
+msgid "We must, of course, stop it."
+msgstr "もちろん、我々は阻止せねばならない。"
+
+#. ID 13, Page 1, Line 18, Pos (11,25)
+msgid ""
+"When our god and our savior arrive,\n"
+"the Entity will attempt to manipulate them\n"
+"into shattering the lightbulb at the top\n"
+"of the spire."
+msgstr ""
+"我々の神と救世主が到着したら、\n"
+"「存在」は彼らを操って塔の頂上にある電球を\n"
+"砕かせようとするだろう。"
+
+#. ID 13, Page 1, Line 23, Pos (11,25)
+msgid ""
+"Our god is the only thing this Entity can\n"
+"communicate with; it is through them\n"
+"that the savior will be tricked."
+msgstr ""
+"「存在」が唯一接触できるのは我らの神であり、\n"
+"神を通して救世主は仕向けられるのだ。"
+
+#. ID 13, Page 1, Line 27, Pos (11,25)
+msgid ""
+"Shattering the ligthbulb will \\c[3]return the savior\n"
+"to their home world\\c[0], leaving ours to crumble.\\!\n"
+"But, as far as we know, this is the \\c[3]only way for\n"
+"the savior to return home\\c[0]."
+msgstr ""
+"電球を砕けば\\c[3]救世主は彼の世界に戻り\\c[0]、\n"
+"我々の世界は崩壊する。\\!\n"
+"しかし、我々の知る限り、これが\\c[3]救世主が帰還する\n"
+"唯一の方法\\c[0]である。"
+
+#. ID 13, Page 1, Line 32, Pos (11,25)
+msgid ""
+"What do we do in a situation like this?\\!\n"
+"Tell the truth, causing the savior to leave?\\!\n"
+"Lie, only to have the entity reveal the truth?"
+msgstr ""
+"このような状況で、我々はどうすれば\n"
+"いいのだろうか？\\!\n"
+"真実を告げ、救世主を帰らせるか？\\!\n"
+"嘘を吐き、「存在」に真実を明かされるのか？"
+
+#. ID 13, Page 1, Line 36, Pos (11,25)
+msgid ""
+"We can only hope they will have enough\n"
+"respect for the world they've seen when\n"
+"standing at the top of the spire and\n"
+"juding our fates."
+msgstr ""
+"彼らが塔の頂上に立ち、我々の運命を裁くときに、\n"
+"自分たちが見てきた世界に十分な敬意を\n"
+"払ってくれることを願うしかない。"
+
+#. ID 13, Page 1, Line 42, Pos (11,25)
+msgid ".\\..\\.."
+msgstr ""
+
+#. ID 13, Page 1, Line 43, Pos (11,25)
+msgid ""
+"I don't want to end this world...\\!\n"
+"Is that what will happen if I leave..?"
+msgstr ""
+"この世界が滅ぶのは嫌だよ…\\!\n"
+"ミーが帰ったら、滅んじゃうの…？"
+
+#. ID 13, Page 1, Line 48, Pos (11,25)
+msgid ""
+"I'm sure you realize the\n"
+"importance of saving\n"
+"ME, yes?"
+msgstr ""
+"この私を救うことの重要性は\n"
+"理解しているわよね？"
+
+#. ID 13, Page 1, Line 51, Pos (11,25)
+msgid ""
+"\"To enter the Tower is to\n"
+"leave at the start.\"\n"
+"That's what the book said."
+msgstr ""
+"「塔に立ち入ることは、\n"
+"始まりから去ることである。」\n"
+"本にそう書いてあったわ。"
+
+#. ID 13, Page 1, Line 54, Pos (11,25)
+msgid ""
+"Now take this, and remember\n"
+"my beauty forever."
+msgstr ""
+"ほら、これを持っていくのよ。\n"
+"いつでも私の美しき顔を思い出せるわ。"
+
+#. ID 13, Page 1, Line 59, Pos (11,25)
+#. ID 13, Page 1, Line 82, Pos (11,25)
+#. ID 13, Page 1, Line 102, Pos (11,25)
+#. ID 13, Page 1, Line 121, Pos (11,25)
+#. ID 13, Page 1, Line 143, Pos (11,25)
+#. ID 13, Page 1, Line 164, Pos (11,25)
+msgid "A die..."
+msgstr "サイコロだ…"
+
+#. ID 13, Page 1, Line 61, Pos (11,25)
+msgid ""
+"Hopefully it reminds you of\n"
+"the terrible loss should you\n"
+"decide to abandon us, yes?"
+msgstr ""
+"私たちを見捨てる決断を下したときに、\n"
+"恐ろしい損失が待っているということも\n"
+"思い起こさせてくれればいいんだけどね？"
+
+#. ID 13, Page 1, Line 70, Pos (11,25)
+msgid ""
+"My honesty with you better\n"
+"pay off, kid.\\!\n"
+"Don't kill us."
+msgstr ""
+"アンタ、アタシの正直さに感謝しなさいよ。\\!\n"
+"アタシたちを殺すなんてもってのほか。"
+
+#. ID 13, Page 1, Line 73, Pos (11,25)
+msgid ""
+"\"To enter the Tower is to\n"
+"leave at the start.\"\n"
+"That's what the book said.\\!\n"
+"Dunno what it means."
+msgstr ""
+"「塔に立ち入ることは、\n"
+"始まりから去ることである。」\n"
+"本にそう書いてあったわ。\\!\n"
+"意味不明。"
+
+#. ID 13, Page 1, Line 77, Pos (11,25)
+msgid ""
+"One last thing.\\!\n"
+"Take this."
+msgstr ""
+"最後にもう一つ。\\!\n"
+"これを持っていきなさい。"
+
+#. ID 13, Page 1, Line 84, Pos (11,25)
+msgid ""
+"Keep that as a reminder\n"
+"that there are people\n"
+"who depend on you.\\!\n"
+"Even me."
+msgstr ""
+"みーんな、アンタを頼りにしてるって\n"
+"忘れないでよね。\\!\n"
+"…アタシも。"
+
+#. ID 13, Page 1, Line 88, Pos (11,25)
+msgid "So don't screw up, please."
+msgstr ""
+"そんなワケで、お願いだから\n"
+"しくじるんじゃないわよ。"
+
+#. ID 13, Page 1, Line 93, Pos (11,25)
+msgid ""
+"Crazy.\\!\n"
+"It's all crazy."
+msgstr ""
+"正気の沙汰じゃないわ…\\!\n"
+"全部。"
+
+#. ID 13, Page 1, Line 95, Pos (11,25)
+msgid ""
+"\"To enter the Tower is to\n"
+"leave at the start.\"\n"
+"Found that in a book."
+msgstr ""
+"「塔に立ち入ることは、\n"
+"始まりから去ることである。」\n"
+"そう本に書いてあった。"
+
+#. ID 13, Page 1, Line 98, Pos (11,25)
+msgid "Last thing."
+msgstr "…最後に。"
+
+#. ID 13, Page 1, Line 104, Pos (11,25)
+msgid ""
+"It's a gift.\\!\n"
+"Go."
+msgstr ""
+"プレゼントよ。\\!\n"
+"じゃあ、行ってきて。"
+
+#. ID 13, Page 1, Line 112, Pos (11,25)
+msgid "I know, that's soooo unfair..."
+msgstr "分かってるよ、それってとーっても不公平…"
+
+#. ID 13, Page 1, Line 113, Pos (11,25)
+msgid ""
+"\"To enter the Tower is to\n"
+"leave at the start.\"\n"
+"I found that in a book.\\!\n"
+"I hope it helps!"
+msgstr ""
+"「塔に立ち入ることは、\n"
+"始まりから去ることである。」\n"
+"本に書いてあったんだ。\\!\n"
+"助けになるといいな!"
+
+#. ID 13, Page 1, Line 117, Pos (11,25)
+msgid "Wait, one more thing!"
+msgstr "待って、それからもうひとつ!"
+
+#. ID 13, Page 1, Line 123, Pos (11,25)
+msgid ""
+"It's the cutest gift I had.\\!\n"
+"I hope it reminds you of me\n"
+"forever, 'kay?"
+msgstr ""
+"わたしが持ってる1番可愛いプレゼント。\\!\n"
+"わたしのこと、ずっと忘れないでほしいな？"
+
+#. ID 13, Page 1, Line 131, Pos (11,25)
+msgid ""
+"I'm sure it's overwhelming.\\!\n"
+"But I'm sure you know in your\n"
+"heart what the right choice is."
+msgstr ""
+"きっと圧倒されたと思うわ。\\!\n"
+"でも、心の中では何が正しい選択か\n"
+"分かっているはずよ。"
+
+#. ID 13, Page 1, Line 134, Pos (11,25)
+msgid ""
+"\"To enter the Tower is to\n"
+"leave at the start.\"\n"
+"I found this after I finished\n"
+"translating. It's all I could find."
+msgstr ""
+"「塔に立ち入ることは、\n"
+"始まりから去ることである。」\n"
+"解読した後に見つけたの。\n"
+"見つけられたのはそれだけよ。"
+
+#. ID 13, Page 1, Line 138, Pos (11,25)
+msgid ""
+"And, sweetie, before you\n"
+"go, take this."
+msgstr ""
+"あと、かわいこちゃん、行く前に\n"
+"これを持っていってちょうだい。"
+
+#. ID 13, Page 1, Line 145, Pos (11,25)
+msgid ""
+"You're just so adorable I had\n"
+"to give you something."
+msgstr ""
+"貴方はとっても可愛らしいから、\n"
+"何かあげなきゃと思ってね。"
+
+#. ID 13, Page 1, Line 153, Pos (11,25)
+msgid ""
+"So, like, not cool!\\!\n"
+"Lame!"
+msgstr ""
+"ね、全っ然クールじゃない!\\!\n"
+"ダサすぎ!"
+
+#. ID 13, Page 1, Line 155, Pos (11,25)
+msgid ""
+"\"To enter the Tower is to\n"
+"leave at the start.\"\n"
+"I found that really weird thing\n"
+"in one of my books."
+msgstr ""
+"「塔に立ち入ることは、\n"
+"始まりから去ることである。」\n"
+"ウチの本探したらさ、こんな文も\n"
+"見つけたんだわ。"
+
+#. ID 13, Page 1, Line 159, Pos (11,25)
+msgid ""
+"Oh hey pal, you should take\n"
+"this too."
+msgstr "そうだチビくん、これも持っていきな。"
+
+#. ID 13, Page 1, Line 166, Pos (11,25)
+msgid ""
+"You're the coolest cat\n"
+"hugng out with in a while!\\!\n"
+"Maybe after you save the\n"
+"world we could be bros!"
+msgstr ""
+"こんなにサイコーな猫チャンは\n"
+"久しぶりだわ!\\!\n"
+"アンタが世界救ったら後、\n"
+"ウチら兄弟になれるっしょ!"
+
+#. ID 14, Page 1, Line 2, Pos (20,26)
+msgid ""
+"My prophecy will be fulfilled.\n"
+"The messiah will come."
+msgstr ""
+"私の預言は成就する。\n"
+"救世主はやって来る。"
+
+#. ID 14, Page 1, Line 5, Pos (20,26)
+msgid ""
+"I may not live long enough to\n"
+"greet the messiah myself.\n"
+"But the robot will take care\n"
+"of that for me."
+msgstr ""
+"私は救世主を迎えるまで長生きできない\n"
+"かもしれない。\n"
+"しかし、ロボットが私の代わりに\n"
+"願いを叶えてくれるだろう。"
+
+#. ID 14, Page 1, Line 10, Pos (20,26)
+msgid ""
+"Here's to hoping it doesn't\n"
+"malfunction before the time\n"
+"comes."
+msgstr ""
+"その時が来る前に、ロボットが\n"
+"故障しないことを祈りたい。"
+
+#. ID 15, Page 1, Line 2, Pos (24,25)
+msgid "Phosphor"
+msgstr "螢光体"
+
+#. ID 15, Page 1, Line 4, Pos (24,25)
+msgid ""
+"Blue phosphor comes in\n"
+"both mineral and organic forms.\n"
+"It is found on the surface of the \n"
+"Barrens and inside seed shrimp."
+msgstr ""
+"靑色螢光体は鑛物形態および有機形態の\n"
+"両方で存在する。\n"
+"不毛の地の地表やエビの中から見つかる。"
+
+#. ID 15, Page 1, Line 9, Pos (24,25)
+msgid ""
+"Green phosphor is primarily organic.\n"
+"It is most commonly found inside \n"
+"of moss and certain insects of the\n"
+"glen."
+msgstr ""
+"綠色螢光体は有機形態が主である。\n"
+"通常、コケや峡谷のある昆虫の中から見つかる。"
+
+#. ID 15, Page 1, Line 14, Pos (24,25)
+msgid ""
+"Red phosphor is primarily liquid and \n"
+"flows in the streets of the Refuge.\n"
+"There is no known organic source\n"
+"of red phosphor."
+msgstr ""
+"赤色螢光体は液体が主であり、\n"
+"避難所の通りに流れている。\n"
+"赤色螢光体の有機的な供給源は知られていない。"
+
+#. ID 18, Page 1, Line 2, Pos (24,29)
+msgid "The cycle shall begin anew."
+msgstr "循環は新たに始まる。"
+
+#. ID 20, Page 1, Line 2, Pos (29,29)
+msgid "There are six."
+msgstr "6つの面がある"
+
+#. ID 20, Page 1, Line 4, Pos (29,29)
+msgid "Which face did you get?"
+msgstr "君はどの顔と遭遇した？"

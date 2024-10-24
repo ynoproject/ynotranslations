@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 20, Page 1, Line 2, Pos (29,54)
+msgid ""
+"There are vines\n"
+"blocking the entrance."
+msgstr "ツタが入り口をふさいでる。"
+
+#. ID 22, Page 1, Line 3, Pos (24,36)
+#. ID 22, Page 3, Line 17, Pos (24,36)
+#. ID 22, Page 3, Line 32, Pos (24,36)
+msgid "Thanks for doing business!"
+msgstr "毎度あり!"
+
+#. ID 22, Page 1, Line 7, Pos (24,36)
+msgid ""
+"Have any items for trade?\\!\n"
+"Anything you'd like to be\n"
+"rid of?"
+msgstr ""
+"物々交換したいものはある？\\!\n"
+"処分したいものは？"
+
+#. ID 22, Page 1, Line 11, Pos (24,36)
+msgid ""
+"Do I have anything I\n"
+"could trade..?"
+msgstr "交換できるものはあるかな…？"
+
+#. ID 22, Page 2, Line 3, Pos (24,36)
+msgid "I can't trade that."
+msgstr "それは交換できないよ。"
+
+#. ID 22, Page 3, Line 3, Pos (24,36)
+msgid ""
+"I think I have something\n"
+"I'd like to trade."
+msgstr "物々交換したいものがあるんだ。"
+
+#. ID 22, Page 3, Line 5, Pos (24,36)
+msgid ""
+"What can this wool\n"
+"get me?"
+msgstr "この羊毛を何と交換してくれるの？"
+
+#. ID 22, Page 3, Line 8, Pos (24,36)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"That'll get you.\\..\\..\\|\n"
+"This fine vial of ink!"
+msgstr ""
+"それなら.\\..\\..\\|\n"
+"このビンに入ってる素敵なインク!"
+
+#. ID 22, Page 3, Line 11, Pos (24,36)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 3, Line 25, Pos (24,36)
+#. Choice (2 options)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 22, Page 3, Line 22, Pos (24,36)
+msgid ""
+"Okay, okay.\\!\n"
+"I'll also throw in this\n"
+"commemorative T-shirt."
+msgstr ""
+"おっけーおっけー。\\!\n"
+"この記念Tシャツもつけよう。"
+
+#. ID 22, Page 3, Line 37, Pos (24,36)
+msgid ""
+"Oh well, then.\\!\n"
+"Come back anytime."
+msgstr ""
+"ふーん、そっか。\\!\n"
+"じゃあまたの機会にだな。"

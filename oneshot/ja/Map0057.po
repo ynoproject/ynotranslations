@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 13, Page 1, Line 2, Pos (39,24)
+msgid ""
+"There's a small plot\n"
+"of dirt here."
+msgstr "土が入った小さな鉢があるよ。"
+
+#. ID 13, Page 2, Line 4, Pos (39,24)
+msgid ""
+"That person said to bury\n"
+"the seed here."
+msgstr "ここに種を埋めるって言ってたよね。"
+
+#. ID 13, Page 2, Line 10, Pos (39,24)
+msgid ""
+"It's hard to imagine that\n"
+"it will grow into a person..."
+msgstr "これが人型に育つとは思えないな…"
+
+#. ID 13, Page 3, Line 2, Pos (39,24)
+#. ID 13, Page 5, Line 2, Pos (39,24)
+msgid "Please grow, little plant!"
+msgstr "育ってね、小さい植物さん!"
+
+#. ID 13, Page 4, Line 4, Pos (39,24)
+msgid ""
+"I just wanna be safe and\n"
+"pour this on it."
+msgstr "念のために、これもかけたいな。"

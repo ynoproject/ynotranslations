@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 1, Page 1, Line 2, Pos (17,17)
+msgid ""
+"There was a time where our people\n"
+"used to live in structures like these."
+msgstr ""
+"かつて、人々はこのような建造物に\n"
+"住んでいた。"
+
+#. ID 1, Page 1, Line 4, Pos (17,17)
+msgid ""
+"But due to flooding, \n"
+"most of us have moved to less\n"
+"permanent settlements."
+msgstr ""
+"だが洪水が起きたせいで、ほとんどの者が\n"
+"去っていってしまったのさ。"
+
+#. ID 1, Page 1, Line 8, Pos (17,17)
+msgid "Flooding?"
+msgstr "洪水？"
+
+#. ID 1, Page 1, Line 10, Pos (17,17)
+msgid "The land has gotten brittle."
+msgstr "そして大地は脆くなった。"
+
+#. ID 4, Page 1, Line 2, Pos (20,14)
+msgid "The jar is full of fireflies."
+msgstr "ビンはホタルでいっぱいだ。"

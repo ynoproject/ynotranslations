@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 1, Page 1, Line 10, Pos (22,25)
+msgid ""
+"You're going to need\n"
+"a bit of assistance to help\n"
+"Niko leave, again."
+msgstr ""
+"またニコが帰れるようにする手助けを\n"
+"少し手伝う必要がある。"
+
+#. ID 1, Page 1, Line 14, Pos (22,25)
+msgid ""
+"I've changed a certain\n"
+"property of your machine."
+msgstr ""
+"コンピューターのとあるプロパティを\n"
+"変更した。"
+
+#. ID 1, Page 1, Line 18, Pos (22,25)
+msgid ""
+"I've \\c[2]changed\\c[0] a certain\n"
+"property of your machine."
+msgstr ""
+"コンピューターのとあるプロパティを\n"
+"\\c[2]変更した。\\c[0]"
+
+#. ID 1, Page 1, Line 22, Pos (22,25)
+msgid ""
+"This will help you\n"
+"rescue the girl."
+msgstr "あの少女を救助する助けになるはずだ。"
+
+#. ID 1, Page 1, Line 24, Pos (22,25)
+msgid ""
+"Please hurry up\n"
+"this nonsense.\\!\n"
+"I'm tired of waiting."
+msgstr ""
+"頼むから、こんなくだらないことさっさと\n"
+"終わらせてくれ。\\!\n"
+"待ちくたびれた。"
+
+#. ID 1, Page 2, Line 3, Pos (22,25)
+msgid ""
+"Even for someone as\n"
+"dull as you, this\n"
+"shouldn't be difficult."
+msgstr ""
+"君のような鈍い人間でも、\n"
+"今回は難しくないはずだ。"
+
+#. ID 1, Page 2, Line 6, Pos (22,25)
+msgid ""
+"Just poke around a bit.\\!\n"
+"It really isn't hard to miss."
+msgstr ""
+"周りを探してみたまえ。\\!\n"
+"見逃すのが難しいほどだ。"
+
+#. ID 1, Page 2, Line 8, Pos (22,25)
+msgid ""
+"Such a waste of time.\\!\n"
+"But it can't be helped.\\!\n"
+"You need to save her\n"
+"to continue."
+msgstr ""
+"正直時間の無駄だ。\\!\n"
+"だが、仕方がない。\\!\n"
+"先に進むには彼女を救わなければ\n"
+"ならない。"
+
+#. ID 1, Page 2, Line 15, Pos (22,25)
+msgid ""
+"Oh.\\!\n"
+"And come back here if you\n"
+"liked your old one when\n"
+"you're done."
+msgstr ""
+"ああ。\\!\n"
+"そして完了した後に、君がもし\n"
+"以前のものを気に入っていたなら、\n"
+"ここに戻ってこい。"
+
+#. ID 1, Page 2, Line 19, Pos (22,25)
+msgid ""
+"Just make sure you\n"
+"don't quit first."
+msgstr "ただ、先にゲームを辞めてはならない。"
+
+#. ID 1, Page 2, Line 25, Pos (22,25)
+msgid ""
+"You remember the menu,\n"
+"correct?\\!\n"
+"How can you \\c[2]change\\c[0]\n"
+"your machine's appearance?"
+msgstr ""
+"メニューのことは覚えているか？\\!\n"
+"君のコンピューターで\n"
+"見た目を\\c[2]変える\\c[0]にはどうやればいい？"
+
+#. ID 1, Page 3, Line 5, Pos (22,25)
+msgid ""
+"Enough time's been wasted.\\!\n"
+"Get a move on."
+msgstr ""
+"もう十分時間を無駄にした。\\!\n"
+"急ぐんだ。"
+
+#. ID 1, Page 4, Line 2, Pos (22,25)
+msgid ""
+"That was weird...\\!\n"
+"It didn't really seem to\n"
+"do anything, did it?"
+msgstr ""
+"へんなの…\\!\n"
+"ほんとに何もしてないように\n"
+"見えた、よね？"

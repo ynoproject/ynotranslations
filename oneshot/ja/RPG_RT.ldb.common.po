@@ -1,0 +1,889 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 20, Line 25
+msgid ""
+"I don't think I can power it\n"
+"in its current state."
+msgstr "今の状態じゃ充電できなさそうだよ。"
+
+#. ID 20, Line 27
+msgid ""
+"I think we're on the right\n"
+"track, though..."
+msgstr "ちゃんと先に進めてると思うけどね…"
+
+#. ID 20, Line 33
+msgid ""
+"Looks like it charged the\n"
+"battery completely!\\!\n"
+"That was fast..."
+msgstr ""
+"充電が満タンになったみたい。\\!\n"
+"一瞬だったね…"
+
+#. ID 20, Line 51
+msgid ""
+"Niko dips the branch into the\n"
+"alcohol."
+msgstr "ニコは枝をアルコールにつけた。"
+
+#. ID 20, Line 68
+msgid ""
+"Let me see if I can get this\n"
+"lens out..."
+msgstr "レンズを外せるか試してみるね…"
+
+#. ID 20, Line 72
+msgid "Done!"
+msgstr "できた!"
+
+#. ID 20, Line 86
+msgid "The lens pops right in."
+msgstr "レンズがぴったりはまった。"
+
+#. ID 20, Line 100
+msgid ""
+"I'm not ready to inject\n"
+"the liquid yet."
+msgstr "液体を注入する準備ができてないよ。"
+
+#. ID 20, Line 112
+msgid ""
+"I can inject the liquid\n"
+"through the cork."
+msgstr "液体が注入できるよ。"
+
+#. ID 20, Line 116
+msgid "And if I shake this now..."
+msgstr "そしてこれを振ると…"
+
+#. ID 20, Line 122
+msgid "Interesting."
+msgstr "わーお。"
+
+#. ID 20, Line 137
+msgid ""
+"I could use this to\n"
+"clean things."
+msgstr "これで掃除できるね。"
+
+#. ID 20, Line 141
+msgid "I hope this works..."
+msgstr "うまくいくといいけど…"
+
+#. ID 20, Line 148
+msgid ""
+"I'll burn my hands off\n"
+"if I don't use protection!"
+msgstr "保護具を着けないと手が焼けちゃうよ!"
+
+#. ID 20, Line 162
+msgid ""
+"The feather's tip seems fine\n"
+"enough to use as a writing\n"
+"instrument."
+msgstr ""
+"羽根の先っぽは書くのに\n"
+"使えそうなぐらい細いみたい。"
+
+#. ID 22, Line 4
+msgid ""
+"You must guide Niko through\n"
+"the game without quitting."
+msgstr ""
+"ゲームをやめずにニコを導かなければ\n"
+"ならない。"
+
+#. ID 22, Line 9
+msgid ""
+"To activate an item,\n"
+"select it in the items\n"
+"menu."
+msgstr ""
+"アイテムを有効化するには、メニューの\n"
+"アイテムからアイテムを選択する。"
+
+#. ID 22, Line 12
+msgid ""
+"You can combine items\n"
+"and use them with various\n"
+"objects in the environment."
+msgstr ""
+"アイテムを組み合わせたり、様々な\n"
+"オブジェクトに使用することができる。"
+
+#. ID 22, Line 15
+msgid ""
+"To deactivate an item,\n"
+"press the shift key or\n"
+"select it in the items\n"
+"menu again."
+msgstr ""
+"アイテムを無効化するには、シフトキー\n"
+"を押すか、メニューのアイテムから\n"
+"もう一度同じアイテムを選択する。"
+
+#. ID 22, Line 22
+msgid ""
+"Quitting the game before\n"
+"you reach the end will\n"
+"kill Niko."
+msgstr ""
+"終わりまで到達する前にゲームを\n"
+"やめると、ニコは死ぬ。"
+
+#. ID 22, Line 25
+msgid "You only have one shot."
+msgstr "チャンスは一度きりだ。"
+
+#. ID 22, Line 29
+msgid ""
+"You can safely save and\n"
+"quit the game by resting\n"
+"at certain beds."
+msgstr ""
+"特定のベッドで休めば、安全にゲームを\n"
+"セーブしてやめることができる。"
+
+#. ID 22, Line 32
+msgid ""
+"This is the \\c[1]only\\c[0] time before\n"
+"the end where you can quit\n"
+"without harm."
+msgstr ""
+"終わりの前に\\c[1]唯一\\c[0]デメリットなしにやめる\n"
+"方法だ。"
+
+#. ID 22, Line 38
+msgid ""
+"You can press any\n"
+"of the number keys\n"
+"to open the fast travel\n"
+"menu."
+msgstr ""
+"いずれかの数字キーを押すと、\n"
+"ファストトラベルメニューを開く\n"
+"ことができる。"
+
+#. ID 22, Line 42
+msgid ""
+"From this menu Niko\n"
+"will be able to instantly\n"
+"travel to locations\n"
+"already seen."
+msgstr ""
+"このメニューから、ニコがすでに\n"
+"見た場所にすぐに移動することができる。"
+
+#. ID 22, Line 46
+msgid ""
+"However, you will be\n"
+"unable to access\n"
+"this menu indoors."
+msgstr ""
+"ただし、屋内でこのメニューを\n"
+"開くことはできない。"
+
+#. ID 22, Line 52
+msgid ""
+"Items shown in orange\n"
+"are equippable gear."
+msgstr ""
+"オレンジ色のアイテムは、\n"
+"装備可能なアイテムである。"
+
+#. ID 22, Line 54
+msgid ""
+"Use the \"Equipment\"\n"
+"menu to use these\n"
+"items."
+msgstr ""
+"「装備」メニューでこのような\n"
+"アイテムを使用できる。"
+
+#. ID 22, Line 60
+msgid ""
+"Your mission is to\n"
+"help Niko escape.\\!\n"
+"Keep your eyes on\n"
+"the goal."
+msgstr ""
+"君のミッションはニコを脱出させること。\\!\n"
+"目標を見失うな。"
+
+#. ID 27, Line 5
+msgid ""
+"The name this world's\n"
+"god is... unsure."
+msgstr "この世界の神様の名は…不確かだ。"
+
+#. ID 27, Line 7
+msgid "Please remind us."
+msgstr "思い出してくれ。"
+
+#. ID 31, Line 13
+msgid "I can't take that off here."
+msgstr "ここでは外せないよ。"
+
+#. ID 31, Line 43
+msgid ""
+"There's no way\n"
+"I'm wearing that."
+msgstr "こんなの着るわけないよ。"
+
+#. ID 32, Line 3
+msgid "I can't combine those..."
+msgstr "組み合わせられない…"
+
+#. ID 32, Line 7
+msgid "Those can't be combined."
+msgstr "この2つを組み合わせることはできません"
+
+#. ID 37, Line 709
+msgid ""
+"I'll suffocate if I go\n"
+"there without protection."
+msgstr ""
+"無防備で行ったら息ができなく\n"
+"なっちゃうよ。"
+
+#. ID 37, Line 714
+msgid ""
+"The air is too\n"
+"hazardous to breathe."
+msgstr "ここの空気は呼吸するには危険すぎる。"
+
+#. ID 37, Line 729
+msgid ""
+"I need to find out\n"
+"where that voice is\n"
+"coming from."
+msgstr "声がどこから聞こえるのか探さなきゃ。"
+
+#. ID 37, Line 873
+msgid "You cannot fast travel here."
+msgstr "ここではファストトラベルできない。"
+
+#. ID 50, Line 13
+#. Show String Picture
+msgctxt "strpic"
+msgid "Continue"
+msgstr "つづきから"
+
+#. ID 50, Line 16
+#. Show String Picture
+msgctxt "strpic"
+msgid "Save"
+msgstr "セーブ"
+
+#. ID 51, Line 16
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"\\c[3]$l Corrupted Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"\\c[3]$l 破損したデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 20
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"\\c[3]$l No Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"\\c[3]$l データがありません\\c[0]\n"
+"        "
+
+#. ID 51, Line 24
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"Niko\n"
+"Barrens"
+msgstr ""
+"セーブ  \\v[228]\n"
+"ニコ\n"
+"不浄の地"
+
+#. ID 51, Line 28
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"Niko\n"
+"Glen"
+msgstr ""
+"セーブ  \\v[228]\n"
+"ニコ\n"
+"峡谷"
+
+#. ID 51, Line 32
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"Niko\n"
+"Refuge"
+msgstr ""
+"セーブ  \\v[228]\n"
+"ニコ\n"
+"避難所"
+
+#. ID 51, Line 36
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"\\c[3]$l You killed Niko.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"\\c[3]$l おまえがニコを殺した。\\c[0]\n"
+"        "
+
+#. ID 51, Line 40
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"\\c[3]$l Niko saved the world.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"\\c[3]$l ニコは世界を救った。\\c[0]\n"
+"        "
+
+#. ID 51, Line 44
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"\\c[3]$l The savior is gone.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"\\c[3]$l 救世主はもういない。\\c[0]\n"
+"        "
+
+#. ID 51, Line 48
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"Niko\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"ニコ\n"
+"        "
+
+#. ID 51, Line 51
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[228]\n"
+"\\c[3]$l Unknown Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[228]\n"
+"\\c[3]$l 不明なデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 71
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"\\c[3]$l Corrupted Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"\\c[3]$l 破損したデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 75
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"\\c[3]$l No Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"\\c[3]$l データがありません\\c[0]\n"
+"        "
+
+#. ID 51, Line 79
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"Niko\n"
+"Barrens"
+msgstr ""
+"セーブ  \\v[227]\n"
+"ニコ\n"
+"不浄の地"
+
+#. ID 51, Line 83
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"Niko\n"
+"Glen"
+msgstr ""
+"セーブ  \\v[227]\n"
+"ニコ\n"
+"峡谷"
+
+#. ID 51, Line 87
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"Niko\n"
+"Refuge"
+msgstr ""
+"セーブ  \\v[227]\n"
+"ニコ\n"
+"避難所"
+
+#. ID 51, Line 91
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"\\c[3]$l You killed Niko.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"\\c[3]$l おまえがニコを殺した。\\c[0]\n"
+"        "
+
+#. ID 51, Line 95
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"\\c[3]$l Niko saved the world.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"\\c[3]$l ニコは世界を救った。\\c[0]\n"
+"        "
+
+#. ID 51, Line 99
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"\\c[3]$l The savior is gone.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"\\c[3]$l 救世主はもういない。\\c[0]\n"
+"        "
+
+#. ID 51, Line 103
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"Niko\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"ニコ\n"
+"        "
+
+#. ID 51, Line 106
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[227]\n"
+"\\c[3]$l Unknown Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[227]\n"
+"\\c[3]$l 不明なデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 126
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"\\c[3]$l Corrupted Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"\\c[3]$l 破損したデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 130
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"\\c[3]$l No Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"\\c[3]$l データがありません\\c[0]\n"
+"        "
+
+#. ID 51, Line 134
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"Niko\n"
+"Barrens"
+msgstr ""
+"セーブ  \\v[224]\n"
+"ニコ\n"
+"不浄の地"
+
+#. ID 51, Line 138
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"Niko\n"
+"Glen"
+msgstr ""
+"セーブ  \\v[224]\n"
+"ニコ\n"
+"峡谷"
+
+#. ID 51, Line 142
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"Niko\n"
+"Refuge"
+msgstr ""
+"セーブ  \\v[224]\n"
+"ニコ\n"
+"避難所"
+
+#. ID 51, Line 146
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"\\c[3]$l You killed Niko.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"\\c[3]$l おまえがニコを殺した。\\c[0]\n"
+"        "
+
+#. ID 51, Line 150
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"\\c[3]$l Niko saved the world.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"\\c[3]$l ニコは世界を救った。\\c[0]\n"
+"        "
+
+#. ID 51, Line 154
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"\\c[3]$l The savior is gone.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"\\c[3]$l 救世主はもういない。\\c[0]\n"
+"        "
+
+#. ID 51, Line 158
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"Niko\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"ニコ\n"
+"        "
+
+#. ID 51, Line 161
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[224]\n"
+"\\c[3]$l Unknown Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[224]\n"
+"\\c[3]$l 不明なデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 181
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"\\c[3]$l Corrupted Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"\\c[3]$l 破損したデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 185
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"\\c[3]$l No Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"\\c[3]$l データがありません\\c[0]\n"
+"        "
+
+#. ID 51, Line 189
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"Niko\n"
+"Barrens"
+msgstr ""
+"セーブ  \\v[226]\n"
+"ニコ\n"
+"不浄の地"
+
+#. ID 51, Line 193
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"Niko\n"
+"Glen"
+msgstr ""
+"セーブ  \\v[226]\n"
+"ニコ\n"
+"峡谷"
+
+#. ID 51, Line 197
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"Niko\n"
+"Refuge"
+msgstr ""
+"セーブ  \\v[226]\n"
+"ニコ\n"
+"避難所"
+
+#. ID 51, Line 201
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"\\c[3]$l You killed Niko.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"\\c[3]$l おまえがニコを殺した。\\c[0]\n"
+"        "
+
+#. ID 51, Line 205
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"\\c[3]$l Niko saved the world.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"\\c[3]$l ニコは世界を救った。\\c[0]\n"
+"        "
+
+#. ID 51, Line 209
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"\\c[3]$l The savior is gone.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"\\c[3]$l 救世主はもういない。\\c[0]\n"
+"        "
+
+#. ID 51, Line 213
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"Niko\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"ニコ\n"
+"        "
+
+#. ID 51, Line 216
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[226]\n"
+"\\c[3]$l Unknown Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[226]\n"
+"\\c[3]$l 不明なデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 236
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"\\c[3]$l Corrupted Data\\c[0]\n"
+"       "
+msgstr ""
+"セーブ  \\v[225]\n"
+"\\c[3]$l 破損したデータ\\c[0]\n"
+"        "
+
+#. ID 51, Line 240
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"\\c[3]$l No Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[225]\n"
+"\\c[3]$l データがありません\\c[0]\n"
+"        "
+
+#. ID 51, Line 244
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"Niko\n"
+"Barrens"
+msgstr ""
+"セーブ  \\v[225]\n"
+"ニコ\n"
+"不浄の地"
+
+#. ID 51, Line 248
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"Niko\n"
+"Glen"
+msgstr ""
+"セーブ  \\v[225]\n"
+"ニコ\n"
+"峡谷"
+
+#. ID 51, Line 252
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"Niko\n"
+"Refuge"
+msgstr ""
+"セーブ  \\v[225]\n"
+"ニコ\n"
+"避難所"
+
+#. ID 51, Line 256
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"\\c[3]$l You killed Niko.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[225]\n"
+"\\c[3]$l おまえがニコを殺した。\\c[0]\n"
+"        "
+
+#. ID 51, Line 260
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"\\c[3]$l Niko saved the world.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[225]\n"
+"\\c[3]$l ニコは世界を救った。\\c[0]\n"
+"        "
+
+#. ID 51, Line 264
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"\\c[3]$l The savior is gone.\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[225]\n"
+"\\c[3]$l 救世主はもういない。\\c[0]\n"
+"        "
+
+#. ID 51, Line 268
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"Niko\n"
+"        "
+msgstr ""
+"セーブ  \\v[225]\n"
+"ニコ\n"
+"        "
+
+#. ID 51, Line 271
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"Save  \\v[225]\n"
+"\\c[3]$l Unknown Data\\c[0]\n"
+"        "
+msgstr ""
+"セーブ  \\v[225]\n"
+"\\c[3]$l 不明なデータ\\c[0]\n"
+"        "

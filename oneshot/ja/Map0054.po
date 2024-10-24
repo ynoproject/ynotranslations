@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 5, Page 1, Line 2, Pos (10,30)
+msgid ""
+"Hello!\\!\n"
+"Can I get you anything?"
+msgstr ""
+"こんばんは!\\!\n"
+"何か食べるかい？"
+
+#. ID 5, Page 1, Line 5, Pos (10,30)
+msgid ""
+"No thank you.\\!\n"
+"...Where is everybody?"
+msgstr ""
+"いや、大丈夫。\\!\n"
+"…みんなはどこにいるの？"
+
+#. ID 5, Page 1, Line 8, Pos (10,30)
+msgid ""
+"You saw the floating\n"
+"squares outside.\\!\n"
+"There's... not many people\n"
+"left around on the skywalks."
+msgstr ""
+"外の浮いてる四角形は見たかな。\\!\n"
+"連絡通路のあたりには…\n"
+"あまり人が残ってないのさ。"
+
+#. ID 5, Page 1, Line 12, Pos (10,30)
+msgid ""
+"The surface is still\n"
+"rather busy, but...\\!\n"
+"It's not easy to get\n"
+"there and back."
+msgstr ""
+"地上はまだ賑やかだけど…\\!\n"
+"行ったり来たりはあんまり\n"
+"楽じゃないから。"
+
+#. ID 5, Page 1, Line 17, Pos (10,30)
+msgid "I see."
+msgstr "なるほど。"
+
+#. ID 5, Page 2, Line 2, Pos (10,30)
+msgid ""
+"Excuse me...\\!\n"
+"I'd like to eat something,\n"
+"but I don't have any\n"
+"money..."
+msgstr ""
+"あの…\\!\n"
+"何か食べたくって、でもお金がないんだ…"
+
+#. ID 5, Page 2, Line 7, Pos (10,30)
+msgid ""
+"Well, you're in luck.\\!\n"
+"There's always a special\n"
+"for the light-bearer at the\n"
+"low price of...\\. free!"
+msgstr ""
+"おっと、運がいい。\\!\n"
+"光の運び手特別割引サービスで…\\.\n"
+"無料だよ!"
+
+#. ID 5, Page 2, Line 11, Pos (10,30)
+msgid "What can I get you?"
+msgstr "何を作ればいいかな？"
+
+#. ID 5, Page 2, Line 13, Pos (10,30)
+msgid ""
+"Do you...\\.\n"
+"Do you have pancakes?"
+msgstr ""
+"あの…\\.\n"
+"パンケーキって、ある？"
+
+#. ID 5, Page 2, Line 16, Pos (10,30)
+msgid "I do!"
+msgstr "あるよ!"
+
+#. ID 5, Page 2, Line 18, Pos (10,30)
+msgid "Pancakes..."
+msgstr "パンケーキ…"
+
+#. ID 5, Page 2, Line 20, Pos (10,30)
+msgid ""
+"Take a seat and I'll\n"
+"fry some up for you."
+msgstr "座ってくれたら、すぐ作ってあげるよ。"
+
+#. ID 5, Page 2, Line 30, Pos (10,30)
+msgid ""
+"These pancakes are\n"
+"so good...\\!\n"
+"And I'm really hungry..."
+msgstr ""
+"このパンケーキ、すっごく美味しい…\\!\n"
+"あと、とってもお腹空いてんだな…"
+
+#. ID 5, Page 2, Line 34, Pos (10,30)
+msgid "Thank you very much!"
+msgstr "本当にありがとう!"
+
+#. ID 5, Page 2, Line 35, Pos (10,30)
+msgid ""
+"But they aren't as good as\n"
+"mama's.\\!\n"
+"Sorry, mister."
+msgstr ""
+"でも、ママのにはかなわないや…。\\!\n"
+"ごめんね、お兄さん。"
+
+#. ID 5, Page 2, Line 39, Pos (10,30)
+msgid ""
+"Mama always put the\n"
+"nuts we picked in the\n"
+"pancake goop."
+msgstr ""
+"ママはね、いつも砕いたナッツを\n"
+"パンケーキの生地に入れてくれるんだ。"
+
+#. ID 5, Page 2, Line 43, Pos (10,30)
+msgid ""
+"She always made\n"
+"them when I was\n"
+"feeling sad."
+msgstr ""
+"ミーが悲しくなっちゃったときに、\n"
+"いつも作ってくれてたんだ。"
+
+#. ID 5, Page 2, Line 46, Pos (10,30)
+msgid "Or lonely."
+msgstr "寂しくなったときもね。"
+
+#. ID 5, Page 2, Line 47, Pos (10,30)
+#. ID 5, Page 2, Line 58, Pos (10,30)
+msgid "..."
+msgstr "…"
+
+#. ID 5, Page 2, Line 49, Pos (10,30)
+msgid ""
+"...\\!\n"
+"Mama...\\!\n"
+"I really miss my mama..."
+msgstr ""
+"…\\!\n"
+"ママ…\\!\n"
+"はやくママに会いたいよ…"
+
+#. ID 5, Page 2, Line 53, Pos (10,30)
+msgid ""
+"Hey, it's okay.\\!\n"
+"I'm sure you'll see her\n"
+"again after you replace\n"
+"the sun."
+msgstr ""
+"ほら、大丈夫だって。\\!\n"
+"太陽を取り替えたら、また会えるよ。"
+
+#. ID 5, Page 2, Line 60, Pos (10,30)
+msgid "...Want some more pancakes?"
+msgstr "…もっとパンケーキ食べるかい？"
+
+#. ID 5, Page 2, Line 62, Pos (10,30)
+msgid ""
+"...I'm okay.\n"
+"Thank you."
+msgstr ""
+"…大丈夫\n"
+"ありがとう。"
+
+#. ID 5, Page 3, Line 2, Pos (10,30)
+msgid ""
+"Hang in there.\\!\n"
+"You can do it."
+msgstr ""
+"もう少しの辛抱さ。\\!\n"
+"君ならできる。"
