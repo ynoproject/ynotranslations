@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 14, Page 1, Line 2, Pos (18,13)
+#. Choice (4 options)
+msgid ""
+"Current Progress\n"
+"Video Options\n"
+"Emote Bubble\n"
+"Exit The Game"
+msgstr ""
+"当前进度\n"
+"视窗选项\n"
+"表情气泡\n"
+"退出游戏"
+
+#. ID 14, Page 1, Line 18, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/10\n"
+"Wuqi Effects: \\c[1]\\V[15]\\c[0]/7\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/3"
+msgstr ""
+"效果: \\c[1]\\V[14]\\c[0]/10\n"
+"Wuqi 效果: \\c[1]\\V[15]\\c[0]/7\n"
+"特殊道具: \\c[1]\\V[16]\\c[0]/3"
+
+#. ID 14, Page 1, Line 23, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/10\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/3"
+msgstr ""
+"效果: \\c[1]\\V[14]\\c[0]/10\n"
+"特殊道具: \\c[1]\\V[16]\\c[0]/3"
+
+#. ID 14, Page 1, Line 27, Pos (18,13)
+msgid ""
+"Wallpapers: \\c[1]\\V[90]\\c[0]/17\n"
+"Documents: \\c[1]\\V[91]\\c[0]/13\n"
+"Menu Style: \\c[1]\\V[92]\\c[0]/4\n"
+"Thanks for playing :P"
+msgstr ""
+"壁纸: \\c[1]\\V[90]\\c[0]/17\n"
+"文档: \\c[1]\\V[91]\\c[0]/13\n"
+"菜单样式: \\c[1]\\V[92]\\c[0]/4\n"
+"感谢游玩 :P"
+
+#. ID 14, Page 1, Line 38, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][ON]\\c[0]"
+msgstr ""
+"按下 \\c[1]5\\c[0] 键选择你想发送的表情气泡。\n"
+"目前为 \\c[1][开启]\\c[0] 状态"
+
+#. ID 14, Page 1, Line 40, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn OFF\n"
+"Keep it"
+msgstr ""
+"关闭功能\n"
+"保持现状"
+
+#. ID 14, Page 1, Line 43, Pos (18,13)
+#. ID 14, Page 1, Line 55, Pos (18,13)
+msgid "Setup complete."
+msgstr "设置完毕。"
+
+#. ID 14, Page 1, Line 50, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][OFF]\\c[0]"
+msgstr ""
+"按下 \\c[1]5\\c[0] 键选择你想发送的表情气泡。\n"
+"目前为 \\c[1][关闭]\\c[0] 状态"
+
+#. ID 14, Page 1, Line 52, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn ON\n"
+"Keep it"
+msgstr ""
+"开启功能\n"
+"保持现状"
+
+#. ID 14, Page 1, Line 64, Pos (18,13)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "你确定吗？"
+
+#. ID 14, Page 1, Line 65, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 13, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 100, Page 1, Line 3, Pos (1,12)
+#. Choice (2 options, embedded in a message)
+#. ID 108, Page 1, Line 5, Pos (3,4)
+#. Choice (2 options, embedded in a message)
+#. ID 109, Page 1, Line 5, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+#. ID 110, Page 1, Line 5, Pos (3,8)
+#. Choice (2 options, embedded in a message)
+#. ID 111, Page 1, Line 5, Pos (3,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"是\n"
+"否"
+
+#. ID 21, Page 1, Line 2, Pos (1,2)
+msgid "The recycle bin is empty. "
+msgstr "回收站是空的。"
+
+#. ID 23, Page 1, Line 12, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "Quit?"
+msgstr "退出？"
+
+#. ID 100, Page 1, Line 2, Pos (1,12)
+#. Contains choice at line 2 (2 options)
+msgid "Play wuqi? (Unaccomplished First Version)"
+msgstr "玩 wuqi 吗? (无期初代版本)"
+
+#. ID 108, Page 1, Line 3, Pos (3,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.0 Default\n"
+"\\>Use this?"
+msgstr ""
+"\\>【菜单样式】 No.0 默认\n"
+"\\>使用这个？"
+
+#. ID 109, Page 1, Line 3, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.1 Frame\n"
+"\\>Use this?"
+msgstr ""
+"\\>【菜单样式】 No.1 边框\n"
+"\\>使用这个？"
+
+#. ID 110, Page 1, Line 3, Pos (3,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.2 Classic\n"
+"\\>Use this?"
+msgstr ""
+"\\>【菜单样式】 No.2 经典款\n"
+"\\>使用这个？"
+
+#. ID 111, Page 1, Line 3, Pos (3,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.3 PC Game\n"
+"\\>Use this?"
+msgstr ""
+"\\>【菜单样式】 No.3 PC游戏\n"
+"\\>使用这个？"

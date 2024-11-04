@@ -1,0 +1,1223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 18, Line 28
+msgid "                   - Straw Hat -"
+msgstr "                     - 草帽 -"
+
+#. ID 18, Line 32
+msgid "                   - Hoverboard -"
+msgstr "                     - 滑板 -"
+
+#. ID 18, Line 36
+msgid "                - Plastic Bottle -"
+msgstr "                    - 塑料瓶 -"
+
+#. ID 18, Line 40
+msgid "                 - Games Console -"
+msgstr "                    - 游戏机 -"
+
+#. ID 18, Line 44
+msgid "                     - 1-bit -"
+msgstr "                     - 黑白 -"
+
+#. ID 18, Line 48
+msgid "                   - Emptiness -"
+msgstr "                     - 空虚 -"
+
+#. ID 18, Line 52
+msgid "                   - Glow Stick -"
+msgstr "                    - 荧光棒 -"
+
+#. ID 18, Line 56
+msgid "                    - Classic -"
+msgstr "                    - 经典款 -"
+
+#. ID 18, Line 60
+msgid "                     - Baby -"
+msgstr "                     - 婴儿 -"
+
+#. ID 18, Line 64
+msgid "                      - Fu -"
+msgstr "                     - 福字 -"
+
+#. ID 18, Line 68
+msgid "                   - Skeleton -"
+msgstr "                     - 骷髅 -"
+
+#. ID 18, Line 72
+msgid "                     - Messy -"
+msgstr "                    - 一团糟 -"
+
+#. ID 28, Line 50
+msgid "               - Move While Seated -"
+msgstr "                 - 骑着椅子移动 -"
+
+#. ID 29, Line 1
+#. Contains choice at line 2 (3 options)
+msgid "\\>Notes / Computer?"
+msgstr "\\>笔记/电脑？"
+
+#. ID 29, Line 2
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Take notes (Save)\n"
+"Use computer\n"
+"..."
+msgstr ""
+"记笔记（存档）\n"
+"使用电脑\n"
+"..."
+
+#. ID 29, Line 6
+msgid ""
+"Tip: The SAVE here is just an animation, \n"
+"it's not useful.\n"
+"          Please save it in the reality :("
+msgstr ""
+"小贴士：这里的存档只是个动画，\n"
+"并没有神马卵用。n          请回到现实存档哦 :("
+
+#. ID 36, Line 2
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 61
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "writer"
+msgstr ""
+
+#. ID 36, Line 3
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "The rooftop"
+msgstr "天台"
+
+#. ID 36, Line 7
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 6
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 11
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 16
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 21
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 26
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 31
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 36
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 41
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 46
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Moucky"
+msgstr ""
+
+#. ID 36, Line 8
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "0P0"
+msgstr ""
+
+#. ID 36, Line 12
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "-Drifter"
+msgstr ""
+
+#. ID 36, Line 13
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Untitled"
+msgstr "无题"
+
+#. ID 36, Line 17
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "nanako"
+msgstr ""
+
+#. ID 36, Line 18
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Yin!"
+msgstr ""
+
+#. ID 36, Line 22
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 27
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 37
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 47
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 76
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 86
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "shirleycrow"
+msgstr ""
+
+#. ID 36, Line 23
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "stay peace"
+msgstr "心如止水"
+
+#. ID 36, Line 28
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "darkness"
+msgstr "黑暗"
+
+#. ID 36, Line 32
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 52
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 51
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 81
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 91
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 161
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 221
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 226
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "rosaregard"
+msgstr ""
+
+#. ID 36, Line 33
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "midnight gate"
+msgstr "午夜之门"
+
+#. ID 36, Line 38
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "deep sea"
+msgstr "深海"
+
+#. ID 36, Line 42
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 72
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Izy"
+msgstr ""
+
+#. ID 36, Line 43
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "shipwrecks"
+msgstr "沉船"
+
+#. ID 36, Line 48
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "dream in dream"
+msgstr "梦中梦"
+
+#. ID 36, Line 53
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "lost in the game"
+msgstr "迷失于游戏"
+
+#. ID 36, Line 57
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "JPiggs"
+msgstr ""
+
+#. ID 36, Line 58
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Dreaming in 8 bits"
+msgstr "8 位之梦"
+
+#. ID 36, Line 62
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "oliver"
+msgstr ""
+
+#. ID 36, Line 63
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "the dark"
+msgstr "月黑"
+
+#. ID 36, Line 67
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Mnn988"
+msgstr ""
+
+#. ID 36, Line 68
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "The Shadow"
+msgstr "阴影"
+
+#. ID 36, Line 73
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Flower-bury"
+msgstr "花葬"
+
+#. ID 36, Line 77
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 82
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Jellyfish Legerdemain"
+msgstr ""
+
+#. ID 36, Line 78
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "False End"
+msgstr "假结局"
+
+#. ID 36, Line 83
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Lights On, Lights Off"
+msgstr "灯明，灯灭"
+
+#. ID 36, Line 87
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "cyan"
+msgstr ""
+
+#. ID 36, Line 88
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "fields"
+msgstr "原野"
+
+#. ID 37, Line 4
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.    Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No.    作者：\\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 37, Line 6
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 21
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 34
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 47
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 62
+#. Choice (2 options, embedded in a message)
+#. ID 71, Line 6
+#. Choice (2 options, embedded in a message)
+#. ID 71, Line 19
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Try this\n"
+"Never mind"
+msgstr ""
+"试试看\n"
+"算了"
+
+#. ID 37, Line 19
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.\\v[30] Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0] (Default wallpaper)"
+msgstr ""
+"\\>No.\\v[30] 作者：\\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]（默认壁纸）"
+
+#. ID 37, Line 32
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.A Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No.A 作者：\\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 37, Line 45
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.B Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No.B 作者：\\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 37, Line 60
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.\\v[30] Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No.\\v[30] 作者：\\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 38, Line 6
+#. ID 195, Line 6
+msgid "\\$\\.\\^"
+msgstr ""
+
+#. ID 38, Line 16
+#. ID 38, Line 29
+#. ID 38, Line 69
+#. ID 38, Line 80
+#. ID 38, Line 110
+#. ID 38, Line 124
+#. ID 38, Line 134
+#. ID 38, Line 144
+#. ID 193, Line 2
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 42, Line 16
+msgid "[Find it]"
+msgstr "[找到它了]"
+
+#. ID 42, Line 17
+msgid ""
+"When did I forget about it?\n"
+"I mean, I did like it back in the day, so it \n"
+"shouldn't have been in that box, right?"
+msgstr ""
+"我是从什么时候把它给忘了的呢？\n"
+"我是说，我当初确实很喜欢它，所以它不该出现在那个\n"
+"箱子里，对吧？"
+
+#. ID 42, Line 20
+msgid ""
+"I cleaned it and now,\n"
+"it looks as cool as before........................\n"
+".....................And embarrassing to me, haha."
+msgstr ""
+"我把它洗干净了，\n"
+"它现在看着还是一如既往的酷........................\n"
+"..........................和这般的令我尴尬，哈哈。"
+
+#. ID 42, Line 26
+msgid "[It]"
+msgstr "[它]"
+
+#. ID 42, Line 27
+msgid ""
+"Today, I saw it in the canteen's claw crane.\n"
+"It looked silly, but its eyes were fixed on me the \n"
+"wholeeee time."
+msgstr ""
+"今天，我在小卖部的抓娃娃机里看到了它。\n"
+"它看起来呆呆的，但它的眼睛一直盯着我ooooo看。"
+
+#. ID 42, Line 30
+msgid ""
+"So...I spent 55 yuan!!! So much money!!!\n"
+"It ended up saving five yuan though. \n"
+"\n"
+"Ahhhhhhhhhhh did I really have to do that?"
+msgstr ""
+"所以...我花了55块钱！！！辣么大一笔钱！！！\n"
+"不过最后还省了5元就是咯。\n"
+"\n"
+"阿啊啊啊啊我真的有必要这么做吗？"
+
+#. ID 42, Line 37
+msgid "[Trying To Write Something]"
+msgstr "[尝试写点东西]"
+
+#. ID 42, Line 38
+msgid ""
+"Because there is no idea,\n"
+"so the writing is dry like a sponge that has\n"
+"finished squeezing the sea water,\n"
+"floating around lei fall, clean nothing,"
+msgstr ""
+"因为没有想法\n"
+"所以写的东西干巴巴地像挤完了海水的海绵一般\n"
+"四处飘零磊落，干干净净啥都没有，"
+
+#. ID 42, Line 42
+msgid ""
+"but I also want to live a freee,\n"
+"live from myself,\n"
+"yyyyyy!!!!"
+msgstr ""
+"但我也想过得洒脱自由，\n"
+"活出自我，\n"
+"耶！！！"
+
+#. ID 42, Line 48
+msgid "[Recall Memory]"
+msgstr "[怀旧]"
+
+#. ID 42, Line 49
+msgid ""
+"There are times when I miss the past and want to\n"
+"take a bite out of my memories and taste what it\n"
+"tastes like ......\n"
+"Is it sweet?"
+msgstr ""
+"有的时候我也会想念过去的日子，想把回忆咬一口，\n"
+"尝尝是什么味道......"
+
+#. ID 42, Line 53
+msgid ""
+"Or savory?\n"
+"Or t flavor of some kind of deadly poisonous rat?\n"
+"Either way, at least I can sleep comfortably."
+msgstr ""
+"它是甜的？还是咸的？还是某种致命毒鼠强的味道？\n"
+"不管怎么说，起码我可以睡得很舒服。"
+
+#. ID 42, Line 59
+msgid "[Oh Cool]"
+msgstr "[酷炫]"
+
+#. ID 42, Line 60
+msgid ""
+"Aaaaaaa I feels so annoying.\n"
+"I also want to be cooler ah,\n"
+"preferably everyone around me kind of,\n"
+"supercalifragilisticexpialidocious..."
+msgstr ""
+"啊啊啊感觉好烦。我也想变酷一些啊，\n"
+"最好所有人都围着我转那种，\n"
+"人见人爱花见花开车见车爆胎......"
+
+#. ID 42, Line 64
+msgid ""
+"As a result in the end I'm JUST a clown,\n"
+"NO,\n"
+"the clown should be more popular than me,\n"
+"ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+msgstr ""
+"结果到头来我就是小丑一个，\n"
+"不对，\n"
+"小丑都比我更受欢迎，\n"
+"啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"
+
+#. ID 42, Line 71
+msgid "[Indignation]"
+msgstr "[愤慨]"
+
+#. ID 42, Line 72
+msgid ""
+"I drink more drinks and so what?!\n"
+"I drink more GOOD than smoking,\n"
+"second-hand smoke harm how much,\n"
+"will cause people to get lung cancer,"
+msgstr ""
+"我喝再多饮料又咋样？！ \n"
+"我喝得再多也比抽烟强，\n"
+"二手烟危害多大，会导致人得肺癌的，"
+
+#. ID 42, Line 76
+msgid ""
+"that's lung cancer!!!!\n"
+"...I wish I could PUNCH him in the face......\n"
+"That being said,\n"
+"I can't beat him either that's xxxx!!!!"
+msgstr ""
+"那可是肺癌！！！\n"
+"真想一拳打他脸上......\n"
+"话说如此，我也打不过他就是，靠！！！"
+
+#. ID 42, Line 83
+msgid "[Play game]"
+msgstr "[打游戏]"
+
+#. ID 42, Line 84
+msgid ""
+"Everyone says that game is poison, it corrupt\n"
+"students and turn them into bad person.\n"
+"But this morning, when he brought that console\n"
+"into class, everyone crowded around to watch it."
+msgstr ""
+"人人都说游戏是毒药，会让学生堕落，变成一个坏人。\n"
+"但今天上午他把游戏机带进教室的时候，\n"
+"同学们都挤在旁边围观。"
+
+#. ID 42, Line 88
+msgid ""
+"Has he turned into a bad guy?\n"
+"Should I be scared?\n"
+"\n"
+"I don't know. I certainly don't know."
+msgstr ""
+"他变成坏蛋了吗？\n"
+"我是不是应该害怕？\n"
+"\n"
+"我不知道。我当然不可能知道。"
+
+#. ID 42, Line 95
+msgid "[Yes Or No]"
+msgstr "[是或否]"
+
+#. ID 42, Line 96
+msgid ""
+"Is the world black and white?\n"
+"So I say it's not my faultand in the end it's\n"
+"still my fault,\n"
+"so why should I fight back it?"
+msgstr ""
+"这个世界是非黑即白的吗？\n"
+"所以我说了不是我的错，\n"
+"到头来也还是我的错，\n"
+"所以我为什么要反抗？为什么？为什么？"
+
+#. ID 42, Line 100
+msgid ""
+"...well sorry hahaha too many questions asked...\n"
+"But no matter how much I ask there will be no\n"
+"answer.\n"
+"This still kinda makes me sad..........."
+msgstr ""
+"...好吧抱歉哈哈哈问的问题太多了...\n"
+"不过无论怎么问都不会有答案这一点\n"
+"还是挺让我伤心的555............"
+
+#. ID 42, Line 107
+msgid "[Loneliness]"
+msgstr "[孤独]"
+
+#. ID 42, Line 108
+msgid ""
+"People are always prone to loneliness no exception\n"
+"But if it stays too long,\n"
+"like the accumulation of dark clouds that can not\n"
+"be driven away."
+msgstr ""
+"人总是容易感到孤独的，我也不例外，\n"
+"但如果它待得太久的话，就像积攒已久地乌云那般，\n"
+"无法驱赶走了。"
+
+#. ID 42, Line 112
+msgid ""
+"This will affect the physical and mental health,\n"
+"which is not good,\n"
+"that's why we say should be a healthy,\n"
+"active and happy child, don't you think so?"
+msgstr ""
+"这样下去是会影响身心健康的，\n"
+"这可不好，\n"
+"所以才说要做一个健康积极快乐向上的孩子，\n"
+"你说不是？"
+
+#. ID 42, Line 119
+msgid "[Prepare to glow]"
+msgstr "[准备发光]"
+
+#. ID 42, Line 120
+msgid ""
+"When I took it out of the fridge, it gotten cold\n"
+"and hard.\n"
+"Just break it off and keep tapping it\n"
+"and it's ready to use."
+msgstr ""
+"当我把它从冰箱里取出来的时候，它已经变得又冷又硬。\n"
+"只要掰断它再不断敲打就可以使用了。"
+
+#. ID 42, Line 124
+msgid ""
+"I offered to sell it for a dollar a piece,\n"
+"but she thought it was too cheap...\n"
+"Seriously, I'd rather sleep at home.\n"
+"I don't want to turn into a capitalist, ha-ha-ha!"
+msgstr ""
+"我说卖一元钱一根，但她觉得太便宜了...\n"
+"说真的，我更想在家里睡大觉。\n"
+"我可不想变成资本家，哈哈哈！"
+
+#. ID 42, Line 128
+msgid "(PS. Don't eat the liquid inside, it's poisonous!)"
+msgstr "（PS.不要吃里面的液体，有毒！）"
+
+#. ID 42, Line 132
+msgid "[Begin]"
+msgstr "[开端]"
+
+#. ID 42, Line 133
+msgid ""
+"I don't remember when it popped into my head.\n"
+"At the time, I was just looking for something\n"
+"to do."
+msgstr ""
+"我不记得它是什么时候出现在我的脑海里的。\n"
+"那时，我只是想找些事情做。"
+
+#. ID 42, Line 136
+msgid ""
+"Since then, I've thought about it every day.\n"
+"I wonder about its family, its life, and"
+msgstr ""
+"从那以后，我每天都在想它。\n"
+"我想知道它的家庭、它的生活，以及它"
+
+#. ID 42, Line 138
+msgid ""
+"                                                  \n"
+"Whatever, those are just dreams after all.\n"
+"\n"
+"Dreams always wake up one day."
+msgstr ""
+"                                                  \n"
+"但那终究只是梦。\n"
+"\n"
+"梦，总会有醒的那天。"
+
+#. ID 42, Line 145
+msgid "[Abbbbaabbbbpppp]"
+msgstr "[啊吧吧啊吧拉叭叭叭啪啪啪]"
+
+#. ID 42, Line 146
+msgid ""
+"Isn't it nice to be a baby?\n"
+"When babies are taken care of and fed every day,\n"
+"they never have to think about learning or\n"
+"interaction,"
+msgstr ""
+"当一个小宝宝不好吗？\n"
+"小宝宝每天都有人照顾吃喝，\n"
+"他们永远不用去考虑学习或者社交的问题，"
+
+#. ID 42, Line 150
+msgid ""
+"they just have to play all the time!\n"
+"But it must be hard for people with babies...\n"
+"No, that person can't be me anyway!\n"
+"Myy future wifii, let's not have a baby, okay?"
+msgstr ""
+"他们就是每天都在玩嘛！\n"
+"不过对于带孩子的人来说，应该挺麻烦的吧。。。\n"
+"不，这个人绝对不可能是我！\n"
+"额亲爱滴未来脑婆，我们别要孩子咧，好咩？"
+
+#. ID 42, Line 157
+msgid "[Nian]"
+msgstr "[年兽]"
+
+#. ID 42, Line 158
+msgid ""
+"I like Nian because I think it's cool.\n"
+"Because I know it hurts blown up by firecrackers.\n"
+"Because I don't like the color red either.\n"
+"(I don't get bloodsick!)"
+msgstr ""
+"我喜欢年兽，因为我觉得它很酷。\n"
+"因为我知道被鞭炮炸到会很疼。\n"
+"因为我也不喜欢红色。\n"
+"（我不晕血！）"
+
+#. ID 42, Line 162
+msgid ""
+"I hope to meet Nian one day.\n"
+"Let it eat me out, so no one can find me!\n"
+"\n"
+"////AWA////"
+msgstr ""
+"我希望有一天能见到年兽。\n"
+"让它把我吃掉，这样就没人能找到我了！\n"
+"\n"
+"////AWA////"
+
+#. ID 71, Line 4
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.0 \\c[1][\\N[10]]\\c[0]\n"
+"\\>Creator: \\N[9]"
+msgstr ""
+"\\>No.0 \\c[1][\\N[10]]\\c[0]\n"
+"\\>作者: \\N[9]"
+
+#. ID 71, Line 8
+msgid ""
+"Setup complete.\n"
+"Enjoy your own design :P"
+msgstr ""
+"设置完成。\n"
+"享受你自己的设计吧:P"
+
+#. ID 71, Line 17
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.\\v[70] \\c[1][\\N[8]]\\c[0]\n"
+"\\>Creator: \\N[9]"
+msgstr ""
+"\\>No.\\v[70] \\c[1][\\N[8]]\\c[0]\n"
+"\\>作者：\\N[9]"
+
+#. ID 71, Line 21
+msgid "Setup complete."
+msgstr "设置完成。"
+
+#. ID 72, Line 2
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 162
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "You"
+msgstr "咱"
+
+#. ID 72, Line 7
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Classic"
+msgstr "经典"
+
+#. ID 72, Line 12
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Print"
+msgstr "印刷"
+
+#. ID 72, Line 17
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Golden"
+msgstr "金色"
+
+#. ID 72, Line 22
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Paper-cut A"
+msgstr "剪纸 A"
+
+#. ID 72, Line 27
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Square-round"
+msgstr "方圆"
+
+#. ID 72, Line 32
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Paper-cut B"
+msgstr "剪纸 B"
+
+#. ID 72, Line 37
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Relief"
+msgstr "浮雕"
+
+#. ID 72, Line 42
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Bagua"
+msgstr "八卦"
+
+#. ID 72, Line 47
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Chinese Knotting"
+msgstr "中国结"
+
+#. ID 72, Line 52
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Comical"
+msgstr "滑稽"
+
+#. ID 72, Line 56
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 206
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Carbonara"
+msgstr ""
+
+#. ID 72, Line 57
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "No Entry"
+msgstr "禁止通行"
+
+#. ID 72, Line 62
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Burnt"
+msgstr "焦化"
+
+#. ID 72, Line 66
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 71
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "ZLD1"
+msgstr ""
+
+#. ID 72, Line 67
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Cell"
+msgstr "细胞"
+
+#. ID 72, Line 72
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Garden"
+msgstr "花园"
+
+#. ID 72, Line 77
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Zombie Cat"
+msgstr "僵尸喵"
+
+#. ID 72, Line 82
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "yin-yang"
+msgstr "阴阳"
+
+#. ID 72, Line 87
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Dreamcatcher"
+msgstr "捕梦网"
+
+#. ID 72, Line 92
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "ERROR"
+msgstr ""
+
+#. ID 72, Line 96
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 106
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 116
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "akalog"
+msgstr ""
+
+#. ID 72, Line 97
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Optic"
+msgstr "光学"
+
+#. ID 72, Line 101
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Twiscool"
+msgstr ""
+
+#. ID 72, Line 102
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Orange"
+msgstr "橘子"
+
+#. ID 72, Line 107
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Ouroboros"
+msgstr "衔尾蛇"
+
+#. ID 72, Line 111
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 131
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 136
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 141
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 146
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 151
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 166
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 171
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 176
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 181
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 186
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 191
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 196
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 201
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "11126"
+msgstr ""
+
+#. ID 72, Line 112
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Disco"
+msgstr "迪斯科"
+
+#. ID 72, Line 117
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Neko"
+msgstr "喵咪"
+
+#. ID 72, Line 121
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Chiaki"
+msgstr ""
+
+#. ID 72, Line 122
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Dog"
+msgstr "狗"
+
+#. ID 72, Line 126
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 156
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 211
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 216
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "TheRagingRowlet"
+msgstr ""
+
+#. ID 72, Line 127
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Humerus"
+msgstr "肱骨"
+
+#. ID 72, Line 132
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Fork"
+msgstr "叉子"
+
+#. ID 72, Line 137
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Demon"
+msgstr "恶魔"
+
+#. ID 72, Line 142
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "False"
+msgstr "错误"
+
+#. ID 72, Line 147
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Spoon"
+msgstr "勺子"
+
+#. ID 72, Line 152
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Bear Puzzle"
+msgstr "熊拼图"
+
+#. ID 72, Line 157
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Singularity"
+msgstr "奇点"
+
+#. ID 72, Line 167
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Sunflower"
+msgstr "太阳花"
+
+#. ID 72, Line 172
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Paradise"
+msgstr "乐土"
+
+#. ID 72, Line 177
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Pearl"
+msgstr "珍珠"
+
+#. ID 72, Line 182
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Crystal"
+msgstr "水晶"
+
+#. ID 72, Line 187
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Ghost"
+msgstr "鬼魂"
+
+#. ID 72, Line 192
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Golden Apple"
+msgstr "金苹果"
+
+#. ID 72, Line 197
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Skull"
+msgstr "骷髅头"
+
+#. ID 72, Line 202
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Beaver"
+msgstr "海狸"
+
+#. ID 72, Line 207
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Window"
+msgstr "窗"
+
+#. ID 72, Line 212
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Flatline"
+msgstr "失线"
+
+#. ID 72, Line 217
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Bulb"
+msgstr "灯泡"
+
+#. ID 72, Line 222
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Judge"
+msgstr "法官"
+
+#. ID 72, Line 227
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Double"
+msgstr "双倍"
+
+#. ID 101, Line 26
+#. Choice (4 options)
+msgid ""
+"2004\n"
+"2007\n"
+"2009\n"
+"Next"
+msgstr ""
+"2004\n"
+"2007\n"
+"2009\n"
+"下一页"
+
+#. ID 101, Line 30
+msgid "You're already here."
+msgstr "你已经在这儿了。"
+
+#. ID 101, Line 61
+#. Choice (4 options)
+msgid ""
+"2010\n"
+"2011\n"
+"2012\n"
+"Next"
+msgstr ""
+"2010\n"
+"2011\n"
+"2012\n"
+"下一页"
+
+#. ID 101, Line 94
+#. Choice (4 options)
+msgid ""
+"2013\n"
+"2014\n"
+"2015\n"
+"Next"
+msgstr ""
+"2013\n"
+"2014\n"
+"2015\n"
+"下一页"
+
+#. ID 101, Line 127
+#. Choice (4 options)
+msgid ""
+"2016\n"
+"2017\n"
+"2018\n"
+"Next"
+msgstr ""
+"2016\n"
+"2017\n"
+"2018\n"
+"下一页"
+
+#. ID 101, Line 160
+#. Choice (4 options)
+msgid ""
+"2019\n"
+"2020\n"
+"2021\n"
+"Next"
+msgstr ""
+"2019\n"
+"2020\n"
+"2021\n"
+"下一页"
+
+#. ID 101, Line 193
+#. Choice (4 options)
+msgid ""
+"2022\n"
+"2023\n"
+"2024\n"
+"Back"
+msgstr ""
+"2022\n"
+"2023\n"
+"2024\n"
+"下一页"
+
+#. ID 197, Line 3
+msgid "[Accepting submissions!:P]"
+msgstr "【壁纸募集中！】"
+
+#. ID 197, Line 31
+msgid "Picture not found."
+msgstr "图片未发现。"
