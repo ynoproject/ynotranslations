@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 14, Page 1, Line 2, Pos (18,13)
+#. Choice (4 options)
+msgid ""
+"Current Progress\n"
+"Video Options\n"
+"Emote Bubble\n"
+"Exit The Game"
+msgstr ""
+"Progression actuelle\n"
+"Options vidéo\n"
+"Bulle-mojis\n"
+"Quitter le jeu"
+
+#. ID 14, Page 1, Line 18, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Wuqi Effects: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
+msgstr ""
+"Effets : \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Effets wuqi : \\c[1]\\V[15]\\c[0]/\\V[509]\n"
+"Objets spéciaux : \\c[1]\\V[16]\\c[0]/\\V[510]"
+
+#. ID 14, Page 1, Line 23, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
+msgstr ""
+"Effets : \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Objets spéciaux : \\c[1]\\V[16]\\c[0]/\\V[510]"
+
+#. ID 14, Page 1, Line 27, Pos (18,13)
+msgid ""
+"Wallpapers: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
+"Documents: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
+"Menu Style: \\c[1]\\V[92]\\c[0]/4\n"
+"Thanks for playing :P"
+msgstr ""
+"Fonds d'écran : \\c[1]\\V[90]\\c[0]/\\V[505]\n"
+"Documents : \\c[1]\\V[91]\\c[0]/\\V[506]\n"
+"Thèmes de menu : \\c[1]\\V[92]\\c[0]/\\V[507]\n"
+"Merci d'avoir joué :P"
+
+#. ID 14, Page 1, Line 38, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][ON]\\c[0]"
+msgstr ""
+"Appuyez sur \\c[1]5\\c[0] pour ouvrir la roue des bulle-mojis\n"
+"et choisir la bulle-moji que vous souhaitez\n"
+"envoyer.\n"
+"Actuellement \\c[1]activé\\c[0]."
+
+#. ID 14, Page 1, Line 40, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn OFF\n"
+"Keep it"
+msgstr ""
+"Désactiver\n"
+"Conserver"
+
+#. ID 14, Page 1, Line 43, Pos (18,13)
+#. ID 14, Page 1, Line 55, Pos (18,13)
+msgid "Setup complete."
+msgstr "Préparation terminée."
+
+#. ID 14, Page 1, Line 50, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][OFF]\\c[0]"
+msgstr ""
+"Appuyez sur \\c[1]5\\c[0] pour ouvrir la roue des bulle-mojis\n"
+"et choisir la bulle-moji que vous souhaitez\n"
+"envoyer.\n"
+"Actuellement \\c[1]désactivé\\c[0]."
+
+#. ID 14, Page 1, Line 52, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn ON\n"
+"Keep it"
+msgstr ""
+"Activer\n"
+"Conserver"
+
+#. ID 14, Page 1, Line 64, Pos (18,13)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "Êtes-vous sûr ?"
+
+#. ID 14, Page 1, Line 65, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 13, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 100, Page 1, Line 3, Pos (1,12)
+#. Choice (2 options, embedded in a message)
+#. ID 108, Page 1, Line 5, Pos (3,4)
+#. Choice (2 options, embedded in a message)
+#. ID 109, Page 1, Line 5, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+#. ID 110, Page 1, Line 5, Pos (3,8)
+#. Choice (2 options, embedded in a message)
+#. ID 111, Page 1, Line 5, Pos (3,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 21, Page 1, Line 2, Pos (1,2)
+msgid "The recycle bin is empty. "
+msgstr "La corbeille est vide."
+
+#. ID 23, Page 1, Line 12, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "Quit?"
+msgstr "Quitter ?"
+
+#. ID 30, Page 2, Line 69, Pos (14,14)
+msgid "Picture not found."
+msgstr "Image non trouvée."
+
+#. ID 30, Page 2, Line 324, Pos (14,14)
+msgid "[Accepting submissions!:P]"
+msgstr "[Contributions bienvenues ! :P]"
+
+#. ID 100, Page 1, Line 2, Pos (1,12)
+#. Contains choice at line 2 (2 options)
+msgid "Play wuqi? (Unaccomplished First Version)"
+msgstr "Jouer à wuqi ? (Première version d'Unaccomplished)"
+
+#. ID 108, Page 1, Line 3, Pos (3,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.0 Default\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Thème de Menu] No. 0 Défaut\n"
+"\\>Utiliser ce thème ?"
+
+#. ID 109, Page 1, Line 3, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.1 Frame\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Thème de Menu] No. 1 Cadre\n"
+"\\>Utiliser ce thème ?"
+
+#. ID 110, Page 1, Line 3, Pos (3,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.2 Classic\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Thème de Menu] No. 2 Classique\n"
+"\\>Utiliser ce thème ?"
+
+#. ID 111, Page 1, Line 3, Pos (3,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.3 PC Game\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Thème de Menu] No. 3 Jeu PC\n"
+"\\>Utiliser ce thème ?"
+
+#. ID 115, Page 1, Line 18, Pos (5,2)
+#. Contains choice at line 2 (3 options)
+msgid "[\\c[1]DIY\\c[0] Fu (Chinese New Year Paper Cutting Design)]"
+msgstr "[\\c[1]DIY\\c[0] Fu (Découpage de Papier du Nouvel An Chinois)]"
+
+#. ID 115, Page 1, Line 19, Pos (5,2)
+#. Choice (3 options, embedded in a message)
+#, fuzzy
+msgid ""
+"Use your design\n"
+"View other designs \n"
+"Help"
+msgstr ""
+"Utiliser votre propre motif\n"
+"Voir les autres motifs\n"
+"Aide"
+
+#. ID 115, Page 1, Line 22, Pos (5,2)
+msgid ""
+"[Tip]\n"
+"If an error pop-up appears next, \n"
+"please check the contents of [Help]"
+msgstr ""
+"[Astuce]\n"
+"Si une erreur apparaît, consultez le contenu de\n"
+"l'[Aide]"
+
+#. ID 115, Page 1, Line 38, Pos (5,2)
+#. Contains choice at line 2 (3 options)
+msgid "\\>[Fu Design] \\c[1]\\N[10]\\c[0]"
+msgstr "\\>[Motif Fu] \\c[1]\\N[10]\\c[0]"
+
+#. ID 115, Page 1, Line 39, Pos (5,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Use this\n"
+"Back to random \n"
+"Change its name"
+msgstr ""
+"Utiliser ce motif\n"
+"Motif aléatoire\n"
+"Changer le nom"
+
+#. ID 115, Page 1, Line 42, Pos (5,2)
+msgid ""
+"Setup complete.\n"
+"Enjoy your own design :P"
+msgstr ""
+"Préparation terminée.\n"
+"Amusez-vous bien avec votre propre motif :P"
+
+#. ID 115, Page 1, Line 48, Pos (5,2)
+msgid ""
+"Setup complete.\n"
+"(Set back to random mode)"
+msgstr ""
+"Préparation terminée.\n"
+"(Retour au mode aléatoire)"
+
+#. ID 115, Page 1, Line 76, Pos (5,2)
+#. Choice (4 options)
+msgid ""
+"About Fu\n"
+"About Design\n"
+"About Image Processing / ERROR\n"
+"About Submissions"
+msgstr ""
+"À propos de Fu\n"
+"À propos du motif\n"
+"À propos de la gestion de l'image/ERREUR\n"
+"À propos des contributions"
+
+#. ID 115, Page 1, Line 78, Pos (5,2)
+msgid ""
+"Fu is a traditional paper-cutting art from China, \n"
+"which is usually pasted on walls or other places \n"
+"during the Chinese New Year."
+msgstr ""
+"Le Fu est un art de découpage de papier en\n"
+"provenance de Chine, et est typiquement collé\n"
+"sur des murs et d'autres lieux pendant le Nouvel\n"
+"An Chinois."
+
+#. ID 115, Page 1, Line 81, Pos (5,2)
+msgid ""
+"For more about fu, read here: \n"
+"\\c[1][wikipedia.org/wiki/Fu_(character)]\\c[0]"
+msgstr ""
+"Pour plus d'information sur le Fu, consultez\n"
+"\\c[1][wikipedia.org/wiki/Fu_(character)]\\c[0]"
+
+#. ID 115, Page 1, Line 86, Pos (5,2)
+msgid ""
+"In the <Fu Sample> folder, you will find an image \n"
+"called \\c[1][YM_E_FU_Sample.png]\\c[0]\n"
+"After DIYing your own fu, overwrite the file with \n"
+"same name in CharSet, then you can use it here."
+msgstr ""
+"Dans le dossier <Fu Sample>, vous pourrez trouver\n"
+"une image nommée \\c[1][YM_E_FU_Sample.png]\\c[0].\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Après avoir personnalisé votre propre Fu,\n"
+"remplacez le fichier portant le même nom dans le\n"
+"dossier CharSet, que vous pourrez ensuite utiliser\n"
+"ici."
+
+#. ID 115, Page 1, Line 90, Pos (5,2)
+msgid ""
+"If you can't put your design into the game, \n"
+"Send your design to the E-mail in the \\c[1][Read me]\\c[0]\n"
+"and put the comment \\c[1][Fix Picture]\\c[0]\n"
+"We will try to help you solve this problem."
+msgstr ""
+"Si vous ne parvenez pas à mettre votre motif dans\n"
+"le jeu, vous pouvez m'envoyer votre motif à\n"
+"l'adresse e-mail présente dans le \\c[1][Lis-moi]\\c[0] du\n"
+"jeu et ajouter le commentaire \\c[1][Fix Picture]\\c[0].\n"
+"<easyrpg:new_page>\n"
+"Nous essayerons alors de corriger votre problème."
+
+#. ID 115, Page 1, Line 97, Pos (5,2)
+#. Choice (4 options)
+msgid ""
+"Unsupported PNG image\n"
+"Can't open <Sample> file\n"
+"Wrong transparent color\n"
+"Other problems / Can't solve it"
+msgstr ""
+"Image PNG non supportée\n"
+"Le fichier <Sample> n'a pas pu être ouvert\n"
+"Mauvaise couleur de transparence\n"
+"Autres problèmes/Je n'y arrive pas"
+
+#. ID 115, Page 1, Line 99, Pos (5,2)
+msgid ""
+"This means that you provided an image with the \n"
+"wrong bit depth and color count. \n"
+"Make sure the image is \\c[1]8-bit\\c[0], \n"
+"with \\c[1]256 colors\\c[0], indexed."
+msgstr ""
+"Cela veut dire que l'image sélectionnée possède\n"
+"une mauvaise profondeur de couleur et un mauvais\n"
+"nombre de couleurs.\n"
+"<easyrpg:new_page>\n"
+"Veuillez vous assurer que l'image est au format\n"
+"\\c[1]8 bits\\c[0], avec \\c[1]256 couleurs\\c[0], et est indexée."
+
+#. ID 115, Page 1, Line 105, Pos (5,2)
+msgid ""
+"Either the image being requested by the game \n"
+"is missing, or the image uses the wrong size. \n"
+"Since we're dealing with CharSets, \n"
+"make sure the size is \\c[1]288x256\\c[0]."
+msgstr ""
+"Soit l'image demandée par le jeu est absente,\n"
+"soit l'image est à la mauvaise résolution.\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Étant donné que l'on utilise un CharSet,\n"
+"assurez-vous que la taille de votre fichier est en\n"
+"effet de \\c[1]288x256\\c[0] pixels."
+
+#. ID 115, Page 1, Line 111, Pos (5,2)
+msgid ""
+"Make sure that the color that would be used for \n"
+"the transparent color for your CharSet is the \n"
+"first in the indexed palette."
+msgstr ""
+"Assurez-vous que la couleur devant être utilisée\n"
+"comme couleur de transparence pour votre\n"
+"CharSet est la première couleur de la palette\n"
+"indexée."
+
+#. ID 115, Page 1, Line 114, Pos (5,2)
+msgid ""
+"Keep in mind that it should be much different \n"
+"from the color used by the sprites themselves."
+msgstr ""
+"Gardez à l'esprit que cette couleur devrait être\n"
+"très différente de celles utilisées par les\n"
+"sprites pour éviter tout problème de confusion."
+
+#. ID 115, Page 1, Line 118, Pos (5,2)
+msgid ""
+"If you find other problems or can't sove it,\n"
+"Send your design to the E-mail in the \\c[1][Read me]\\c[0]\n"
+"put comment \\c[1][Fix Picture]\\c[0] or \\c[1][Error help]\\c[0].\n"
+"We will try to help you solve it."
+msgstr ""
+"Si vous trouvez d'autres problèmes ou que vous\n"
+"n'arrivez pas à les corriger, vous pouvez\n"
+"m'envoyer votre motif à l'adresse e-mail présente\n"
+"dans le \\c[1][Lis-moi]\\c[0] du jeu,\n"
+"<easyrpg:new_page>\n"
+"et ajouter le commentaire \\c[1][Fix Picture]\\c[0] ou\n"
+"\\c[1][Error help]\\c[0].\n"
+"Nous essayerons alors de corriger votre problème."
+
+#. ID 115, Page 1, Line 127, Pos (5,2)
+msgid ""
+"If you want to submit your designs for the game,\n"
+"Send your design to the E-mail in [Read me] and \n"
+"comment \\c[1][Submit design]\\c[0]"
+msgstr ""
+"Si vous voulez contribuer vos propres motifs pour\n"
+"le jeu, vous pouvez m'envoyer votre motif à\n"
+"l'adresse e-mail présente dans le \\c[1][Lis-moi]\\c[0]\n"
+"du jeu et ajouter le commentaire \\c[1][Submit design]\\c[0]."
+
+#. ID 115, Page 1, Line 130, Pos (5,2)
+msgid ""
+"Then, tell me the \\c[1][Design name]\\c[0]\n"
+"and \\c[1][Author name]\\c[0], \n"
+"I'll try to add it in next update!"
+msgstr ""
+"Ensuite, mentionnez le \\c[1][nom du motif]\\c[0] et le\n"
+"\\c[1][nom de l'auteur]\\c[0], et j'essayerai de l'ajouter\n"
+"pour la prochaine mise à jour !"
+
+#. ID 115, Page 1, Line 133, Pos (5,2)
+msgid ""
+"Note: \n"
+"\\c[1][All submissions can only use given color palette]\\c[0]\n"
+"We will improve all submissions to make it fit \n"
+"the style of this game better."
+msgstr ""
+"Note : \n"
+"\\c[1][Les contributions ne peuvent utiliser que la\n"
+"palette de couleurs du sample]\\c[0]\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Nous améliorerons toutes les contributions de\n"
+"sorte à ce qu'elles correspondent toutes mieux au\n"
+"style du jeu."
+
+#. ID 115, Page 1, Line 137, Pos (5,2)
+msgid ""
+"If your submitted design can't display or \n"
+"doesn't display properly in the game,\n"
+"we'll fix it, don't worry."
+msgstr ""
+"Si votre motif envoyé ne s'affiche pas ou\n"
+"s'affiche incorrectement en jeu, nous le\n"
+"corrigerons, ne vous inquiétez pas."

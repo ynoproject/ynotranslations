@@ -5,7 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: zh_CN\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,17 +30,17 @@ msgstr ""
 #. ID 3
 msgctxt "actors.name"
 msgid "The mouse"
-msgstr ""
+msgstr "La souris"
 
 #. ID 3
 msgctxt "actors.title"
 msgid "Useful"
-msgstr ""
+msgstr "Utile"
 
 #. ID 4
 msgctxt "actors.name"
 msgid "Yin Ming"
-msgstr "阴明"
+msgstr ""
 
 #. ID 4
 msgctxt "actors.title"
@@ -70,59 +70,61 @@ msgstr ""
 #. ID 8
 msgctxt "actors.name"
 msgid "design name"
-msgstr ""
+msgstr "nom motif"
 
 #. ID 9
 msgctxt "actors.name"
 msgid "author name"
-msgstr ""
+msgstr "nom auteur"
 
 #. ID 10
 msgctxt "actors.name"
 msgid "Fu"
-msgstr "福"
+msgstr ""
 
+# 防误触
 #. ID 15
 msgctxt "actors.name"
 msgid "·ÀÎó´¥"
-msgstr ""
+msgstr "Trifouille"
 
 #. ID 1
 msgctxt "skills.name"
 msgid "Pinch face"
-msgstr "捏脸"
+msgstr "Se pincer le visage"
 
 #. ID 1
 msgctxt "skills.description"
 msgid "Time to wake up."
-msgstr "快醒来吧。"
+msgstr "C'est l'heure de se lever."
 
 #. ID 2
 msgctxt "skills.name"
 msgid "Quit Game"
-msgstr "退出游戏"
+msgstr "Quitter le jeu"
 
 #. ID 2
 msgctxt "skills.description"
 msgid "Back to the future reality :P"
-msgstr "返回未来的现实:P"
+msgstr "Retourne vers le vrai futur :P"
 
 #. ID 1
 #. ID 100
 msgctxt "items.name"
 msgid "[Notepaper]"
-msgstr "[便笺]"
+msgstr "[Papier]"
 
 #. ID 1
 #. ID 100
 msgctxt "items.description"
 msgid "Tells you the game rules."
-msgstr "告诉你游戏规则。"
+msgstr "Te dicte les règles du jeu."
 
+# Quotation marks removed due to making the text be too long.
 #. ID 5
 msgctxt "items.name"
 msgid "\"Straw Hat?\""
-msgstr "“草帽？”"
+msgstr "Chapeau Paille ?"
 
 #. ID 5
 #. ID 6
@@ -144,177 +146,177 @@ msgstr ""
 #. ID 6
 msgctxt "items.name"
 msgid "\"Hoverboard?\""
-msgstr "“滑板？”"
+msgstr "Hoverboard ?"
 
 #. ID 7
 msgctxt "items.name"
 msgid "\"Plastic Bottle?\""
-msgstr "“塑料瓶？”"
+msgstr "Bouteille Plas. ?"
 
 #. ID 8
 msgctxt "items.name"
 msgid "\"Games Console?\""
-msgstr "“游戏机？”"
+msgstr "Console de Jeux ?"
 
 #. ID 9
 msgctxt "items.name"
 msgid "\"1-bit?\""
-msgstr "“黑白？”"
+msgstr "1 Bit ?"
 
 #. ID 10
 msgctxt "items.name"
 msgid "\"Emptiness?\""
-msgstr "“空虚？”"
+msgstr "Vide ?"
 
 #. ID 11
 msgctxt "items.name"
 msgid "\"Glow Stick?\""
-msgstr "“荧光棒？”"
+msgstr "Bâton Lumineux ?"
 
 #. ID 12
 msgctxt "items.name"
 msgid "\"Classic?\""
-msgstr "“经典款？”"
+msgstr "Classique ?"
 
 #. ID 13
 msgctxt "items.name"
 msgid "\"Baby?\""
-msgstr "“婴儿？”"
+msgstr "Bébé ?"
 
 #. ID 14
 msgctxt "items.name"
 msgid "\"Fu?\""
-msgstr "“福字？”"
+msgstr "Fu ?"
 
 #. ID 15
 msgctxt "items.name"
 msgid "\"Skeleton?\""
-msgstr "“骷髅？”"
+msgstr "Squelette ?"
 
 #. ID 16
 msgctxt "items.name"
 msgid "\"Messy?\""
-msgstr "“一团糟？”"
+msgstr "Pagaille ?"
 
 #. ID 50
 msgctxt "items.name"
 msgid "- Straw Hat -"
-msgstr "- 草帽 -"
+msgstr "- Chapeau Paille -"
 
 #. ID 50
 msgctxt "items.description"
 msgid "Put on a straw hat."
-msgstr "戴上草帽。"
+msgstr "Mets un chapeau de paille."
 
 #. ID 51
 msgctxt "items.name"
 msgid "- Hoverboard -"
-msgstr "- 滑板 -"
+msgstr ""
 
 #. ID 51
 msgctxt "items.description"
-msgid "Ride on the floating skateboard."
-msgstr "骑上浮空滑板。"
+msgid "Ride on the floating hoverboard."
+msgstr "Monte sur un hoverboard lévitant."
 
 #. ID 52
 msgctxt "items.name"
 msgid "- Plastic Bottle -"
-msgstr "- 塑料瓶 -"
+msgstr "- Bouteille Plas. -"
 
 #. ID 52
 msgctxt "items.description"
 msgid "Clutch the plastic bottle."
-msgstr "紧握塑料瓶。"
+msgstr "Tiens fermement une bouteille en plastique."
 
 #. ID 53
 msgctxt "items.name"
 msgid "- Games Console -"
-msgstr "- 游戏机 -"
+msgstr "- Console de Jeux -"
 
 #. ID 53
 msgctxt "items.description"
 msgid "Focus on the game console."
-msgstr "专注于游戏机。"
+msgstr "Concentre-toi sur la console."
 
 #. ID 54
 msgctxt "items.name"
 msgid "- 1-bit -"
-msgstr "- 黑白 -"
+msgstr "- 1 Bit -"
 
 #. ID 54
 msgctxt "items.description"
 msgid "Become black and white."
-msgstr "变成黑白色。"
+msgstr "Deviens noir et blanc."
 
 #. ID 55
 msgctxt "items.name"
 msgid "- Emptiness -"
-msgstr "- 空虚 -"
+msgstr "- Vide -"
 
 #. ID 55
 msgctxt "items.description"
 msgid "Feel emptiness."
-msgstr "变得空虚。"
+msgstr "Ressens le vide."
 
 #. ID 56
 msgctxt "items.name"
 msgid "- Glow Stick -"
-msgstr "- 荧光棒 -"
+msgstr "- Bâton Lumineux -"
 
 #. ID 56
 msgctxt "items.description"
 msgid "Wave some glow stick."
-msgstr "挥舞起荧光棒。"
+msgstr "Agite un bâton lumineux."
 
 #. ID 57
 msgctxt "items.name"
 msgid "- Classic -"
-msgstr "- 经典款 -"
+msgstr "- Classique -"
 
 #. ID 57
 msgctxt "items.description"
 msgid "Back to the beginning."
-msgstr "变回最初的模样。"
+msgstr "De retour au début."
 
 #. ID 58
 msgctxt "items.name"
 msgid "- Baby -"
-msgstr "- 婴儿 -"
+msgstr "- Bébé -"
 
 #. ID 58
 msgctxt "items.description"
 msgid "Go back to being a baby."
-msgstr "重新做回婴儿。"
+msgstr "Redeviens un bébé."
 
 #. ID 59
 msgctxt "items.name"
 msgid "- Fu -"
-msgstr "- 福字 -"
+msgstr ""
 
 #. ID 59
 msgctxt "items.description"
 msgid "Paste up the character fu."
-msgstr "贴上福字。"
+msgstr "Colle le caractère Fu sur ton crâne."
 
 #. ID 60
 msgctxt "items.name"
 msgid "- Skeleton -"
-msgstr "- 骷髅 -"
+msgstr "- Squelette -"
 
 #. ID 60
 msgctxt "items.description"
 msgid "Turn into a creepy skeleton."
-msgstr "变成吓人骷髅。"
+msgstr "Deviens un squelette flippant."
 
 #. ID 61
 msgctxt "items.name"
 msgid "- Messy -"
-msgstr "- 一团糟 -"
+msgstr "- Pagaille -"
 
 #. ID 61
 msgctxt "items.description"
 msgid "Screw everything up."
-msgstr "把一切都搞砸。"
+msgstr "Gâche absolument tout."
 
 #. ID 98
 msgctxt "items.name"
@@ -329,85 +331,85 @@ msgstr ""
 #. ID 150
 msgctxt "items.name"
 msgid "[Return-Ticket]"
-msgstr "[回程票]"
+msgstr "[Ticket Retour]"
 
 #. ID 150
 msgctxt "items.description"
 msgid "It feels like something is calling you."
-msgstr "感觉有什么在召唤你。"
+msgstr "On dirait que quelque chose vous appelle."
 
 #. ID 151
 msgctxt "items.name"
 msgid "[Ticket]"
-msgstr "[小票]"
+msgstr ""
 
 #. ID 151
 msgctxt "items.description"
 msgid "Useless paper with doodles."
-msgstr "无用的涂鸦纸片。"
+msgstr "D'inutiles bouts de papier avec des gribouillages."
 
 #. ID 152
 #. ID 153
 msgctxt "items.name"
 msgid "[Eye-Mask]"
-msgstr "[眼之面具]"
+msgstr "[Masque-Œil]"
 
 #. ID 152
 msgctxt "items.description"
 msgid "Maybe it can be used somewhere...."
-msgstr "或许可以用在哪里。。。"
+msgstr "Peut-être qu'il peut servir quelque part..."
 
 #. ID 154
 msgctxt "items.name"
 msgid "[Mask]"
-msgstr "[面具]"
+msgstr "[Masque]"
 
 #. ID 154
 msgctxt "items.description"
 msgid "Where did it comes from?"
-msgstr "它是从哪来的？"
+msgstr "D'où est-ce qu'il vient ?"
 
 #. ID 155
 #. ID 156
 msgctxt "items.name"
 msgid "[B-W-Theme]"
-msgstr "[黑白主题样式]"
+msgstr "[Thème-N-B]"
 
 #. ID 155
 #. ID 156
 msgctxt "items.description"
 msgid "Turn your computer monochrome!"
-msgstr "把你的电脑变成单色！"
+msgstr "Rends ton ordi monochrome !"
 
 #. ID 157
 msgctxt "items.name"
 msgid "[Normal-Theme]"
-msgstr "[普通主题样式]"
+msgstr "[Thème-Normal]"
 
 #. ID 157
 msgctxt "items.description"
 msgid "Turn your computer back to normal!"
-msgstr "让你的电脑恢复正常！"
+msgstr "Fais redevenir ton ordi à la normale !"
 
 #. ID 180
 msgctxt "items.name"
 msgid "[Pumpkin Mask]"
-msgstr "[南瓜面具]"
+msgstr "[Masque Citrouille]"
 
 #. ID 180
 msgctxt "items.description"
 msgid "Smells like sweets."
-msgstr "闻起来像糖果。"
+msgstr "Ça a la même odeur que les sucreries."
 
 #. ID 181
 msgctxt "items.name"
 msgid "[Candy]"
-msgstr "[糖果]"
+msgstr "[Bonbec]"
 
 #. ID 181
 msgctxt "items.description"
 msgid "It's expired."
-msgstr "已经过期了。"
+msgstr "C'est périmé."
 
 #. ID 1
 msgctxt "enemies.name"
@@ -568,15 +570,15 @@ msgstr ""
 
 msgctxt "terms.shop_buy1"
 msgid "Buy"
-msgstr "购买"
+msgstr ""
 
 msgctxt "terms.shop_sell1"
 msgid "Sell"
-msgstr "出售"
+msgstr ""
 
 msgctxt "terms.shop_leave1"
 msgid "Cancel"
-msgstr "取消"
+msgstr ""
 
 msgctxt "terms.shop_buy_select1"
 msgid "V2hpY2ggb25lPw"
@@ -732,15 +734,15 @@ msgstr ""
 
 msgctxt "terms.possessed_items"
 msgid "Owned"
-msgstr ""
+msgstr "En poche"
 
 msgctxt "terms.equipped_items"
 msgid "Equipped"
-msgstr ""
+msgstr "Équipé"
 
 msgctxt "terms.gold"
 msgid "Yuan"
-msgstr "元"
+msgstr ""
 
 msgctxt "terms.command_attack"
 msgid "UŒ‚"
@@ -752,31 +754,31 @@ msgstr ""
 
 msgctxt "terms.command_item"
 msgid "Property"
-msgstr "所有物"
+msgstr "Possessions"
 
 msgctxt "terms.command_skill"
 msgid "Choices"
-msgstr "选择"
+msgstr "Choix"
 
 msgctxt "terms.menu_save"
 msgid "Save"
-msgstr "保存"
+msgstr "Sauvegarder"
 
 msgctxt "terms.menu_quit"
 msgid "The End"
-msgstr "结束"
+msgstr "Fin"
 
 msgctxt "terms.new_game"
 msgid "Begin!"
-msgstr "开始！"
+msgstr "Commencer !"
 
 msgctxt "terms.load_game"
-msgid "Think:"
-msgstr "思考："
+msgid "Think?"
+msgstr "Penser ?"
 
 msgctxt "terms.exit_game"
 msgid "Over."
-msgstr "结束。"
+msgstr "Terminer."
 
 msgctxt "terms.lvl_short"
 msgid "E"
@@ -788,27 +790,27 @@ msgstr ""
 
 msgctxt "terms.save_game_message"
 msgid "Which one to record in?"
-msgstr "记在何处？"
+msgstr "Où veux-tu enregister ça ?"
 
 msgctxt "terms.load_game_message"
 msgid "Which record?"
-msgstr "哪项记录？"
+msgstr "Quel enregistrement ?"
 
 msgctxt "terms.file"
 msgid "File"
-msgstr "文件"
+msgstr "Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "Is it over?"
-msgstr "结束了？"
+msgstr "Tout est fini ?"
 
 msgctxt "terms.yes"
 msgid "Yeah"
-msgstr "好的"
+msgstr "Ouep"
 
 msgctxt "terms.no"
 msgid "Nah"
-msgstr "算了"
+msgstr "Nan"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"

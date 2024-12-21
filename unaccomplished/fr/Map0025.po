@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 20, Page 3, Line 27, Pos (1,14)
+msgid "Picture not found."
+msgstr "Image non trouvée."
+
+#. ID 20, Page 3, Line 165, Pos (1,14)
+msgid "[Accepting submissions!:P]"
+msgstr "[Contributions bienvenues ! :P]"

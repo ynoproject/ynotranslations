@@ -5,7 +5,7 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: zh_CN\n"
+"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,8 +18,8 @@ msgid ""
 "Random mode\n"
 "(Randomly selected from default 9 Fu design)"
 msgstr ""
-"随机模式\n"
-"（随机从默认的九种设计中选择）"
+"ランダムモード\n"
+"（デフォルトの９つからランダムに選択）"
 
 #. ID 17, Page 1, Line 3, Pos (8,2)
 #. Choice (2 options, embedded in a message)
@@ -27,12 +27,12 @@ msgid ""
 "Try this\n"
 "Never mind"
 msgstr ""
-"试试看\n"
-"算了"
+"試してみる\n"
+"やめる"
 
 #. ID 17, Page 1, Line 5, Pos (8,2)
 msgid "Setup complete."
-msgstr "设置完成。"
+msgstr "設定完了。"
 
 #. ID 56, Page 1, Line 3, Pos (17,2)
 #. Contains choice at line 3 (2 options)
@@ -47,9 +47,9 @@ msgid ""
 "Yes\n"
 "No"
 msgstr ""
-"是\n"
-"否"
+"はい\n"
+"いいえ"
 
 #. ID 59, Page 2, Line 4, Pos (1,14)
 msgid "[Accepting submissions!]"
-msgstr "【福设计募集中！】"
+msgstr "【投稿受付中！】"
