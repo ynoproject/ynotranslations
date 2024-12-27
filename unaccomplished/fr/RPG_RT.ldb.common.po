@@ -12,57 +12,57 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.5\n"
 
-#. ID 18, Line 34
-msgid "                   - Straw Hat - "
-msgstr "               - Chapeau de Paille - "
+#. ID 18, Line 28
+msgid "                   - Straw Hat -"
+msgstr "               - Chapeau de Paille -"
 
-#. ID 18, Line 38
+#. ID 18, Line 32
 msgid "                   - Hoverboard -"
 msgstr ""
 
-#. ID 18, Line 42
+#. ID 18, Line 36
 msgid "                - Plastic Bottle -"
 msgstr "              - Bouteille Plastique -"
 
-#. ID 18, Line 46
+#. ID 18, Line 40
 msgid "                 - Games Console -"
 msgstr "                \\_- Console de Jeux -"
 
-#. ID 18, Line 50
+#. ID 18, Line 44
 msgid "                     - 1-bit -"
 msgstr "                     - 1 Bit -"
 
-#. ID 18, Line 54
+#. ID 18, Line 48
 msgid "                   - Emptiness -"
 msgstr "                      - Vide -"
 
-#. ID 18, Line 58
+#. ID 18, Line 52
 msgid "                   - Glow Stick -"
 msgstr "                 - Bâton Lumineux -"
 
-#. ID 18, Line 62
+#. ID 18, Line 56
 msgid "                    - Classic -"
 msgstr "                   - Classique -"
 
-#. ID 18, Line 66
+#. ID 18, Line 60
 msgid "                     - Baby -"
 msgstr "                     - Bébé -"
 
-#. ID 18, Line 70
+#. ID 18, Line 64
 msgid "                      - Fu -"
 msgstr ""
 
-#. ID 18, Line 74
+#. ID 18, Line 68
 msgid "                   - Skeleton -"
 msgstr "                  - Squelette -"
 
-#. ID 18, Line 78
+#. ID 18, Line 72
 msgid "                     - Messy -"
 msgstr "                   - Pagaille -"
 
 #. ID 28, Line 50
-msgid "               - Move While Seated - "
-msgstr "               - Déplacement Assis - "
+msgid "               - Move While Seated -"
+msgstr "               - Déplacement Assis -"
 
 #. ID 29, Line 1
 #. Contains choice at line 2 (3 options)
@@ -429,22 +429,15 @@ msgstr ""
 #. ID 38, Line 124
 #. ID 38, Line 134
 #. ID 38, Line 144
-#. ID 195, Line 16
-#. ID 195, Line 29
-#. ID 195, Line 69
-#. ID 195, Line 80
-#. ID 195, Line 110
-#. ID 195, Line 124
-#. ID 195, Line 134
-#. ID 195, Line 144
+#. ID 193, Line 2
 msgid "\\$\\.\\.\\.\\^"
 msgstr ""
 
-#. ID 42, Line 48
+#. ID 42, Line 16
 msgid "[Find it]"
 msgstr "[Le Trouver]"
 
-#. ID 42, Line 49
+#. ID 42, Line 17
 msgid ""
 "When did I forget about it?\n"
 "I mean, I did like it back in the day, so it \n"
@@ -455,7 +448,7 @@ msgstr ""
 "donc il n'aurait pas dû être dans cette boîte,\n"
 "non ?"
 
-#. ID 42, Line 52
+#. ID 42, Line 20
 msgid ""
 "I cleaned it and now,\n"
 "it looks as cool as before........................\n"
@@ -465,11 +458,11 @@ msgstr ""
 "il a l'air aussi joli qu'avant....................\n"
 "................. et embarrassant pour moi, haha."
 
-#. ID 42, Line 58
+#. ID 42, Line 26
 msgid "[It]"
 msgstr "[Ça]"
 
-#. ID 42, Line 59
+#. ID 42, Line 27
 msgid ""
 "Today, I saw it in the canteen's claw crane.\n"
 "It looked silly, but its eyes were fixed on me the \n"
@@ -480,7 +473,7 @@ msgstr ""
 "étaient posés sur moi pendant touuuuuttt ce\n"
 "temps-là."
 
-#. ID 42, Line 62
+#. ID 42, Line 30
 msgid ""
 "So...I spent 55 yuan!!! So much money!!!\n"
 "It ended up saving five yuan though. \n"
@@ -492,11 +485,11 @@ msgstr ""
 "J'ai quand même pu économiser 5 yuan.\n"
 "Ahhhhhhh est-ce que je devais vraiment faire ça ?"
 
-#. ID 42, Line 69
+#. ID 42, Line 37
 msgid "[Trying To Write Something]"
 msgstr "[Essai d'Écriture]"
 
-#. ID 42, Line 70
+#. ID 42, Line 38
 msgid ""
 "Because there is no idea,\n"
 "so the writing is dry like a sponge that has\n"
@@ -508,7 +501,7 @@ msgstr ""
 "étreinte, dérivant de son habitat, ne nettoyant\n"
 "plus rien..."
 
-#. ID 42, Line 74
+#. ID 42, Line 42
 msgid ""
 "but I also want to live a freee,\n"
 "live from myself,\n"
@@ -517,11 +510,11 @@ msgstr ""
 "... mais j'ai aussi envie de vivre librement,\n"
 "vivre de mes propres ailes, yyyyyy !!!!"
 
-#. ID 42, Line 80
+#. ID 42, Line 48
 msgid "[Recall Memory]"
 msgstr "[Rappel de Souvenirs]"
 
-#. ID 42, Line 81
+#. ID 42, Line 49
 msgid ""
 "There are times when I miss the past and want to\n"
 "take a bite out of my memories and taste what it\n"
@@ -531,7 +524,7 @@ msgstr ""
 "juste goûter à mes souvenirs pour voir quel goût\n"
 "ils ont......"
 
-#. ID 42, Line 85
+#. ID 42, Line 52
 msgid ""
 "Is it sweet? Or savory?\n"
 "Or the flavor of some kind of\n"
@@ -543,11 +536,11 @@ msgstr ""
 "mortel ayant ôté la vie d'un rat ?\n"
 "En tout cas, je peux au moins dormir paisiblement."
 
-#. ID 42, Line 91
+#. ID 42, Line 59
 msgid "[Oh Cool]"
 msgstr "[Oh Sympa]"
 
-#. ID 42, Line 92
+#. ID 42, Line 60
 msgid ""
 "Aaaaaaa I feel so annoying.\n"
 "I also want to be cooler ah,\n"
@@ -561,7 +554,7 @@ msgstr ""
 "<easyrpg:new_page>\n"
 "supercalifragilisticexpidélilicieux..."
 
-#. ID 42, Line 96
+#. ID 42, Line 64
 msgid ""
 "As a result in the end I'm JUST a clown,\n"
 "NO,\n"
@@ -573,11 +566,11 @@ msgstr ""
 "car même un clown est plus populaire que moi,\n"
 "ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
 
-#. ID 42, Line 103
+#. ID 42, Line 71
 msgid "[Indignation]"
 msgstr ""
 
-#. ID 42, Line 104
+#. ID 42, Line 72
 msgid ""
 "I drink more drinks and so what?!\n"
 "I drink more GOOD than smoking,\n"
@@ -589,7 +582,7 @@ msgstr ""
 "même indirecte blesse bien plus,\n"
 "va causer des cancers du poumon chez des gens,"
 
-#. ID 42, Line 108
+#. ID 42, Line 76
 msgid ""
 "that's lung cancer!!!!\n"
 "...I wish I could PUNCH him in the face......\n"
@@ -604,11 +597,11 @@ msgstr ""
 "Cela dit,\n"
 "je ne peux pas le battre non plus, c'est xxxx !!!!"
 
-#. ID 42, Line 115
+#. ID 42, Line 83
 msgid "[Play game]"
 msgstr "[Jouer au Jeu]"
 
-#. ID 42, Line 116
+#. ID 42, Line 84
 msgid ""
 "Everyone says that game is poison, it corrupts\n"
 "student and turn them into bad person.\n"
@@ -624,7 +617,7 @@ msgstr ""
 "classe, tout le monde s'est rassemblé pour le\n"
 "regarder."
 
-#. ID 42, Line 120
+#. ID 42, Line 88
 msgid ""
 "Has he turned into a bad guy?\n"
 "Should I be scared?\n"
@@ -636,11 +629,11 @@ msgstr ""
 "\n"
 "Je ne sais pas. Je ne sais vraiment pas."
 
-#. ID 42, Line 127
+#. ID 42, Line 95
 msgid "[Yes Or No]"
 msgstr "[Oui ou Non]"
 
-#. ID 42, Line 128
+#. ID 42, Line 96
 msgid ""
 "Is the world black and white?\n"
 "So I say it's not my fault and in the end it's\n"
@@ -652,7 +645,7 @@ msgstr ""
 "c'est quand même ma faute,\n"
 "donc pourquoi devrais-je lutter ?"
 
-#. ID 42, Line 132
+#. ID 42, Line 100
 msgid ""
 "...well sorry hahaha too many questions asked...\n"
 "But no matter how much I ask there will be no\n"
@@ -664,11 +657,11 @@ msgstr ""
 "réponse.\n"
 "Cela me rend plutôt triste..........."
 
-#. ID 42, Line 139
+#. ID 42, Line 107
 msgid "[Loneliness]"
 msgstr "[Solitude]"
 
-#. ID 42, Line 140
+#. ID 42, Line 108
 msgid ""
 "People are always prone to loneliness no exception\n"
 "But if it stays too long,\n"
@@ -680,7 +673,7 @@ msgstr ""
 "longtemps, telle l'accumulation de nuages sombres\n"
 "ne pouvant être éloignés..."
 
-#. ID 42, Line 144
+#. ID 42, Line 112
 msgid ""
 "This will affect the physical and mental health,\n"
 "which is not good,\n"
@@ -692,11 +685,11 @@ msgstr ""
 "dit que l'on doit garder la pêche, et rester un\n"
 "enfant joyeux et actif, tu ne crois pas ?"
 
-#. ID 42, Line 151
+#. ID 42, Line 119
 msgid "[Prepare to glow]"
 msgstr "[Se Préparer à Briller]"
 
-#. ID 42, Line 152
+#. ID 42, Line 120
 msgid ""
 "When I took it out of the fridge, it gotten cold\n"
 "and hard.\n"
@@ -708,7 +701,7 @@ msgstr ""
 "J'ai brisé sa glace, puis je l'ai tapoté et il\n"
 "était prêt à être utilisé."
 
-#. ID 42, Line 156
+#. ID 42, Line 124
 msgid ""
 "I offered to sell it for a dollar a piece,\n"
 "but she thought it was too cheap...\n"
@@ -724,17 +717,17 @@ msgstr ""
 "moi.\n"
 "Je ne veux pas devenir un capitaliste, hahaha !"
 
-#. ID 42, Line 160
+#. ID 42, Line 128
 msgid "(PS. Don't eat the liquid inside, it's poisonous!)"
 msgstr ""
 "(PS : ne buvez pas le liquide dedans, c'est\n"
 "toxique !)"
 
-#. ID 42, Line 164
+#. ID 42, Line 132
 msgid "[Begin]"
 msgstr "[Commencer]"
 
-#. ID 42, Line 165
+#. ID 42, Line 133
 msgid ""
 "I don't remember when it popped into my head.\n"
 "At the time, I was just looking for something\n"
@@ -744,7 +737,7 @@ msgstr ""
 "ma tête. À ce moment, je cherchais juste quelque\n"
 "chose à faire."
 
-#. ID 42, Line 168
+#. ID 42, Line 136
 msgid ""
 "Since then, I've thought about it every day.\n"
 "I wonder about its family, its life, and"
@@ -752,7 +745,7 @@ msgstr ""
 "Depuis lors, j'y ai pensé tous les jours. Je me\n"
 "pose des questions sur sa famille, sa vie, et"
 
-#. ID 42, Line 170
+#. ID 42, Line 138
 msgid ""
 "                                                  \n"
 "Whatever, those are just dreams after all.\n"
@@ -764,11 +757,11 @@ msgstr ""
 "\n"
 "Les rêves se réveillent toujours un jour."
 
-#. ID 42, Line 177
+#. ID 42, Line 145
 msgid "[Abbbbaabbbbpppp]"
 msgstr ""
 
-#. ID 42, Line 178
+#. ID 42, Line 146
 msgid ""
 "Isn't it nice to be a baby?\n"
 "When babies are taken care of and fed every day,\n"
@@ -780,7 +773,7 @@ msgstr ""
 "n'ont jamais besoin de penser à avoir apprendre\n"
 "ou d'avoir à interagir,"
 
-#. ID 42, Line 182
+#. ID 42, Line 150
 msgid ""
 "they just have to play all the time!\n"
 "But it must be hard for people with babies...\n"
@@ -792,11 +785,11 @@ msgstr ""
 "bébés... De toute façon, ça peut pas m'arriver !\n"
 "Maa future femmee, ne faisons pas de bébé, hein ?"
 
-#. ID 42, Line 189
+#. ID 42, Line 157
 msgid "[Nian]"
 msgstr ""
 
-#. ID 42, Line 190
+#. ID 42, Line 158
 msgid ""
 "I like Nian because I think it's cool.\n"
 "Because I know it hurts blown up by firecrackers.\n"
@@ -808,7 +801,7 @@ msgstr ""
 "pétards. Car je n'aime pas non plus la couleur\n"
 "rouge. (Le sang ne me fait pas tourner de l'œil !)"
 
-#. ID 42, Line 194
+#. ID 42, Line 162
 msgid ""
 "I hope to meet Nian one day.\n"
 "Let it eat me, so no one can find me!\n"
@@ -1325,3 +1318,11 @@ msgstr ""
 "2023\n"
 "2024\n"
 "Retour"
+
+#. ID 197, Line 3
+msgid "[Accepting submissions!:P]"
+msgstr "[Contributions bienvenues ! :P]"
+
+#. ID 197, Line 31
+msgid "Picture not found."
+msgstr "Image non trouvée."

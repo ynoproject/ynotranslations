@@ -5,21 +5,29 @@ msgstr ""
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: ru\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.5\n"
 
-#. ID 406, Page 1, Line 5, Pos (13,117)
+#. ID 382, Page 1, Line 1, Pos (37,189)
+msgid "←扉交換用"
+msgstr ""
+
+#. ID 383, Page 1, Line 1, Pos (37,191)
+msgid "←逐次出現用"
+msgstr ""
+
+#. ID 503, Page 1, Line 3, Pos (63,209)
 msgid ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　メニュータイプ：91\\<\\|\\|\\^"
+"\\>　　　　　　　　メニュータイプ：90\\<\\|\\|\\^"
 msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　 Стиль Меню: 91\\<\\|\\|\\^"
+"\\>　　　　　　　　   菜单样式：90\\<\\|\\|\\^"
