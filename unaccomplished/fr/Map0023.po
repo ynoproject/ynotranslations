@@ -25,7 +25,7 @@ msgstr ""
 "Bulle-mojis\n"
 "Quitter le jeu"
 
-#. ID 14, Page 1, Line 18, Pos (18,13)
+#. ID 14, Page 1, Line 25, Pos (18,13)
 msgid ""
 "Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
 "Wuqi Effects: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
@@ -35,7 +35,7 @@ msgstr ""
 "Effets wuqi : \\c[1]\\V[15]\\c[0]/\\V[509]\n"
 "Objets spéciaux : \\c[1]\\V[16]\\c[0]/\\V[510]"
 
-#. ID 14, Page 1, Line 23, Pos (18,13)
+#. ID 14, Page 1, Line 30, Pos (18,13)
 msgid ""
 "Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
 "Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
@@ -43,11 +43,11 @@ msgstr ""
 "Effets : \\c[1]\\V[14]\\c[0]/\\V[508]\n"
 "Objets spéciaux : \\c[1]\\V[16]\\c[0]/\\V[510]"
 
-#. ID 14, Page 1, Line 27, Pos (18,13)
+#. ID 14, Page 1, Line 34, Pos (18,13)
 msgid ""
 "Wallpapers: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
 "Documents: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
-"Menu Style: \\c[1]\\V[92]\\c[0]/4\n"
+"Menu Style: \\c[1]\\V[92]\\c[0]/\\V[507]\n"
 "Thanks for playing :P"
 msgstr ""
 "Fonds d'écran : \\c[1]\\V[90]\\c[0]/\\V[505]\n"
@@ -55,7 +55,7 @@ msgstr ""
 "Thèmes de menu : \\c[1]\\V[92]\\c[0]/\\V[507]\n"
 "Merci d'avoir joué :P"
 
-#. ID 14, Page 1, Line 38, Pos (18,13)
+#. ID 14, Page 1, Line 45, Pos (18,13)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
@@ -66,7 +66,7 @@ msgstr ""
 "envoyer.\n"
 "Actuellement \\c[1]activé\\c[0]."
 
-#. ID 14, Page 1, Line 40, Pos (18,13)
+#. ID 14, Page 1, Line 47, Pos (18,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Turn OFF\n"
@@ -75,12 +75,12 @@ msgstr ""
 "Désactiver\n"
 "Conserver"
 
-#. ID 14, Page 1, Line 43, Pos (18,13)
-#. ID 14, Page 1, Line 55, Pos (18,13)
+#. ID 14, Page 1, Line 50, Pos (18,13)
+#. ID 14, Page 1, Line 62, Pos (18,13)
 msgid "Setup complete."
 msgstr "Préparation terminée."
 
-#. ID 14, Page 1, Line 50, Pos (18,13)
+#. ID 14, Page 1, Line 57, Pos (18,13)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
@@ -91,7 +91,7 @@ msgstr ""
 "envoyer.\n"
 "Actuellement \\c[1]désactivé\\c[0]."
 
-#. ID 14, Page 1, Line 52, Pos (18,13)
+#. ID 14, Page 1, Line 59, Pos (18,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Turn ON\n"
@@ -100,12 +100,12 @@ msgstr ""
 "Activer\n"
 "Conserver"
 
-#. ID 14, Page 1, Line 64, Pos (18,13)
+#. ID 14, Page 1, Line 71, Pos (18,13)
 #. Contains choice at line 2 (2 options)
 msgid "Are you sure?"
 msgstr "Êtes-vous sûr ?"
 
-#. ID 14, Page 1, Line 65, Pos (18,13)
+#. ID 14, Page 1, Line 72, Pos (18,13)
 #. Choice (2 options, embedded in a message)
 #. ID 23, Page 1, Line 13, Pos (0,0)
 #. Choice (2 options, embedded in a message)
@@ -134,14 +134,6 @@ msgstr "La corbeille est vide."
 #. Contains choice at line 2 (2 options)
 msgid "Quit?"
 msgstr "Quitter ?"
-
-#. ID 30, Page 2, Line 69, Pos (14,14)
-msgid "Picture not found."
-msgstr "Image non trouvée."
-
-#. ID 30, Page 2, Line 324, Pos (14,14)
-msgid "[Accepting submissions!:P]"
-msgstr "[Contributions bienvenues ! :P]"
 
 #. ID 100, Page 1, Line 2, Pos (1,12)
 #. Contains choice at line 2 (2 options)
@@ -191,7 +183,6 @@ msgstr "[\\c[1]DIY\\c[0] Fu (Découpage de Papier du Nouvel An Chinois)]"
 
 #. ID 115, Page 1, Line 19, Pos (5,2)
 #. Choice (3 options, embedded in a message)
-#, fuzzy
 msgid ""
 "Use your design\n"
 "View other designs \n"
@@ -323,31 +314,31 @@ msgstr ""
 msgid ""
 "This means that you provided an image with the \n"
 "wrong bit depth and color count. \n"
-"Make sure the image is \\c[1]8-bit\\c[0], \n"
+"Make sure the sprite is \\c[1]8-bit\\c[0], \n"
 "with \\c[1]256 colors\\c[0], indexed."
 msgstr ""
 "Cela veut dire que l'image sélectionnée possède\n"
 "une mauvaise profondeur de couleur et un mauvais\n"
 "nombre de couleurs.\n"
 "<easyrpg:new_page>\n"
-"Veuillez vous assurer que l'image est au format\n"
-"\\c[1]8 bits\\c[0], avec \\c[1]256 couleurs\\c[0], et est indexée."
+"Veuillez vous assurer que le sprite est au format\n"
+"\\c[1]8 bits\\c[0], avec \\c[1]256 couleurs\\c[0], et est indexé."
 
 #. ID 115, Page 1, Line 105, Pos (5,2)
 msgid ""
-"Either the image being requested by the game \n"
-"is missing, or the image uses the wrong size. \n"
-"Since we're dealing with CharSets, \n"
-"make sure the size is \\c[1]288x256\\c[0]."
+"Either the image being requested by the game\n"
+"is missing, or the image uses the wrong name. \n"
+"Make sure your design image in the CharSet folder,\n"
+"and the sprites name is \\c[1]YM_E_FU_Sample\\c[0]"
 msgstr ""
 "Soit l'image demandée par le jeu est absente,\n"
-"soit l'image est à la mauvaise résolution.\n"
+"soit l'image ne possède pas le nom demandé.\n"
 "\n"
 "\n"
 "<easyrpg:new_page>\n"
-"Étant donné que l'on utilise un CharSet,\n"
-"assurez-vous que la taille de votre fichier est en\n"
-"effet de \\c[1]288x256\\c[0] pixels."
+"Assurez-vous que l'image de votre motif est dans\n"
+"le dossier CharSet, et que le nom de ce fichier\n"
+"est \\c[1]YM_E_FU_Sample\\c[0]."
 
 #. ID 115, Page 1, Line 111, Pos (5,2)
 msgid ""
@@ -389,14 +380,17 @@ msgstr ""
 msgid ""
 "If you want to submit your designs for the game,\n"
 "Send your design to the E-mail in [Read me] and \n"
-"comment \\c[1][Submit design]\\c[0]"
+"comment \\c[1][Submit design]\\c[0]\n"
+"Or contribute via the Disocrd server."
 msgstr ""
 "Si vous voulez contribuer vos propres motifs pour\n"
 "le jeu, vous pouvez m'envoyer votre motif à\n"
 "l'adresse e-mail présente dans le \\c[1][Lis-moi]\\c[0]\n"
-"du jeu et ajouter le commentaire \\c[1][Submit design]\\c[0]."
+"du jeu et ajouter le commentaire \\c[1][Submit design]\\c[0].\n"
+"<easyrpg:new_page>\n"
+"Ou vous pouvez me l'envoyer depuis le serveur Discord."
 
-#. ID 115, Page 1, Line 130, Pos (5,2)
+#. ID 115, Page 1, Line 131, Pos (5,2)
 msgid ""
 "Then, tell me the \\c[1][Design name]\\c[0]\n"
 "and \\c[1][Author name]\\c[0], \n"
@@ -406,7 +400,7 @@ msgstr ""
 "\\c[1][nom de l'auteur]\\c[0], et j'essayerai de l'ajouter\n"
 "pour la prochaine mise à jour !"
 
-#. ID 115, Page 1, Line 133, Pos (5,2)
+#. ID 115, Page 1, Line 134, Pos (5,2)
 msgid ""
 "Note: \n"
 "\\c[1][All submissions can only use given color palette]\\c[0]\n"
@@ -422,7 +416,7 @@ msgstr ""
 "sorte à ce qu'elles correspondent toutes mieux au\n"
 "style du jeu."
 
-#. ID 115, Page 1, Line 137, Pos (5,2)
+#. ID 115, Page 1, Line 138, Pos (5,2)
 msgid ""
 "If your submitted design can't display or \n"
 "doesn't display properly in the game,\n"

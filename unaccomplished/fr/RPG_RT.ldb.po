@@ -82,7 +82,6 @@ msgctxt "actors.name"
 msgid "Fu"
 msgstr ""
 
-# 防误触
 #. ID 15
 msgctxt "actors.name"
 msgid "·ÀÎó´¥"
@@ -120,7 +119,6 @@ msgctxt "items.description"
 msgid "Tells you the game rules."
 msgstr "Te dicte les règles du jeu."
 
-# Quotation marks removed due to making the text be too long.
 #. ID 5
 msgctxt "items.name"
 msgid "\"Straw Hat?\""
@@ -215,8 +213,8 @@ msgstr ""
 
 #. ID 51
 msgctxt "items.description"
-msgid "Ride on the floating hoverboard."
-msgstr "Monte sur un hoverboard lévitant."
+msgid "Ride on the floating skateboard."
+msgstr "Monte sur un skateboard lévitant."
 
 #. ID 52
 msgctxt "items.name"
@@ -773,8 +771,8 @@ msgid "Begin!"
 msgstr "Commencer !"
 
 msgctxt "terms.load_game"
-msgid "Think?"
-msgstr "Penser ?"
+msgid "Think:"
+msgstr "Penser :"
 
 msgctxt "terms.exit_game"
 msgid "Over."

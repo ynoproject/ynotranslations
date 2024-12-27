@@ -28,7 +28,6 @@ msgstr "                 - Bâton Lumineux -"
 msgid "                        :D"
 msgstr ""
 
-#                  - 骑着椅子移动 -
 #. ID 91, Page 1, Line 1, Pos (14,11)
 msgid "                 - Æï×ÅÒÎ×ÓÒÆ¶¯ - "
 msgstr "               - Déplacement Assis - "
@@ -37,23 +36,24 @@ msgstr "               - Déplacement Assis - "
 msgid "\\$\\.\\.\\.\\^"
 msgstr ""
 
-# 龘靐麤鱻爨飍纛驘饕
 #. ID 102, Page 1, Line 1, Pos (45,8)
 msgid "ý“ìhû›÷€ìàïqôîòŸ÷Ò"
 msgstr ""
 "Test d'affichage de caractères\n"
 "龘靐麤鱻爨飍纛驘饕"
 
-# 还剩\V[188]天 \V[187]时 \V[186]分 \V[185]秒成熟
 #. ID 110, Page 1, Line 13, Pos (24,12)
 msgid "»¹Ê£\\V[188]Ìì \\V[187]Ê± \\V[186]·Ö \\V[185]Ãë³ÉÊì"
 msgstr ""
 "\\V[188] jour(s), \\V[187] heure(s), \\V[186] minute(s),\n"
 "\\V[185] seconde(s)"
 
-# 虚空阶段变量 \c[1]\V[43]\c[0]
 #. ID 142, Page 1, Line 1, Pos (14,6)
 msgid "Ðé¿Õ½×¶Î±äÁ¿ \\c[1]\\V[43]\\c[0]"
 msgstr ""
 "Valeur de la variable d'état de la possession\n"
 "Vide : \\c[1]\\V[43]\\c[0]"
+
+#. ID 170, Page 1, Line 1, Pos (16,16)
+msgid "¤ª´ý¤Á¤¯¤À¤µ¤¤"
+msgstr "Veuillez patienter, s'il vous plaît"
