@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume2kki\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 2, Page 3, Line 31, Pos (0,4)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "範囲外のステージIDを呼び出しました"
+msgstr "Вне доступа"
+
+#. ID 2, Page 3, Line 32, Pos (0,4)
+#. ChangeHeroName (Actor 2)
+#. ID 2, Page 3, Line 33, Pos (0,4)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid " "
+msgstr " "
+
+#. ID 4, Page 5, Line 11, Pos (0,7)
+msgid "\\>\\c[1]【このﾒｯｾｰｼﾞが見えたらﾊﾞｸﾞ報告お願いします】\\c[0]\n"
+"\\>\\n[1]\n"
+"\\>\\n[2]\n"
+"\\>\\n[3]"
+msgstr "\\>\\c[1](Если вы это видите, сообщите об ошибке)\\c[0]\n"
+"\\>\\n[1]\n"
+"\\>\\n[2]\n"
+"\\>\\n[3]"
+
+#. ID 163, Page 1, Line 7, Pos (33,1)
+#. ChangeHeroName (Actor 1)
+#. ID 163, Page 1, Line 32, Pos (33,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0000"
+msgstr ""
+
+#. ID 163, Page 1, Line 11, Pos (33,1)
+#. ChangeHeroName (Actor 1)
+#. ID 163, Page 1, Line 36, Pos (33,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "000"
+msgstr ""
+
+#. ID 163, Page 1, Line 15, Pos (33,1)
+#. ChangeHeroName (Actor 1)
+#. ID 163, Page 1, Line 40, Pos (33,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "00"
+msgstr ""
+
+#. ID 163, Page 1, Line 19, Pos (33,1)
+#. ChangeHeroName (Actor 1)
+#. ID 163, Page 1, Line 44, Pos (33,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "0"
+msgstr ""
+
+#. ID 163, Page 1, Line 56, Pos (33,1)
+msgid "\\> $Y$Y$Y$Y$Y$Y$Y*　ゲーム　クリア　*$Y$Y$Y$Y$Y$Y$Y\n"
+"\\>　 WALK : \\N[1]\\V[9]\n"
+"\\>　 PUSH : \\N[2]\\V[10]\n"
+"\\>"
+msgstr "\\> $Y$Y$Y$Y$Y$Y$Y* ИГРА ПРОЙДЕНА *$Y$Y$Y$Y$Y$Y$Y\n"
+"\\>   ХОДЫ : \\N[1]\\V[9]\n"
+"\\> ТОЛЧКИ : \\N[2]\\V[10]\n"
+"\\>"
+
+#. ID 163, Page 1, Line 60, Pos (33,1)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцуки"
+
+#. ID 163, Page 1, Line 61, Pos (33,1)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マップ到達"
+msgstr ""
+

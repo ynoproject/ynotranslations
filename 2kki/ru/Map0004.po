@@ -3,278 +3,400 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Fonvight\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 5, Page 2, Line 10, Pos (13,5)
 #. ChangeHeroName (Actor 2)
-#. ID 5, Page 2, Line 76, Pos (13,5)
+#. ID 5, Page 2, Line 81, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 95, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 997, Pos (5,6)
+#. Condition (Actor Name = おおかみ)
 msgctxt "actors.name"
 msgid "おおかみ"
 msgstr "Волк"
 
 #. ID 5, Page 2, Line 11, Pos (13,5)
 #. ChangeHeroName (Actor 3)
-#. ID 5, Page 2, Line 85, Pos (13,5)
+#. ID 5, Page 2, Line 16, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 5, Page 2, Line 90, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 103, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1209, Pos (5,6)
+#. Condition (Actor Name = バイク)
 msgctxt "actors.name"
 msgid "バイク"
 msgstr "Мотоцикл"
 
-#. ID 5, Page 2, Line 18, Pos (13,5)
+#. ID 5, Page 2, Line 15, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 5, Page 2, Line 118, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 139, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2163, Pos (5,6)
+#. Condition (Actor Name = がくラン)
+msgctxt "actors.name"
+msgid "がくラン"
+msgstr "Гакуран"
+
+#. ID 5, Page 2, Line 23, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 115, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1527, Pos (5,6)
+#. Condition (Actor Name = ツインテ)
 msgctxt "actors.name"
 msgid "ツインテ"
 msgstr "Хвостики"
 
-#. ID 5, Page 2, Line 19, Pos (13,5)
+#. ID 5, Page 2, Line 24, Pos (13,5)
 #. ChangeHeroName (Actor 3)
-#. ID 5, Page 2, Line 68, Pos (13,5)
+#. ID 5, Page 2, Line 73, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めがね"
 msgstr "Очки"
 
-#. ID 5, Page 2, Line 26, Pos (13,5)
+#. ID 5, Page 2, Line 31, Pos (13,5)
 #. ChangeHeroName (Actor 2)
-#. ID 5, Page 2, Line 125, Pos (13,5)
+#. ID 5, Page 2, Line 130, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 152, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2481, Pos (5,6)
+#. Condition (Actor Name = はにわ)
 msgctxt "actors.name"
 msgid "はにわ"
 msgstr "Ханива"
 
-#. ID 5, Page 2, Line 27, Pos (13,5)
+#. ID 5, Page 2, Line 32, Pos (13,5)
 #. ChangeHeroName (Actor 3)
-#. ID 5, Page 2, Line 133, Pos (13,5)
+#. ID 5, Page 2, Line 138, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 160, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2693, Pos (5,6)
+#. Condition (Actor Name = ケーキ)
 msgctxt "actors.name"
 msgid "ケーキ"
 msgstr "Торт"
 
-#. ID 5, Page 2, Line 34, Pos (13,5)
+#. ID 5, Page 2, Line 39, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 191, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3541, Pos (5,6)
+#. Condition (Actor Name = レインコート)
 msgctxt "actors.name"
 msgid "レインコート"
 msgstr "Дождевик"
 
-#. ID 5, Page 2, Line 44, Pos (13,5)
+#. ID 5, Page 2, Line 49, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 63, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 149, Pos (5,6)
+#. Condition (Actor Name = くろでんわ)
 msgctxt "actors.name"
 msgid "くろでんわ"
 msgstr "Телефон"
 
-#. ID 5, Page 2, Line 48, Pos (13,5)
+#. ID 5, Page 2, Line 53, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 67, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 255, Pos (5,6)
+#. Condition (Actor Name = おとこのこ)
 msgctxt "actors.name"
 msgid "おとこのこ"
 msgstr "Мальчик"
 
-#. ID 5, Page 2, Line 52, Pos (13,5)
+#. ID 5, Page 2, Line 57, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 71, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 361, Pos (5,6)
+#. Condition (Actor Name = チェーンソー)
 msgctxt "actors.name"
 msgid "チェーンソー"
 msgstr "Бензопила"
 
-#. ID 5, Page 2, Line 56, Pos (13,5)
+#. ID 5, Page 2, Line 61, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 75, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 467, Pos (5,6)
+#. Condition (Actor Name = カンテラ)
 msgctxt "actors.name"
 msgid "カンテラ"
 msgstr "Фонарь"
 
-#. ID 5, Page 2, Line 60, Pos (13,5)
+#. ID 5, Page 2, Line 65, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 79, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 573, Pos (5,6)
+#. Condition (Actor Name = ようせい)
 msgctxt "actors.name"
 msgid "ようせい"
 msgstr "Фея"
 
-#. ID 5, Page 2, Line 64, Pos (13,5)
+#. ID 5, Page 2, Line 69, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 83, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 679, Pos (5,6)
+#. Condition (Actor Name = うちゅうふく)
 msgctxt "actors.name"
 msgid "うちゅうふく"
 msgstr "Космонавт"
 
-#. ID 5, Page 2, Line 72, Pos (13,5)
+#. ID 5, Page 2, Line 77, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 91, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 891, Pos (5,6)
+#. Condition (Actor Name = にじ)
 msgctxt "actors.name"
 msgid "にじ"
 msgstr "Радуга"
 
-#. ID 5, Page 2, Line 80, Pos (13,5)
+#. ID 5, Page 2, Line 85, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "めだま"
 msgstr "Глаз-"
 
-#. ID 5, Page 2, Line 81, Pos (13,5)
+#. ID 5, Page 2, Line 86, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ばくだん"
 msgstr "Бомба"
 
-#. ID 5, Page 2, Line 89, Pos (13,5)
+#. ID 5, Page 2, Line 94, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 111, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1421, Pos (5,6)
+#. Condition (Actor Name = まいこ)
 msgctxt "actors.name"
 msgid "まいこ"
-msgstr "Жрица"
+msgstr "Майко"
 
-#. ID 5, Page 2, Line 93, Pos (13,5)
+#. ID 5, Page 2, Line 98, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ツインテール"
 msgstr "Хвостики"
 
-#. ID 5, Page 2, Line 97, Pos (13,5)
+#. ID 5, Page 2, Line 102, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ぺんぎん"
 msgstr "Пингвин"
 
-#. ID 5, Page 2, Line 101, Pos (13,5)
+#. ID 5, Page 2, Line 106, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 127, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1845, Pos (5,6)
+#. Condition (Actor Name = むし)
 msgctxt "actors.name"
 msgid "むし"
 msgstr "Жук"
 
-#. ID 5, Page 2, Line 105, Pos (13,5)
+#. ID 5, Page 2, Line 110, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 131, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1951, Pos (5,6)
+#. Condition (Actor Name = バネ)
 msgctxt "actors.name"
 msgid "バネ"
 msgstr "Попрыгун"
 
-#. ID 5, Page 2, Line 109, Pos (13,5)
+#. ID 5, Page 2, Line 114, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 135, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2057, Pos (5,6)
+#. Condition (Actor Name = とうめい)
 msgctxt "actors.name"
 msgid "とうめい"
 msgstr "Невидимка"
 
-#. ID 5, Page 2, Line 113, Pos (13,5)
+#. ID 5, Page 2, Line 122, Pos (13,5)
 #. ChangeHeroName (Actor 2)
-msgctxt "actors.name"
-msgid "がくラン"
-msgstr "Гакуран"
-
-#. ID 5, Page 2, Line 117, Pos (13,5)
-#. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 143, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2269, Pos (5,6)
+#. Condition (Actor Name = ギプス)
 msgctxt "actors.name"
 msgid "ギプス"
 msgstr "Гипс"
 
-#. ID 5, Page 2, Line 121, Pos (13,5)
+#. ID 5, Page 2, Line 126, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 147, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2375, Pos (5,6)
+#. Condition (Actor Name = せのび)
 msgctxt "actors.name"
 msgid "せのび"
 msgstr "Высокая"
 
-#. ID 5, Page 2, Line 129, Pos (13,5)
+#. ID 5, Page 2, Line 134, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 156, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2587, Pos (5,6)
+#. Condition (Actor Name = トロンボーン)
 msgctxt "actors.name"
 msgid "トロンボーン"
 msgstr "Тромбон"
 
-#. ID 5, Page 2, Line 137, Pos (13,5)
+#. ID 5, Page 2, Line 142, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 169, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2905, Pos (5,6)
+#. Condition (Actor Name = こども)
 msgctxt "actors.name"
 msgid "こども"
 msgstr "Ребёнок"
 
-#. ID 5, Page 2, Line 141, Pos (13,5)
+#. ID 5, Page 2, Line 146, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 173, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3011, Pos (5,6)
+#. Condition (Actor Name = あかずきん)
 msgctxt "actors.name"
 msgid "あかずきん"
 msgstr "Красная Шапочка"
 
-#. ID 5, Page 2, Line 145, Pos (13,5)
+#. ID 5, Page 2, Line 150, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 177, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3117, Pos (5,6)
+#. Condition (Actor Name = ティッシュ)
 msgctxt "actors.name"
 msgid "ティッシュ"
 msgstr "Салфетки"
 
-#. ID 5, Page 2, Line 149, Pos (13,5)
+#. ID 5, Page 2, Line 154, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 181, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3223, Pos (5,6)
+#. Condition (Actor Name = コウモリ)
 msgctxt "actors.name"
 msgid "コウモリ"
 msgstr "Летучая Мышь"
 
-#. ID 5, Page 2, Line 153, Pos (13,5)
+#. ID 5, Page 2, Line 158, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 185, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3329, Pos (5,6)
+#. Condition (Actor Name = ポリゴン)
 msgctxt "actors.name"
 msgid "ポリゴン"
 msgstr "Полигон"
 
-#. ID 5, Page 2, Line 157, Pos (13,5)
+#. ID 5, Page 2, Line 162, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "てるてる"
 msgstr "Теру-Те"
 
-#. ID 5, Page 2, Line 158, Pos (13,5)
+#. ID 5, Page 2, Line 163, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "ぼうず"
 msgstr "ру-Бозу"
 
-#. ID 5, Page 2, Line 162, Pos (13,5)
+#. ID 5, Page 2, Line 167, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 197, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3647, Pos (5,6)
+#. Condition (Actor Name = マージナル)
 msgctxt "actors.name"
 msgid "マージナル"
 msgstr "Маргинал"
 
-#. ID 5, Page 2, Line 166, Pos (13,5)
+#. ID 5, Page 2, Line 171, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 201, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3753, Pos (5,6)
+#. Condition (Actor Name = ドラムかん)
 msgctxt "actors.name"
 msgid "ドラムかん"
 msgstr "Бочка"
 
-#. ID 5, Page 2, Line 170, Pos (13,5)
+#. ID 5, Page 2, Line 175, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 206, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3859, Pos (5,6)
+#. Condition (Actor Name = おはか)
 msgctxt "actors.name"
 msgid "おはか"
 msgstr "Надгробие"
 
-#. ID 5, Page 2, Line 174, Pos (13,5)
+#. ID 5, Page 2, Line 179, Pos (13,5)
 #. ChangeHeroName (Actor 2)
+#. ID 18, Page 1, Line 210, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3965, Pos (5,6)
+#. Condition (Actor Name = ふみきり)
 msgctxt "actors.name"
 msgid "ふみきり"
 msgstr "Стоп-Знак"
 
-#. ID 5, Page 2, Line 178, Pos (13,5)
+#. ID 5, Page 2, Line 183, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "うさみみ"
 msgstr "Заячьи Уши"
 
-#. ID 5, Page 2, Line 182, Pos (13,5)
+#. ID 5, Page 2, Line 187, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "サイコロ"
 msgstr "Кость"
 
-#. ID 5, Page 2, Line 186, Pos (13,5)
+#. ID 5, Page 2, Line 191, Pos (13,5)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "なし（エフェ"
 msgstr "Без эф"
 
-#. ID 5, Page 2, Line 187, Pos (13,5)
+#. ID 5, Page 2, Line 192, Pos (13,5)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "クト解除）"
 msgstr "фекта"
 
 #. ID 5, Page 3, Line 21, Pos (13,5)
-msgid ""
-"\\>※お気に入りエフェクトに登録\n"
+msgid "\\>※お気に入りエフェクトに登録\n"
 "\\>　　★ \\N[2]\\N[3] ★\n"
 "\\>　シフトキー長押しで発動"
-msgstr ""
-"\\>*Избранный Эффект\n"
+msgstr "\\>*Избранный Эффект\n"
 "\\>　★ \\N[2]\\N[3] ★\n"
 "\\> Для смены, удерживайте Shift"
 
@@ -286,6 +408,8 @@ msgstr "Найдено локаций"
 
 #. ID 5, Page 3, Line 25, Pos (13,5)
 #. ChangeHeroName (Actor 3)
+#. ID 19, Page 2, Line 5, Pos (5,5)
+#. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "デフォルト1"
 msgstr "По-умолчанию 1"
@@ -294,11 +418,182 @@ msgstr "По-умолчанию 1"
 msgid "\\$\\.\\.\\.\\^"
 msgstr ""
 
-#. ID 18, Page 1, Line 67, Pos (5,6)
-#. Choice (2 options)
-msgid ""
-"\\>Z:#x1 <-> Z:#x12\n"
-"\\>Exit"
+#. ID 18, Page 1, Line 61, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 43, Pos (5,6)
+#. Condition (Actor Name = すっぴん)
+msgctxt "actors.name"
+msgid "すっぴん"
+msgstr "Нет"
+
+#. ID 18, Page 1, Line 87, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 785, Pos (5,6)
+#. Condition (Actor Name = メガネ)
+msgctxt "actors.name"
+msgid "メガネ"
+msgstr "Очки"
+
+#. ID 18, Page 1, Line 99, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1103, Pos (5,6)
+#. Condition (Actor Name = 目玉爆弾)
+msgctxt "actors.name"
+msgid "目玉爆弾"
+msgstr "Глаз-Бомба"
+
+#. ID 18, Page 1, Line 105, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1315, Pos (5,6)
+#. Condition (Actor Name = 大神バイク)
+msgctxt "actors.name"
+msgid "大神バイク"
+msgstr "Волк на Байке"
+
+#. ID 18, Page 1, Line 117, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1633, Pos (5,6)
+#. Condition (Actor Name = ツインテ眼鏡)
+msgctxt "actors.name"
+msgid "ツインテ眼鏡"
+msgstr "Очки и Хвостики"
+
+#. ID 18, Page 1, Line 123, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 1739, Pos (5,6)
+#. Condition (Actor Name = ペンギン)
+msgctxt "actors.name"
+msgid "ペンギン"
+msgstr "Пингвин"
+
+#. ID 18, Page 1, Line 162, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 2799, Pos (5,6)
+#. Condition (Actor Name = ジンジャーＢ)
+msgctxt "actors.name"
+msgid "ジンジャーＢ"
+msgstr "Пряник"
+
+#. ID 18, Page 1, Line 189, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 3435, Pos (5,6)
+#. Condition (Actor Name = てるてる坊主)
+msgctxt "actors.name"
+msgid "てるてる坊主"
+msgstr "Теру-Теру-Бозу"
+
+#. ID 18, Page 1, Line 215, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4071, Pos (5,6)
+#. Condition (Actor Name = うさみみ桃)
+msgctxt "actors.name"
+msgid "うさみみ桃"
+msgstr "Заячьи уши (Перс.)"
+
+#. ID 18, Page 1, Line 219, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4177, Pos (5,6)
+#. Condition (Actor Name = うさみみ赤)
+msgctxt "actors.name"
+msgid "うさみみ赤"
+msgstr "Заячьи уши (Крас.)"
+
+#. ID 18, Page 1, Line 223, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4283, Pos (5,6)
+#. Condition (Actor Name = うさみみ白)
+msgctxt "actors.name"
+msgid "うさみみ白"
+msgstr "Заячьи уши (Бел.)"
+
+#. ID 18, Page 1, Line 227, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4389, Pos (5,6)
+#. Condition (Actor Name = うさみみ黒)
+msgctxt "actors.name"
+msgid "うさみみ黒"
+msgstr "Заячьи уши (Чёрн.)"
+
+#. ID 18, Page 1, Line 234, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4495, Pos (5,6)
+#. Condition (Actor Name = サイコロ１)
+msgctxt "actors.name"
+msgid "サイコロ１"
+msgstr "Кубик 1"
+
+#. ID 18, Page 1, Line 238, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4601, Pos (5,6)
+#. Condition (Actor Name = サイコロ２)
+msgctxt "actors.name"
+msgid "サイコロ２"
+msgstr "Кубик 2"
+
+#. ID 18, Page 1, Line 242, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4707, Pos (5,6)
+#. Condition (Actor Name = サイコロ３)
+msgctxt "actors.name"
+msgid "サイコロ３"
+msgstr "Кубик 3"
+
+#. ID 18, Page 1, Line 246, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4813, Pos (5,6)
+#. Condition (Actor Name = サイコロ４)
+msgctxt "actors.name"
+msgid "サイコロ４"
+msgstr "Кубик 4"
+
+#. ID 18, Page 1, Line 250, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 4919, Pos (5,6)
+#. Condition (Actor Name = サイコロ５)
+msgctxt "actors.name"
+msgid "サイコロ５"
+msgstr "Кубик 5"
+
+#. ID 18, Page 1, Line 254, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 5025, Pos (5,6)
+#. Condition (Actor Name = サイコロ６)
+msgctxt "actors.name"
+msgid "サイコロ６"
+msgstr "Кубик 6"
+
+#. ID 18, Page 1, Line 258, Pos (5,6)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 2, Line 5131, Pos (5,6)
+#. Condition (Actor Name = サイコロ特殊)
+msgctxt "actors.name"
+msgid "サイコロ特殊"
+msgstr "Кубик Особый"
+
+#. ID 19, Page 1, Line 18, Pos (5,5)
+#. ChangeHeroName (Actor 3)
+#. ID 19, Page 1, Line 21, Pos (5,5)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "$r"
 msgstr ""
-"\\>Z:#x1 <-> Z:#x12\n"
-"\\>Выход"
+
+#. ID 19, Page 1, Line 24, Pos (5,5)
+#. Choice (3 options)
+msgid "\\>\n"
+"\\>\\N[3]\n"
+"\\>\\N[4]"
+msgstr ""
+
+#. ID 19, Page 2, Line 4, Pos (5,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцуки"
+
+#. ID 19, Page 2, Line 6, Pos (5,5)
+#. ChangeHeroName (Actor 4)
+msgctxt "actors.name"
+msgid "デフォルト2"
+msgstr ""
+

@@ -12,13 +12,8 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.4\n"
 
-#. ID 6, Page 1, Line 8, Pos (12,6)
-msgid "\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　メニュータイプ：42\\<\\|\\|\\^"
-msgstr "\\>\n"
-"\\>\n"
-"\\>\n"
-"\\>　　　　　　　　 Стиль Меню: 42\\<\\|\\|\\^"
+#. ID 15, Page 1, Line 4, Pos (36,41)
+#. ID 15, Page 2, Line 4, Pos (36,41)
+msgid "■■■■"
+msgstr "■■■■■■■"
 
