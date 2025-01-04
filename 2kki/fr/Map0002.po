@@ -927,7 +927,7 @@ msgstr "Invisible"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "がくラン"
-msgstr "Gakuran"
+msgstr "Gakuran "
 
 #. ID 12, Page 2, Line 117, Pos (13,5)
 #. ChangeHeroName (Actor 2)
