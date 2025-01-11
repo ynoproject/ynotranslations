@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 18, Page 1, Line 1, Pos (3,11)
+#. Contains choice at line 2 (2 options)
+msgid "デバッグルームに行きますか？"
+msgstr "Entrer dans la Salle de Débogage ?"
+
+#. ID 18, Page 1, Line 2, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 11, Pos (19,0)
+#. Choice (2 options)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 19, Page 1, Line 5, Pos (19,0)
+msgid ""
+"バージョンが古いため、\n"
+"ゲーム内で不具合が起こる恐れがあります。\n"
+"既に起きているやもしれません。"
+msgstr ""
+"Vu que votre sauvegarde est ancienne, certains\n"
+"problèmes peuvent se produire dans le jeu.\n"
+"Certains sont peut-être même déjà arrivés."
+
+#. ID 19, Page 1, Line 8, Pos (19,0)
+msgid ""
+"出来ればプレイを続行することは\n"
+"お勧めできませんが、\n"
+"それでも続けますか？"
+msgstr ""
+"Bien qu'il soit possible de jouer, le faire est\n"
+"déconseillé.\n"
+"Voulez-vous tout de même continuer ?"
+
+#. ID 19, Page 1, Line 13, Pos (19,0)
+msgid ""
+"了解致しました。\n"
+"それでは続きをどうぞ。"
+msgstr ""
+"Compris.\n"
+"Veuillez continuer."
+
+#. ID 19, Page 1, Line 18, Pos (19,0)
+msgid "申し訳ございません。"
+msgstr "Toutes mes excuses pour ce désagrément."
