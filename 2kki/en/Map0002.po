@@ -290,7 +290,7 @@ msgid ""
 "\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
 "\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
 msgstr ""
-"\\>Use the file at in Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
+"\\>Use the file at Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
 "\\>\\C[4]If the file cannot be read, the game will crash.\\C[0]"
 
 #. ID 6, Page 6, Line 600, Pos (12,5)
