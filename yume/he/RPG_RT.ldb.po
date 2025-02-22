@@ -15,305 +15,305 @@ msgstr ""
 #. ID 1
 msgctxt "actors.name"
 msgid "Madotsuki"
-msgstr "יקוסטודמ"
+msgstr "מדוטסוקי"
 
 #. ID 1
 #. ID 2
 msgctxt "items.name"
 msgid "Frog"
-msgstr "עדרפצ"
+msgstr "צפרדע"
 
 #. ID 1
 #. ID 2
 msgctxt "items.description"
 msgid "Transform into a frog."
-msgstr ".עדרפצל ךופהל"
+msgstr "לצפרדע.  להפוך"
 
 #. ID 3
 #. ID 4
 msgctxt "items.name"
 msgid "Umbrella"
-msgstr "היירטמ"
+msgstr "מטרייה"
 
 #. ID 3
 #. ID 4
 msgctxt "items.description"
 msgid "Use an umbrella."
-msgstr ".היירטמ קיזחהל"
+msgstr "מטרייה. להחזיק"
 
 #. ID 5
 #. ID 6
 msgctxt "items.name"
 msgid "Hat & Scarf"
-msgstr "ףיעצ & עבוכ"
+msgstr "כובע & צעיף"
 
 #. ID 5
 #. ID 6
 msgctxt "items.description"
 msgid "Don a hat & scarf."
-msgstr ".ףיעצו עבוכ שובלל"
+msgstr "וצעיף. כובע ללבוש"
 
 #. ID 7
 #. ID 8
 msgctxt "items.name"
 msgid "Snow Woman"
-msgstr "גלש תשיא"
+msgstr "אישת שלג"
 
 #. ID 7
 #. ID 8
 msgctxt "items.description"
 msgid "Morph into a Snow Woman."
-msgstr ".גלש תשיאל ךופהל"
+msgstr "שלג. לאישת להפוך"
 
 #. ID 9
 #. ID 10
 msgctxt "items.name"
 msgid "Kitchen Knife"
-msgstr "חבטמ ןיכס"
+msgstr "סכין מטבח"
 
 #. ID 9
 #. ID 10
 msgctxt "items.description"
 msgid "Equip a kitchen knife."
-msgstr ".חבטמ ןיכס קיזחהל"
+msgstr "מטבח. סכין להחזיק"
 
 #. ID 11
 #. ID 12
 msgctxt "items.name"
 msgid "Eye Palm"
-msgstr "די ףכ ןיע"
+msgstr "עין כף יד"
 
 #. ID 11
 #. ID 12
 msgctxt "items.description"
 msgid "Warp into an Eye Palm."
-msgstr ".ןיע םע די ףכל שארה תא ךופהל"
+msgstr "עין. עם יד לכף הראש את להפוך"
 
 #. ID 13
 #. ID 14
 msgctxt "items.name"
 msgid "Fatten"
-msgstr "ןימשהל"
+msgstr "להשמין"
 
 #. ID 13
 #. ID 14
 msgctxt "items.description"
 msgid "Balloon in size."
-msgstr ".לודגל"
+msgstr "לגדול."
 
 #. ID 15
 #. ID 16
 msgctxt "items.name"
 msgid "Midget"
-msgstr "דמג"
+msgstr "גמד"
 
 #. ID 15
 #. ID 16
 msgctxt "items.description"
 msgid "Shrink in size."
-msgstr ".ץווכתהל"
+msgstr "להתכווץ."
 
 #. ID 17
 #. ID 18
 msgctxt "items.name"
 msgid "Flute"
-msgstr "תילילח"
+msgstr "חלילית"
 
 #. ID 17
 #. ID 18
 msgctxt "items.description"
 msgid "Brandish a flute."
-msgstr ".תילילח קיזחהל"
+msgstr "חלילית. להחזיק"
 
 #. ID 19
 #. ID 20
 msgctxt "items.name"
 msgid "Neon"
-msgstr "ןואנ"
+msgstr "נאון"
 
 #. ID 19
 #. ID 20
 msgctxt "items.description"
 msgid "Glow like a neon sign."
-msgstr ".ןואנ טלש ומכ טולבל"
+msgstr "נאון. שלט כמו לבלוט"
 
 #. ID 21
 #. ID 22
 msgctxt "items.name"
 msgid "Faceless Ghost"
-msgstr "ףוצרפ רסח חור"
+msgstr "רוח חסר פרצוף"
 
 #. ID 21
 #. ID 22
 msgctxt "items.description"
 msgid "Materialize as a faceless ghost."
-msgstr ".ךפוצרפ תא דבאל"
+msgstr "פרצופך. את לאבד"
 
 #. ID 23
 #. ID 24
 msgctxt "items.name"
 msgid "Severed Head"
-msgstr "ףורע שאר"
+msgstr "ראש ערוף"
 
 #. ID 23
 #. ID 24
 msgctxt "items.description"
 msgid "Be reduced to a severed head."
-msgstr ".ףורע שארל תחפתהל"
+msgstr "ערוף. לראש להתפחת"
 
 #. ID 25
 #. ID 26
 msgctxt "items.name"
 msgid "Towel"
-msgstr "תבגמ"
+msgstr "מגבת"
 
 #. ID 25
 #. ID 26
 msgctxt "items.description"
 msgid "Wrap yourself in a towel."
-msgstr ".תבגמ םע ףוטעל"
+msgstr "מגבת. עם לעטוף"
 
 #. ID 27
 #. ID 28
 msgctxt "items.name"
 msgid "Cat"
-msgstr "לותח"
+msgstr "חתול"
 
 #. ID 27
 #. ID 28
 msgctxt "items.description"
 msgid "Sprout cat-ears and a tail."
-msgstr ".לותחל ךופהל"
+msgstr "לחתול. להפוך"
 
 #. ID 29
 #. ID 30
 msgctxt "items.name"
 msgid "Lamp"
-msgstr "הרונמ"
+msgstr "מנורה"
 
 #. ID 29
 #. ID 30
 msgctxt "items.description"
 msgid "Change into a lamp."
-msgstr ".הרונמל ךופהל"
+msgstr "למנורה. להפוך"
 
 #. ID 31
 #. ID 32
 msgctxt "items.name"
 msgid "Bicycle"
-msgstr "םיינפוא"
+msgstr "אופניים"
 
 #. ID 31
 #. ID 32
 msgctxt "items.description"
 msgid "Mount a bicycle."
-msgstr ".םיינפוא לע תבשל"
+msgstr "אופניים. על לשבת"
 
 #. ID 33
 #. ID 34
 msgctxt "items.name"
 msgid "Long Hair"
-msgstr "ךורא רעיש"
+msgstr "שיער ארוך"
 
 #. ID 33
 #. ID 34
 msgctxt "items.description"
 msgid "Grow long hair."
-msgstr ".ךורא רעיש לדגל"
+msgstr "ארוך. שיער לגדל"
 
 #. ID 35
 #. ID 36
 msgctxt "items.name"
 msgid "Poo Hair"
-msgstr "יקק רעיש"
+msgstr "שיער קקי"
 
 #. ID 35
 #. ID 36
 msgctxt "items.description"
 msgid "Grow poo hair."
-msgstr ".יקק רעיש לדגל"
+msgstr "קקי. שיער לגדל"
 
 #. ID 37
 #. ID 38
 msgctxt "items.name"
 msgid "Blonde"
-msgstr "דנולב"
+msgstr "בלונד"
 
 #. ID 37
 #. ID 38
 msgctxt "items.description"
 msgid "Grow long blonde hair."
-msgstr ".תינידנולבל ףופהל"
+msgstr "לבלונדינית. להפוף"
 
 #. ID 39
 #. ID 40
 msgctxt "items.name"
 msgid "Spirit Headband"
-msgstr "תוחור רעישל טרס"
+msgstr "סרט לשיער רוחות"
 
 #. ID 39
 #. ID 40
 msgctxt "items.description"
 msgid "Put on a Spirit Headband."
-msgstr ".תוחור רעישל טרס שובלל"
+msgstr "רוחות. לשיער סרט ללבוש"
 
 #. ID 41
 #. ID 42
 msgctxt "items.name"
 msgid "Witch"
-msgstr "הפשכמ"
+msgstr "מכשפה"
 
 #. ID 41
 #. ID 42
 msgctxt "items.description"
 msgid "Become a witch incarnate."
-msgstr ".הפשכמל ךופהל"
+msgstr "למכשפה. להפוך"
 
 #. ID 43
 #. ID 44
 msgctxt "items.name"
 msgid "Oni"
-msgstr "דש"
+msgstr "שד"
 
 #. ID 43
 #. ID 44
 msgctxt "items.description"
 msgid "Reconstitute as an oni."
-msgstr ".דשל ךופהל"
+msgstr "לשד. להפוך"
 
 #. ID 45
 #. ID 46
 msgctxt "items.name"
 msgid "Squish-Squish"
-msgstr "יל'ג"
+msgstr "ג'לי"
 
 #. ID 45
 #. ID 46
 msgctxt "items.description"
 msgid "Change into a squishy blob."
-msgstr ".יל'ג לש בצמל ךופהל"
+msgstr "ג'לי. של למצב להפוך"
 
 #. ID 47
 #. ID 48
 msgctxt "items.name"
 msgid "Traffic Light"
-msgstr "רוזמר"
+msgstr "רמזור"
 
 #. ID 47
 #. ID 48
 msgctxt "items.description"
 msgid "Change into a traffic light."
-msgstr ".רוזמרל ךופהל"
+msgstr "לרמזור. להפוך"
 
 #. ID 57
 msgctxt "items.name"
 msgid "Tutorial"
-msgstr "הכרדה"
+msgstr "הדרכה"
 
 #. ID 57
 msgctxt "items.description"
 msgid "Review the game's tutorial."
-msgstr ".קחשמה לש הכרדהה לע רובעת"
+msgstr "המשחק. של ההדרכה על תעבור"
 
 msgctxt "terms.special_combat"
 msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
@@ -649,23 +649,23 @@ msgstr "防御"
 
 msgctxt "terms.command_item"
 msgid "Effect"
-msgstr "םיטקפא"
+msgstr "אפקטים"
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
-msgstr "קחשמהמ האיצי"
+msgstr "יציאה מהמשחק"
 
 msgctxt "terms.new_game"
 msgid "New Game"
-msgstr "שדח קחשמ"
+msgstr "משחק חדש"
 
 msgctxt "terms.load_game"
 msgid "Dream Diary"
-msgstr "תומולח ןמוי"
+msgstr "יומן חלומות"
 
 msgctxt "terms.exit_game"
 msgid "Quit"
-msgstr "האיצי"
+msgstr "יציאה"
 
 msgctxt "terms.lvl_short"
 msgid "E"
@@ -677,27 +677,27 @@ msgstr "$k"
 
 msgctxt "terms.save_game_message"
 msgid "Write in Diary"
-msgstr "ןמויב בותכל"
+msgstr "ביומן לכתוב"
 
 msgctxt "terms.load_game_message"
 msgid "Read Diary"
-msgstr "ןמויה תא אורקל"
+msgstr "היומן את לקרוא"
 
 msgctxt "terms.file"
 msgid "Page"
-msgstr "דומע"
+msgstr "עמוד"
 
 msgctxt "terms.exit_game_message"
 msgid "Do you want to quit?"
-msgstr "?קחשמהמ תאצל הצור התא םאה"
+msgstr "מהמשחק? לצאת רוצה אתה האם"
 
 msgctxt "terms.yes"
 msgid "Yes"
-msgstr "ןכ"
+msgstr "כן"
 
 msgctxt "terms.no"
 msgid "No"
-msgstr "אל"
+msgstr "לא"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"

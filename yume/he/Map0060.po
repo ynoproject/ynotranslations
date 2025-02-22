@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 3, Page 1, Line 5, Pos (29,115)
 msgid "                      Towel"
-msgstr "　　　　　　　　　　★תבגמ★"
+msgstr "★מגבת★　　　　　　　　　　　　　"

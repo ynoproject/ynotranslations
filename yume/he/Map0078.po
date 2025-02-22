@@ -14,8 +14,8 @@ msgstr ""
 
 #. ID 2, Page 1, Line 20, Pos (14,8)
 msgid "                Change Menu Type"
-msgstr "　　　　　　★טירפת גוס יוניש★"
+msgstr "★שינוי סוג תפריט★　　　　　　　　　　"
 
 #. ID 2, Page 3, Line 20, Pos (14,8)
 msgid "@@@@@@šƒƒjƒ…[ƒ^ƒCƒvƒ`ƒFƒ“ƒWš"
-msgstr ""
+msgstr "★שינוי סוג תפריט★　　　　　　　　　　"

@@ -14,4 +14,4 @@ msgstr ""
 
 #. ID 2, Page 1, Line 5, Pos (79,73)
 msgid "                       Cat"
-msgstr "　　　　　　　　　　　★לותח★"
+msgstr "★חתול★　　　　　　　　　　　　　"
