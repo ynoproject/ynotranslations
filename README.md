@@ -68,6 +68,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * Plush - Italian translations of .flow, Collective Unconscious
 * portal - Initial French translation of Yume 2kki
 * Proton - Finnish translation of Collective Unconscious
+* RødGrødMedFløde - Danish translation of Yume Nikki
 * Sainibi - Japanese translation of Someday
 * Sakura - Japanese translation of Someday
 * Sarah - Simplified Chinese and Traditional Chinese translations of Yume Nikki
