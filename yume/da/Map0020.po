@@ -13,10 +13,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.5\n"
 
-#. ID 2, Page 1, Line 20, Pos (14,8)
-msgid "                Change Menu Type"
-msgstr "              Tilpas menuets udseende"
-
-#. ID 2, Page 3, Line 20, Pos (14,8)
-msgid "@@@@@@šƒƒjƒ…[ƒ^ƒCƒvƒ`ƒFƒ“ƒWš"
-msgstr "              Tilpas menuets udseende"
+#. ID 3, Page 1, Line 5, Pos (80,82)
+msgid "                      Neon"
+msgstr "                       Neon"

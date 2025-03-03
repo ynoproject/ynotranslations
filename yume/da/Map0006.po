@@ -15,4 +15,4 @@ msgstr ""
 
 #. ID 1, Page 2, Line 18, Pos (12,6)
 msgid "                 Move while seated"
-msgstr "             Skub dig rundt i stolen"
+msgstr "              Skub dig rundt i stolen"

@@ -314,7 +314,7 @@ msgstr "Vejledning"
 #. ID 57
 msgctxt "items.description"
 msgid "Review the game's tutorial."
-msgstr "Gennemgå vejledningen."
+msgstr "Gennemgå spillets vejledning."
 
 msgctxt "terms.special_combat"
 msgid "æ§UŒ‚‚Ìƒ`ƒƒƒ“ƒXI"
@@ -654,7 +654,7 @@ msgstr "Effekter"
 
 msgctxt "terms.menu_quit"
 msgid "Quit Game"
-msgstr "Afslut spillet"
+msgstr "Afslut spil"
 
 msgctxt "terms.new_game"
 msgid "New Game"
