@@ -14,96 +14,96 @@ msgstr ""
 
 #. ID 14, Page 2, Line 4, Pos (13,12)
 msgid "                   Snow Woman"
-msgstr "　　　　　　　　　★גלש תשיא★"
+msgstr "★אישת שלג★　　　　　　　　　　　　"
 
 #. ID 15, Page 2, Line 4, Pos (16,10)
 msgid "                      Frog"
-msgstr "　　　　　　　　　　★עדרפצ★"
+msgstr "★צפרדע★　　　　　　　　　　　　　"
 
 #. ID 16, Page 2, Line 4, Pos (14,15)
 msgid "                     Umbrella"
-msgstr "　　　　　　　　　　　★היירטמ★"
+msgstr "★מטרייה★　　　　　　　　　　　　"
 
 #. ID 17, Page 2, Line 4, Pos (14,11)
 msgid "                    Hat & Scarf"
-msgstr "　　　　　　　　★ףיעצ & עבוכ★"
+msgstr "★כובע & צעיף★　　　　　　　　　　　"
 
 #. ID 18, Page 2, Line 5, Pos (12,14)
 msgid "                    Eye Palm"
-msgstr "　　　　　　　　　★די ףכ ןיע★"
+msgstr "★עין כף יד★　　　　　　　　　　　　"
 
 #. ID 19, Page 2, Line 5, Pos (12,16)
 msgid "                     Get fat"
-msgstr "　　　　　　　　　　★ןימשהל★"
+msgstr "★להשמין★　　　　　　　　　　　　"
 
 #. ID 20, Page 2, Line 4, Pos (13,18)
 msgid "                      Midget"
-msgstr "　　　　　　　　　　★דמג★"
+msgstr "★גמד★　　　　　　　　　　　　　"
 
 #. ID 21, Page 2, Line 4, Pos (14,19)
 msgid "                     Whistle"
-msgstr "            　　　　　★תילילח★"
+msgstr "★חלילית★　　　　　　　　　            "
 
 #. ID 22, Page 2, Line 4, Pos (15,17)
 msgid "                       Neon"
-msgstr "　　　　　　　　　　★ןואנ★"
+msgstr "★נאון★　　　　　　　　　　　　　"
 
 #. ID 23, Page 2, Line 4, Pos (16,20)
 msgid "                 Faceless Ghost"
-msgstr "　　　　　 　　　★ףוצרפ רסח חור★"
+msgstr "★רוח חסר פרצוף★　　　 　　　　　　　"
 
 #. ID 24, Page 2, Line 4, Pos (18,20)
 msgid "                    Talking Head"
-msgstr "　　　　　　　　 　★ףורע שאר★"
+msgstr "★ראש ערוף★　 　　　　　　　　　　"
 
 #. ID 25, Page 2, Line 4, Pos (19,13)
 msgid "                     Poo Hair"
-msgstr "　　　　　　　　　★יקק רעיש★"
+msgstr "★שיער קקי★　　　　　　　　　　　　"
 
 #. ID 26, Page 2, Line 4, Pos (20,15)
 msgid "                   Kitchen Knife"
-msgstr "　　　　　　　　　★חבטמ ןיכס★"
+msgstr "★סכין מטבח★　　　　　　　　　　　"
 
 #. ID 27, Page 2, Line 4, Pos (20,19)
 msgid "                  Spirit Headband"
-msgstr "　　　　　　　　　　★תוחור רעישל טרס★"
+msgstr "★סרט לשיער רוחות★　　　　　　　　　　"
 
 #. ID 28, Page 2, Line 4, Pos (21,18)
 msgid "                      Towel"
-msgstr "　　　　　　　　　　★תבגמ★"
+msgstr "★מגבת★　　　　　　　　　　　　　"
 
 #. ID 29, Page 2, Line 4, Pos (22,16)
 msgid "                         Cat"
-msgstr "　　　　　　　　　　　★לותח★"
+msgstr "★חתול★　　　　　　　　　　　　　"
 
 #. ID 30, Page 2, Line 4, Pos (22,14)
 msgid "                       Lamp"
-msgstr "　　　　　　　　　　★הרונמ★"
+msgstr "★מנורה★　　　　　　　　　　　　　"
 
 #. ID 31, Page 2, Line 4, Pos (20,11)
 msgid "                    Long Hair"
-msgstr "　　　　　　　　　★ךורא רעיש★"
+msgstr "★שיער ארוך★　　　　　　　　　　　"
 
 #. ID 32, Page 2, Line 4, Pos (21,12)
 msgid "                     Bicycle "
-msgstr "　　　　　　　　　 ★םיינפוא★ "
+msgstr " ★אופניים★ 　　　　　　　　　　　　"
 
 #. ID 33, Page 2, Line 4, Pos (18,10)
 msgid "                     Blonde"
-msgstr "　　　　　　　　　　★דנולב★"
+msgstr "★בלונד★　　　　　　　　　　　　　"
 
 #. ID 34, Page 2, Line 4, Pos (15,13)
 msgid "                      Witch"
-msgstr "　　　　　　　　　　★הפשכמ★"
+msgstr "★מכשפה★　　　　　　　　　　　　"
 
 #. ID 35, Page 2, Line 4, Pos (17,12)
 msgid "                      Devil"
-msgstr "　　　　　　　 　　　★דש★"
+msgstr "★שד★　　　 　　　　　　　　　　"
 
 #. ID 36, Page 2, Line 4, Pos (17,18)
 msgid "                    Squish-Squish"
-msgstr "　　　　　　　 　　★ילˌג★"
+msgstr "★גˌלי★　　 　　　　　　　　　　"
 
 #. ID 37, Page 2, Line 4, Pos (19,17)
 msgid "                   Traffic Light"
-msgstr "　　　　　　　　　　★רוזמר★"
+msgstr "★רמזור★　　　　　　　　　　　　　"
