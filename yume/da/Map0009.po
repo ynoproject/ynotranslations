@@ -27,7 +27,7 @@ msgstr "                     Paraply"
 
 #. ID 17, Page 2, Line 4, Pos (14,11)
 msgid "                    Hat & Scarf"
-msgstr "               Hue og halstørklæde"
+msgstr "                Hue og halstørklæde"
 
 #. ID 18, Page 2, Line 5, Pos (12,14)
 msgid "                    Eye Palm"
