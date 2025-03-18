@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 2, Page 1, Line 8, Pos (20,74)
 msgid "                      Tomato"
@@ -24,9 +24,9 @@ msgid ""
 "Spoiled Mentsuyu - 45 N\n"
 "Don't buy anything"
 msgstr ""
-"\\$보라색 맛 총공격 - 360 N\n"
+"\\$소다니움 포도맛 - 360 N\n"
 "녹인 꿈을 그대 품 안에 - 350 N\n"
-"엎어진 도시락 - 45 N\n"
+"엎어진 츠유 - 45 N\n"
 "아무것도 사지 않는다"
 
 #. ID 56, Page 1, Line 16, Pos (17,32)
@@ -44,4 +44,4 @@ msgstr "\\$"
 #. ID 56, Page 1, Line 79, Pos (17,32)
 #. ID 56, Page 1, Line 125, Pos (17,32)
 msgid "You don't have enough N!"
-msgstr "N이 부족해요!"
+msgstr "N이 모자라요!"

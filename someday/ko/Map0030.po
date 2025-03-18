@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 143, Page 1, Line 8, Pos (17,59)
 msgid "\\_                    Megaphone"
@@ -18,6 +18,4 @@ msgstr "                      확성기"
 
 #. ID 143, Page 1, Line 11, Pos (17,59)
 msgid "Press 1 to make a random sound."
-msgstr ""
-"1번 숫자키를 누르면 \n"
-"아무 말 대잔치를 할 수 있어요."
+msgstr "1번 숫자키를 눌러 아무 말 대잔치를 할 수 있어요."

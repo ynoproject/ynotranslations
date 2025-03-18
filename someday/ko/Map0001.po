@@ -152,7 +152,6 @@ msgstr "수정을 모을 때 원하는 연출을 선택하세요."
 
 #. ID 2, Page 1, Line 313, Pos (11,4)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "Text only\n"
 "Animation only\n"
@@ -162,7 +161,7 @@ msgstr ""
 "글만 표시\n"
 "애니메이션만 표시\n"
 "글과 애니메이션 모두 표시\n"
-"Cancel"
+"취소"
 
 #. ID 2, Page 1, Line 318, Pos (11,4)
 msgid ""

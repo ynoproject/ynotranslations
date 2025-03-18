@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 41, Page 1, Line 8, Pos (9,8)
 #. Choice (4 options)
@@ -20,10 +20,10 @@ msgid ""
 "7 Moop - 300 N\n"
 "More"
 msgstr ""
-"\\$미네랄 꿀꺽 - 280 N\n"
-"퍼와에이드 - 280 N\n"
+"\\$아쿠오리우스 - 280 N\n"
+"빠와에이드 - 280 N\n"
 "7별사이다 - 300 N\n"
-"(다음)"
+"->"
 
 #. ID 41, Page 1, Line 22, Pos (9,8)
 #. ID 41, Page 1, Line 91, Pos (9,8)
@@ -58,7 +58,7 @@ msgstr "\\$"
 #. ID 41, Page 1, Line 336, Pos (9,8)
 #. ID 41, Page 1, Line 379, Pos (9,8)
 msgid "You don't have enough N!"
-msgstr "N이 부족해요!"
+msgstr "N이 모자라요!"
 
 #. ID 41, Page 1, Line 122, Pos (9,8)
 #. Choice (4 options)
@@ -68,21 +68,20 @@ msgid ""
 "Peachy Dairy - 175 N\n"
 "More"
 msgstr ""
-"\\$녹시스차 - 290 N\n"
-"플럭스 - 220 N\n"
-"복숭아같은 일기처럼 - 175 N\n"
-"(다음)"
+"\\$노스티 - 290 N\n"
+"프루익스 - 220 N\n"
+"피치 다이어리 - 175 N\n"
+"->"
 
 #. ID 41, Page 1, Line 253, Pos (9,8)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\$Sakkubo - 240 N\n"
 "Yetotsu - 210 N\n"
 "The Looking Kvass - 220 N\n"
 "Don't buy anything"
 msgstr ""
-"\\$Sakkubo - 240 N\n"
-"Yetotsu - 210 N\n"
-"The Looking Kvass - 220 N\n"
+"\\$사쿠보 - 240 N\n"
+"예토츠 - 210 N\n"
+"루킹 크바스 - 220 N\n"
 "아무것도 사지 않는다"

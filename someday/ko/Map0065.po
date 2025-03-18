@@ -10,19 +10,18 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 30, Page 1, Line 8, Pos (36,162)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\$Kaokola - 320 N\n"
 "Sunny 4 - 340 N\n"
 "7 Moop - 350 N\n"
 "Don't buy anything"
 msgstr ""
-"\\$카오카콜라 - 320 N\n"
-"Sunny 4 - 340 N\n"
+"\\$카오콜라 - 320 N\n"
+"써니4 - 340 N\n"
 "7별사이다 - 350 N\n"
 "아무것도 사지 않는다"
 
@@ -59,14 +58,13 @@ msgstr "모든 음료수가 반값! (o^-^o)"
 
 #. ID 30, Page 2, Line 10, Pos (36,162)
 #. Choice (4 options)
-#, fuzzy
 msgid ""
 "\\$Kaokola - 160 N\n"
 "Sunny 4 - 170 N\n"
 "7 Moop - 175 N\n"
 "Don't buy anything"
 msgstr ""
-"\\$카오카콜라 - 160 N\n"
-"Sunny 4 - 170 N\n"
+"\\$카오콜라 - 160 N\n"
+"써니4 - 170 N\n"
 "7별사이다 - 175 N\n"
 "아무것도 사지 않는다"
