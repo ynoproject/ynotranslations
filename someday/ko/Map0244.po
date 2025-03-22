@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 2, Page 2, Line 7, Pos (6,27)
 msgid "\\_                     Scooter"
-msgstr "                      퀵보드"
+msgstr "                      킥보드"
 
 #. ID 3, Page 2, Line 7, Pos (7,25)
 msgid "                      Doodle"
@@ -58,7 +58,7 @@ msgstr "                       렌치"
 
 #. ID 13, Page 2, Line 7, Pos (14,25)
 msgid "                     Raincoat"
-msgstr "                       비옷"
+msgstr "                        비옷"
 
 #. ID 14, Page 2, Line 7, Pos (14,27)
 msgid "\\_                      Scarf"

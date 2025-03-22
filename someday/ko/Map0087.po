@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 1, Page 1, Line 8, Pos (26,23)
 msgid "\\_                     Mercury"
@@ -18,4 +18,6 @@ msgstr "                       수은"
 
 #. ID 1, Page 1, Line 11, Pos (26,23)
 msgid "Interact with gaps on walls to go through them."
-msgstr "벽의 작은 틈새를 비집고 들어갈 수 있어요."
+msgstr ""
+"상호작용을 통해 \n"
+"벽의 작은 틈새를 비집고 들어갈 수 있어요."

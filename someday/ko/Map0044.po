@@ -1,12 +1,16 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 1, Page 1, Line 31, Pos (6,4)
 msgid ""
@@ -15,11 +19,19 @@ msgid ""
 "However, this will increase the loading time,\n"
 "especially when playing from a server."
 msgstr ""
+"이 게임은 진행하기 전에 음악 및 효과음을 \n"
+"캐시 형식으로 저장하여 적재장소에서\n"
+"불러오는 방식을 통해, 특정 장소에서 \n"
+"발생할 수 있는 래그 현상을 해소하고 있습니다.\n"
+"<easyrpg:new_page>\n"
+"이는 특히 서버 환경에서 더 효과적이나,\n"
+"해당 기능을 활성화할 경우 \n"
+"로딩 시간이 평소보다 더 길어지게 됩니다."
 
 #. ID 1, Page 1, Line 35, Pos (6,4)
 #. Contains choice at line 2 (2 options)
 msgid "Enable sound cache?"
-msgstr ""
+msgstr "사운드 캐시 기능을 활성화하시겠습니까?"
 
 #. ID 1, Page 1, Line 36, Pos (6,4)
 #. Choice (2 options, embedded in a message)
@@ -27,4 +39,5 @@ msgid ""
 "Yes\n"
 "No"
 msgstr ""
-
+"네\n"
+"아니오"

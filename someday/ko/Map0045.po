@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 79, Page 1, Line 8, Pos (22,21)
 #. ID 79, Page 2, Line 8, Pos (22,21)
@@ -27,5 +27,5 @@ msgstr "                     클럭워커"
 #. ID 79, Page 5, Line 11, Pos (22,21)
 msgid "Press 1 to return to the Nexus."
 msgstr ""
-"1번 숫자키를 누르면 \n"
+"1번 숫자키를 눌러 \n"
 "넥서스(허브 세계)로 돌아갈 수 있어요."
