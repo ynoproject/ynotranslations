@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -10168,33 +10168,51 @@ msgstr ""
 
 #. ID 27
 msgctxt "items.name"
-msgid "Effect 09"
+msgid "Visage"
 msgstr ""
+
+#. ID 27
+#. ID 28
+msgctxt "items.description"
+msgid "Assume an illusory persona."
+msgstr "Revêtez une identité illusoire."
 
 #. ID 28
 msgctxt "items.name"
-msgid "[Effect 09]"
+msgid "[Visage]"
 msgstr ""
 
 #. ID 29
 msgctxt "items.name"
-msgid "Effect 10"
+msgid "Imago"
 msgstr ""
+
+#. ID 29
+#. ID 30
+msgctxt "items.description"
+msgid "A memory of warmth to recall what's lost."
+msgstr "Un souvenir chaleureux d'un passé perdu."
 
 #. ID 30
 msgctxt "items.name"
-msgid "[Effect 10]"
+msgid "[Imago]"
 msgstr ""
 
 #. ID 31
 msgctxt "items.name"
-msgid "Effect 11"
-msgstr ""
+msgid "Amanita"
+msgstr "Amanite"
+
+#. ID 31
+#. ID 32
+msgctxt "items.description"
+msgid "A trail of mushrooms marks the traveled path."
+msgstr "Une traînée de champis semée sur le chemin."
 
 #. ID 32
 msgctxt "items.name"
-msgid "[Effect 11]"
-msgstr ""
+msgid "[Amanita]"
+msgstr "[Amanite]"
 
 #. ID 33
 msgctxt "items.name"
@@ -10677,18 +10695,6 @@ msgctxt "terms.no"
 msgid "No"
 msgstr "Non"
 
-msgctxt "terms.easyrpg_item_number_separator"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_skill_cost_separator"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_equipment_arrow"
-msgid "default_term"
-msgstr ""
-
 msgctxt "terms.easyrpg_status_scene_name"
 msgid "default_term"
 msgstr ""
@@ -10742,13 +10748,5 @@ msgid "default_term"
 msgstr ""
 
 msgctxt "terms.easyrpg_battle2k3_escape"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_skill"
-msgid "default_term"
-msgstr ""
-
-msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""
