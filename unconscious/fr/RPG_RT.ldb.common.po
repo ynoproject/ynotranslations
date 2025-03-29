@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 4, Line 19
 msgid ""
@@ -48,13 +48,13 @@ msgstr ""
 "\n"
 "                   * Jouvence *"
 
-#. ID 4, Line 162
+#. ID 4, Line 164
 msgid ""
 "\n"
 "                   * Spectral *"
 msgstr ""
 
-#. ID 4, Line 189
+#. ID 4, Line 193
 msgid ""
 "\n"
 "                    * Climate *"
@@ -62,11 +62,31 @@ msgstr ""
 "\n"
 "                    * Climat *"
 
-#. ID 4, Line 216
+#. ID 4, Line 222
 msgid ""
 "\n"
 "                    * Kalimba *"
 msgstr ""
+
+#. ID 4, Line 251
+msgid ""
+"\n"
+"                    * Visage *"
+msgstr ""
+
+#. ID 4, Line 282
+msgid ""
+"\n"
+"                     * Imago *"
+msgstr ""
+
+#. ID 4, Line 311
+msgid ""
+"\n"
+"                    * Amanita *"
+msgstr ""
+"\n"
+"                    * Amanite *"
 
 #. ID 21, Line 12
 #. ID 21, Line 15
@@ -313,3 +333,155 @@ msgid ""
 msgstr ""
 "\n"
 "         * Thème de menu : Labo mousseux *"
+
+#. ID 28, Line 493
+msgid ""
+"\n"
+"             * Menu theme: Crystal *"
+msgstr ""
+"\n"
+"            * Thème de menu : Cristal *"
+
+#. ID 28, Line 509
+msgid ""
+"\n"
+"           * Menu theme: Metallic Moth *"
+msgstr ""
+"\n"
+"         * Thème de menu : Phalène métal *"
+
+#. ID 28, Line 525
+msgid ""
+"\n"
+"             * Menu theme: Tooth Decay *"
+msgstr ""
+"\n"
+"            * Thème de menu : Carie *"
+
+#. ID 28, Line 541
+msgid ""
+"\n"
+"           * Menu theme: Premium Roast *"
+msgstr ""
+"\n"
+"         * Thème de menu : Rôti premium *"
+
+#. ID 28, Line 557
+msgid ""
+"\n"
+"              * Menu theme: Aztec *"
+msgstr ""
+"\n"
+"           * Thème de menu : Aztèque *"
+
+#. ID 28, Line 573
+msgid ""
+"\n"
+"             * Menu theme: Gradient *"
+msgstr ""
+"\n"
+"            * Thème de menu : Dégradé *"
+
+#. ID 28, Line 589
+msgid ""
+"\n"
+"             * Menu theme: Oracle *"
+msgstr ""
+"\n"
+"            * Thème de menu : Oracle *"
+
+#. ID 28, Line 605
+msgid ""
+"\n"
+"             * Menu theme: Vacation *"
+msgstr ""
+"\n"
+"           * Thème de menu : Vacances *"
+
+#. ID 28, Line 621
+msgid ""
+"\n"
+"             * Menu theme: Brass Moon *"
+msgstr ""
+"\n"
+"        * Thème de menu : Lune en laiton *"
+
+#. ID 28, Line 637
+msgid ""
+"\n"
+"        * Menu theme: Sleepy Mouse Polka *"
+msgstr ""
+"\n"
+"       * Thème de menu : Polka dodo souris *"
+
+#. ID 28, Line 653
+msgid ""
+"\n"
+"             * Menu theme: Picnic A *"
+msgstr ""
+"\n"
+"         * Thème de menu : Pique-nique A *"
+
+#. ID 28, Line 669
+msgid ""
+"\n"
+"             * Menu theme: Picnic B *"
+msgstr ""
+"\n"
+"         * Thème de menu : Pique-nique B *"
+
+#. ID 28, Line 685
+msgid ""
+"\n"
+"           * Menu theme: Flame Pattern *"
+msgstr ""
+"\n"
+"         * Thème de menu : Motif flamme *"
+
+#. ID 28, Line 701
+msgid ""
+"\n"
+"             * Menu theme: Butterfly *"
+msgstr ""
+"\n"
+"           * Thème de menu : Papillon *"
+
+#. ID 28, Line 717
+msgid ""
+"\n"
+"        * Menu theme: Chromatic Apparition *"
+msgstr ""
+"\n"
+"       * Thème de menu : Chroma-pparition *"
+
+#. ID 28, Line 733
+msgid ""
+"\n"
+"           * Menu theme: Hyper Sigils *"
+msgstr ""
+"\n"
+"         * Thème de menu : Hyper sigils *"
+
+#. ID 28, Line 749
+msgid ""
+"\n"
+"            * Menu theme: Shambling *"
+msgstr ""
+"\n"
+"           * Thème de menu : Désordre *"
+
+#. ID 28, Line 765
+msgid ""
+"\n"
+"              * Menu theme: Chess *"
+msgstr ""
+"\n"
+"            * Thème de menu : Damier *"
+
+#. ID 28, Line 781
+msgid ""
+"\n"
+"             * Menu theme: Ecstasy *"
+msgstr ""
+"\n"
+"            * Thème de menu : Ecstasy *"

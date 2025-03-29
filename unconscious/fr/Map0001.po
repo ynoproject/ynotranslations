@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 4, Page 1, Line 1, Pos (35,27)
 msgid "sniperbob minigame1"
@@ -65,10 +65,12 @@ msgstr ""
 #. ID 10, Page 2, Line 2, Pos (29,1)
 #. ID 11, Page 2, Line 3, Pos (31,1)
 #. ID 12, Page 2, Line 3, Pos (33,1)
+#. ID 86, Page 2, Line 2, Pos (25,3)
 #. ID 87, Page 2, Line 3, Pos (27,3)
 #. ID 89, Page 2, Line 2, Pos (29,3)
 #. ID 90, Page 2, Line 2, Pos (31,3)
 #. ID 91, Page 2, Line 3, Pos (33,3)
+#. ID 102, Page 2, Line 2, Pos (25,5)
 #. ID 104, Page 2, Line 3, Pos (27,5)
 #. ID 105, Page 2, Line 3, Pos (29,5)
 #. ID 108, Page 2, Line 2, Pos (31,5)
@@ -100,6 +102,7 @@ msgstr ""
 #. ID 145, Page 2, Line 3, Pos (23,15)
 #. ID 146, Page 2, Line 3, Pos (25,15)
 #. ID 147, Page 2, Line 2, Pos (27,15)
+#. ID 148, Page 2, Line 3, Pos (29,15)
 #. ID 149, Page 2, Line 3, Pos (31,15)
 msgid ""
 "Copy page 1 of this event to prevent the icon from\n"
@@ -174,6 +177,12 @@ msgstr ""
 #. ID 23, Page 1, Line 15, Pos (27,30)
 #. ID 24, Page 1, Line 10, Pos (29,30)
 #. ID 24, Page 1, Line 15, Pos (29,30)
+#. ID 35, Page 1, Line 10, Pos (19,32)
+#. ID 35, Page 1, Line 15, Pos (19,32)
+#. ID 36, Page 1, Line 10, Pos (21,32)
+#. ID 36, Page 1, Line 15, Pos (21,32)
+#. ID 37, Page 1, Line 10, Pos (23,32)
+#. ID 37, Page 1, Line 15, Pos (23,32)
 #. ID 83, Page 1, Line 10, Pos (31,30)
 #. ID 83, Page 1, Line 15, Pos (31,30)
 #. ID 84, Page 1, Line 10, Pos (33,30)
@@ -189,9 +198,6 @@ msgstr "Eidolon retiré"
 #. ID 32, Page 1, Line 1, Pos (29,38)
 #. ID 33, Page 1, Line 1, Pos (31,38)
 #. ID 34, Page 1, Line 1, Pos (33,38)
-#. ID 35, Page 1, Line 1, Pos (19,32)
-#. ID 36, Page 1, Line 1, Pos (21,32)
-#. ID 37, Page 1, Line 1, Pos (23,32)
 #. ID 38, Page 1, Line 1, Pos (25,32)
 #. ID 39, Page 1, Line 1, Pos (27,32)
 #. ID 40, Page 1, Line 1, Pos (29,32)
@@ -365,23 +371,11 @@ msgstr ""
 "Déterminé par la Variable Local 01\n"
 "(actuellement N = 5)"
 
-#. ID 78, Page 2, Line 27, Pos (25,28)
+#. ID 78, Page 1, Line 27, Pos (25,28)
 msgid "Acquired all Eidola."
 msgstr "Tous les Eidola ont été obtenus."
 
-#. ID 79, Page 1, Line 1, Pos (27,28)
-msgid ""
-"This should remove all the eidola that you have\n"
-"obtained, but it doesn't!\n"
-"\n"
-"Talk with each eidola to remove them manually..."
-msgstr ""
-"Bien que censé retirer tous les eidola que vous\n"
-"avez obtenus, cela ne marche pas !\n"
-"Parlez avec chaque eidolon pour les retirer un par\n"
-"un..."
-
-#. ID 79, Page 2, Line 24, Pos (27,28)
+#. ID 79, Page 1, Line 24, Pos (27,28)
 msgid "Removed all Eidola."
 msgstr "Tous les Eidola ont été retirés."
 
@@ -404,13 +398,15 @@ msgstr "Gestion des thèmes de menu"
 
 #. ID 81, Page 1, Line 3, Pos (33,25)
 #. Choice (3 options, embedded in a message)
+#. ID 234, Page 1, Line 3, Pos (35,25)
+#. Choice (3 options, embedded in a message)
 msgid ""
 "Unlock\n"
 "Lock\n"
 "Back"
 msgstr ""
-"Débloquer un thème de menu\n"
-"Bloquer un thème de menu\n"
+"Débloquer\n"
+"Bloquer\n"
 "Retour"
 
 #. ID 81, Page 1, Line 5, Pos (33,25)
@@ -423,10 +419,11 @@ msgstr ""
 "Débloquer tous les thèmes"
 
 #. ID 81, Page 1, Line 9, Pos (33,25)
+#. ID 234, Page 1, Line 10, Pos (35,25)
 msgid "Unlocked automatically!"
 msgstr "Ce thème de menu est débloqué par défaut."
 
-#. ID 81, Page 1, Line 33, Pos (33,25)
+#. ID 81, Page 1, Line 39, Pos (33,25)
 #. Choice (2 options)
 msgid ""
 "Lock one\n"
@@ -449,18 +446,10 @@ msgstr ""
 "par-dessus."
 
 #. ID 86, Page 2, Line 1, Pos (25,3)
-#. ID 102, Page 2, Line 1, Pos (25,5)
-#. ID 114, Page 2, Line 1, Pos (25,7)
-#. ID 124, Page 2, Line 1, Pos (29,9)
-#. ID 126, Page 2, Line 1, Pos (33,9)
-#. ID 132, Page 2, Line 1, Pos (29,11)
-#. ID 134, Page 2, Line 1, Pos (33,11)
-#. ID 140, Page 2, Line 1, Pos (29,13)
-#. ID 142, Page 2, Line 1, Pos (33,13)
-#. ID 148, Page 2, Line 1, Pos (29,15)
-#. ID 150, Page 2, Line 1, Pos (33,15)
-msgid "Unused."
-msgstr "Inutilisé."
+msgid "Icon for events enabling the Imago warp."
+msgstr ""
+"Icône pour les événements activant la\n"
+"téléportation Imago."
 
 #. ID 87, Page 2, Line 1, Pos (27,3)
 msgid ""
@@ -523,6 +512,12 @@ msgstr ""
 #. ID 100, Page 2, Line 1, Pos (23,5)
 msgid "Icon for the exit points of ladders."
 msgstr "Icône pour les points de sortie des échelles."
+
+#. ID 102, Page 2, Line 1, Pos (25,5)
+msgid "Icon for events disabling the Imago warp."
+msgstr ""
+"Icône pour les événements désactivant la\n"
+"téléportation Imago."
 
 #. ID 104, Page 2, Line 1, Pos (27,5)
 msgid ""
@@ -587,6 +582,17 @@ msgstr ""
 #. ID 113, Page 2, Line 1, Pos (23,7)
 msgid "Icon for the entry points of ladders."
 msgstr "Icône pour les points d'entrée des échelles."
+
+#. ID 114, Page 2, Line 1, Pos (25,7)
+#. ID 124, Page 2, Line 1, Pos (29,9)
+#. ID 126, Page 2, Line 1, Pos (33,9)
+#. ID 132, Page 2, Line 1, Pos (29,11)
+#. ID 134, Page 2, Line 1, Pos (33,11)
+#. ID 140, Page 2, Line 1, Pos (29,13)
+#. ID 142, Page 2, Line 1, Pos (33,13)
+#. ID 150, Page 2, Line 1, Pos (33,15)
+msgid "Unused."
+msgstr "Inutilisé."
 
 #. ID 115, Page 2, Line 1, Pos (27,7)
 msgid ""
@@ -800,6 +806,14 @@ msgstr ""
 "Icône pour les événements qui s'occupent de gérer\n"
 "des images."
 
+#. ID 148, Page 2, Line 1, Pos (29,15)
+msgid ""
+"Icon for events that grant the player\n"
+"a visage or pseudoeffect."
+msgstr ""
+"Icône pour les événements qui donnent un visage\n"
+"ou pseudo-effet."
+
 #. ID 149, Page 2, Line 1, Pos (31,15)
 msgid ""
 "Icon for events that grant the player\n"
@@ -829,3 +843,88 @@ msgid ""
 msgstr ""
 "Désactiver la surcouche de débogage\n"
 "Annuler"
+
+#. ID 233, Page 1, Line 1, Pos (20,24)
+#. Contains choice at line 2 (2 options)
+msgid "Unlock all VM items?"
+msgstr ""
+"Débloquer tous les objets du distributeur\n"
+"automatique géant ?"
+
+#. ID 233, Page 1, Line 2, Pos (20,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 233, Page 1, Line 17, Pos (20,24)
+msgid "Unlocked all VM items."
+msgstr "Tous les objets du distributeur ont été débloqués."
+
+#. ID 234, Page 1, Line 1, Pos (35,25)
+#. Contains choice at line 2 (3 options)
+msgid "Unlock visages"
+msgstr "Débloquer tous les visages"
+
+#. ID 234, Page 1, Line 5, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Unlock one (use unlock switch ID)\n"
+"Unlock map visages\n"
+"Unlock all"
+msgstr ""
+"Débloquer vsg (utiliser ID switch de déblocage)\n"
+"Débloquer les visages des cartes\n"
+"Débloquer tous les visages"
+
+#. ID 234, Page 1, Line 60, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Lock one (use unlock switch ID)\n"
+"Lock map visages\n"
+"Lock all"
+msgstr ""
+"Bloquer vsg (utiliser ID switch de déblocage)\n"
+"Bloquer les visages des cartes\n"
+"Bloquer tous les visages"
+
+#. ID 234, Page 1, Line 65, Pos (35,25)
+msgid "Cannot be locked!"
+msgstr "Ne peut pas être bloqué !"
+
+#. ID 235, Page 2, Line 1, Pos (37,21)
+#. Contains choice at line 2 (2 options)
+msgid "Equip the animation test pseudo?"
+msgstr "Équiper le test d'animation de pseudo ?"
+
+#. ID 235, Page 2, Line 2, Pos (37,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip\n"
+"Cancel"
+msgstr ""
+"Équiper\n"
+"Annuler"
+
+#. ID 235, Page 3, Line 1, Pos (37,21)
+#. Choice (2 options)
+msgid ""
+"Dequip\n"
+"Cancel"
+msgstr ""
+"Retirer\n"
+"Annuler"
+
+#~ msgid ""
+#~ "This should remove all the eidola that you have\n"
+#~ "obtained, but it doesn't!\n"
+#~ "\n"
+#~ "Talk with each eidola to remove them manually..."
+#~ msgstr ""
+#~ "Bien que censé retirer tous les eidola que vous\n"
+#~ "avez obtenus, cela ne marche pas !\n"
+#~ "Parlez avec chaque eidolon pour les retirer un par\n"
+#~ "un..."

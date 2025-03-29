@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 4, Page 1, Line 1, Pos (35,27)
 msgid "sniperbob minigame1"
@@ -61,15 +61,18 @@ msgstr "何らかのロックを解除するイベントのアイコン。"
 #. ID 10, Page 2, Line 2, Pos (29,1)
 #. ID 11, Page 2, Line 3, Pos (31,1)
 #. ID 12, Page 2, Line 3, Pos (33,1)
+#. ID 86, Page 2, Line 2, Pos (25,3)
 #. ID 87, Page 2, Line 3, Pos (27,3)
 #. ID 89, Page 2, Line 2, Pos (29,3)
 #. ID 90, Page 2, Line 2, Pos (31,3)
 #. ID 91, Page 2, Line 3, Pos (33,3)
+#. ID 102, Page 2, Line 2, Pos (25,5)
 #. ID 104, Page 2, Line 3, Pos (27,5)
 #. ID 105, Page 2, Line 3, Pos (29,5)
 #. ID 108, Page 2, Line 2, Pos (31,5)
 #. ID 110, Page 2, Line 3, Pos (33,5)
 #. ID 115, Page 2, Line 3, Pos (27,7)
+#. ID 116, Page 2, Line 3, Pos (29,7)
 #. ID 117, Page 2, Line 3, Pos (31,7)
 #. ID 118, Page 2, Line 3, Pos (33,7)
 #. ID 119, Page 2, Line 4, Pos (19,9)
@@ -87,12 +90,15 @@ msgstr "何らかのロックを解除するイベントのアイコン。"
 #. ID 135, Page 2, Line 3, Pos (19,13)
 #. ID 136, Page 2, Line 2, Pos (21,13)
 #. ID 137, Page 2, Line 3, Pos (23,13)
+#. ID 138, Page 2, Line 2, Pos (25,13)
 #. ID 139, Page 2, Line 3, Pos (27,13)
 #. ID 141, Page 2, Line 2, Pos (31,13)
 #. ID 143, Page 2, Line 2, Pos (19,15)
 #. ID 144, Page 2, Line 4, Pos (21,15)
 #. ID 145, Page 2, Line 3, Pos (23,15)
+#. ID 146, Page 2, Line 3, Pos (25,15)
 #. ID 147, Page 2, Line 2, Pos (27,15)
+#. ID 148, Page 2, Line 3, Pos (29,15)
 #. ID 149, Page 2, Line 3, Pos (31,15)
 msgid ""
 "Copy page 1 of this event to prevent the icon from\n"
@@ -163,6 +169,12 @@ msgstr ""
 #. ID 23, Page 1, Line 15, Pos (27,30)
 #. ID 24, Page 1, Line 10, Pos (29,30)
 #. ID 24, Page 1, Line 15, Pos (29,30)
+#. ID 35, Page 1, Line 10, Pos (19,32)
+#. ID 35, Page 1, Line 15, Pos (19,32)
+#. ID 36, Page 1, Line 10, Pos (21,32)
+#. ID 36, Page 1, Line 15, Pos (21,32)
+#. ID 37, Page 1, Line 10, Pos (23,32)
+#. ID 37, Page 1, Line 15, Pos (23,32)
 #. ID 83, Page 1, Line 10, Pos (31,30)
 #. ID 83, Page 1, Line 15, Pos (31,30)
 #. ID 84, Page 1, Line 10, Pos (33,30)
@@ -178,9 +190,6 @@ msgstr "エイドロンを廃棄"
 #. ID 32, Page 1, Line 1, Pos (29,38)
 #. ID 33, Page 1, Line 1, Pos (31,38)
 #. ID 34, Page 1, Line 1, Pos (33,38)
-#. ID 35, Page 1, Line 1, Pos (19,32)
-#. ID 36, Page 1, Line 1, Pos (21,32)
-#. ID 37, Page 1, Line 1, Pos (23,32)
 #. ID 38, Page 1, Line 1, Pos (25,32)
 #. ID 39, Page 1, Line 1, Pos (27,32)
 #. ID 40, Page 1, Line 1, Pos (29,32)
@@ -205,9 +214,7 @@ msgstr "エイドロンを廃棄"
 msgid "No Effect assigned"
 msgstr "エフェクト未登録"
 
-#. ID 61, Page 1, Line 1, Pos (25,24)
-#. ID 80, Page 1, Line 1, Pos (24,26)
-#. ID 165, Page 1, Line 1, Pos (25,23)
+#. ID 61, Page 1, Line 1, Pos (24,24)
 msgid "Shortcut for dev worku n1!"
 msgstr "開発作業用のショートカット１！"
 
@@ -326,6 +333,16 @@ msgstr ""
 msgid "Killable NPC (x1)"
 msgstr "殺傷可能なNPC(x1)"
 
+#. ID 72, Page 1, Line 2, Pos (21,27)
+#. ID 74, Page 1, Line 2, Pos (19,27)
+#. ID 76, Page 1, Line 3, Pos (17,27)
+msgid ""
+"Please also use NPC templates as a base for\n"
+"destructable events!"
+msgstr ""
+"破壊可能なイベントのベースにもNPCテンプレートを\n"
+"使用してください！"
+
 #. ID 74, Page 1, Line 1, Pos (19,27)
 msgid "Not killable NPC"
 msgstr "殺傷不可のNPC"
@@ -338,24 +355,25 @@ msgstr ""
 "殺傷可能なNPC(xN)\n"
 "ローカル変数1で判定(現在 N=5)"
 
-#. ID 78, Page 2, Line 27, Pos (25,28)
+#. ID 78, Page 1, Line 27, Pos (25,28)
 msgid "Acquired all Eidola."
 msgstr "全てのエイドラを入手。"
 
-#. ID 79, Page 1, Line 1, Pos (27,28)
-msgid ""
-"This should remove all the eidola that you have\n"
-"obtained, but it doesn't!\n"
-"\n"
-"Talk with each eidola to remove them manually..."
-msgstr ""
-"これで入手したすべてのエイドラが廃棄されるはずだが、そうならない！\n"
-"\n"
-"各エイドラと会話して、手動で廃棄してね..."
-
-#. ID 79, Page 2, Line 24, Pos (27,28)
+#. ID 79, Page 1, Line 24, Pos (27,28)
 msgid "Removed all Eidola."
 msgstr "全てのエイドラを廃棄。"
+
+#. ID 80, Page 1, Line 2, Pos (27,20)
+msgid ""
+"Quick tutorial:\n"
+"On the left you have templates\n"
+"On the right you have utilities \n"
+"And at the bottom you have eidolas"
+msgstr ""
+"簡単なチュートリアル:\n"
+"左側はテンプレート\n"
+"右側は実用的なイベント \n"
+"下はエイドラ"
 
 #. ID 81, Page 1, Line 1, Pos (33,25)
 #. Contains choice at line 2 (3 options)
@@ -363,6 +381,8 @@ msgid "Unlock menu theme"
 msgstr "メニュータイプをロック解除"
 
 #. ID 81, Page 1, Line 3, Pos (33,25)
+#. Choice (3 options, embedded in a message)
+#. ID 234, Page 1, Line 3, Pos (35,25)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "Unlock\n"
@@ -383,10 +403,11 @@ msgstr ""
 "全てロック解除"
 
 #. ID 81, Page 1, Line 9, Pos (33,25)
+#. ID 234, Page 1, Line 10, Pos (35,25)
 msgid "Unlocked automatically!"
 msgstr "自動的にロック解除されました！"
 
-#. ID 81, Page 1, Line 29, Pos (33,25)
+#. ID 81, Page 1, Line 39, Pos (33,25)
 #. Choice (2 options)
 msgid ""
 "Lock one\n"
@@ -395,7 +416,7 @@ msgstr ""
 "一つロック\n"
 "全てロック"
 
-#. ID 82, Page 1, Line 1, Pos (27,24)
+#. ID 82, Page 1, Line 1, Pos (28,24)
 msgid "Shortcut for dev worku n2!"
 msgstr "開発作業用のショートカット２！"
 
@@ -408,21 +429,8 @@ msgstr ""
 "梯子の隙間のアイコン。"
 
 #. ID 86, Page 2, Line 1, Pos (25,3)
-#. ID 102, Page 2, Line 1, Pos (25,5)
-#. ID 114, Page 2, Line 1, Pos (25,7)
-#. ID 116, Page 2, Line 1, Pos (29,7)
-#. ID 124, Page 2, Line 1, Pos (29,9)
-#. ID 126, Page 2, Line 1, Pos (33,9)
-#. ID 132, Page 2, Line 1, Pos (29,11)
-#. ID 134, Page 2, Line 1, Pos (33,11)
-#. ID 138, Page 2, Line 1, Pos (25,13)
-#. ID 140, Page 2, Line 1, Pos (29,13)
-#. ID 142, Page 2, Line 1, Pos (33,13)
-#. ID 146, Page 2, Line 1, Pos (25,15)
-#. ID 148, Page 2, Line 1, Pos (29,15)
-#. ID 150, Page 2, Line 1, Pos (33,15)
-msgid "Unused."
-msgstr "未使用。"
+msgid "Icon for events enabling the Imago warp."
+msgstr "鱗翅のワープを有効にするイベントのアイコン。"
 
 #. ID 87, Page 2, Line 1, Pos (27,3)
 msgid ""
@@ -478,6 +486,10 @@ msgstr ""
 #. ID 100, Page 2, Line 1, Pos (23,5)
 msgid "Icon for the exit points of ladders."
 msgstr "梯子の終点のアイコン。"
+
+#. ID 102, Page 2, Line 1, Pos (25,5)
+msgid "Icon for events disabling the Imago warp."
+msgstr "鱗翅のワープを無効にするイベントのアイコン。"
 
 #. ID 104, Page 2, Line 1, Pos (27,5)
 msgid ""
@@ -536,11 +548,28 @@ msgstr ""
 msgid "Icon for the entry points of ladders."
 msgstr "梯子の始点のアイコン。"
 
+#. ID 114, Page 2, Line 1, Pos (25,7)
+#. ID 124, Page 2, Line 1, Pos (29,9)
+#. ID 126, Page 2, Line 1, Pos (33,9)
+#. ID 132, Page 2, Line 1, Pos (29,11)
+#. ID 134, Page 2, Line 1, Pos (33,11)
+#. ID 140, Page 2, Line 1, Pos (29,13)
+#. ID 142, Page 2, Line 1, Pos (33,13)
+#. ID 150, Page 2, Line 1, Pos (33,15)
+msgid "Unused."
+msgstr "未使用。"
+
 #. ID 115, Page 2, Line 1, Pos (27,7)
 msgid ""
 "Icon for warps, or other passageways, that require\n"
 "a small form to pass."
 msgstr "小さくなる必要のある通路やワープなどのアイコン。"
+
+#. ID 116, Page 2, Line 1, Pos (29,7)
+msgid ""
+"Icon for events that handle mechanics for a\n"
+"day-night cycle."
+msgstr "昼夜サイクルの仕組みを扱うイベントのアイコン。"
 
 #. ID 117, Page 2, Line 1, Pos (31,7)
 msgid ""
@@ -658,6 +687,10 @@ msgstr ""
 "他のどのカテゴリーにも当てはまらない、\n"
 "一般的な定期的に並列処理するイベントのアイコン。"
 
+#. ID 138, Page 2, Line 1, Pos (25,13)
+msgid "Used for events which place the player in a boat."
+msgstr "プレイヤーをボートに乗せるイベントに使用される。"
+
 #. ID 139, Page 2, Line 1, Pos (27,13)
 msgid ""
 "Icon for events that prevent movement into\n"
@@ -691,9 +724,25 @@ msgstr ""
 "他のどのカテゴリーにも当てはまらない、\n"
 "一般的な自動的に始まるイベントのアイコン。"
 
+#. ID 146, Page 2, Line 1, Pos (25,15)
+msgid ""
+"Used for events which stop the player if they're\n"
+"in a boat."
+msgstr ""
+"ボートに乗っているプレイヤーを止める\n"
+"イベントに使用される。"
+
 #. ID 147, Page 2, Line 1, Pos (27,15)
 msgid "Icon for events that handle picture events."
 msgstr "ピクチャのイベントを扱うイベントのアイコン。"
+
+#. ID 148, Page 2, Line 1, Pos (29,15)
+msgid ""
+"Icon for events that grant the player\n"
+"a visage or pseudoeffect."
+msgstr ""
+"プレイヤーに容貌や着替え・変身を与える\n"
+"イベントのアイコン。"
 
 #. ID 149, Page 2, Line 1, Pos (31,15)
 msgid ""
@@ -701,9 +750,107 @@ msgid ""
 "another object."
 msgstr "プレイヤーにその他の物を与えるイベントのアイコン。"
 
-#. ID 196, Page 1, Line 1, Pos (41,32)
+#. ID 178, Page 1, Line 1, Pos (43,29)
+msgid "Use number 2 to use Sculpture"
+msgstr "2キーで彫刻を使う"
+
+#. ID 182, Page 1, Line 1, Pos (35,21)
 #. Choice (2 options)
 msgid ""
-"+\n"
-"-"
+"debug overlay\n"
+"Cancel"
 msgstr ""
+"デバッグ情報を表示\n"
+"キャンセル"
+
+#. ID 182, Page 2, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"turn off debug overlay\n"
+"Cancel"
+msgstr ""
+"デバッグ情報を非表示\n"
+"キャンセル"
+
+#. ID 233, Page 1, Line 1, Pos (20,24)
+#. Contains choice at line 2 (2 options)
+msgid "Unlock all VM items?"
+msgstr "自販機の商品を全てロック解除しますか？"
+
+#. ID 233, Page 1, Line 2, Pos (20,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 233, Page 1, Line 17, Pos (20,24)
+msgid "Unlocked all VM items."
+msgstr "自販機の商品を全てロック解除しました"
+
+#. ID 234, Page 1, Line 1, Pos (35,25)
+#. Contains choice at line 2 (3 options)
+msgid "Unlock visages"
+msgstr "容貌をロック解除"
+
+#. ID 234, Page 1, Line 5, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Unlock one (use unlock switch ID)\n"
+"Unlock map visages\n"
+"Unlock all"
+msgstr ""
+"一つロック解除(ロック解除切り替えIDを使用)\n"
+"マップの容貌をロック解除\n"
+"全てロック解除"
+
+#. ID 234, Page 1, Line 60, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Lock one (use unlock switch ID)\n"
+"Lock map visages\n"
+"Lock all"
+msgstr ""
+"一つロック(ロック解除切り替えIDを使用)\n"
+"マップの容貌をロック\n"
+"全てロック"
+
+#. ID 234, Page 1, Line 65, Pos (35,25)
+msgid "Cannot be locked!"
+msgstr "ロックできません！"
+
+#. ID 235, Page 2, Line 1, Pos (37,21)
+#. Contains choice at line 2 (2 options)
+msgid "Equip the animation test pseudo?"
+msgstr "アニメーションテスト用変身を装備しますか？"
+
+#. ID 235, Page 2, Line 2, Pos (37,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip\n"
+"Cancel"
+msgstr ""
+"装備する\n"
+"キャンセル"
+
+#. ID 235, Page 3, Line 1, Pos (37,21)
+#. Choice (2 options)
+msgid ""
+"Dequip\n"
+"Cancel"
+msgstr ""
+"装備解除する\n"
+"キャンセル"
+
+#~ msgid ""
+#~ "This should remove all the eidola that you have\n"
+#~ "obtained, but it doesn't!\n"
+#~ "\n"
+#~ "Talk with each eidola to remove them manually..."
+#~ msgstr ""
+#~ "これで入手したすべてのエイドラが\n"
+#~ "廃棄されるはずだが、そうならない！\n"
+#~ "\n"
+#~ "各エイドラと会話して、手動で廃棄してね..."
