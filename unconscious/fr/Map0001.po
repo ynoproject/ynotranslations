@@ -405,8 +405,8 @@ msgid ""
 "Lock\n"
 "Back"
 msgstr ""
-"Débloquer un thème de menu\n"
-"Bloquer un thème de menu\n"
+"Débloquer\n"
+"Bloquer\n"
 "Retour"
 
 #. ID 81, Page 1, Line 5, Pos (33,25)
