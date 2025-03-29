@@ -12,13 +12,6 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.5\n"
 
-#. ID 23, Page 1, Line 171, Pos (0,1)
-#. Choice (3 options)
-msgid ""
-"Leave the Record Player\n"
-"Back to the Record Player\n"
-"Stop music"
-msgstr ""
-"离开电唱机\n"
-"返回电唱机\n"
-"停止音乐"
+#. ID 2, Page 1, Line 37, Pos (1,0)
+msgid "error cause you shouldnt see this"
+msgstr "这系个错误你不该看到这个"
