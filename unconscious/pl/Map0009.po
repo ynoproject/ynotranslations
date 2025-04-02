@@ -11,12 +11,11 @@ msgstr ""
 #. ID 27, Page 1, Line 5, Pos (4,6)
 #. Contains choice at line 3 (2 options)
 msgid ""
-"Font Color Sample: \\c[0]$fNormal \\c[1]$gStrong \\c[2]$hMuted\n"
+"Font Color Sample: \\c[0]$fNormal \\c[1]$gStrong \\c[3]$hMuted\n"
 "\\c[0]Equip this theme?"
 msgstr ""
-"Przykład czcionki: \\c[0]$fNormalny \\c[1]$gWyróżniony \\c[2]$hSłaby\n"
+"Przykład czcionki: \\c[0]$fNormalny \\c[1]$gWyróżniony \\c[3]$hSłaby\n"
 "\\c[0]Ustawić ten motyw?"
-
 #. ID 27, Page 1, Line 7, Pos (4,6)
 #. Choice (2 options, embedded in a message)
 msgid ""
@@ -26,7 +25,7 @@ msgstr ""
 "OK\n"
 "Anuluj"
 
-#. ID 36, Page 1, Line 22, Pos (0,14)
+#. ID 36, Page 1, Line 23, Pos (0,14)
 msgid ""
 "\\c[1]The save data is outdated.\n"
 "\\c[0]Updating from \\v[0138].\\v[0139].\\v[0140]."
