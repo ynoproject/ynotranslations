@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 3, Page 1, Line 10, Pos (14,14)
+msgid ""
+"\\c[6]FOG\\c[0] \\c[4]v0.1.42\\c[0]\n"
+"Copyright 2015-2022 \\c[9]ROSEGORM\\c[0].\n"
+"\\c[9]https://rosegorm.itch.io/fog/\\c[0]"
+msgstr ""
+
+#. ID 3, Page 1, Line 16, Pos (14,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Enter the Debug Room?\n"
+"\\c[11]It may spoil or break the game.\\c[0]"
+msgstr ""
+
+#. ID 3, Page 1, Line 18, Pos (14,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+
+#. ID 3, Page 1, Line 29, Pos (14,14)
+msgid ""
+"In FOG, everything\n"
+"happens for a reason.\n"
+"\\|\\|\\|\n"
+"Maybe."
+msgstr ""
+
+#. ID 3, Page 1, Line 44, Pos (14,14)
+msgid "Pick a number."
+msgstr ""
+
+#. ID 3, Page 1, Line 57, Pos (14,14)
+msgid "No endings are implemented yet."
+msgstr ""
+
