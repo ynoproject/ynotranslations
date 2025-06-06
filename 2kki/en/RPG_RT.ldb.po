@@ -9955,7 +9955,7 @@ msgstr "Haniwa"
 #. ID 73
 msgctxt "items.description"
 msgid "「はにわ」になる"
-msgstr "Become a haniwa statue"
+msgstr "Become a Haniwa statue"
 
 #. ID 33
 msgctxt "items.name"
@@ -10109,7 +10109,7 @@ msgstr "Dice"
 #. ID 87
 msgctxt "items.description"
 msgid "「サイコロ」になる"
-msgstr "Become a die (a game die)"
+msgstr "Become a dice"
 
 #. ID 47
 msgctxt "items.name"
