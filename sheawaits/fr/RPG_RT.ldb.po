@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.6\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -30,12 +30,12 @@ msgstr ""
 #. ID 1
 msgctxt "skills.name"
 msgid "wake up"
-msgstr "se réveiller"
+msgstr "Se réveiller"
 
 #. ID 1
 msgctxt "skills.description"
 msgid "end your dream?"
-msgstr "quitter votre rêve ?"
+msgstr "Quitter votre rêve ?"
 
 #. ID 1
 msgctxt "items.name"
@@ -44,8 +44,8 @@ msgstr "Le Fou"
 
 #. ID 1
 msgctxt "items.description"
-msgid "go back to the begining"
-msgstr "retourne au début"
+msgid "Go back to the begining"
+msgstr "Retourne au début"
 
 #. ID 2
 msgctxt "items.name"
@@ -54,8 +54,8 @@ msgstr "Le Bateleur"
 
 #. ID 2
 msgctxt "items.description"
-msgid "gain the use of magic and pentacles"
-msgstr "gagne le pouvoir d'utiliser la magie et les pentacles"
+msgid "Gain the use of magic and pentacles"
+msgstr "Deviens apte à utiliser la magie et les pentacles"
 
 #. ID 3
 msgctxt "items.name"
@@ -64,23 +64,38 @@ msgstr "La Papesse"
 
 #. ID 3
 msgctxt "items.description"
-msgid "wear the outfit of a holy woman"
-msgstr "porte la tenue d'une sainte"
+msgid "Wear the outfit of a holy woman"
+msgstr "Porte la tenue d'une sainte"
 
 #. ID 4
 msgctxt "items.name"
 msgid "The Empress"
 msgstr "L'Impératrice"
 
+#. ID 4
+msgctxt "items.description"
+msgid "A dress passed down through generations"
+msgstr "Une robe transmise à travers les générations"
+
 #. ID 5
 msgctxt "items.name"
 msgid "The Emperor"
 msgstr "L'Empereur"
 
+#. ID 5
+msgctxt "items.description"
+msgid "An outfit you remember them wearing often"
+msgstr "Une tenue qu'il aurait porté autrefois"
+
 #. ID 6
 msgctxt "items.name"
 msgid "The Hierophant"
 msgstr "Le Pape"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Others will stop to make way for you"
+msgstr "Les autres s'arrêteront pour te laisser un passage"
 
 #. ID 7
 msgctxt "items.name"
@@ -89,8 +104,8 @@ msgstr "Les Amants"
 
 #. ID 7
 msgctxt "items.description"
-msgid "you would have worn this dress at your wedding"
-msgstr "tu aurais porté cette robe à ton mariage"
+msgid "You would have worn this dress at your wedding"
+msgstr "Tu aurais porté cette robe à ton mariage"
 
 #. ID 8
 msgctxt "items.name"
@@ -107,10 +122,20 @@ msgctxt "items.name"
 msgid "The Hermit"
 msgstr "L'Ermite"
 
+#. ID 10
+msgctxt "items.description"
+msgid "Don common clothes to blend in with a crowd"
+msgstr "Porte des vêtements simples pour passer inaperçu"
+
 #. ID 11
 msgctxt "items.name"
 msgid "Wheel of Fortune"
 msgstr "La Roue de Fortune"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Spin the odds in your favor"
+msgstr "Fais tourner la chance en ta faveur"
 
 #. ID 12
 msgctxt "items.name"
@@ -125,12 +150,22 @@ msgstr "Le Pendu"
 #. ID 14
 msgctxt "items.name"
 msgid "Death"
-msgstr "La Mort"
+msgstr "Mort"
+
+#. ID 14
+msgctxt "items.description"
+msgid "Drain the life from living things"
+msgstr "Aspire la vie des êtres vivants"
 
 #. ID 15
 msgctxt "items.name"
-msgid "Temprance"
+msgid "Temperance"
 msgstr "Tempérance"
+
+#. ID 15
+msgctxt "items.description"
+msgid "Attract others towards you"
+msgstr "Attire les autres vers toi"
 
 #. ID 16
 msgctxt "items.name"
@@ -139,8 +174,8 @@ msgstr "Le Diable"
 
 #. ID 16
 msgctxt "items.description"
-msgid "strike fear into the hearts of many"
-msgstr "inspire la peur dans le cœur de tous"
+msgid "Strike fear into the hearts of many"
+msgstr "Inspire la peur dans le cœur de tous"
 
 #. ID 17
 msgctxt "items.name"
@@ -154,8 +189,8 @@ msgstr "L'Étoile"
 
 #. ID 18
 msgctxt "items.description"
-msgid "wear a crown of stars"
-msgstr "porte une couronne d'étoiles"
+msgid "Wear a crown of stars"
+msgstr "Porte une couronne d'étoiles"
 
 #. ID 19
 msgctxt "items.name"
@@ -164,8 +199,8 @@ msgstr "La Lune"
 
 #. ID 19
 msgctxt "items.description"
-msgid "wear a dress made of moonlight"
-msgstr "porte une robe tissée du clair de lune"
+msgid "Wear a dress made of moonlight"
+msgstr "Porte une robe faite de clair de lune"
 
 #. ID 20
 msgctxt "items.name"
@@ -174,8 +209,8 @@ msgstr "Le Soleil"
 
 #. ID 20
 msgctxt "items.description"
-msgid "shine so brightly you illuminate any space"
-msgstr "brille de mille feux pour illuminer tout lieu"
+msgid "Shine so brightly you illuminate any space"
+msgstr "Brille de mille feux pour illuminer tout lieu"
 
 #. ID 21
 msgctxt "items.name"
