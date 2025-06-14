@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+#. ID 1, Page 1, Line 2, Pos (5,11)
+#. Contains choice at line 2 (3 options)
+#. ID 2, Page 1, Line 1, Pos (4,11)
+#. Contains choice at line 2 (3 options)
+#. ID 3, Page 1, Line 1, Pos (4,10)
+#. Contains choice at line 2 (3 options)
+#. ID 4, Page 1, Line 1, Pos (5,10)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 04: [blue stipes]"
+msgstr "Thème de menu 04 : [rayures bleues]"
+
+#. ID 1, Page 1, Line 3, Pos (5,11)
+#. Choice (3 options, embedded in a message)
+#. ID 2, Page 1, Line 2, Pos (4,11)
+#. Choice (3 options, embedded in a message)
+#. ID 3, Page 1, Line 2, Pos (4,10)
+#. Choice (3 options, embedded in a message)
+#. ID 4, Page 1, Line 2, Pos (5,10)
+#. Choice (3 options, embedded in a message)
+#. ID 8, Page 2, Line 3, Pos (10,3)
+#. Choice (3 options, embedded in a message)
+#. ID 9, Page 2, Line 3, Pos (9,3)
+#. Choice (3 options, embedded in a message)
+#. ID 10, Page 2, Line 3, Pos (10,2)
+#. Choice (3 options, embedded in a message)
+#. ID 11, Page 2, Line 3, Pos (9,2)
+#. Choice (3 options, embedded in a message)
+#. ID 12, Page 1, Line 3, Pos (5,7)
+#. Choice (3 options, embedded in a message)
+#. ID 13, Page 1, Line 3, Pos (4,7)
+#. Choice (3 options, embedded in a message)
+#. ID 14, Page 1, Line 3, Pos (4,6)
+#. Choice (3 options, embedded in a message)
+#. ID 15, Page 1, Line 3, Pos (5,6)
+#. Choice (3 options, embedded in a message)
+#. ID 16, Page 1, Line 3, Pos (5,3)
+#. Choice (3 options, embedded in a message)
+#. ID 17, Page 1, Line 3, Pos (4,3)
+#. Choice (3 options, embedded in a message)
+#. ID 18, Page 1, Line 3, Pos (4,2)
+#. Choice (3 options, embedded in a message)
+#. ID 19, Page 1, Line 3, Pos (5,2)
+#. Choice (3 options, embedded in a message)
+#. ID 20, Page 2, Line 3, Pos (10,7)
+#. Choice (3 options, embedded in a message)
+#. ID 21, Page 2, Line 3, Pos (9,7)
+#. Choice (3 options, embedded in a message)
+#. ID 22, Page 2, Line 3, Pos (9,6)
+#. Choice (3 options, embedded in a message)
+#. ID 23, Page 2, Line 3, Pos (10,6)
+#. Choice (3 options, embedded in a message)
+#. ID 24, Page 2, Line 3, Pos (10,11)
+#. Choice (3 options, embedded in a message)
+#. ID 25, Page 2, Line 3, Pos (9,11)
+#. Choice (3 options, embedded in a message)
+#. ID 26, Page 2, Line 3, Pos (9,10)
+#. Choice (3 options, embedded in a message)
+#. ID 27, Page 2, Line 3, Pos (10,10)
+#. Choice (3 options, embedded in a message)
+#. ID 28, Page 2, Line 3, Pos (15,2)
+#. Choice (3 options, embedded in a message)
+#. ID 29, Page 2, Line 3, Pos (14,2)
+#. Choice (3 options, embedded in a message)
+#. ID 30, Page 2, Line 3, Pos (14,3)
+#. Choice (3 options, embedded in a message)
+#. ID 31, Page 2, Line 3, Pos (15,3)
+#. Choice (3 options, embedded in a message)
+#. ID 32, Page 2, Line 3, Pos (15,7)
+#. Choice (3 options, embedded in a message)
+#. ID 33, Page 2, Line 3, Pos (14,7)
+#. Choice (3 options, embedded in a message)
+#. ID 34, Page 2, Line 3, Pos (14,6)
+#. Choice (3 options, embedded in a message)
+#. ID 35, Page 2, Line 3, Pos (15,6)
+#. Choice (3 options, embedded in a message)
+#. ID 36, Page 2, Line 3, Pos (14,11)
+#. Choice (3 options, embedded in a message)
+#. ID 37, Page 2, Line 3, Pos (15,11)
+#. Choice (3 options, embedded in a message)
+#. ID 38, Page 2, Line 3, Pos (14,10)
+#. Choice (3 options, embedded in a message)
+#. ID 39, Page 2, Line 3, Pos (15,10)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Preview\n"
+"Purchase\n"
+"Cancel"
+msgstr ""
+"Visualiser\n"
+"Acheter\n"
+"Annuler"
+
+#. ID 1, Page 1, Line 7, Pos (5,11)
+#. ID 2, Page 1, Line 5, Pos (4,11)
+#. ID 3, Page 1, Line 5, Pos (4,10)
+#. ID 4, Page 1, Line 5, Pos (5,10)
+msgid "Menu theme preview: blue stripes"
+msgstr "Aperçu du thème : rayures bleues"
+
+#. ID 1, Page 1, Line 68, Pos (5,11)
+#. Contains choice at line 3 (2 options)
+#. ID 2, Page 1, Line 64, Pos (4,11)
+#. Contains choice at line 3 (2 options)
+#. ID 3, Page 1, Line 64, Pos (4,10)
+#. Contains choice at line 3 (2 options)
+#. ID 4, Page 1, Line 64, Pos (5,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[blue stripes] has been purchased. Change\n"
+"Menu theme?"
+msgstr ""
+"Le thème [rayures bleues] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 1, Page 1, Line 70, Pos (5,11)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 66, Pos (4,11)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 66, Pos (4,10)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 66, Pos (5,10)
+#. Choice (2 options, embedded in a message)
+#. ID 8, Page 2, Line 70, Pos (10,3)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 2, Line 70, Pos (9,3)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 2, Line 70, Pos (10,2)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 2, Line 70, Pos (9,2)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 70, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 70, Pos (4,7)
+#. Choice (2 options, embedded in a message)
+#. ID 14, Page 1, Line 70, Pos (4,6)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 70, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 70, Pos (5,3)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 70, Pos (4,3)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 70, Pos (4,2)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 70, Pos (5,2)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 2, Line 70, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 2, Line 70, Pos (9,7)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 2, Line 70, Pos (9,6)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 2, Line 70, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#. ID 24, Page 2, Line 70, Pos (10,11)
+#. Choice (2 options, embedded in a message)
+#. ID 25, Page 2, Line 70, Pos (9,11)
+#. Choice (2 options, embedded in a message)
+#. ID 26, Page 2, Line 70, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 2, Line 70, Pos (10,10)
+#. Choice (2 options, embedded in a message)
+#. ID 28, Page 2, Line 70, Pos (15,2)
+#. Choice (2 options, embedded in a message)
+#. ID 29, Page 2, Line 70, Pos (14,2)
+#. Choice (2 options, embedded in a message)
+#. ID 30, Page 2, Line 70, Pos (14,3)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 2, Line 70, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+#. ID 32, Page 2, Line 70, Pos (15,7)
+#. Choice (2 options, embedded in a message)
+#. ID 33, Page 2, Line 70, Pos (14,7)
+#. Choice (2 options, embedded in a message)
+#. ID 34, Page 2, Line 70, Pos (14,6)
+#. Choice (2 options, embedded in a message)
+#. ID 35, Page 2, Line 70, Pos (15,6)
+#. Choice (2 options, embedded in a message)
+#. ID 36, Page 2, Line 70, Pos (14,11)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 2, Line 70, Pos (15,11)
+#. Choice (2 options, embedded in a message)
+#. ID 38, Page 2, Line 70, Pos (14,10)
+#. Choice (2 options, embedded in a message)
+#. ID 39, Page 2, Line 70, Pos (15,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 1, Page 1, Line 76, Pos (5,11)
+#. ID 2, Page 1, Line 72, Pos (4,11)
+#. ID 3, Page 1, Line 72, Pos (4,10)
+#. ID 4, Page 1, Line 72, Pos (5,10)
+#. ID 8, Page 2, Line 77, Pos (10,3)
+#. ID 9, Page 2, Line 77, Pos (9,3)
+#. ID 10, Page 2, Line 77, Pos (10,2)
+#. ID 11, Page 2, Line 77, Pos (9,2)
+#. ID 12, Page 1, Line 77, Pos (5,7)
+#. ID 13, Page 1, Line 77, Pos (4,7)
+#. ID 14, Page 1, Line 77, Pos (4,6)
+#. ID 15, Page 1, Line 77, Pos (5,6)
+#. ID 16, Page 1, Line 77, Pos (5,3)
+#. ID 17, Page 1, Line 77, Pos (4,3)
+#. ID 18, Page 1, Line 77, Pos (4,2)
+#. ID 19, Page 1, Line 77, Pos (5,2)
+#. ID 20, Page 2, Line 77, Pos (10,7)
+#. ID 21, Page 2, Line 77, Pos (9,7)
+#. ID 22, Page 2, Line 77, Pos (9,6)
+#. ID 23, Page 2, Line 77, Pos (10,6)
+#. ID 24, Page 2, Line 77, Pos (10,11)
+#. ID 25, Page 2, Line 77, Pos (9,11)
+#. ID 26, Page 2, Line 77, Pos (9,10)
+#. ID 27, Page 2, Line 77, Pos (10,10)
+#. ID 28, Page 2, Line 77, Pos (15,2)
+#. ID 29, Page 2, Line 77, Pos (14,2)
+#. ID 30, Page 2, Line 77, Pos (14,3)
+#. ID 31, Page 2, Line 77, Pos (15,3)
+#. ID 32, Page 2, Line 77, Pos (15,7)
+#. ID 33, Page 2, Line 77, Pos (14,7)
+#. ID 34, Page 2, Line 77, Pos (14,6)
+#. ID 35, Page 2, Line 77, Pos (15,6)
+#. ID 36, Page 2, Line 77, Pos (14,11)
+#. ID 37, Page 2, Line 77, Pos (15,11)
+#. ID 38, Page 2, Line 77, Pos (14,10)
+#. ID 39, Page 2, Line 77, Pos (15,10)
+msgid ""
+"Menu themes can be changed by interacting with\n"
+"the tapestry in Noelia's room while dreaming."
+msgstr ""
+"Le thème de menu peut être changé en interagissant\n"
+"avec la tapisserie dans la chambre de Noelia en\n"
+"dormant."
+
+#. ID 8, Page 2, Line 2, Pos (10,3)
+#. Contains choice at line 2 (3 options)
+#. ID 10, Page 2, Line 2, Pos (10,2)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 04: [rose]"
+msgstr "Thème de menu 05 : [rose]"
+
+#. ID 8, Page 2, Line 7, Pos (10,3)
+#. ID 9, Page 2, Line 7, Pos (9,3)
+#. ID 10, Page 2, Line 7, Pos (10,2)
+#. ID 11, Page 2, Line 7, Pos (9,2)
+msgid "Menu theme preview: rose"
+msgstr "Aperçu du thème : rose"
+
+#. ID 8, Page 2, Line 68, Pos (10,3)
+#. Contains choice at line 3 (2 options)
+#. ID 9, Page 2, Line 68, Pos (9,3)
+#. Contains choice at line 3 (2 options)
+#. ID 10, Page 2, Line 68, Pos (10,2)
+#. Contains choice at line 3 (2 options)
+#. ID 11, Page 2, Line 68, Pos (9,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[rose] has been purchased. Change\n"
+"Menu theme?"
+msgstr ""
+"Le thème [rose] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 9, Page 2, Line 2, Pos (9,3)
+#. Contains choice at line 2 (3 options)
+#. ID 11, Page 2, Line 2, Pos (9,2)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 05: [rose]"
+msgstr "Thème de menu 05 : [rose]"
+
+#. ID 12, Page 1, Line 2, Pos (5,7)
+#. Contains choice at line 2 (3 options)
+#. ID 13, Page 1, Line 2, Pos (4,7)
+#. Contains choice at line 2 (3 options)
+#. ID 14, Page 1, Line 2, Pos (4,6)
+#. Contains choice at line 2 (3 options)
+#. ID 15, Page 1, Line 2, Pos (5,6)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 03: [violet stipes]"
+msgstr "Thème de menu 03 : [rayures violettes]"
+
+#. ID 12, Page 1, Line 7, Pos (5,7)
+#. ID 13, Page 1, Line 7, Pos (4,7)
+#. ID 14, Page 1, Line 7, Pos (4,6)
+#. ID 15, Page 1, Line 7, Pos (5,6)
+msgid "Menu theme preview: violet stripes"
+msgstr "Aperçu du thème : rayures violettes"
+
+#. ID 12, Page 1, Line 68, Pos (5,7)
+#. Contains choice at line 3 (2 options)
+#. ID 13, Page 1, Line 68, Pos (4,7)
+#. Contains choice at line 3 (2 options)
+#. ID 14, Page 1, Line 68, Pos (4,6)
+#. Contains choice at line 3 (2 options)
+#. ID 15, Page 1, Line 68, Pos (5,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[violet stripes] has been purchased. Change\n"
+"Menu theme?"
+msgstr ""
+"Le thème [rayures violettes] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 16, Page 1, Line 2, Pos (5,3)
+#. Contains choice at line 2 (3 options)
+#. ID 17, Page 1, Line 2, Pos (4,3)
+#. Contains choice at line 2 (3 options)
+#. ID 18, Page 1, Line 2, Pos (4,2)
+#. Contains choice at line 2 (3 options)
+#. ID 19, Page 1, Line 2, Pos (5,2)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 02: [pink stipes]"
+msgstr "Thème de menu 02 : [rayures roses]"
+
+#. ID 16, Page 1, Line 7, Pos (5,3)
+#. ID 17, Page 1, Line 7, Pos (4,3)
+#. ID 18, Page 1, Line 7, Pos (4,2)
+#. ID 19, Page 1, Line 7, Pos (5,2)
+msgid "Menu theme preview: pink stripes"
+msgstr "Aperçu du thème : rayures roses"
+
+#. ID 16, Page 1, Line 68, Pos (5,3)
+#. Contains choice at line 3 (2 options)
+#. ID 17, Page 1, Line 68, Pos (4,3)
+#. Contains choice at line 3 (2 options)
+#. ID 18, Page 1, Line 68, Pos (4,2)
+#. Contains choice at line 3 (2 options)
+#. ID 19, Page 1, Line 68, Pos (5,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[pink stripes] has been purchased. Change\n"
+"Menu theme?"
+msgstr ""
+"Le thème [rayures roses] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 20, Page 2, Line 2, Pos (10,7)
+#. Contains choice at line 2 (3 options)
+#. ID 21, Page 2, Line 2, Pos (9,7)
+#. Contains choice at line 2 (3 options)
+#. ID 22, Page 2, Line 2, Pos (9,6)
+#. Contains choice at line 2 (3 options)
+#. ID 23, Page 2, Line 2, Pos (10,6)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 06: [garden]"
+msgstr "Thème de menu 06 : [jardin]"
+
+#. ID 20, Page 2, Line 7, Pos (10,7)
+#. ID 21, Page 2, Line 7, Pos (9,7)
+#. ID 22, Page 2, Line 7, Pos (9,6)
+#. ID 23, Page 2, Line 7, Pos (10,6)
+msgid "Menu theme preview: garden"
+msgstr "Aperçu du thème : jardin"
+
+#. ID 20, Page 2, Line 68, Pos (10,7)
+#. Contains choice at line 3 (2 options)
+#. ID 21, Page 2, Line 68, Pos (9,7)
+#. Contains choice at line 3 (2 options)
+#. ID 22, Page 2, Line 68, Pos (9,6)
+#. Contains choice at line 3 (2 options)
+#. ID 23, Page 2, Line 68, Pos (10,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[garden] has been purchased. Change\n"
+"menu theme?"
+msgstr ""
+"Le thème [jardin] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 24, Page 2, Line 2, Pos (10,11)
+#. Contains choice at line 2 (3 options)
+#. ID 25, Page 2, Line 2, Pos (9,11)
+#. Contains choice at line 2 (3 options)
+#. ID 26, Page 2, Line 2, Pos (9,10)
+#. Contains choice at line 2 (3 options)
+#. ID 27, Page 2, Line 2, Pos (10,10)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 07: [sunset]"
+msgstr "Thème de menu 07 : [crépuscule]"
+
+#. ID 24, Page 2, Line 7, Pos (10,11)
+#. ID 25, Page 2, Line 7, Pos (9,11)
+#. ID 26, Page 2, Line 7, Pos (9,10)
+#. ID 27, Page 2, Line 7, Pos (10,10)
+msgid "Menu theme preview: sunset"
+msgstr "Aperçu du thème : crépuscule"
+
+#. ID 24, Page 2, Line 68, Pos (10,11)
+#. Contains choice at line 3 (2 options)
+#. ID 25, Page 2, Line 68, Pos (9,11)
+#. Contains choice at line 3 (2 options)
+#. ID 26, Page 2, Line 68, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+#. ID 27, Page 2, Line 68, Pos (10,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[sunset] has been purchased. Change\n"
+"menu theme?"
+msgstr ""
+"Le thème [crépuscule] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 28, Page 2, Line 2, Pos (15,2)
+#. Contains choice at line 2 (3 options)
+#. ID 29, Page 2, Line 2, Pos (14,2)
+#. Contains choice at line 2 (3 options)
+#. ID 30, Page 2, Line 2, Pos (14,3)
+#. Contains choice at line 2 (3 options)
+#. ID 31, Page 2, Line 2, Pos (15,3)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 08: [diamond]"
+msgstr "Thème de menu 08 : [diamant]"
+
+#. ID 28, Page 2, Line 7, Pos (15,2)
+#. ID 29, Page 2, Line 7, Pos (14,2)
+#. ID 30, Page 2, Line 7, Pos (14,3)
+#. ID 31, Page 2, Line 7, Pos (15,3)
+msgid "Menu theme preview: diamond"
+msgstr "Aperçu du thème : diamant"
+
+#. ID 28, Page 2, Line 68, Pos (15,2)
+#. Contains choice at line 3 (2 options)
+#. ID 29, Page 2, Line 68, Pos (14,2)
+#. Contains choice at line 3 (2 options)
+#. ID 30, Page 2, Line 68, Pos (14,3)
+#. Contains choice at line 3 (2 options)
+#. ID 31, Page 2, Line 68, Pos (15,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[diamond] has been purchased. Change\n"
+"menu theme?"
+msgstr ""
+"Le thème [diamant] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 32, Page 2, Line 2, Pos (15,7)
+#. Contains choice at line 2 (3 options)
+#. ID 33, Page 2, Line 2, Pos (14,7)
+#. Contains choice at line 2 (3 options)
+#. ID 34, Page 2, Line 2, Pos (14,6)
+#. Contains choice at line 2 (3 options)
+#. ID 35, Page 2, Line 2, Pos (15,6)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 09: [starry night]"
+msgstr "Thème de menu 09 : [nuit étoilée]"
+
+#. ID 32, Page 2, Line 7, Pos (15,7)
+#. ID 33, Page 2, Line 7, Pos (14,7)
+#. ID 34, Page 2, Line 7, Pos (14,6)
+#. ID 35, Page 2, Line 7, Pos (15,6)
+msgid "Menu theme preview: starry night"
+msgstr "Aperçu du thème : nuit étoilée"
+
+#. ID 32, Page 2, Line 68, Pos (15,7)
+#. Contains choice at line 3 (2 options)
+#. ID 33, Page 2, Line 68, Pos (14,7)
+#. Contains choice at line 3 (2 options)
+#. ID 34, Page 2, Line 68, Pos (14,6)
+#. Contains choice at line 3 (2 options)
+#. ID 35, Page 2, Line 68, Pos (15,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[starry night] has been purchased. Change\n"
+"menu theme?"
+msgstr ""
+"Le thème [nuit étoilée] a été acheté.\n"
+"Changer de thème de menu ?"
+
+#. ID 36, Page 2, Line 2, Pos (14,11)
+#. Contains choice at line 2 (3 options)
+#. ID 37, Page 2, Line 2, Pos (15,11)
+#. Contains choice at line 2 (3 options)
+#. ID 38, Page 2, Line 2, Pos (14,10)
+#. Contains choice at line 2 (3 options)
+#. ID 39, Page 2, Line 2, Pos (15,10)
+#. Contains choice at line 2 (3 options)
+msgid "menu theme 10: [heart glass]"
+msgstr "Thème de menu 10 : [vitrail cœur]"
+
+#. ID 36, Page 2, Line 7, Pos (14,11)
+#. ID 37, Page 2, Line 7, Pos (15,11)
+#. ID 38, Page 2, Line 7, Pos (14,10)
+#. ID 39, Page 2, Line 7, Pos (15,10)
+msgid "Menu theme preview: heart glass"
+msgstr "Aperçu du thème : vitrail cœur"
+
+#. ID 36, Page 2, Line 68, Pos (14,11)
+#. Contains choice at line 3 (2 options)
+#. ID 37, Page 2, Line 68, Pos (15,11)
+#. Contains choice at line 3 (2 options)
+#. ID 38, Page 2, Line 68, Pos (14,10)
+#. Contains choice at line 3 (2 options)
+#. ID 39, Page 2, Line 68, Pos (15,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"[heart glass] has been purchased. Change\n"
+"menu theme?"
+msgstr ""
+"Le thème [vitrail cœur] a été acheté.\n"
+"Changer de thème de menu ?"

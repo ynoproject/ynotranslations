@@ -12,8 +12,8 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.6\n"
 
-#. ID 3, Page 1, Line 2, Pos (64,68)
+#. ID 32, Page 3, Line 2, Pos (3,8)
 msgid ""
 "you have received the\n"
-"power of [the fool]"
-msgstr "Vous avez reçu le pouvoir du [fou] !"
+"power of [temperance]"
+msgstr "Vous avez reçu le pouvoir de [tempérance] !"
