@@ -638,7 +638,7 @@ msgstr "装備数"
 
 msgctxt "terms.gold"
 msgid "\\"
-msgstr "円"
+msgstr " yen"
 
 msgctxt "terms.command_attack"
 msgid "UŒ‚"
