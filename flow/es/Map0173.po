@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 81, Page 1, Line 4, Pos (11,37)
 msgid "　　　　　  　 .メニュータイプorange."
-msgstr "　　　　　  　　　 .Menú Naranja."
+msgstr "　　　　　  　　　.Menú Naranja."

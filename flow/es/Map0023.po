@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 15, Page 1, Line 12, Pos (0,1)
 #. ID 15, Page 1, Line 25, Pos (0,1)
@@ -19,9 +19,9 @@ msgid ""
 "\n"
 "☆HI－SCORE　 \\V[79]点＋\\V[80]"
 msgstr ""
-"☆\\V[72] Points＋\\V[75]\n"
+"☆\\V[72] Puntos＋\\V[75]\n"
 "\n"
-"☆HI－SCORE　 \\V[79] Points＋\\V[80]"
+"☆RECORD　 \\V[79] Puntos＋\\V[80]"
 
 #. ID 15, Page 1, Line 17, Pos (0,1)
 #. ID 15, Page 1, Line 30, Pos (0,1)
@@ -30,9 +30,9 @@ msgid ""
 "\n"
 "☆HI－SCORE　 \\V[79]点"
 msgstr ""
-"☆\\V[72] Points\n"
+"☆\\V[72] Puntos\n"
 "\n"
-"☆HI－SCORE　 \\V[79] Points"
+"☆RECORD　 \\V[79] Puntos"
 
 #. ID 15, Page 1, Line 46, Pos (0,1)
 #. ID 15, Page 1, Line 59, Pos (0,1)
@@ -41,9 +41,9 @@ msgid ""
 "\n"
 "HI－SCORE　 \\V[76]点＋\\V[77]"
 msgstr ""
-"\\V[72] Points＋\\V[75]\n"
+"\\V[72] Puntos＋\\V[75]\n"
 "\n"
-"HI－SCORE　 \\V[76] Points＋\\V[77]"
+"RECORD　 \\V[76] Puntos＋\\V[77]"
 
 #. ID 15, Page 1, Line 51, Pos (0,1)
 #. ID 15, Page 1, Line 64, Pos (0,1)
@@ -52,6 +52,6 @@ msgid ""
 "\n"
 "HI－SCORE　 \\V[76]点"
 msgstr ""
-"\\V[72] Points\n"
+"\\V[72] Puntos\n"
 "\n"
-"HI－SCORE　 \\V[76] Points"
+"RECORD　 \\V[76] Puntos"

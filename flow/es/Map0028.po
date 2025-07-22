@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 3, Page 1, Line 5, Pos (9,7)
 #. ID 4, Page 1, Line 5, Pos (11,6)
@@ -18,4 +18,4 @@ msgstr ""
 #. ID 4, Page 3, Line 5, Pos (11,6)
 #. ID 4, Page 4, Line 5, Pos (11,6)
 msgid "　　　　　　　　  .せんすいふく."
-msgstr "　　　　　　　　  .Casco de Buceo."
+msgstr "　　　　　　　　 .Casco de Buceo."

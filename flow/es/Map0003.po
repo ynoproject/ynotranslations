@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 3, Page 1, Line 1, Pos (11,3)
 msgid "ヘッドフォン"
-msgstr "Auriculares"
+msgstr "Audífonos"
 
 #. ID 3, Page 1, Line 3, Pos (11,3)
 #. Contains choice at line 2 (2 options)
@@ -66,7 +66,7 @@ msgstr "Auriculares"
 #. ID 47, Page 1, Line 3, Pos (17,13)
 #. Contains choice at line 2 (2 options)
 msgid "エフェクト破棄"
-msgstr "¿Rechazar Efecto?"
+msgstr "¿Descartar Efecto?"
 
 #. ID 3, Page 1, Line 4, Pos (11,3)
 #. Choice (2 options, embedded in a message)
@@ -173,7 +173,7 @@ msgstr ""
 
 #. ID 3, Page 1, Line 6, Pos (11,3)
 msgid "ヘッドフォン破棄"
-msgstr "Auriculares descartados."
+msgstr "Audífonos descartados."
 
 #. ID 3, Page 1, Line 23, Pos (11,3)
 #. Contains choice at line 2 (2 options)
@@ -229,7 +229,7 @@ msgstr "¿Obtener Efecto?"
 
 #. ID 3, Page 1, Line 26, Pos (11,3)
 msgid "ヘッドフォン取得"
-msgstr "Auriculares obtenidos"
+msgstr "Audífonos obtenidos"
 
 #. ID 8, Page 1, Line 1, Pos (7,1)
 #. Contains choice at line 2 (3 options)
@@ -257,11 +257,11 @@ msgstr "Regadera Descartada"
 
 #. ID 9, Page 1, Line 26, Pos (15,3)
 msgid "じょうろ取得"
-msgstr "Obtención de la regadera"
+msgstr "Regadera Obtenida"
 
 #. ID 10, Page 1, Line 1, Pos (8,1)
 msgid "はやくはしるよ！"
-msgstr "¿Adjustar Velocidad?"
+msgstr "¿Ajustar Velocidad?"
 
 #. ID 10, Page 1, Line 2, Pos (8,1)
 #. Choice (4 options)
@@ -274,15 +274,14 @@ msgstr ""
 "Normal\n"
 "Rapido\n"
 "Muy Rapido\n"
-"Velocidad de los Dioses"
+"Velocidad Extrema"
 
 #. ID 11, Page 1, Line 1, Pos (9,1)
 #. Contains choice at line 2 (2 options)
-#, fuzzy
 msgid "いつでもセーブ可能になるよ！"
 msgstr ""
-"Gain the ability to save anywhere?\n"
-"(Empty 4th slot in Pause Menu)"
+"¿Obtener la habilidad de guardar en cualquier lugar?\n"
+"(Vacía la cuarta ranura en el Menú de Pausa)"
 
 #. ID 11, Page 1, Line 2, Pos (9,1)
 #. Choice (2 options, embedded in a message)
@@ -303,19 +302,19 @@ msgstr "Tubo de Hierro Descartado"
 
 #. ID 12, Page 1, Line 26, Pos (13,3)
 msgid "てつパイプ取得"
-msgstr "Tubo de Hierro obtenido"
+msgstr "Tubo de Hierro Obtenido"
 
 #. ID 15, Page 1, Line 1, Pos (17,3)
 msgid "モノアイ　かわいい"
-msgstr "Un ojo [¡Lindo!]"
+msgstr "Mono Ojo [¡Lindo!]"
 
 #. ID 15, Page 1, Line 6, Pos (17,3)
 msgid "モノアイ破棄"
-msgstr "Un ojo Descartado"
+msgstr "Mono Ojo Descartado"
 
 #. ID 15, Page 1, Line 26, Pos (17,3)
 msgid "モノアイ取得"
-msgstr "Un ojo Obtenido"
+msgstr "Mono Ojo Obtenido"
 
 #. ID 16, Page 1, Line 1, Pos (11,5)
 msgid "せんすいふく　ふく…？"
@@ -358,7 +357,7 @@ msgstr "Escoba Obtenida"
 
 #. ID 20, Page 1, Line 1, Pos (10,1)
 msgid "メニュータイプ変更"
-msgstr "¿Cambiar el tema del menú?"
+msgstr "¿Cambiar el Tipo de Menú?"
 
 #. ID 20, Page 1, Line 2, Pos (10,1)
 #. Choice (4 options)
@@ -368,28 +367,28 @@ msgid ""
 "タイプdot\n"
 "次"
 msgstr ""
-"Menú de flow\n"
-"Menú de Famicom\n"
-"Menú de Punto\n"
+"Menú flow\n"
+"Menú Famicom\n"
+"Menú Puntos\n"
 "Siguiente"
 
 #. ID 20, Page 1, Line 5, Pos (10,1)
 msgid "メニュータイプflow"
 msgstr ""
-"Tema del menú establecido en:\n"
-"Menu de flow"
+"Tipo de Menú establecido:\n"
+"Menú flow"
 
 #. ID 20, Page 1, Line 10, Pos (10,1)
 msgid "メニュータイプfc"
 msgstr ""
-"Menu Theme set to:\n"
-"Menu de Famicom"
+"Tipo de Menú establecido:\n"
+"Menú Famicom"
 
 #. ID 20, Page 1, Line 15, Pos (10,1)
 msgid "メニュータイプドット"
 msgstr ""
-"Tema del menú establecido en:\n"
-"Menu de Punto"
+"Tipo de Menú establecido:\n"
+"Menu Puntos"
 
 #. ID 20, Page 1, Line 19, Pos (10,1)
 #. Choice (4 options)
@@ -400,33 +399,33 @@ msgid ""
 "タイプrust"
 msgstr ""
 "Menú Naranja\n"
-"Menú de las Flores\n"
-"Menú del Azucar\n"
-"Menú del Rust"
+"Menú Floral\n"
+"Menú de Azúcar\n"
+"Menú Rust"
 
 #. ID 20, Page 1, Line 22, Pos (10,1)
 msgid "メニュータイプorange"
 msgstr ""
-"Tema del menú establecido en:\n"
+"Tipo de Menú establecido:\n"
 "Menú Naranja"
 
 #. ID 20, Page 1, Line 27, Pos (10,1)
 msgid "メニュータイプflower"
 msgstr ""
-"Tema del menú establecido en:\n"
-"Menú de Flores"
+"Tipo de Menú establecido:\n"
+"Menú Floral"
 
 #. ID 20, Page 1, Line 32, Pos (10,1)
 msgid "メニュータイプsugar"
 msgstr ""
-"Tema del menú establecido en:\n"
-"Menú de Azucar"
+"Tipo de Menú establecido:\n"
+"Menú de Azúcar"
 
 #. ID 20, Page 1, Line 37, Pos (10,1)
 msgid "メニュータイプrust"
 msgstr ""
-"Tema del menú establecido en:\n"
-"Menú del Rust"
+"Tipo de Menú establecido:\n"
+"Menú Rust"
 
 #. ID 21, Page 1, Line 1, Pos (17,5)
 msgid "ゆうれい"
@@ -447,7 +446,7 @@ msgid ""
 "！！"
 msgstr ""
 "Brazos\n"
-"(Al igual que Monoko: tan lindo, LINDO, LINDO!! \n"
+"(Al igual que Monoko: Tan lindo, LINDO, LINDO!! \n"
 "¡¡¡LINDO!!!)"
 
 #. ID 24, Page 1, Line 8, Pos (13,9)
@@ -476,7 +475,7 @@ msgstr ""
 
 #. ID 25, Page 1, Line 4, Pos (14,1)
 msgid "メニューのとくべつから。"
-msgstr "Acceda a él desde el menú Especial."
+msgstr "Acceda a él desde el Menú Especial."
 
 #. ID 27, Page 1, Line 1, Pos (11,7)
 msgid "ホイッスル"
@@ -511,15 +510,15 @@ msgstr "Máscara de Gas"
 
 #. ID 29, Page 1, Line 6, Pos (3,13)
 msgid "ver.ツインテールon"
-msgstr "Twintail ver. ON!"
+msgstr "Ver. Coletas ENCENDIDA!"
 
 #. ID 29, Page 1, Line 11, Pos (3,13)
 msgid "ver.ツインテールoff"
-msgstr "Twintail ver. OFF!"
+msgstr "Ver. Coletas APAGADA!"
 
 #. ID 31, Page 1, Line 1, Pos (11,9)
 msgid "スライム　ぶよぶよ強化。"
-msgstr "Slime (El burbujeo se intensifica)."
+msgstr "Slime (El burbujeo se intensifica)"
 
 #. ID 31, Page 1, Line 6, Pos (11,9)
 msgid "スライム破棄"
@@ -531,7 +530,7 @@ msgstr "Slime Obtenido"
 
 #. ID 33, Page 1, Line 1, Pos (13,7)
 msgid "ガスマスク　非常に可愛い"
-msgstr "Máscara de Gas (Muy linda.)"
+msgstr "Máscara de Gas (Muy linda)"
 
 #. ID 33, Page 1, Line 6, Pos (13,7)
 msgid "ガスマスク破棄"
@@ -543,7 +542,7 @@ msgstr "Máscara de Gas Obtenida"
 
 #. ID 34, Page 1, Line 1, Pos (15,7)
 msgid "きかい　やっつけかもしれない。"
-msgstr "Máquina (Podría ser de fabricación propia)."
+msgstr "Máquina (Podría ser un invento propio)"
 
 #. ID 34, Page 1, Line 6, Pos (15,7)
 msgid "きかい破棄"
@@ -555,7 +554,7 @@ msgstr "Máquina Obtenida"
 
 #. ID 35, Page 1, Line 1, Pos (15,9)
 msgid "ないぞう　リョナいよ。"
-msgstr "Vísceras (tipo Ryona)."
+msgstr "Vísceras (tipo Ryona)"
 
 #. ID 35, Page 1, Line 6, Pos (15,9)
 msgid "ないぞう破棄"
@@ -587,7 +586,7 @@ msgid ""
 "腐乱死体。"
 msgstr ""
 "Cadáver\n"
-"(Cuerpo Podrido.)"
+"(Cuerpo Pútrido.)"
 
 #. ID 37, Page 1, Line 7, Pos (13,11)
 msgid "したい破棄"
@@ -599,27 +598,27 @@ msgstr "Cadáver Obtenido"
 
 #. ID 38, Page 1, Line 1, Pos (17,9)
 msgid "サイケデリック　"
-msgstr "Psiquedélico"
+msgstr "Psicodélico"
 
 #. ID 38, Page 1, Line 6, Pos (17,9)
 msgid "サイケデリック破棄"
-msgstr "Psiquedélico Descartado"
+msgstr "Psicodélico Descartado"
 
 #. ID 38, Page 1, Line 26, Pos (17,9)
 msgid "サイケデリック取得"
-msgstr "Psiquedélico Obtenido"
+msgstr "Psicodélico Obtenido"
 
 #. ID 39, Page 1, Line 1, Pos (15,11)
 msgid "くろフード"
-msgstr "Capucha Negra"
+msgstr "Sudadera Negra"
 
 #. ID 39, Page 1, Line 6, Pos (15,11)
 msgid "くろフード破棄"
-msgstr "Capucha Negra Descartada"
+msgstr "Sudadera Negra Descartada"
 
 #. ID 39, Page 1, Line 26, Pos (15,11)
 msgid "くろフード取得"
-msgstr "Capucha Negra Obtenida"
+msgstr "Sudadera Negra Obtenida"
 
 #. ID 40, Page 1, Line 1, Pos (17,11)
 msgid "せいふく"
@@ -635,15 +634,15 @@ msgstr "Uniforme Obtenido"
 
 #. ID 42, Page 1, Line 1, Pos (11,13)
 msgid "テレビ"
-msgstr "TV"
+msgstr "Televisión"
 
 #. ID 42, Page 1, Line 6, Pos (11,13)
 msgid "テレビ破棄"
-msgstr "TV Descartado"
+msgstr "Televisión Descartada"
 
 #. ID 42, Page 1, Line 26, Pos (11,13)
 msgid "テレビ取得"
-msgstr "TV Obtenido"
+msgstr "Televisión Obtenida"
 
 #. ID 44, Page 1, Line 1, Pos (13,13)
 msgid "いれずみ"

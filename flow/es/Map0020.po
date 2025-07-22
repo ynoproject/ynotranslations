@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 3, Page 1, Line 5, Pos (34,23)
 #. ID 3, Page 1, Line 10, Pos (34,23)
@@ -45,7 +45,7 @@ msgstr ""
 #. ID 4, Page 1, Line 22, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプflower"
-msgstr "Menú de las Flores"
+msgstr "Menú Floral"
 
 #. ID 4, Page 1, Line 39, Pos (36,25)
 #. Contains choice at line 2 (3 options)
@@ -55,9 +55,9 @@ msgstr "Menú de Azucar"
 #. ID 4, Page 1, Line 56, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプrust"
-msgstr "Menú del Rust"
+msgstr "Menú Rust"
 
 #. ID 4, Page 1, Line 73, Pos (36,25)
 #. Contains choice at line 2 (3 options)
 msgid "メニュータイプsmile"
-msgstr "Menú de Smile"
+msgstr "Menú Smile"
