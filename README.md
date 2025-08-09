@@ -25,6 +25,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * Carbonara - French translations of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, Collective Unconscious, If, Unaccomplished; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
 * Catmat (貓毯) - Porting and maintenance of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * CDMilky - Romanian translation of Yume 2kki
+* chillcicada (寒蝉) - Chinese translation of Muma|Rope
 * CloudyThoughts - Esperanto translation of Yume Nikki
 * Cool Person#8939 (369071 2458) - Finnish translation of Yume Nikki
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
@@ -44,7 +45,8 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * Harti - German translation of Yume Nikki
 * Haruku - Korean translation of .flow
 * Hieshe - Brazilian Portuguese translation of Yume Nikki
-* Kong - Brazilian Portuguese translation of Yume 2kki
+* IStoleThePies - Text correction in the English translation of Yume 2kki
+* Kong - Brazilian Portuguese translation of Yume 2kki, English Yume 2kki Memory Card game
 * Kowinski - Testing of the Russian translation of She Awaits
 * KRBlacky - Korean translations of Yume 2kki, Answered Prayers, Deep Dreams
 * krossower1 - Polish translation of Yume 2kki
@@ -56,7 +58,7 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * Mhhh (Sundance) - Initial French translation of Yume 2kki; French translation of Answered Prayers
 * Midomido - Japanese translation of Answered Prayers, Deep Dreams, Braingirl, Muma|Rope; English translation of the Debug Room in Yume 2kki
 * miikka847 - Finnish translation of Yume Nikki
-* Moucky233 - Chinese translation of Uneven Dream, Collective Unconscious; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
+* Moucky2333 - Chinese translation of Uneven Dream, Collective Unconscious; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
 * Moustluigi - Initial French translation of Yume 2kki
 * nask - Initial French translation of Yume 2kki
 * nekhnona - Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream
@@ -86,4 +88,5 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * YouArentDistorted (yugamineena) - English translation of Ultra Violet, nostAlgic, If; Wavy Up, Gimmick Runner, Plated Snow Country & Library's books for the English translation of Yume 2kki
 * Yume 2kki Chinese Translation Group (梦二记汉化组) - Chinese translation of Yume 2kki
   
-The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, and Chinese version of Unaccomplished, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, and Moucky233.
+The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish version of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
+
