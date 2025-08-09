@@ -1,5 +1,5 @@
 # ynotranslations
-Repository to host translations for the games present on [YNOproject](https://ynoproject.net).
+Repository to host translations for the games present on [YNOproject](https://ynoproject.net). User-submitted translations are welcomed on this repository.
 
 ## Installation Instructions
 These instructions will allow you to use these translations offline.
@@ -7,12 +7,12 @@ These instructions will allow you to use these translations offline.
 ### Requirements
 * Download the [EasyRPG Player](https://easyrpg.org/player/downloads/) (make sure to use the version 0.8.0 or more recent, this info should be displayed on startup).
 * Download the content of this repository (on the main page of the repository, `Code` -> `Download ZIP`).
-* Download one of the games compatible with the translations available. Yume Nikki requires the [English Steam version](https://store.steampowered.com/app/650700/Yume_Nikki/), [Amillusion](https://ynfg.yume.wiki/Amillusion#Download), [Dream Genie](https://ynfg.yume.wiki/Dream_Genie_(梦鬼)#Original), and [FOG](https://rosegorm.itch.io/fog) require their latest English version, and [OneShot requires the EasyRPG adaptation made for YNOproject](https://drive.google.com/file/d/1KQFx1mACXlGNamy1dM2tIZqx2JZNVLDk/view?usp=drive_link). All the other games require to use the latest version released by their author(s) in their original language.
+* Download one of the games compatible with the translations available. Yume Nikki requires the [English Steam version](https://store.steampowered.com/app/650700/Yume_Nikki/), [Amillusion](https://ynfg.yume.wiki/Amillusion#Download), [Dream Genie](https://ynfg.yume.wiki/Dream_Genie_(梦鬼)#Original), and [FOG](https://rosegorm.itch.io/fog) require their latest English version, and [OneShot requires the EasyRPG adaptation made for YNOproject](https://drive.google.com/file/d/1KQFx1mACXlGNamy1dM2tIZqx2JZNVLDk/view?usp=drive_link). All the other games require to use the latest version released by their author(s) in their original language (Yume 2kki can be found [here](https://wikiwiki.jp/yumenikki-g3/), [while the other fangames can be searched here](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki). Make sure to download a complete version, or a complete version and a patch if you want to play Yume 2kki).
 * Download the [RTP of RPG Maker 2000 and/or 2003](https://www.rpgmakerweb.com/run-time-package), if the game requires it. Yume 2kki and Ultra Violet require the RPG Maker 2000 RTP ([preferably in Japanese](https://tkool.jp/products/rtp/2000rtp.zip), otherwise [Yume 2kki will display a warning when saving](https://github.com/EasyRPG/Player/issues/3172), though this doesn't affect the gameplay), while Collective Unconscious and Uneven Dream require the RPG Maker 2003 RTP.
 
 ### Process
 1. Unzip the content of the ynotranslations zip file.
-2. Put the folder containing the translations of the game (named after the name of the game) in the folder of said game (the folder with the MapXXX.lmu files - make sure to put the folder in it, not just its content).
+2. Put the folder containing the translations of the game (named after the name of the game) in the folder of said game (the folder with the MapXXXX.lmu files - make sure to put the folder in it, not just its content).
 3. Rename said folder to `Language`.
 4. Put the executable of the EasyRPG Player in the folder of the game or one of its root directories and start it (in the latter case, after launching the Player, select the folder(s) leading to the game to start it). Some platforms such as homebrews or Android may require to put your games in specific locations rather than where you want, so make sure to follow that too.
 5. Once on the title screen, you should have an option to change the language of the game. Alternatively, in the latest version of the Player, opening the settings menu (accessible by pressing F1 or the Start button of a controller) should display a Language option if the translations are properly installed.
@@ -59,13 +59,13 @@ These instructions will allow you to create a translation for a game. These inst
 10. Check the various folders of the game you want to translate, and locate files containing text you want to translate (for example, pictures in the Picture folder containing instructions).
 11. Add the files you want to translate to the folder of your language, by replicating the file structure (e.g. if you were interested in the file `instructions` in the `Picture` folder, add a `Picture` folder in the folder of your translation, and place your `instructions` file there, while keeping the same filename).
 12. Translate the files you need to translate using the appropriate tools (e.g. picture file editor to edit pictures). Make sure to not alter the colours used while editing your picture, to not change the colour used as the first placement in the index (this colour is used for transparency if the command calling it in-game is set to use transparency, so altering it would lead to display issues), and to respect how the original picture looks and how it should look whenever possible (graphy, colours used...).
-13. Test your translation (see the next section).
+13. Test your translation (see the next section), by placing the EasyRPG Player in the folder of the game (or below it), and launching it.
 14. If everything is translated and works correctly, you can create a pull request to include your content in this repository.
 
 ### Testing Process
-- Test each place where text is displayed and where translated assets are used. This includes the menu, save menu, load menu all characters/items/skills used in the game, and more globally every place where the game uses text.
+- Test each place where text is displayed and where translated assets are used. This includes the menu, save menu, load menu, all characters/items/skills used in the game, and more globally every place where the game uses text.
 - Make sure each line is translated.
-- Make sure each is displayed entirely and is not cut, unless intended.
+- Make sure each line is displayed entirely and is not cut, unless intended.
 - Make sure no text markers were forgotten.
 - Make sure every asset is properly displayed.
 - Make sure every asset is properly set to be transparent when it should, and set to not be transparent when it should not.
@@ -79,7 +79,7 @@ These instructions will allow you to create a translation for a game. These inst
 
 ### Updating a Translation when a Game is Updated
 1. Check the various folders of the game in search of assets to translate, and compare them with the ones you have in your translation: if one doesn't match with the latest version (no longer present, renamed, updated), make sure it matches with the latest version (delete, rename, update).
-2. Use lcftrans' update command on your po files (see the [EasyRPG Translation Guide](https://easyrpg.org/player/guide/game_translation/)), by comparing the lines with the one of the latest version of the game, and use the updated po files made from this command in your translation. When updating po files, stale po files may be generated: those include lines that were translated in your translation, but are no longer present in the latest version, either due to the text getting modified (typo correction/change of formulation), or simply due to the lines getting removed. You can use those stale files as a basis if the lines they contain are still used some way or another in the latest version, but do not include them in your translation as they do not do anything.
+2. Use lcftrans' update command on your po files (see the [EasyRPG Translation Guide](https://easyrpg.org/player/guide/game_translation/)), by comparing the lines with the one of the latest version of the game, and use the updated po files made from this command in your translation. When updating po files, stale po files may be generated: those include lines that were translated in your translation, but are no longer present in the latest version, either due to the text getting modified (typo correction/change of formulation), or simply due to the lines getting removed. You can use those stale files as a basis if the lines they contain are still used some way or another in the latest version, but do not include those files in your translation as they do not do anything.
 3. Update the content of those po files by translating the needed lines.
 4. Test your translation (see the previous section).
 5. If everything is translated and works correctly, you can create a pull request to include your content in this repository.
@@ -89,9 +89,13 @@ Q: The game crashes with an error "Language/{LANGUAGE}/{FILE}.po Parse error (Li
 
 A: This happens if the po file was edited without respecting the syntax. Edit the line mentioned in the error to make it respect the syntax of the file, then try to open your translation, it should now work without issues.
 
+Q: I wrote the content of the Meta.ini file properly, but it is not used in-game!
+
+A: Make sure your Meta.ini file is not saved as UTF-16: you can use UTF-8 to save it.
+
 Q: One of the translated pictures I use lacks transparency when it should be transparent on specific parts, or is transparent while it should not!
 
-A: The colour used as the transparent colour is determined depending on the order of colours in the index: the first one in the list is the one that is used for the transparency. Move the colour intended to be transparent in the original file at the same location in your translated filed to solve the issue.
+A: The colour used as the transparent colour is determined depending on the order of colours in the index: the first one in the list is the one that is used for the transparency. Move the colour intended to be transparent in the original file at the same location in your translated file to solve the issue.
 
 Q: Is there any efficient way to center a text?
 
@@ -101,7 +105,7 @@ Q: The game in its original language uses a specific font, but I would like to u
 
 A: You can add `Font=Builtin` in the Meta.ini of your translation to make it use the default font of the engine. Alternatively, you can place a font file named `Font` or `Font2` in the `Font` folder of your translation to use a specific font.
 
-Q: Is it possible to translate the lines used for the settings menu, the warnings, when closing the game...?
+Q: Is it possible to translate the lines used for the settings menu, the warnings, the message when closing the game...?
 
 A: No. Those lines are taken directly from the EasyRPG Player and are not part of the game, [and no translation as part of the Player is provided at the moment](https://github.com/EasyRPG/Player/issues/3100).
 
@@ -109,20 +113,16 @@ Q: Is it possible to make the game automatically start in the last used language
 
 A: Not at the moment, [though it may (or may not) happen in the future](https://github.com/EasyRPG/Player/pull/3348).
 
-### Resources
-
-MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may expect them to appear in some pictures (used for the intro text in Yume 2kki, the menu in the Platformer World, the text at the bottom of the title screen, for instance). Other fonts may have been hand-drawn for the game and/or translation, or uses a font which is not known.
+### Font Resources for Pictures
+MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may expect them to appear in some pictures (used for the intro text in Yume 2kki, the menu in the Platformer World, the text at the bottom of the title screen, for instance). Other fonts may have been hand-drawn for the game and/or translation, or use a font which is not known.
 
 - Yume 2kki: the font [k8x12s by Num Kadoma](https://fontmeme.com/fonts/k8x12-font/#previewtool) is used for the press any key text during the intro.
 - Uneven Dream: the font for the loading screen is [URW Antiqua](https://ctan.org/tex-archive/fonts/urw/antiqua?lang=en).
 - She Awaits: the font [Rainy Hearts by Camellina](https://www.dafont.com/rainyhearts.font) is used for the instructions.
 - FOG: the font [Chango by Fontstage](https://fonts.google.com/specimen/Chango) is used for the line "a dreamFOG game" in the credits; [Press Start 2P by CodeMan38](https://fonts.google.com/specimen/Press+Start+2P) for the rest of the credits; [TeX Gyre Adventor by Herb Lubalin and Tom Carnase](https://www.1001fonts.com/tex-gyre-adventor-font.html) for the "The Seven Dreamers will return." line. The small type lettering uses its own separate font.
 
-
 ## Credits
-
 ### Translation
-
 * aku - Library's books for the English translation of Yume 2kki
 * Aya - Initial French translation of Yume 2kki
 * bathynomus - Brazilian Portuguese translation of Collective Unconscious
@@ -195,8 +195,15 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish version of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
 
 ### Special Thanks
-
 * [EasyRPG Player Developers](https://github.com/EasyRPG/Player/blob/master/docs/AUTHORS.md)
 * tiesinto - README help and feeback
 
-
+## Related Links
+* [YNOproject](https://ynoproject.net/)
+* [YNOproject Discord](https://ynoproject.net/discord)
+* [YNOproject Tumblr](https://tumblr.com/ynoproject)
+* [YNOproject X (previously Twitter)](https://twitter.com/ynoproject)
+* [Yume Wiki](https://yume.wiki/Main_Page)
+* [Yume Nikki Fangames Wiki](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki)
+* [EasyRPG.org](https://easyrpg.org/)
+* [EasyRPG Wiki](https://wiki.easyrpg.org/)
