@@ -75,6 +75,9 @@ After this, the RTP should be installed, and EasyRPG Player should be able to de
 
 
 ## Credits
+
+### Translation
+
 * aku - Library's books for the English translation of Yume 2kki
 * Aya - Initial French translation of Yume 2kki
 * bathynomus - Brazilian Portuguese translation of Collective Unconscious
@@ -146,5 +149,9 @@ After this, the RTP should be installed, and EasyRPG Player should be able to de
   
 The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish version of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
 
+### Special Thanks
+
+* [EasyRPG Player Developers](https://github.com/EasyRPG/Player/blob/master/docs/AUTHORS.md)
+* tiesinto - README help and feeback
 
 
