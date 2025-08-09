@@ -7,16 +7,23 @@ These instructions will allow you to use these translations offline.
 ### Requirements
 * Download and install the [EasyRPG Player](https://easyrpg.org/player/downloads/) (make sure to use the version 0.8.0 or more recent, this info should be displayed on startup)
 * Download the content of the repository (on the main page of the repository, `Code` -> `Download ZIP`)
-* Download one of the games compatible with the translations available (Yume Nikki requires the [English Steam version](https://store.steampowered.com/app/650700/Yume_Nikki/), Amillusion requires the [latest English version](https://ynfg.yume.wiki/Amillusion#Download) and Dream Genie requires the [latest English version](https://ynfg.yume.wiki/Dream_Genie_(梦鬼)#Original), all the other games require to use the latest version released by their author(s) in their original language)
+* Download one of the games compatible with the translations available. Yume Nikki requires the [English Steam version](https://store.steampowered.com/app/650700/Yume_Nikki/), [Amillusion](https://ynfg.yume.wiki/Amillusion#Download), [Dream Genie](https://ynfg.yume.wiki/Dream_Genie_(梦鬼)#Original), and [FOG](https://rosegorm.itch.io/fog) require their latest English version, and [OneShot requires the EasyRPG adaptation made for YNOproject](https://drive.google.com/file/d/1KQFx1mACXlGNamy1dM2tIZqx2JZNVLDk/view?usp=drive_link). All the other games require to use the latest version released by their author(s) in their original language.
+* Download the [RTP of RPG Maker 2000 and/or 2003](https://www.rpgmakerweb.com/run-time-package), if the game requires it. Yume 2kki and Ultra Violet require the RPG Maker 2000 RTP ([preferably in Japanese](https://tkool.jp/products/rtp/2000rtp.zip), otherwise [Yume 2kki will display a warning when saving](https://github.com/EasyRPG/Player/issues/3172), though this doesn't affect the gameplay), while Collective Unconscious and Uneven Dream require the RPG Maker 2003 RTP.
 
 ### Process
-1. Unzip the content of the ynotranslations zip
-2. Put the folder containing the translations of the game (named after the name of the game) in the folder of said game (the folder with the MapXXX.lmu files - make sure to put the folder in it, not just its content)
-3. Rename said folder to `Language`
-4. Put the executable of the EasyRPG Player in the folder of the game or one of its root directories and start it (in the latter case, after launching the Player, select the folders leading to the game to start it)
-5. Once on the title screen, you should have an option to change the language of the game
+1. Unzip the content of the ynotranslations zip file.
+2. Put the folder containing the translations of the game (named after the name of the game) in the folder of said game (the folder with the MapXXX.lmu files - make sure to put the folder in it, not just its content).
+3. Rename said folder to `Language`.
+4. Put the executable of the EasyRPG Player in the folder of the game or one of its root directories and start it (in the latter case, after launching the Player, select the folder(s) leading to the game to start it). Some platforms such as homebrews or Android may require to put your games in specific locations rather than where you want, so make sure to follow that too.
+5. Once on the title screen, you should have an option to change the language of the game. Alternatively, in the latest version of the Player, opening the settings menu (accessible by pressing F1 or the Start button of a controller) should display a Language option if the translations are properly installed.
 
-If you want to use a translation for the game Braingirl, you will need to pass the argument `--language {LANGUAGE}` to the executable (where `{LANGUAGE}` is the name of the folder of the translation wanted), which will launch the game directly in the selected language without having to use the language menu. Note that using this argument to start a game without a `Language` folder will force the Player to close, so make sure to not use it in said case.
+If you want to use a translation for the game Braingirl or OneShot, change the language through the settings menu if you are using an up to date version of the Player, or alternatively, you will need to pass the argument `--language {LANGUAGE}` to the executable (where `{LANGUAGE}` is the name of the folder of the translation wanted), which will launch the game directly in the selected language without having to use the language menu (using this argument to start a game without a `Language` folder will force older versions of the Player to close, so make sure to not use it in said case).
+
+### Installing the RTP
+This part assumes you are installing the RTP on Windows. If you are not, please refer to the [RTP page of the EasyRPG Wiki](https://wiki.easyrpg.org/user/player/rtp) for more specific details for your platform. If you want to install a Japanese RTP, you will need to use a locale application emulator such as [Locale Emulator](https://xupefei.github.io/Locale-Emulator/), or change the locale of your OS when launching the installer, otherwise the installation will fail at 44%.
+1. Use the wizard installer given with the RTP download.
+2. Process through the installation.
+After this, the RTP should be installed, and EasyRPG Player should be able to detect it on the next launch.
 
 ## Credits
 * aku - Library's books for the English translation of Yume 2kki
@@ -89,4 +96,5 @@ If you want to use a translation for the game Braingirl, you will need to pass t
 * Yume 2kki Chinese Translation Group (梦二记汉化组) - Chinese translation of Yume 2kki
   
 The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish version of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
+
 
