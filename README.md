@@ -166,7 +166,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Moustluigi - Initial French translation of Yume 2kki
 * nask - Initial French translation of Yume 2kki
 * nekhnona - Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream
-* Nex0.10 - Porting of the Chinese translation of Dream Genie
+* Nex0.10 - Porting of the text from the Chinese translation of Dream Genie
 * Niko (Нико) - Spanish translations of Answered Prayers, Muma|Rope, .flow; Spanish translation of Yume 2kki
 * nimiala - Toki Pona translations of Yume Nikki, Yume 2kki
 * Nulsdodage (Wavyup) - Korean translation of Yume 2kki, Someday, English translation of Mikan Muzou
@@ -207,3 +207,4 @@ The Japanese version of Yume Nikki, Spanish version of Someday, French and Japan
 * [Yume Nikki Fangames Wiki](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki)
 * [EasyRPG.org](https://easyrpg.org/)
 * [EasyRPG Wiki](https://wiki.easyrpg.org/)
+
