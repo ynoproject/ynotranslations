@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: muzou_ver0.03\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: aosagi <zapperdragon2003@gmail.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.7\n"
+
+#. ID 70, Line 5
+msgid "\\$ \\^"
+msgstr ""
+
+#. ID 192, Line 8
+#. Choice (2 options)
+msgid ""
+"クイックセーブ\n"
+"場所移動"
+msgstr ""
+"Lưu nhanh dữ liệu\n"
+"Di chuyển vị trí"
+
+#. ID 192, Line 13
+#. Choice (4 options)
+msgid ""
+"廃屋\n"
+"偏頭痛\n"
+"厭世\n"
+"未定"
+msgstr ""
