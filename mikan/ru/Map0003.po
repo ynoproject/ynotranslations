@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mikan Muzou\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: 0d1an\n"
+"Language-Team: 0d1an\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+#. ID 2, Page 3, Line 5, Pos (14,9)
+msgid ""
+"！古いバージョンのデータ！\n"
+"データを引き継いで続行しますか？\n"
+"引き継いで続行する場合、\n"
+"予期せぬ不具合が発生する可能性があります。"
+msgstr ""
+"!! Обнаружен старый файл сохранения  !!\n"
+"Хотите ли продолжить со старыми данными?\n"
+"Если вы продолжите, могут произойти непредвиденные ошибки."
+
+#. ID 2, Page 3, Line 9, Pos (14,9)
+#. Choice (2 options)
+msgid ""
+"続行\n"
+"タイトルに戻る"
+msgstr ""
+"Продолжить\n"
+"Вернуться в главное меню"
