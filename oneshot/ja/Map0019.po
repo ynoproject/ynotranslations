@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 1, Page 1, Line 2, Pos (35,36)
+msgid "It's labeled \"mineral refinery\"."
+msgstr "「鉱物精錬機」って書いてあるよ。"
+
+#. ID 3, Page 1, Line 2, Pos (37,36)
+msgid ""
+"It's labeled \"garbage compactor\".\\!\n"
+"\"Specifically designed for\n"
+"heavy-duty crushing of metals.\""
+msgstr ""
+"「廃棄物圧縮機」\\!\n"
+"「特に金属類の強力破砕用」って\n"
+"書かれてる。"
+
+#. ID 3, Page 2, Line 3, Pos (37,36)
+msgid ""
+"Perhaps I can flatten one\n"
+"end of this pole with this\n"
+"compactor."
+msgstr ""
+"この圧縮機で鉄パイプの先を平らに\n"
+"できるかも。"
+
+#. ID 3, Page 2, Line 7, Pos (37,36)
+msgid "Wow, it really worked..."
+msgstr "わあ、ほんとにうまくいった…"
+
+#. ID 6, Page 1, Line 2, Pos (19,29)
+msgid ""
+"Hey sweetie,\n"
+"\n"
+"Six more weeks until you can come home!\n"
+"Are you excited?"
+msgstr ""
+"元気にしてるかしら。\n"
+"\n"
+"あと6週間で帰ってこられるわね！\n"
+"楽しみかしら？"
+
+#. ID 6, Page 1, Line 7, Pos (19,29)
+msgid ""
+"Surely you're sick of living in that awful \n"
+"capsule wall... thing!\n"
+"I bet you can't wait to sleep in a real bed and\n"
+"eat real food again!"
+msgstr ""
+"カプセル壁だか知らないけど、そんな最悪\n"
+"なところで暮らすのはきっとうんざりよね！\n"
+"本物のベッドで寝て、本物の食べ物を食べ\n"
+"られるようになるのが待ちきれないわよね！"
+
+#. ID 6, Page 1, Line 12, Pos (19,29)
+msgid ""
+"Write back soon!\n"
+"\n"
+"                          -love, mom."
+msgstr ""
+"返事を待ってるから!\n"
+"\n"
+"                          ママより"
+
+#. ID 23, Page 1, Line 2, Pos (24,30)
+msgid "It's beyond repair..."
+msgstr "直せそうにないね…"
+
+#. ID 24, Page 1, Line 2, Pos (35,37)
+msgid "It's a pair of gloves."
+msgstr "手袋だ。"
+
+#. ID 24, Page 1, Line 3, Pos (35,37)
+msgid "They're a bit heavy."
+msgstr "少し重たい。"
+
+#. ID 25, Page 1, Line 2, Pos (36,36)
+msgid ""
+"It looks like a solar panel.\\!\n"
+"I think by just being near it,\n"
+"the lightbulb is powering these\n"
+"machines."
+msgstr ""
+"ソーラーパネルかな。\\!\n"
+"近くにいるだけで、電球の光で機械を\n"
+"動かせるみたい。"

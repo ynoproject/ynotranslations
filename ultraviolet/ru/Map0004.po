@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultra Violet\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight <->\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.2\n"
+
+#. ID 9, Page 1, Line 1, Pos (10,3)
+msgid ""
+"\\>エフェクト★うさぎ★です。\n"
+"\\>エフェ動作でウサギに変身します。"
+msgstr ""
+"\\> Эффект *Заяц*.\n"
+"\\>Позволяет превратиться в Зайца."
+
+#. ID 9, Page 1, Line 3, Pos (10,3)
+#. Contains choice at line 2 (2 options)
+#. ID 21, Page 1, Line 3, Pos (12,3)
+#. Contains choice at line 2 (2 options)
+#. ID 23, Page 1, Line 3, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+#. ID 37, Page 1, Line 3, Pos (13,3)
+#. Contains choice at line 2 (2 options)
+#. ID 46, Page 1, Line 4, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+#. ID 71, Page 1, Line 3, Pos (18,3)
+#. Contains choice at line 2 (2 options)
+#. ID 73, Page 1, Line 3, Pos (13,5)
+#. Contains choice at line 2 (2 options)
+#. ID 76, Page 1, Line 3, Pos (16,3)
+#. Contains choice at line 2 (2 options)
+#. ID 79, Page 1, Line 4, Pos (16,5)
+#. Contains choice at line 2 (2 options)
+#. ID 81, Page 1, Line 3, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+#. ID 86, Page 1, Line 3, Pos (17,5)
+#. Contains choice at line 2 (2 options)
+#. ID 88, Page 1, Line 5, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+#. ID 96, Page 1, Line 4, Pos (18,5)
+#. Contains choice at line 2 (2 options)
+#. ID 97, Page 1, Line 3, Pos (15,5)
+#. Contains choice at line 2 (2 options)
+#. ID 99, Page 1, Line 4, Pos (17,3)
+#. Contains choice at line 2 (2 options)
+#. ID 100, Page 1, Line 3, Pos (10,7)
+#. Contains choice at line 2 (2 options)
+#. ID 135, Page 1, Line 3, Pos (15,3)
+#. Contains choice at line 2 (2 options)
+msgid "\\>入手しますか？"
+msgstr "\\>Взять?"
+
+#. ID 9, Page 1, Line 4, Pos (10,3)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 4, Pos (12,3)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 4, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+#. ID 37, Page 1, Line 4, Pos (13,3)
+#. Choice (2 options, embedded in a message)
+#. ID 46, Page 1, Line 5, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 71, Page 1, Line 4, Pos (18,3)
+#. Choice (2 options, embedded in a message)
+#. ID 73, Page 1, Line 4, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+#. ID 76, Page 1, Line 4, Pos (16,3)
+#. Choice (2 options, embedded in a message)
+#. ID 79, Page 1, Line 5, Pos (16,5)
+#. Choice (2 options, embedded in a message)
+#. ID 81, Page 1, Line 4, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 86, Page 1, Line 4, Pos (17,5)
+#. Choice (2 options, embedded in a message)
+#. ID 88, Page 1, Line 6, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 96, Page 1, Line 5, Pos (18,5)
+#. Choice (2 options, embedded in a message)
+#. ID 99, Page 1, Line 5, Pos (17,3)
+#. Choice (2 options, embedded in a message)
+#. ID 100, Page 1, Line 4, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+#. ID 135, Page 1, Line 4, Pos (15,3)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>する\n"
+"\\>しない"
+msgstr ""
+"\\>Брать\n"
+"\\>Не брать"
+
+#. ID 9, Page 1, Line 6, Pos (10,3)
+msgid "\\>エフェクト★うさぎ★を入手しました。"
+msgstr "\\>Вы взяли *Зайца*."
+
+#. ID 9, Page 1, Line 13, Pos (10,3)
+#. ID 21, Page 1, Line 12, Pos (12,3)
+#. ID 23, Page 1, Line 12, Pos (10,5)
+#. ID 37, Page 1, Line 12, Pos (13,3)
+#. ID 46, Page 1, Line 13, Pos (11,5)
+#. ID 71, Page 1, Line 12, Pos (18,3)
+#. ID 73, Page 1, Line 12, Pos (13,5)
+#. ID 76, Page 1, Line 12, Pos (16,3)
+#. ID 79, Page 1, Line 13, Pos (16,5)
+#. ID 81, Page 1, Line 12, Pos (12,5)
+#. ID 86, Page 1, Line 12, Pos (17,5)
+#. ID 88, Page 1, Line 14, Pos (11,3)
+#. ID 96, Page 1, Line 13, Pos (18,5)
+#. ID 97, Page 1, Line 12, Pos (15,5)
+#. ID 99, Page 1, Line 13, Pos (17,3)
+#. ID 100, Page 1, Line 12, Pos (10,7)
+#. ID 135, Page 1, Line 12, Pos (15,3)
+msgid "\\>キャンセルしました。"
+msgstr "\\>Отмена действия."
+
+#. ID 9, Page 2, Line 7, Pos (10,3)
+msgid "\\>エフェクト★うさぎ★を破棄しました。"
+msgstr "\\>Эффект *Заяц* отнят."
+
+#. ID 11, Page 1, Line 1, Pos (12,1)
+#. Choice (4 options)
+msgid ""
+"\\>速度：ふつう\n"
+"\\>速度：はやい\n"
+"\\>速度：はやいはやい\n"
+"\\>速度：おお、はやいはやい"
+msgstr ""
+"\\>Скорость: Нормально\n"
+"\\>Скорость: Быстро\n"
+"\\>Скорость: Быстрее\n"
+"\\>Скорость: Ещё быстрее"
+
+#. ID 12, Page 1, Line 1, Pos (13,1)
+#. Choice (3 options)
+msgid ""
+"\\>エフェクト全入手\n"
+"\\>エフェクト全破棄\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Получить все эффекты\n"
+"\\>Удалить все эффекты\n"
+"\\>Отмена"
+
+#. ID 12, Page 1, Line 90, Pos (13,1)
+msgid "\\>エフェクトを全て入手しました。"
+msgstr "\\>Все эффекты выданы."
+
+#. ID 12, Page 1, Line 113, Pos (13,1)
+msgid "\\>エフェクトを全て破棄しました。"
+msgstr "\\>Все эффекты отняты."
+
+#. ID 21, Page 1, Line 1, Pos (12,3)
+msgid ""
+"\\>エフェクト★ケーキ★です。\n"
+"\\>エフェ動作で、完全にケーキです。"
+msgstr ""
+"\\> Эффект *Торт*.\n"
+"\\>Позволяет превратиться в торт."
+
+#. ID 21, Page 1, Line 6, Pos (12,3)
+msgid "\\>エフェクト★ケーキ★を入手しました。"
+msgstr "\\>Вы взяли *Торт*."
+
+#. ID 21, Page 2, Line 6, Pos (12,3)
+msgid "\\>エフェクト★ケーキ★を破棄しました。"
+msgstr "\\>Эффект *Торт* отнят."
+
+#. ID 22, Page 1, Line 2, Pos (7,1)
+msgid ""
+"\\>デバッグルームへ　\\|とうこそ！\n"
+"\\>本作品のダウンロード、誠にありがとうございます。\n"
+"\\>この場を借りて、感謝の意を表させていただきます。"
+msgstr ""
+"\\>Добро пожаловать...\\| в Комнату Отладки!\n"
+"\\>Мне хочется поблагодарить вас за то, что решили\n"
+"\\>ознакомиться с моей игрой."
+
+#. ID 22, Page 1, Line 5, Pos (7,1)
+msgid ""
+"\\>ごちゃごちゃして少々見苦しいかと思いますが、\n"
+"\\>ゆっくりして行って下さい。"
+msgstr ""
+"\\>Мне игра кажется не идеальной, ибо организация\n"
+"\\>у игры так себе. Прошу отнестись с пониманием."
+
+#. ID 23, Page 1, Line 1, Pos (10,5)
+msgid ""
+"\\>エフェクト★くびなし★です。\n"
+"\\>エフェ動作でグラフィックが若干変化します。"
+msgstr ""
+"\\> Эффект *Безголовая*\n"
+"\\>Отображение персонажа немного изменится."
+
+#. ID 23, Page 1, Line 6, Pos (10,5)
+msgid "\\>エフェクト★くびなし★を入手しました。"
+msgstr "\\>Вы взяли *Безголовую*."
+
+#. ID 23, Page 2, Line 6, Pos (10,5)
+msgid "\\>エフェクト★くびなし★を破棄しました。"
+msgstr "\\>Эффект *Безголовая* отнят."
+
+#. ID 27, Page 1, Line 2, Pos (18,14)
+msgid "\\>こちら側は一時消去されないお金イベントです。"
+msgstr "\\>Здесь находятся события для удаления денег."
+
+#. ID 30, Page 1, Line 1, Pos (15,1)
+#. Choice (4 options)
+msgid ""
+"\\>￥1000増加\n"
+"\\>￥5000増加\n"
+"\\>￥10000増加\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Добавить 1000 Йен\n"
+"\\>Добавить 5000 Йен\n"
+"\\>Добавить 10000 Йен\n"
+"\\>Отмена"
+
+#. ID 32, Page 1, Line 1, Pos (16,1)
+#. Choice (3 options)
+msgid ""
+"\\>夢日記帳取得\n"
+"\\>夢日記帳破棄\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Выдать Дневник сновидений\n"
+"\\>Забрать Дневник сновидений\n"
+"\\>Отмена"
+
+#. ID 34, Page 1, Line 2, Pos (18,11)
+msgid ""
+"\\>ランダムでお金を拾えるイベントです。\n"
+"\\>左側：調べて起動　右側：通過した時に起動。\n"
+"\\>起動した時点で一時消去されます。"
+msgstr ""
+"\\>Это событие случайно выдаёт деньги\n"
+"\\>Лево: Дать при осмотре. Право: Дать при проходе.\n"
+"\\>При запуске, событие временно удалится."
+
+#. ID 36, Page 1, Line 2, Pos (10,12)
+msgid ""
+"\\>あんまりジュース飲みまくったら、\n"
+"\\>トイレに近なんで。お腹もたぷんたぷんなるし。\n"
+"\\>自重しいや。"
+msgstr ""
+"\\>Если выпьешь слишком много сока,\n"
+"\\>туалет там, неподалёку. Я уже до предела.\n"
+"\\>Эх-х-х..."
+
+#. ID 37, Page 1, Line 1, Pos (13,3)
+msgid ""
+"\\>エフェクト★コートとマフラー★です。\n"
+"\\>エフェ動作で見た目が僅かに変化。"
+msgstr ""
+"\\> Эффект *Шарф с Пальто*.\n"
+"\\>Внешность немного меняется с перемещением."
+
+#. ID 37, Page 1, Line 6, Pos (13,3)
+msgid "\\>エフェクト★コートとマフラー★を入手しました。"
+msgstr "\\>Вы взяли *Шарф с Пальто*."
+
+#. ID 37, Page 2, Line 7, Pos (13,3)
+msgid "\\>エフェクト★コートとマフラー★を破棄しました。"
+msgstr "\\>Эффект *Шарф с Пальто* отнят."
+
+#. ID 43, Page 1, Line 2, Pos (0,0)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　violet\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"Фиолетовый\".\n"
+"\\>Сменить?"
+
+#. ID 43, Page 1, Line 4, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 47, Page 1, Line 4, Pos (0,1)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 4, Pos (0,2)
+#. Choice (2 options, embedded in a message)
+#. ID 55, Page 1, Line 4, Pos (0,3)
+#. Choice (2 options, embedded in a message)
+#. ID 68, Page 1, Line 4, Pos (0,4)
+#. Choice (2 options, embedded in a message)
+#. ID 77, Page 1, Line 4, Pos (0,5)
+#. Choice (2 options, embedded in a message)
+#. ID 78, Page 1, Line 4, Pos (0,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"します\n"
+"しません"
+msgstr ""
+"Сменить\n"
+"Не менять"
+
+#. ID 43, Page 1, Line 7, Pos (0,0)
+msgid "\\>タイプ　Violet に変更しました！"
+msgstr "\\>Стиль \"Фиолетовый\" установлен!"
+
+#. ID 46, Page 1, Line 1, Pos (11,5)
+msgid ""
+"\\>エフェクト★ほうでんとう★です。\n"
+"\\>エフェ動作でON・OFFの切り替えです。\n"
+"\\>ONで暗闇マップを明るく照らします。"
+msgstr ""
+"\\> Эффект *Лампа*.\n"
+"\\>Кнопка действия переключает эффект.\n"
+"\\>Включите эффект, чтобы осветить тёмную карту."
+
+#. ID 46, Page 1, Line 7, Pos (11,5)
+msgid "\\>エフェクト★ほうでんとう★を入手しました。"
+msgstr "\\>Вы взяли *Лампу*."
+
+#. ID 46, Page 2, Line 6, Pos (11,5)
+msgid "\\>エフェクト★ほうでんとう★を破棄しました。"
+msgstr "\\>Эффект *Лампы* отнят."
+
+#. ID 47, Page 1, Line 2, Pos (0,1)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　monochrome\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"\".\n"
+"\\>Сменить?"
+
+#. ID 47, Page 1, Line 7, Pos (0,1)
+msgid "\\>タイプ　monochrome に変更しました！"
+msgstr "\\>Стиль \"Монохромный\" установлен!"
+
+#. ID 50, Page 1, Line 2, Pos (0,2)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　silver\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"Серебрянный\".\n"
+"\\>Сменить?"
+
+#. ID 50, Page 1, Line 7, Pos (0,2)
+msgid "\\>タイプ　silver に変更しました！"
+msgstr "\\>Стиль \"Серебрянный\" установлен!"
+
+#. ID 55, Page 1, Line 2, Pos (0,3)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　orange\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"Оранжевый\".\n"
+"\\>Сменить?"
+
+#. ID 55, Page 1, Line 7, Pos (0,3)
+msgid "\\>タイプ　orange に変更しました！"
+msgstr "\\>Стиль \"Оранжевый\" установлен!"
+
+#. ID 64, Page 1, Line 2, Pos (8,12)
+msgid ""
+"\\>自動販売機。\n"
+"\\>所持金が\\c[1]120円\\c[0]以上で\n"
+"\\>ジュース購入可\n"
+"\\>ver0.05よりステータス上昇効果アリ。"
+msgstr ""
+"\\>Торговый автомат\n"
+"\\>За 120 Йен вы можете купить сок.\n"
+"\\>Начиная с версии 0.05, так-же вы \n"
+"\\>получите прибавку к характеристикам."
+
+#. ID 67, Page 1, Line 1, Pos (17,1)
+#. Choice (3 options)
+msgid ""
+"\\>デバッグ用メニュー追加\n"
+"\\>デバッグ用メニュー消滅\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Добавить меню отладки\n"
+"\\>Удалить меню отладки\n"
+"\\>Отмена"
+
+#. ID 68, Page 1, Line 2, Pos (0,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　cookie\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"Печенье\".\n"
+"\\>Сменить?"
+
+#. ID 68, Page 1, Line 7, Pos (0,4)
+msgid "\\>タイプ　cookie に変更しました！"
+msgstr "\\>Стиль \"Печенье\" установлен!"
+
+#. ID 71, Page 1, Line 1, Pos (18,3)
+msgid ""
+"\\>エフェクト★ショートヘアー★です。\n"
+"\\>エフェ動作で座り込みます。"
+msgstr ""
+"\\> Эффект *Короткая стрижка*.\n"
+"\\>Вы можете сесть действием эффекта."
+
+#. ID 71, Page 1, Line 6, Pos (18,3)
+msgid "\\>エフェクト★ショートヘアー★を入手しました。"
+msgstr "\\>Вы взяли *Короткую стрижку*."
+
+#. ID 71, Page 2, Line 6, Pos (18,3)
+msgid "\\>エフェクト★ショートヘアー★を破棄しました。"
+msgstr "\\>Эффект *Короткой стрижки* отнят."
+
+#. ID 73, Page 1, Line 1, Pos (13,5)
+msgid ""
+"\\>エフェクト★たまご★です。\n"
+"\\>エフェ動作で扉部屋に戻ることが出来ます。"
+msgstr ""
+"\\> Эффект *Яйцо*.\n"
+"\\>Действие эффекта может вернуть вас в нексус."
+
+#. ID 73, Page 1, Line 6, Pos (13,5)
+msgid "\\>エフェクト★たまご★を入手しました。"
+msgstr "\\>Вы взяли *Яйцо*."
+
+#. ID 73, Page 2, Line 6, Pos (13,5)
+msgid "\\>エフェクト★たまご★を破棄しました。"
+msgstr "\\>Эффект *Яйцо* отнят."
+
+#. ID 76, Page 1, Line 1, Pos (16,3)
+msgid ""
+"\\>エフェクト★まじょ★です。\n"
+"\\>エフェ動作で箒に乗ります。移動速度も上昇。"
+msgstr ""
+"\\> Эффект *Волшебница*.\n"
+"\\>Действие - Сесть на метлу. Увеличивает скорость."
+
+#. ID 76, Page 1, Line 6, Pos (16,3)
+msgid "\\>エフェクト★まじょ★を入手しました。"
+msgstr "\\>Вы взяли *Волшебницу*."
+
+#. ID 76, Page 2, Line 6, Pos (16,3)
+msgid "\\>エフェクト★まじょ★を破棄しました。"
+msgstr "\\>Эффект *Волшебницы* отнят."
+
+#. ID 77, Page 1, Line 2, Pos (0,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"Гексен\".\n"
+"\\>Сменить?"
+
+#. ID 77, Page 1, Line 7, Pos (0,5)
+msgid "\\>タイプ　hexe に変更しました！"
+msgstr "\\>Стиль \"Гексен\" установлен!"
+
+#. ID 78, Page 1, Line 2, Pos (0,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ウィンドウタイプ　hexe violett\n"
+"\\>変更しますか？"
+msgstr ""
+"\\>Стиль меню \"Фиолетовый Гексен\".\n"
+"\\>Сменить?"
+
+#. ID 78, Page 1, Line 7, Pos (0,6)
+msgid "\\>タイプ　hexe violett に変更しました！"
+msgstr "\\>Стиль \"Фиолетовый Гексен\" установлен!"
+
+#. ID 79, Page 1, Line 1, Pos (16,5)
+msgid ""
+"\\>エフェクト★しっけんけん★です。\n"
+"\\>エフェ動作で雪を降らせます。\n"
+"\\>降雪量は3段階で変更可。"
+msgstr ""
+"\\> Эффект *Сиккенкен*.\n"
+"\\>Действие вызывает снегопад.\n"
+"\\>Есть 3 уровня снегопада."
+
+#. ID 79, Page 1, Line 7, Pos (16,5)
+msgid "\\>エフェクト★しっけんけん★を入手しました。"
+msgstr "\\>Вы взяли *Сиккенкена*."
+
+#. ID 79, Page 2, Line 6, Pos (16,5)
+msgid "\\>エフェクト★しっけんけん★を破棄しました。"
+msgstr "\\>Эффект *Сиккенкен* отнят."
+
+#. ID 81, Page 1, Line 1, Pos (12,5)
+msgid ""
+"\\>エフェクト★アンドロイド★です。\n"
+"\\>特に何もありません。"
+msgstr ""
+"\\> Эффект *Гиноид*.\n"
+"\\>Ничего интересного."
+
+#. ID 81, Page 1, Line 6, Pos (12,5)
+msgid "\\>エフェクト★アンドロイド★を入手しました。"
+msgstr "\\>Вы взяли *Гиноиду*."
+
+#. ID 81, Page 2, Line 6, Pos (12,5)
+msgid "\\>エフェクト★アンドロイド★を破棄しました。"
+msgstr "\\>Эффект *Гиноид* отнят."
+
+#. ID 85, Page 1, Line 1, Pos (14,1)
+#. Choice (3 options)
+msgid ""
+"\\>ウィンドウ全種選択可能\n"
+"\\>初期状態に戻す\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Разблокировать все стили\n"
+"\\>Сбросить до начального состояния\n"
+"\\>Отмена"
+
+#. ID 85, Page 1, Line 3, Pos (14,1)
+msgid "\\>全種選択可能になりました。"
+msgstr "\\>Все стили меню разблокированны."
+
+#. ID 85, Page 1, Line 9, Pos (14,1)
+msgid "\\>初期状態に戻りました。"
+msgstr "\\>Сброс до начального состояния выполнен."
+
+#. ID 86, Page 1, Line 1, Pos (17,5)
+msgid ""
+"\\>エフェクト★リボン★です。\n"
+"\\>エフェ動作で座り込みます。"
+msgstr ""
+"\\> Эффект *Ленты*.\n"
+"\\>Действием можно сесть."
+
+#. ID 86, Page 1, Line 6, Pos (17,5)
+msgid "\\>エフェクト★リボン★を入手しました。"
+msgstr "\\>Вы взяли *Ленты*."
+
+#. ID 86, Page 2, Line 6, Pos (17,5)
+msgid "\\>エフェクト★リボン★を破棄しました。"
+msgstr "\\>Эффект *Ленты* отнят."
+
+#. ID 88, Page 1, Line 1, Pos (11,3)
+msgid ""
+"\\>エフェクト★ネイルハンマー★です。\n"
+"\\>エフェ動作でハンマーを構え、もう一度押すと解除。\n"
+"\\>通常の状態で攻撃は出来ずキャラクターも反応ナシ。\n"
+"\\>ハンマーを構えた状態で攻撃が可能になります。"
+msgstr ""
+"\\> Эффект *Молоток*.\n"
+"\\>Нажмите, чтобы взять Молоток на изготовку.\n"
+"\\>В обычном состоянии вы не атакуете, и на вас не \n"
+"\\>реагируют. Атаковать можно только когда наготове."
+
+#. ID 88, Page 1, Line 8, Pos (11,3)
+msgid "\\>エフェクト★ネイルハンマー★を入手しました。"
+msgstr "\\>Вы взяли *Молоток*."
+
+#. ID 88, Page 2, Line 6, Pos (11,3)
+msgid "\\>エフェクト★ネイルハンマー★を破棄しました。"
+msgstr "\\>Эффект *Молотка* отнят."
+
+#. ID 93, Page 1, Line 2, Pos (7,15)
+msgid ""
+"\\>強制起床イベント用のキャラクター\n"
+"\\>調べて起動"
+msgstr ""
+"\\>Персонаж насильного пробуждения.\n"
+"\\>Поговорите, чтобы начать."
+
+#. ID 96, Page 1, Line 1, Pos (18,5)
+msgid ""
+"\\>エフェクト★くも★です。\n"
+"\\>装備中は移動速度が上昇します。\n"
+"\\>ver0.04現在未完成、ゲーム内では入手不可"
+msgstr ""
+"\\> Эффект *Паук*.\n"
+"\\>Движение значительно ускоряется.\n"
+"\\>На момент 0.04 Эффект не завершён и не доступен."
+
+#. ID 96, Page 1, Line 7, Pos (18,5)
+msgid "\\>エフェクト★くも★を入手しました。"
+msgstr "\\>Вы взяли *Паука*."
+
+#. ID 96, Page 2, Line 6, Pos (18,5)
+msgid "\\>エフェクト★くも★を破棄しました。"
+msgstr "\\>Эффект *Паук* отнят."
+
+#. ID 97, Page 1, Line 1, Pos (15,5)
+msgid ""
+"\\>エフェクト★みこ★です。\n"
+"\\>エフェ動作で追いかけキャラを一時的に追い払う。"
+msgstr ""
+"\\> Эффект *Мико*.\n"
+"\\>Временно отпугивает преследователей действием."
+
+#. ID 97, Page 1, Line 4, Pos (15,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"する\n"
+"しない"
+msgstr ""
+"Да\n"
+"Не"
+
+#. ID 97, Page 1, Line 6, Pos (15,5)
+msgid "\\>エフェクト★みこ★を入手しました。"
+msgstr "\\>Вы взяли *Мико*."
+
+#. ID 97, Page 2, Line 6, Pos (15,5)
+msgid "\\>エフェクト★みこ★を破棄しました。"
+msgstr "\\>Эффект *Мико* отнят."
+
+#. ID 99, Page 1, Line 1, Pos (17,3)
+msgid ""
+"\\>エフェクト★アメフラシ★です。\n"
+"\\>エフェ動作で雨を降らします。\n"
+"\\>ドット難しい。アメフラシっぽさが分からない。"
+msgstr ""
+"\\> Эффект *Аплизии*.\n"
+"\\>Действие призывает дождь.\n"
+"\\>Тяжело нарисовать. Не знаю, как Аплизия выглядит."
+
+#. ID 99, Page 1, Line 7, Pos (17,3)
+msgid "\\>エフェクト★アメフラシ★を入手しました。"
+msgstr "\\>Вы взяли *Аплизию*."
+
+#. ID 99, Page 2, Line 6, Pos (17,3)
+msgid "\\>エフェクト★アメフラシ★を破棄しました。"
+msgstr "\\>Эффект *Аплизии* отнят."
+
+#. ID 100, Page 1, Line 1, Pos (10,7)
+msgid ""
+"\\>エフェクト★バイオリン★です。\n"
+"\\>エフェ動作でバイオリンを演奏します。"
+msgstr ""
+"\\> Эффект *Скрипка*.\n"
+"\\>Действием можно сыграть на скрипке."
+
+#. ID 100, Page 1, Line 6, Pos (10,7)
+msgid "\\>エフェクト★バイオリン★を入手しました。"
+msgstr "\\>Вы взяли *Скрипку*."
+
+#. ID 100, Page 2, Line 6, Pos (10,7)
+msgid "\\>エフェクト★バイオリン★を破棄しました。"
+msgstr "\\>Эффект *Скрипки* отнят."
+
+#. ID 103, Page 1, Line 2, Pos (9,12)
+msgid ""
+"\\>自動販売機。\n"
+"\\>色によって上がるステータスが変化。\n"
+"\\>サイズによって上昇数値も変化。\n"
+"\\>"
+msgstr ""
+"\\>Торговый автомат\n"
+"\\>Поднимаемый статус зависит от цвета.\n"
+"\\>Кол-во подъёма так-же меняется с размером.\n"
+"\\>"
+
+#. ID 117, Page 1, Line 53, Pos (19,1)
+msgid ""
+"\\>　　　　 　　\\c[2]◆\\c[1]◆\\c[0]information\\c[1]◆\\c[2]◆\\c[0]\n"
+"\\>■本体ver：\\c[1]0.05\\c[0]\n"
+"\\>■エフェクト収集率：\\c[1]\\V[0172]％\\c[0]\n"
+"\\>■ウィンドウ収集率：\\c[1]\\V[0173]％\\c[0]"
+msgstr ""
+"\\>　　　　　　　　　　　　　\\c[2]◆\\c[1]◆\\c[0]Информация\\c[1]◆\\c[2]◆\\c[0]\n"
+"\\>■Версия программы: \\c[1]0.0551\\c[0]\n"
+"\\>■Прогресс сбора эффектов: \\c[1]\\V[0172]%\\c[0]\n"
+"\\>■Прогресс сбора стилей меню: \\c[1]\\V[0173]％\\c[0]"
+
+#. ID 117, Page 1, Line 57, Pos (19,1)
+msgid ""
+"\\>■入眠回数　 　 ：\\V[0174]　　■通常起床回数　　：\\v[0175]\n"
+"\\>■強制起床回数　：\\V[0176]　  ■殺害・破壊総数　：\\V[0177]\n"
+"\\>■ジュース購入数：\\V[0178]"
+msgstr ""
+"\\>■Снов (раз)  : \\V[0174] ■Пробуждений    : \\V[0175]\n"
+"\\>■Разбужена   : \\V[0176] ■Убито/Разрушено: \\V[0177]\n"
+"\\>■Куплено сока: \\V[0178]"
+
+#. ID 135, Page 1, Line 1, Pos (15,3)
+msgid ""
+"\\>エフェクト★ステンドグラス★です。\n"
+"\\>エフェ動作で主人公のグラフィックが変化。"
+msgstr ""
+"\\> Эффект *Витраж*.\n"
+"\\>Графика меняется от движения."
+
+#. ID 135, Page 1, Line 6, Pos (15,3)
+msgid "\\>エフェクト★ステンドグラス★を入手しました。"
+msgstr "\\>Вы взяли *Витраж*."
+
+#. ID 135, Page 2, Line 6, Pos (15,3)
+msgid "\\>エフェクト★ステンドグラス★を破棄しました。"
+msgstr "\\>Эффект *Витраж* отнят."
+
+#. ID 137, Page 1, Line 2, Pos (20,3)
+#. Contains choice at line 2 (3 options)
+msgid "\\>エフェクト★リボン★のグラフィックを設定します。"
+msgstr "\\>Настроить графику эффекта *Лент*."
+
+#. ID 137, Page 1, Line 3, Pos (20,3)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>NEW（通常　ver0.04）\n"
+"\\>OLD（旧型　ver0.03）\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Новая  (С 0.04)\n"
+"\\>Старая (До 0.03 включ.)\n"
+"\\>Отмена"
+
+#. ID 139, Page 1, Line 2, Pos (20,4)
+#. Contains choice at line 2 (3 options)
+msgid "\\>「■夢日記帳」使用時のアニメ再生を設定します。"
+msgstr "\\>Проигрыш анимации при применении ■Дневника снов."
+
+#. ID 139, Page 1, Line 3, Pos (20,4)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ON (通常・アニメ再生)\n"
+"\\>OFF(省略・アニメなし）\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Вкл. (Есть анимация)\n"
+"\\>Выкл.(Нет анимации)\n"
+"\\>Отмена"
+
+#. ID 141, Page 1, Line 2, Pos (20,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>自販機でのジュース購入時のイベントを設定します。"
+msgstr "\\>Проигрывать событие при покупке сока в автомате?"
+
+#. ID 141, Page 1, Line 3, Pos (20,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>ON (通常・専用アニメ再生)\n"
+"\\>OFF(省略・ピクチャー表示のみ)\n"
+"\\>キャンセル"
+msgstr ""
+"\\>Вкл. (Полная анимация)\n"
+"\\>Выкл.(Только картинка)\n"
+"\\>Отмена"

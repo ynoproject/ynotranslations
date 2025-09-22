@@ -1,0 +1,482 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 4, Line 19
+msgid ""
+"\n"
+"                   * Soulfire *"
+msgstr ""
+"\n"
+"                  * Płomień dusz *"
+
+#. ID 4, Line 48
+msgid ""
+"\n"
+"                     * Umbra *"
+msgstr ""
+
+#. ID 4, Line 77
+msgid ""
+"\n"
+"                   * Rodentia *"
+msgstr ""
+
+#. ID 4, Line 106
+msgid ""
+"\n"
+"                    * Lumen *"
+msgstr ""
+
+#. ID 4, Line 135
+msgid ""
+"\n"
+"                    * Youth *"
+msgstr ""
+"\n"
+"                   * Młodość *"
+
+#. ID 4, Line 164
+msgid ""
+"\n"
+"                   * Spectral *"
+msgstr ""
+"\n"
+"                   * Spektral *"
+
+#. ID 4, Line 193
+msgid ""
+"\n"
+"                    * Climate *"
+msgstr ""
+"\n"
+"                     * Klimat *"
+
+#. ID 4, Line 222
+msgid ""
+"\n"
+"                    * Kalimba *"
+msgstr ""
+
+#. ID 4, Line 251
+msgid ""
+"\n"
+"                    * Visage *"
+msgstr ""
+"\n"
+"                     * Wizaż *"
+#. ID 4, Line 282
+msgid ""
+"\n"
+"                     * Imago *"
+msgstr ""
+
+#. ID 4, Line 311
+msgid ""
+"\n"
+"                    * Amanita *"
+msgstr ""
+
+#. ID 21, Line 12
+#. ID 21, Line 15
+#. ID 21, Line 34
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Line 11
+msgid ""
+"\n"
+"               * Menu theme: Office *"
+msgstr ""
+"\n"
+"                 * Motyw: Office *"
+
+#. ID 28, Line 27
+msgid ""
+"\n"
+"               * Menu theme: Sun *"
+msgstr ""
+"\n"
+"                 * Motyw: Sun *"
+
+#. ID 28, Line 45
+msgid ""
+"\n"
+"               * Menu theme: Dusk *"
+msgstr ""
+"\n"
+"                 * Motyw: Dusk *"
+
+#. ID 28, Line 61
+msgid ""
+"\n"
+"           * Menu theme: Vague Memory *"
+msgstr ""
+"\n"
+"            * Motyw: Vague Memory *"
+
+#. ID 28, Line 77
+msgid ""
+"\n"
+"              * Menu theme: Squids *"
+msgstr ""
+"\n"
+"                * Motyw: Squids *"
+
+#. ID 28, Line 93
+msgid ""
+"\n"
+"              * Menu theme: Willow *"
+msgstr ""
+"\n"
+"                * Motyw: Willow *"
+
+#. ID 28, Line 109
+msgid ""
+"\n"
+"           * Menu theme: Vibrant Blue *"
+msgstr ""
+"\n"
+"             * Motyw: Vibrant Blue *"
+
+#. ID 28, Line 125
+msgid ""
+"\n"
+"          * Menu theme: Glitched Static *"
+msgstr ""
+"\n"
+"            * Motyw: Glitched Static *"
+
+#. ID 28, Line 141
+msgid ""
+"\n"
+"             * Menu theme: Ammolites *"
+msgstr ""
+"\n"
+"               * Motyw: Ammolites *"
+
+#. ID 28, Line 157
+msgid ""
+"\n"
+"            * Menu theme: Box Office *"
+msgstr ""
+"\n"
+"              * Motyw: Box Office *"
+
+#. ID 28, Line 173
+msgid ""
+"\n"
+"                * Menu theme: Mural *"
+msgstr ""
+"\n"
+"                  * Motyw: Mural *"
+
+#. ID 28, Line 189
+msgid ""
+"\n"
+"            * Menu theme: Neon Mural *"
+msgstr ""
+"\n"
+"              * Motyw: Neon Mural *"
+
+#. ID 28, Line 205
+msgid ""
+"\n"
+"             * Menu theme: Altered *"
+msgstr ""
+"\n"
+"               * Motyw: Altered *"
+
+#. ID 28, Line 221
+msgid ""
+"\n"
+"              * Menu theme: Glowing *"
+msgstr ""
+"\n"
+"                * Motyw: Glowing *"
+
+#. ID 28, Line 237
+msgid ""
+"\n"
+"              * Menu theme: Sunset *"
+msgstr ""
+"\n"
+"                * Motyw: Sunset *"
+
+#. ID 28, Line 253
+msgid ""
+"\n"
+"             * Menu theme: Celestial *"
+msgstr ""
+"\n"
+"               * Motyw: Celestial *"
+
+#. ID 28, Line 269
+msgid ""
+"\n"
+"               * Menu theme: Sweet *"
+msgstr ""
+"\n"
+"                 * Motyw: Sweet *"
+
+#. ID 28, Line 285
+msgid ""
+"\n"
+"          * Menu theme: Blueing Plastic *"
+msgstr ""
+"\n"
+"            * Motyw: Blueing Plastic *"
+
+#. ID 28, Line 301
+msgid ""
+"\n"
+"             * Menu theme: Voidbound *"
+msgstr ""
+"\n"
+"               * Motyw: Voidbound *"
+
+#. ID 28, Line 317
+msgid ""
+"\n"
+"             * Menu theme: Handheld *"
+msgstr ""
+"\n"
+"               * Motyw: Handheld *"
+
+#. ID 28, Line 333
+msgid ""
+"\n"
+"             * Menu theme: Sidereal *"
+msgstr ""
+"\n"
+"               * Motyw: Sidereal *"
+
+#. ID 28, Line 349
+msgid ""
+"\n"
+"             * Menu theme: Golfer *"
+msgstr ""
+"\n"
+"               * Motyw: Golfer *"
+
+#. ID 28, Line 365
+msgid ""
+"\n"
+"              * Menu theme: Virtual *"
+msgstr ""
+"\n"
+"                * Motyw: Virtual *"
+
+#. ID 28, Line 381
+msgid ""
+"\n"
+"              * Menu theme: Orchid *"
+msgstr ""
+"\n"
+"                * Motyw: Orchid *"
+
+#. ID 28, Line 397
+msgid ""
+"\n"
+"            * Menu theme: Streetlight *"
+msgstr ""
+"\n"
+"              * Motyw: Streetlight *"
+
+#. ID 28, Line 413
+msgid ""
+"\n"
+"              * Menu theme: Basalt *"
+msgstr ""
+"\n"
+"                * Motyw: Basalt *"
+
+#. ID 28, Line 429
+msgid ""
+"\n"
+"               * Menu theme: Metal *"
+msgstr ""
+"\n"
+"                 * Motyw: Metal *"
+
+#. ID 28, Line 445
+msgid ""
+"\n"
+"              * Menu theme: Charred *"
+msgstr ""
+"\n"
+"                * Motyw: Charred *"
+
+#. ID 28, Line 461
+msgid ""
+"\n"
+"             * Menu theme: Chromatic *"
+msgstr ""
+"\n"
+"               * Motyw: Chromatic *"
+
+#. ID 28, Line 477
+msgid ""
+"\n"
+"             * Menu theme: Mossy Lab *"
+msgstr ""
+"\n"
+"               * Motyw: Mossy Lab *"
+
+#. ID 28, Line 493
+msgid ""
+"\n"
+"             * Menu theme: Crystal *"
+msgstr ""
+"\n"
+"               * Motyw: Crystal *"
+
+#. ID 28, Line 509
+msgid ""
+"\n"
+"           * Menu theme: Metallic Moth *"
+msgstr ""
+"\n"
+"             * Motyw: Metallic Moth *"
+
+#. ID 28, Line 525
+msgid ""
+"\n"
+"             * Menu theme: Tooth Decay *"
+msgstr ""
+"\n"
+"               * Motyw: Tooth Decay *"
+
+#. ID 28, Line 541
+msgid ""
+"\n"
+"           * Menu theme: Premium Roast *"
+msgstr ""
+"\n"
+"             * Motyw: Premium Roast *"
+
+#. ID 28, Line 557
+msgid ""
+"\n"
+"              * Menu theme: Aztec *"
+msgstr ""
+"\n"
+"                 * Motyw: Aztec *"
+
+#. ID 28, Line 573
+msgid ""
+"\n"
+"             * Menu theme: Gradient *"
+msgstr ""
+"\n"
+"               * Motyw: Gradient *"
+
+#. ID 28, Line 589
+msgid ""
+"\n"
+"             * Menu theme: Oracle *"
+msgstr ""
+"\n"
+"               * Motyw: Oracle *"
+
+#. ID 28, Line 605
+msgid ""
+"\n"
+"             * Menu theme: Vacation *"
+msgstr ""
+"\n"
+"               * Motyw: Vacation *"
+
+#. ID 28, Line 621
+msgid ""
+"\n"
+"             * Menu theme: Brass Moon *"
+msgstr ""
+"\n"
+"               * Motyw: Brass Moon *"
+
+#. ID 28, Line 637
+msgid ""
+"\n"
+"        * Menu theme: Sleepy Mouse Polka *"
+msgstr ""
+"\n"
+"           * Motyw: Sleepy Mouse Polka *"
+
+#. ID 28, Line 653
+msgid ""
+"\n"
+"             * Menu theme: Picnic A *"
+msgstr ""
+"\n"
+"               * Motyw: Picnic A *"
+
+#. ID 28, Line 669
+msgid ""
+"\n"
+"             * Menu theme: Picnic B *"
+msgstr ""
+"\n"
+"               * Motyw: Picnic B *"
+
+#. ID 28, Line 685
+msgid ""
+"\n"
+"           * Menu theme: Flame Pattern *"
+msgstr ""
+"\n"
+"             * Motyw: Flame Pattern *"
+
+#. ID 28, Line 701
+msgid ""
+"\n"
+"             * Menu theme: Butterfly *"
+msgstr ""
+"\n"
+"               * Motyw: Butterfly *"
+
+#. ID 28, Line 717
+msgid ""
+"\n"
+"        * Menu theme: Chromatic Apparition *"
+msgstr ""
+"\n"
+"           * Motyw: Chromatic Apparition *"
+
+#. ID 28, Line 733
+msgid ""
+"\n"
+"           * Menu theme: Hyper Sigils *"
+msgstr ""
+"\n"
+"             * Motyw: Hyper Sigils *"
+
+#. ID 28, Line 749
+msgid ""
+"\n"
+"            * Menu theme: Shambling *"
+msgstr ""
+"\n"
+"               * Motyw: Shambling *"
+
+#. ID 28, Line 765
+msgid ""
+"\n"
+"              * Menu theme: Chess *"
+msgstr ""
+"\n"
+"                * Motyw: Chess *"
+
+#. ID 28, Line 781
+msgid ""
+"\n"
+"             * Menu theme: Ecstasy *"
+msgstr ""
+"\n"
+"               * Motyw: Ecstasy *"

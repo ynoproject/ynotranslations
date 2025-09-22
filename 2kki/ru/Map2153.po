@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume2kki\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 64, Page 1, Line 6, Pos (36,9)
+#. ID 106, Page 1, Line 6, Pos (32,9)
+msgid "\n"
+"　　　　　　　★メニュータイプ変更★"
+msgstr "\n"
+"         *Смена стиля меню*"
+
+#. ID 106, Page 2, Line 5, Pos (32,9)
+msgid "\n"
+"　　　　　　　★メ#ｧューetaイプ.更★"
+msgstr "\n"
+"         *Сме%@+_?иля м.4ю*"
+

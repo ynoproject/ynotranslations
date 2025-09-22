@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume2kki\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fonvight\n"
+"Language-Team: Fonvight\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 8, Page 5, Line 29, Pos (2,5)
+#. ID 34, Page 1, Line 28, Pos (16,11)
+#. ID 43, Page 1, Line 28, Pos (15,3)
+msgid "\\$\\|\\.\\.\\^"
+msgstr ""
+
+#. ID 8, Page 5, Line 35, Pos (2,5)
+#. ID 34, Page 1, Line 39, Pos (16,11)
+#. ID 43, Page 1, Line 44, Pos (15,3)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 51, Page 1, Line 166, Pos (5,0)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцуки"
+
+#. ID 51, Page 1, Line 167, Pos (5,0)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Сноходец"
+

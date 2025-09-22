@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 6, Page 1, Line 8, Pos (69,40)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"I'm a little tired from walking.\\!\n"
+"Is it alright if I take a nap?"
+msgstr ""
+"ちょっと歩き疲れたな。\\!\n"
+"お昼寝してもいい？"
+
+#. ID 6, Page 1, Line 12, Pos (69,40)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 6, Page 1, Line 33, Pos (69,40)
+msgid ""
+"Ah, well...\\!\n"
+"I suppose there's more\n"
+"work to do."
+msgstr ""
+"あ、そっか…\\!\n"
+"まだやることあるもんね。"
+
+#. ID 37, Page 2, Line 12, Pos (65,39)
+#. Contains choice at line 2 (1 options)
+msgid "\\n[2]?"
+msgstr "\\n[2]？"
+
+#. ID 37, Page 2, Line 15, Pos (65,39)
+#. Choice (1 options, embedded in a message)
+msgid "Yes?"
+msgstr "うん？"
+
+#. ID 37, Page 2, Line 21, Pos (65,39)
+msgid ""
+"I'm awake now.\\!\n"
+"I'm so uneasy I can't\n"
+"remember what I dreamed\n"
+"about..."
+msgstr ""
+"いま起きたよ。\\!\n"
+"なんだか不安で、夢を思い出せないや…"

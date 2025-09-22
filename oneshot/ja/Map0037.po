@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 9, Page 4, Line 10, Pos (35,94)
+#. ID 10, Page 4, Line 10, Pos (36,94)
+msgid ""
+"I'm too exhausted to\n"
+"continue just yet...\\!\n"
+"Please let me nap\n"
+"a bit."
+msgstr ""
+"くたくたでまだ先に進めないよ…\\!\n"
+"少し、お昼寝してもいいかな。"
+
+#. ID 9, Page 4, Line 19, Pos (35,94)
+#. ID 10, Page 4, Line 19, Pos (36,94)
+msgid ""
+"I can't continue without\n"
+"the sun..."
+msgstr "太陽なしで先に進むわけにはいかないよ…"
+
+#. ID 11, Page 1, Line 3, Pos (34,95)
+msgid ""
+"The sun...\\!\n"
+"You're the messiah!\\!\n"
+"On your way to the spire?"
+msgstr ""
+"ソノ太陽…\\!\n"
+"オマエガ救世主カ!\\!\n"
+"塔ニ向カッテイルノカ?"
+
+#. ID 11, Page 1, Line 8, Pos (34,95)
+msgid ""
+"I saw you carrying the sun earlier.\\!\n"
+"You're the messiah, then?\\!\n"
+"On your way to the spire?"
+msgstr ""
+"先ホド、太陽ヲ持ッテイタナ。\\!\n"
+"オマエガ救世主ダナ?\\!\n"
+"塔ニ向カッテイルノカ?"
+
+#. ID 11, Page 1, Line 14, Pos (34,95)
+msgid "M-hm."
+msgstr "う、うん。"
+
+#. ID 11, Page 1, Line 16, Pos (34,95)
+msgid ""
+"You can enter the Refuge\n"
+"through this wall.\\!\n"
+"You'll need to sign your\n"
+"name in this scroll first."
+msgstr ""
+"コノ壁カラ、避難所ニ入ルコトガデキル。\\!\n"
+"マズ、コノ巻物ニ署名ヲ。"
+
+#. ID 11, Page 1, Line 21, Pos (34,95)
+msgid ""
+"Alright.\\!\n"
+".\\..\\..\\.Do you have a pen?"
+msgstr ""
+"分かった。\\!\n"
+".\\..\\..\\.ペン持ってる？"
+
+#. ID 11, Page 1, Line 24, Pos (34,95)
+msgid "Um\\..\\..\\.."
+msgstr "ウム\\..\\..\\.."
+
+#. ID 11, Page 1, Line 26, Pos (34,95)
+msgid ""
+"No.\\!\n"
+"I've lost mine.\\!\n"
+"Perhaps you should look\n"
+"around the Glen for another."
+msgstr ""
+"ナイ。\\!\n"
+"紛失シタ。\\!\n"
+"峡谷デ探ストイイダロウ。"
+
+#. ID 11, Page 2, Line 2, Pos (34,95)
+msgid ""
+"Have you found something\n"
+"to write with?"
+msgstr "書クモノハ見ツケタカ?"
+
+#. ID 11, Page 3, Line 3, Pos (34,95)
+msgid "I have a pen."
+msgstr "ペンを持ってるよ。"
+
+#. ID 11, Page 3, Line 5, Pos (34,95)
+msgid ""
+"Good.\\!\n"
+"Please write your name\n"
+"here."
+msgstr ""
+"素晴ラシイ。\\!\n"
+"ココニ名前ノ記入ヲ。"
+
+#. ID 11, Page 3, Line 13, Pos (34,95)
+#. ID 11, Page 4, Line 2, Pos (34,95)
+msgid "Good luck."
+msgstr "幸運ヲ祈ル。"
+
+#. ID 12, Page 1, Line 8, Pos (18,92)
+msgid ""
+"I can't sleep now...\n"
+"I have to return Alula first."
+msgstr ""
+"いまは寝てる暇はないよ…\n"
+"まずはアルーラを帰さなきゃ。"
+
+#. ID 12, Page 1, Line 13, Pos (18,92)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"I'm a little tired from walking.\\!\n"
+"Is it alright if I take a nap?"
+msgstr ""
+"ちょっと歩き疲れたな。\\!\n"
+"お昼寝してもいい？"
+
+#. ID 12, Page 1, Line 17, Pos (18,92)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 70, Pos (18,89)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 88, Pos (18,89)
+#. Choice (2 options)
+#. ID 15, Page 2, Line 121, Pos (18,89)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 2, Line 129, Pos (18,89)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 12, Page 1, Line 39, Pos (18,92)
+msgid ""
+"Ah, well...\\!\n"
+"I suppose there's more\n"
+"work to do."
+msgstr ""
+"あ、そっか…\\!\n"
+"まだやることあるもんね。"
+
+#. ID 15, Page 2, Line 37, Pos (18,89)
+#. Contains choice at line 2 (1 options)
+#. ID 15, Page 2, Line 53, Pos (18,89)
+msgid "\\n[2]?"
+msgstr "\\n[2]？"
+
+#. ID 15, Page 2, Line 40, Pos (18,89)
+#. Choice (1 options, embedded in a message)
+msgid "Yes?"
+msgstr "うん？"
+
+#. ID 15, Page 2, Line 46, Pos (18,89)
+msgid "I'm awake now."
+msgstr "いま起きたよ。"
+
+#. ID 15, Page 2, Line 56, Pos (18,89)
+msgid ""
+"I had another dream...\\!\n"
+"Mama was there.\\!\n"
+"She gave me pancakes."
+msgstr ""
+"また夢を見た…\\!\n"
+"ママがいたよ。\\!\n"
+"パンケーキくれた。"
+
+#. ID 15, Page 2, Line 60, Pos (18,89)
+msgid ""
+"I think it was my birthday.\\!\n"
+"People always get their\n"
+"favorite food on their\n"
+"birthday."
+msgstr ""
+"たぶんミーの誕生日だった。\\!\n"
+"誕生日には、みんな\n"
+"一番好きな食べ物がもらえるでしょ。"
+
+#. ID 15, Page 2, Line 65, Pos (18,89)
+msgid "Lots of it, too!"
+msgstr "しかもたくさん!"
+
+#. ID 15, Page 2, Line 67, Pos (18,89)
+#. Contains choice at line 2 (2 options)
+msgid "Do you have a birthday, too?"
+msgstr "神様にも誕生日はあるの？"
+
+#. ID 15, Page 2, Line 74, Pos (18,89)
+msgid ""
+"What's your favorite food?\\!\n"
+"Is it pancakes?\\!\n"
+"Do you like pancakes?"
+msgstr ""
+"一番好きな食べ物は何？\\!\n"
+"もしかしてパンケーキ？\\!\n"
+"そもそもパンケーキは好き？"
+
+#. ID 15, Page 2, Line 81, Pos (18,89)
+msgid ""
+"I see...\\!\n"
+"So...\\. do you like\n"
+"pancakes?"
+msgstr ""
+"そっか…\\!\n"
+"じゃあ…\\.　神様は、パンケーキ好き？"
+
+#. ID 15, Page 2, Line 92, Pos (18,89)
+msgid ""
+"Me too!\\!\n"
+"On my last birthday,\n"
+"I ate ten of them."
+msgstr ""
+"ミーも!\\!\n"
+"去年の誕生日なんて、\n"
+"10個も食べちゃった。"
+
+#. ID 15, Page 2, Line 96, Pos (18,89)
+msgid ""
+"I was so full I didn't\n"
+"eat anything else\n"
+"that day."
+msgstr ""
+"お腹がいっぱいになりすぎて、\n"
+"その日は他に何も食べられなかった。"
+
+#. ID 15, Page 2, Line 103, Pos (18,89)
+msgid ""
+"Ah...\\!\n"
+"Well, they're tasty!"
+msgstr ""
+"そうなんだ…\\!\n"
+"でも、ほんとは美味しいよ!"
+
+#. ID 15, Page 2, Line 106, Pos (18,89)
+msgid ""
+"Maybe you should give\n"
+"them a chance, y'know?"
+msgstr "もう一度食べてみなよ、ね？"
+
+#. ID 15, Page 2, Line 111, Pos (18,89)
+msgid ""
+"My mama makes the\n"
+"best pancakes."
+msgstr "ママが作るパンケーキは最高だよ。"
+
+#. ID 15, Page 2, Line 113, Pos (18,89)
+msgid ""
+"Some of the neighbors\n"
+"make really good noodles.\\!\n"
+"And some of the neighbors\n"
+"make a lot of bread."
+msgstr ""
+"すごく美味しい麺料理を作る\n"
+"ご近所さんがいるんだ。\\!\n"
+"パンをたくさん作るご近所さんも。"
+
+#. ID 15, Page 2, Line 117, Pos (18,89)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Do you have any\n"
+"neighbors?"
+msgstr "神様にはご近所さん、いる？"
+
+#. ID 15, Page 2, Line 125, Pos (18,89)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Oh! Do they share their\n"
+"food with you?"
+msgstr ""
+"おぉ!その人たちは食べ物を\n"
+"分けてくれる？"
+
+#. ID 15, Page 2, Line 133, Pos (18,89)
+msgid "We do too!"
+msgstr "ミーのところと一緒だ!"
+
+#. ID 15, Page 2, Line 138, Pos (18,89)
+msgid ""
+"That's not very nice\n"
+"of them..."
+msgstr "あまり優しくないね…"
+
+#. ID 15, Page 2, Line 146, Pos (18,89)
+msgid ""
+"Oh...\\!\n"
+"That sounds a bit\n"
+"lonely."
+msgstr ""
+"そっか…\\!\n"
+"ちょっと寂しいね。"
+
+#. ID 15, Page 2, Line 150, Pos (18,89)
+msgid "I'm sorry..."
+msgstr "ごめん…"
+
+#. ID 15, Page 2, Line 155, Pos (18,89)
+msgid ""
+"Our neighbors and my mama\n"
+"take turns making food for\n"
+"the whole village each\n"
+"day."
+msgstr ""
+"ご近所さんとママで交代しながら\n"
+"毎日、村にいる人全員の食べ物を\n"
+"作ってるんだ。"
+
+#. ID 15, Page 2, Line 159, Pos (18,89)
+msgid ""
+"Everyone takes turns\n"
+"doing chores and watching\n"
+"the children too."
+msgstr ""
+"他のみんなで交代して、雑用とか\n"
+"子どものお世話もしてるよ。"
+
+#. ID 15, Page 2, Line 163, Pos (18,89)
+msgid ""
+"I don't need to be watched\n"
+"anymore, though.\\!\n"
+"I'm old enough to help out!"
+msgstr ""
+"ミーはもうお世話してもらわなくても\n"
+"大丈夫だけどね。\\!\n"
+"大人になったから、みんなの役に立てる!"
+
+#. ID 15, Page 2, Line 167, Pos (18,89)
+msgid ""
+"...\\|\n"
+"I miss everyone.\\!\n"
+"I wonder if they're worried\n"
+"about me..."
+msgstr ""
+"…\\|\n"
+"みんなに会いたいな。\\!\n"
+"心配してるかな…"
+
+#. ID 15, Page 2, Line 173, Pos (18,89)
+msgid ""
+"Speaking of helping out,\n"
+"we should probably\n"
+"go now."
+msgstr ""
+"役に立てるといえば、\n"
+"もうそろそろ行かなくちゃ。"

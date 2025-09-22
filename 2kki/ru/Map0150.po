@@ -3,17 +3,32 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Fonvight\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4\n"
 
-#. ID 36, Page 1, Line 251, Pos (2,1)
-#. Contains choice at line 2 (2 options)
+#. ID 38, Page 1, Line 1, Pos (1,6)
+#. ID 38, Page 2, Line 1, Pos (1,6)
+msgid "\\>エラー　旧処理が呼び出されました"
+msgstr "\\>Ошибка: Было вызвано старое меню"
+
+#. ID 38, Page 1, Line 345, Pos (1,6)
+#. Condition (Actor Name = 旧処理)
+msgctxt "actors.name"
+msgid "旧処理"
+msgstr "Старое"
+
+#. ID 39, Page 1, Line 113, Pos (2,5)
+msgid "\\>【エラー】\n"
+"\\>ピースの移動処理が完了しませんでした \\<\\|\\|"
+msgstr "\\>Ошибка\n"
+"\\>Перемещение фрагмента не было завершено.\\<\\|\\|"
+
 #. ID 39, Page 1, Line 187, Pos (2,5)
 #. Contains choice at line 2 (3 options)
 #. ID 39, Page 1, Line 262, Pos (2,5)
@@ -21,31 +36,12 @@ msgstr ""
 msgid "\\> MENU"
 msgstr "\\> МЕНЮ"
 
-#. ID 36, Page 1, Line 252, Pos (2,1)
-#. Choice (2 options, embedded in a message)
-msgid ""
-"\\>END MINI-GAME\n"
-"\\>OPTION"
-msgstr ""
-"\\>ВЫЙТИ ИЗ МИНИ-ИГРЫ\n"
-"\\>НАСТРОЙКИ"
-
-#. ID 39, Page 1, Line 113, Pos (2,5)
-msgid ""
-"\\>【エラー】\n"
-"\\>ピースの移動処理が完了しませんでした \\<\\|\\|"
-msgstr ""
-"\\>Ошибка\n"
-"\\>Перемещение фрагмента не было завершено.\\<\\|\\|"
-
 #. ID 39, Page 1, Line 188, Pos (2,5)
 #. Choice (3 options, embedded in a message)
-msgid ""
-"\\>HINT\n"
+msgid "\\>HINT\n"
 "\\>QUIT PUZZLE\n"
 "\\>でばっぐ"
-msgstr ""
-"\\>ПОДСКАЗКА\n"
+msgstr "\\>ПОДСКАЗКА\n"
 "\\>ВЫЙТИ ИЗ ПАЗЗЛА\n"
 "\\>Отладка"
 
@@ -56,20 +52,16 @@ msgstr "\\> МЕНЮ > Отладка"
 
 #. ID 39, Page 1, Line 197, Pos (2,5)
 #. Choice (2 options, embedded in a message)
-msgid ""
-"\\>イベントID確認もーど\n"
+msgid "\\>イベントID確認もーど\n"
 "\\>完成した状態にする"
-msgstr ""
-"\\>Проверка ID события\n"
+msgstr "\\>Проверка ID события\n"
 "\\>Завершить"
 
 #. ID 39, Page 1, Line 263, Pos (2,5)
 #. Choice (2 options, embedded in a message)
-msgid ""
-"\\>HINT\n"
+msgid "\\>HINT\n"
 "\\>QUIT PUZZLE"
-msgstr ""
-"\\>ПОДСКАЗКА\n"
+msgstr "\\>ПОДСКАЗКА\n"
 "\\>ВЫЙТИ ИЗ ПАЗЗЛА"
 
 #. ID 39, Page 2, Line 22, Pos (2,5)
@@ -83,73 +75,63 @@ msgid "\\>Y / N"
 msgstr "\\>Д / Н"
 
 #. ID 39, Page 2, Line 105, Pos (2,5)
-msgid ""
-"\n"
+msgid "\n"
 "\n"
 "\n"
 "\\>　　　　　　　　  Congratulations!"
-msgstr ""
-"\n"
+msgstr "\n"
 "\n"
 "\n"
 "\\>　　　　　　　　     Поздравляем!"
 
 #. ID 39, Page 2, Line 111, Pos (2,5)
-msgid ""
-"\n"
+msgid "\n"
 "\n"
 "\n"
 "\\>                    New Record!!"
-msgstr ""
-"\n"
+msgstr "\n"
 "\n"
 "\n"
 "\\>                       Новый Рекорд!"
 
 #. ID 40, Page 3, Line 11, Pos (1,5)
 #. Contains choice at line 2 (3 options)
-msgid "\\> MENU > OPTION"
-msgstr "\\> МЕНЮ > НАСТРОЙКИ"
+msgid "\\> OPTION"
+msgstr "\\> НАСТРОЙКИ"
 
 #. ID 40, Page 3, Line 12, Pos (1,5)
 #. Choice (3 options, embedded in a message)
-msgid ""
-"\\>Wallpaper    (Now:\\V[1463])\n"
-"\\>Control Type (Now:\\V[1471])\n"
+msgid "\\>Wallpaper    (\\V[1463])\n"
+"\\>Control Type (\\V[1471])\n"
 "\\>Close"
-msgstr ""
-"\\>Обои    (Сейчас: \\V[1463])\n"
-"\\>Управление (Сейчас: \\V[1471])\n"
+msgstr "\\>Обои       (\\V[1463])\n"
+"\\>Управление (\\V[1471])\n"
 "\\>Закрыть"
 
 #. ID 40, Page 3, Line 14, Pos (1,5)
 #. Contains choice at line 2 (3 options)
-msgid "\\> MENU > OPTION > Wallpaper (Now:\\V[1463])"
-msgstr "\\> МЕНЮ > НАСТРОЙКИ > Обои (Сейчас: \\V[1463])"
+msgid "\\> OPTION > Wallpaper (Now:\\V[1463])"
+msgstr "\\> НАСТРОЙКИ > Обои (Сейчас:\\V[1463])"
 
 #. ID 40, Page 3, Line 15, Pos (1,5)
 #. Choice (3 options, embedded in a message)
-msgid ""
-"\\>Type 1 (Default)\n"
+msgid "\\>Type 1 (Default)\n"
 "\\>Type 2\n"
 "\\>Type 3 (PC Wallpaper)"
-msgstr ""
-"\\>Тип 1 (По-умолчанию)\n"
+msgstr "\\>Тип 1 (По-умолчанию)\n"
 "\\>Тип 2\n"
 "\\>Тип 3 (Обои ПК)"
 
 #. ID 40, Page 3, Line 30, Pos (1,5)
 #. Contains choice at line 2 (2 options)
-msgid "\\> MENU > OPTION > Control Type (Now:\\V[1471])"
-msgstr "\\> МЕНЮ > НАСТРОЙКИ > Управление (Сейчас: \\V[1471])"
+msgid "\\> OPTION > Control Type (Now:\\V[1471])"
+msgstr "\\> НАСТРОЙКИ > Управление (Сейчас:\\V[1471])"
 
 #. ID 40, Page 3, Line 31, Pos (1,5)
 #. Choice (2 options, embedded in a message)
-msgid ""
-"\\>Type 1 (Cursor)\n"
+msgid "\\>Type 1 (Cursor)\n"
 "\\>Type 2 (Space)"
-msgstr ""
-"\\>Тип 1 (Курсор)\n"
+msgstr "\\>Тип 1 (Курсор)\n"
 "\\>Тип 2 (Пробел)"
 
 #. ID 40, Page 4, Line 30, Pos (1,5)
@@ -158,14 +140,13 @@ msgctxt "actors.name"
 msgid "【外部マップから壁紙を表示する】"
 msgstr ""
 
-#. ID 41, Page 1, Line 173, Pos (1,4)
-msgid ""
-"\n"
+#. ID 41, Page 1, Line 168, Pos (1,4)
+msgid "\n"
 "\n"
 "\n"
 "\\>                     Get Ready　　　　　　　　　 \\<\\|\\|\\^"
-msgstr ""
-"\n"
+msgstr "\n"
 "\n"
 "\n"
 "\\>                      Приготовьтесь　　　　　　　　 \\<\\|\\|\\^"
+

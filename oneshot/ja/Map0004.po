@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 3, Page 1, Line 2, Pos (10,6)
+msgid ""
+"A pair of \\c[3]luminous, yellow\n"
+"eyes\\c[0] stares back at Niko."
+msgstr "\\c[3]明るく、黄色い目\\c[0]がニコを見返している。"
+
+#. ID 8, Page 1, Line 2, Pos (13,7)
+#. ID 8, Page 2, Line 2, Pos (13,7)
+#. ID 8, Page 3, Line 2, Pos (13,7)
+msgid ""
+"A \\c[7]withered plant\\c[0] sits\n"
+"here, stiff and dry."
+msgstr ""
+"\\c[7]枯れた植物\\c[0]がある…。\n"
+"硬く、乾燥している。"
+
+#. ID 8, Page 1, Line 4, Pos (13,7)
+msgid ""
+"There's no need to do anything\n"
+"to it."
+msgstr "何もする必要はない。"
+
+#. ID 8, Page 2, Line 4, Pos (13,7)
+msgid ""
+"Perhaps a branch would come\n"
+"in handy?"
+msgstr ""
+"もしかすると枝が役に立つ\n"
+"かもしれない…？"
+
+#. ID 8, Page 2, Line 9, Pos (13,7)
+msgid "Niko removed a \\c[7]branch\\c[0]."
+msgstr "ニコは\\c[7]枝\\c[0]を外した。"
+
+#. ID 23, Page 1, Line 2, Pos (8,9)
+msgid "The tub is completely empty."
+msgstr "浴槽は完全に空っぽだ。"
+
+#. ID 25, Page 1, Line 2, Pos (8,7)
+msgid ""
+"There's no water in the\n"
+"toilet."
+msgstr "トイレには水がない。"

@@ -10,8 +10,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 2, Page 1, Line 5, Pos (65,81)
 msgid "                   Hat & Scarf"
-msgstr "                    Ĉapelo & Koltuko"
+msgstr "                 Ĉapelo & Koltuko"

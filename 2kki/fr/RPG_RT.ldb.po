@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -55,7 +55,7 @@ msgstr ""
 #. ID 7
 msgctxt "actors.name"
 msgid "Player Name"
-msgstr "Nom du joueur"
+msgstr ""
 
 #. ID 8
 msgctxt "actors.name"
@@ -9993,7 +9993,7 @@ msgstr "Loup"
 #. ID 61
 msgctxt "items.description"
 msgid "「おおかみ」の みみとしっぽがつく"
-msgstr "Devenez une fille-louve (aouuh!)"
+msgstr "Devenez une fille-louve (aouuh !)"
 
 #. ID 21
 msgctxt "items.name"
@@ -10704,7 +10704,7 @@ msgstr "◆ Fichier"
 
 msgctxt "terms.exit_game_message"
 msgid "おわっても よろしいですか？"
-msgstr "Êtes-vous sûr de vouloir quitter?"
+msgstr "Êtes-vous sûr de vouloir quitter ?"
 
 msgctxt "terms.yes"
 msgid "はい"

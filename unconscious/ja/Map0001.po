@@ -1,0 +1,856 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 4, Page 1, Line 1, Pos (35,27)
+msgid "sniperbob minigame1"
+msgstr "sniperbob ミニゲーム1"
+
+#. ID 5, Page 2, Line 1, Pos (19,1)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player up and right when moving right."
+msgstr ""
+"階段やその他のオブジェクトのアイコン。\n"
+"右方向に動くと、右上に移動します。"
+
+#. ID 5, Page 2, Line 3, Pos (19,1)
+#. ID 6, Page 2, Line 4, Pos (21,1)
+#. ID 13, Page 2, Line 3, Pos (19,3)
+#. ID 14, Page 2, Line 4, Pos (21,3)
+#. ID 85, Page 2, Line 3, Pos (23,3)
+#. ID 93, Page 2, Line 3, Pos (19,5)
+#. ID 95, Page 2, Line 4, Pos (21,5)
+#. ID 100, Page 2, Line 2, Pos (23,5)
+#. ID 111, Page 2, Line 3, Pos (19,7)
+#. ID 112, Page 2, Line 4, Pos (21,7)
+#. ID 113, Page 2, Line 2, Pos (23,7)
+msgid ""
+"Examples of this can be seen below, and it's\n"
+"recommended to copy those events."
+msgstr ""
+"使用例は下の方にあります。\n"
+"イベントをコピーして使うことをおすすめします。"
+
+#. ID 6, Page 2, Line 1, Pos (21,1)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player up and right when moving right, or down\n"
+"and left when moving down."
+msgstr ""
+"傾斜した壁やその他のオブジェクトのアイコン。\n"
+"右方向に動くと右上に移動し、下方向に動くと左下に\n"
+"移動します。"
+
+#. ID 7, Page 2, Line 1, Pos (23,1)
+msgid "Icon for events that unlock some obstruction."
+msgstr "何らかのロックを解除するイベントのアイコン。"
+
+#. ID 7, Page 2, Line 2, Pos (23,1)
+#. ID 8, Page 2, Line 3, Pos (25,1)
+#. ID 10, Page 2, Line 2, Pos (29,1)
+#. ID 11, Page 2, Line 3, Pos (31,1)
+#. ID 12, Page 2, Line 3, Pos (33,1)
+#. ID 86, Page 2, Line 2, Pos (25,3)
+#. ID 87, Page 2, Line 3, Pos (27,3)
+#. ID 89, Page 2, Line 2, Pos (29,3)
+#. ID 90, Page 2, Line 2, Pos (31,3)
+#. ID 91, Page 2, Line 3, Pos (33,3)
+#. ID 102, Page 2, Line 2, Pos (25,5)
+#. ID 104, Page 2, Line 3, Pos (27,5)
+#. ID 105, Page 2, Line 3, Pos (29,5)
+#. ID 108, Page 2, Line 2, Pos (31,5)
+#. ID 110, Page 2, Line 3, Pos (33,5)
+#. ID 115, Page 2, Line 3, Pos (27,7)
+#. ID 116, Page 2, Line 3, Pos (29,7)
+#. ID 117, Page 2, Line 3, Pos (31,7)
+#. ID 118, Page 2, Line 3, Pos (33,7)
+#. ID 119, Page 2, Line 4, Pos (19,9)
+#. ID 120, Page 2, Line 2, Pos (21,9)
+#. ID 121, Page 2, Line 3, Pos (23,9)
+#. ID 122, Page 2, Line 3, Pos (25,9)
+#. ID 123, Page 2, Line 2, Pos (27,9)
+#. ID 125, Page 2, Line 2, Pos (31,9)
+#. ID 127, Page 2, Line 4, Pos (19,11)
+#. ID 128, Page 2, Line 2, Pos (21,11)
+#. ID 129, Page 2, Line 4, Pos (23,11)
+#. ID 130, Page 2, Line 4, Pos (25,11)
+#. ID 131, Page 2, Line 2, Pos (27,11)
+#. ID 133, Page 2, Line 2, Pos (31,11)
+#. ID 135, Page 2, Line 3, Pos (19,13)
+#. ID 136, Page 2, Line 2, Pos (21,13)
+#. ID 137, Page 2, Line 3, Pos (23,13)
+#. ID 138, Page 2, Line 2, Pos (25,13)
+#. ID 139, Page 2, Line 3, Pos (27,13)
+#. ID 141, Page 2, Line 2, Pos (31,13)
+#. ID 143, Page 2, Line 2, Pos (19,15)
+#. ID 144, Page 2, Line 4, Pos (21,15)
+#. ID 145, Page 2, Line 3, Pos (23,15)
+#. ID 146, Page 2, Line 3, Pos (25,15)
+#. ID 147, Page 2, Line 2, Pos (27,15)
+#. ID 148, Page 2, Line 3, Pos (29,15)
+#. ID 149, Page 2, Line 3, Pos (31,15)
+msgid ""
+"Copy page 1 of this event to prevent the icon from\n"
+"appearing in-game in your map."
+msgstr ""
+"このイベントの1ページ目をコピーすると、ゲーム内の\n"
+"マップにアイコンが出現するのを防ぐことができます。"
+
+#. ID 8, Page 2, Line 1, Pos (25,1)
+msgid ""
+"Icon for events that block access to something\n"
+"until unlocked."
+msgstr ""
+"ロックが解除されるまで、何かへのアクセスを妨害する\n"
+"イベントのアイコン。"
+
+#. ID 9, Page 2, Line 1, Pos (27,1)
+msgid "Use not yet implemented."
+msgstr "まだ未使用。"
+
+#. ID 10, Page 2, Line 1, Pos (29,1)
+msgid "Icon for events that change the music."
+msgstr "BGMを変更するイベントのアイコン。"
+
+#. ID 11, Page 2, Line 1, Pos (31,1)
+msgid ""
+"Icon for events that handle altered sight visuals,\n"
+"or visually change under altered sight."
+msgstr ""
+"変化した視界を扱う、または変化した視界の下で\n"
+"見た目が変化するイベントのアイコン。"
+
+#. ID 12, Page 2, Line 1, Pos (33,1)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you up."
+msgstr ""
+"実行されるイベントの流れを示すアイコン、\n"
+"もしくは上に移動するイベントのアイコン。"
+
+#. ID 13, Page 2, Line 1, Pos (19,3)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player down and right when moving right."
+msgstr ""
+"階段やその他のオブジェクトのアイコン。\n"
+"右方向に動くと、右下に移動します。"
+
+#. ID 14, Page 2, Line 1, Pos (21,3)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player up and left when moving left, or down\n"
+"and right when moving down."
+msgstr ""
+"傾斜した壁やその他のオブジェクトのアイコン。\n"
+"左方向に動くと左上に移動し、下方向に動くと右下に\n"
+"移動します。"
+
+#. ID 19, Page 1, Line 10, Pos (19,30)
+#. ID 19, Page 1, Line 15, Pos (19,30)
+#. ID 20, Page 1, Line 10, Pos (21,30)
+#. ID 20, Page 1, Line 15, Pos (21,30)
+#. ID 21, Page 1, Line 10, Pos (23,30)
+#. ID 21, Page 1, Line 15, Pos (23,30)
+#. ID 22, Page 1, Line 10, Pos (25,30)
+#. ID 22, Page 1, Line 15, Pos (25,30)
+#. ID 23, Page 1, Line 10, Pos (27,30)
+#. ID 23, Page 1, Line 15, Pos (27,30)
+#. ID 24, Page 1, Line 10, Pos (29,30)
+#. ID 24, Page 1, Line 15, Pos (29,30)
+#. ID 35, Page 1, Line 10, Pos (19,32)
+#. ID 35, Page 1, Line 15, Pos (19,32)
+#. ID 36, Page 1, Line 10, Pos (21,32)
+#. ID 36, Page 1, Line 15, Pos (21,32)
+#. ID 37, Page 1, Line 10, Pos (23,32)
+#. ID 37, Page 1, Line 15, Pos (23,32)
+#. ID 83, Page 1, Line 10, Pos (31,30)
+#. ID 83, Page 1, Line 15, Pos (31,30)
+#. ID 84, Page 1, Line 10, Pos (33,30)
+#. ID 84, Page 1, Line 15, Pos (33,30)
+msgid "Removed Eidolon"
+msgstr "エイドロンを廃棄"
+
+#. ID 27, Page 1, Line 1, Pos (19,38)
+#. ID 28, Page 1, Line 1, Pos (21,38)
+#. ID 29, Page 1, Line 1, Pos (23,38)
+#. ID 30, Page 1, Line 1, Pos (25,38)
+#. ID 31, Page 1, Line 1, Pos (27,38)
+#. ID 32, Page 1, Line 1, Pos (29,38)
+#. ID 33, Page 1, Line 1, Pos (31,38)
+#. ID 34, Page 1, Line 1, Pos (33,38)
+#. ID 38, Page 1, Line 1, Pos (25,32)
+#. ID 39, Page 1, Line 1, Pos (27,32)
+#. ID 40, Page 1, Line 1, Pos (29,32)
+#. ID 41, Page 1, Line 1, Pos (31,32)
+#. ID 42, Page 1, Line 1, Pos (33,32)
+#. ID 43, Page 1, Line 1, Pos (19,34)
+#. ID 44, Page 1, Line 1, Pos (21,34)
+#. ID 45, Page 1, Line 1, Pos (23,34)
+#. ID 46, Page 1, Line 1, Pos (25,34)
+#. ID 47, Page 1, Line 1, Pos (27,34)
+#. ID 48, Page 1, Line 1, Pos (29,34)
+#. ID 49, Page 1, Line 1, Pos (31,34)
+#. ID 50, Page 1, Line 1, Pos (33,34)
+#. ID 51, Page 1, Line 1, Pos (19,36)
+#. ID 52, Page 1, Line 1, Pos (21,36)
+#. ID 53, Page 1, Line 1, Pos (23,36)
+#. ID 54, Page 1, Line 1, Pos (25,36)
+#. ID 55, Page 1, Line 1, Pos (27,36)
+#. ID 56, Page 1, Line 1, Pos (29,36)
+#. ID 57, Page 1, Line 1, Pos (31,36)
+#. ID 58, Page 1, Line 1, Pos (33,36)
+msgid "No Effect assigned"
+msgstr "エフェクト未登録"
+
+#. ID 61, Page 1, Line 1, Pos (24,24)
+msgid "Shortcut for dev worku n1!"
+msgstr "開発作業用のショートカット１！"
+
+#. ID 63, Page 1, Line 1, Pos (31,25)
+msgid ""
+"You can select or unlock a menu theme by\n"
+"interacting with the floating cubes.\n"
+"When you submit a menu theme in the \"System\"\n"
+"folder, we will take care of creating its cube!"
+msgstr ""
+"浮いているキューブに触ると、メニュータイプの選択、\n"
+"ロック解除ができます。\n"
+"メニュータイプを「System」フォルダに登録すると、\n"
+"私たちがキューブを作成します！"
+
+#. ID 64, Page 1, Line 2, Pos (31,21)
+msgid "Steps: \\v[124]\\v[123]"
+msgstr "歩数: \\v[124]\\v[123]"
+
+#. ID 64, Page 1, Line 5, Pos (31,21)
+msgid "Steps: \\v[123]"
+msgstr "歩数: \\v[123]"
+
+#. ID 65, Page 1, Line 1, Pos (31,27)
+msgid ""
+"For closed connections, make sure your construc-\n"
+"tion signs have an \"X\" symbol on them."
+msgstr ""
+"閉じられた接続の場合、工事中看板に「X」のマークが\n"
+"あることを確認してください。"
+
+#. ID 65, Page 1, Line 3, Pos (31,27)
+msgid ""
+"Closed connections let other developers know they\n"
+"are not allowed to add a connection to that\n"
+"specific spot."
+msgstr ""
+"閉じられた接続は、他の開発者に、その特定の場所に\n"
+"接続を追加してはいけないことを知らせます。"
+
+#. ID 65, Page 1, Line 6, Pos (31,27)
+#. ID 66, Page 1, Line 6, Pos (33,27)
+msgid ""
+"You can either use the default signs (filename is\n"
+"aya_charset_sign_standard), create your own, or\n"
+"use assets that you have permission to use."
+msgstr ""
+"デフォルトの標識\n"
+"(ファイル名aya_charset_sign_standard)を使うか、\n"
+"自分で作成するか、使用許可を得たアセットを\n"
+"使ってください。"
+
+#. ID 65, Page 1, Line 9, Pos (31,27)
+#. ID 66, Page 1, Line 9, Pos (33,27)
+msgid ""
+"There is no required color code, so feel free to\n"
+"be creative when designing them!"
+msgstr ""
+"必須のカラーコードはありませんので、\n"
+"自由にデザインしてください！"
+
+#. ID 66, Page 1, Line 1, Pos (33,27)
+msgid ""
+"For open connections, make sure your construc-\n"
+"tion signs have an \"O\" symbol on them."
+msgstr ""
+"開かれた接続の場合、工事中看板に「O」のマークが\n"
+"あることを確認してください。"
+
+#. ID 66, Page 1, Line 3, Pos (33,27)
+msgid ""
+"Open connections let other developers know they\n"
+"are allowed to add a connection to that specific\n"
+"spot."
+msgstr ""
+"開かれた接続は、他の開発者に、その特定の場所に\n"
+"接続を追加してもよいことを知らせます。"
+
+#. ID 69, Page 1, Line 1, Pos (33,21)
+#. Choice (2 options)
+msgid ""
+"Disable Sprinting\n"
+"Cancel"
+msgstr ""
+"ダッシュを無効化\n"
+"キャンセル"
+
+#. ID 69, Page 2, Line 1, Pos (33,21)
+#. Choice (2 options)
+msgid ""
+"Enable Sprinting\n"
+"Cancel"
+msgstr ""
+"ダッシュを有効化\n"
+"キャンセル"
+
+#. ID 70, Page 1, Line 1, Pos (31,23)
+#. Choice (2 options)
+msgid ""
+"Submerge\n"
+"Cancel"
+msgstr ""
+"水中の状態を有効化\n"
+"キャンセル"
+
+#. ID 70, Page 2, Line 1, Pos (31,23)
+#. Choice (2 options)
+msgid ""
+"Surface\n"
+"Cancel"
+msgstr ""
+"水中の状態を無効化\n"
+"キャンセル"
+
+#. ID 72, Page 1, Line 1, Pos (21,27)
+msgid "Killable NPC (x1)"
+msgstr "殺傷可能なNPC(x1)"
+
+#. ID 72, Page 1, Line 2, Pos (21,27)
+#. ID 74, Page 1, Line 2, Pos (19,27)
+#. ID 76, Page 1, Line 3, Pos (17,27)
+msgid ""
+"Please also use NPC templates as a base for\n"
+"destructable events!"
+msgstr ""
+"破壊可能なイベントのベースにもNPCテンプレートを\n"
+"使用してください！"
+
+#. ID 74, Page 1, Line 1, Pos (19,27)
+msgid "Not killable NPC"
+msgstr "殺傷不可のNPC"
+
+#. ID 76, Page 1, Line 1, Pos (17,27)
+msgid ""
+"Killable NPC (xN)\n"
+"Determined by Local Variable 01 (currently N=5)"
+msgstr ""
+"殺傷可能なNPC(xN)\n"
+"ローカル変数1で判定(現在 N=5)"
+
+#. ID 78, Page 1, Line 27, Pos (25,28)
+msgid "Acquired all Eidola."
+msgstr "全てのエイドラを入手。"
+
+#. ID 79, Page 1, Line 24, Pos (27,28)
+msgid "Removed all Eidola."
+msgstr "全てのエイドラを廃棄。"
+
+#. ID 80, Page 1, Line 2, Pos (27,20)
+msgid ""
+"Quick tutorial:\n"
+"On the left you have templates\n"
+"On the right you have utilities \n"
+"And at the bottom you have eidolas"
+msgstr ""
+"簡単なチュートリアル:\n"
+"左側はテンプレート\n"
+"右側は実用的なイベント \n"
+"下はエイドラ"
+
+#. ID 81, Page 1, Line 1, Pos (33,25)
+#. Contains choice at line 2 (3 options)
+msgid "Unlock menu theme"
+msgstr "メニュータイプをロック解除"
+
+#. ID 81, Page 1, Line 3, Pos (33,25)
+#. Choice (3 options, embedded in a message)
+#. ID 234, Page 1, Line 3, Pos (35,25)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Unlock\n"
+"Lock\n"
+"Back"
+msgstr ""
+"ロック解除\n"
+"ロック\n"
+"戻る"
+
+#. ID 81, Page 1, Line 5, Pos (33,25)
+#. Choice (2 options)
+msgid ""
+"Unlock one\n"
+"Unlock all"
+msgstr ""
+"一つロック解除\n"
+"全てロック解除"
+
+#. ID 81, Page 1, Line 9, Pos (33,25)
+#. ID 234, Page 1, Line 10, Pos (35,25)
+msgid "Unlocked automatically!"
+msgstr "自動的にロック解除されました！"
+
+#. ID 81, Page 1, Line 39, Pos (33,25)
+#. Choice (2 options)
+msgid ""
+"Lock one\n"
+"Lock all"
+msgstr ""
+"一つロック\n"
+"全てロック"
+
+#. ID 82, Page 1, Line 1, Pos (28,24)
+msgid "Shortcut for dev worku n2!"
+msgstr "開発作業用のショートカット２！"
+
+#. ID 85, Page 2, Line 1, Pos (23,3)
+msgid ""
+"Icon for gaps between ladders that the small form\n"
+"of Rodentia can jump across."
+msgstr ""
+"小さな状態の齧歯類だと飛び越えられる、\n"
+"梯子の隙間のアイコン。"
+
+#. ID 86, Page 2, Line 1, Pos (25,3)
+msgid "Icon for events enabling the Imago warp."
+msgstr "鱗翅のワープを有効にするイベントのアイコン。"
+
+#. ID 87, Page 2, Line 1, Pos (27,3)
+msgid ""
+"Icon for warps that keep the player within the\n"
+"same map."
+msgstr ""
+"同じマップ内でプレイヤーをワープさせる\n"
+"イベントのアイコン。"
+
+#. ID 88, Page 1, Line 1, Pos (35,23)
+#. Choice (2 options)
+msgid ""
+"Unlock all Record Player slots\n"
+"Go back"
+msgstr ""
+"レコードプレイヤーの全ての曲をロック解除\n"
+"戻る"
+
+#. ID 89, Page 2, Line 1, Pos (29,3)
+msgid "Icon for events that play sounds."
+msgstr "効果音を再生するイベントのアイコン。"
+
+#. ID 90, Page 2, Line 1, Pos (31,3)
+msgid "Icon for events that can get attacked by Soulfire."
+msgstr "魂の火で攻撃できるイベントのアイコン。"
+
+#. ID 91, Page 2, Line 1, Pos (33,3)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you right."
+msgstr ""
+"実行されるイベントの流れを示すアイコン、\n"
+"もしくは右に移動するイベントのアイコン。"
+
+#. ID 93, Page 2, Line 1, Pos (19,5)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player down and left when moving left."
+msgstr ""
+"階段やその他のオブジェクトのアイコン。\n"
+"左方向に動くと、左下に移動します。"
+
+#. ID 95, Page 2, Line 1, Pos (21,5)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player down and left when moving left, or up\n"
+"and right when moving up."
+msgstr ""
+"傾斜した壁やその他のオブジェクトのアイコン。\n"
+"左方向に動くと左下に移動し、上方向に動くと右上に\n"
+"移動します。"
+
+#. ID 100, Page 2, Line 1, Pos (23,5)
+msgid "Icon for the exit points of ladders."
+msgstr "梯子の終点のアイコン。"
+
+#. ID 102, Page 2, Line 1, Pos (25,5)
+msgid "Icon for events disabling the Imago warp."
+msgstr "鱗翅のワープを無効にするイベントのアイコン。"
+
+#. ID 104, Page 2, Line 1, Pos (27,5)
+msgid ""
+"Icon for warps that teleport the player to another\n"
+"map."
+msgstr ""
+"プレイヤーを別のマップにワープさせる\n"
+"イベントのアイコン。"
+
+#. ID 105, Page 2, Line 1, Pos (29,5)
+msgid ""
+"Icon for events that handle light emission in dark\n"
+"environments."
+msgstr "暗い場所での発光を扱うイベントのアイコン。"
+
+#. ID 107, Page 1, Line 1, Pos (10,26)
+msgid ""
+"Small Rat SHOULD be able to access this ladder\n"
+"If it cannot, please contact Hyo in the CU Discord"
+msgstr ""
+"小さい鼠はこの梯子にアクセスできるはずです\n"
+"アクセスできない場合は、CU DiscordのHyoまで\n"
+"ご連絡ください"
+
+#. ID 108, Page 2, Line 1, Pos (31,5)
+msgid "Icon for sit events, such as chairs and benches."
+msgstr "椅子やベンチなど、座るイベントのアイコン。"
+
+#. ID 110, Page 2, Line 1, Pos (33,5)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you down."
+msgstr ""
+"実行されるイベントの流れを示すアイコン、\n"
+"もしくは下に移動するイベントのアイコン。"
+
+#. ID 111, Page 2, Line 1, Pos (19,7)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player up and left when moving left."
+msgstr ""
+"階段やその他のオブジェクトのアイコン。\n"
+"左方向に動くと、左上に移動します。"
+
+#. ID 112, Page 2, Line 1, Pos (21,7)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player down and right when moving right, or up\n"
+"and left when moving up."
+msgstr ""
+"傾斜した壁やその他のオブジェクトのアイコン。\n"
+"右方向に動くと右下に移動し、上方向に動くと左上に\n"
+"移動します。"
+
+#. ID 113, Page 2, Line 1, Pos (23,7)
+msgid "Icon for the entry points of ladders."
+msgstr "梯子の始点のアイコン。"
+
+#. ID 114, Page 2, Line 1, Pos (25,7)
+#. ID 124, Page 2, Line 1, Pos (29,9)
+#. ID 126, Page 2, Line 1, Pos (33,9)
+#. ID 132, Page 2, Line 1, Pos (29,11)
+#. ID 134, Page 2, Line 1, Pos (33,11)
+#. ID 140, Page 2, Line 1, Pos (29,13)
+#. ID 142, Page 2, Line 1, Pos (33,13)
+#. ID 150, Page 2, Line 1, Pos (33,15)
+msgid "Unused."
+msgstr "未使用。"
+
+#. ID 115, Page 2, Line 1, Pos (27,7)
+msgid ""
+"Icon for warps, or other passageways, that require\n"
+"a small form to pass."
+msgstr "小さくなる必要のある通路やワープなどのアイコン。"
+
+#. ID 116, Page 2, Line 1, Pos (29,7)
+msgid ""
+"Icon for events that handle mechanics for a\n"
+"day-night cycle."
+msgstr "昼夜サイクルの仕組みを扱うイベントのアイコン。"
+
+#. ID 117, Page 2, Line 1, Pos (31,7)
+msgid ""
+"Icon for events that require floating to pass or\n"
+"interact with."
+msgstr ""
+"通過または調べる時に浮遊が必要な\n"
+"イベントのアイコン。"
+
+#. ID 118, Page 2, Line 1, Pos (33,7)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you left."
+msgstr ""
+"実行されるイベントの流れを示すアイコン、\n"
+"もしくは左に移動するイベントのアイコン。"
+
+#. ID 119, Page 2, Line 1, Pos (19,9)
+msgid ""
+"Icon for events that handle cutscenes. If it\n"
+"restricts the player's movement, it probably goes\n"
+"in this category."
+msgstr ""
+"カットシーンを扱うイベントのアイコン。\n"
+"プレイヤーの動きを制限するものであれば、大抵\n"
+"このカテゴリーに入る。"
+
+#. ID 120, Page 2, Line 1, Pos (21,9)
+msgid "Icon for events that clear the weather effects."
+msgstr "天候エフェクトを消すイベントのアイコン。"
+
+#. ID 121, Page 2, Line 1, Pos (23,9)
+msgid ""
+"Icon for events that require the interact button\n"
+"to execute, and don't match any other category."
+msgstr ""
+"他のどのカテゴリーにも当てはまらず、\n"
+"決定キーを押すことで実行されるイベントのアイコン。"
+
+#. ID 122, Page 2, Line 1, Pos (25,9)
+msgid ""
+"Icon for events that hold commands commonly\n"
+"referenced by other events within the map."
+msgstr ""
+"マップ内の他のイベントからよく呼び出される\n"
+"コマンドを持つイベントのアイコン。"
+
+#. ID 123, Page 2, Line 1, Pos (27,9)
+msgid "Icon for events that only contain comments."
+msgstr "注釈のみを含むイベントのアイコン。"
+
+#. ID 125, Page 2, Line 1, Pos (31,9)
+msgid "Icon for events that grant the player an Eidolon."
+msgstr "プレイヤーにエイドロンを与えるイベントのアイコン。"
+
+#. ID 127, Page 2, Line 1, Pos (19,11)
+msgid ""
+"Icon for events that gives money, spends money, or\n"
+"is otherwise related to money, aside from vending\n"
+"machines, capsule machines, and killing NPCs."
+msgstr ""
+"自動販売機、カプセルマシン、NPCの殺傷以外の、\n"
+"お金を与える、お金を使う、その他お金に関係する\n"
+"イベントのアイコン。"
+
+#. ID 128, Page 2, Line 1, Pos (21,11)
+msgid "Icon for events that change the weather to rain."
+msgstr "天候を雨に変えるイベントのアイコン。"
+
+#. ID 129, Page 2, Line 1, Pos (23,11)
+msgid ""
+"Icon for events that require the player to touch\n"
+"the event to execute, and don't match any other\n"
+"category."
+msgstr ""
+"他のどのカテゴリーにも当てはまらず、プレイヤーから\n"
+"触れることで実行されるイベントのアイコン。"
+
+#. ID 130, Page 2, Line 1, Pos (25,11)
+msgid ""
+"Icon for events that require themselves to touch\n"
+"the player to execute, and don't match any other\n"
+"category."
+msgstr ""
+"他のどのカテゴリーにも当てはまらず、イベントから\n"
+"触れることで実行されるイベントのアイコン。"
+
+#. ID 131, Page 2, Line 1, Pos (27,11)
+msgid "Icon for vending machine events."
+msgstr "自動販売機イベントのアイコン。"
+
+#. ID 133, Page 2, Line 1, Pos (31,11)
+msgid "Icon for events that grant the player a menu theme."
+msgstr ""
+"プレイヤーにメニュータイプを与える\n"
+"イベントのアイコン。"
+
+#. ID 135, Page 2, Line 1, Pos (19,13)
+msgid ""
+"Icon for events that don't fit any other category,\n"
+"if needed."
+msgstr ""
+"必要に応じて使用する、他のカテゴリーに\n"
+"当てはまらないイベントのアイコン。"
+
+#. ID 136, Page 2, Line 1, Pos (21,13)
+msgid "Icon for events that change the weather to snow."
+msgstr "天候を雪に変えるイベントのアイコン。"
+
+#. ID 137, Page 2, Line 1, Pos (23,13)
+msgid ""
+"Icon for general parallel process events that don't\n"
+"match any other category."
+msgstr ""
+"他のどのカテゴリーにも当てはまらない、\n"
+"一般的な定期的に並列処理するイベントのアイコン。"
+
+#. ID 138, Page 2, Line 1, Pos (25,13)
+msgid "Used for events which place the player in a boat."
+msgstr "プレイヤーをボートに乗せるイベントに使用される。"
+
+#. ID 139, Page 2, Line 1, Pos (27,13)
+msgid ""
+"Icon for events that prevent movement into\n"
+"its tile."
+msgstr "そのマスへの移動を妨害するイベントのアイコン。"
+
+#. ID 141, Page 2, Line 1, Pos (31,13)
+msgid "Icon for events that grant the player a book cover."
+msgstr ""
+"プレイヤーにブックカバーを与える\n"
+"イベントのアイコン。"
+
+#. ID 143, Page 2, Line 1, Pos (19,15)
+msgid "Icon for events that handle tinting."
+msgstr "色調を扱うイベントのアイコン。"
+
+#. ID 144, Page 2, Line 1, Pos (21,15)
+msgid ""
+"Icon for events that change the weather to\n"
+"multiple types, or other types that aren't\n"
+"sun, rain, or snow."
+msgstr ""
+"天候が複数のタイプに変わるイベントや、\n"
+"太陽、雨、雪以外の天候に変えるイベントのアイコン。"
+
+#. ID 145, Page 2, Line 1, Pos (23,15)
+msgid ""
+"Icon for general autorun events that don't match\n"
+"any other category."
+msgstr ""
+"他のどのカテゴリーにも当てはまらない、\n"
+"一般的な自動的に始まるイベントのアイコン。"
+
+#. ID 146, Page 2, Line 1, Pos (25,15)
+msgid ""
+"Used for events which stop the player if they're\n"
+"in a boat."
+msgstr ""
+"ボートに乗っているプレイヤーを止める\n"
+"イベントに使用される。"
+
+#. ID 147, Page 2, Line 1, Pos (27,15)
+msgid "Icon for events that handle picture events."
+msgstr "ピクチャのイベントを扱うイベントのアイコン。"
+
+#. ID 148, Page 2, Line 1, Pos (29,15)
+msgid ""
+"Icon for events that grant the player\n"
+"a visage or pseudoeffect."
+msgstr ""
+"プレイヤーに容貌や着替え・変身を与える\n"
+"イベントのアイコン。"
+
+#. ID 149, Page 2, Line 1, Pos (31,15)
+msgid ""
+"Icon for events that grant the player\n"
+"another object."
+msgstr "プレイヤーにその他の物を与えるイベントのアイコン。"
+
+#. ID 178, Page 1, Line 1, Pos (43,29)
+msgid "Use number 2 to use Sculpture"
+msgstr "2キーで彫刻を使う"
+
+#. ID 182, Page 1, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"debug overlay\n"
+"Cancel"
+msgstr ""
+"デバッグ情報を表示\n"
+"キャンセル"
+
+#. ID 182, Page 2, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"turn off debug overlay\n"
+"Cancel"
+msgstr ""
+"デバッグ情報を非表示\n"
+"キャンセル"
+
+#. ID 233, Page 1, Line 1, Pos (20,24)
+#. Contains choice at line 2 (2 options)
+msgid "Unlock all VM items?"
+msgstr "自販機の商品を全てロック解除しますか？"
+
+#. ID 233, Page 1, Line 2, Pos (20,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 233, Page 1, Line 17, Pos (20,24)
+msgid "Unlocked all VM items."
+msgstr "自販機の商品を全てロック解除しました"
+
+#. ID 234, Page 1, Line 1, Pos (35,25)
+#. Contains choice at line 2 (3 options)
+msgid "Unlock visages"
+msgstr "容貌をロック解除"
+
+#. ID 234, Page 1, Line 5, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Unlock one (use unlock switch ID)\n"
+"Unlock map visages\n"
+"Unlock all"
+msgstr ""
+"一つロック解除(ロック解除切り替えIDを使用)\n"
+"マップの容貌をロック解除\n"
+"全てロック解除"
+
+#. ID 234, Page 1, Line 60, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Lock one (use unlock switch ID)\n"
+"Lock map visages\n"
+"Lock all"
+msgstr ""
+"一つロック(ロック解除切り替えIDを使用)\n"
+"マップの容貌をロック\n"
+"全てロック"
+
+#. ID 234, Page 1, Line 65, Pos (35,25)
+msgid "Cannot be locked!"
+msgstr "ロックできません！"
+
+#. ID 235, Page 2, Line 1, Pos (37,21)
+#. Contains choice at line 2 (2 options)
+msgid "Equip the animation test pseudo?"
+msgstr "アニメーションテスト用変身を装備しますか？"
+
+#. ID 235, Page 2, Line 2, Pos (37,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip\n"
+"Cancel"
+msgstr ""
+"装備する\n"
+"キャンセル"
+
+#. ID 235, Page 3, Line 1, Pos (37,21)
+#. Choice (2 options)
+msgid ""
+"Dequip\n"
+"Cancel"
+msgstr ""
+"装備解除する\n"
+"キャンセル"
+
+#~ msgid ""
+#~ "This should remove all the eidola that you have\n"
+#~ "obtained, but it doesn't!\n"
+#~ "\n"
+#~ "Talk with each eidola to remove them manually..."
+#~ msgstr ""
+#~ "これで入手したすべてのエイドラが\n"
+#~ "廃棄されるはずだが、そうならない！\n"
+#~ "\n"
+#~ "各エイドラと会話して、手動で廃棄してね..."

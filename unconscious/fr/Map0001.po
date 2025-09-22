@@ -1,0 +1,930 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 4, Page 1, Line 1, Pos (35,27)
+msgid "sniperbob minigame1"
+msgstr "mini-jeu de sniperbob n°1"
+
+#. ID 5, Page 2, Line 1, Pos (19,1)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player up and right when moving right."
+msgstr ""
+"Icône pour les escaliers, ou d'autres événements,\n"
+"qui déplacent le joueur en haut et à droite en se\n"
+"déplaçant vers la droite."
+
+#. ID 5, Page 2, Line 3, Pos (19,1)
+#. ID 6, Page 2, Line 4, Pos (21,1)
+#. ID 13, Page 2, Line 3, Pos (19,3)
+#. ID 14, Page 2, Line 4, Pos (21,3)
+#. ID 85, Page 2, Line 3, Pos (23,3)
+#. ID 93, Page 2, Line 3, Pos (19,5)
+#. ID 95, Page 2, Line 4, Pos (21,5)
+#. ID 100, Page 2, Line 2, Pos (23,5)
+#. ID 111, Page 2, Line 3, Pos (19,7)
+#. ID 112, Page 2, Line 4, Pos (21,7)
+#. ID 113, Page 2, Line 2, Pos (23,7)
+msgid ""
+"Examples of this can be seen below, and it's\n"
+"recommended to copy those events."
+msgstr ""
+"Des exemples peuvent être vus en-dessous, et il\n"
+"est recommandé de copier ces événements."
+
+#. ID 6, Page 2, Line 1, Pos (21,1)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player up and right when moving right, or down\n"
+"and left when moving down."
+msgstr ""
+"Icône pour les murs pentes, ou d'autres événements,\n"
+"qui déplacent le joueur en haut et à droite en se\n"
+"déplaçant vers la droite, ou vers le bas et la\n"
+"gauche en se déplaçant vers le bas."
+
+#. ID 7, Page 2, Line 1, Pos (23,1)
+msgid "Icon for events that unlock some obstruction."
+msgstr ""
+"Icône pour les événements qui débloquent un\n"
+"obstacle."
+
+#. ID 7, Page 2, Line 2, Pos (23,1)
+#. ID 8, Page 2, Line 3, Pos (25,1)
+#. ID 10, Page 2, Line 2, Pos (29,1)
+#. ID 11, Page 2, Line 3, Pos (31,1)
+#. ID 12, Page 2, Line 3, Pos (33,1)
+#. ID 86, Page 2, Line 2, Pos (25,3)
+#. ID 87, Page 2, Line 3, Pos (27,3)
+#. ID 89, Page 2, Line 2, Pos (29,3)
+#. ID 90, Page 2, Line 2, Pos (31,3)
+#. ID 91, Page 2, Line 3, Pos (33,3)
+#. ID 102, Page 2, Line 2, Pos (25,5)
+#. ID 104, Page 2, Line 3, Pos (27,5)
+#. ID 105, Page 2, Line 3, Pos (29,5)
+#. ID 108, Page 2, Line 2, Pos (31,5)
+#. ID 110, Page 2, Line 3, Pos (33,5)
+#. ID 115, Page 2, Line 3, Pos (27,7)
+#. ID 116, Page 2, Line 3, Pos (29,7)
+#. ID 117, Page 2, Line 3, Pos (31,7)
+#. ID 118, Page 2, Line 3, Pos (33,7)
+#. ID 119, Page 2, Line 4, Pos (19,9)
+#. ID 120, Page 2, Line 2, Pos (21,9)
+#. ID 121, Page 2, Line 3, Pos (23,9)
+#. ID 122, Page 2, Line 3, Pos (25,9)
+#. ID 123, Page 2, Line 2, Pos (27,9)
+#. ID 125, Page 2, Line 2, Pos (31,9)
+#. ID 127, Page 2, Line 4, Pos (19,11)
+#. ID 128, Page 2, Line 2, Pos (21,11)
+#. ID 129, Page 2, Line 4, Pos (23,11)
+#. ID 130, Page 2, Line 4, Pos (25,11)
+#. ID 131, Page 2, Line 2, Pos (27,11)
+#. ID 133, Page 2, Line 2, Pos (31,11)
+#. ID 135, Page 2, Line 3, Pos (19,13)
+#. ID 136, Page 2, Line 2, Pos (21,13)
+#. ID 137, Page 2, Line 3, Pos (23,13)
+#. ID 138, Page 2, Line 2, Pos (25,13)
+#. ID 139, Page 2, Line 3, Pos (27,13)
+#. ID 141, Page 2, Line 2, Pos (31,13)
+#. ID 143, Page 2, Line 2, Pos (19,15)
+#. ID 144, Page 2, Line 4, Pos (21,15)
+#. ID 145, Page 2, Line 3, Pos (23,15)
+#. ID 146, Page 2, Line 3, Pos (25,15)
+#. ID 147, Page 2, Line 2, Pos (27,15)
+#. ID 148, Page 2, Line 3, Pos (29,15)
+#. ID 149, Page 2, Line 3, Pos (31,15)
+msgid ""
+"Copy page 1 of this event to prevent the icon from\n"
+"appearing in-game in your map."
+msgstr ""
+"Copiez la page 1 de cet événement pour empêcher\n"
+"l'icône d'apparaître en jeu sur votre carte."
+
+#. ID 8, Page 2, Line 1, Pos (25,1)
+msgid ""
+"Icon for events that block access to something\n"
+"until unlocked."
+msgstr ""
+"Icône pour les événements qui bloquent l'accès\n"
+"à quelque chose jusqu'à qu'il soit débloqué."
+
+#. ID 9, Page 2, Line 1, Pos (27,1)
+msgid "Use not yet implemented."
+msgstr "Utilisation pas encore implémentée."
+
+#. ID 10, Page 2, Line 1, Pos (29,1)
+msgid "Icon for events that change the music."
+msgstr "Icône pour les événements qui changent la musique."
+
+#. ID 11, Page 2, Line 1, Pos (31,1)
+msgid ""
+"Icon for events that handle altered sight visuals,\n"
+"or visually change under altered sight."
+msgstr ""
+"Icône pour les événements qui gèrent les visions\n"
+"altérées, ou qui changent visuellement lors d'une\n"
+"vision altérée."
+
+#. ID 12, Page 2, Line 1, Pos (33,1)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you up."
+msgstr ""
+"Icône pour indiquer le flux d'exécution d'un\n"
+"événement, ou pour les événements qui vous\n"
+"déplacent vers le haut."
+
+#. ID 13, Page 2, Line 1, Pos (19,3)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player down and right when moving right."
+msgstr ""
+"Icône pour les escaliers, ou d'autres événements,\n"
+"qui déplacent le joueur en bas et à droite en se\n"
+"déplaçant vers la droite."
+
+#. ID 14, Page 2, Line 1, Pos (21,3)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player up and left when moving left, or down\n"
+"and right when moving down."
+msgstr ""
+"Icône pour les murs pentes, ou d'autres événements,\n"
+"qui déplacent le joueur en haut et à gauche en se\n"
+"déplaçant vers la gauche, ou vers le bas et la\n"
+"droite en se déplaçant vers le bas."
+
+#. ID 19, Page 1, Line 10, Pos (19,30)
+#. ID 19, Page 1, Line 15, Pos (19,30)
+#. ID 20, Page 1, Line 10, Pos (21,30)
+#. ID 20, Page 1, Line 15, Pos (21,30)
+#. ID 21, Page 1, Line 10, Pos (23,30)
+#. ID 21, Page 1, Line 15, Pos (23,30)
+#. ID 22, Page 1, Line 10, Pos (25,30)
+#. ID 22, Page 1, Line 15, Pos (25,30)
+#. ID 23, Page 1, Line 10, Pos (27,30)
+#. ID 23, Page 1, Line 15, Pos (27,30)
+#. ID 24, Page 1, Line 10, Pos (29,30)
+#. ID 24, Page 1, Line 15, Pos (29,30)
+#. ID 35, Page 1, Line 10, Pos (19,32)
+#. ID 35, Page 1, Line 15, Pos (19,32)
+#. ID 36, Page 1, Line 10, Pos (21,32)
+#. ID 36, Page 1, Line 15, Pos (21,32)
+#. ID 37, Page 1, Line 10, Pos (23,32)
+#. ID 37, Page 1, Line 15, Pos (23,32)
+#. ID 83, Page 1, Line 10, Pos (31,30)
+#. ID 83, Page 1, Line 15, Pos (31,30)
+#. ID 84, Page 1, Line 10, Pos (33,30)
+#. ID 84, Page 1, Line 15, Pos (33,30)
+msgid "Removed Eidolon"
+msgstr "Eidolon retiré"
+
+#. ID 27, Page 1, Line 1, Pos (19,38)
+#. ID 28, Page 1, Line 1, Pos (21,38)
+#. ID 29, Page 1, Line 1, Pos (23,38)
+#. ID 30, Page 1, Line 1, Pos (25,38)
+#. ID 31, Page 1, Line 1, Pos (27,38)
+#. ID 32, Page 1, Line 1, Pos (29,38)
+#. ID 33, Page 1, Line 1, Pos (31,38)
+#. ID 34, Page 1, Line 1, Pos (33,38)
+#. ID 38, Page 1, Line 1, Pos (25,32)
+#. ID 39, Page 1, Line 1, Pos (27,32)
+#. ID 40, Page 1, Line 1, Pos (29,32)
+#. ID 41, Page 1, Line 1, Pos (31,32)
+#. ID 42, Page 1, Line 1, Pos (33,32)
+#. ID 43, Page 1, Line 1, Pos (19,34)
+#. ID 44, Page 1, Line 1, Pos (21,34)
+#. ID 45, Page 1, Line 1, Pos (23,34)
+#. ID 46, Page 1, Line 1, Pos (25,34)
+#. ID 47, Page 1, Line 1, Pos (27,34)
+#. ID 48, Page 1, Line 1, Pos (29,34)
+#. ID 49, Page 1, Line 1, Pos (31,34)
+#. ID 50, Page 1, Line 1, Pos (33,34)
+#. ID 51, Page 1, Line 1, Pos (19,36)
+#. ID 52, Page 1, Line 1, Pos (21,36)
+#. ID 53, Page 1, Line 1, Pos (23,36)
+#. ID 54, Page 1, Line 1, Pos (25,36)
+#. ID 55, Page 1, Line 1, Pos (27,36)
+#. ID 56, Page 1, Line 1, Pos (29,36)
+#. ID 57, Page 1, Line 1, Pos (31,36)
+#. ID 58, Page 1, Line 1, Pos (33,36)
+msgid "No Effect assigned"
+msgstr "Pas d'effet assigné"
+
+#. ID 61, Page 1, Line 1, Pos (24,24)
+msgid "Shortcut for dev worku n1!"
+msgstr "Raccourci pour développeurs n°1 !"
+
+#. ID 63, Page 1, Line 1, Pos (31,25)
+msgid ""
+"You can select or unlock a menu theme by\n"
+"interacting with the floating cubes.\n"
+"When you submit a menu theme in the \"System\"\n"
+"folder, we will take care of creating its cube!"
+msgstr ""
+"Vous pouvez sélectionner un thème de menu\n"
+"en interagissant avec les cubes flottants.\n"
+"Lorsque vous proposez un thème de menu\n"
+"dans le dossier « System »,\n"
+"<easyrpg:new_page>\n"
+"nous prendrons soin de lui créer son propre cube !"
+
+#. ID 64, Page 1, Line 2, Pos (31,21)
+msgid "Steps: \\v[124]\\v[123]"
+msgstr "Pas : \\v[124]\\v[123]"
+
+#. ID 64, Page 1, Line 5, Pos (31,21)
+msgid "Steps: \\v[123]"
+msgstr "Pas : \\v[123]"
+
+#. ID 65, Page 1, Line 1, Pos (31,27)
+msgid ""
+"For closed connections, make sure your construc-\n"
+"tion signs have an \"X\" symbol on them."
+msgstr ""
+"Pour les connexions fermées, assurez-vous que\n"
+"vos panneaux de constructions portent un symbole\n"
+"en forme de « X » sur eux."
+
+#. ID 65, Page 1, Line 3, Pos (31,27)
+msgid ""
+"Closed connections let other developers know they\n"
+"are not allowed to add a connection to that\n"
+"specific spot."
+msgstr ""
+"Les connexions fermées permettent de dire aux\n"
+"autres développeurs qu'ils n'ont pas le droit\n"
+"d'ajouter une connexion à cet endroit spécifique."
+
+#. ID 65, Page 1, Line 6, Pos (31,27)
+#. ID 66, Page 1, Line 6, Pos (33,27)
+msgid ""
+"You can either use the default signs (filename is\n"
+"aya_charset_sign_standard), create your own, or\n"
+"use assets that you have permission to use."
+msgstr ""
+"Vous pouvez soit utiliser les panneaux par défaut\n"
+"(le nom du fichier est aya_charset_sign_standard),\n"
+"soit créer le votre, ou encore utiliser des assets\n"
+"dont vous avez la permission d'utiliser."
+
+#. ID 65, Page 1, Line 9, Pos (31,27)
+#. ID 66, Page 1, Line 9, Pos (33,27)
+msgid ""
+"There is no required color code, so feel free to\n"
+"be creative when designing them!"
+msgstr ""
+"Il n'y a pas de code couleur, donc soyez libre\n"
+"d'être créatif lorsque vous les créez !"
+
+#. ID 66, Page 1, Line 1, Pos (33,27)
+msgid ""
+"For open connections, make sure your construc-\n"
+"tion signs have an \"O\" symbol on them."
+msgstr ""
+"Pour les connexions ouvertes, assurez-vous que\n"
+"vos panneaux de constructions portent un symbole\n"
+"en forme de « O » sur eux."
+
+#. ID 66, Page 1, Line 3, Pos (33,27)
+msgid ""
+"Open connections let other developers know they\n"
+"are allowed to add a connection to that specific\n"
+"spot."
+msgstr ""
+"Les connexions ouvertes permettent de laisser\n"
+"savoir aux autres développeurs qu'ils sont\n"
+"autorisés à ajouter une connexion à cet endroit\n"
+"spécifique."
+
+#. ID 69, Page 1, Line 1, Pos (33,21)
+#. Choice (2 options)
+msgid ""
+"Disable Sprinting\n"
+"Cancel"
+msgstr ""
+"Désactiver le sprint\n"
+"Annuler"
+
+#. ID 69, Page 2, Line 1, Pos (33,21)
+#. Choice (2 options)
+msgid ""
+"Enable Sprinting\n"
+"Cancel"
+msgstr ""
+"Activer le sprint\n"
+"Annuler"
+
+#. ID 70, Page 1, Line 1, Pos (31,23)
+#. Choice (2 options)
+msgid ""
+"Submerge\n"
+"Cancel"
+msgstr ""
+"S'immerger\n"
+"Annuler"
+
+#. ID 70, Page 2, Line 1, Pos (31,23)
+#. Choice (2 options)
+msgid ""
+"Surface\n"
+"Cancel"
+msgstr ""
+"Revenir à la surface\n"
+"Annuler"
+
+#. ID 72, Page 1, Line 1, Pos (21,27)
+msgid "Killable NPC (x1)"
+msgstr "PNJ tuable (x1)"
+
+#. ID 72, Page 1, Line 2, Pos (21,27)
+#. ID 74, Page 1, Line 2, Pos (19,27)
+#. ID 76, Page 1, Line 3, Pos (17,27)
+msgid ""
+"Please also use NPC templates as a base for\n"
+"destructable events!"
+msgstr ""
+"Veuillez aussi utiliser les modèles de PNJ comme\n"
+"base pour les événements destructibles !"
+
+#. ID 74, Page 1, Line 1, Pos (19,27)
+msgid "Not killable NPC"
+msgstr "PNJ non tuable"
+
+#. ID 76, Page 1, Line 1, Pos (17,27)
+msgid ""
+"Killable NPC (xN)\n"
+"Determined by Local Variable 01 (currently N=5)"
+msgstr ""
+"PNJ tuable (xN)\n"
+"Déterminé par la Variable Local 01\n"
+"(actuellement N = 5)"
+
+#. ID 78, Page 1, Line 27, Pos (25,28)
+msgid "Acquired all Eidola."
+msgstr "Tous les Eidola ont été obtenus."
+
+#. ID 79, Page 1, Line 24, Pos (27,28)
+msgid "Removed all Eidola."
+msgstr "Tous les Eidola ont été retirés."
+
+#. ID 80, Page 1, Line 2, Pos (27,20)
+msgid ""
+"Quick tutorial:\n"
+"On the left you have templates\n"
+"On the right you have utilities \n"
+"And at the bottom you have eidolas"
+msgstr ""
+"Tuto rapide :\n"
+"$v À votre gauche se trouve des modèles\n"
+"$t À votre droite se trouve des utilitaires\n"
+"$u Et en bas se trouve les eidola"
+
+#. ID 81, Page 1, Line 1, Pos (33,25)
+#. Contains choice at line 2 (3 options)
+msgid "Unlock menu theme"
+msgstr "Gestion des thèmes de menu"
+
+#. ID 81, Page 1, Line 3, Pos (33,25)
+#. Choice (3 options, embedded in a message)
+#. ID 234, Page 1, Line 3, Pos (35,25)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Unlock\n"
+"Lock\n"
+"Back"
+msgstr ""
+"Débloquer\n"
+"Bloquer\n"
+"Retour"
+
+#. ID 81, Page 1, Line 5, Pos (33,25)
+#. Choice (2 options)
+msgid ""
+"Unlock one\n"
+"Unlock all"
+msgstr ""
+"Débloquer un thème spécifique\n"
+"Débloquer tous les thèmes"
+
+#. ID 81, Page 1, Line 9, Pos (33,25)
+#. ID 234, Page 1, Line 10, Pos (35,25)
+msgid "Unlocked automatically!"
+msgstr "Ce thème de menu est débloqué par défaut."
+
+#. ID 81, Page 1, Line 39, Pos (33,25)
+#. Choice (2 options)
+msgid ""
+"Lock one\n"
+"Lock all"
+msgstr ""
+"Bloquer un thème spécifique\n"
+"Bloquer tous les thèmes"
+
+#. ID 82, Page 1, Line 1, Pos (28,24)
+msgid "Shortcut for dev worku n2!"
+msgstr "Raccourci pour développeurs n°2 !"
+
+#. ID 85, Page 2, Line 1, Pos (23,3)
+msgid ""
+"Icon for gaps between ladders that the small form\n"
+"of Rodentia can jump across."
+msgstr ""
+"Icône pour les espaces entre les échelles que la\n"
+"petite forme de l'Eidolon Rodentia peut sauter\n"
+"par-dessus."
+
+#. ID 86, Page 2, Line 1, Pos (25,3)
+msgid "Icon for events enabling the Imago warp."
+msgstr ""
+"Icône pour les événements activant la\n"
+"téléportation Imago."
+
+#. ID 87, Page 2, Line 1, Pos (27,3)
+msgid ""
+"Icon for warps that keep the player within the\n"
+"same map."
+msgstr ""
+"Icône pour les téléporteurs qui gardent le joueur\n"
+"sur la même carte."
+
+#. ID 88, Page 1, Line 1, Pos (35,23)
+#. Choice (2 options)
+msgid ""
+"Unlock all Record Player slots\n"
+"Go back"
+msgstr ""
+"Débloquer toutes les pistes du Tourne-disque\n"
+"Annuler"
+
+#. ID 89, Page 2, Line 1, Pos (29,3)
+msgid "Icon for events that play sounds."
+msgstr ""
+"Icône pour les événements qui jouent des effets\n"
+"sonores."
+
+#. ID 90, Page 2, Line 1, Pos (31,3)
+msgid "Icon for events that can get attacked by Soulfire."
+msgstr ""
+"Icône pour les événements qui peuvent être\n"
+"attaqués par l'Eidolon Feu d'âme."
+
+#. ID 91, Page 2, Line 1, Pos (33,3)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you right."
+msgstr ""
+"Icône pour indiquer le flux d'exécution d'un\n"
+"événement, ou pour les événements qui vous\n"
+"déplacent vers la droite."
+
+#. ID 93, Page 2, Line 1, Pos (19,5)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player down and left when moving left."
+msgstr ""
+"Icône pour les escaliers, ou d'autres événements,\n"
+"qui déplacent le joueur en bas et à gauche en se\n"
+"déplaçant vers la gauche."
+
+#. ID 95, Page 2, Line 1, Pos (21,5)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player down and left when moving left, or up\n"
+"and right when moving up."
+msgstr ""
+"Icône pour les murs pentes, ou d'autres événements,\n"
+"qui déplacent le joueur en bas et à gauche en se\n"
+"déplaçant vers la gauche, ou vers le haut et la\n"
+"droite en se déplaçant vers le haut."
+
+#. ID 100, Page 2, Line 1, Pos (23,5)
+msgid "Icon for the exit points of ladders."
+msgstr "Icône pour les points de sortie des échelles."
+
+#. ID 102, Page 2, Line 1, Pos (25,5)
+msgid "Icon for events disabling the Imago warp."
+msgstr ""
+"Icône pour les événements désactivant la\n"
+"téléportation Imago."
+
+#. ID 104, Page 2, Line 1, Pos (27,5)
+msgid ""
+"Icon for warps that teleport the player to another\n"
+"map."
+msgstr ""
+"Icône pour les téléporteurs qui téléportent\n"
+"le joueur vers une autre carte."
+
+#. ID 105, Page 2, Line 1, Pos (29,5)
+msgid ""
+"Icon for events that handle light emission in dark\n"
+"environments."
+msgstr ""
+"Icône pour les événements gèrent l'émission de\n"
+"lumière dans les environnements sombres."
+
+#. ID 107, Page 1, Line 1, Pos (10,26)
+msgid ""
+"Small Rat SHOULD be able to access this ladder\n"
+"If it cannot, please contact Hyo in the CU Discord"
+msgstr ""
+"Le p'tit Rat DEVRAIT être capable d'accéder à\n"
+"cette échelle. Si ce n'est pas le cas, veuillez\n"
+"contacter Hyo dans le serveur Discord de CU"
+
+#. ID 108, Page 2, Line 1, Pos (31,5)
+msgid "Icon for sit events, such as chairs and benches."
+msgstr ""
+"Icône pour les événements pour s'asseoir, tels que\n"
+"les chaises et les bancs."
+
+#. ID 110, Page 2, Line 1, Pos (33,5)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you down."
+msgstr ""
+"Icône pour indiquer le flux d'exécution d'un\n"
+"événement, ou pour les événements qui vous\n"
+"déplacent vers le bas."
+
+#. ID 111, Page 2, Line 1, Pos (19,7)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player up and left when moving left."
+msgstr ""
+"Icône pour les escaliers, ou d'autres événements,\n"
+"qui déplacent le joueur en haut et à gauche en se\n"
+"déplaçant vers la gauche."
+
+#. ID 112, Page 2, Line 1, Pos (21,7)
+msgid ""
+"Icon for sloped walls, or other objects, that move\n"
+"the player down and right when moving right, or up\n"
+"and left when moving up."
+msgstr ""
+"Icône pour les murs pentes, ou d'autres événements,\n"
+"qui déplacent le joueur en bas et à droite en se\n"
+"déplaçant vers la droite, ou vers le haut et la\n"
+"gauche en se déplaçant vers le haut."
+
+#. ID 113, Page 2, Line 1, Pos (23,7)
+msgid "Icon for the entry points of ladders."
+msgstr "Icône pour les points d'entrée des échelles."
+
+#. ID 114, Page 2, Line 1, Pos (25,7)
+#. ID 124, Page 2, Line 1, Pos (29,9)
+#. ID 126, Page 2, Line 1, Pos (33,9)
+#. ID 132, Page 2, Line 1, Pos (29,11)
+#. ID 134, Page 2, Line 1, Pos (33,11)
+#. ID 140, Page 2, Line 1, Pos (29,13)
+#. ID 142, Page 2, Line 1, Pos (33,13)
+#. ID 150, Page 2, Line 1, Pos (33,15)
+msgid "Unused."
+msgstr "Inutilisé."
+
+#. ID 115, Page 2, Line 1, Pos (27,7)
+msgid ""
+"Icon for warps, or other passageways, that require\n"
+"a small form to pass."
+msgstr ""
+"Icône pour les téléporteurs, ou d'autres passages,\n"
+"qui demandent d'utiliser une petite forme pour\n"
+"passer."
+
+#. ID 116, Page 2, Line 1, Pos (29,7)
+msgid ""
+"Icon for events that handle mechanics for a\n"
+"day-night cycle."
+msgstr ""
+"Icône pour les événements qui gèrent les\n"
+"mécaniques d'un cycle jour-nuit."
+
+#. ID 117, Page 2, Line 1, Pos (31,7)
+msgid ""
+"Icon for events that require floating to pass or\n"
+"interact with."
+msgstr ""
+"Icône pour les événements qui demandent de\n"
+"flotter pour passer ou pour interagir avec."
+
+#. ID 118, Page 2, Line 1, Pos (33,7)
+msgid ""
+"Icon to indicate event execution flow, or even for\n"
+"events that just move you left."
+msgstr ""
+"Icône pour indiquer le flux d'exécution d'un\n"
+"événement, ou pour les événements qui vous\n"
+"déplacent vers la gauche."
+
+#. ID 119, Page 2, Line 1, Pos (19,9)
+msgid ""
+"Icon for events that handle cutscenes. If it\n"
+"restricts the player's movement, it probably goes\n"
+"in this category."
+msgstr ""
+"Icône pour les événements qui gèrent les\n"
+"cinématiques. Si cela restreint les mouvements\n"
+"du joueur, il correspond probablement à cette\n"
+"catégorie."
+
+#. ID 120, Page 2, Line 1, Pos (21,9)
+msgid "Icon for events that clear the weather effects."
+msgstr ""
+"Icône pour les événements qui effacent tout type\n"
+"d'effets météorologiques."
+
+#. ID 121, Page 2, Line 1, Pos (23,9)
+msgid ""
+"Icon for events that require the interact button\n"
+"to execute, and don't match any other category."
+msgstr ""
+"Icône pour les événements qui demandent d'utiliser\n"
+"le bouton d'interaction pour s'exécuter, et qui ne\n"
+"correspondent pas à d'autres catégories."
+
+#. ID 122, Page 2, Line 1, Pos (25,9)
+msgid ""
+"Icon for events that hold commands commonly\n"
+"referenced by other events within the map."
+msgstr ""
+"Icône pour les événements qui contiennent des\n"
+"commandes utilisées fréquemment par d'autres\n"
+"événements dans la carte en question."
+
+#. ID 123, Page 2, Line 1, Pos (27,9)
+msgid "Icon for events that only contain comments."
+msgstr ""
+"Icône pour les événements qui ne contiennent\n"
+"uniquement des commentaires."
+
+#. ID 125, Page 2, Line 1, Pos (31,9)
+msgid "Icon for events that grant the player an Eidolon."
+msgstr "Icône pour les événements qui donnent un Eidolon."
+
+#. ID 127, Page 2, Line 1, Pos (19,11)
+msgid ""
+"Icon for events that gives money, spends money, or\n"
+"is otherwise related to money, aside from vending\n"
+"machines, capsule machines, and killing NPCs."
+msgstr ""
+"Icône pour les événements qui impliquent de\n"
+"l'argent de quelconque manière, que ce soit donner\n"
+"ou dépenser, en dehors des distributeurs\n"
+"automatiques, des machines à capsule ou encore de\n"
+"<easyrpg:new_page>\n"
+"tuer des PNJs."
+
+#. ID 128, Page 2, Line 1, Pos (21,11)
+msgid "Icon for events that change the weather to rain."
+msgstr ""
+"Icône pour les événements qui changent la météo\n"
+"en pluie."
+
+#. ID 129, Page 2, Line 1, Pos (23,11)
+msgid ""
+"Icon for events that require the player to touch\n"
+"the event to execute, and don't match any other\n"
+"category."
+msgstr ""
+"Icône pour les événements qui demandent que\n"
+"le joueur touche l'événement pour s'exécuter, et\n"
+"qui ne correspondent pas à d'autres catégories."
+
+#. ID 130, Page 2, Line 1, Pos (25,11)
+msgid ""
+"Icon for events that require themselves to touch\n"
+"the player to execute, and don't match any other\n"
+"category."
+msgstr ""
+"Icône pour les événements qui se déclenchent\n"
+"lorsqu'ils rentrent en collision avec le joueur\n"
+"et qui ne correspondent à aucune autre\n"
+"catégorie."
+
+#. ID 131, Page 2, Line 1, Pos (27,11)
+msgid "Icon for vending machine events."
+msgstr ""
+"Icône pour les événements de distributeur\n"
+"automatique."
+
+#. ID 133, Page 2, Line 1, Pos (31,11)
+msgid "Icon for events that grant the player a menu theme."
+msgstr ""
+"Icône pour les événements qui donnent un thème\n"
+"de menu."
+
+#. ID 135, Page 2, Line 1, Pos (19,13)
+msgid ""
+"Icon for events that don't fit any other category,\n"
+"if needed."
+msgstr ""
+"Icône pour les événements qui ne correspondent\n"
+"à aucune autre catégorie, si besoin."
+
+#. ID 136, Page 2, Line 1, Pos (21,13)
+msgid "Icon for events that change the weather to snow."
+msgstr ""
+"Icône pour les événements qui changent la météo\n"
+"en neige."
+
+#. ID 137, Page 2, Line 1, Pos (23,13)
+msgid ""
+"Icon for general parallel process events that don't\n"
+"match any other category."
+msgstr ""
+"Icône pour les événements généraux de processus\n"
+"parallèle qui ne correspondent pas à d'autres\n"
+"catégories."
+
+#. ID 138, Page 2, Line 1, Pos (25,13)
+msgid "Used for events which place the player in a boat."
+msgstr ""
+"Icône pour les événements qui placent le joueur\n"
+"dans un bateau."
+
+#. ID 139, Page 2, Line 1, Pos (27,13)
+msgid ""
+"Icon for events that prevent movement into\n"
+"its tile."
+msgstr ""
+"Icône pour les événements qui empêchent de se\n"
+"mouvoir sur la tuile en question."
+
+#. ID 141, Page 2, Line 1, Pos (31,13)
+msgid "Icon for events that grant the player a book cover."
+msgstr ""
+"Icône pour les événements qui donnent une\n"
+"couverture pour le livre."
+
+#. ID 143, Page 2, Line 1, Pos (19,15)
+msgid "Icon for events that handle tinting."
+msgstr ""
+"Icône pour les événements qui gèrent le\n"
+"tintement."
+
+#. ID 144, Page 2, Line 1, Pos (21,15)
+msgid ""
+"Icon for events that change the weather to\n"
+"multiple types, or other types that aren't\n"
+"sun, rain, or snow."
+msgstr ""
+"Icône pour les événements qui changent la météo\n"
+"de multiples façons, ou d'autres façons qui ne\n"
+"sont pas le soleil, la pluie et la neige."
+
+#. ID 145, Page 2, Line 1, Pos (23,15)
+msgid ""
+"Icon for general autorun events that don't match\n"
+"any other category."
+msgstr ""
+"Icône pour les événements généraux autorun qui\n"
+"ne correspondent pas à d'autres catégories."
+
+#. ID 146, Page 2, Line 1, Pos (25,15)
+msgid ""
+"Used for events which stop the player if they're\n"
+"in a boat."
+msgstr ""
+"Icône pour les événements qui arrêtent le joueur\n"
+"si il est dans un bateau."
+
+#. ID 147, Page 2, Line 1, Pos (27,15)
+msgid "Icon for events that handle picture events."
+msgstr ""
+"Icône pour les événements qui s'occupent de gérer\n"
+"des images."
+
+#. ID 148, Page 2, Line 1, Pos (29,15)
+msgid ""
+"Icon for events that grant the player\n"
+"a visage or pseudoeffect."
+msgstr ""
+"Icône pour les événements qui donnent un visage\n"
+"ou pseudo-effet."
+
+#. ID 149, Page 2, Line 1, Pos (31,15)
+msgid ""
+"Icon for events that grant the player\n"
+"another object."
+msgstr ""
+"Icône pour les événements qui donnent un autre\n"
+"type d'objet."
+
+#. ID 178, Page 1, Line 1, Pos (43,29)
+msgid "Use number 2 to use Sculpture"
+msgstr "Utilisez la touche 2 pour utiliser Sculpture"
+
+#. ID 182, Page 1, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"debug overlay\n"
+"Cancel"
+msgstr ""
+"Surcouche de débogage\n"
+"Annuler"
+
+#. ID 182, Page 2, Line 1, Pos (35,21)
+#. Choice (2 options)
+msgid ""
+"turn off debug overlay\n"
+"Cancel"
+msgstr ""
+"Désactiver la surcouche de débogage\n"
+"Annuler"
+
+#. ID 233, Page 1, Line 1, Pos (20,24)
+#. Contains choice at line 2 (2 options)
+msgid "Unlock all VM items?"
+msgstr ""
+"Débloquer tous les objets du distributeur\n"
+"automatique géant ?"
+
+#. ID 233, Page 1, Line 2, Pos (20,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 233, Page 1, Line 17, Pos (20,24)
+msgid "Unlocked all VM items."
+msgstr "Tous les objets du distributeur ont été débloqués."
+
+#. ID 234, Page 1, Line 1, Pos (35,25)
+#. Contains choice at line 2 (3 options)
+msgid "Unlock visages"
+msgstr "Débloquer tous les visages"
+
+#. ID 234, Page 1, Line 5, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Unlock one (use unlock switch ID)\n"
+"Unlock map visages\n"
+"Unlock all"
+msgstr ""
+"Débloquer vsg (utiliser ID switch de déblocage)\n"
+"Débloquer les visages des cartes\n"
+"Débloquer tous les visages"
+
+#. ID 234, Page 1, Line 60, Pos (35,25)
+#. Choice (3 options)
+msgid ""
+"Lock one (use unlock switch ID)\n"
+"Lock map visages\n"
+"Lock all"
+msgstr ""
+"Bloquer vsg (utiliser ID switch de déblocage)\n"
+"Bloquer les visages des cartes\n"
+"Bloquer tous les visages"
+
+#. ID 234, Page 1, Line 65, Pos (35,25)
+msgid "Cannot be locked!"
+msgstr "Ne peut pas être bloqué !"
+
+#. ID 235, Page 2, Line 1, Pos (37,21)
+#. Contains choice at line 2 (2 options)
+msgid "Equip the animation test pseudo?"
+msgstr "Équiper le test d'animation de pseudo ?"
+
+#. ID 235, Page 2, Line 2, Pos (37,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip\n"
+"Cancel"
+msgstr ""
+"Équiper\n"
+"Annuler"
+
+#. ID 235, Page 3, Line 1, Pos (37,21)
+#. Choice (2 options)
+msgid ""
+"Dequip\n"
+"Cancel"
+msgstr ""
+"Retirer\n"
+"Annuler"
+
+#~ msgid ""
+#~ "This should remove all the eidola that you have\n"
+#~ "obtained, but it doesn't!\n"
+#~ "\n"
+#~ "Talk with each eidola to remove them manually..."
+#~ msgstr ""
+#~ "Bien que censé retirer tous les eidola que vous\n"
+#~ "avez obtenus, cela ne marche pas !\n"
+#~ "Parlez avec chaque eidolon pour les retirer un par\n"
+#~ "un..."

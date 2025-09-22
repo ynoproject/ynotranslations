@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 9, Line 14
+msgid "                  *Fast Forward*"
+msgstr "                *Przyspieszenie*"
+
+#. ID 9, Line 18
+msgid "                    *Boombox*"
+msgstr ""
+
+#. ID 9, Line 22
+msgid "                    *Snowglobe*"
+msgstr "                  *Kula śnieżna*"
+
+#. ID 9, Line 26
+msgid "                   *Dark Matter*"
+msgstr "                 *Ciemna materia*"
+
+#. ID 9, Line 30
+msgid "                     *Turtle*"
+msgstr "                     *Żółw*"
+
+#. ID 9, Line 34
+msgid "                    *Lamppost*"
+msgstr "                   *Latarnia*"
+
+#. ID 9, Line 38
+msgid "                       *Box*"
+msgstr "                     *Pudło*"
+
+#. ID 9, Line 42
+msgid "                     *Pencil*"
+msgstr "                    *Ołówek*"
+
+#. ID 9, Line 46
+msgid "                      *Seer*"
+msgstr "                  *Obserwator*"
+
+#. ID 9, Line 50
+msgid "                      *Hood*"
+msgstr "                    *Kaptur*"
+
+#. ID 9, Line 54
+msgid "                      *Plug*"
+msgstr "                    *Wtyczka*"
+
+#. ID 9, Line 58
+msgid "                      *Mouth*"
+msgstr "                     *Usta*"
+
+#. ID 9, Line 64
+msgid "                      *Star*"
+msgstr "                   *Gwiazdka*"
+
+#. ID 9, Line 68
+msgid "                    *Music Box*"
+msgstr "                   *Pozytywka*"
+
+#. ID 9, Line 72
+msgid "                *Lily of the Valley*"
+msgstr "                    *Konwalia*"
+
+#. ID 9, Line 76
+msgid "                      *Cape*"
+msgstr "                   *Peleryna*"
+
+#. ID 9, Line 80
+msgid "                    *UV Light*"
+msgstr "                  *Światło UV*"
+
+#. ID 9, Line 84
+msgid "                    *Sunflower*"
+msgstr "                  *Słonecznik*"
+
+#. ID 9, Line 88
+msgid "                    *Nightcap*"
+msgstr "                 *Czapka nocna*"
+
+#. ID 9, Line 92
+msgid "                    *Butterfly*"
+msgstr "                     *Motyl*"
+
+#. ID 9, Line 96
+msgid "                    *Mermaid*"
+msgstr "                   *Syrenka*"
+
+#. ID 9, Line 100
+msgid "                    *Sidetail*"
+msgstr ""
+
+#. ID 9, Line 104
+msgid "                     *Origami*"
+msgstr ""
+
+#. ID 9, Line 108
+msgid "                      *Cyber*"
+msgstr ""
+
+#. ID 14, Line 4
+#. Choice (4 options)
+msgid ""
+"\\>Player Speed\n"
+"\\>Teleport\n"
+"\\>Page 2\n"
+"\\>Exit"
+msgstr ""
+
+#. ID 14, Line 6
+#. Choice (4 options)
+msgid ""
+"\\><<<< - MAXIMUM SPEED\n"
+"\\><<< - 4x Speed\n"
+"\\><< - 2x Speed\n"
+"\\>< - Normal Speed"
+msgstr ""
+
+#. ID 14, Line 30
+#. Choice (2 options)
+msgid ""
+"Special Locations\n"
+"Custom"
+msgstr ""
+
+#. ID 14, Line 32
+#. Choice (4 options)
+msgid ""
+"Debug Room\n"
+"Bedrooms\n"
+"Nexuses\n"
+"Before Video Game Worlds"
+msgstr ""
+
+#. ID 14, Line 40
+#. Choice (2 options)
+#. ID 14, Line 56
+#. Choice (2 options)
+msgid ""
+"Kubo\n"
+"Totsu"
+msgstr ""
+
+#. ID 14, Line 92
+msgid "\\>Your current location is Map \\V[0005] X \\V[0006] Y \\V[0007]."
+msgstr ""
+
+#. ID 14, Line 93
+msgid ""
+"\\>M: XXXX X: XXX Y: XXX\n"
+"\\>Enter your map #:"
+msgstr ""
+
+#. ID 14, Line 97
+msgid ""
+"\\>M: \\V[0009] X: XXX Y: XXX\n"
+"\\>Enter your map X:"
+msgstr ""
+
+#. ID 14, Line 106
+msgid ""
+"\\>M: \\V[0009] X: \\V[0010] Y: XXX\n"
+"\\>Enter your map Y:"
+msgstr ""
+
+#. ID 14, Line 130
+#. Choice (4 options)
+msgid ""
+"\\>Save\n"
+"\\>Captured By Chaser\n"
+"\\>Unlock Screen Pos.\n"
+"\\>Title Screen"
+msgstr ""
+
+#. ID 19, Line 73
+#. ID 19, Line 97
+msgid "Quick Effect 1 is not set."
+msgstr "Szybki efekt 1 nie jest ustawiony."
+
+#. ID 19, Line 84
+#. ID 19, Line 108
+msgid "Quick Effect 2 is not set."
+msgstr "Szybki efekt 2 nie jest ustawiony."
+
+#. ID 77, Line 203
+#. Contains choice at line 2 (2 options)
+msgid "Switch characters?"
+msgstr "Zmienić postać?"
+
+#. ID 77, Line 204
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Tak\n"
+"Nie"
+
+#. ID 77, Line 372
+#. ID 77, Line 383
+msgid "(Work in progress!)"
+msgstr "(Pod konstrukcją!)"
+
+#. ID 77, Line 391
+#. Choice (1 options)
+msgid "Quick Effects"
+msgstr "Szybkie efekty"
+
+#. ID 77, Line 397
+#. ID 77, Line 447
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"Szybki efekt 1 nie jest ustawiony.\n"
+"Szybki efekt 2 nie jest ustawiony."
+
+#. ID 77, Line 401
+#. ID 77, Line 451
+msgid ""
+"Quick Effect 1 is not set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"Szybki efekt 1 nie jest ustawiony.\n"
+"Szybki efekt 2 jest ustawiony."
+
+#. ID 77, Line 408
+#. ID 77, Line 458
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is not set."
+msgstr ""
+"Szybki efekt 1 jest ustawiony.\n"
+"Szybki efekt 2 nie jest ustawiony."
+
+#. ID 77, Line 412
+#. ID 77, Line 462
+msgid ""
+"Quick Effect 1 is set.\n"
+"Quick Effect 2 is set."
+msgstr ""
+"Szybki efekt 1 jest ustawiony.\n"
+"Szybki efekt 2 jest ustawiony."
+
+#. ID 77, Line 418
+#. Choice (2 options)
+#. ID 77, Line 468
+#. Choice (2 options)
+msgid ""
+"Modify Quick Effect 1\n"
+"Modify Quick Effect 2"
+msgstr ""
+"Ustaw szybki efekt 1\n"
+"Ustaw szybki efekt 2"
+
+#. ID 77, Line 420
+#. ID 77, Line 430
+#. ID 77, Line 470
+#. ID 77, Line 480
+msgid "Select your preferred quick effect."
+msgstr "Wybierz efekt."
+
+#. ID 77, Line 426
+#. ID 77, Line 476
+msgid "Quick Effect 1 set."
+msgstr "Szybki efekt 1 został ustawiony."
+
+#. ID 77, Line 436
+#. ID 77, Line 486
+msgid "Quick Effect 2 set."
+msgstr "Szybki efekt 2 został ustawiony."
+
+#. ID 87, Line 21
+#. ID 89, Line 21
+#. ID 89, Line 51
+#. ID 89, Line 63
+msgid "how did you manage to do this?"
+msgstr "jak"
+
+#. ID 105, Line 15
+#. ID 105, Line 32
+#. ID 105, Line 39
+#. ID 105, Line 238
+msgid "\\$\\|\\^"
+msgstr ""
+

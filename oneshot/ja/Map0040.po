@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 6, Page 1, Line 5, Pos (18,11)
+msgid "You're really good..."
+msgstr "お姉さん、すごく強いね…"
+
+#. ID 6, Page 1, Line 7, Pos (18,11)
+msgid ""
+"I have a lot of free time.\\!\n"
+"Chess keeps my mind busy."
+msgstr ""
+"暇な時間が長かったから。\\!\n"
+"チェスは私の心を忙しくしてくれるの。"
+
+#. ID 6, Page 1, Line 11, Pos (18,11)
+msgid ""
+"Why are you here all alone,\n"
+"anyway?"
+msgstr "ところで、なんでずっとここで一人なの？"
+
+#. ID 6, Page 1, Line 15, Pos (18,11)
+#. ID 6, Page 1, Line 46, Pos (18,11)
+msgid "Check."
+msgstr "チェック。"
+
+#. ID 6, Page 1, Line 17, Pos (18,11)
+msgid ""
+"I'm here because I want to be.\\!\n"
+"This place is my home."
+msgstr ""
+"私が居たいからここに居る。\\!\n"
+"ここは私の家だから。"
+
+#. ID 6, Page 1, Line 20, Pos (18,11)
+msgid ""
+"Ah.\\!\n"
+".\\..\\..\\."
+msgstr ""
+"そうなんだ。\\!\n"
+".\\..\\..\\."
+
+#. ID 6, Page 1, Line 23, Pos (18,11)
+msgid ""
+"Have you ever been to any\n"
+"other regions?\\!\n"
+"I heard that there's three."
+msgstr ""
+"他の地域には行ったことある？\\!\n"
+"３つあるって聞いたんだ。"
+
+#. ID 6, Page 1, Line 27, Pos (18,11)
+msgid ""
+"In the past, yes.\\!\n"
+"I probably wouldn't recognize\n"
+"them now."
+msgstr ""
+"昔にね。\\!\n"
+"今どうなっているかは分からないわ。"
+
+#. ID 6, Page 1, Line 31, Pos (18,11)
+msgid "They changed that much, huh..."
+msgstr "そんなに変わったんだね、そっか…"
+
+#. ID 6, Page 1, Line 33, Pos (18,11)
+msgid "Because the sun is gone?"
+msgstr "太陽がなくなったから？"
+
+#. ID 6, Page 1, Line 36, Pos (18,11)
+msgid ""
+"No.\\!\n"
+"I said this already, didn't I?\\!\n"
+".\\..\\..The sun won't save the world."
+msgstr ""
+"いいえ。\\!\n"
+"もう、この話はしたでしょう？\\!\n"
+".\\..\\..太陽は、この世界を救えない。"
+
+#. ID 6, Page 1, Line 39, Pos (18,11)
+msgid ""
+"The decaying started back before \n"
+"the sun went out.\n"
+"I guess the sun's sudden death was\n"
+"just the tipping point."
+msgstr ""
+"崩壊は、太陽が消える前から\n"
+"始まっていたの。\n"
+"太陽が突然死んだのは、その転換点に\n"
+"過ぎないのだと思うわ。"
+
+#. ID 6, Page 1, Line 43, Pos (18,11)
+msgid ""
+"Things went south really\n"
+"fast after that."
+msgstr ""
+"そのあと、急速に状況が悪化して\n"
+"いっただけ。"
+
+#. ID 6, Page 1, Line 48, Pos (18,11)
+msgid "W-what!"
+msgstr "そ、そんなぁ!"
+
+#. ID 6, Page 1, Line 50, Pos (18,11)
+msgid ""
+"When did your queen\n"
+"get there..."
+msgstr "いつの間にクイーンがそんなところに…"
+
+#. ID 6, Page 1, Line 54, Pos (18,11)
+msgid "So... what brought you here?"
+msgstr "それで…どうしてここに来たの？"
+
+#. ID 6, Page 1, Line 56, Pos (18,11)
+msgid ""
+"This place was supposed to\n"
+"be a second chance for me."
+msgstr ""
+"この場所は私にとって、第２のチャンス\n"
+"だったの。"
+
+#. ID 6, Page 1, Line 59, Pos (18,11)
+msgid "A second chance?"
+msgstr "第２のチャンス？"
+
+#. ID 6, Page 1, Line 61, Pos (18,11)
+msgid "Checkmate."
+msgstr "チェックメイト。"
+
+#. ID 6, Page 1, Line 63, Pos (18,11)
+msgid "..."
+msgstr "…"
+
+#. ID 6, Page 1, Line 65, Pos (18,11)
+msgid ""
+"Alright, guess I've kept you long\n"
+"enough...\\|\n"
+"...Thank you for listening.\\!\n"
+"I hope you get home safely."
+msgstr ""
+"さてと…長居させてしまったわね。\\|\n"
+"…話を聞いてくれて、ありがとう。\\!\n"
+"無事に帰れるといいわね。"
+
+#. ID 6, Page 1, Line 72, Pos (18,11)
+msgid "Ah, thank you!"
+msgstr "うん、ありがとう!"

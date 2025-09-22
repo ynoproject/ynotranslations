@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 2, Page 1, Line 10, Pos (39,12)
 #. Choice (4 options)
@@ -189,5 +189,5 @@ msgid ""
 msgstr ""
 "[No.7 Modo Especialista]　Inacabado\n"
 "Pontos requeridos __ 24(\\V[3808])\n"
-"Pontos ganhos ______ \\V[3814]/5\n"
+"Pontos ganhos ______ \\V[3815]/5\n"
 "Dificuldade ________ ★★★★★★"

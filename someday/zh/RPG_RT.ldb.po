@@ -28,11 +28,6 @@ msgctxt "skills.description"
 msgid "Defeat your bullies"
 msgstr "打败欺负你的人"
 
-#. ID 1
-msgctxt "skills.using_message1"
-msgid "‚ÌUŒ‚I"
-msgstr "偺峌寕両"
-
 #. ID 2
 msgctxt "skills.name"
 msgid "Fallen"
@@ -345,20 +340,50 @@ msgstr "杀了森林里的胡蜂并回来"
 
 #. ID 33
 msgctxt "skills.name"
-msgid "H: Music collector"
+msgid "Vitamin"
 msgstr ""
 
 #. ID 33
 msgctxt "skills.description"
-msgid "Unlock every music from Music Folders"
+msgid "Get your daily dose of vitamin C"
 msgstr ""
 
 #. ID 34
 msgctxt "skills.name"
-msgid "H: >9000"
+msgid "Life"
 msgstr ""
 
 #. ID 34
+msgctxt "skills.description"
+msgid "Find the source of the pulse"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.name"
+msgid "Isolated"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.description"
+msgid "It's just not the same"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
+msgid "H: Music collector"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.description"
+msgid "Unlock every music from Music Folders"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.name"
+msgid "H: >9000"
+msgstr ""
+
+#. ID 52
 msgctxt "skills.description"
 msgid "Achieve 9001 or more points on any ZapNeF minigame"
 msgstr ""
@@ -891,6 +916,16 @@ msgstr ""
 #. ID 53
 msgctxt "items.description"
 msgid "Extention pack has been applied."
+msgstr ""
+
+#. ID 54
+msgctxt "items.name"
+msgid "CHEAT Scooter+Fox"
+msgstr ""
+
+#. ID 54
+msgctxt "items.description"
+msgid "No limits."
 msgstr ""
 
 #. ID 1

@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: Uneven Dream\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Fonvight\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.1\n"
+"X-Generator: Poedit 3.4\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -32,55 +32,32 @@ msgctxt "actors.title"
 msgid "Convex"
 msgstr "Выпуклая"
 
-#. ID 2
-#. ID 3
-msgctxt "skills.name"
-msgid "Wake Up"
-msgstr "Проснуться"
-
-#. ID 2
-msgctxt "skills.description"
-msgid "Return to the real world."
-msgstr "Вернуться в реальность."
+#. ID 4
+msgctxt "actors.name"
+msgid "Worlds"
+msgstr "Миры"
 
 #. ID 4
+msgctxt "actors.title"
+msgid "Visited"
+msgstr "Посещено"
+
+#. ID 2
 msgctxt "skills.name"
-msgid "Wake up!"
-msgstr "Просыпайся!"
+msgid "Pinch Cheek"
+msgstr "Ущипнуться"
 
-#. ID 4
+#. ID 2
 msgctxt "skills.description"
-msgid "Rise and shine!"
-msgstr "Проснись и пой!"
-
-#. ID 5
-msgctxt "skills.name"
-msgid "Wake up?"
-msgstr "Проснуться?"
-
-#. ID 5
-msgctxt "skills.description"
-msgid "You're already awake!"
-msgstr "Вы уже бодрствуете!"
+msgid "Wake up from the dream world."
+msgstr "Вернуться из мира снов."
 
 #. ID 6
-#. ID 8
 msgctxt "skills.name"
 msgid "How to Play"
 msgstr "Как играть"
 
 #. ID 6
-msgctxt "skills.description"
-msgid "Learn how to play the game!"
-msgstr "Узнать, как играть в игру!"
-
-#. ID 7
-#. ID 9
-msgctxt "skills.name"
-msgid "Instructions"
-msgstr "Инструкции"
-
-#. ID 7
 msgctxt "skills.description"
 msgid "View the game's instructions."
 msgstr "Просмотреть инструкцию к игре."
@@ -232,8 +209,8 @@ msgstr "Память об оккультном."
 #. ID 19
 #. ID 20
 msgctxt "items.name"
-msgid "Hood"
-msgstr "Капюшон"
+msgid "Hoodie"
+msgstr "Мастерка"
 
 #. ID 19
 msgctxt "items.description"
@@ -278,14 +255,20 @@ msgid "Memories of intimidation."
 msgstr "Память о шантаже."
 
 #. ID 25
-msgctxt "items.name"
-msgid "KuboItem13Dream"
-msgstr ""
-
 #. ID 26
 msgctxt "items.name"
-msgid "KuboItem13Real"
-msgstr ""
+msgid "Wither"
+msgstr "Иссохший"
+
+#. ID 25
+msgctxt "items.description"
+msgid "Shamble around like a zombie. "
+msgstr "Шататься по миру как зомби."
+
+#. ID 26
+msgctxt "items.description"
+msgid "Memories of gardening."
+msgstr "Память о садоводстве."
 
 #. ID 27
 msgctxt "items.name"
@@ -298,14 +281,20 @@ msgid "KuboItem14Real"
 msgstr ""
 
 #. ID 29
-msgctxt "items.name"
-msgid "KuboItem15Dream"
-msgstr ""
-
 #. ID 30
 msgctxt "items.name"
-msgid "KuboItem15Real"
-msgstr ""
+msgid "Teapot"
+msgstr "Чайник"
+
+#. ID 29
+msgctxt "items.description"
+msgid "Pour a spot of tea on the ground."
+msgstr "Пролить лужу чая на землю."
+
+#. ID 30
+msgctxt "items.description"
+msgid "Memories of whistling."
+msgstr "Память о свисте."
 
 #. ID 31
 msgctxt "items.name"
@@ -600,24 +589,36 @@ msgid "A dream about a bright future."
 msgstr "Мечта о светлом будущем."
 
 #. ID 75
-msgctxt "items.name"
-msgid "TotsuItem13Dream"
-msgstr ""
-
 #. ID 76
 msgctxt "items.name"
-msgid "TotsuItem13Real"
-msgstr ""
+msgid "Snail"
+msgstr "Улитка"
+
+#. ID 75
+msgctxt "items.description"
+msgid "Just like when you were in elementary school!"
+msgstr "Прямо как в младшей школе!"
+
+#. ID 76
+msgctxt "items.description"
+msgid "A dream about a lazy day."
+msgstr "Мечта о ленивом дне."
 
 #. ID 77
-msgctxt "items.name"
-msgid "TotsuItem14Dream"
-msgstr ""
-
 #. ID 78
 msgctxt "items.name"
-msgid "TotsuItem14Real"
-msgstr ""
+msgid "Sandcastle"
+msgstr "Песочный замок"
+
+#. ID 77
+msgctxt "items.description"
+msgid "Become a fortress amidst the sand!"
+msgstr "Стать песчаной крепостью!"
+
+#. ID 78
+msgctxt "items.description"
+msgid "A dream about a beach."
+msgstr "Мечта о пляже."
 
 #. ID 79
 msgctxt "items.name"

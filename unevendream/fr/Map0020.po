@@ -11,10 +11,20 @@ msgstr ""
 #. ID 4, Page 1, Line 2, Pos (21,13)
 #. ID 9, Page 1, Line 2, Pos (26,22)
 #. ID 10, Page 1, Line 2, Pos (24,25)
-#. ID 11, Page 1, Line 2, Pos (21,27)
+#. ID 11, Page 1, Line 1, Pos (21,27)
 #. ID 16, Page 1, Line 2, Pos (17,27)
 msgid "There are currently no maps created for this area."
 msgstr ""
-"Il n'y a actuellement aucune map créée pour cette\n"
-"zone."
+"Il n'y a actuellement aucune carte créée pour\n"
+"cette zone."
+
+#. ID 23, Page 1, Line 2, Pos (24,15)
+msgid ""
+"These maps are TEMPORARILY blocked because\n"
+"they are under major renovations.\n"
+"See you soon!"
+msgstr ""
+"Ces cartes sont TEMPORAIREMENT bloquées pour\n"
+"cause de rénovations majeures.\n"
+"On se revoit bientôt !"
 

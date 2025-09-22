@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 62, Page 1, Line 2, Pos (41,38)
+msgid ""
+"This hole isn't hard\n"
+"to reach..."
+msgstr "この穴は手が届くところにある…"
+
+#. ID 62, Page 2, Line 3, Pos (41,38)
+msgid ""
+"Let's see if I can\n"
+"fill up this bottle..."
+msgstr "ボトルを満タンにしてみるよ…"
+
+#. ID 62, Page 2, Line 5, Pos (41,38)
+msgid ".\\..\\..\\."
+msgstr ""
+
+#. ID 62, Page 2, Line 7, Pos (41,38)
+msgid "That oughta do it."
+msgstr "これでいいはず。"
+
+#. ID 63, Page 1, Line 5, Pos (55,65)
+msgid ""
+"I should be fine here with\n"
+"this mask on."
+msgstr ""
+"このマスクを着けてれば\n"
+"きっと大丈夫だよね。"
+
+#. ID 63, Page 1, Line 11, Pos (55,65)
+msgid ""
+"\\n[2],\n"
+"I'm gonna suffocate here..."
+msgstr ""
+"\\n[2]、\n"
+"ここは息がしづらいよ…"
+
+#. ID 63, Page 1, Line 25, Pos (55,65)
+msgid ""
+"The air here is too\n"
+"toxic to breathe."
+msgstr "ここの空気は有毒で呼吸ができない。"

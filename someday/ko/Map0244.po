@@ -1,16 +1,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 2, Page 2, Line 7, Pos (6,27)
-msgid "                      Scooter"
-msgstr "                      퀵보드"
+msgid "\\_                     Scooter"
+msgstr "                      킥보드"
 
 #. ID 3, Page 2, Line 7, Pos (7,25)
 msgid "                      Doodle"
@@ -25,7 +29,7 @@ msgid "                      Glitch"
 msgstr "                       오류"
 
 #. ID 6, Page 2, Line 7, Pos (12,27)
-msgid "                      8-bit"
+msgid "\\_                      8-bit"
 msgstr "                      8 비트"
 
 #. ID 7, Page 2, Line 7, Pos (11,29)
@@ -41,7 +45,7 @@ msgid "                       Bald"
 msgstr "                      대머리"
 
 #. ID 10, Page 2, Line 7, Pos (9,22)
-msgid "                    Megaphone"
+msgid "\\_                    Megaphone"
 msgstr "                      확성기"
 
 #. ID 11, Page 2, Line 7, Pos (11,22)
@@ -54,14 +58,14 @@ msgstr "                       렌치"
 
 #. ID 13, Page 2, Line 7, Pos (14,25)
 msgid "                     Raincoat"
-msgstr "                       비옷"
+msgstr "                        비옷"
 
 #. ID 14, Page 2, Line 7, Pos (14,27)
-msgid "                       Scarf"
+msgid "\\_                      Scarf"
 msgstr "                      목도리"
 
 #. ID 15, Page 2, Line 7, Pos (14,29)
-msgid "                      Classic"
+msgid "\\_                     Classic"
 msgstr "                      고전풍"
 
 #. ID 16, Page 2, Line 7, Pos (13,31)
@@ -69,23 +73,23 @@ msgid "                        TV"
 msgstr "                        TV"
 
 #. ID 17, Page 2, Line 7, Pos (11,32)
-msgid "                        Fox"
+msgid "\\_                       Fox"
 msgstr "                       여우"
 
 #. ID 18, Page 2, Line 7, Pos (9,32)
-msgid "                   Candle holder"
+msgid "\\_                  Candle holder"
 msgstr "                       촛대"
 
 #. ID 19, Page 2, Line 7, Pos (7,32)
-msgid "                    Clockworker"
+msgid "\\_                   Clockworker"
 msgstr "                     클럭워커"
 
 #. ID 20, Page 2, Line 7, Pos (5,31)
-msgid "                    Diving suit"
+msgid "\\_                   Diving suit"
 msgstr "                      잠수복"
 
 #. ID 21, Page 2, Line 7, Pos (4,29)
-msgid "                      Mercury"
+msgid "\\_                     Mercury"
 msgstr "                       수은"
 
 #. ID 22, Page 2, Line 7, Pos (4,27)
@@ -103,4 +107,3 @@ msgstr "                      토마토"
 #. ID 25, Page 2, Line 7, Pos (7,22)
 msgid "                     Lab coat"
 msgstr "                      실험복"
-

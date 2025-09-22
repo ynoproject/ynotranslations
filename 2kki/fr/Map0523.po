@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 39, Page 1, Line 6, Pos (118,82)
 msgid ""
@@ -22,7 +22,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　    Style de menu:9\\<\\|\\|\\^"
+"\\>　　　　　　　  \\_Style de menu : 9\\<\\|\\|\\^"
 
 #. ID 42, Page 1, Line 20, Pos (142,95)
 msgid "\\$\\.\\.\\.\\^"

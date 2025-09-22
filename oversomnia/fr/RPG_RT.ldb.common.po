@@ -1,0 +1,1104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 15, Line 4
+#. Contains choice at line 2 (3 options)
+msgid "What do you want to do?"
+msgstr "Que voulez-vous faire ?"
+
+#. ID 15, Line 5
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Save\n"
+"Change Menu Style\n"
+"View Stats"
+msgstr ""
+"Sauvegarder\n"
+"Changer le style du menu\n"
+"Voir les statistiques"
+
+#. ID 17, Line 74
+msgid "Select menu graphic:"
+msgstr "Sélectionnez le thème du menu :"
+
+#. ID 17, Line 107
+#. ID 17, Line 120
+#. ID 17, Line 133
+#. ID 17, Line 146
+#. ID 17, Line 159
+#. ID 17, Line 172
+msgid "Option not unlocked.\\|\\^"
+msgstr "Option verrouillée.\\|\\^"
+
+#. ID 17, Line 179
+#. Contains choice at line 2 (2 options)
+msgid "Menu graphics changed.\\|\\^"
+msgstr "Thème du menu changé.\\|\\^"
+
+#. ID 17, Line 180
+#. Choice (2 options, embedded in a message)
+msgid ""
+"OK\n"
+"Select again."
+msgstr ""
+"OK\n"
+"Sélectionner à nouveau."
+
+#. ID 22, Line 11
+msgid ""
+"A familiar face always waiting there at the start\n"
+"of every dream. She looks like one of my friends."
+msgstr ""
+"Un visage familier, attendant là au début\n"
+"de chaque rêve. Elle ressemble à un de mes amis."
+
+#. ID 22, Line 28
+msgid ""
+"There is often someone with alarms growing out\n"
+"of their head wandering around. They become quite\n"
+"hostile when provoked, oozing an unnatural\n"
+"substance as their face becomes a dark void."
+msgstr ""
+"Il y a souvent quelqu'un avec des alarmes\n"
+"poussant sur sa tête qui ère dans le monde.\n"
+"<easyrpg:new_page>\n"
+"Il devient assez hostile lorsqu'il est provoqué,\n"
+"suintant une étrange substance tandis que\n"
+"son visage devient un vide profond."
+
+#. ID 22, Line 47
+msgid ""
+"There was an unusual monster whose presence made\n"
+"the surrounding area feel suffocating. It was\n"
+"aggressive, but seemed to be guarding something\n"
+"rather than lashing out in rage."
+msgstr ""
+"Il y avait un monstre étrange dont la présence\n"
+"rendait l'environnement étouffant. Il était\n"
+"agressif, mais on aurait dit qu'il gardait quelque\n"
+"chose, plutôt que de simplement se déchaîner."
+
+#. ID 22, Line 66
+msgid ""
+"There was a glimpse of one of my friends in an\n"
+"area shrouded in an unwelcoming atmosphere.\n"
+"Perhaps I was no longer in my own dream."
+msgstr ""
+"J'ai aperçu un de mes amis dans un endroit\n"
+"enveloppé d'une atmosphère peu accueillante.\n"
+"Peut-être que je n'étais plus dans mon propre\n"
+"rêve."
+
+#. ID 22, Line 84
+msgid ""
+"In an attic-like area full of dust bunnies, one\n"
+"stood out as the leader. Atop its head was a charm\n"
+"to ward off evil."
+msgstr ""
+"Dans un endroit semblable à un grenier rempli de\n"
+"lapins de poussière, il y en avait un qui sortait\n"
+"du lot en tant que chef de troupeau. Sur sa\n"
+"tête se trouvait un charme éloignant le mal."
+
+#. ID 22, Line 102
+msgid ""
+"There was a monstrous bat-like creature housing\n"
+"a sickly-looking person in its hollowed body.\n"
+"It seemed to be looking after them."
+msgstr ""
+"Il y avait une créature monstrueuse semblable à\n"
+"une chauve-souris abritant une personne semblant\n"
+"malade dans son corps creux.\n"
+"Il semblait prendre soin d'elle."
+
+#. ID 22, Line 120
+msgid ""
+"Managing a shop in a town was a demon of sorts\n"
+"with a skull-like head. It demanded blood as\n"
+"payment from me, but it didn't have to be my own..."
+msgstr ""
+"Dans la boutique d'un village se trouvait un\n"
+"gérant avec une allure démoniaque et une tête\n"
+"similaire à celle d'un squelette.\n"
+"<easyrpg:new_page>\n"
+"Il demandait du sang comme forme de payement,\n"
+"mais il n'y avait pas besoin qu'il provienne de\n"
+"moi..."
+
+#. ID 22, Line 138
+msgid ""
+"On the top floor of a vibrant tower was somebody\n"
+"who seemed to be the head honcho of the place.\n"
+"The building itself was full of what seemed to be\n"
+"a liquid form of electricity."
+msgstr ""
+"Au dernier étage d'une tour animée se trouvait\n"
+"une personne semblant être la cheffe d'entreprise.\n"
+"Le bâtiment lui-même était rempli de ce qui\n"
+"semblait être une forme liquide d'électricité."
+
+#. ID 22, Line 157
+msgid ""
+"Hidden away in a place where it had been forgotten\n"
+"was a beach made of pink sand. The only person on\n"
+"the beach had also been forgotten..."
+msgstr ""
+"Caché dans un lieu où elle a été oubliée était une\n"
+"plage faite de sable rose. La seule personne sur\n"
+"la plage avait aussi été oubliée..."
+
+#. ID 22, Line 175
+msgid ""
+"Overlooking the scene of a tornado was a forlorn\n"
+"girl with a weather vane lodged in her head.\n"
+"Her distant gaze was fixed on the horizon."
+msgstr ""
+"Surplombant la scène d'une tornade se trouvait une\n"
+"fille mélancolique pourvue d'une girouette logée\n"
+"sur sa tête. Son regard distant était fixé sur\n"
+"l'horizon."
+
+#. ID 22, Line 193
+msgid ""
+"At the bottom of an ocean was a strange fish in a\n"
+"sheltered area. It almost seemed to be sobbing to\n"
+"itself over something. Maybe it wanted to escape."
+msgstr ""
+"Au fond d'un océan se trouvait un étrange poisson\n"
+"dans une zone protégée. Il semblait presque\n"
+"sangloter à propos de quelque chose. Peut-être\n"
+"qu'il voulait s'échapper."
+
+#. ID 22, Line 211
+msgid ""
+"Atop a mountain in a land riddled with pools of\n"
+"boiling water was a person playing a pan flute.\n"
+"It was a very peaceful area..."
+msgstr ""
+"Au sommet d'une montagne d'une terre pleine\n"
+"de bassins d'eau bouillante se trouvait une\n"
+"personne jouant d'une flûte de pan.\n"
+"C'était une zone très paisible..."
+
+#. ID 22, Line 229
+msgid ""
+"Within a maze of castle ramparts was a lonesome\n"
+"gargoyle statue. Even if their job is to sit there\n"
+"warding off evil, it must get lonely sometimes."
+msgstr ""
+"Au sein d'un labyrinthe de remparts de château se\n"
+"trouvait une statue de gargouille solitaire. Même\n"
+"si son travail est de s'asseoir là pour éloigner\n"
+"le mal, elle doit parfois se sentir seule."
+
+#. ID 22, Line 247
+msgid ""
+"Deep within a forest of scarlet trees was a tall\n"
+"monster. The strawberries around it seemed to \n"
+"contain bones within their flesh.\n"
+"Maybe they weren't strawberries to begin with."
+msgstr ""
+"Au fin fond d'une forêt d'arbres écarlates se\n"
+"trouvait un grand monstre. Les fraises autour de\n"
+"lui semblaient contenir des os dans leur chair.\n"
+"Peut-être que ce n'étaient pas des fraises..."
+
+#. ID 22, Line 266
+msgid ""
+"Atop some buildings engulfed in a fog of sorts\n"
+"was an odd creature hanging off a ledge. It was\n"
+"reaching out, as if something, or someone, had\n"
+"fallen off the building."
+msgstr ""
+"Au sommet d'une série de bâtiments engloutis\n"
+"dans une sorte de brouillard se trouvait une\n"
+"curieuse créature se tenant sur un rebord.\n"
+"<easyrpg:new_page>\n"
+"Elle tendait la main comme si quelque chose ou\n"
+"quelqu'un était tombé du bâtiment."
+
+#. ID 22, Line 285
+msgid ""
+"Camping inside a snowy cave was somebody roasting\n"
+"marshmallows over a radiating chunk of meteorite.\n"
+"It was a cozy shelter, the warmth of the rock was\n"
+"the perfect temperature."
+msgstr ""
+"Campant dans une caverne enneigée se trouvait\n"
+"une personne grillant des guimauves à l'aide d'un\n"
+"morceau de météorite émettant des radiations.\n"
+"<easyrpg:new_page>\n"
+"C'était un abri confortable, et la chaleur du\n"
+"rocher était à la température idéale."
+
+#. ID 22, Line 304
+msgid ""
+"Working in an aquarium were a bunch of fish-like\n"
+"people. An angler fish girl, a lobster dog, a guy\n"
+"with a whole fish for a head... They would easily\n"
+"blend in with the creatures in the enclosures."
+msgstr ""
+"Travaillant dans un aquarium se trouvaient un\n"
+"groupe de personnes semblables à des poissons.\n"
+"Une fille poisson-lanterne, un chien homard, un\n"
+"type avec un poisson entier comme tête...\n"
+"<easyrpg:new_page>\n"
+"Ils se fondraient facilement dans la masse avec\n"
+"les créatures dans les enclos."
+
+#. ID 22, Line 323
+msgid ""
+"Atop a ledge in an underwater place was somebody\n"
+"carrying a tuning fork. After grabbing their\n"
+"attention, they led the way to the deepest depths\n"
+"of the ocean."
+msgstr ""
+"En haut d'un rebord dans un lieu aquatique se\n"
+"trouvait une personne portant un diapason. Après\n"
+"avoir attiré son attention, elle mena la voie\n"
+"vers les bas-fonds les plus profonds de l'océan."
+
+#. ID 22, Line 342
+msgid ""
+"When it became dark in the apartments, a person\n"
+"with a candle on their head showed up. They seemed\n"
+"to be trying to contact a strange demon with a\n"
+"skewer pierced through its head."
+msgstr ""
+"Lorsqu'il fit sombre dans les appartements, une\n"
+"personne avec une bougie sur la tête se montra.\n"
+"Elle semblait essayer de contacter un étrange\n"
+"démon avec une broche transperçant sa tête."
+
+#. ID 22, Line 361
+msgid ""
+"There was a fifth floor in the apartments with a\n"
+"single room on it. Within the room was somebody\n"
+"whose noisy thoughts were manifesting above their\n"
+"head in a cloud of scribbles."
+msgstr ""
+"Il y avait un cinquième étage dans le complexe\n"
+"d'appartements ne comportant qu'une seule pièce.\n"
+"<easyrpg:new_page>\n"
+"À l'intérieur de celle-ci se trouvait une personne\n"
+"dont les pensées bruyantes se manifestaient au\n"
+"dessus de sa tête sous forme de nuage de\n"
+"gribouillages."
+
+#. ID 22, Line 380
+msgid ""
+"Various motionless beings stood in a purple city. \n"
+"They might be machines, or holograms, or something \n"
+"else entirely. I found a workshop housing some,\n"
+"but the person in charge was sleeping on the job."
+msgstr ""
+"Divers êtres immobiles se tenaient dans une ville\n"
+"violette. Ils pourraient être des machines, des\n"
+"hologrammes ou quelque chose de complètement\n"
+"différent.\n"
+"<easyrpg:new_page>\n"
+"J'ai trouvé un atelier en hébergeant quelques uns,\n"
+"mais la personne se chargeant du lieu dormait à\n"
+"son poste."
+
+#. ID 22, Line 399
+msgid ""
+"There was a very tall, monster-headed figure.\n"
+"It spoke incomprehensible words to another figure.\n"
+"Can't remember the rest, but it wasn't good."
+msgstr ""
+"Il y avait une très grande silhouette d'une tête\n"
+"de monstre. Elle formulait des mots\n"
+"incompréhensibles à une autre silhouette.\n"
+"<easyrpg:new_page>\n"
+"Je ne me souviens pas du reste, mais ce n'était\n"
+"pas bon."
+
+#. ID 22, Line 417
+msgid ""
+"Braving a snowstorm were a bunch of soldier-like\n"
+"creatures. They seemed to be prepared for battle,\n"
+"attacking them wouldn't be a good idea."
+msgstr ""
+"Bravant une tempête de neige se trouvait un\n"
+"groupe de créatures ressemblant à des soldats.\n"
+"Elles semblaient prêtes pour se battre, les\n"
+"attaquer ne serait pas une bonne idée."
+
+#. ID 22, Line 435
+msgid ""
+"Inside an aeroplane was a very large creature who\n"
+"seemed to be able to pilot the entire thing with\n"
+"a small device. All of its passengers were tiny\n"
+"critters whose gaze stayed fixed on me."
+msgstr ""
+"À l'intérieur d'un avion se trouvait une très\n"
+"grande créature qui semblait être capable de\n"
+"piloter tout l'appareil avec un petit dispositif.\n"
+"<easyrpg:new_page>\n"
+"Tous ses passagers étaient de petites bestioles\n"
+"dont le regard s'était posé sur moi."
+
+#. ID 22, Line 454
+msgid ""
+"There was a temple dedicated to some sort of moth\n"
+"deity. It was full of ghostly entities, and the\n"
+"person in charge was very moth-like too.\n"
+"However, something felt off about the place."
+msgstr ""
+"Il y avait un temple dédié à une sorte de papillon\n"
+"de nuit divin. Il était rempli d'entités\n"
+"fantomatiques, et la personne s'en occupant était\n"
+"également très semblable à une phalène.\n"
+"<easyrpg:new_page>\n"
+"Cependant, quelque chose semblait anormal à\n"
+"propos de ce lieu."
+
+#. ID 22, Line 473
+msgid ""
+"There was a small room inside a cuckoo clock that\n"
+"housed a cat with a clock for a body. Its room\n"
+"was a cozy shelter away from the constant rain\n"
+"and gloom outside."
+msgstr ""
+"Il y avait une petite pièce à l'intérieur d'une\n"
+"horloge coucou qui hébergeait un chat ayant une\n"
+"horloge en tant que corps.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Sa pièce était un abri douillet, loin de la pluie\n"
+"constante et de l'obscurité de l'extérieur."
+
+#. ID 22, Line 492
+msgid ""
+"In an area constantly battered by stormy weather\n"
+"there was a flying creature unfazed by the awful\n"
+"conditions. It had to be lured down from the sky."
+msgstr ""
+"Dans une zone constamment abattue par un\n"
+"temps orageux, il y avait une créature volante\n"
+"insensible aux conditions terribles. Elle a dû\n"
+"être attirée ici depuis les cieux."
+
+#. ID 22, Line 510
+msgid ""
+"There were some strange things in a stormy area.\n"
+"A blue woman spinning around and around with no\n"
+"signs of stopping, and bright snake-like creatures\n"
+"that resembled lightning."
+msgstr ""
+"Il y avait d'étranges choses dans une zone\n"
+"tempétueuse.\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Une femme bleue tournait en rond et en rond\n"
+"sans jamais s'arrêter, et de brillantes créatures\n"
+"semblables à des serpents qui ressemblaient à\n"
+"des éclairs s'y trouvaient."
+
+#. ID 22, Line 529
+msgid ""
+"In a rainy village there was a vampire boy who had\n"
+"lost the key to his house. It was in a nearby park\n"
+"that was full of hedges and had strange wiggling\n"
+"objects dotted around the place."
+msgstr ""
+"Dans un village pluvieux se trouvait un vampire\n"
+"qui avait perdu la clé de sa maison.\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Elle était dans un parc à côté qui était rempli de\n"
+"haies et qui avait d'étranges objets agités\n"
+"éparpillés un peu partout."
+
+#. ID 22, Line 548
+msgid ""
+"Standing on a stage was a raccoon dog pretending\n"
+"to be me. Seeing yourself like that feels surreal,\n"
+"at least it was just an illusion."
+msgstr ""
+"Se tenant sur scène se trouvait un chien viverrin\n"
+"prétendant être moi. Se voir soi-même de cette\n"
+"façon semble si irréel, au moins ce n'était qu'une\n"
+"illusion."
+
+#. ID 22, Line 566
+msgid ""
+"There was a hospital full of strange pallid beings.\n"
+"They seemed to be patients, did an illness do this\n"
+"to them, or do they normally look like that?\n"
+"There was a lone nurse looking after them..."
+msgstr ""
+"Il y avait un hôpital rempli d'étranges êtres\n"
+"livides. Ils semblaient être des patients :\n"
+"est-ce une maladie qui leur a causé cela, ou\n"
+"ressemblent-ils normalement à ça ?\n"
+"<easyrpg:new_page>\n"
+"Il y avait une infirmière seule qui s'occupait\n"
+"d'eux..."
+
+#. ID 22, Line 585
+msgid ""
+"In a place full of transmission towers there were\n"
+"a pair of electricians that appeared after the\n"
+"lights went out. Wonder how they found out about\n"
+"the problem so quickly."
+msgstr ""
+"Dans un lieu rempli de pylônes électriques se\n"
+"trouvait un duo d'électriciens qui était apparu\n"
+"après la coupure de courant.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Je me demande comment ils ont trouvé la source\n"
+"du problème aussi rapidement."
+
+#. ID 22, Line 604
+msgid ""
+"There was a radio studio of some sort in a city\n"
+"whose skyline was lined with neon shapes. \n"
+"Somehow, the owl creature manning the controls\n"
+"can broadcast music to other parts of a dream."
+msgstr ""
+"Il y avait une sorte de studio de radio dans une\n"
+"ville dont la silhouette des immeubles était\n"
+"illuminée par des néons.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Curieusement, la créature hibou assurant les\n"
+"contrôles peut transmettre des musiques aux\n"
+"autres parties d'un rêve."
+
+#. ID 22, Line 623
+msgid ""
+"There was a town with many waterways, home to many\n"
+"hard-working creatures. They don't seem to be\n"
+"completely organic, and there was a poster that\n"
+"referred to them as \"Mooks.\""
+msgstr ""
+"Il y avait un village avec beaucoup de cours\n"
+"d'eau, berceau de nombreuses créatures assidues.\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Elles ne semblent pas être complètement\n"
+"organiques, et il y avait une affiche qui les\n"
+"nommaient comme étant des \"Mooks\"."
+
+#. ID 22, Line 642
+msgid ""
+"The leader of the waterway town was a fox-like\n"
+"person who ran away when approached. They might\n"
+"be responsible for creating all the creatures that\n"
+"populate the town."
+msgstr ""
+"Le dirigeant du village aux cours d'eau était un\n"
+"renard humanoïde qui fuyait lorsqu'approché.\n"
+"Il pourrait être responsable de la création de\n"
+"toutes les créatures peuplant le village."
+
+#. ID 22, Line 661
+msgid ""
+"In a garden centre there was a stern-looking girl\n"
+"in charge of the place. She seemed to be training\n"
+"some sort of plant creature so that it could work\n"
+"as an employee in the place."
+msgstr ""
+"Dans une jardinerie se trouvait une fille à l'air\n"
+"strict en charge du lieu.\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Elle semblait entraîner une sorte de créature\n"
+"plante pour qu'elle puisse travailler en tant\n"
+"qu'employée dans la jardinerie."
+
+#. ID 22, Line 680
+msgid ""
+"In the basement of the garden centre was a monster\n"
+"whose body was comprised of a botanical mess.\n"
+"It's extremely protective of a red flower that was\n"
+"down there, and the shop owner knows about it..."
+msgstr ""
+"Au sous-sol de la jardinerie se trouvait un\n"
+"monstre dont le corps était composé d'un amas\n"
+"botanique.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Elle était extrêmement protective envers la\n"
+"fleur rouge qui était présente en bas, et la\n"
+"propriétaire du magasin est au courant de cela..."
+
+#. ID 22, Line 699
+msgid ""
+"After a world full of music notes fell silent,\n"
+"a fiend appeared out of nowhere to dance on the\n"
+"graves of the beings that had died."
+msgstr ""
+"Après qu'un monde rempli de notes de musique\n"
+"plongea dans le silence, un esprit du mal apparu\n"
+"de nulle part pour danser sur les tombes des êtres\n"
+"qui avaient péri."
+
+#. ID 22, Line 717
+msgid ""
+"Sitting on a small jetty in a verdant place was a\n"
+"boy dressed like a magpie. Out in the water were\n"
+"some other creatures lurking in the depths. Was\n"
+"he waiting for them to come out?"
+msgstr ""
+"Assis sur une petite jetée dans un lieu verdoyant\n"
+"se trouvait un garçon habillé telle une pie. Dans\n"
+"l'eau se trouvait d'autres créatures guettant\n"
+"depuis les profondeurs.\n"
+"<easyrpg:new_page>\n"
+"Attendait-il qu'elles sortent de l'eau ?"
+
+#. ID 22, Line 736
+msgid ""
+"In the depths of a dream there was a room with a\n"
+"leering statue inside. Atop it was a firefly-like\n"
+"creature drawing on a hanging board. It looked\n"
+"like it collected things from other dreams."
+msgstr ""
+"Dans les profondeurs d'un rêve se trouvait une\n"
+"pièce avec une statue au regard fixe à\n"
+"l'intérieur.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Sur cette statue se trouvait une créature\n"
+"semblable à une luciole dessinant sur un panneau\n"
+"suspendu. Il semblait qu'elle avait collecté des\n"
+"objets venant d'autres rêves."
+
+#. ID 22, Line 755
+msgid ""
+"There was a boy with a power cord attached to his\n"
+"body standing in a place full of traffic lights\n"
+"and road signs. He was hiding inside an enclosed \n"
+"area, away from the chaotic signs and lights."
+msgstr ""
+"Il y avait un garçon avec un cordon d'alimentation\n"
+"attaché à son corps se tenant debout dans un lieu\n"
+"rempli de feux de circulation et de signes de la\n"
+"route.\n"
+"<easyrpg:new_page>\n"
+"Il se cachait dans une zone close, à l'abri des\n"
+"signes chaotiques et des lumières."
+
+#. ID 22, Line 774
+msgid ""
+"In a swamp full of houses on stilts there was a\n"
+"fishing pond built into a hill. The fish you could\n"
+"catch there were strange, and the water seemed\n"
+"incredibly deep for how small the pond was."
+msgstr ""
+"Dans un marais rempli de maisons sur pilotis se\n"
+"trouvait un étang de pêche construit dans une\n"
+"colline.\n"
+"<easyrpg:new_page>\n"
+"Les poissons pouvant être attrapés là-bas\n"
+"étaient étranges, et l'eau semblait incroyablement\n"
+"profonde comparée à la petite taille de l'étang."
+
+#. ID 22, Line 793
+msgid ""
+"At some point while wandering through some sort\n"
+"of ventilation shaft system, everything started\n"
+"to crumble away. Eventually there was nothing but\n"
+"a void and a monstrous entity."
+msgstr ""
+"Au bout d'un moment, en errant dans une sorte de\n"
+"système de conduit de ventilation, tout commença\n"
+"à tomber en ruines.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Après quelques temps, il ne resta rien en dehors\n"
+"d'un vide et d'une entité monstrueuse."
+
+#. ID 22, Line 812
+msgid ""
+"There were holes housing various things that could\n"
+"be seen through air vents. One had an embryo-like \n"
+"creature, nestled in a mass of pulsating flesh. \n"
+"Something about the sight was harrowing."
+msgstr ""
+"Il y avait des trous logeant diverses choses qui\n"
+"pouvaient être vues à travers les bouches\n"
+"d'aération.\n"
+"<easyrpg:new_page>\n"
+"L'un des trous avait une créature semblable à un\n"
+"embryon, nichée dans une masse de chair\n"
+"palpitante. Quelque chose à propos de cette vision\n"
+"était horrible."
+
+#. ID 28, Line 2
+msgid ""
+"\\S[1]Effects Owned: \\V[3]/15\\.\n"
+"Menus Unlocked: \\V[15]/6\\.\n"
+"Times Slept: \\V[17]"
+msgstr ""
+"\\S[1]Effets possédés : \\V[3]/15\\.\n"
+"Menus débloqués : \\V[15]/6\\.\n"
+"Nombre de fois endormi : \\V[17]"
+
+#. ID 28, Line 5
+msgid ""
+"\\S[1]Vending Machines Used: \\V[38]\\.\n"
+"Total Fish Caught: \\V[52]"
+msgstr ""
+"\\S[1]Distributeurs automatiques utilisés : \\V[38]\\.\n"
+"Total de poissons attrapés : \\V[52]"
+
+#. ID 62, Line 3
+msgid ""
+"\\C[19]...Are you alright?\\.\\. You look like you're worried\n"
+"about something,\\.\\. are you-\\^"
+msgstr ""
+"\\C[19]...Est-ce que tout va bien ?\\.\\. Tu as l'air d'être\n"
+"inquiet à propos de quelque chose,\\.\\. es-tu-\\^"
+
+#. ID 62, Line 5
+msgid "\\C[19]...\\. What's up?"
+msgstr "\\C[19]...\\. Quoi de neuf ?"
+
+#. ID 62, Line 12
+msgid "\\C[19]Hey.\\. What's up?"
+msgstr "\\C[19]Salut.\\. Quoi de neuf ?"
+
+#. ID 62, Line 18
+msgid "\\C[19]That's pretty cute.\\. What's up?"
+msgstr "\\C[19]C'est plutôt mignon.\\. Quoi de neuf ?"
+
+#. ID 62, Line 24
+msgid "\\C[19]Don't do anything you'll regret."
+msgstr "\\C[19]Ne fais rien que tu pourrais regretter."
+
+#. ID 62, Line 30
+msgid "\\C[19]Does that work here?\\. Anyway, what's up?"
+msgstr "\\C[19]Est-ce que ça marche ici ?\\. Sinon, quoi de neuf ?"
+
+#. ID 62, Line 36
+msgid "\\C[19]I used to have one of those, too.\\. What's up?"
+msgstr ""
+"\\C[19]J'en avais un comme ça avant, aussi.\\.\n"
+"Quoi de neuf ?"
+
+#. ID 62, Line 42
+msgid "\\C[19]No need to be formal...\\. What's up?"
+msgstr "\\C[19]Pas besoin d'être aussi formel...\\. Quoi de neuf ?"
+
+#. ID 62, Line 48
+msgid "\\C[19]Doors are often locked for a reason, you know."
+msgstr ""
+"\\C[19]Les portes sont souvent fermées pour une raison,\n"
+"tu sais."
+
+#. ID 62, Line 54
+msgid "\\C[19]Good morning.\\. What's up?"
+msgstr "\\C[19]Bonjour.\\. Quoi de neuf ?"
+
+#. ID 62, Line 60
+msgid "\\C[19]Doesn't that hurt?"
+msgstr "\\C[19]Ça ne te fait pas mal ?"
+
+#. ID 62, Line 66
+msgid "\\C[19]A deer, of course...\\. What's up?"
+msgstr "\\C[19]Un cerf, bien sûr...\\. Quoi de neuf ?"
+
+#. ID 62, Line 72
+msgid "\\C[19]Isn't it hard to move like that?"
+msgstr "\\C[19]N'est-ce pas difficile de bouger comme ça ?"
+
+#. ID 62, Line 78
+msgid "\\C[19]..."
+msgstr ""
+
+#. ID 62, Line 84
+msgid "\\C[19]I'm not hiring at the moment.\\. Anyway, what's up?"
+msgstr ""
+"\\C[19]Je n'embauche personne pour le moment...\\.\n"
+"Quoi de neuf ?"
+
+#. ID 62, Line 91
+msgid "\\C[19]Oh? A true work of art...\\.Anyway, what's up?"
+msgstr ""
+"\\C[19]Oh ? Une véritable œuvre d'art...\\.\n"
+"Sinon, quoi de neuf ?"
+
+#. ID 62, Line 95
+msgid "\\C[19]It's so cold...\\. Make it quick, please."
+msgstr ""
+"\\C[19]Il fait tellement froid...\\.\n"
+"Dépêche-toi, s'il te plaît."
+
+#. ID 62, Line 103
+msgid "\\C[19]Be careful with that...\\. Anyway, what's up?"
+msgstr "\\C[19]Fais attention avec ça...\\. Sinon, quoi de neuf ?"
+
+#. ID 62, Line 109
+msgid "\\C[19]That thing must have some strong wheels..."
+msgstr "\\C[19]Ce truc doit avoir des roues résistantes..."
+
+#. ID 64, Line 1
+msgid "\\C[19]Thanks.\\|\\^"
+msgstr "\\C[19]Merci.\\|\\^"
+
+#. ID 65, Line 1
+msgid "\\C[19]Not enough money."
+msgstr "\\C[19]Tu n'as pas assez d'argent..."
+
+#. ID 66, Line 1
+msgid "\\C[19]You already own this effect."
+msgstr "\\C[19]Tu possèdes déjà cet effet."
+
+#. ID 70, Line 1
+#. Contains choice at line 2 (2 options)
+msgid "\\C[19]Do you want to buy this?"
+msgstr "\\C[19]Veux-tu acheter ça ?"
+
+#. ID 70, Line 2
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 101, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Dust Bunny"
+msgstr "Lapin p."
+
+#. ID 102, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Vampirism"
+msgstr "Vampirisme"
+
+#. ID 103, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Mobile Phone"
+msgstr "Téléphone p."
+
+#. ID 104, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Tuning Fork"
+msgstr "Diapason"
+
+#. ID 105, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Formal"
+msgstr "Chic"
+
+#. ID 106, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Skeleton Key"
+msgstr "C. squelette"
+
+#. ID 107, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bed Hair"
+msgstr "Ébouriffé"
+
+#. ID 108, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Angler"
+msgstr "Lampion"
+
+#. ID 109, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Deer"
+msgstr "Cerf"
+
+#. ID 110, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Gargoyle"
+msgstr "Gargouille"
+
+#. ID 111, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Wendigo"
+msgstr ""
+
+#. ID 112, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bellhop"
+msgstr "Groom"
+
+#. ID 113, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "I. Sculpture"
+msgstr "Sculpture g."
+
+#. ID 114, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Brimstone"
+msgstr "Soufre"
+
+#. ID 115, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Scooter"
+msgstr ""
+
+#. ID 179, Line 8
+msgid "\\$\\|\\^"
+msgstr ""
+
+#. ID 236, Line 23
+msgid ""
+"\n"
+"                 Menu Graphic: Fox"
+msgstr ""
+"\n"
+"              Thème de menu : Renard"
+
+#. ID 236, Line 34
+msgid ""
+"\n"
+"                 Menu Graphic: Reef"
+msgstr ""
+"\n"
+"              Thème de menu : Récif"
+
+#. ID 236, Line 45
+msgid ""
+"\n"
+"                Menu Graphic: Sunset"
+msgstr ""
+"\n"
+"            Thème de menu : Crépuscule"
+
+#. ID 236, Line 56
+msgid ""
+"\n"
+"               Menu Graphic: Observer"
+msgstr ""
+"\n"
+"           Thème de menu : Observateur"
+
+#. ID 236, Line 67
+msgid ""
+"\n"
+"               Menu Graphic: Emerald"
+msgstr ""
+"\n"
+"             Thème de menu : Émeraude"
+
+#. ID 236, Line 78
+msgid ""
+"\n"
+"                Menu Graphic: Chroma"
+msgstr ""
+"\n"
+"              Thème de menu : Chroma"
+
+#. ID 237, Line 15
+msgid "                    Dust Bunny"
+msgstr "                Lapin de poussière"
+
+#. ID 237, Line 16
+msgid "Allows you to move faster. "
+msgstr "Vous permet d'aller plus vite. "
+
+#. ID 237, Line 33
+msgid "                     Vampirism"
+msgstr "                     Vampirisme"
+
+#. ID 237, Line 34
+msgid ""
+"Allows you to attack dream denizens.\n"
+"Killing organic things will give you blood ($k)."
+msgstr ""
+"Vous permet d'attaquer les habitants du monde\n"
+"des rêves.\n"
+"Tuer des choses organiques vous donnera du\n"
+"sang ($k)."
+
+#. ID 237, Line 52
+msgid "                    Mobile Phone"
+msgstr "                 Téléphone portable"
+
+#. ID 237, Line 53
+msgid "Press SHIFT to return to the Nexus."
+msgstr "Appuyez sur MAJ pour retourner au Nexus."
+
+#. ID 237, Line 66
+msgid "                    Tuning Fork"
+msgstr "                      Diapason"
+
+#. ID 237, Line 67
+msgid ""
+"Pressing SHIFT can trigger reactions around \n"
+"certain creatures or locations."
+msgstr ""
+"Appuyer sur MAJ peut provoquer des réactions\n"
+"de la part de certaines créatures ou certains\n"
+"endroits."
+
+#. ID 237, Line 81
+msgid "                      Formal"
+msgstr "                       Chic"
+
+#. ID 237, Line 82
+msgid "Makes you look like an upper-class kind of person."
+msgstr ""
+"Vous fait ressembler à une personne de la classe\n"
+"supérieure."
+
+#. ID 237, Line 95
+msgid "                    Skeleton Key"
+msgstr "                    Clé squelette"
+
+#. ID 237, Line 96
+msgid ""
+"Reveals secret doors and allows you to enter some\n"
+"locked doors."
+msgstr ""
+"Permet de révéler des portes secrètes et d'ouvrir\n"
+"certaines portes verrouillées."
+
+#. ID 237, Line 111
+msgid "                      Bed Hair"
+msgstr "                     Ébouriffé"
+
+#. ID 237, Line 112
+msgid "Slows down some dream denizens."
+msgstr "Ralentit certains habitants du monde des rêves."
+
+#. ID 237, Line 125
+msgid "                      Angler"
+msgstr "                      Lampion"
+
+#. ID 237, Line 126
+msgid ""
+"Gives you an odd lantern that lures some things \n"
+"closer when you press the SHIFT key."
+msgstr ""
+"Vous octroie une étrange lanterne qui attire\n"
+"certaines choses vers vous quand vous appuyez\n"
+"sur la touche MAJ."
+
+#. ID 237, Line 140
+msgid "                       Deer"
+msgstr "                       Cerf"
+
+#. ID 237, Line 141
+msgid "Allows you to jump over some small gaps."
+msgstr "Vous permet de sauter par dessus certains trous."
+
+#. ID 237, Line 154
+msgid "                      Gargoyle"
+msgstr "                     Gargouille"
+
+#. ID 237, Line 155
+msgid ""
+"Protects you from certain sources of danger.\n"
+"Can also reveal some secrets."
+msgstr ""
+"Vous protège de certaines sources de danger.\n"
+"Peut aussi révéler certains secrets."
+
+#. ID 237, Line 169
+msgid "                      Wendigo"
+msgstr ""
+
+#. ID 237, Line 170
+msgid ""
+"Allows you to shapeshift into certain things by\n"
+"interacting with them.\n"
+"Press SHIFT to return to normal."
+msgstr ""
+"Vous permet de vous transformer en certaines\n"
+"choses lorsque vous interagissez avec.\n"
+"Appuyez sur MAJ pour reprendre votre apparence\n"
+"d'origine."
+
+#. ID 237, Line 185
+msgid "                      Bellhop"
+msgstr "                       Groom"
+
+#. ID 237, Line 186
+msgid "Allows you to harmlessly push things around."
+msgstr "Vous permet de déplacer des trucs sans efforts."
+
+#. ID 237, Line 200
+msgid "                   Ice Sculpture"
+msgstr "                Sculpture de glace"
+
+#. ID 237, Line 201
+msgid ""
+"Allows you to stop certain things from moving.\n"
+"Pressing SHIFT toggles the ability, changing your\n"
+"appearance in the process."
+msgstr ""
+"Vous permet d'empêcher certaines choses de bouger.\n"
+"Appuyer sur MAJ active la compétence,\n"
+"changeant votre apparence au passage."
+
+#. ID 237, Line 216
+msgid "                     Brimstone"
+msgstr "                      Soufre"
+
+#. ID 237, Line 217
+msgid "Allows you to incinerate certain things."
+msgstr "Vous permet d'incinérer certaines choses."
+
+#. ID 237, Line 230
+msgid "                      Scooter"
+msgstr ""
+
+#. ID 237, Line 231
+msgid ""
+"Allows you to move faster.\\.\\.\n"
+"It's also rather comfortable."
+msgstr ""
+"Vous permet d'aller plus vite.\\.\\.\n"
+"Le scooter est d'ailleurs plutôt confortable."
+
+#. ID 241, Line 6
+#. ID 241, Line 8
+#. ID 241, Line 47
+#. ID 242, Line 6
+#. ID 242, Line 8
+#. ID 242, Line 20
+#. ID 243, Line 7
+#. ID 243, Line 9
+#. ID 243, Line 51
+#. ID 243, Line 53
+#. ID 243, Line 73
+#. ID 244, Line 6
+#. ID 244, Line 8
+#. ID 244, Line 20
+#. ID 245, Line 6
+#. ID 245, Line 8
+#. ID 245, Line 64
+msgid "\\$\\.\\^"
+msgstr ""

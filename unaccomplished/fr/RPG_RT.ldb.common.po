@@ -1,0 +1,1328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 18, Line 28
+msgid "                   - Straw Hat -"
+msgstr "               - Chapeau de Paille -"
+
+#. ID 18, Line 32
+msgid "                   - Hoverboard -"
+msgstr ""
+
+#. ID 18, Line 36
+msgid "                - Plastic Bottle -"
+msgstr "              - Bouteille Plastique -"
+
+#. ID 18, Line 40
+msgid "                 - Games Console -"
+msgstr "                \\_- Console de Jeux -"
+
+#. ID 18, Line 44
+msgid "                     - 1-bit -"
+msgstr "                     - 1 Bit -"
+
+#. ID 18, Line 48
+msgid "                   - Emptiness -"
+msgstr "                      - Vide -"
+
+#. ID 18, Line 52
+msgid "                   - Glow Stick -"
+msgstr "                 - Bâton Lumineux -"
+
+#. ID 18, Line 56
+msgid "                    - Classic -"
+msgstr "                   - Classique -"
+
+#. ID 18, Line 60
+msgid "                     - Baby -"
+msgstr "                     - Bébé -"
+
+#. ID 18, Line 64
+msgid "                      - Fu -"
+msgstr ""
+
+#. ID 18, Line 68
+msgid "                   - Skeleton -"
+msgstr "                  - Squelette -"
+
+#. ID 18, Line 72
+msgid "                     - Messy -"
+msgstr "                   - Pagaille -"
+
+#. ID 28, Line 50
+msgid "               - Move While Seated -"
+msgstr "               - Déplacement Assis -"
+
+#. ID 29, Line 1
+#. Contains choice at line 2 (3 options)
+msgid "\\>Notes / Computer?"
+msgstr "\\>Prendre des notes/Utiliser l'ordinateur ?"
+
+#. ID 29, Line 2
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Take notes (Save)\n"
+"Use computer\n"
+"..."
+msgstr ""
+"Prendre des notes (Sauvegarder)\n"
+"Utiliser l'ordinateur\n"
+"..."
+
+#. ID 29, Line 6
+msgid ""
+"Tip: The SAVE here is just an animation, \n"
+"it's not useful.\n"
+"          Please save it in the reality :("
+msgstr ""
+"Astuce : La SAUVEGARDE ici est juste une\n"
+"animation, elle ne sert à rien.\n"
+"Veuillez sauvegarder dans la réalité :("
+
+#. ID 36, Line 2
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 61
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "writer"
+msgstr ""
+
+#. ID 36, Line 3
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "The rooftop"
+msgstr "Le Toit"
+
+#. ID 36, Line 7
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 6
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 11
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 16
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 21
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 26
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 31
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 36
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 41
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 46
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Moucky"
+msgstr ""
+
+#. ID 36, Line 8
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "0P0"
+msgstr ""
+
+#. ID 36, Line 12
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "-Drifter"
+msgstr ""
+
+#. ID 36, Line 13
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Untitled"
+msgstr "Sans Nom"
+
+#. ID 36, Line 17
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "nanako"
+msgstr ""
+
+#. ID 36, Line 18
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Yin!"
+msgstr "Yin !"
+
+#. ID 36, Line 22
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 27
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 37
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 47
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 76
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 86
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "shirleycrow"
+msgstr ""
+
+#. ID 36, Line 23
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "stay peace"
+msgstr "Reste en Paix"
+
+#. ID 36, Line 28
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "darkness"
+msgstr "Ténèbres"
+
+#. ID 36, Line 32
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 52
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 51
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 81
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 91
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 161
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 221
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 226
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "rosaregard"
+msgstr ""
+
+#. ID 36, Line 33
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "midnight gate"
+msgstr "Grillage de Minuit"
+
+#. ID 36, Line 38
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "deep sea"
+msgstr "En Eaux Profondes"
+
+#. ID 36, Line 42
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 72
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Izy"
+msgstr ""
+
+#. ID 36, Line 43
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "shipwrecks"
+msgstr "Naufrage"
+
+#. ID 36, Line 48
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "dream in dream"
+msgstr "Rêve dans un Rêve"
+
+#. ID 36, Line 53
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "lost in the game"
+msgstr "Perdu dans le Jeu"
+
+#. ID 36, Line 57
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "JPiggs"
+msgstr ""
+
+#. ID 36, Line 58
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Dreaming in 8 bits"
+msgstr "Rêvant en 8 Bits"
+
+#. ID 36, Line 62
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "oliver"
+msgstr ""
+
+#. ID 36, Line 63
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "the dark"
+msgstr "Nuit Noire"
+
+#. ID 36, Line 67
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Mnn988"
+msgstr ""
+
+#. ID 36, Line 68
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "The Shadow"
+msgstr "L'Ombre"
+
+#. ID 36, Line 73
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Flower-bury"
+msgstr "Fleur Enfouie"
+
+#. ID 36, Line 77
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 82
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Jellyfish Legerdemain"
+msgstr ""
+
+#. ID 36, Line 78
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "False End"
+msgstr "Fausse Fin"
+
+#. ID 36, Line 83
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Lights On, Lights Off"
+msgstr "Allumé, Éteint"
+
+#. ID 36, Line 87
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "cyan"
+msgstr ""
+
+#. ID 36, Line 88
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "fields"
+msgstr "Champs"
+
+#. ID 36, Line 92
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 102
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "OrangeGel"
+msgstr ""
+
+#. ID 36, Line 93
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Sunlit Greenery"
+msgstr "Verdure Illuminée"
+
+#. ID 36, Line 97
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Alice"
+msgstr ""
+
+#. ID 36, Line 98
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "First Step"
+msgstr "Premier Pas"
+
+#. ID 36, Line 103
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "TmVlZCBzb21ldGhpbmc/"
+msgstr ""
+
+#. ID 37, Line 4
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.    Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No.    - Créateur : \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 37, Line 6
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 21
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 34
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 47
+#. Choice (2 options, embedded in a message)
+#. ID 37, Line 62
+#. Choice (2 options, embedded in a message)
+#. ID 71, Line 6
+#. Choice (2 options, embedded in a message)
+#. ID 71, Line 19
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Try this\n"
+"Never mind"
+msgstr ""
+"Essayer\n"
+"Oublie ça"
+
+#. ID 37, Line 19
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.\\v[30] Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0] (Default wallpaper)"
+msgstr ""
+"\\>No. \\v[30] - Créateur : \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0] (fond d'écran par défaut)"
+
+#. ID 37, Line 32
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.A Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No. A - Créateur : \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 37, Line 45
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.B Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No. B - Créateur : \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 37, Line 60
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.\\v[30] Creator: \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+msgstr ""
+"\\>No. \\v[30] - Créateur : \\N[9]\n"
+"\\>\\c[1][\\N[8]]\\c[0]"
+
+#. ID 38, Line 6
+#. ID 195, Line 6
+msgid "\\$\\.\\^"
+msgstr ""
+
+#. ID 38, Line 16
+#. ID 38, Line 29
+#. ID 38, Line 69
+#. ID 38, Line 80
+#. ID 38, Line 110
+#. ID 38, Line 124
+#. ID 38, Line 134
+#. ID 38, Line 144
+#. ID 193, Line 2
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 42, Line 16
+msgid "[Find it]"
+msgstr "[Le Trouver]"
+
+#. ID 42, Line 17
+msgid ""
+"When did I forget about it?\n"
+"I mean, I did like it back in the day, so it \n"
+"shouldn't have been in that box, right?"
+msgstr ""
+"Quand est-ce que je l'ai oublié ?\n"
+"Je veux dire, je l'aimais bien à l'époque,\n"
+"donc il n'aurait pas dû être dans cette boîte,\n"
+"non ?"
+
+#. ID 42, Line 20
+msgid ""
+"I cleaned it and now,\n"
+"it looks as cool as before........................\n"
+".....................And embarrassing to me, haha."
+msgstr ""
+"Je l'ai nettoyé et maintenant,\n"
+"il a l'air aussi joli qu'avant....................\n"
+"................. et embarrassant pour moi, haha."
+
+#. ID 42, Line 26
+msgid "[It]"
+msgstr "[Ça]"
+
+#. ID 42, Line 27
+msgid ""
+"Today, I saw it in the canteen's claw crane.\n"
+"It looked silly, but its eyes were fixed on me the \n"
+"wholeeee time."
+msgstr ""
+"Aujourd'hui, je l'ai vu dans l'attrape-peluche de\n"
+"la cantine. Il avait l'air rigolo, mais ses yeux\n"
+"étaient posés sur moi pendant touuuuuttt ce\n"
+"temps-là."
+
+#. ID 42, Line 30
+msgid ""
+"So...I spent 55 yuan!!! So much money!!!\n"
+"It ended up saving five yuan though. \n"
+"\n"
+"Ahhhhhhhhhhh did I really have to do that?"
+msgstr ""
+"Donc... j'ai dépensé 55 yuan !!!\n"
+"Tellement d'argent !!!\n"
+"J'ai quand même pu économiser 5 yuan.\n"
+"Ahhhhhhh est-ce que je devais vraiment faire ça ?"
+
+#. ID 42, Line 37
+msgid "[Trying To Write Something]"
+msgstr "[Essai d'Écriture]"
+
+#. ID 42, Line 38
+msgid ""
+"Because there is no idea,\n"
+"so the writing is dry like a sponge that has\n"
+"finished squeezing the sea water,\n"
+"floating around lei fall, clean nothing,"
+msgstr ""
+"Vu que je n'ai pas d'idées, mon écriture est\n"
+"aussi sèche qu'une éponge ayant fini d'être\n"
+"étreinte, dérivant de son habitat, ne nettoyant\n"
+"plus rien..."
+
+#. ID 42, Line 42
+msgid ""
+"but I also want to live a freee,\n"
+"live from myself,\n"
+"yyyyyy!!!!"
+msgstr ""
+"... mais j'ai aussi envie de vivre librement,\n"
+"vivre de mes propres ailes, yyyyyy !!!!"
+
+#. ID 42, Line 48
+msgid "[Recall Memory]"
+msgstr "[Rappel de Souvenirs]"
+
+#. ID 42, Line 49
+msgid ""
+"There are times when I miss the past and want to\n"
+"take a bite out of my memories and taste what it\n"
+"tastes like ......"
+msgstr ""
+"Il y a des fois où le passé me manque, où je veux\n"
+"juste goûter à mes souvenirs pour voir quel goût\n"
+"ils ont......"
+
+#. ID 42, Line 52
+msgid ""
+"Is it sweet? Or savory?\n"
+"Or the flavor of some kind of\n"
+"deadly poisonous rat?\n"
+"Either way, at least I can sleep comfortably."
+msgstr ""
+"Sont-ils sucrés ? Et leur saveur ?\n"
+"Ou ont-ils le même goût que celui d'un poison\n"
+"mortel ayant ôté la vie d'un rat ?\n"
+"En tout cas, je peux au moins dormir paisiblement."
+
+#. ID 42, Line 59
+msgid "[Oh Cool]"
+msgstr "[Oh Sympa]"
+
+#. ID 42, Line 60
+msgid ""
+"Aaaaaaa I feel so annoying.\n"
+"I also want to be cooler ah,\n"
+"preferably everyone around me kind of,\n"
+"supercalifragilisticexpialidocious..."
+msgstr ""
+"Aaaaaaa j'ai l'impression d'être si ennuyant.\n"
+"J'ai aussi envie d'être plus sympa-ah,\n"
+"ce serait tellement mieux si tout le monde pouvait\n"
+"se tourner vers moi,\n"
+"<easyrpg:new_page>\n"
+"supercalifragilisticexpidélilicieux..."
+
+#. ID 42, Line 64
+msgid ""
+"As a result in the end I'm JUST a clown,\n"
+"NO,\n"
+"the clown should be more popular than me,\n"
+"ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+msgstr ""
+"Du coup au final je suis JUSTE un clown,\n"
+"MAIS NON,\n"
+"car même un clown est plus populaire que moi,\n"
+"ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+
+#. ID 42, Line 71
+msgid "[Indignation]"
+msgstr ""
+
+#. ID 42, Line 72
+msgid ""
+"I drink more drinks and so what?!\n"
+"I drink more GOOD than smoking,\n"
+"second-hand smoke harm how much,\n"
+"will cause people to get lung cancer,"
+msgstr ""
+"Je bois plus de boissons et alors ?!\n"
+"Je bois plus de BIEN que je ne fume, de la fumée\n"
+"même indirecte blesse bien plus,\n"
+"va causer des cancers du poumon chez des gens,"
+
+#. ID 42, Line 76
+msgid ""
+"that's lung cancer!!!!\n"
+"...I wish I could PUNCH him in the face......\n"
+"That being said,\n"
+"I can't beat him either that's xxxx!!!!"
+msgstr ""
+"c'est le cancer du poumon !!!!!\n"
+"... J'aimerais tellement lui foutre un PAIN\n"
+"dans la gueule, à lui...\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Cela dit,\n"
+"je ne peux pas le battre non plus, c'est xxxx !!!!"
+
+#. ID 42, Line 83
+msgid "[Play game]"
+msgstr "[Jouer au Jeu]"
+
+#. ID 42, Line 84
+msgid ""
+"Everyone says that game is poison, it corrupts\n"
+"student and turn them into bad person.\n"
+"But this morning, when he brought that console\n"
+"into class, everyone crowded around to watch it."
+msgstr ""
+"Tout le monde dit que les jeux sont dangereux,\n"
+"que ça corrompt les étudiants en les transformant\n"
+"en voyous.\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Mais ce matin, quand il a ramené sa console en\n"
+"classe, tout le monde s'est rassemblé pour le\n"
+"regarder."
+
+#. ID 42, Line 88
+msgid ""
+"Has he turned into a bad guy?\n"
+"Should I be scared?\n"
+"\n"
+"I don't know. I certainly don't know."
+msgstr ""
+"Est-il devenu un voyou ?\n"
+"Devrais-je prendre peur ?\n"
+"\n"
+"Je ne sais pas. Je ne sais vraiment pas."
+
+#. ID 42, Line 95
+msgid "[Yes Or No]"
+msgstr "[Oui ou Non]"
+
+#. ID 42, Line 96
+msgid ""
+"Is the world black and white?\n"
+"So I say it's not my fault and in the end it's\n"
+"still my fault,\n"
+"so why should I fight back it?"
+msgstr ""
+"Le monde est-il en noir et blanc ?\n"
+"Je dis que ce n'est pas de ma faute et au final\n"
+"c'est quand même ma faute,\n"
+"donc pourquoi devrais-je lutter ?"
+
+#. ID 42, Line 100
+msgid ""
+"...well sorry hahaha too many questions asked...\n"
+"But no matter how much I ask there will be no\n"
+"answer.\n"
+"This still kinda makes me sad..........."
+msgstr ""
+".... eh bien désolé hahaha trop de questions...\n"
+"Mais qu'importe mon insistance il n'y aura pas de\n"
+"réponse.\n"
+"Cela me rend plutôt triste..........."
+
+#. ID 42, Line 107
+msgid "[Loneliness]"
+msgstr "[Solitude]"
+
+#. ID 42, Line 108
+msgid ""
+"People are always prone to loneliness no exception\n"
+"But if it stays too long,\n"
+"like the accumulation of dark clouds that can not\n"
+"be driven away."
+msgstr ""
+"Les gens ressentent toujours de la solitude, moi y\n"
+"compris, mais si ce sentiment reste trop\n"
+"longtemps, telle l'accumulation de nuages sombres\n"
+"ne pouvant être éloignés..."
+
+#. ID 42, Line 112
+msgid ""
+"This will affect the physical and mental health,\n"
+"which is not good,\n"
+"that's why we say should be a healthy,\n"
+"active and happy child, don't you think so?"
+msgstr ""
+"... cela affectera la santé physique et mentale,\n"
+"ce qui n'est pas bien, et c'est pour cela que l'on\n"
+"dit que l'on doit garder la pêche, et rester un\n"
+"enfant joyeux et actif, tu ne crois pas ?"
+
+#. ID 42, Line 119
+msgid "[Prepare to glow]"
+msgstr "[Se Préparer à Briller]"
+
+#. ID 42, Line 120
+msgid ""
+"When I took it out of the fridge, it gotten cold\n"
+"and hard.\n"
+"Just break it off and keep tapping it\n"
+"and it's ready to use."
+msgstr ""
+"Lorsque je l'ai sorti du frigo, il était devenu\n"
+"froid et dur.\n"
+"J'ai brisé sa glace, puis je l'ai tapoté et il\n"
+"était prêt à être utilisé."
+
+#. ID 42, Line 124
+msgid ""
+"I offered to sell it for a dollar a piece,\n"
+"but she thought it was too cheap...\n"
+"Seriously, I'd rather sleep at home.\n"
+"I don't want to turn into a capitalist, ha-ha-ha!"
+msgstr ""
+"J'ai proposé de le vendre pour un dollar pièce,\n"
+"mais elle trouvait que ce n'était pas assez\n"
+"cher...\n"
+"\n"
+"<easyrpg:new_page>\n"
+"Sérieusement, je préférerais plutôt dormir chez\n"
+"moi.\n"
+"Je ne veux pas devenir un capitaliste, hahaha !"
+
+#. ID 42, Line 128
+msgid "(PS. Don't eat the liquid inside, it's poisonous!)"
+msgstr ""
+"(PS : ne buvez pas le liquide dedans, c'est\n"
+"toxique !)"
+
+#. ID 42, Line 132
+msgid "[Begin]"
+msgstr "[Commencer]"
+
+#. ID 42, Line 133
+msgid ""
+"I don't remember when it popped into my head.\n"
+"At the time, I was just looking for something\n"
+"to do."
+msgstr ""
+"Je ne sais plus quand est-ce que ça a germé dans\n"
+"ma tête. À ce moment, je cherchais juste quelque\n"
+"chose à faire."
+
+#. ID 42, Line 136
+msgid ""
+"Since then, I've thought about it every day.\n"
+"I wonder about its family, its life, and"
+msgstr ""
+"Depuis lors, j'y ai pensé tous les jours. Je me\n"
+"pose des questions sur sa famille, sa vie, et"
+
+#. ID 42, Line 138
+msgid ""
+"                                                  \n"
+"Whatever, those are just dreams after all.\n"
+"\n"
+"Dreams always wake up one day."
+msgstr ""
+"                                                  \n"
+"De toute façon, ce ne sont que des rêves.\n"
+"\n"
+"Les rêves se réveillent toujours un jour."
+
+#. ID 42, Line 145
+msgid "[Abbbbaabbbbpppp]"
+msgstr ""
+
+#. ID 42, Line 146
+msgid ""
+"Isn't it nice to be a baby?\n"
+"When babies are taken care of and fed every day,\n"
+"they never have to think about learning or\n"
+"interaction,"
+msgstr ""
+"N'est-ce pas sympa d'être un bébé ?\n"
+"Les bébés sont changés et nourris chaque jour, ils\n"
+"n'ont jamais besoin de penser à avoir apprendre\n"
+"ou d'avoir à interagir,"
+
+#. ID 42, Line 150
+msgid ""
+"they just have to play all the time!\n"
+"But it must be hard for people with babies...\n"
+"No, that person can't be me anyway!\n"
+"Myy future wifii, let's not have a baby, okay?"
+msgstr ""
+"ils ont juste à s'amuser tout le temps !\n"
+"Mais ça doit être compliqué pour ceux avec des\n"
+"bébés... De toute façon, ça peut pas m'arriver !\n"
+"Maa future femmee, ne faisons pas de bébé, hein ?"
+
+#. ID 42, Line 157
+msgid "[Nian]"
+msgstr ""
+
+#. ID 42, Line 158
+msgid ""
+"I like Nian because I think it's cool.\n"
+"Because I know it hurts blown up by firecrackers.\n"
+"Because I don't like the color red either.\n"
+"(I don't get bloodsick!)"
+msgstr ""
+"J'aime Nian car je trouve ça sympa.\n"
+"Car je sais que ça fait mal d'être soufflé par des\n"
+"pétards. Car je n'aime pas non plus la couleur\n"
+"rouge. (Le sang ne me fait pas tourner de l'œil !)"
+
+#. ID 42, Line 162
+msgid ""
+"I hope to meet Nian one day.\n"
+"Let it eat me, so no one can find me!\n"
+"\n"
+"////AWA////"
+msgstr ""
+"J'espère pouvoir rencontrer Nian un jour.\n"
+"Laissez-le me manger, comme ça personne ne pourra\n"
+"me trouver !\n"
+"////AWA////"
+
+#. ID 71, Line 4
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.0 \\c[1][\\N[10]]\\c[0]\n"
+"\\>Creator: \\N[9]"
+msgstr ""
+"\\>No. 0 \\c[1][\\N[10]]\\c[0]\n"
+"\\>Créateur : \\N[9]"
+
+#. ID 71, Line 8
+msgid ""
+"Setup complete.\n"
+"Enjoy your own design :P"
+msgstr ""
+"Préparation terminée.\n"
+"Amusez-vous bien avec votre motif :P"
+
+#. ID 71, Line 17
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No.\\v[70] \\c[1][\\N[8]]\\c[0]\n"
+"\\>Creator: \\N[9]"
+msgstr ""
+"\\>No. \\v[70] \\c[1][\\N[8]]\\c[0]\n"
+"\\>Créateur : \\N[9]"
+
+#. ID 71, Line 21
+msgid "Setup complete."
+msgstr "Préparation terminée."
+
+#. ID 72, Line 2
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 162
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "You"
+msgstr "Toi"
+
+#. ID 72, Line 7
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Classic"
+msgstr "Classique"
+
+#. ID 72, Line 12
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Print"
+msgstr "Impression"
+
+#. ID 72, Line 17
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Golden"
+msgstr "Doré"
+
+#. ID 72, Line 22
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Paper-cut A"
+msgstr "Coupure Papier A"
+
+#. ID 72, Line 27
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Square-round"
+msgstr "Carré-Rond"
+
+#. ID 72, Line 32
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Paper-cut B"
+msgstr "Coupure Papier B"
+
+#. ID 72, Line 37
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Relief"
+msgstr ""
+
+#. ID 72, Line 42
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Bagua"
+msgstr "Ba Gua"
+
+#. ID 72, Line 47
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Chinese Knotting"
+msgstr "Nœud Chinois"
+
+#. ID 72, Line 52
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Comical"
+msgstr "Comique"
+
+#. ID 72, Line 56
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 206
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Carbonara"
+msgstr ""
+
+#. ID 72, Line 57
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "No Entry"
+msgstr "Sens Interdit"
+
+#. ID 72, Line 62
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Burnt"
+msgstr "Brûlé"
+
+#. ID 72, Line 66
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 71
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "ZLD1"
+msgstr ""
+
+#. ID 72, Line 67
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Cell"
+msgstr "Cellule"
+
+#. ID 72, Line 72
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Garden"
+msgstr "Jardin"
+
+#. ID 72, Line 77
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Zombie Cat"
+msgstr "Chat Zombie"
+
+#. ID 72, Line 82
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "yin-yang"
+msgstr "Yin et Yang"
+
+#. ID 72, Line 87
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Dreamcatcher"
+msgstr "Attrape-rêves"
+
+#. ID 72, Line 92
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "ERROR"
+msgstr "ERREUR"
+
+#. ID 72, Line 96
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 106
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 116
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "akalog"
+msgstr ""
+
+#. ID 72, Line 97
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Optic"
+msgstr "Optique"
+
+#. ID 72, Line 101
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Twiscool"
+msgstr ""
+
+#. ID 72, Line 102
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Orange"
+msgstr ""
+
+#. ID 72, Line 107
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Ouroboros"
+msgstr ""
+
+#. ID 72, Line 111
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 131
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 136
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 141
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 146
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 151
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 166
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 171
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 176
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 181
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 186
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 191
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 196
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 201
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "11126"
+msgstr ""
+
+#. ID 72, Line 112
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Disco"
+msgstr ""
+
+#. ID 72, Line 117
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Neko"
+msgstr ""
+
+#. ID 72, Line 121
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Chiaki"
+msgstr ""
+
+#. ID 72, Line 122
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Dog"
+msgstr "Chien"
+
+#. ID 72, Line 126
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 156
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 211
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 216
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "TheRagingRowlet"
+msgstr ""
+
+#. ID 72, Line 127
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Humerus"
+msgstr "Sale Quart d'Heure"
+
+#. ID 72, Line 132
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Fork"
+msgstr "Fourchette"
+
+#. ID 72, Line 137
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Demon"
+msgstr "Démon"
+
+#. ID 72, Line 142
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "False"
+msgstr "Faux"
+
+#. ID 72, Line 147
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Spoon"
+msgstr "Cuillère"
+
+#. ID 72, Line 152
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Bear Puzzle"
+msgstr "Puzzle de l'Ours"
+
+#. ID 72, Line 157
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Singularity"
+msgstr "Singularité"
+
+#. ID 72, Line 167
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Sunflower"
+msgstr "Tournesol"
+
+#. ID 72, Line 172
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Paradise"
+msgstr "Paradis"
+
+#. ID 72, Line 177
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Pearl"
+msgstr "Perle"
+
+#. ID 72, Line 182
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Crystal"
+msgstr "Cristal"
+
+#. ID 72, Line 187
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Ghost"
+msgstr "Fantôme"
+
+#. ID 72, Line 192
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Golden Apple"
+msgstr "Pomme d'Or"
+
+#. ID 72, Line 197
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Skull"
+msgstr "Squelette"
+
+#. ID 72, Line 202
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Beaver"
+msgstr "Castor"
+
+#. ID 72, Line 207
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Window"
+msgstr "Fenêtre"
+
+#. ID 72, Line 212
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Flatline"
+msgstr "Ligne Plate"
+
+#. ID 72, Line 217
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Bulb"
+msgstr "Bulbe"
+
+#. ID 72, Line 222
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Judge"
+msgstr "Juge"
+
+#. ID 72, Line 227
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Double"
+msgstr ""
+
+#. ID 72, Line 231
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "BluBiscuit"
+msgstr ""
+
+#. ID 72, Line 232
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Diamond Eggplant"
+msgstr "Aubergine de Diamant"
+
+#. ID 72, Line 236
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 241
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 246
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "nask"
+msgstr ""
+
+#. ID 72, Line 237
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Instant Photos"
+msgstr "Photos Instantanées"
+
+#. ID 72, Line 242
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Ice-Fire"
+msgstr "Feu Glacé"
+
+#. ID 72, Line 247
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Flame"
+msgstr "Flamme"
+
+#. ID 101, Line 26
+#. Choice (4 options)
+msgid ""
+"2004\n"
+"2007\n"
+"2009\n"
+"Next"
+msgstr ""
+"2004\n"
+"2007\n"
+"2009\n"
+"Suivant"
+
+#. ID 101, Line 30
+msgid "You're already here."
+msgstr "Tu es déjà ici."
+
+#. ID 101, Line 61
+#. Choice (4 options)
+msgid ""
+"2010\n"
+"2011\n"
+"2012\n"
+"Next"
+msgstr ""
+"2010\n"
+"2011\n"
+"2012\n"
+"Suivant"
+
+#. ID 101, Line 94
+#. Choice (4 options)
+msgid ""
+"2013\n"
+"2014\n"
+"2015\n"
+"Next"
+msgstr ""
+"2013\n"
+"2014\n"
+"2015\n"
+"Suivant"
+
+#. ID 101, Line 127
+#. Choice (4 options)
+msgid ""
+"2016\n"
+"2017\n"
+"2018\n"
+"Next"
+msgstr ""
+"2016\n"
+"2017\n"
+"2018\n"
+"Suivant"
+
+#. ID 101, Line 160
+#. Choice (4 options)
+msgid ""
+"2019\n"
+"2020\n"
+"2021\n"
+"Next"
+msgstr ""
+"2019\n"
+"2020\n"
+"2021\n"
+"Suivant"
+
+#. ID 101, Line 193
+#. Choice (4 options)
+msgid ""
+"2022\n"
+"2023\n"
+"2024\n"
+"Back"
+msgstr ""
+"2022\n"
+"2023\n"
+"2024\n"
+"Retour"
+
+#. ID 197, Line 3
+msgid "[Accepting submissions!:P]"
+msgstr "[Contributions bienvenues ! :P]"
+
+#. ID 197, Line 31
+msgid "Picture not found."
+msgstr "Image non trouvée."

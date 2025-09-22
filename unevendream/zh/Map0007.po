@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. ID 1, Page 1, Line 1, Pos (7,4)
 #. Contains choice at line 2 (2 options)
@@ -55,7 +55,7 @@ msgstr ""
 msgid ""
 "Obtained the Snowglobe Effect.\\! Equip it to freeze\n"
 "NPCs,\\. then interact with them to kill them."
-msgstr "取得雪景球效果。\\!装备它以冰冻NPC\\然后互动以消灭它们。"
+msgstr "取得雪景球效果。\\!装备它以冰冻NPC\\.然后互动以消灭它们。"
 
 #. ID 2, Page 1, Line 12, Pos (5,4)
 msgid "Suit yourself. Have EFFECT028 instead."

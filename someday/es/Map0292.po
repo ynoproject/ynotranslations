@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 9, Page 1, Line 8, Pos (2,6)
+msgid "               \\.ZApNeF OST: Classic"
+msgstr ""
+
+#. ID 9, Page 1, Line 16, Pos (2,6)
+msgid "                \\.ZApNeF OST: Remix"
+msgstr ""
+
+#. ID 49, Page 1, Line 4, Pos (16,0)
+#. Choice (3 options)
+msgid ""
+"Save\n"
+"Speed 5\n"
+"Debug Room"
+msgstr ""
+
+#. ID 49, Page 1, Line 30, Pos (16,0)
+#. ID 49, Page 1, Line 69, Pos (16,0)
+msgid "TESTMODE is currently activated. Choose option:"
+msgstr ""
+
+#. ID 49, Page 1, Line 31, Pos (16,0)
+#. Choice (4 options)
+msgid ""
+"Displays Music Rate\n"
+"Unlocks all music\n"
+"Revokes all music\n"
+"Save"
+msgstr ""
+"Mostrar porcentaje de musica obtenida\n"
+"Desbloquear toda la musica\n"
+"Bloquear toda la musica\n"
+"Guardar"
+
+#. ID 49, Page 1, Line 39, Pos (16,0)
+msgid "All music has been unlocked."
+msgstr "Se ha desbloqueado toda la musica."
+
+#. ID 49, Page 1, Line 46, Pos (16,0)
+msgid "All music has been revoked."
+msgstr "Se ha bloqueado toda la musica."
+
+#. ID 49, Page 1, Line 70, Pos (16,0)
+#. Choice (4 options)
+msgid ""
+"Save\n"
+"Chooses arbitrary Scheme\n"
+"Unlocks all Schemes\n"
+"Revokes all Schemes"
+msgstr ""
+"Guardar\n"
+"Elegir menu aleatorio\n"
+"Desbloquear todos los menus\n"
+"Bloquear todos los menus"
+
+#. ID 49, Page 1, Line 76, Pos (16,0)
+msgid "Input value between 0-7 that corresponds to Scheme ID."
+msgstr "Introducir valor de ID de menu entre 0 y 7."
+
+#. ID 49, Page 1, Line 110, Pos (16,0)
+msgid "All Schemes has been unlocked."
+msgstr "Se han desbloqueado todos los tipos de menu."
+
+#. ID 49, Page 1, Line 113, Pos (16,0)
+msgid ""
+"!!!WARNING!!! USING THIS FUNCTION WILL INITIALIZE\n"
+"CERTAIN EFFECTS, ALL FEATS, \n"
+"AND CERTAIN EVENT COMPLETION CHECKER!\n"
+"Press 'Yes' to initiate and press 'No' to cancel."
+msgstr ""
+"ATENCION!!! ESTA FUNCION REINICIARA EFECTOS, TODOS\n"
+"LOS LOGROS, Y CIERTAS COMPROBACIONES DE EVENTOS!\n"
+"Pulsa 'Si' para iniciar y 'No' para cancelar."
+
+#. ID 49, Page 1, Line 117, Pos (16,0)
+#. Choice (1 options)
+msgid "Yes"
+msgstr "Si"
+
+#. ID 49, Page 1, Line 171, Pos (16,0)
+msgid ""
+"All Schemes has been revoked. \n"
+"Most progressions has been initialized."
+msgstr ""
+"Bloqueados todos los menus.\n"
+"La mayor parte del progreso se ha reiniciado."

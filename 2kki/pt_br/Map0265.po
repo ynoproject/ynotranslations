@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Carbonara-Mimigris\n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 8, Page 1, Line 6, Pos (60,103)
 msgid ""
@@ -23,7 +23,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　　　   Trombone\\<\\|\\^"
+"\\>　　　　　　　　　   Trombone\\<\\|\\|\\^"
 
 #. ID 26, Page 2, Line 22, Pos (95,119)
 #. ID 37, Page 2, Line 7, Pos (82,139)

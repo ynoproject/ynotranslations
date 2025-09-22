@@ -3,25 +3,55 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Fonvight\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4\n"
+
+#. ID 1, Page 1, Line 1, Pos (3,0)
+#. Condition (Actor Name = slot)
+msgctxt "actors.name"
+msgid "slot"
+msgstr ""
+
+#. ID 1, Page 1, Line 154, Pos (3,0)
+#. ChangeHeroName (Actor 1)
+#. ID 9, Page 1, Line 117, Pos (3,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцуки"
+
+#. ID 1, Page 1, Line 163, Pos (3,0)
+#. ID 9, Page 1, Line 124, Pos (3,5)
+msgid "\\>戻り先マップIDの値が不正です\n"
+"\\>CEV:---- MAP:\\V[1418] XY:\\V[1413],\\V[1420]\n"
+"\n"
+"\\>10秒後に目覚めます\\<\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
+msgstr "\\>Возвращаемый ID карты неверен\n"
+"\\>CEV:---- MAP:\\V[1418] XY:\\V[1413],\\V[1420]\n"
+"\n"
+"\\>Пробуждение через 10 секунд.\\<\\|\\|\\|\\|\\|\\|\\|\\|\\|\\|\\^"
 
 #. ID 5, Page 1, Line 44, Pos (7,0)
 #. ID 5, Page 1, Line 86, Pos (7,0)
 msgid "\\^"
-msgstr "\\^"
+msgstr ""
 
 #. ID 5, Page 1, Line 462, Pos (7,0)
-msgid ""
-"\\>調:\\V[9] 左:\\V[2]    中:\\V[3]    右:\\V[4]\n"
+msgid "\\>調:\\V[9] 左:\\V[2]    中:\\V[3]    右:\\V[4]\n"
 "\\>　      左:\\V[5] 中:\\V[6] 右:\\V[7]"
-msgstr ""
-"\\>Итог:\\V[9]\n"
+msgstr "\\>Итог:\\V[9]\n"
 "\\>Лево:\\V[2] Центр:\\V[3] Право:\\V[4]\n"
 "\\>Лево:\\V[5] Центр:\\V[6] Право:\\V[7]"
+
+#. ID 9, Page 1, Line 8, Pos (3,5)
+#. Condition (Actor Name = trumpet)
+msgctxt "actors.name"
+msgid "trumpet"
+msgstr ""
+

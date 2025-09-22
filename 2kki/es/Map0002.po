@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -141,7 +141,7 @@ msgid ""
 msgstr ""
 "\\>N. \\V[17]: Usar canción favorita.\n"
 "\\>Registra una canción como favorita presionando\n"
-"shift sobre la canción dentro del cuarto de música."
+"\\>shift sobre la canción dentro del cuarto de música."
 
 #. ID 6, Page 5, Line 372, Pos (12,5)
 msgid ""
@@ -152,8 +152,8 @@ msgid ""
 msgstr ""
 "\\>N. \\V[17]: Usar lista de canciones favoritas.\n"
 "\\>Agrega canciones a la lista de favoritos usando\n"
-"shift sobre las canciones en el cuarto de música.\n"
-"Si no hay canciones en la lista, no sonará nada."
+"\\>shift sobre las canciones en el cuarto de música.\n"
+"\\>Si no hay canciones en la lista, no sonará nada."
 
 #. ID 6, Page 5, Line 379, Pos (12,5)
 msgid ""
@@ -164,8 +164,8 @@ msgid ""
 msgstr ""
 "\\>No. \\V[17]: Usar canciones aleatorias.\n"
 "\\>Sonarán canciones aleatorias del cuarto de música. \n"
-"Puede tomar un tiempo en cargar si no hay muchas \n"
-"canciones desbloqueadas."
+"\\>Puede tomar un tiempo en cargar si no hay muchas \n"
+"\\>canciones desbloqueadas."
 
 #. ID 6, Page 6, Line 84, Pos (12,5)
 #. ChangeHeroName (Actor 1)
@@ -243,7 +243,7 @@ msgstr ""
 msgid "\\>壁紙メニューのオプションで設定が変えられます"
 msgstr ""
 "\\>Esta configuración puede ser cambiada desde\n"
-"el menú de opciones de wallpapers"
+"\\>el menú de opciones de wallpapers"
 
 #. ID 6, Page 6, Line 567, Pos (12,5)
 #. ChangeHeroName (Actor 2)
@@ -1225,6 +1225,7 @@ msgid ""
 "\\>エフェクト解除しないようにします。"
 msgstr ""
 "\\>* Configurado a \"Hacer Nada\".\n"
+"\n"
 "\\>Seleccionar el efecto actualmente equipado no lo\n"
 "\\>desequipará."
 
@@ -1240,6 +1241,7 @@ msgid ""
 "\\>下キーでお気に入りエフェクトを選択します。"
 msgstr ""
 "\\>* Configurado a \"Remover Efecto\".\n"
+"\n"
 "\\>Remueve el efecto equipado al presionar arriba.\n"
 "\\>Selecciona el efecto favorito al presionar abajo."
 
@@ -1251,6 +1253,7 @@ msgid ""
 "\\>お気に入りエフェクトを選択します。"
 msgstr ""
 "\\>* Configurado a \"Efecto Favorito\".\n"
+"\n"
 "\\>Presionar tanto la tecla arriba o abajo equipará\n"
 "\\>el efecto registrado como favorito."
 

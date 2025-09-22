@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.3.2\n"
+"X-Generator: Poedit 3.4.4\n"
 
 #. ID 1, Page 2, Line 44, Pos (1,1)
 #. ChangeHeroName (Actor 1)
@@ -67,7 +67,7 @@ msgid ""
 "\\>文字色サンプル:\\C[0]$j通常 \\C[1]$k強調 \\C[3]$m選択不可"
 msgstr ""
 "\\>Changed to No. \\V[46]\n"
-"\\>Font Color Sample: \\C[0]$jNormal \\C[1]$kEmphasized \\C[3]$mDisabled"
+"\\>Font Color Sample: \\C[0]$jNorm. \\C[1]$kEmph. \\C[3]$mDisa."
 
 #. ID 6, Page 4, Line 847, Pos (12,5)
 #. Choice (2 options, embedded in a message)
@@ -290,7 +290,7 @@ msgid ""
 "\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
 "\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
 msgstr ""
-"\\>Use the file at in Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
+"\\>Use the file at Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
 "\\>\\C[4]If the file cannot be read, the game will crash.\\C[0]"
 
 #. ID 6, Page 6, Line 600, Pos (12,5)
@@ -636,7 +636,7 @@ msgid ""
 msgstr ""
 "\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
 "\\>　Times Slept: \\C[4]\\v[43] Days\\C[0]\n"
-"\\>　Steps Taken: \\C[4]\\v[91]\\N[3]\\000000 Steps\\C[0]"
+"\\>　Steps Taken: \\C[4]\\v[91]\\N[3]000000 Steps\\C[0]"
 
 #. ID 6, Page 6, Line 982, Pos (12,5)
 msgid ""
@@ -925,7 +925,7 @@ msgstr "Invisible"
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "がくラン"
-msgstr "School Boy"
+msgstr "School Boy "
 
 #. ID 12, Page 2, Line 117, Pos (13,5)
 #. ChangeHeroName (Actor 2)

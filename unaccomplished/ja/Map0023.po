@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 14, Page 1, Line 2, Pos (18,13)
+#. Choice (4 options)
+msgid ""
+"Current Progress\n"
+"Video Options\n"
+"Emote Bubble\n"
+"Exit The Game"
+msgstr ""
+"プレイ状況\n"
+"画面設定\n"
+"吹き出しエモート\n"
+"ゲームを閉じる"
+
+#. ID 14, Page 1, Line 25, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Wuqi Effects: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
+msgstr ""
+"エフェクト: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Wuqiのエフェクト: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
+"特別なアイテム: \\c[1]\\V[16]\\c[0]/\\V[510]"
+
+#. ID 14, Page 1, Line 30, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
+msgstr ""
+"エフェクト: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"特別なアイテム: \\c[1]\\V[16]\\c[0]/\\V[510]"
+
+#. ID 14, Page 1, Line 34, Pos (18,13)
+msgid ""
+"Wallpapers: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
+"Documents: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
+"Menu Style: \\c[1]\\V[92]\\c[0]/\\V[507]\n"
+"Thanks for playing :P"
+msgstr ""
+"壁紙: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
+"文書: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
+"メニュースタイル: \\c[1]\\V[92]\\c[0]/\\V[507]\n"
+"プレイしてくれてありがとう :P"
+
+#. ID 14, Page 1, Line 45, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][ON]\\c[0]"
+msgstr ""
+"\\c[1]5\\c[0] キーを押して、送信したい吹き出しエモートを\n"
+"選択します。\n"
+"現在は \\c[1][有効]\\c[0] になっています。"
+
+#. ID 14, Page 1, Line 47, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn OFF\n"
+"Keep it"
+msgstr ""
+"無効にする\n"
+"変更しない"
+
+#. ID 14, Page 1, Line 50, Pos (18,13)
+#. ID 14, Page 1, Line 62, Pos (18,13)
+msgid "Setup complete."
+msgstr "設定完了。"
+
+#. ID 14, Page 1, Line 57, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][OFF]\\c[0]"
+msgstr ""
+"\\c[1]5\\c[0] キーを押して、送信したい吹き出しエモートを\n"
+"選択します。\n"
+"現在は \\c[1][無効]\\c[0] になっています。"
+
+#. ID 14, Page 1, Line 59, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn ON\n"
+"Keep it"
+msgstr ""
+"有効にする\n"
+"変更しない"
+
+#. ID 14, Page 1, Line 71, Pos (18,13)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "本当に？"
+
+#. ID 14, Page 1, Line 72, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 13, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 100, Page 1, Line 3, Pos (1,12)
+#. Choice (2 options, embedded in a message)
+#. ID 108, Page 1, Line 5, Pos (3,4)
+#. Choice (2 options, embedded in a message)
+#. ID 109, Page 1, Line 5, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+#. ID 110, Page 1, Line 5, Pos (3,8)
+#. Choice (2 options, embedded in a message)
+#. ID 111, Page 1, Line 5, Pos (3,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 21, Page 1, Line 2, Pos (1,2)
+msgid "The recycle bin is empty. "
+msgstr "ゴミ箱は空です。"
+
+#. ID 23, Page 1, Line 12, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "Quit?"
+msgstr "やめる？"
+
+#. ID 100, Page 1, Line 2, Pos (1,12)
+#. Contains choice at line 2 (2 options)
+msgid "Play wuqi? (Unaccomplished First Version)"
+msgstr "wuqiで遊ぶ? (Unaccomplishedの初期バージョン)"
+
+#. ID 108, Page 1, Line 3, Pos (3,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.0 Default\n"
+"\\>Use this?"
+msgstr ""
+"\\>【メニュースタイル】 No.0 デフォルト\n"
+"\\>これを使う？"
+
+#. ID 109, Page 1, Line 3, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.1 Frame\n"
+"\\>Use this?"
+msgstr ""
+"\\>【メニュースタイル】 No.1 フレーム\n"
+"\\>これを使う？"
+
+#. ID 110, Page 1, Line 3, Pos (3,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.2 Classic\n"
+"\\>Use this?"
+msgstr ""
+"\\>【メニュースタイル】 No.2 クラシック\n"
+"\\>これを使う？"
+
+#. ID 111, Page 1, Line 3, Pos (3,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.3 PC Game\n"
+"\\>Use this?"
+msgstr ""
+"\\>【メニュースタイル】 No.3 PCゲーム\n"
+"\\>これを使う？"

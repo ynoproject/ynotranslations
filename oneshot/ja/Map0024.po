@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 25, Page 1, Line 2, Pos (30,36)
+msgid "I'm catching fireflies for mommy!"
+msgstr "ママのためにホタルを捕まえるんだ!"
+
+#. ID 26, Page 1, Line 2, Pos (38,36)
+msgid "The jar is full of fireflies."
+msgstr "ビンはホタルでいっぱいだ。"
+
+#. ID 38, Page 1, Line 15, Pos (19,39)
+msgid ""
+"HERE IS YOUR STOP.\\!\n"
+"THE GLEN."
+msgstr ""
+"到着しましタ。\\!\n"
+"峡谷でス。"
+
+#. ID 38, Page 1, Line 20, Pos (19,39)
+msgid "Thank you."
+msgstr "ありがとう。"
+
+#. ID 38, Page 1, Line 22, Pos (19,39)
+msgid ""
+"THERE SHOULD BE A VILLAGE TO\n"
+"THE NORTH.\\!\n"
+"BUT THAT'S ALL I CAN RECALL."
+msgstr ""
+"北ノほうに村ガあるはずでス。\\!\n"
+"それ以上ハ何も覚えていませン。"
+
+#. ID 38, Page 1, Line 25, Pos (19,39)
+msgid "FAREWELL."
+msgstr "それでハ。"
+
+#. ID 38, Page 1, Line 26, Pos (19,39)
+msgid "MAY YOUR QUEST BE A SUCCESS."
+msgstr "アナタノ使命ガ成功しますようニ。"
+
+#. ID 38, Page 1, Line 28, Pos (19,39)
+msgid "A-Are you leaving?"
+msgstr "か、帰っちゃうの？"
+
+#. ID 38, Page 1, Line 31, Pos (19,39)
+msgid ""
+"I NEED TO GO BACK...\\.\n"
+"FOR WHEN MY ENGINEER NEEDS ME."
+msgstr ""
+"戻らなければなりませン…\\.\n"
+"私ノ技術者ガ必要トした時ノためニ。"

@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 3, Page 1, Line 3, Pos (21,22)
+msgid "The door is locked."
+msgstr "ドアは施錠されている。"
+
+#. ID 4, Page 1, Line 4, Pos (15,13)
+msgid "H-hello?"
+msgstr "だ…誰かいる？"
+
+#. ID 4, Page 1, Line 6, Pos (15,13)
+msgid "..."
+msgstr "…"
+
+#. ID 4, Page 1, Line 17, Pos (15,13)
+msgid ""
+"An odd feeling of deja vu\n"
+"overwhelms Niko."
+msgstr "妙な既視感がニコを襲う。"
+
+#. ID 5, Page 1, Line 2, Pos (24,15)
+msgid ""
+"A soft glowing light trickles\n"
+"through the window."
+msgstr "柔らかな明かりが窓から差し込んでいる。"
+
+#. ID 5, Page 2, Line 2, Pos (24,15)
+msgid ""
+"In the faint light Niko can\n"
+"glimpse the face of the\n"
+"remote..."
+msgstr ""
+"薄明りの中、\n"
+"ニコにはリモコンの表面が\n"
+"わずかながら見える…"
+
+#. ID 5, Page 2, Line 5, Pos (24,15)
+msgid ""
+"All of the numbers except\n"
+"\\c[1]\\v[13]\\c[0], \\c[2]\\v[14]\\c[0], \\c[4]\\v[15]\\c[0], and \\v[16] are \n"
+"missing."
+msgstr ""
+"\\c[1]\\v[13]\\c[0]、\\c[2]\\v[14]\\c[0]、\\c[4]\\v[15]\\c[0]、\\v[16]以\n"
+"外の数字がなくなっている。"
+
+#. ID 5, Page 2, Line 8, Pos (24,15)
+msgid "They're marked in bright colors."
+msgstr "明るい色でマークされている。"
+
+#. ID 7, Page 1, Line 6, Pos (18,16)
+msgid "Input password:"
+msgstr "パスワードを入力してください:"
+
+#. ID 7, Page 1, Line 18, Pos (18,16)
+msgid "\\c[1]\\v[2] \\c[2]\\v[3] \\c[4]\\v[4] \\c[0]\\v[5]\\..\\..\\..\\|\\^"
+msgstr ""
+
+#. ID 7, Page 1, Line 21, Pos (18,16)
+msgid "\\c[2]Access Granted."
+msgstr "\\c[2]アクセス成功"
+
+#. ID 7, Page 1, Line 107, Pos (18,16)
+msgid "\\c[1]Access Denied."
+msgstr "\\c[1]アクセス失敗。"
+
+#. ID 7, Page 2, Line 3, Pos (18,16)
+msgid "It won't turn on."
+msgstr "電源が入らない。"
+
+#. ID 10, Page 1, Line 2, Pos (22,18)
+msgid ""
+"There's a \\c[7]TV remote\\c[0] underneath\n"
+"the carpet here."
+msgstr "カーペットの下に\\c[7]TVリモコン\\c[0]がある。"
+
+#. ID 10, Page 1, Line 5, Pos (22,18)
+msgid "Niko picks it up."
+msgstr "ニコはそれを拾った。"
+
+#. ID 18, Page 1, Line 2, Pos (21,16)
+msgid "\"ad infinitum\""
+msgstr ""

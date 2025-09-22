@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 9, Page 1, Line 3, Pos (103,45)
+msgid "I'm not going back in there."
+msgstr "あそこには戻らないよ。"
+
+#. ID 10, Page 1, Line 2, Pos (32,38)
+#. ID 12, Page 1, Line 2, Pos (32,40)
+#. ID 14, Page 1, Line 2, Pos (32,39)
+msgid "Here too!?"
+msgstr "こっちも!？"
+
+#. ID 19, Page 1, Line 2, Pos (41,38)
+#. ID 19, Page 1, Line 44, Pos (41,38)
+#. ID 19, Page 2, Line 6, Pos (41,38)
+msgid "..."
+msgstr "…"
+
+#. ID 19, Page 1, Line 3, Pos (41,38)
+msgid ""
+"Wait.\\!\n"
+"Before you pass, you must\n"
+"allow me to examine your\n"
+"inventory."
+msgstr ""
+"待テ。\\!\n"
+"通過スル前ニ、持チ物ヲ\n"
+"調ベル必要ガアル。"
+
+#. ID 19, Page 1, Line 8, Pos (41,38)
+msgid "O-\\.Ok."
+msgstr "わ、\\.分かった。"
+
+#. ID 19, Page 1, Line 10, Pos (41,38)
+msgid ""
+"Hm.\\!\n"
+"Interesting book you\n"
+"have here."
+msgstr ""
+"フム。\\!\n"
+"興味深イ本ヲ持ッテイルナ。"
+
+#. ID 19, Page 1, Line 13, Pos (41,38)
+msgid ""
+".\\..\\..\\..Well,\n"
+"nothing illegal, but-\\|\n"
+"Oh, you have the seed."
+msgstr ""
+".\\..\\..\\..アア、\n"
+"異常ナシ、ダガ――\\|\n"
+"オオ、種ヲ持ッテイルナ。"
+
+#. ID 19, Page 1, Line 16, Pos (41,38)
+msgid ""
+"It is the duty of the\n"
+"light-bearer to regrow\n"
+"the race of plants."
+msgstr ""
+"植物タチヲ再生スルノハ\n"
+"光ヲ運ブ者の義務ダ。"
+
+#. ID 19, Page 1, Line 19, Pos (41,38)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Do you understand\n"
+"the proceedure?"
+msgstr "手順ハ分カッテイルナ？"
+
+#. ID 19, Page 1, Line 22, Pos (41,38)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 19, Page 1, Line 25, Pos (41,38)
+msgid ""
+"Excellent.\\!\n"
+"The plot is north of the Spire.\\!\n"
+"You cannot miss it."
+msgstr ""
+"素晴ラシイ。\\!\n"
+"区画ハ塔ノ北ニアル。\\!\n"
+"見逃スナ。"
+
+#. ID 19, Page 1, Line 31, Pos (41,38)
+msgid ""
+"Take the seed to the plot\n"
+"north of the Tower.\\!\n"
+"Bury it in the soil there."
+msgstr ""
+"種ヲ塔ノ北ニアル区画ニ持ッテイケ。\\!\n"
+"ソコノ土ニ埋メルノダ。"
+
+#. ID 19, Page 1, Line 37, Pos (41,38)
+msgid ""
+"I hope she grows this time.\\!\n"
+"The other seeds were all\n"
+"planted before the sun\n"
+"was extinguished..."
+msgstr ""
+"今度コド彼女ガ育ツコトヲ祈ル。\\!\n"
+"他ノ種ハ全テ太陽ガ消滅スル前ニ\n"
+"植エタノダ…"
+
+#. ID 19, Page 1, Line 42, Pos (41,38)
+msgid "Other seeds?"
+msgstr "他の種？"
+
+#. ID 19, Page 2, Line 2, Pos (41,38)
+msgid ""
+"Do you know how I\n"
+"can get to the top of\n"
+"the Spire?"
+msgstr ""
+"どうやって塔のてっぺんに行くか\n"
+"知ってる？"

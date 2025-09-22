@@ -3,18 +3,18 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.5\n"
 
-#. ID 3, Line 23
+#. ID 3, Line 24
 #. ChangeHeroName (Actor 1)
-#. ID 19, Line 29
+#. ID 19, Line 30
 #. ChangeHeroName (Actor 1)
 #. ID 47, Line 18
 #. ChangeHeroName (Actor 1)
@@ -42,7 +42,7 @@ msgstr "잇츠키"
 msgid "                Menu scheme changed!"
 msgstr "                  메뉴타입 변경 완료!"
 
-#. ID 60, Line 159
+#. ID 60, Line 190
 msgid ""
 "Congratulations!\n"
 "You completed the entire game at 100%!"
@@ -50,23 +50,278 @@ msgstr ""
 "축하드립니다!\n"
 "이 게임을 달성도 100%로 클리어하셨습니다!"
 
-#. ID 60, Line 161
+#. ID 60, Line 192
 msgid ""
 "But did you know...\n"
 "\\....that interacting with the four-leaf clover\n"
 "at the forest enables the Lucky Mode?"
 msgstr ""
 "그런데 말입니다, 숲에 있는 네잎 클로버를 만지면\n"
-"'운 모드'가 발동된다는 사실을 아십니까?"
+"'행운 모드'가 발동된다는 사실을 아십니까?"
 
-#. ID 60, Line 164
+#. ID 60, Line 195
 msgid ""
 "In Lucky Mode, random events appear more often!\n"
 "\\|Ssssh... \\.don't tell anyone..."
 msgstr ""
-"운 모드에선 임의 확률로 발생하는\n"
+"행운 모드에선 임의 확률로 발생하는\n"
 "이벤트가 자주 일어나게 됩니다!\n"
-"\\|쉿... \\.아무에게나 말해주면 안 됩니다..."
+"\\|쉿... \\.아무에게나 말하지 마세요..."
+
+#. ID 62, Line 28
+msgid ""
+"Entry #47\\.\n"
+"August 24, 2008\\.\n"
+"\"I just had the most disgusting feeling today.\n"
+"Mom isn't like this. \\.She's not a bad person.\""
+msgstr ""
+"일지 #47\\.\n"
+"2008.8.24. \\.\n"
+"\"오늘 가장 속이 뒤집어지는 경험을 했다.\n"
+"엄마는 원래 이러지 않으셨다. \\.나쁜 분이 아니라고.\""
+
+#. ID 62, Line 40
+msgid ""
+"\"But neither is Dad. He's just busy...\n"
+"\\....really busy...\n"
+"\\..\\..\\..\\.all the time.\""
+msgstr ""
+"\"아버지도 마찬가지다. 단지 바쁘실 뿐...\n"
+"\\....정말로...\n"
+"\\..\\..\\..\\.언제나.\""
+
+#. ID 62, Line 52
+msgid ""
+"\"She won't stop crying from time to time. She says\n"
+"she's not needed. But I do need her.\n"
+"\\.But Dad is not a bad person either...\""
+msgstr ""
+"\"어머니는 이따금 우시는 걸 멈추지 않는다. 어머니는\n"
+"자신이 필요 없는 존재라고 말하시지만, \n"
+"난 어머니가 필요하다."
+
+#. ID 63, Line 28
+msgid ""
+"Entry #7\\.\n"
+"May 10, 2006\\.\n"
+"\"I think I'm better off alone. Why even bother?\""
+msgstr ""
+"일지 #7\\.\n"
+"2006.5.10 \\.\n"
+"\"혼자 있는 것이 차라리 나을 것이다.\n"
+"굳이 피곤하게 살 필요가 있을까?\""
+
+#. ID 63, Line 41
+msgid ""
+"\"If I'm THAT different, I might as well not try to\n"
+"make friends at all.\n"
+"\\.I'm used to being alone.\n"
+"\\.I can live with that.\""
+msgstr ""
+"\"내가 정말로 그리도 다른 사람이라면,\n"
+"친구를 사귀려고 하지 않는 편이 더 나을 것이다.\n"
+"\\.혼자 있는 게 더 익숙하니.\n"
+"\\.그 정도는 감내할 수 있을 터.\""
+
+#. ID 63, Line 57
+msgid "\\.\\.\"I don't even like birthday parties anyway.\""
+msgstr "\\.\\.\"생일 잔치도 애당초 별로 안 좋아하니 말이다.\""
+
+#. ID 64, Line 29
+msgid ""
+"Entry #43\n"
+"June 11, 2008\n"
+"\"You know how a lot people feel that we're all\n"
+"connected in some way?\""
+msgstr ""
+"일지 #43\n"
+"2008.6.11 \\.\n"
+"\"우리 모두가 어떤 점에서는 서로 연결되어 있다고\n"
+"느끼고 있는 사람이 많다는 걸 알고 있나?\""
+
+#. ID 64, Line 41
+msgid ""
+"\"I always felt like I'm missing a link.\n"
+"\\.\\.And now I know why. But it's too late.\""
+msgstr ""
+"\"난 항상 그 연결에서 떨어져 나갔다고 느껴왔다.\n"
+"\\.\\.그리고 이제 왜 그런지 알고 있지만,\n"
+"이미 늦었다.\""
+
+#. ID 64, Line 51
+msgid ""
+"\"Still, some part of me knows it wasn't \n"
+"intentional. I believe they really did love me.\n"
+"\\.They really tried to make things better.\""
+msgstr ""
+"\"그렇긴 해도, 내 자신의 일부는 그런 게\n"
+"의도치 않았다는 점을 인지하고 있다.\n"
+"그분들도 정말 나를 사랑했다고 본다.\n"
+"\\.더 나은 삶을 만들기 위해 노력하셨으니.\""
+
+#. ID 64, Line 62
+msgid ""
+"\"I just wish I had the chance to tell them I\n"
+"survived. \\.To tell them I loved them.\n"
+"\\.Even if I don't remember them.\n"
+"\\.Wherever they are...\""
+msgstr ""
+"\"단지 내가 살아 남았다고 소식을 전할 기회가 있길\n"
+"바랄 뿐이다. \\.또, 내가 그분들을 사랑하고 있음을.\n"
+"\\.내가 기억하지 못한다고 할 지라도.\n"
+"\\.어디에 계시던 간에...\""
+
+#. ID 65, Line 27
+msgid ""
+"Entry #25\\.\n"
+"March 31, 2007\\.\n"
+"\"I saw a fox today.\""
+msgstr ""
+"일지 #25\\.\n"
+"2007.3.31 \\.\n"
+"\"오늘 여우를 봤다.\""
+
+#. ID 65, Line 38
+msgid ""
+"\"They say foxes are really shy, but this one kept\n"
+"staring at me. I think it enjoyed my company!\n"
+"\\.\\.It was really cute.\""
+msgstr ""
+"\"여우는 낯을 많이 가린다고 하던데, 이 녀석은\n"
+"계속 날 빤히 보기만 했다. 나와 같이 있는 게\n"
+"좋았나 보다!\n"
+"\\.\\.꽤 귀여웠다.\""
+
+#. ID 65, Line 49
+msgid ""
+"\"Animals always take it easy, you know?\n"
+"They don't seem to care about the stupid things us\n"
+"humans dedicate so much time to.\n"
+"\\....I wish I took it home.\""
+msgstr ""
+"\"동물들은 항상 쉽게 사려고 하는 것을 알고 있나?\n"
+"멍청한 것에 시간을 할애하는 우리 사람들과는 다르게\n"
+"그러한 걸 전혀 신경쓰지 않는 듯하다.\n"
+"\\...집에 가져다 두었으면 좋았을 텐데.\""
+
+#. ID 65, Line 64
+msgid "\"I've named it Miru.\""
+msgstr "\"그 여우에게 '미루'라는 이름을 붙여뒀다.\""
+
+#. ID 66, Line 31
+msgid ""
+"Entry #3\\.\n"
+"February 7, 2006\\.\n"
+"\"Growing up is really weird. I keep asking myself\n"
+"about these wooden dolls I used to play with.\""
+msgstr ""
+"일지 #3\\.\n"
+"2006.2.7 \\.\n"
+"\"성장하는 과정은 이상하다. 난 예전에 내가\n"
+"가지고 놀았던 저 나무 인형에 대해 자문하곤 한다.\""
+
+#. ID 66, Line 44
+msgid ""
+"\"But Mom says she doesn't know what toys am I\n"
+"talking about.\""
+msgstr ""
+"\"다만, 어머니는 내가 말하는 장난감이 어떤 건지\n"
+"모른다고 한다.\""
+
+#. ID 66, Line 55
+msgid ""
+"\"I'm pretty sure I remember playing with wooden\n"
+"cubes with shapes and colorful letters on them.\n"
+"\\.When I was... \\.\\.Three? \\.\\.Four?\n"
+"\\.\\.I'm not sure.\""
+msgstr ""
+"\"확실히 알록달록한 글자가 각 면에 새겨진 \n"
+"정육방체 모양의 목재 장난감을 \n"
+"가지고 논 적이 있는 걸 기억하고 있다.\"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"\"\\.내가... \\.\\.세 살? \\.\\.네 살 때였나?\n"
+"\\.\\.언제였는지 잘 모르겠다.\""
+
+#. ID 67, Line 30
+msgid ""
+"Entry #36\n"
+"November 3, 2007\n"
+"\"I think I just found out why Mom doesn't like the\n"
+"sea. \\.She had an accident.\""
+msgstr ""
+"일지 #36\n"
+"2007.11.3 \\.\n"
+"\"어째서 어머니가 바다를 좋아하지 않는지 \n"
+"알아낸 것 같다. \\.거기서 사고를 겪으셨다.\""
+
+#. ID 67, Line 45
+msgid ""
+"\"She doesn't want to talk about it...\n"
+"\\....but she has a big scar on her head.\n"
+"\\.I saw it last night, hidden inside her hair.\n"
+"\\.Maybe that's also why she moved to this city?\""
+msgstr ""
+"\"그 사고에 대해선 \n"
+"별로 말하고 싶지 않으신 듯 하다...\"\n"
+"\n"
+"\n"
+"<easyrpg:new_page>\n"
+"\"\\...다만, 머리에 큰 상처가 남아있다.\n"
+"\\.어제 밤, 머리카락 안쪽에 숨겨져 있는 상처를 봤다.\n"
+"\\.이 도시로 이사한 이유에는 \n"
+"그런 기저가 깔려 있는 게 아닐까?\""
+
+#. ID 67, Line 63
+msgid ""
+"\"Her parents' old house is next to a cliff.\n"
+"\\|But we never got to visit it.\""
+msgstr ""
+"\"외조부모님의 예전 집은 벼랑 바로 옆에 있다.\n"
+"\\|다만 그 쪽으로 갈 기회는 없었다.\""
+
+#. ID 68, Line 30
+#. ID 69, Line 30
+msgid ""
+"Entry #49\\.\n"
+"September 19, 2008\\.\n"
+"\"i had an idea.\n"
+"i just drew this perfect girl.\""
+msgstr ""
+"일지 #49\\.\n"
+"2008.9.19 \\.\n"
+"\"좋은 생각이 떠오름.\n"
+"이 완벽한 소녀를 그림.\""
+
+#. ID 68, Line 41
+#. ID 69, Line 41
+msgid "\"her name is \\C[2]Kondo\\C[0]\""
+msgstr "\"그 이름은 \\C[2]콘도\\C[0]\""
+
+#. ID 68, Line 42
+#. ID 69, Line 42
+msgid ""
+"\"she is pretty and smart and she is not adopted\n"
+"\\.and everybody loves her\n"
+"\\.\\.because she is perfect\""
+msgstr ""
+"\"예쁘고 똑똑하지만 입양되진 않음\n"
+"\\.그리고 모두 걜 사랑함\n"
+"\\.\\.완벽하니까\""
+
+#. ID 68, Line 52
+#. ID 69, Line 52
+msgid ""
+"\"but i hate her because she is who i want to be\n"
+"i feel terrible haha\""
+msgstr ""
+"\"그치만 내가 되고 싶은 인물상이니 비호감임\n"
+"ㄹㅇ 기분 잡침 ㅋ\""
+
+#. ID 68, Line 120
+#. ID 69, Line 120
+msgid "\"if i was \\C[2]Kondo\\C[0] everything would be over.\""
+msgstr "\"내가 \\C[2]콘도\\C[0]였다면 모든 게 다 끝났을 텐데\""
 
 #. ID 171, Line 14
 #. ID 171, Line 32
@@ -160,3 +415,15 @@ msgid ""
 msgstr ""
 "모든 Scheme이 몰수 되었습니다.\n"
 "대부분의 진행도가 초기화되었습니다."
+
+#. ID 191, Line 458
+msgid "                   \\_Scooter+Fox"
+msgstr "                  \\_퀵보드 + 여우                  "
+
+#. ID 191, Line 461
+msgid ""
+"You have unlocked this special effect mix!\n"
+"Use with caution!"
+msgstr ""
+"특별한 혼합 이펙트를 잠금 해제했습니다!\n"
+"사용에 주의하세요!"

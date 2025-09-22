@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 2, Page 1, Line 3, Pos (25,36)
+msgid ""
+"...S...\\|savior...\\!\n"
+"I can't believe it...\\|\n"
+"You're real..."
+msgstr ""
+"…き…\\|救世主さん…\\!\n"
+"信じられない…\\|\n"
+"本物なのね…"
+
+#. ID 2, Page 1, Line 7, Pos (25,36)
+msgid ""
+"Miss! Are you... alright?\\!\n"
+"We should get you to the\n"
+"village! Maybe they could-"
+msgstr ""
+"あの！大…丈夫？\\!\n"
+"村に行こう!\n"
+"村の人なら、もしかしたら――"
+
+#. ID 2, Page 1, Line 11, Pos (25,36)
+msgid ""
+"It's okay...\\.\\.\n"
+"It's okay...\\.\\.\n"
+"It's too late for me."
+msgstr ""
+"ううん、大丈夫…\\.\\.\n"
+"いいの…\\.\\.\n"
+"もう、手遅れなの。"
+
+#. ID 2, Page 1, Line 14, Pos (25,36)
+msgid ""
+"I haven't felt the rays\n"
+"of the sun for such\n"
+"a long time..."
+msgstr ""
+"太陽の光なんて、\n"
+"もう長いこと\n"
+"感じていなかった…"
+
+#. ID 2, Page 1, Line 17, Pos (25,36)
+msgid ""
+"...\\|Savior, if it's not too\n"
+"much trouble...\\.\\.\n"
+"Can you lend me the sun\n"
+"for a while?"
+msgstr ""
+"…\\|救世主さん、もしよかったら…\\.\\.\n"
+"少しの間だけ、太陽を貸してくれない？"
+
+#. ID 2, Page 1, Line 22, Pos (25,36)
+msgid ""
+"I...\\| I guess so.\\!\n"
+"Will it make you better?"
+msgstr ""
+"えっと…\\|そうだね。\\!\n"
+"そしたら、元気になる？"
+
+#. ID 2, Page 1, Line 25, Pos (25,36)
+msgid ""
+"No.\\! It will not save me.\\!\n"
+"But I want to feel its\n"
+"shine again before I go..."
+msgstr ""
+"いいえ。\\!私はもう、助からない。\\!\n"
+"でも、私がいなくなってしまう前に、\n"
+"もう一度その光を感じたいの…"
+
+#. ID 2, Page 1, Line 28, Pos (25,36)
+msgid ""
+"Would it... \n"
+"would it be too selfish to\n"
+"ask?"
+msgstr ""
+"こんな…\n"
+"こんなことを頼むのは、\n"
+"勝手すぎるかしら？"
+
+#. ID 2, Page 1, Line 32, Pos (25,36)
+msgid "It's the least I can do. "
+msgstr "それがせめてミーにできること。"
+
+#. ID 2, Page 2, Line 3, Pos (25,36)
+msgid ""
+"It's so comforting...\\.\\.\n"
+"and warm.\\!\n"
+"I haven't felt like this in\n"
+"so long..."
+msgstr ""
+"とても、心地良い…\\.\\.\n"
+"それに、暖かい。\\!\n"
+"こんなことを思うのは、とても久しぶり…"
+
+#. ID 2, Page 2, Line 7, Pos (25,36)
+msgid ""
+"I'll loosen the vines\n"
+"for you."
+msgstr "ツタを緩めてあげるわ。"
+
+#. ID 2, Page 2, Line 10, Pos (25,36)
+#. ID 2, Page 3, Line 2, Pos (25,36)
+msgid "I'm not afraid anymore."
+msgstr "もう、怖くない。"
+
+#. ID 2, Page 4, Line 2, Pos (25,36)
+msgid "She's gone..."
+msgstr "いない…"
+
+#. ID 2, Page 4, Line 4, Pos (25,36)
+msgid ""
+"There's a kernel of corn\n"
+"on the ground here."
+msgstr "地面にトウモロコシの粒が落ちてる。"
+
+#. ID 2, Page 4, Line 6, Pos (25,36)
+#. ID 4, Page 4, Line 19, Pos (25,37)
+msgid "She must've left it behind."
+msgstr "あの女の人が残していったみたい。"
+
+#. ID 4, Page 3, Line 2, Pos (25,37)
+msgid "T-The light's gone out..!"
+msgstr "あ…明かりが消えてる…!"
+
+#. ID 4, Page 3, Line 5, Pos (25,37)
+#. Contains choice at line 3 (1 options)
+msgid ""
+"\\n[2],\n"
+"do you know what happened?"
+msgstr ""
+"\\n[2]、\n"
+"何でこうなったか分かる？"
+
+#. ID 4, Page 3, Line 9, Pos (25,37)
+#. Choice (1 options, embedded in a message)
+msgid "No"
+msgstr "いいえ"
+
+#. ID 4, Page 3, Line 15, Pos (25,37)
+msgid "You...\\. really?"
+msgstr "うそ…\\.　本当に？"
+
+#. ID 4, Page 3, Line 16, Pos (25,37)
+msgid "But...\\. but... "
+msgstr "でも…\\.　でも…"
+
+#. ID 4, Page 3, Line 17, Pos (25,37)
+msgid "What am I going to do?"
+msgstr "どうしたらいい？"
+
+#. ID 4, Page 4, Line 11, Pos (25,37)
+msgid "It lit up again!"
+msgstr "明かりがまた点いた!"
+
+#. ID 4, Page 4, Line 13, Pos (25,37)
+msgid "...phew."
+msgstr "…ふぅ。"
+
+#. ID 4, Page 4, Line 16, Pos (25,37)
+msgid ""
+"There's also a kernel\n"
+"of corn on the ground\n"
+"here."
+msgstr "地面にトウモロコシの粒も落ちてる。"

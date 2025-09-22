@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 31, Pos (6,4)
+msgid ""
+"This game can preload music and sounds beforehand,\n"
+"so that they will not cause lag in certain parts.\n"
+"However, this will increase the loading time,\n"
+"especially when playing from a server."
+msgstr ""
+
+#. ID 1, Page 1, Line 35, Pos (6,4)
+#. Contains choice at line 2 (2 options)
+msgid "Enable sound cache?"
+msgstr ""
+
+#. ID 1, Page 1, Line 36, Pos (6,4)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+

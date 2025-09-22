@@ -122,20 +122,20 @@ msgstr ""
 "什么都不买"
 
 #. ID 26, Page 1, Line 14, Pos (4,4)
-#. ID 26, Page 1, Line 45, Pos (4,4)
-#. ID 26, Page 1, Line 70, Pos (4,4)
+#. ID 26, Page 1, Line 47, Pos (4,4)
+#. ID 26, Page 1, Line 80, Pos (4,4)
 msgid "You won a free drink!"
 msgstr "你赢得一杯免费饮料！"
 
 #. ID 26, Page 1, Line 19, Pos (4,4)
-#. ID 26, Page 1, Line 50, Pos (4,4)
-#. ID 26, Page 1, Line 75, Pos (4,4)
+#. ID 26, Page 1, Line 52, Pos (4,4)
+#. ID 26, Page 1, Line 85, Pos (4,4)
 msgid "\\$"
 msgstr "\\$"
 
-#. ID 26, Page 1, Line 35, Pos (4,4)
-#. ID 26, Page 1, Line 60, Pos (4,4)
-#. ID 26, Page 1, Line 85, Pos (4,4)
+#. ID 26, Page 1, Line 37, Pos (4,4)
+#. ID 26, Page 1, Line 70, Pos (4,4)
+#. ID 26, Page 1, Line 103, Pos (4,4)
 msgid "You don't have enough N!"
 msgstr "你没有足够的N!"
 
@@ -145,6 +145,8 @@ msgid "Lose all effects?"
 msgstr "丢下所有特效？"
 
 #. ID 27, Page 1, Line 2, Pos (10,1)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 2, Pos (9,1)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Yes\n"
@@ -228,5 +230,10 @@ msgstr ""
 
 #. ID 48, Page 1, Line 1, Pos (10,4)
 msgid "Money maximum overdrive!"
+msgstr ""
+
+#. ID 50, Page 1, Line 1, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "Get all effects?"
 msgstr ""
 

@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+#. ID 3, Line 16
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Photon]"
+msgstr "[Fotón]"
+
+#. ID 4, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Bug Spray]"
+msgstr "[Repelente]"
+
+#. ID 5, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Flashlight]"
+msgstr "[Linterna]"
+
+#. ID 6, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[At Sign]"
+msgstr "[Arroba]"
+
+#. ID 7, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Banshee]"
+msgstr ""
+
+#. ID 8, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Deadpan]"
+msgstr "[Sin Expr.]"
+
+#. ID 9, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Bottle]"
+msgstr "[Botella]"
+
+#. ID 10, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Firefly]"
+msgstr "[Luciérnaga]"
+
+#. ID 11, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Microphone]"
+msgstr "[Micrófono]"
+
+#. ID 12, Line 15
+#. ChangeHeroTitle (Actor 1)
+#. ID 20, Line 15
+#. ChangeHeroTitle (Actor 2)
+#. ID 29, Line 15
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "[Key]"
+msgstr "[Llave]"
+
+#. ID 13, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[8 Ball]"
+msgstr "[Bola 8]"
+
+#. ID 14, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Robot]"
+msgstr ""
+
+#. ID 15, Line 15
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "[Monochrome]"
+msgstr "[Monocromo]"
+
+#. ID 16, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Alternate]"
+msgstr "[Alt.]"
+
+#. ID 17, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Onion]"
+msgstr "[Cebolla]"
+
+#. ID 18, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Bug Net]"
+msgstr "[Red]"
+
+#. ID 19, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Lamia]"
+msgstr ""
+
+#. ID 21, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Clown]"
+msgstr "[Payasa]"
+
+#. ID 22, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Cheer]"
+msgstr "[Porrista]"
+
+#. ID 23, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Pistol]"
+msgstr "[Pistola]"
+
+#. ID 24, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Neon]"
+msgstr "[Neón]"
+
+#. ID 25, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Lamp]"
+msgstr "[Lámpara]"
+
+#. ID 26, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Uniform]"
+msgstr "[Uniforme]"
+
+#. ID 27, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Ladybug]"
+msgstr "[Mariquita]"
+
+#. ID 28, Line 15
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "[Mouse]"
+msgstr "[Ratón]"
+
+#. ID 30, Line 15
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "[Grayscale]"
+msgstr "[Escala]"
+
+#. ID 55, Line 74
+msgid "\\_                      Photon"
+msgstr "                       Fotón"
+
+#. ID 55, Line 80
+msgid "                     Bug Spray"
+msgstr "                     Repelente"
+
+#. ID 55, Line 86
+msgid "\\_                    Flashlight"
+msgstr "                     \\_Linterna"
+
+#. ID 55, Line 92
+msgid "                      At Sign"
+msgstr "                      \\_Arroba"
+
+#. ID 55, Line 98
+msgid "                      Banshee"
+msgstr ""
+
+#. ID 55, Line 104
+msgid "                      Deadpan"
+msgstr "                   Sin expresión"
+
+#. ID 55, Line 110
+msgid "\\_                      Bottle"
+msgstr "                      Botella"
+
+#. ID 55, Line 116
+msgid "                      Firefly"
+msgstr "                    \\_Luciérnaga"
+
+#. ID 55, Line 122
+msgid "\\_                    Microphone"
+msgstr "                     Micrófono"
+
+#. ID 55, Line 128
+#. ID 55, Line 276
+#. ID 55, Line 436
+msgid "                        Key"
+msgstr "                       Llave"
+
+#. ID 55, Line 134
+msgid "\\_                      8 Ball"
+msgstr "                      \\_Bola 8"
+
+#. ID 55, Line 140
+msgid "                       Robot"
+msgstr ""
+
+#. ID 55, Line 146
+msgid "\\_                    Monochrome"
+msgstr "                     Monocromo"
+
+#. ID 55, Line 151
+msgid "                   * Rain Boots"
+msgstr "                 * Botas de lluvia"
+
+#. ID 55, Line 156
+msgid "                  * Stress Balls"
+msgstr "                 * Bolas de estrés"
+
+#. ID 55, Line 161
+msgid "\\_                     * Laptop"
+msgstr "              \\_* Computadora portátil"
+
+#. ID 55, Line 166
+msgid "\\_                   * Paintbrush"
+msgstr "               \\_* Cepillo de pintura"
+
+#. ID 55, Line 171
+msgid "                      * Radio"
+msgstr ""
+
+#. ID 55, Line 176
+msgid "                   * Floppy Disk"
+msgstr "                 \\_* Disco flexible"
+
+#. ID 55, Line 181
+msgid "                   * Jawbreaker"
+msgstr "               * Quebrador de fauces"
+
+#. ID 55, Line 186
+msgid "\\_                    * Beanie"
+msgstr "                      * Gorro"
+
+#. ID 55, Line 191
+msgid "                     * Incense"
+msgstr "                    \\_* Incienso"
+
+#. ID 55, Line 196
+msgid "\\_                   * Cell Phone"
+msgstr "                 \\_* Teléfono móvil"
+
+#. ID 55, Line 201
+msgid "                       * Pen"
+msgstr "                    * Bolígrafo"
+
+#. ID 55, Line 206
+msgid "\\_                    * Magazine"
+msgstr "                     * Revista"
+
+#. ID 55, Line 211
+msgid "\\_                   * Comic Book"
+msgstr "                  \\_* Libro cómico"
+
+#. ID 55, Line 216
+msgid "\\_                   * Space Suit"
+msgstr "                 \\_* Traje espacial"
+
+#. ID 55, Line 221
+msgid "\\_                   * Puzzle Box"
+msgstr "              \\_* Caja de rompecabezas"
+
+#. ID 55, Line 226
+msgid "\\_                     * Potato"
+msgstr "                      \\_* Papa"
+
+#. ID 55, Line 231
+msgid "                      * Beret"
+msgstr "                      * Boina"
+
+#. ID 55, Line 236
+msgid "\\_                   * Cappuccino"
+msgstr "                    * Capuchino"
+
+#. ID 55, Line 241
+msgid "                     * Crystal"
+msgstr "                     * Cristal"
+
+#. ID 55, Line 246
+msgid "                   * Dark Matter"
+msgstr "                 \\_* Materia oscura"
+
+#. ID 55, Line 252
+msgid "                     Alternate"
+msgstr "                    Alternativa"
+
+#. ID 55, Line 258
+msgid "                       Onion"
+msgstr "                      Cebolla"
+
+#. ID 55, Line 264
+msgid "                      Bug Net"
+msgstr "                        Red"
+
+#. ID 55, Line 270
+msgid "                       Lamia"
+msgstr ""
+
+#. ID 55, Line 282
+msgid "                       Clown"
+msgstr "                      \\_Payasa"
+
+#. ID 55, Line 288
+msgid "                    Cheerleader"
+msgstr "                     \\_Porrista"
+
+#. ID 55, Line 294
+msgid "\\_                  Starter Pistol"
+msgstr "                      Pistola"
+
+#. ID 55, Line 300
+msgid "\\_                       Neon"
+msgstr "                       \\_Neón"
+
+#. ID 55, Line 306
+msgid "\\_                       Lamp"
+msgstr "                      Lámpara"
+
+#. ID 55, Line 312
+msgid "                      Uniform"
+msgstr "                     \\_Uniforme"
+
+#. ID 55, Line 318
+msgid "                      Ladybug"
+msgstr "                     Mariquita"
+
+#. ID 55, Line 324
+msgid "                     Grayscale"
+msgstr "                 \\_Escala de grises"
+
+#. ID 55, Line 329
+msgid "                      * Pager"
+msgstr "                  * Buscapersonas"
+
+#. ID 55, Line 334
+msgid "\\_                     * Cherry"
+msgstr "                     \\_* Cereza"
+
+#. ID 55, Line 339
+msgid "                    * Portrait"
+msgstr "                     * Retrato"
+
+#. ID 55, Line 344
+msgid "\\_                     * Pencil"
+msgstr "                      * Lápiz"
+
+#. ID 55, Line 349
+msgid "                     * Glasses"
+msgstr "                    \\_* Anteojos"
+
+#. ID 55, Line 354
+msgid "                   * Bell Collar"
+msgstr "               \\_* Cuello con campana"
+
+#. ID 55, Line 359
+msgid "\\_                     * Bottle"
+msgstr "                     * Botella"
+
+#. ID 55, Line 364
+msgid "                    * Newspaper"
+msgstr "                    * Periódico"
+
+#. ID 55, Line 369
+msgid "\\_                     * Needle"
+msgstr "                      * Aguja"
+
+#. ID 55, Line 374
+msgid "                     * Eyeball"
+msgstr "                  \\_* Globo ocular"
+
+#. ID 55, Line 379
+msgid "                      * Heart"
+msgstr "                     * Corazón"
+
+#. ID 55, Line 384
+msgid "\\_                     * Guitar"
+msgstr "                    \\_* Guitarra"
+
+#. ID 55, Line 389
+msgid "\\_                   * Sketchbook"
+msgstr "                 \\_* Bloc de dibujo"
+
+#. ID 55, Line 394
+msgid "\\_                  * Bloody Knife"
+msgstr "               * Cuchillo sangriento"
+
+#. ID 55, Line 399
+msgid "\\_                   * Red Marker"
+msgstr "                 \\_* Rotulador rojo"
+
+#. ID 55, Line 404
+msgid "                      * Skull"
+msgstr "                     \\_* Cráneo"
+
+#. ID 55, Line 409
+msgid "\\_                      * Wart"
+msgstr "                     * Verruga"
+
+#. ID 55, Line 414
+msgid "\\_                 * Martha's Voice"
+msgstr "                  * Voz de Martha"
+
+#. ID 55, Line 419
+msgid "                   * Dream Diary"
+msgstr "                \\_* Diario de sueños"
+
+#. ID 55, Line 424
+msgid "\\_                 * Fidget Spinner"
+msgstr "               \\_* Hilandero inquieto"
+
+#. ID 55, Line 430
+msgid "                       Mouse"
+msgstr "                       Ratón"
+
+#. ID 55, Line 441
+msgid "                      * Spork"
+msgstr "                 * Cuchara-tenedor"
+
+#. ID 55, Line 446
+msgid "                    * Medallion"
+msgstr "                    \\_* Medallón"
+
+#. ID 55, Line 451
+msgid "\\_                  * Piece of Fog"
+msgstr "                \\_* Pedazo de niebla"
+
+#. ID 55, Line 456
+msgid "                    * Dunce Cap"
+msgstr "                 \\_* Gorra de burro"
+
+#. ID 55, Line 461
+msgid "                  * Worn Out Book"
+msgstr "                  * Libro gastado"
+
+#. ID 55, Line 471
+msgid "\\_                       ????"
+msgstr "                       \\_¿¿??"
+
+#. ID 56, Line 4
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "he/him"
+msgstr "Masculino"
+
+#. ID 56, Line 7
+#. ChangeHeroTitle (Actor 2)
+msgctxt "actors.title"
+msgid "she/her"
+msgstr "Feminina"
+
+#. ID 56, Line 10
+#. ChangeHeroTitle (Actor 3)
+msgctxt "actors.title"
+msgid "they/them"
+msgstr "No binario"
+
+#. ID 59, Line 18
+msgid ""
+"Current game version is \\c[4]\\v[95].\\v[96].\\v[97]\\c[0]\n"
+"This saved game came from \\c[11]\\v[98].\\v[99].\\v[100]\\c[0]\n"
+"\n"
+"\\|\\|\\|\\>The next dream will be different.\\<"
+msgstr ""

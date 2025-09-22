@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 1, Page 1, Line 1, Pos (10,7)
+msgid "RPG Maker is running..."
+msgstr "RPG Maker tourne..."
+
+#. ID 1, Page 1, Line 2, Pos (10,7)
+msgid ""
+"Hi,\n"
+"I'm not home right now. \n"
+"Thanks for stoping by.\n"
+"Kisses."
+msgstr ""
+"Salut,\n"
+"Je ne suis pas chez moi pour le moment.\n"
+"Merci d'être venu.\n"
+"Bisous."
+
+#. ID 2, Page 2, Line 1, Pos (6,10)
+msgid "TPSTART-NOTHINGNESS"
+msgstr ""
+
+#. ID 2, Page 2, Line 3, Pos (6,10)
+msgid "TPEND-TRANSISTART"
+msgstr ""
+
+#. ID 2, Page 2, Line 7, Pos (6,10)
+msgid "TRANSICHANGED"
+msgstr ""
+
+#. ID 2, Page 3, Line 1, Pos (6,10)
+msgid "TPSTART-BROKENPASSAGEWAY"
+msgstr ""
+
+#. ID 2, Page 3, Line 3, Pos (6,10)
+#. ID 2, Page 4, Line 3, Pos (6,10)
+msgid "TPEND2"
+msgstr ""
+
+#. ID 2, Page 4, Line 1, Pos (6,10)
+msgid "TPSTART-GLITCH144"
+msgstr ""

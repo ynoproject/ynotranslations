@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 1, Page 2, Line 3, Pos (14,9)
+msgid "The door is strangely locked."
+msgstr "妙なことに、ドアは施錠されている。"
+
+#. ID 2, Page 1, Line 3, Pos (13,9)
+msgid "Helloooo?"
+msgstr "こーんばんはー？"
+
+#. ID 2, Page 1, Line 5, Pos (13,9)
+msgid "...anyone?"
+msgstr "…誰かいない？"
+
+#. ID 3, Page 1, Line 3, Pos (32,12)
+msgid "The door is locked."
+msgstr "ドアは施錠されている。"
+
+#. ID 4, Page 1, Line 3, Pos (26,10)
+msgid ""
+"The wood in the fireplace\n"
+"looks like it was never used."
+msgstr ""
+"暖炉の焚き木は\n"
+"1度も使われていないようだ。"
+
+#. ID 4, Page 1, Line 5, Pos (26,10)
+msgid "Could it be \\c[6]lit\\c[0], somehow..?"
+msgstr "どうにか\\c[6]点火\\c[0]できないだろうか…？"
+
+#. ID 4, Page 3, Line 3, Pos (26,10)
+msgid ""
+"The \\c[6]flames\\c[0] are dim but \n"
+"comforting. "
+msgstr "\\c[6]炎\\c[0]は弱いが、気分が安らぐ。"
+
+#. ID 6, Page 1, Line 3, Pos (29,17)
+msgid ""
+"Inside the refrigerator is a\n"
+"\\c[2]bottle of alcohol\\c[0]."
+msgstr "冷蔵庫の中に\\c[2]アルコールのビン\\c[0]がある。"
+
+#. ID 6, Page 1, Line 6, Pos (29,17)
+msgid "Niko takes it."
+msgstr "ニコはそれを取った。"
+
+#. ID 6, Page 2, Line 3, Pos (29,17)
+msgid "The refrigerator is empty."
+msgstr "冷蔵庫は空だ。"
+
+#. ID 8, Page 1, Line 4, Pos (18,10)
+msgid ""
+"The TV gives off a\n"
+"dangerous-looking \\c[3]spark\\c[0]."
+msgstr "テレビは危険そうな\\c[3]火花\\c[0]を発している。"
+
+#. ID 8, Page 2, Line 2, Pos (18,10)
+#. ID 8, Page 3, Line 2, Pos (18,10)
+msgid "Niko readies the branch..."
+msgstr "ニコは枝の準備をしている…"
+
+#. ID 8, Page 2, Line 7, Pos (18,10)
+msgid "It doesn't manage to light."
+msgstr "火がつかない。"
+
+#. ID 8, Page 3, Line 8, Pos (18,10)
+msgid "It lights up in a flash!"
+msgstr "一瞬で点火した！"
+
+#. ID 10, Page 1, Line 6, Pos (8,12)
+msgid ""
+"A tall, rectangular panel of wood\n"
+"is set into the wall.\n"
+msgstr ""
+"背の高い、長方形のパネルが壁に\n"
+"はめ込まれている。\n"
+
+#. ID 10, Page 1, Line 9, Pos (8,12)
+msgid ""
+"It appears to be a door with\n"
+"no hinge and no handle.\n"
+"No amount of force can make\n"
+"it budge, either."
+msgstr ""
+"蝶番もハンドルもないドアのようだ。\n"
+"いくら力を入れても動かない。"
+
+#. ID 10, Page 1, Line 13, Pos (8,12)
+msgid ""
+"A strange, somewhat\n"
+"circular symbol is carved \n"
+"into a central recess,\n"
+"roughly at eye level."
+msgstr ""
+"中央のくぼみには、奇妙な\n"
+"円形のようなシンボルが、\n"
+"おおよそ目の高さに彫られている。"
+
+#. ID 13, Page 1, Line 2, Pos (25,20)
+msgid "No water."
+msgstr "水はない。"
+
+#. ID 14, Page 2, Line 2, Pos (23,12)
+msgid ""
+"Something on the ground glimmers in \n"
+"the firelight."
+msgstr "地面の何かが、炎の明かりで輝く。"
+
+#. ID 14, Page 2, Line 4, Pos (23,12)
+msgid ""
+"It appears to be a small metallic\n"
+"object wedged into a crack in \n"
+"the floor."
+msgstr ""
+"床の割れ目にはまり込んだ\n"
+"小さな鉄製の物体のようだ。"
+
+#. ID 14, Page 2, Line 8, Pos (23,12)
+msgid "Niko digs it out."
+msgstr "ニコはそれを取り出した。"

@@ -3,63 +3,41 @@ msgstr ""
 "Project-Id-Version: Yume2kki\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Fonvight <->\n"
+"Last-Translator: Fonvight\n"
 "Language-Team: Fonvight\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.2\n"
+"X-Generator: Poedit 3.4\n"
 
-#. ID 1, Page 1, Line 60, Pos (2,0)
+#. ID 1, Page 1, Line 61, Pos (2,0)
 #. Contains choice at line 3 (2 options)
-msgid ""
-"\\>ハイスコアデータ消去 - Delete High Score Data\n"
+msgid "\\>ハイスコアデータ消去 - Delete High Score Data\n"
 "\\>消したデータは戻せません。よろしいですか？"
-msgstr ""
-"\\>Удаление Рекордов\n"
+msgstr "\\>Удаление Рекордов\n"
 "\\>Удалённое не восстановить."
 
-#. ID 1, Page 1, Line 62, Pos (2,0)
+#. ID 1, Page 1, Line 63, Pos (2,0)
 #. Choice (2 options, embedded in a message)
-#. ID 1, Page 1, Line 66, Pos (2,0)
+#. ID 1, Page 1, Line 67, Pos (2,0)
 #. Choice (2 options, embedded in a message)
-msgid ""
-"\\>はい\n"
+msgid "\\>はい\n"
 "\\>いいえ"
-msgstr ""
-"\\>Продолжить\n"
+msgstr "\\>Продолжить\n"
 "\\>Отмена"
 
-#. ID 1, Page 1, Line 64, Pos (2,0)
+#. ID 1, Page 1, Line 65, Pos (2,0)
 #. Contains choice at line 3 (2 options)
-msgid ""
-"\n"
+msgid "\n"
 "\\|\\S[2]後悔しませんね？"
-msgstr ""
-"\n"
+msgstr "\n"
 "\\|\\S[2]Вы уверены？"
 
-#. ID 1, Page 1, Line 70, Pos (2,0)
+#. ID 1, Page 1, Line 71, Pos (2,0)
 msgid "\\>ハイスコアデータを削除しました。"
 msgstr "\\>Рекорды Удалены."
-
-#. ID 1, Page 1, Line 105, Pos (2,0)
-msgid ""
-"\\>Debug\n"
-"\\>Random Seed"
-msgstr ""
-"\\>Отладка\n"
-"\\>Случайный Сид"
-
-#. ID 1, Page 1, Line 108, Pos (2,0)
-msgid ""
-"\\>Debug\n"
-"\\>Speed"
-msgstr ""
-"\\>Отладка\n"
-"\\>Скорость"
 
 #. ID 1, Page 3, Line 27, Pos (2,0)
 #. ChangeHeroName (Actor 2)
@@ -68,33 +46,28 @@ msgid " ☆"
 msgstr " ☆"
 
 #. ID 1, Page 3, Line 31, Pos (2,0)
-msgid ""
-"\\>　　　　　　 　　GAME OVER\\<\\|\n"
+msgid "\\>　　　　　　 　　GAME OVER\\<\\|\n"
 "\\>                 EvID:\\V[69]\n"
 "\\>                SPEED:\\V[10]\\N[2]\\<\\.\n"
 "\\>                SCORE:\\V[79]"
-msgstr ""
-"\\>　　　　　      ИГРА ОКОНЧЕНА\\<\\|\n"
+msgstr "\\>　　　　　      ИГРА ОКОНЧЕНА\\<\\|\n"
 "\\>                 EvID:\\V[69]\n"
 "\\>          СКОРОСТЬ:\\V[10]\\N[2]\\<\\.\n"
 "\\>                СЧЁТ:\\V[79]"
 
 #. ID 1, Page 3, Line 37, Pos (2,0)
-msgid ""
-"\\>　　　　　　 　　GAME OVER\\<\\|\n"
+msgid "\\>　　　　　　 　　GAME OVER\\<\\|\n"
 "\\>                \n"
 "\\>                SPEED:\\V[10]\\N[2]\\<\\.\n"
 "\\>                SCORE:\\V[79]"
-msgstr ""
-"\\>　　　　　      ИГРА ОКОНЧЕНА\\<\\|\n"
-"\\>\n"
+msgstr "\\>　　　　　      ИГРА ОКОНЧЕНА\\<\\|\n"
+"\\>                 \n"
 "\\>          СКОРОСТЬ:\\V[10]\\N[2]\\<\\.\n"
 "\\>                СЧЁТ:\\V[79]"
 
 #. ID 1, Page 3, Line 46, Pos (2,0)
-msgid ""
-"\\>　　　　　　  　HIGH SCORE!\n"
+msgid "\\>　　　　　　  　HIGH SCORE!\n"
 "\\>                    \\V[79]"
-msgstr ""
-"\\>　　　　      　НОВЫЙ РЕКОРД!\n"
+msgstr "\\>　　　　      　НОВЫЙ РЕКОРД!\n"
 "\\>                    \\V[79]"
+

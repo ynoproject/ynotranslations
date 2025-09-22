@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 30, Page 1, Line 2, Pos (3,6)
+msgid "\\v[2290]"
+msgstr ""
+
+#. ID 34, Page 1, Line 1, Pos (3,8)
+msgid "Unlocking BGM 1 Variation 1."
+msgstr "Se deblochează BGM 1 Variația 1."
+
+#. ID 34, Page 1, Line 5, Pos (3,8)
+msgid "Unlocking BGM 2 Variation 1."
+msgstr "Se deblochează BGM 2 Variația 1."
+
+#. ID 34, Page 1, Line 9, Pos (3,8)
+msgid "Unlocking BGM 4 Variation 2."
+msgstr "Se deblochează BGM 4 Variația 2."
+

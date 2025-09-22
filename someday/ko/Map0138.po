@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 4, Page 1, Line 7, Pos (12,11)
 msgid "                   Healing aura"
@@ -80,7 +80,7 @@ msgstr "                      확성기"
 
 #. ID 17, Page 1, Line 11, Pos (12,5)
 msgid "Press 1 to make a random sound."
-msgstr "1번 숫자키를 누르면 아무말 대잔치를 할 수 있어요."
+msgstr "1번 숫자키를 눌러 아무 말 대잔치를 할 수 있어요."
 
 #. ID 18, Page 1, Line 8, Pos (18,3)
 msgid "                      Scooter"
@@ -122,42 +122,42 @@ msgid ""
 "7 Moop - 350 N\n"
 "Don't buy anything"
 msgstr ""
-"Kaokola - 320 N\n"
-"Liquid Dream - 500 N\n"
-"7 Moop - 350 N\n"
-"Don't buy anything"
+"카오콜라 - 320 N\n"
+"녹인 꿈을 그대 품 안에 - 500 N\n"
+"7별사이다 - 350 N\n"
+"아무것도 사지 않는다"
 
 #. ID 26, Page 1, Line 14, Pos (4,4)
-#. ID 26, Page 1, Line 45, Pos (4,4)
-#. ID 26, Page 1, Line 70, Pos (4,4)
+#. ID 26, Page 1, Line 47, Pos (4,4)
+#. ID 26, Page 1, Line 80, Pos (4,4)
 msgid "You won a free drink!"
-msgstr "You won a free drink!"
+msgstr ""
 
 #. ID 26, Page 1, Line 19, Pos (4,4)
-#. ID 26, Page 1, Line 50, Pos (4,4)
-#. ID 26, Page 1, Line 75, Pos (4,4)
-msgid "\\$"
-msgstr "\\$"
-
-#. ID 26, Page 1, Line 35, Pos (4,4)
-#. ID 26, Page 1, Line 60, Pos (4,4)
+#. ID 26, Page 1, Line 52, Pos (4,4)
 #. ID 26, Page 1, Line 85, Pos (4,4)
+msgid "\\$"
+msgstr ""
+
+#. ID 26, Page 1, Line 37, Pos (4,4)
+#. ID 26, Page 1, Line 70, Pos (4,4)
+#. ID 26, Page 1, Line 103, Pos (4,4)
 msgid "You don't have enough N!"
-msgstr "You don't have enough N!"
+msgstr ""
 
 #. ID 27, Page 1, Line 1, Pos (10,1)
 #. Contains choice at line 2 (2 options)
 msgid "Lose all effects?"
-msgstr "Lose all effects?"
+msgstr ""
 
 #. ID 27, Page 1, Line 2, Pos (10,1)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 2, Pos (9,1)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Yes\n"
 "No"
-msgstr ""
-"Yes\n"
-"No"
+msgstr "Yes"
 
 #. ID 29, Page 1, Line 17, Pos (3,7)
 #. ChangeHeroName (Actor 1)
@@ -171,11 +171,11 @@ msgstr "                      토마토"
 
 #. ID 33, Page 1, Line 1, Pos (7,1)
 msgid "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
-msgstr "SPIN!!!!!!!!!!!!!!!!!!!!!!!!!!"
+msgstr ""
 
 #. ID 33, Page 1, Line 5, Pos (7,1)
 msgid "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
-msgstr "Debug room!! WEEEeeeeEeEeeeeeEEEEEee!!!"
+msgstr ""
 
 #. ID 34, Page 1, Line 7, Pos (18,11)
 msgid "                     Lab coat"
@@ -234,4 +234,9 @@ msgstr ""
 
 #. ID 48, Page 1, Line 1, Pos (10,4)
 msgid "Money maximum overdrive!"
+msgstr ""
+
+#. ID 50, Page 1, Line 1, Pos (9,1)
+#. Contains choice at line 2 (2 options)
+msgid "Get all effects?"
 msgstr ""

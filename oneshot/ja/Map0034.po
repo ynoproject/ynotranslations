@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 30, Page 1, Line 3, Pos (91,62)
+#. ID 60, Page 1, Line 3, Pos (39,18)
+msgid ""
+"I need to find out\n"
+"where that voice is\n"
+"coming from."
+msgstr "声がどこから聞こえるのか探さなきゃ。"
+
+#. ID 53, Page 1, Line 7, Pos (60,46)
+msgid ""
+"Hey!\\!\n"
+"You there!"
+msgstr ""
+"なあ!\\!\n"
+"そこの君!"
+
+#. ID 53, Page 1, Line 10, Pos (60,46)
+msgid ""
+"Have you seen a little girl?\\!\n"
+"She's a little bit shorter than\n"
+"you, and-"
+msgstr ""
+"小さな女の子を見なかったか？\\!\n"
+"君より少し背が低くて、あと――"
+
+#. ID 53, Page 1, Line 14, Pos (60,46)
+msgid ""
+"Wait...\\!\n"
+"That's... the sun?\\!\n"
+"Are you our savior?"
+msgstr ""
+"って…\\!\n"
+"それ…太陽か？\\!\n"
+"君が救世主なのか？"
+
+#. ID 53, Page 1, Line 18, Pos (60,46)
+msgid "I... yeah?"
+msgstr "えっと…　そうかも？"
+
+#. ID 53, Page 1, Line 20, Pos (60,46)
+msgid "Please pardon my rudeness."
+msgstr "タメ口使ってごめん…なさい。"
+
+#. ID 53, Page 1, Line 22, Pos (60,46)
+msgid ""
+"Huh? It's alright...\\!\n"
+"Are you looking for someone?"
+msgstr ""
+"うん？別にいいよ…\\!\n"
+"誰か探してるの？"
+
+#. ID 53, Page 1, Line 25, Pos (60,46)
+msgid ""
+"My little sister... she's been\n"
+"gone for three days now.\\!\n"
+"I've been looking all over, but..."
+msgstr ""
+"妹なんだ…\n"
+"いなくなってからもう３日も経つ。\\!\n"
+"あちこち探し回ってるんだけど…"
+
+#. ID 53, Page 1, Line 29, Pos (60,46)
+msgid "What does she look like?"
+msgstr "どんな子なの？"
+
+#. ID 53, Page 1, Line 31, Pos (60,46)
+msgid ""
+"Um...\\. a little shorter than\n"
+"you, long blue hair, two\n"
+"blue feathers on top\n"
+"of her head..."
+msgstr ""
+"ええと…\\.　君より少し背が低くて、\n"
+"青くて長い髪の毛をしていて、あと頭の\n"
+"上に青い羽が生えてて…"
+
+#. ID 53, Page 1, Line 36, Pos (60,46)
+msgid ""
+"I'm sorry, I haven't seen\n"
+"anyone like that...\\!\n"
+"I just recently arrived here."
+msgstr ""
+"ごめん、そんな子は見てないや…\\!\n"
+"来たばっかりなんだ。"
+
+#. ID 53, Page 1, Line 40, Pos (60,46)
+msgid ""
+"Where was the last place\n"
+"you saw her?"
+msgstr "最後どこで見たの？"
+
+#. ID 53, Page 1, Line 43, Pos (60,46)
+msgid ""
+"Inside the ruins.\\!\n"
+"She said she was headed\n"
+"towards the forest, so I'm\n"
+"waiting here now."
+msgstr ""
+"遺跡の内部。\\!\n"
+"森に向かうって言ってたから、\n"
+"今はここで待ってる。"
+
+#. ID 53, Page 1, Line 47, Pos (60,46)
+msgid "I ran out of places to look... "
+msgstr "どこもかしこも探したんだ…"
+
+#. ID 53, Page 2, Line 3, Pos (60,46)
+msgid "Are you from the village?"
+msgstr "君は村の人？"
+
+#. ID 53, Page 2, Line 5, Pos (60,46)
+msgid ""
+"No...\\!\n"
+"I don't remember why, but\n"
+"our father left the village while\n"
+"we were still young."
+msgstr ""
+"いや…\\!\n"
+"理由は覚えてないけど、オレたちがまだ\n"
+"小さかった頃、父さんは村を出たんだ。"
+
+#. ID 53, Page 2, Line 9, Pos (60,46)
+msgid ""
+"We've lived in the ruins\n"
+"ever since.\\!\n"
+"...well, it's just Alula and I\n"
+"now."
+msgstr ""
+"それからずっと、遺跡に住んでる。\\!\n"
+"…まあ、今はオレとアルーラだけだけど。"
+
+#. ID 53, Page 2, Line 13, Pos (60,46)
+msgid "I can't lose her too..."
+msgstr "妹まで失うわけにはいかない…"
+
+#. ID 53, Page 3, Line 2, Pos (60,46)
+msgid ""
+"Alula is all I have.\\!\n"
+"I can't lose her..."
+msgstr ""
+"オレにはアルーラしかいない。\\!\n"
+"妹を失うわけにはいかない…"
+
+#. ID 53, Page 4, Line 2, Pos (60,46)
+msgid "Calamus!"
+msgstr "カラムス!"
+
+#. ID 53, Page 4, Line 4, Pos (60,46)
+msgid "Alula! You're okay!"
+msgstr "アルーラ!無事だったのか!"
+
+#. ID 91, Page 1, Line 2, Pos (39,19)
+msgid "Alula?"
+msgstr "アルーラ？"
+
+#. ID 91, Page 1, Line 4, Pos (39,19)
+msgid "Alula? Where did you go?"
+msgstr "アルーラ？おーーーい？"
+
+#. ID 91, Page 1, Line 7, Pos (39,19)
+msgid ""
+"\\n[2],\n"
+"did you hear that?"
+msgstr ""
+"\\n[2]、\n"
+"今の聞こえた？"
+
+#. ID 91, Page 1, Line 10, Pos (39,19)
+msgid "Alula!"
+msgstr "アルーラ!"
+
+#. ID 91, Page 1, Line 12, Pos (39,19)
+msgid ""
+"I think it's coming from\n"
+"south-east of here."
+msgstr "南東のほうから聞こえるよ。"
+
+#. ID 100, Page 2, Line 4, Pos (63,44)
+msgid ""
+"I was trapped inside this\n"
+"room and it was really\n"
+"scary but then the\n"
+"messiah saved me!"
+msgstr ""
+"部屋の中に閉じ込められて、\n"
+"すっごく怖かった。\n"
+"でもそしたら、救世主さまが\n"
+"助けてくれたの!"
+
+#. ID 100, Page 2, Line 9, Pos (63,44)
+msgid ""
+"...trapped\\!\n"
+"In the ruins?"
+msgstr ""
+"…閉じ込められた\\!\n"
+"遺跡の中で？"
+
+#. ID 100, Page 2, Line 12, Pos (63,44)
+msgid ""
+"Yeah!\\!\n"
+"There was that weird\n"
+"stuff in the door!"
+msgstr ""
+"そう!\\!\n"
+"入り口に、あの変なのがいた!"
+
+#. ID 100, Page 2, Line 15, Pos (63,44)
+msgid ""
+"You know, the floating\n"
+"squares we see next\n"
+"to the ocean sometimes?"
+msgstr ""
+"ほら、ときどき海の近くで見る、\n"
+"あの四角い浮かんでるやつ!"
+
+#. ID 100, Page 2, Line 18, Pos (63,44)
+msgid ""
+"The stuff you told me to\n"
+"stay away from?"
+msgstr "近づくなって言ってたでしょ？"
+
+#. ID 100, Page 2, Line 21, Pos (63,44)
+msgid ""
+"What!?\\!\n"
+"It's... spread to the\n"
+"ruins now?"
+msgstr ""
+"何だって!？\\!\n"
+"い…遺跡にまで広がったのか？"
+
+#. ID 100, Page 2, Line 25, Pos (63,44)
+msgid "This isn't good..."
+msgstr "まずいな…"
+
+#. ID 100, Page 2, Line 27, Pos (63,44)
+msgid ""
+"Don't worry!\\!\n"
+"I didn't touch it!\\!\n"
+"I'm not hurt, see?"
+msgstr ""
+"心配しないで!\\!\n"
+"触らなかったわ!\\!\n"
+"怪我もしてないでしょ？"
+
+#. ID 100, Page 2, Line 31, Pos (63,44)
+msgid ""
+"Still...\\.\n"
+"If it gets any worse,\n"
+"we might have to find\n"
+"somewhere else to live..."
+msgstr ""
+"だとしても…\\.\n"
+"これ以上ひどくなったら、\n"
+"他に住む場所を見つけないと…"
+
+#. ID 100, Page 2, Line 38, Pos (63,44)
+msgid ""
+"What is this...\\.\n"
+"square...\\. stuff, exactly?"
+msgstr ""
+"今言ってた…\\.\n"
+"四角いやつ…\\.って、何？"
+
+#. ID 100, Page 2, Line 41, Pos (63,44)
+msgid ""
+"Bad.\\!\n"
+"Anything that touches\n"
+"them disappears."
+msgstr ""
+"悪いものさ。\\!\n"
+"あれに触れたものは全部消えてしまう。"
+
+#. ID 100, Page 2, Line 44, Pos (63,44)
+msgid ""
+"People say the world is\n"
+"decaying bit by bit.\n"
+"That's probably what it\n"
+"is."
+msgstr ""
+"みんなが少しずつ世界が崩壊している\n"
+"って言ってる。\n"
+"たぶんあれのことだ。"
+
+#. ID 100, Page 2, Line 48, Pos (63,44)
+msgid ""
+"Obviously,\n"
+"you should avoid\n"
+"them too."
+msgstr "もちろん、君も避けたほうがいい。"
+
+#. ID 100, Page 2, Line 52, Pos (63,44)
+msgid "I will."
+msgstr "分かった。"
+
+#. ID 100, Page 2, Line 54, Pos (63,44)
+msgid ""
+"Anyway, thank you for\n"
+"rescuing my sister."
+msgstr ""
+"それより、妹を助けてくれて、\n"
+"感謝してる。"
+
+#. ID 100, Page 2, Line 56, Pos (63,44)
+msgid ""
+"Um...\\. I know it's not\n"
+"much, but I want you\n"
+"to have this."
+msgstr ""
+"ええと…\\.大したものじゃないけど、\n"
+"これを受け取ってくれ。"
+
+#. ID 100, Page 2, Line 61, Pos (63,44)
+msgid "A gilded feather..."
+msgstr "キラキラな羽根だ…"
+
+#. ID 100, Page 3, Line 2, Pos (63,44)
+msgid ""
+"Oh, by the way,\n"
+"what happened to\n"
+"the sun?"
+msgstr "あ、ところで、太陽はどうしたんだ？"
+
+#. ID 100, Page 3, Line 6, Pos (63,44)
+msgid ""
+"I lent it to someone\n"
+"in the ruins.\\!\n"
+"She said she wanted to\n"
+"feel the sun again before..."
+msgstr ""
+"遺跡にいた人に貸した。\\!\n"
+"最後に太陽を感じたいって言ってたんだ…"
+
+#. ID 100, Page 3, Line 11, Pos (63,44)
+msgid ""
+"Oh, Maize.\\!\n"
+"I met her before."
+msgstr ""
+"ああ、メイズか。\\!\n"
+"前に会ったんだ。"
+
+#. ID 100, Page 3, Line 13, Pos (63,44)
+msgid ""
+"There used to be a\n"
+"lot more plant people\n"
+"around here...\n"
+"That's what my father told me."
+msgstr ""
+"この辺り、昔はもっと植物があったって…\n"
+"父さんがそう言ってたんだ。"
+
+#. ID 100, Page 3, Line 17, Pos (63,44)
+msgid ""
+"I guess they've all...\\.\n"
+"gone."
+msgstr ""
+"今はみんな…\\.\n"
+"なくなったんだと思う。"
+
+#. ID 100, Page 3, Line 20, Pos (63,44)
+msgid ""
+"I'm glad she got\n"
+"to see the sun again\n"
+"at least."
+msgstr ""
+"少なくとも、あの人がもう一度太陽を\n"
+"見ることができたみたいで、良かったよ。"
+
+#. ID 100, Page 4, Line 4, Pos (63,44)
+msgid "Thanks for everything."
+msgstr "色々ありがとな。"
+
+#. ID 100, Page 4, Line 6, Pos (63,44)
+msgid "We believe in you!"
+msgstr "信じてるから!"

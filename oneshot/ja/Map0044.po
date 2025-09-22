@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. ID 1, Page 1, Line 2, Pos (18,17)
+#. ID 2, Page 1, Line 2, Pos (19,17)
+#. ID 3, Page 1, Line 2, Pos (17,17)
+msgid "The fireflies light up this room."
+msgstr "ホタルのおかげで部屋が明るいね。"
+
+#. ID 5, Page 1, Line 2, Pos (18,13)
+msgid "It's some kind of stew."
+msgstr "何かのシチューみたい。"
+
+#. ID 6, Page 1, Line 2, Pos (17,13)
+msgid "Coals."
+msgstr "石炭だ。"
+
+#. ID 7, Page 1, Line 2, Pos (20,16)
+msgid ""
+"It's being slowly chipped away already.\n"
+"But it's still trying to stay alive, \n"
+"I think."
+msgstr ""
+"世界はゆっくりと崩壊しはじめてる。\n"
+"まだ必死で生きようとしているが…"
+
+#. ID 7, Page 1, Line 5, Pos (20,16)
+msgid ""
+"Doesn't matter... one day the world will\n"
+"finally give up this fight."
+msgstr ""
+"だとしても…\n"
+"いつか、世界があきらめる日がくるだろう。"
+
+#. ID 7, Page 1, Line 7, Pos (20,16)
+msgid "I just hope I'm not alive to see it."
+msgstr "その日が訪れるまで、長生きしたくはないね。"
+
+#. ID 7, Page 1, Line 9, Pos (20,16)
+msgid ""
+"I'm bringing back the sun,\n"
+"though..."
+msgstr "ミーが太陽を元の場所に戻すよ…"
+
+#. ID 7, Page 1, Line 12, Pos (20,16)
+msgid "That won't fix the root of the problem."
+msgstr "けれど、根本的な問題の解決にはならない。"
+
+#. ID 7, Page 1, Line 14, Pos (20,16)
+msgid "Just like that other lady said... "
+msgstr "あのお姉さんが言ってたことと同じだ…"
+
+#. ID 7, Page 1, Line 16, Pos (20,16)
+msgid ""
+"But don't lose heart!\n"
+"Without the sun the world will\n"
+"die much faster."
+msgstr ""
+"だが気を落とさないでくれ!\n"
+"太陽がなければ\n"
+"世界はもっと早く滅びてしまうんだから。"
+
+#. ID 7, Page 1, Line 19, Pos (20,16)
+msgid ""
+"At the very least... I'm sure\n"
+"everyone would like to see the sun again."
+msgstr ""
+"せめて…きっとみんな、\n"
+"もう一度太陽を見たいはず。"
