@@ -22,46 +22,65 @@ msgid ""
 "\n"
 "　　　　　　　　　　　大橋夢"
 msgstr ""
+msgstr ""
+"               -큰 다리를 놓는 꿈-\n"
+"　　　　　　　　　대교몽(大橋夢)"
 
 #. ID 325, Page 1, Line 51, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　　 教夢"
 msgstr ""
+"                  -가르치는 꿈-\n"
+"　　　　　　　　　　교몽(教夢)"
 
 #. ID 325, Page 1, Line 59, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　　既知夢"
 msgstr ""
+"                   -알려진 꿈-\n"
+"　　　　　　　　　기지몽(既知夢)"
+
 
 #. ID 325, Page 1, Line 67, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　  　生夢"
 msgstr ""
+"                   -생생한 꿈-\n"
+"　　　　　　　　　  생몽(生夢)"
 
 #. ID 325, Page 1, Line 75, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　　　宙夢"
 msgstr ""
+"                  -떠오르는 꿈-\n"
+"　　　　　　　　　　주몽(宙夢)"
 
 #. ID 325, Page 1, Line 83, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　　 大奇夢"
 msgstr ""
+"                 -매우 이상한 꿈-\n"
+"　　　　　　　　　대기몽(大奇夢)"
 
 #. ID 325, Page 1, Line 96, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　　　据夢"
 msgstr ""
+"                 -바탕이 되는 꿈-\n"
+"　　　　　　　　　　거몽(据夢)"
 
 #. ID 325, Page 1, Line 104, Pos (24,13)
 msgid ""
 "\n"
 "　　　　　　　　　　　　初夢"
 msgstr ""
+"                  -처음 꾸는 꿈-\n"
+"　　　　　　　　　　초몽(初夢)"
+
 
