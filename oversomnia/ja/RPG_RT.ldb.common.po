@@ -1,0 +1,976 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 15, Line 4
+#. Contains choice at line 2 (3 options)
+msgid "What do you want to do?"
+msgstr "何をしますか？"
+
+#. ID 15, Line 5
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Save\n"
+"Change Menu Style\n"
+"View Stats"
+msgstr ""
+"セーブ\n"
+"メニュースタイルの変更\n"
+"情報の閲覧"
+
+#. ID 17, Line 74
+msgid "Select menu graphic:"
+msgstr "メニューグラフィックを選択してください:"
+
+#. ID 17, Line 107
+#. ID 17, Line 120
+#. ID 17, Line 133
+#. ID 17, Line 146
+#. ID 17, Line 159
+#. ID 17, Line 172
+msgid "Option not unlocked.\\|\\^"
+msgstr "選択されたものは解除されていません。\\|\\^"
+
+#. ID 17, Line 179
+#. Contains choice at line 2 (2 options)
+msgid "Menu graphics changed.\\|\\^"
+msgstr "メニューグラフィックを変更しました。\\|\\^"
+
+#. ID 17, Line 180
+#. Choice (2 options, embedded in a message)
+msgid ""
+"OK\n"
+"Select again."
+msgstr ""
+"了解\n"
+"再度選択する。"
+
+#. ID 22, Line 11
+msgid ""
+"A familiar face always waiting there at the start\n"
+"of every dream. She looks like one of my friends."
+msgstr ""
+"夢の始まりにはいつも、見慣れた顔が待っている。\n"
+"私の友人の一人に似ている。"
+
+#. ID 22, Line 28
+msgid ""
+"There is often someone with alarms growing out\n"
+"of their head wandering around. They become quite\n"
+"hostile when provoked, oozing an unnatural\n"
+"substance as their face becomes a dark void."
+msgstr ""
+"よく頭から警報器が生えたような人がうろうろ\n"
+"している。彼らは挑発するとかなり敵対的になり、\n"
+"顔が暗い空虚のように変わり、不自然な物質を\n"
+"にじませる。"
+
+#. ID 22, Line 47
+msgid ""
+"There was an unusual monster whose presence made\n"
+"the surrounding area feel suffocating. It was\n"
+"aggressive, but seemed to be guarding something\n"
+"rather than lashing out in rage."
+msgstr ""
+"周囲の空気を重苦しくさせる、異様な怪物がいた。\n"
+"攻撃的だが、怒りに任せて暴れているというより、\n"
+"何かを守っているようだった。"
+
+#. ID 22, Line 66
+msgid ""
+"There was a glimpse of one of my friends in an\n"
+"area shrouded in an unwelcoming atmosphere.\n"
+"Perhaps I was no longer in my own dream."
+msgstr ""
+"嫌な空気に包まれた場所で、友人の姿が\n"
+"ちらりと見えた。\n"
+"もはや自分の夢の中ではなかったのだろう。"
+
+#. ID 22, Line 84
+msgid ""
+"In an attic-like area full of dust bunnies, one\n"
+"stood out as the leader. Atop its head was a charm\n"
+"to ward off evil."
+msgstr ""
+"ほこりうさぎが散らばる屋根裏のような場所で、ひと\n"
+"きわ目立つリーダーのうさぎがいた。頭の上には\n"
+"魔除けのお守りが乗っていた。"
+
+#. ID 22, Line 102
+msgid ""
+"There was a monstrous bat-like creature housing\n"
+"a sickly-looking person in its hollowed body.\n"
+"It seemed to be looking after them."
+msgstr ""
+"空洞の体に病気のような人を匿う、怪物のような\n"
+"コウモリがいた。\n"
+"お世話をしているようだった。"
+
+#. ID 22, Line 120
+msgid ""
+"Managing a shop in a town was a demon of sorts\n"
+"with a skull-like head. It demanded blood as\n"
+"payment from me, but it didn't have to be my own..."
+msgstr ""
+"骸骨に似た頭を持つ悪魔のような者が町で店を\n"
+"経営していた。代金として血を要求されたが、自分の\n"
+"血である必要はなかった..."
+
+#. ID 22, Line 138
+msgid ""
+"On the top floor of a vibrant tower was somebody\n"
+"who seemed to be the head honcho of the place.\n"
+"The building itself was full of what seemed to be\n"
+"a liquid form of electricity."
+msgstr ""
+"きらめく塔の最上階には、その場所のボスらしき\n"
+"者がいた。\n"
+"建物自体には液体のような電気が満ちていた。"
+
+#. ID 22, Line 157
+msgid ""
+"Hidden away in a place where it had been forgotten\n"
+"was a beach made of pink sand. The only person on\n"
+"the beach had also been forgotten..."
+msgstr ""
+"忘れられた場所の奥に隠されていたのは、ピンクの\n"
+"砂の浜辺だった。ただ一人いた人物もまた、\n"
+"忘れられていた..."
+
+#. ID 22, Line 175
+msgid ""
+"Overlooking the scene of a tornado was a forlorn\n"
+"girl with a weather vane lodged in her head.\n"
+"Her distant gaze was fixed on the horizon."
+msgstr ""
+"竜巻の景色を見下ろしていたのは、頭に風見鶏を\n"
+"刺した寂しげな少女だった。\n"
+"遠くの地平線を見つめ続けていた。"
+
+#. ID 22, Line 193
+msgid ""
+"At the bottom of an ocean was a strange fish in a\n"
+"sheltered area. It almost seemed to be sobbing to\n"
+"itself over something. Maybe it wanted to escape."
+msgstr ""
+"海底の隠された場所に、奇妙な魚がいた。\n"
+"魚自身の何かについて独りで泣いているようだった。\n"
+"もしかしたら、逃げ出したいのかもしれない。"
+
+#. ID 22, Line 211
+msgid ""
+"Atop a mountain in a land riddled with pools of\n"
+"boiling water was a person playing a pan flute.\n"
+"It was a very peaceful area..."
+msgstr ""
+"熱湯の池が点在する土地の山頂に、パンフルートを\n"
+"奏でる人物がいた。\n"
+"とても平穏な場所だった..."
+
+#. ID 22, Line 229
+msgid ""
+"Within a maze of castle ramparts was a lonesome\n"
+"gargoyle statue. Even if their job is to sit there\n"
+"warding off evil, it must get lonely sometimes."
+msgstr ""
+"城塞のような迷路の中に、寂しげなガーゴイルが\n"
+"あった。魔除けが役目といっても、寂しい時は\n"
+"あるだろう。"
+
+#. ID 22, Line 247
+msgid ""
+"Deep within a forest of scarlet trees was a tall\n"
+"monster. The strawberries around it seemed to \n"
+"contain bones within their flesh.\n"
+"Maybe they weren't strawberries to begin with."
+msgstr ""
+"緋色の木々が生い茂る森の奥深くに、背の高い\n"
+"怪物がいた。傍にある苺は、果肉の中に骨が入って\n"
+"いるようだった。\n"
+"もとは苺ではない何かだったのかもしれない。"
+
+#. ID 22, Line 266
+msgid ""
+"Atop some buildings engulfed in a fog of sorts\n"
+"was an odd creature hanging off a ledge. It was\n"
+"reaching out, as if something, or someone, had\n"
+"fallen off the building."
+msgstr ""
+"霧のようなものに包まれた建物の上で、奇妙な生き物が\n"
+"縁にぶら下がっていた。何か、あるいは誰かが\n"
+"建物から落ちたかのように手を伸ばしていた。"
+
+#. ID 22, Line 285
+msgid ""
+"Camping inside a snowy cave was somebody roasting\n"
+"marshmallows over a radiating chunk of meteorite.\n"
+"It was a cozy shelter, the warmth of the rock was\n"
+"the perfect temperature."
+msgstr ""
+"雪に覆われた洞窟の中でキャンプをしていた人物が、\n"
+"熱を放つ隕石の塊の上でマシュマロを焼いていた。\n"
+"居心地の良い落ち着いた場所で、岩の暖かさは\n"
+"絶妙だった。"
+
+#. ID 22, Line 304
+msgid ""
+"Working in an aquarium were a bunch of fish-like\n"
+"people. An angler fish girl, a lobster dog, a guy\n"
+"with a whole fish for a head... They would easily\n"
+"blend in with the creatures in the enclosures."
+msgstr ""
+"水族館では、魚のような者たちが働いていた。\n"
+"アンコウの少女、ロブスター犬、頭が丸ごと魚の男...\n"
+"水槽の中の生き物たちに紛れ込むのも簡単そうだ。"
+
+#. ID 22, Line 323
+msgid ""
+"Atop a ledge in an underwater place was somebody\n"
+"carrying a tuning fork. After grabbing their\n"
+"attention, they led the way to the deepest depths\n"
+"of the ocean."
+msgstr ""
+"水中の岩棚の上に音叉を持った誰かがいた。\n"
+"注意を引くと、深海の最下層へ導いてくれた。"
+
+#. ID 22, Line 342
+msgid ""
+"When it became dark in the apartments, a person\n"
+"with a candle on their head showed up. They seemed\n"
+"to be trying to contact a strange demon with a\n"
+"skewer pierced through its head."
+msgstr ""
+"アパートが暗くなると、頭にろうそくを立てた人物が\n"
+"現れた。串が頭を貫通している奇妙な悪魔と接触を\n"
+"試みているようだった。"
+
+#. ID 22, Line 361
+msgid ""
+"There was a fifth floor in the apartments with a\n"
+"single room on it. Within the room was somebody\n"
+"whose noisy thoughts were manifesting above their\n"
+"head in a cloud of scribbles."
+msgstr ""
+"アパートの５階には部屋が一室だけあった。部屋の\n"
+"中には、ノイズのかかった思考が頭上に落書きの\n"
+"雲となって現れている人物がいた。"
+
+#. ID 22, Line 380
+msgid ""
+"Various motionless beings stood in a purple city. \n"
+"They might be machines, or holograms, or something \n"
+"else entirely. I found a workshop housing some,\n"
+"but the person in charge was sleeping on the job."
+msgstr ""
+"紫の街には様々な動かない存在が立っていた。\n"
+"機械か、ホログラムか、それとも全く別の何か\n"
+"かもしれない。いくつか工房にあるものも見つけたが、\n"
+"責任者は居眠りしていた。"
+
+#. ID 22, Line 399
+msgid ""
+"There was a very tall, monster-headed figure.\n"
+"It spoke incomprehensible words to another figure.\n"
+"Can't remember the rest, but it wasn't good."
+msgstr ""
+"非常に背の高い、怪物頭の姿があった。\n"
+"別の人物に理解不能な言葉を投げかけていた。\n"
+"後は思い出せないが、良いものではなかった。"
+
+#. ID 22, Line 417
+msgid ""
+"Braving a snowstorm were a bunch of soldier-like\n"
+"creatures. They seemed to be prepared for battle,\n"
+"attacking them wouldn't be a good idea."
+msgstr ""
+"兵士のような生物の集団が、吹雪を耐え忍んでいた。\n"
+"戦いの準備をしているようで、攻撃するのは\n"
+"得策ではないだろう。"
+
+#. ID 22, Line 435
+msgid ""
+"Inside an aeroplane was a very large creature who\n"
+"seemed to be able to pilot the entire thing with\n"
+"a small device. All of its passengers were tiny\n"
+"critters whose gaze stayed fixed on me."
+msgstr ""
+"飛行機の中には、機体全体を小さな装置で操縦できる\n"
+"であろう巨大な生き物がいた。乗客は小さな\n"
+"動物ばかりで、常に私を見つめ続けていた。"
+
+#. ID 22, Line 454
+msgid ""
+"There was a temple dedicated to some sort of moth\n"
+"deity. It was full of ghostly entities, and the\n"
+"person in charge was very moth-like too.\n"
+"However, something felt off about the place."
+msgstr ""
+"蛾の神に捧げられた神殿があった。幽霊のような\n"
+"存在が満ちており、管理人も蛾のようだった。\n"
+"しかし、どこか違和感があった。"
+
+#. ID 22, Line 473
+msgid ""
+"There was a small room inside a cuckoo clock that\n"
+"housed a cat with a clock for a body. Its room\n"
+"was a cozy shelter away from the constant rain\n"
+"and gloom outside."
+msgstr ""
+"鳩時計の中の小さな部屋に、体に時計がある猫が\n"
+"住んでいた。外の降り続く雨と陰鬱な空気から逃れた、\n"
+"居心地の良い小屋だった。"
+
+#. ID 22, Line 492
+msgid ""
+"In an area constantly battered by stormy weather\n"
+"there was a flying creature unfazed by the awful\n"
+"conditions. It had to be lured down from the sky."
+msgstr ""
+"嵐が絶え間なく吹き付ける場所で、酷い天候にも動じず\n"
+"飛行する生き物がいた。空からおびき寄せる\n"
+"必要があった。"
+
+#. ID 22, Line 510
+msgid ""
+"There were some strange things in a stormy area.\n"
+"A blue woman spinning around and around with no\n"
+"signs of stopping, and bright snake-like creatures\n"
+"that resembled lightning."
+msgstr ""
+"嵐の場所には妙なものたちがいた。\n"
+"止まる気配なくぐるぐる回り続ける青い女性、そして\n"
+"稲妻のように明るい蛇のような生き物たち。"
+
+#. ID 22, Line 529
+msgid ""
+"In a rainy village there was a vampire boy who had\n"
+"lost the key to his house. It was in a nearby park\n"
+"that was full of hedges and had strange wiggling\n"
+"objects dotted around the place."
+msgstr ""
+"雨が降る村には、家の鍵を失くした吸血鬼の\n"
+"少年がいた。その鍵は、生垣だらけで奇妙に揺れる\n"
+"物体が点在する近くの公園にあった。"
+
+#. ID 22, Line 548
+msgid ""
+"Standing on a stage was a raccoon dog pretending\n"
+"to be me. Seeing yourself like that feels surreal,\n"
+"at least it was just an illusion."
+msgstr ""
+"ステージの上には、私を演じるたぬきが立っていた。\n"
+"少なくともただの幻とはいえ、自分をあんな風に\n"
+"見るのは奇妙な感覚だった。"
+
+#. ID 22, Line 566
+msgid ""
+"There was a hospital full of strange pallid beings.\n"
+"They seemed to be patients, did an illness do this\n"
+"to them, or do they normally look like that?\n"
+"There was a lone nurse looking after them..."
+msgstr ""
+"病院には奇妙な青白い存在が満ちていた。\n"
+"患者のようだったが、病気のせいでああなったのか、\n"
+"それとも最初からああいう姿なのだろうか？\n"
+"たった一人の看護師が看病をしていた..."
+
+#. ID 22, Line 585
+msgid ""
+"In a place full of transmission towers there were\n"
+"a pair of electricians that appeared after the\n"
+"lights went out. Wonder how they found out about\n"
+"the problem so quickly."
+msgstr ""
+"送電塔だらけの場所で、停電の後に二人の電気技師が\n"
+"現れた。どうやってそんなに早く問題を把握したの\n"
+"だろうか。"
+
+#. ID 22, Line 604
+msgid ""
+"There was a radio studio of some sort in a city\n"
+"whose skyline was lined with neon shapes. \n"
+"Somehow, the owl creature manning the controls\n"
+"can broadcast music to other parts of a dream."
+msgstr ""
+"ネオンの幻影が輪郭を彩る街に、何らかの\n"
+"ラジオスタジオがあった。\n"
+"どういうわけか、フクロウのような生き物が扱う\n"
+"操作盤で、他の夢の場所に音楽を流せるらしい。"
+
+#. ID 22, Line 623
+msgid ""
+"There was a town with many waterways, home to many\n"
+"hard-working creatures. They don't seem to be\n"
+"completely organic, and there was a poster that\n"
+"referred to them as \"Mooks.\""
+msgstr ""
+"たくさんの水路がある町には、たくさんの勤勉な\n"
+"生き物たちが住んでいた。それらは完全に有機的な\n"
+"存在ではないようで、「Mooks」と書かれた\n"
+"ポスターがあった。"
+
+#. ID 22, Line 642
+msgid ""
+"The leader of the waterway town was a fox-like\n"
+"person who ran away when approached. They might\n"
+"be responsible for creating all the creatures that\n"
+"populate the town."
+msgstr ""
+"水路の町のリーダーは、近づくと逃げるキツネのような\n"
+"人物だった。町に住まう生き物全てを作った\n"
+"責任者かもしれない。"
+
+#. ID 22, Line 661
+msgid ""
+"In a garden centre there was a stern-looking girl\n"
+"in charge of the place. She seemed to be training\n"
+"some sort of plant creature so that it could work\n"
+"as an employee in the place."
+msgstr ""
+"園芸センターには、管理人の気難しそうな少女がいた。\n"
+"従業員として働けるよう、植物のような生物を\n"
+"訓練しているようだった。"
+
+#. ID 22, Line 680
+msgid ""
+"In the basement of the garden centre was a monster\n"
+"whose body was comprised of a botanical mess.\n"
+"It's extremely protective of a red flower that was\n"
+"down there, and the shop owner knows about it..."
+msgstr ""
+"園芸センターの地下には、植物を寄せ集めた体の怪物が\n"
+"いた。そこに咲いた赤い花を極めて大事にしており、\n"
+"店主もそのことを知っていた..."
+
+#. ID 22, Line 699
+msgid ""
+"After a world full of music notes fell silent,\n"
+"a fiend appeared out of nowhere to dance on the\n"
+"graves of the beings that had died."
+msgstr ""
+"音符で満ちた世界が静まり返った後、どこからともなく\n"
+"現れた悪魔が死んだ者たちの墓の上で踊った。"
+
+#. ID 22, Line 717
+msgid ""
+"Sitting on a small jetty in a verdant place was a\n"
+"boy dressed like a magpie. Out in the water were\n"
+"some other creatures lurking in the depths. Was\n"
+"he waiting for them to come out?"
+msgstr ""
+"緑豊かな場所の小さな桟橋に、カササギの服を着た\n"
+"少年が座っていた。水の中には別の生き物たちが深みに\n"
+"潜んでいた。彼はこれらが出てくるのを\n"
+"待っていたのだろうか？"
+
+#. ID 22, Line 736
+msgid ""
+"In the depths of a dream there was a room with a\n"
+"leering statue inside. Atop it was a firefly-like\n"
+"creature drawing on a hanging board. It looked\n"
+"like it collected things from other dreams."
+msgstr ""
+"夢の奥には、ニヤリとしている像が置かれた部屋が\n"
+"あった。像の上には蛍のような生き物がおり、\n"
+"吊るされた板に何かを描いていた。他の夢から\n"
+"物を集めていたようだ。"
+
+#. ID 22, Line 755
+msgid ""
+"There was a boy with a power cord attached to his\n"
+"body standing in a place full of traffic lights\n"
+"and road signs. He was hiding inside an enclosed \n"
+"area, away from the chaotic signs and lights."
+msgstr ""
+"電源コードを体に付けた少年が、信号と標識で満ちた\n"
+"空間に立っていた。混沌とした標識や光から離れ、\n"
+"囲まれた領域に身を潜めていた。"
+
+#. ID 22, Line 774
+msgid ""
+"In a swamp full of houses on stilts there was a\n"
+"fishing pond built into a hill. The fish you could\n"
+"catch there were strange, and the water seemed\n"
+"incredibly deep for how small the pond was."
+msgstr ""
+"高床式の家が並ぶ沼地に、丘に作られた釣り堀が\n"
+"あった。釣れる魚は奇妙で、水は池の小ささに対して\n"
+"信じられないほど深く見えた。"
+
+#. ID 22, Line 793
+msgid ""
+"At some point while wandering through some sort\n"
+"of ventilation shaft system, everything started\n"
+"to crumble away. Eventually there was nothing but\n"
+"a void and a monstrous entity."
+msgstr ""
+"換気シャフトのような場所を彷徨っていると、ある時\n"
+"全てが崩れ去り始めた。最終的には何も残らず、虚空と\n"
+"怪物のような生物だけがあった。"
+
+#. ID 22, Line 812
+msgid ""
+"There were holes housing various things that could\n"
+"be seen through air vents. One had an embryo-like \n"
+"creature, nestled in a mass of pulsating flesh. \n"
+"Something about the sight was harrowing."
+msgstr ""
+"空気口を通して見える穴には、様々なものが\n"
+"住み着いていた。そのうちの一つには、脈打つ肉の塊に\n"
+"包まれた胚のような生物がいた。\n"
+"その光景にはゾッとする何かがあった。"
+
+#. ID 28, Line 2
+msgid ""
+"\\S[1]Effects Owned: \\V[3]/15\\.\n"
+"Menus Unlocked: \\V[15]/6\\.\n"
+"Times Slept: \\V[17]"
+msgstr ""
+"\\S[1]所有しているエフェクト: \\V[3]/15\\.\n"
+"解除したメニュー: \\V[15]/6\\.\n"
+"睡眠回数: \\V[17]"
+
+#. ID 28, Line 5
+msgid ""
+"\\S[1]Vending Machines Used: \\V[38]\\.\n"
+"Total Fish Caught: \\V[52]"
+msgstr ""
+"\\S[1]使用した自動販売機: \\V[38]\\.\n"
+"釣った魚の総数: \\V[52]"
+
+#. ID 62, Line 3
+msgid ""
+"\\C[19]...Are you alright?\\.\\. You look like you're worried\n"
+"about something,\\.\\. are you-\\^"
+msgstr "\\C[19]...大丈夫か？\\.\\.何か心配なようだが、\\.\\.君は─\\^"
+
+#. ID 62, Line 5
+msgid "\\C[19]...\\. What's up?"
+msgstr "\\C[19]...\\.どうしたんだ？"
+
+#. ID 62, Line 12
+msgid "\\C[19]Hey.\\. What's up?"
+msgstr "\\C[19]やあ。\\.どうしたんだ？"
+
+#. ID 62, Line 18
+msgid "\\C[19]That's pretty cute.\\. What's up?"
+msgstr "\\C[19]ああ、けっこう可愛いな。\\.どうしたんだ？"
+
+#. ID 62, Line 24
+msgid "\\C[19]Don't do anything you'll regret."
+msgstr "\\C[19]後悔するようなことはするもんじゃない。"
+
+#. ID 62, Line 30
+msgid "\\C[19]Does that work here?\\. Anyway, what's up?"
+msgstr "\\C[19]それ、ここで使えるのか？\\.まあいい、どうしたんだ？"
+
+#. ID 62, Line 36
+msgid "\\C[19]I used to have one of those, too.\\. What's up?"
+msgstr "\\C[19]それ、前は俺も持ってたな。\\.どうしたんだ？"
+
+#. ID 62, Line 42
+msgid "\\C[19]No need to be formal...\\. What's up?"
+msgstr "\\C[19]そんなにかしこまられてもな...\\.どうしたんだ？"
+
+#. ID 62, Line 48
+msgid "\\C[19]Doors are often locked for a reason, you know."
+msgstr ""
+"\\C[19]鍵がかかってるのには、それなりの理由が\n"
+"あるもんだよ。"
+
+#. ID 62, Line 54
+msgid "\\C[19]Good morning.\\. What's up?"
+msgstr "\\C[19]おはようさん。\\.どうしたんだ？"
+
+#. ID 62, Line 60
+msgid "\\C[19]Doesn't that hurt?"
+msgstr "\\C[19]それ、痛くないのか？"
+
+#. ID 62, Line 66
+msgid "\\C[19]A deer, of course...\\. What's up?"
+msgstr "\\C[19]鹿か、やっぱりな...\\.どうしたんだ？"
+
+#. ID 62, Line 72
+msgid "\\C[19]Isn't it hard to move like that?"
+msgstr "\\C[19]そんなんじゃあ動きにくくないか？"
+
+#. ID 62, Line 78
+msgid "\\C[19]..."
+msgstr "\\C[19]..."
+
+#. ID 62, Line 84
+msgid "\\C[19]I'm not hiring at the moment.\\. Anyway, what's up?"
+msgstr ""
+"\\C[19]今のとこ、人を雇う予定はないよ。\\.\n"
+"ところで、どうしたんだ？"
+
+#. ID 62, Line 91
+msgid "\\C[19]Oh? A true work of art...\\.Anyway, what's up?"
+msgstr ""
+"\\C[19]おぉ？見事な出来だな...\\.\n"
+"ところで、どうしたんだ？"
+
+#. ID 62, Line 95
+msgid "\\C[19]It's so cold...\\. Make it quick, please."
+msgstr "\\C[19]今日は冷えるな...\\.手短に頼むよ。"
+
+#. ID 62, Line 103
+msgid "\\C[19]Be careful with that...\\. Anyway, what's up?"
+msgstr "\\C[19]扱いには気をつけろよ...\\.ところで、どうしたんだ？"
+
+#. ID 62, Line 109
+msgid "\\C[19]That thing must have some strong wheels..."
+msgstr "\\C[19]そのタイヤ、頑丈そうだな..."
+
+#. ID 64, Line 1
+msgid "\\C[19]Thanks.\\|\\^"
+msgstr "\\C[19]毎度あり。\\|\\^"
+
+#. ID 65, Line 1
+msgid "\\C[19]Not enough money."
+msgstr "\\C[19]お金が足りないな。"
+
+#. ID 66, Line 1
+msgid "\\C[19]You already own this effect."
+msgstr "\\C[19]もうそのエフェクトは持ってるよ。"
+
+#. ID 70, Line 1
+#. Contains choice at line 2 (2 options)
+msgid "\\C[19]Do you want to buy this?"
+msgstr "\\C[19]これを買うのか？"
+
+#. ID 70, Line 2
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"はい\n"
+"いいえ"
+
+#. ID 101, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Dust Bunny"
+msgstr "ほこりうさぎ"
+
+#. ID 102, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Vampirism"
+msgstr "吸血鬼性"
+
+#. ID 103, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Mobile Phone"
+msgstr "携帯電話"
+
+#. ID 104, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Tuning Fork"
+msgstr "音叉"
+
+#. ID 105, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Formal"
+msgstr "フォーマル"
+
+#. ID 106, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Skeleton Key"
+msgstr "合鍵"
+
+#. ID 107, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bed Hair"
+msgstr "寝癖"
+
+#. ID 108, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Angler"
+msgstr "釣り人"
+
+#. ID 109, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Deer"
+msgstr "鹿"
+
+#. ID 110, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Gargoyle"
+msgstr "ガーゴイル"
+
+#. ID 111, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Wendigo"
+msgstr "ウェンディゴ"
+
+#. ID 112, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bellhop"
+msgstr "ベルボーイ"
+
+#. ID 113, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "I. Sculpture"
+msgstr "氷像"
+
+#. ID 114, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Brimstone"
+msgstr "硫黄石"
+
+#. ID 115, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Scooter"
+msgstr "スクーター"
+
+#. ID 179, Line 8
+msgid "\\$\\|\\^"
+msgstr ""
+
+#. ID 236, Line 23
+msgid ""
+"\n"
+"                 Menu Graphic: Fox"
+msgstr ""
+"\n"
+"            メニューグラフィック: キツネ"
+
+#. ID 236, Line 34
+msgid ""
+"\n"
+"                 Menu Graphic: Reef"
+msgstr ""
+"\n"
+"             メニューグラフィック: 岩礁"
+
+#. ID 236, Line 45
+msgid ""
+"\n"
+"                Menu Graphic: Sunset"
+msgstr ""
+"\n"
+"             メニューグラフィック: 日没"
+
+#. ID 236, Line 56
+msgid ""
+"\n"
+"               Menu Graphic: Observer"
+msgstr ""
+"\n"
+"            メニューグラフィック: 観測者"
+
+#. ID 236, Line 67
+msgid ""
+"\n"
+"               Menu Graphic: Emerald"
+msgstr ""
+"\n"
+"          メニューグラフィック: エメラルド"
+
+#. ID 236, Line 78
+msgid ""
+"\n"
+"                Menu Graphic: Chroma"
+msgstr ""
+"\n"
+"             メニューグラフィック: 彩度"
+
+#. ID 237, Line 15
+msgid "                    Dust Bunny"
+msgstr "                    ほこりうさぎ"
+
+#. ID 237, Line 16
+msgid "Allows you to move faster. "
+msgstr "より速く動くことができるようになる。"
+
+#. ID 237, Line 33
+msgid "                     Vampirism"
+msgstr "                    　吸血鬼性"
+
+#. ID 237, Line 34
+msgid ""
+"Allows you to attack dream denizens.\n"
+"Killing organic things will give you blood ($k)."
+msgstr ""
+"夢の住民に攻撃できるようになる。\n"
+"有機的なものを殺すと血($k)が得られる。"
+
+#. ID 237, Line 52
+msgid "                    Mobile Phone"
+msgstr "                    　携帯電話"
+
+#. ID 237, Line 53
+msgid "Press SHIFT to return to the Nexus."
+msgstr "シフトを押すと扉部屋に戻る。"
+
+#. ID 237, Line 66
+msgid "                    Tuning Fork"
+msgstr "                       音叉"
+
+#. ID 237, Line 67
+msgid ""
+"Pressing SHIFT can trigger reactions around \n"
+"certain creatures or locations."
+msgstr ""
+"特定の生物や場所の周囲でシフトキーを押すと、\n"
+"反応を引き起こすことができる。"
+
+#. ID 237, Line 81
+msgid "                      Formal"
+msgstr "                    フォーマル"
+
+#. ID 237, Line 82
+msgid "Makes you look like an upper-class kind of person."
+msgstr "上流階級の人のように見えるようになる。"
+
+#. ID 237, Line 95
+msgid "                    Skeleton Key"
+msgstr "                       合鍵"
+
+#. ID 237, Line 96
+msgid ""
+"Reveals secret doors and allows you to enter some\n"
+"locked doors."
+msgstr ""
+"隠されたの扉を明らかにし、いくつかの施錠された\n"
+"扉に入ることができるようになる。"
+
+#. ID 237, Line 111
+msgid "                      Bed Hair"
+msgstr "                       寝癖"
+
+#. ID 237, Line 112
+msgid "Slows down some dream denizens."
+msgstr "夢の住民の動きを鈍らせる。"
+
+#. ID 237, Line 125
+msgid "                      Angler"
+msgstr "                      釣り人"
+
+#. ID 237, Line 126
+msgid ""
+"Gives you an odd lantern that lures some things \n"
+"closer when you press the SHIFT key."
+msgstr ""
+"シフトキーを押したときに、いくつかのものを\n"
+"引き寄せることができるランタンを手に持つ。"
+
+#. ID 237, Line 140
+msgid "                       Deer"
+msgstr "                        鹿"
+
+#. ID 237, Line 141
+msgid "Allows you to jump over some small gaps."
+msgstr "小さな隙間を跳び越えることができる。"
+
+#. ID 237, Line 154
+msgid "                      Gargoyle"
+msgstr "                    ガーゴイル"
+
+#. ID 237, Line 155
+msgid ""
+"Protects you from certain sources of danger.\n"
+"Can also reveal some secrets."
+msgstr ""
+"特定の危険から身を守る。\n"
+"また、いくつかの秘密を明らかにすることもできる。"
+
+#. ID 237, Line 169
+msgid "                      Wendigo"
+msgstr "                    ウェンディゴ"
+
+#. ID 237, Line 170
+msgid ""
+"Allows you to shapeshift into certain things by\n"
+"interacting with them.\n"
+"Press SHIFT to return to normal."
+msgstr ""
+"特定のものを調べると変身することができる。\n"
+"シフトキーを押すと元に戻る。"
+
+#. ID 237, Line 185
+msgid "                      Bellhop"
+msgstr "                    ベルボーイ"
+
+#. ID 237, Line 186
+msgid "Allows you to harmlessly push things around."
+msgstr "害を与えずに物を押すことができる。"
+
+#. ID 237, Line 200
+msgid "                   Ice Sculpture"
+msgstr "                       氷像"
+
+#. ID 237, Line 201
+msgid ""
+"Allows you to stop certain things from moving.\n"
+"Pressing SHIFT toggles the ability, changing your\n"
+"appearance in the process."
+msgstr ""
+"特定のものの動きを止めることができる。\n"
+"シフトキーを押すと効果が切り替わり、その過程で\n"
+"姿も変化する。"
+
+#. ID 237, Line 216
+msgid "                     Brimstone"
+msgstr "                      硫黄石"
+
+#. ID 237, Line 217
+msgid "Allows you to incinerate certain things."
+msgstr "特定のものを焼却できる。"
+
+#. ID 237, Line 230
+msgid "                      Scooter"
+msgstr "                    スクーター"
+
+#. ID 237, Line 231
+msgid ""
+"Allows you to move faster.\\.\\.\n"
+"It's also rather comfortable."
+msgstr ""
+"より速く動くことができるようになる。\\.\\.\n"
+"より快適でもある。"
+
+#. ID 241, Line 6
+#. ID 241, Line 8
+#. ID 241, Line 47
+#. ID 242, Line 6
+#. ID 242, Line 8
+#. ID 242, Line 20
+#. ID 243, Line 7
+#. ID 243, Line 9
+#. ID 243, Line 51
+#. ID 243, Line 53
+#. ID 243, Line 73
+#. ID 244, Line 6
+#. ID 244, Line 8
+#. ID 244, Line 20
+#. ID 245, Line 6
+#. ID 245, Line 8
+#. ID 245, Line 64
+msgid "\\$\\.\\^"
+msgstr ""
