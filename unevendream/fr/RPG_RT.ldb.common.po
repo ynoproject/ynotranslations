@@ -2450,6 +2450,14 @@ msgstr ""
 "fichier de sauvegarde obsolète.\\!\n"
 "Ajustement des données de sauvegarde..."
 
+#. ID 125, Line 74
+msgid ""
+"Some wallpapers have been replaced.\n"
+"Adjusting..."
+msgstr ""
+"Certains fonds d'écran ont été remplacés.\n"
+"Ajustement des fonds d'écran..."
+
 #. ID 125, Line 101
 msgid "Save update complete!"
 msgstr "Mise à jour de la sauvegarde terminée !"
