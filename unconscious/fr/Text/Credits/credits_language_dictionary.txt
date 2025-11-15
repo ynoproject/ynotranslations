@@ -141,6 +141,10 @@
 **Chinese
 **Chinois
 
+
+**Korean
+**Coréen
+
 @@YNOproject Developers
 @@Développeurs de YNOproject
 
