@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: fr_FR\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. ID 4, Line 19
 msgid ""
@@ -485,3 +485,99 @@ msgid ""
 msgstr ""
 "\n"
 "            * Thème de menu : Ecstasy *"
+
+#. ID 28, Line 797
+msgid ""
+"\n"
+"               * Menu theme: Green *"
+msgstr ""
+"\n"
+"             * Thème de menu : Vert *"
+
+#. ID 28, Line 813
+msgid ""
+"\n"
+"               * Menu theme: Heart *"
+msgstr ""
+"\n"
+"             * Thème de menu : Cœur *"
+
+#. ID 28, Line 829
+msgid ""
+"\n"
+"             * Menu theme: Bleeding *"
+msgstr ""
+"\n"
+"           * Thème de menu : Saignant *"
+
+#. ID 28, Line 845
+msgid ""
+"\n"
+"            * Menu theme: Precursor *"
+msgstr ""
+"\n"
+"          * Thème de menu : Précurseur *"
+
+#. ID 28, Line 861
+msgid ""
+"\n"
+"            * Menu theme: Suncarved *"
+msgstr ""
+"\n"
+"        * Thème de menu : Marquage Soleil *"
+
+#. ID 28, Line 877
+msgid ""
+"\n"
+"             * Menu theme: Entrails *"
+msgstr ""
+"\n"
+"          * Thème de menu : Entrailles *"
+
+#. ID 28, Line 893
+msgid ""
+"\n"
+"              * Menu theme: Unicorn *"
+msgstr ""
+"\n"
+"           * Thème de menu : Licorne *"
+
+#. ID 28, Line 909
+msgid ""
+"\n"
+"             * Menu theme: Tabitha *"
+msgstr ""
+"\n"
+"            * Thème de menu : Tabitha *"
+
+#. ID 28, Line 925
+msgid ""
+"\n"
+"             * Menu theme: Vending *"
+msgstr ""
+"\n"
+"         * Thème de menu : Distributeur *"
+
+#. ID 28, Line 941
+msgid ""
+"\n"
+"              * Menu theme: Beloved *"
+msgstr ""
+"\n"
+"            * Thème de menu : Adoré *"
+
+#. ID 28, Line 957
+msgid ""
+"\n"
+"          * Menu theme: Dudetastic Visera *"
+msgstr ""
+"\n"
+"         * Thème de menu : Visceffarant *"
+
+#. ID 28, Line 973
+msgid ""
+"\n"
+"           * Menu theme: Tender Carnis *"
+msgstr ""
+"\n"
+"         * Thème de menu : Chair tendre *"

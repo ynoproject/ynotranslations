@@ -1,0 +1,276 @@
+##Each section is separated by 2 lines. A line starting by a ** is a subsection, a line starting by a ++ is an additional line used in the credits that can be translated, a line starting by a ## is a comment and is ignored.
+##If a line using an annotation is present in credits_names and present here too, the line after it in this file will be used rather than the line in the credits_names file as long as it is not empty (if empty, it will be ignored and the line in credits_names will be used). Use this feature to allow translations to have translated lines without having to constantly update their credits file.
+##If you edit this file, make sure to update translations using it as well.
+
+
+@@Collective Unconscious Staff
+@@Collective Unconsciousスタッフ
+
+
+@@Core Managers
+@@コアマネージャー
+
+
+@@Past Core Managers
+@@元コアマネージャー
+
+
+@@Managers
+@@マネージャー
+
+
+@@Past Managers
+@@元マネージャー
+
+
+@@Core Developers
+@@コア開発者
+
+
+@@Past Core Developers
+@@元コア開発者
+
+
+@@Development Assistance
+@@開発支援
+
+
+@@Developers
+@@開発者
+
+
+@@Minnatsuki Design
+@@みんなつきのデザイン
+
+
+**Concept Art
+**コンセプトアート
+
+
+**Main Design
+**メインデザイン
+
+
+**Core Sprites
+**コアスプライト
+
+
+@@Core Maps Design
+@@コアマップデザイン
+
+
+**Bedroom
+**寝室
+
+
+++fin (concept art)
+++fin (コンセプトアート)
+
+
+++Led (spriting)
+++Led (スプライト制作)
+
+
+**Nexus
+
+
+++Ayayaya (concept art)
+++Ayayaya (コンセプトアート)
+
+
+++maple (concept art)
+++maple (コンセプトアート)
+
+
+**Treehouse
+**ツリーハウス
+
+
+++bWF5 (big vending machine)
+++bWF5 (巨大自販機)
+
+
+++Led (concept art)
+++Led (コンセプトアート)
+
+
+**Book
+**本
+
+
+
+**Record Player
+**蓄音機
+
+
+++maple (concept art/code improvements)
+++maple (コンセプトアート/コード改善)
+
+
+++rollaby (concept art)
+++rollaby (コンセプトアート)
+
+
+++Noahrav (coding/spriting)
+++Noahrav (コーディング/スプライト制作)
+
+
+@@Contributors
+@@貢献者
+
+
+**Music
+**音楽
+
+
+**Other Assets
+**その他のアセット
+
+
+@@Book Covers
+@@ブックカバー
+
+
+@@Collective Unconscious Badges
+@@Collective Unconsciousのバッジ
+
+
+@@Translation
+@@翻訳
+
+
+**French
+**フランス語
+
+
+**Spanish
+**スペイン語
+
+
+**Italian
+**イタリア語
+
+
+**Brazilian Portuguese
+**ブラジルポルトガル語
+
+
+**Polish
+**ポーランド語
+
+
+**Finnish
+**フィンランド語
+
+
+**Swedish
+**スウェーデン語
+
+
+**Japanese
+**日本語
+
+
+**Chinese
+**中国語
+
+
+**Korean
+**韓国語
+
+
+@@YNOproject Developers
+@@YNOproject開発者
+
+
+@@EasyRPG Developers
+@@EasyRPG開発者
+
+
+@@License
+@@ライセンス
+
+
+++\c[5]Actor2 \c[0]- \c[9]VictorSena and Garakuta \c[0]- \c[10]CC-BY 4.0
+
+
+++\c[5]Animal \c[0]- \c[9]VictorSena and Garakuta \c[0]- \c[10]CC-BY 4.0
+
+
+++\c[5]Censor Beep 4 \c[0]- \c[9]SoundJay \c[0]- \c[10]Royalty-free
+
+
+++\c[9]Andrey_Popov \c[0]- \c[10]shutterstock Standard License
+
+
+++\c[9]JuliusH \c[0]- \c[10]Pixabay Content License
+
+
+++\c[10]Royalty-free \c[0]- Part of GDC2020
+
+
+++\c[9]MerchantShade, Garakuta, Jetrotal and
+
+
+++\c[9]smartsoundFX and VAMIFY \c[0]- \c[10]Royalty-free
+
+
+++\c[10]shutterstock Standard License
+
+
+++\c[9]Jean-Honoré Fragonard \c[0]- \c[10]Public Domain
+
+
+++\c[10]Pixabay Content License
+
+
+++For EasyRPG's license and its components, check
+++EasyRPGのライセンスおよびその構成については、
+
+
+##Engine Options corresponds to the menu in the book.
+##F1 corresponds to the key to access the Settings menu, so do not edit it.
+##License is the term used in the Settings menu and is not translatable for now, so do not edit it.
+++Engine Options (F1) -> License
+++エンジン設定 (F1) -> License をご確認ください
+
+
+@@Others
+@@その他
+
+
+@@Special Thanks
+@@スペシャルサンクス
+
+
+++RPG Maker 2000 and 2003 Staff
+++RPGツクール2000や2003のスタッフ
+
+
+++YNOproject Staff
+++YNOprojectのスタッフ
+
+
+++YNOproject Badge Artists
+++YNOprojectのバッジ作者
+
+
+++YNOproject Emoji Artists
+++YNOprojectの絵文字作者
+
+
+++Yume Wiki Contributors
+++Yume Wiki編集者
+
+
+++Japanese Collective Unconscious Wiki Contributors
+++Collective Unconsciousを楽しむWikiの貢献者
+
+
+++Yume Nikki Fangame Community
+++ゆめにっきファンゲームのコミュニティ
+
+
+++THANKS FOR Kikiyama
+++そして、ききやま氏へ感謝を込めて
+

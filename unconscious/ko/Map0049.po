@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 37, Pos (1,0)
+msgid "error cause you shouldnt see this"
+msgstr "이것이 보인다면 오류입니다."
+
+#. ID 1280, Page 1, Line 1, Pos (4,2)
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"SgN: \\T[111]\n"
+"SgP: \\V[249] V17: \\V[17]"
+msgstr ""
+

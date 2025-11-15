@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+# Numéro tuile (Majuscule + Nombre) : \V[4]
+# Couche tuile (Majuscule + Direction) : \V[6]
+# ID tuile : \V[5]
+# ID image : \v[3]
+#. ID 3, Page 1, Line 9, Pos (0,2)
+#. Show String Picture
+#. ID 3, Page 1, Line 10, Pos (0,2)
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"SRC: \\V[4]\n"
+"LYR: \\V[6]\n"
+"TID: \\V[5]\n"
+"PID: \\v[3]"
+msgstr ""
+"VAR : \\V[4]\n"
+"COT : \\V[6]\n"
+"IDT : \\V[5]\n"
+"IDI : \\v[3]"
