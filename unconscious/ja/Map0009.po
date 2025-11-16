@@ -10,9 +10,20 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4\n"
+"X-Generator: Poedit 3.8\n"
 
-#. ID 27, Page 1, Line 5, Pos (4,6)
+#. ID 9, Page 1, Line 88, Pos (3,1)
+#. ID 9, Page 1, Line 92, Pos (3,1)
+msgid "\\>Input Book Cover ID:"
+msgstr "\\>ブックカバーIDを入力してください:"
+
+#. ID 10, Page 1, Line 103, Pos (4,1)
+#. ID 10, Page 1, Line 108, Pos (4,1)
+#. ID 10, Page 1, Line 112, Pos (4,1)
+msgid "\\>Input Menu Theme ID:"
+msgstr "\\>メニュータイプIDを入力してください:"
+
+#. ID 27, Page 1, Line 9, Pos (4,6)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "Font Color Sample: \\c[0]$fNormal \\c[1]$gStrong \\c[3]$hMuted\n"
@@ -21,7 +32,7 @@ msgstr ""
 "文字色サンプル:\\c[0]$f通常\\c[1]$g強調 \\c[3]$h選択不可\n"
 "\\c[0]このメニュータイプにしますか？"
 
-#. ID 27, Page 1, Line 7, Pos (4,6)
+#. ID 27, Page 1, Line 11, Pos (4,6)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "OK\n"
@@ -37,3 +48,21 @@ msgid ""
 msgstr ""
 "\\c[1]古いバージョンのセーブデータです。\n"
 "\\c[0]\\v[0138].\\v[0139].\\v[0140]から更新中です。"
+
+#. ID 43, Page 4, Line 15, Pos (5,11)
+#. Show String Picture
+msgctxt "strpic"
+msgid "\\c[2]\\t[3]"
+msgstr ""
+
+#. ID 43, Page 4, Line 20, Pos (5,11)
+#. Show String Picture
+msgctxt "strpic"
+msgid "\\c[1]\\t[3]"
+msgstr ""
+
+#. ID 43, Page 4, Line 32, Pos (5,11)
+#. Show String Picture
+msgctxt "strpic"
+msgid "\\t[3]"
+msgstr ""

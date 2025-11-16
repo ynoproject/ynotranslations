@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. ID 4, Page 1, Line 1, Pos (35,27)
 msgid "sniperbob minigame1"
@@ -28,8 +28,8 @@ msgstr ""
 #. ID 6, Page 2, Line 4, Pos (21,1)
 #. ID 13, Page 2, Line 3, Pos (19,3)
 #. ID 14, Page 2, Line 4, Pos (21,3)
+#. ID 16, Page 2, Line 3, Pos (19,5)
 #. ID 85, Page 2, Line 3, Pos (23,3)
-#. ID 93, Page 2, Line 3, Pos (19,5)
 #. ID 95, Page 2, Line 4, Pos (21,5)
 #. ID 100, Page 2, Line 2, Pos (23,5)
 #. ID 111, Page 2, Line 3, Pos (19,7)
@@ -71,6 +71,7 @@ msgstr "何らかのロックを解除するイベントのアイコン。"
 #. ID 105, Page 2, Line 3, Pos (29,5)
 #. ID 108, Page 2, Line 2, Pos (31,5)
 #. ID 110, Page 2, Line 3, Pos (33,5)
+#. ID 114, Page 2, Line 2, Pos (25,7)
 #. ID 115, Page 2, Line 3, Pos (27,7)
 #. ID 116, Page 2, Line 3, Pos (29,7)
 #. ID 117, Page 2, Line 3, Pos (31,7)
@@ -157,28 +158,42 @@ msgstr ""
 "左方向に動くと左上に移動し、下方向に動くと右下に\n"
 "移動します。"
 
-#. ID 19, Page 1, Line 10, Pos (19,30)
-#. ID 19, Page 1, Line 15, Pos (19,30)
-#. ID 20, Page 1, Line 10, Pos (21,30)
-#. ID 20, Page 1, Line 15, Pos (21,30)
-#. ID 21, Page 1, Line 10, Pos (23,30)
-#. ID 21, Page 1, Line 15, Pos (23,30)
-#. ID 22, Page 1, Line 10, Pos (25,30)
-#. ID 22, Page 1, Line 15, Pos (25,30)
-#. ID 23, Page 1, Line 10, Pos (27,30)
-#. ID 23, Page 1, Line 15, Pos (27,30)
-#. ID 24, Page 1, Line 10, Pos (29,30)
-#. ID 24, Page 1, Line 15, Pos (29,30)
-#. ID 35, Page 1, Line 10, Pos (19,32)
-#. ID 35, Page 1, Line 15, Pos (19,32)
-#. ID 36, Page 1, Line 10, Pos (21,32)
-#. ID 36, Page 1, Line 15, Pos (21,32)
-#. ID 37, Page 1, Line 10, Pos (23,32)
-#. ID 37, Page 1, Line 15, Pos (23,32)
-#. ID 83, Page 1, Line 10, Pos (31,30)
-#. ID 83, Page 1, Line 15, Pos (31,30)
-#. ID 84, Page 1, Line 10, Pos (33,30)
-#. ID 84, Page 1, Line 15, Pos (33,30)
+#. ID 16, Page 2, Line 1, Pos (19,5)
+msgid ""
+"Icon for stairs, or other objects, that move the\n"
+"player down and left when moving left."
+msgstr ""
+"階段やその他のオブジェクトのアイコン。\n"
+"左方向に動くと、左下に移動します。"
+
+#. ID 19, Page 1, Line 11, Pos (19,30)
+#. ID 19, Page 1, Line 16, Pos (19,30)
+#. ID 20, Page 1, Line 11, Pos (21,30)
+#. ID 20, Page 1, Line 16, Pos (21,30)
+#. ID 21, Page 1, Line 11, Pos (23,30)
+#. ID 21, Page 1, Line 16, Pos (23,30)
+#. ID 22, Page 1, Line 11, Pos (25,30)
+#. ID 22, Page 1, Line 16, Pos (25,30)
+#. ID 23, Page 1, Line 11, Pos (27,30)
+#. ID 23, Page 1, Line 16, Pos (27,30)
+#. ID 24, Page 1, Line 11, Pos (29,30)
+#. ID 24, Page 1, Line 16, Pos (29,30)
+#. ID 35, Page 1, Line 11, Pos (19,32)
+#. ID 35, Page 1, Line 16, Pos (19,32)
+#. ID 36, Page 1, Line 11, Pos (21,32)
+#. ID 36, Page 1, Line 16, Pos (21,32)
+#. ID 37, Page 1, Line 11, Pos (23,32)
+#. ID 37, Page 1, Line 16, Pos (23,32)
+#. ID 38, Page 1, Line 11, Pos (25,32)
+#. ID 38, Page 1, Line 16, Pos (25,32)
+#. ID 39, Page 1, Line 11, Pos (27,32)
+#. ID 39, Page 1, Line 16, Pos (27,32)
+#. ID 40, Page 1, Line 11, Pos (29,32)
+#. ID 40, Page 1, Line 16, Pos (29,32)
+#. ID 83, Page 1, Line 11, Pos (31,30)
+#. ID 83, Page 1, Line 16, Pos (31,30)
+#. ID 84, Page 1, Line 11, Pos (33,30)
+#. ID 84, Page 1, Line 16, Pos (33,30)
 msgid "Removed Eidolon"
 msgstr "エイドロンを廃棄"
 
@@ -190,9 +205,6 @@ msgstr "エイドロンを廃棄"
 #. ID 32, Page 1, Line 1, Pos (29,38)
 #. ID 33, Page 1, Line 1, Pos (31,38)
 #. ID 34, Page 1, Line 1, Pos (33,38)
-#. ID 38, Page 1, Line 1, Pos (25,32)
-#. ID 39, Page 1, Line 1, Pos (27,32)
-#. ID 40, Page 1, Line 1, Pos (29,32)
 #. ID 41, Page 1, Line 1, Pos (31,32)
 #. ID 42, Page 1, Line 1, Pos (33,32)
 #. ID 43, Page 1, Line 1, Pos (19,34)
@@ -355,11 +367,11 @@ msgstr ""
 "殺傷可能なNPC(xN)\n"
 "ローカル変数1で判定(現在 N=5)"
 
-#. ID 78, Page 1, Line 27, Pos (25,28)
+#. ID 78, Page 1, Line 28, Pos (25,28)
 msgid "Acquired all Eidola."
 msgstr "全てのエイドラを入手。"
 
-#. ID 79, Page 1, Line 24, Pos (27,28)
+#. ID 79, Page 1, Line 25, Pos (27,28)
 msgid "Removed all Eidola."
 msgstr "全てのエイドラを廃棄。"
 
@@ -375,12 +387,12 @@ msgstr ""
 "右側は実用的なイベント \n"
 "下はエイドラ"
 
-#. ID 81, Page 1, Line 1, Pos (33,25)
+#. ID 81, Page 1, Line 11, Pos (33,25)
 #. Contains choice at line 2 (3 options)
 msgid "Unlock menu theme"
 msgstr "メニュータイプをロック解除"
 
-#. ID 81, Page 1, Line 3, Pos (33,25)
+#. ID 81, Page 1, Line 13, Pos (33,25)
 #. Choice (3 options, embedded in a message)
 #. ID 234, Page 1, Line 3, Pos (35,25)
 #. Choice (3 options, embedded in a message)
@@ -393,7 +405,7 @@ msgstr ""
 "ロック\n"
 "戻る"
 
-#. ID 81, Page 1, Line 5, Pos (33,25)
+#. ID 81, Page 1, Line 15, Pos (33,25)
 #. Choice (2 options)
 msgid ""
 "Unlock one\n"
@@ -402,12 +414,12 @@ msgstr ""
 "一つロック解除\n"
 "全てロック解除"
 
-#. ID 81, Page 1, Line 9, Pos (33,25)
+#. ID 81, Page 1, Line 19, Pos (33,25)
 #. ID 234, Page 1, Line 10, Pos (35,25)
 msgid "Unlocked automatically!"
-msgstr "自動的にロック解除されました！"
+msgstr "最初からロック解除済みです！"
 
-#. ID 81, Page 1, Line 39, Pos (33,25)
+#. ID 81, Page 1, Line 57, Pos (33,25)
 #. Choice (2 options)
 msgid ""
 "Lock one\n"
@@ -415,6 +427,40 @@ msgid ""
 msgstr ""
 "一つロック\n"
 "全てロック"
+
+#. ID 81, Page 1, Line 73, Pos (33,25)
+msgid ""
+"Menu Theme Count could not be retrieved.\n"
+"Either fix the code of the INIT_CONSTANTS_CALL\n"
+"for the retrieving part, or use the book\n"
+"to initialise it."
+msgstr ""
+"メニュータイプの数を取得できませんでした。\n"
+"INIT_CONSTANTS_CALLの取得処理部分のコードを\n"
+"修正するか、本を使って初期化してください。"
+
+#. ID 81, Page 1, Line 77, Pos (33,25)
+msgid "Manually input the Menu Theme Count:"
+msgstr "メニュータイプの数を手動で入力してください:"
+
+#. ID 81, Page 1, Line 88, Pos (33,25)
+#. ID 234, Page 1, Line 71, Pos (35,25)
+msgid "Cannot be locked!"
+msgstr "ロックできません！"
+
+#. ID 81, Page 1, Line 100, Pos (33,25)
+msgid "Invalid theme!"
+msgstr "無効なメニュータイプです！"
+
+#. ID 81, Page 1, Line 302, Pos (33,25)
+msgid ""
+"This theme data is missing from this event, and\n"
+"cannot be reset this way. Please edit this event\n"
+"to add its data."
+msgstr ""
+"このメニュータイプのデータはこのイベントに存在せず、\n"
+"この方法ではリセットできません。\n"
+"イベントを編集してデータを追加してください。"
 
 #. ID 82, Page 1, Line 1, Pos (28,24)
 msgid "Shortcut for dev worku n2!"
@@ -464,14 +510,6 @@ msgid ""
 msgstr ""
 "実行されるイベントの流れを示すアイコン、\n"
 "もしくは右に移動するイベントのアイコン。"
-
-#. ID 93, Page 2, Line 1, Pos (19,5)
-msgid ""
-"Icon for stairs, or other objects, that move the\n"
-"player down and left when moving left."
-msgstr ""
-"階段やその他のオブジェクトのアイコン。\n"
-"左方向に動くと、左下に移動します。"
 
 #. ID 95, Page 2, Line 1, Pos (21,5)
 msgid ""
@@ -549,15 +587,8 @@ msgid "Icon for the entry points of ladders."
 msgstr "梯子の始点のアイコン。"
 
 #. ID 114, Page 2, Line 1, Pos (25,7)
-#. ID 124, Page 2, Line 1, Pos (29,9)
-#. ID 126, Page 2, Line 1, Pos (33,9)
-#. ID 132, Page 2, Line 1, Pos (29,11)
-#. ID 134, Page 2, Line 1, Pos (33,11)
-#. ID 140, Page 2, Line 1, Pos (29,13)
-#. ID 142, Page 2, Line 1, Pos (33,13)
-#. ID 150, Page 2, Line 1, Pos (33,15)
-msgid "Unused."
-msgstr "未使用。"
+msgid "Icon for fishing spots."
+msgstr "漁獲スポットのアイコン。"
 
 #. ID 115, Page 2, Line 1, Pos (27,7)
 msgid ""
@@ -620,6 +651,16 @@ msgstr ""
 #. ID 123, Page 2, Line 1, Pos (27,9)
 msgid "Icon for events that only contain comments."
 msgstr "注釈のみを含むイベントのアイコン。"
+
+#. ID 124, Page 2, Line 1, Pos (29,9)
+#. ID 126, Page 2, Line 1, Pos (33,9)
+#. ID 132, Page 2, Line 1, Pos (29,11)
+#. ID 134, Page 2, Line 1, Pos (33,11)
+#. ID 140, Page 2, Line 1, Pos (29,13)
+#. ID 142, Page 2, Line 1, Pos (33,13)
+#. ID 150, Page 2, Line 1, Pos (33,15)
+msgid "Unused."
+msgstr "未使用。"
 
 #. ID 125, Page 2, Line 1, Pos (31,9)
 msgid "Icon for events that grant the player an Eidolon."
@@ -788,7 +829,7 @@ msgstr ""
 
 #. ID 233, Page 1, Line 17, Pos (20,24)
 msgid "Unlocked all VM items."
-msgstr "自販機の商品を全てロック解除しました"
+msgstr "自販機の商品を全てロック解除しました。"
 
 #. ID 234, Page 1, Line 1, Pos (35,25)
 #. Contains choice at line 2 (3 options)
@@ -806,7 +847,7 @@ msgstr ""
 "マップの容貌をロック解除\n"
 "全てロック解除"
 
-#. ID 234, Page 1, Line 60, Pos (35,25)
+#. ID 234, Page 1, Line 66, Pos (35,25)
 #. Choice (3 options)
 msgid ""
 "Lock one (use unlock switch ID)\n"
@@ -816,10 +857,6 @@ msgstr ""
 "一つロック(ロック解除切り替えIDを使用)\n"
 "マップの容貌をロック\n"
 "全てロック"
-
-#. ID 234, Page 1, Line 65, Pos (35,25)
-msgid "Cannot be locked!"
-msgstr "ロックできません！"
 
 #. ID 235, Page 2, Line 1, Pos (37,21)
 #. Contains choice at line 2 (2 options)
@@ -844,13 +881,115 @@ msgstr ""
 "装備解除する\n"
 "キャンセル"
 
-#~ msgid ""
-#~ "This should remove all the eidola that you have\n"
-#~ "obtained, but it doesn't!\n"
-#~ "\n"
-#~ "Talk with each eidola to remove them manually..."
-#~ msgstr ""
-#~ "これで入手したすべてのエイドラが\n"
-#~ "廃棄されるはずだが、そうならない！\n"
-#~ "\n"
-#~ "各エイドラと会話して、手動で廃棄してね..."
+#. ID 237, Page 1, Line 1, Pos (3,3)
+msgid ""
+"Open this event in the editor to consult the list\n"
+"of variables and switches that can be used in the\n"
+"Debug Room."
+msgstr ""
+"このイベントをエディターで開き、デバッグルームで\n"
+"使用できる変数とスイッチの一覧を確認してください。"
+
+#. ID 238, Page 1, Line 1, Pos (39,23)
+#. Choice (3 options)
+msgid ""
+"\\>Add Map, Record and VM to party\n"
+"\\>Remove Map, Record and VM to party\n"
+"\\>Cancel"
+msgstr ""
+"\\>マップ、記録、自販機をパーティに加える\n"
+"\\>マップ、記録、自販機をパーティから外す\n"
+"\\>キャンセル"
+
+#. ID 238, Page 1, Line 16, Pos (39,23)
+msgid ""
+"\\>Open your menu to see the changes.\n"
+"\\>Select Actions on the chosen member to see the\n"
+"\\>skills they have unlocked."
+msgstr ""
+"\\>メニューを開いて変更を確認してください。\n"
+"\\>選択したメンバーで「こうどう」を選ぶと、\n"
+"\\>解除された特殊技能を見ることができます。"
+
+#. ID 239, Page 1, Line 24, Pos (37,23)
+#. Choice (3 options)
+msgid ""
+"\\>Show Book Covers\n"
+"\\>Show Book Covers (ENG + translation)\n"
+"\\>Cancel"
+msgstr ""
+"\\>ブックカバーを表示\n"
+"\\>ブックカバーを表示(英語+翻訳)\n"
+"\\>キャンセル"
+
+#. ID 239, Page 1, Line 31, Pos (37,23)
+msgid ""
+"\\>The text at the top of the screen will be\n"
+"\\>in English, while the text at the bottom of the\n"
+"\\>screen will be displayed in the current language\n"
+"\\>of the game."
+msgstr ""
+"\\>画面上部のテキストは英語、\n"
+"\\>画面下部のテキストはゲームの現在の言語で\n"
+"\\>表示されます。"
+
+#. ID 239, Page 1, Line 35, Pos (37,23)
+msgid ""
+"\\>Since you are currently playing in English,\n"
+"\\>English will be displayed at the top of the\n"
+"\\>screen."
+msgstr ""
+"\\>現在日本語でプレイしているため、\n"
+"\\>画面下部には日本語が表示されます。"
+
+#. ID 239, Page 1, Line 56, Pos (37,23)
+msgid ""
+"\\>Book Cover Count could not be retrieved.\n"
+"\\>Either fix the code of the INIT_CONSTANTS_CALL\n"
+"\\>for the retrieving part, or use the book\n"
+"\\>to initialise it."
+msgstr ""
+"\\>ブックカバーの数を取得できませんでした。\n"
+"\\>INIT_CONSTANTS_CALLの取得処理部分のコードを\n"
+"\\>修正するか、本を使って初期化してください。"
+
+#. ID 239, Page 1, Line 60, Pos (37,23)
+msgid "\\>Manually input the Book Cover Count:"
+msgstr "\\>ブックカバーの数を手動で入力してください:"
+
+#. ID 239, Page 1, Line 69, Pos (37,23)
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"N°\\v[1]\n"
+"  $s\n"
+"$v  $t\n"
+"  $u\n"
+"Z    X"
+msgstr ""
+
+#. ID 239, Page 1, Line 147, Pos (37,23)
+msgid "\\>Enter Book Cover number:"
+msgstr "\\>ブックカバー番号を入力してください:"
+
+#. ID 241, Page 1, Line 26, Pos (39,21)
+msgid "\\>Input track ID:"
+msgstr "\\>曲IDを入力してください:"
+
+#. ID 241, Page 1, Line 28, Pos (39,21)
+msgid "\\>Input variant ID:"
+msgstr "\\>演出IDを入力してください:"
+
+#. ID 241, Page 1, Line 61, Pos (39,21)
+msgid "\\>Track not unlocked."
+msgstr "\\>曲のロックが解除されていません。"
+
+#. ID 241, Page 1, Line 74, Pos (39,21)
+msgid ""
+"\\>Variant not unlocked or invalid.\n"
+"\\>(BGM has to reload due to incorrectly\n"
+"\\>being changed to the next variant)"
+msgstr ""
+"\\>演出のロックが解除されていないか、無効です。\n"
+"\\>(BGMは、誤って次の演出のものに変更されて\n"
+"\\>しまったため、再生し直す必要があります)"

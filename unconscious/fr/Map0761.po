@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+#. ID 25, Page 1, Line 2, Pos (20,28)
+#. Choice (4 options)
+msgid ""
+"Music 1\n"
+"Music 2\n"
+"Music 3\n"
+"More"
+msgstr ""
+"Musique 1\n"
+"Musique 2\n"
+"Musique 3\n"
+"Plus"
+
+#. ID 25, Page 1, Line 13, Pos (20,28)
+#. Choice (4 options)
+msgid ""
+"Music 4\n"
+"Music 5\n"
+"Music 6\n"
+"More"
+msgstr ""
+"Musique 4\n"
+"Musique 5\n"
+"Musique 6\n"
+"Plus"
+
+#. ID 41, Page 1, Line 1, Pos (36,28)
+#. Choice (4 options)
+msgid ""
+"1\n"
+"2\n"
+"3\n"
+"more"
+msgstr ""
+"1\n"
+"2\n"
+"3\n"
+"plus"
+
+#. ID 41, Page 1, Line 12, Pos (36,28)
+#. Choice (4 options)
+msgid ""
+"4\n"
+"5\n"
+"6\n"
+"more"
+msgstr ""
+"4\n"
+"5\n"
+"6\n"
+"plus"
+
+#. ID 41, Page 1, Line 23, Pos (36,28)
+#. Choice (4 options)
+msgid ""
+"7\n"
+"8\n"
+"9\n"
+"more"
+msgstr ""
+"7\n"
+"8\n"
+"9\n"
+"plus"
+
+#. ID 42, Page 1, Line 1, Pos (38,31)
+#. Choice (4 options)
+msgid ""
+"Red\n"
+"Orange\n"
+"Yellow\n"
+"More"
+msgstr ""
+"Rouge\n"
+"Orange\n"
+"Jaune\n"
+"Plus"
+
+#. ID 42, Page 1, Line 33, Pos (38,31)
+#. Choice (4 options)
+msgid ""
+"Green\n"
+"Blue\n"
+"Indigo\n"
+"Violet"
+msgstr ""
+"Vert\n"
+"Bleu\n"
+"Indigo\n"
+"Violet"
+
+#. ID 71, Page 1, Line 1, Pos (28,40)
+#. Choice (2 options)
+msgid ""
+"debug overlay\n"
+"Cancel"
+msgstr ""
+"Surcouche de debug\n"
+"Annuler"
+
+#. ID 71, Page 2, Line 1, Pos (28,40)
+#. Choice (2 options)
+msgid ""
+"turn off debug overlay\n"
+"Cancel"
+msgstr ""
+"Désactiver la surcouche de debug\n"
+"Annuler"

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -35,7 +35,12 @@ msgstr "自販機状況"
 #. ID 1
 msgctxt "skills.name"
 msgid "Return"
-msgstr "へやにもどる"
+msgstr "もどる"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Return to your own realm."
+msgstr "あなた自身の領域にもどる。"
 
 #. ID 1
 msgctxt "skills.using_message1"
@@ -44,18 +49,23 @@ msgstr ""
 
 #. ID 2
 msgctxt "skills.name"
-msgid "0002"
-msgstr ""
+msgid "Instructions"
+msgstr "説明書"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Revisit the instructions."
+msgstr "もういちど説明書を見る。"
 
 #. ID 3
 msgctxt "skills.name"
-msgid "0003"
-msgstr ""
+msgid "Visibility Toggle"
+msgstr "表示切替"
 
 #. ID 4
 msgctxt "skills.name"
-msgid "0004"
-msgstr ""
+msgid "Debug Bar Toggle"
+msgstr "デバッグバー切替"
 
 #. ID 5
 msgctxt "skills.name"
@@ -10216,33 +10226,33 @@ msgstr "[テングタケ]"
 
 #. ID 33
 msgctxt "items.name"
-msgid "Effect 12"
-msgstr ""
+msgid "Train"
+msgstr "汽車"
 
 #. ID 34
 msgctxt "items.name"
-msgid "[Effect 12]"
-msgstr ""
+msgid "[Train]"
+msgstr "[汽車]"
 
 #. ID 35
 msgctxt "items.name"
-msgid "Effect 13"
-msgstr ""
+msgid "Nazar"
+msgstr "ナザール"
 
 #. ID 36
 msgctxt "items.name"
-msgid "[Effect 13]"
-msgstr ""
+msgid "[Nazar]"
+msgstr "[ナザール]"
 
 #. ID 37
 msgctxt "items.name"
-msgid "Effect 14"
-msgstr ""
+msgid "Selachii"
+msgstr "鮫類"
 
 #. ID 38
 msgctxt "items.name"
-msgid "[Effect 14]"
-msgstr ""
+msgid "[Selachii]"
+msgstr "[鮫類]"
 
 #. ID 39
 msgctxt "items.name"
@@ -10636,8 +10646,8 @@ msgid "Eidola"
 msgstr "エイドラ"
 
 msgctxt "terms.command_skill"
-msgid "Return"
-msgstr "もどる"
+msgid "Actions"
+msgstr "こうどう"
 
 msgctxt "terms.menu_equipment"
 msgid "Equipment"
@@ -10695,6 +10705,18 @@ msgctxt "terms.no"
 msgid "No"
 msgstr "いいえ"
 
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
 msgctxt "terms.easyrpg_status_scene_name"
 msgid "default_term"
 msgstr ""
@@ -10748,5 +10770,13 @@ msgid "default_term"
 msgstr ""
 
 msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""

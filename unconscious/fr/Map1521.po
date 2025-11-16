@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+#. ID 5, Page 1, Line 4, Pos (11,9)
+msgid ""
+"The debug menu does NOT work properly in HLA.\n"
+"It will be disabled when entering this world."
+msgstr ""
+"Le menu de debug ne fonctionne pas proprement\n"
+"dans HLA. Il sera désactivé en entrant dans ce monde."
+
+#. ID 29, Page 1, Line 950, Pos (8,2)
+msgid ""
+"Ingame debug menu tried opening outside of\n"
+"playtesting mode. Please report this error to the\n"
+"developers. @ \\v[34] (\\v[35], \\v[36])"
+msgstr ""
+"Le menu de debug du jeu a essayé d'être ouvert\n"
+"en dehors du mode de test. Veuillez signaler cette\n"
+"erreur aux développeurs. @ \\v[34] (\\v[35], \\v[36])"
+
+#. ID 29, Page 10, Line 2, Pos (8,2)
+#. Show String Picture
+msgctxt "strpic"
+msgid "\\v[1]"
+msgstr ""
+
+#. ID 32, Page 1, Line 11, Pos (0,5)
+msgid ""
+"Tried to access witblos' dev room outside of       \n"
+"playtesting mode. ...What in the world are you           \n"
+"doing?"
+msgstr ""
+"Z'avez tenté d'accéder à la salle de développeur\n"
+" de witblos en dehors du mode test. ... Qu'est-ce\n"
+"que tu fous ?"

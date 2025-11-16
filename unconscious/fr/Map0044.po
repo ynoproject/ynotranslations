@@ -1,14 +1,29 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: \n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.6\n"
+
+#. ID 112, Page 1, Line 1, Pos (5,4)
+#. Show String Picture
+msgctxt "strpic"
+msgid ""
+"SgN: \\T[111]\n"
+"ImX: \\V[10] ImY: \\V[11]\n"
+"SgP: \\V[249] V9: \\V[12]"
+msgstr ""
+"Musique : \\T[111]\n"
+"Imago X : \\V[10] Imago Y : \\V[11]\n"
+"Vitesse musique : \\V[249] Variable 9 : \\V[12]"
 
 #. ID 421, Page 1, Line 1, Pos (133,156)
 msgid "Ecotplasm effect :pleading_face:"
 msgstr "Effet Ecotplasme :pleading_face:"
-

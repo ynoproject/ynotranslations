@@ -125,6 +125,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 ### Translation
 * 0d1an - Russian translation of Mikan Muzou
 * aku - Library's books for the English translation of Yume 2kki
+* Anteol - Korean translation of Collective Unconscious
 * aosagi - Vietnamese translation of Mikan Muzou
 * Aya - Initial French translation of Yume 2kki
 * bathynomus - Brazilian Portuguese translation of Collective Unconscious
@@ -136,6 +137,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * CloudyThoughts - Esperanto translation of Yume Nikki
 * Cool Person#8939 (369071 2458) - Finnish translation of Yume Nikki
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
+* CuriousBoi - Swedish translation of Collective Unconscious
 * Eel - English translation of .flow
 * ElTipejoLoco - Spanish translations of Deep Dreams, Mikan Muzou
 * Eternal Dream Arabization team ( الحلم المتجدد للتعريب) - Help on the Arabic translation of Yume Nikki

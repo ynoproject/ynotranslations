@@ -35,7 +35,12 @@ msgstr ""
 #. ID 1
 msgctxt "skills.name"
 msgid "Return"
-msgstr "返回"
+msgstr "回归"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "Return to your own realm."
+msgstr "归返你的意识本源。"
 
 #. ID 1
 msgctxt "skills.using_message1"
@@ -44,17 +49,22 @@ msgstr ""
 
 #. ID 2
 msgctxt "skills.name"
-msgid "0002"
-msgstr ""
+msgid "Instructions"
+msgstr "游戏说明"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Revisit the instructions."
+msgstr "重温游戏说明。"
 
 #. ID 3
 msgctxt "skills.name"
-msgid "0003"
+msgid "Visibility Toggle"
 msgstr ""
 
 #. ID 4
 msgctxt "skills.name"
-msgid "0004"
+msgid "Debug Bar Toggle"
 msgstr ""
 
 #. ID 5
@@ -10216,33 +10226,33 @@ msgstr "[鹅膏菌]"
 
 #. ID 33
 msgctxt "items.name"
-msgid "Effect 12"
-msgstr ""
+msgid "Train"
+msgstr "火车"
 
 #. ID 34
 msgctxt "items.name"
-msgid "[Effect 12]"
-msgstr ""
+msgid "[Train]"
+msgstr "[火车]"
 
 #. ID 35
 msgctxt "items.name"
-msgid "Effect 13"
-msgstr ""
+msgid "Nazar"
+msgstr "邪眼"
 
 #. ID 36
 msgctxt "items.name"
-msgid "[Effect 13]"
-msgstr ""
+msgid "[Nazar]"
+msgstr "[邪眼]"
 
 #. ID 37
 msgctxt "items.name"
-msgid "Effect 14"
-msgstr ""
+msgid "Selachii"
+msgstr "鲨鱼"
 
 #. ID 38
 msgctxt "items.name"
-msgid "[Effect 14]"
-msgstr ""
+msgid "[Selachii]"
+msgstr "[鲨鱼]"
 
 #. ID 39
 msgctxt "items.name"
@@ -10636,8 +10646,8 @@ msgid "Eidola"
 msgstr "幻象"
 
 msgctxt "terms.command_skill"
-msgid "Return"
-msgstr "回归"
+msgid "Actions"
+msgstr "行动"
 
 msgctxt "terms.menu_equipment"
 msgid "Equipment"
@@ -10695,6 +10705,18 @@ msgctxt "terms.no"
 msgid "No"
 msgstr "否"
 
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
 msgctxt "terms.easyrpg_status_scene_name"
 msgid "default_term"
 msgstr ""
@@ -10748,5 +10770,13 @@ msgid "default_term"
 msgstr ""
 
 msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""

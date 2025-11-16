@@ -1,0 +1,619 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.7\n"
+
+#. ID 4, Line 20
+msgid ""
+"\n"
+"                   * Soulfire *"
+msgstr ""
+"\n"
+"                    * 영혼불꽃 *"
+
+#. ID 4, Line 58
+msgid ""
+"\n"
+"                     * Umbra *"
+msgstr ""
+"\n"
+"                     * 그림자 *"
+
+#. ID 4, Line 96
+msgid ""
+"\n"
+"                   * Rodentia *"
+msgstr ""
+"\n"
+"                      * 생쥐 *"
+
+#. ID 4, Line 134
+msgid ""
+"\n"
+"                    * Lumen *"
+msgstr ""
+"\n"
+"                      * 빛 *"
+
+#. ID 4, Line 172
+msgid ""
+"\n"
+"                    * Youth *"
+msgstr ""
+"\n"
+"                     * 어린이 *"
+
+#. ID 4, Line 210
+msgid ""
+"\n"
+"                   * Spectral *"
+msgstr ""
+"\n"
+"                      * 영체 *"
+
+#. ID 4, Line 248
+msgid ""
+"\n"
+"                    * Climate *"
+msgstr ""
+"\n"
+"                      * 기후 *"
+
+#. ID 4, Line 286
+msgid ""
+"\n"
+"                    * Kalimba *"
+msgstr ""
+"\n"
+"                     * 칼림바 *"
+
+#. ID 4, Line 324
+msgid ""
+"\n"
+"                    * Visage *"
+msgstr ""
+"\n"
+"                      * 용모 *"
+
+#. ID 4, Line 364
+msgid ""
+"\n"
+"                     * Imago *"
+msgstr ""
+"\n"
+"                      * 성충 *"
+
+#. ID 4, Line 402
+msgid ""
+"\n"
+"                    * Amanita *"
+msgstr ""
+"\n"
+"                   * 아만티아 *"
+
+#. ID 4, Line 440
+msgid ""
+"\n"
+"                     * Train *"
+msgstr ""
+"\n"
+"                      * 기차 *"
+
+#. ID 4, Line 484
+msgid ""
+"\n"
+"                     * Nazar *"
+msgstr ""
+"\n"
+"                     * 나자르 *"
+
+#. ID 4, Line 528
+msgid ""
+"\n"
+"                    * Selachii *"
+msgstr ""
+"\n"
+"                     * 셀라치 *"
+
+#. ID 21, Line 12
+#. ID 21, Line 15
+#. ID 21, Line 34
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 28, Line 12
+msgid ""
+"\n"
+"               * Menu theme: Office *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 사무실 *"
+
+#. ID 28, Line 37
+msgid ""
+"\n"
+"               * Menu theme: Sun *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 태양 *"
+
+#. ID 28, Line 64
+msgid ""
+"\n"
+"               * Menu theme: Dusk *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 황혼 *"
+
+#. ID 28, Line 89
+msgid ""
+"\n"
+"           * Menu theme: Vague Memory *"
+msgstr ""
+"\n"
+"             * 메뉴 테마: 아련한 기억 *"
+
+#. ID 28, Line 114
+msgid ""
+"\n"
+"              * Menu theme: Squids *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 오징어들 *"
+
+#. ID 28, Line 139
+msgid ""
+"\n"
+"              * Menu theme: Willow *"
+msgstr ""
+"\n"
+"               * 메뉴 테마: 버드나무 *"
+
+#. ID 28, Line 164
+msgid ""
+"\n"
+"           * Menu theme: Vibrant Blue *"
+msgstr ""
+"\n"
+"             * 메뉴 테마: 선명한 파란색 *"
+
+#. ID 28, Line 189
+msgid ""
+"\n"
+"          * Menu theme: Glitched Static *"
+msgstr ""
+"\n"
+"           * 메뉴 테마: 변화없는 결함 *"
+
+#. ID 28, Line 214
+msgid ""
+"\n"
+"             * Menu theme: Ammolites *"
+msgstr ""
+"\n"
+"             * 메뉴 테마: 암몰라이트 *"
+
+#. ID 28, Line 239
+msgid ""
+"\n"
+"            * Menu theme: Box Office *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 매표소 *"
+
+#. ID 28, Line 264
+msgid ""
+"\n"
+"                * Menu theme: Mural *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 벽화 *"
+
+#. ID 28, Line 289
+msgid ""
+"\n"
+"            * Menu theme: Neon Mural *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 네온 벽화 *"
+
+#. ID 28, Line 310
+msgid ""
+"\n"
+"             * Menu theme: Altered *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 개조 *"
+
+#. ID 28, Line 335
+msgid ""
+"\n"
+"              * Menu theme: Glowing *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 백열 *"
+
+#. ID 28, Line 360
+msgid ""
+"\n"
+"              * Menu theme: Sunset *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 일몰 *"
+
+#. ID 28, Line 385
+msgid ""
+"\n"
+"             * Menu theme: Celestial *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 천체 *"
+
+#. ID 28, Line 410
+msgid ""
+"\n"
+"               * Menu theme: Sweet *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 달콤 *"
+
+#. ID 28, Line 435
+msgid ""
+"\n"
+"          * Menu theme: Blueing Plastic *"
+msgstr ""
+"\n"
+"           * 메뉴 테마: 블루잉 플라스틱 *"
+
+#. ID 28, Line 460
+msgid ""
+"\n"
+"             * Menu theme: Voidbound *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 공허 *"
+
+#. ID 28, Line 485
+msgid ""
+"\n"
+"             * Menu theme: Handheld *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 휴대용 *"
+
+#. ID 28, Line 510
+msgid ""
+"\n"
+"             * Menu theme: Sidereal *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 항성 *"
+
+#. ID 28, Line 535
+msgid ""
+"\n"
+"             * Menu theme: Golfer *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 골프 선수 *"
+
+#. ID 28, Line 560
+msgid ""
+"\n"
+"              * Menu theme: Virtual *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 가상 *"
+
+#. ID 28, Line 585
+msgid ""
+"\n"
+"              * Menu theme: Orchid *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 난초 *"
+
+#. ID 28, Line 610
+msgid ""
+"\n"
+"            * Menu theme: Streetlight *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 가로등 *"
+
+#. ID 28, Line 635
+msgid ""
+"\n"
+"              * Menu theme: Basalt *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 현무암 *"
+
+#. ID 28, Line 660
+msgid ""
+"\n"
+"               * Menu theme: Metal *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 금속 *"
+
+#. ID 28, Line 685
+msgid ""
+"\n"
+"              * Menu theme: Charred *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 숯덩이 *"
+
+#. ID 28, Line 710
+msgid ""
+"\n"
+"             * Menu theme: Chromatic *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 색체 *"
+
+#. ID 28, Line 735
+msgid ""
+"\n"
+"             * Menu theme: Mossy Lab *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 이끼 *"
+
+#. ID 28, Line 760
+msgid ""
+"\n"
+"             * Menu theme: Crystal *"
+msgstr ""
+"\n"
+"               * 메뉴 테마: 크리스탈 *"
+
+#. ID 28, Line 785
+msgid ""
+"\n"
+"           * Menu theme: Metallic Moth *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 금속 나방 *"
+
+#. ID 28, Line 810
+msgid ""
+"\n"
+"             * Menu theme: Tooth Decay *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 충치 *"
+
+#. ID 28, Line 835
+msgid ""
+"\n"
+"           * Menu theme: Premium Roast *"
+msgstr ""
+"\n"
+"             * 메뉴 테마: 최고급 커피 *"
+
+#. ID 28, Line 860
+msgid ""
+"\n"
+"              * Menu theme: Aztec *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 아즈텍 *"
+
+#. ID 28, Line 885
+msgid ""
+"\n"
+"             * Menu theme: Gradient *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 구배 *"
+
+#. ID 28, Line 910
+msgid ""
+"\n"
+"             * Menu theme: Oracle *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 신탁 *"
+
+#. ID 28, Line 935
+msgid ""
+"\n"
+"             * Menu theme: Vacation *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 휴가 *"
+
+#. ID 28, Line 960
+msgid ""
+"\n"
+"             * Menu theme: Brass Moon *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 황동달 *"
+
+#. ID 28, Line 985
+msgid ""
+"\n"
+"        * Menu theme: Sleepy Mouse Polka *"
+msgstr ""
+"\n"
+"           * 메뉴 테마: 졸린 생쥐 폴카 *"
+
+#. ID 28, Line 1010
+msgid ""
+"\n"
+"             * Menu theme: Picnic A *"
+msgstr ""
+"\n"
+"               * 메뉴 테마: 소풍 A *"
+
+#. ID 28, Line 1035
+msgid ""
+"\n"
+"             * Menu theme: Picnic B *"
+msgstr ""
+"\n"
+"               * 메뉴 테마: 소풍 B *"
+
+#. ID 28, Line 1060
+msgid ""
+"\n"
+"           * Menu theme: Flame Pattern *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 불꽃 패턴 *"
+
+#. ID 28, Line 1085
+msgid ""
+"\n"
+"             * Menu theme: Butterfly *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 나비 *"
+
+#. ID 28, Line 1110
+msgid ""
+"\n"
+"        * Menu theme: Chromatic Apparition *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 색체 유령 *"
+
+#. ID 28, Line 1135
+msgid ""
+"\n"
+"           * Menu theme: Hyper Sigils *"
+msgstr ""
+"\n"
+"             * 메뉴 테마: 최고의 인장 *"
+
+#. ID 28, Line 1160
+msgid ""
+"\n"
+"            * Menu theme: Shambling *"
+msgstr ""
+"\n"
+"               * 메뉴 테마: 부스러기 *"
+
+#. ID 28, Line 1185
+msgid ""
+"\n"
+"              * Menu theme: Chess *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 체스 *"
+
+#. ID 28, Line 1210
+msgid ""
+"\n"
+"             * Menu theme: Ecstasy *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 도취 *"
+
+#. ID 28, Line 1235
+msgid ""
+"\n"
+"               * Menu theme: Green *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 초록색 *"
+
+#. ID 28, Line 1260
+msgid ""
+"\n"
+"               * Menu theme: Heart *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 심장 *"
+
+#. ID 28, Line 1285
+msgid ""
+"\n"
+"             * Menu theme: Bleeding *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 출혈 *"
+
+#. ID 28, Line 1310
+msgid ""
+"\n"
+"            * Menu theme: Precursor *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 도취 *"
+
+#. ID 28, Line 1335
+msgid ""
+"\n"
+"            * Menu theme: Suncarved *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 썬카브 *"
+
+#. ID 28, Line 1360
+msgid ""
+"\n"
+"             * Menu theme: Entrails *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 내장 *"
+
+#. ID 28, Line 1385
+msgid ""
+"\n"
+"              * Menu theme: Unicorn *"
+msgstr ""
+"\n"
+"                * 메뉴 테마: 유니콘 *"
+
+#. ID 28, Line 1410
+msgid ""
+"\n"
+"             * Menu theme: Tabitha *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 타비타 *"
+
+#. ID 28, Line 1435
+msgid ""
+"\n"
+"             * Menu theme: Vending *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 자판 *"
+
+#. ID 28, Line 1460
+msgid ""
+"\n"
+"              * Menu theme: Beloved *"
+msgstr ""
+"\n"
+"                 * 메뉴 테마: 사랑 *"
+
+#. ID 28, Line 1485
+msgid ""
+"\n"
+"          * Menu theme: Dudetastic Visera *"
+msgstr ""
+"\n"
+"          * 메뉴 테마: 듀드적인 내장 *"
+
+#. ID 28, Line 1510
+msgid ""
+"\n"
+"           * Menu theme: Tender Carnis *"
+msgstr ""
+"\n"
+"              * 메뉴 테마: 연한 고기 *"
