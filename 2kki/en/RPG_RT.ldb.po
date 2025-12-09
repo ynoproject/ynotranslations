@@ -9916,13 +9916,13 @@ msgstr "Become invisible"
 #. ID 29
 msgctxt "items.name"
 msgid "がくラン"
-msgstr "School Boy"
+msgstr "Gakuran"
 
 #. ID 29
 #. ID 70
 msgctxt "items.description"
 msgid "「がくラン」をきて マントをはおる"
-msgstr "Wear a school boy outfit with a cloak"
+msgstr "Wear a gakuran (schoolboy outfit) with a cloak"
 
 #. ID 30
 msgctxt "items.name"
@@ -10230,7 +10230,7 @@ msgstr " Invisible"
 #. ID 70
 msgctxt "items.name"
 msgid " がくラン"
-msgstr " School Boy"
+msgstr " Gakuran"
 
 #. ID 71
 msgctxt "items.name"
