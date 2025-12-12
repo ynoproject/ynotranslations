@@ -1,0 +1,229 @@
+##Each section is separated by 2 lines. A line starting by a ** is a subsection, a line starting by a ++ is an additional line used in the credits that can be translated, a line starting by a ## is a comment and is ignored.
+##If a line using an annotation is present in credits_names and present here too, the line after it in this file will be used rather than the line in the credits_names file as long as it is not empty (if empty, it will be ignored and the line in credits_names will be used). Use this feature to allow translations to have translated lines without having to constantly update their credits file.
+##If you edit this file, make sure to update translations using it as well.
+
+
+@@Collective Unconscious Staff
+@@Équipe de Collective Unconscious
+
+@@Core Managers
+@@Managers principaux
+
+@@Past Core Managers
+@@Anciens Managers Principaux
+
+@@Managers
+
+
+@@Past Managers
+@@Anciens Managers
+
+@@Core Developers
+@@Développeurs Principaux
+
+
+@@Past Core Developers
+@@Anciens Développeurs Principaux
+
+@@Development Assistance
+@@Assistance Développement
+
+@@Developers
+@@Développeurs
+
+@@Minnatsuki Design
+@@Design de Minnatsuki
+
+**Concept Art
+
+
+**Main Design
+**Design Principal
+
+
+**Core Sprites
+**Sprites Principaux
+
+@@Core Maps Design
+@@Design des Cartes Principales
+
+**Bedroom
+**Chambre
+
+++fin (concept art)
+
+
+++Led (spriting)
+**Led (sprites)
+
+
+**Nexus
+
+
+++Ayayaya (concept art)
+
+
+++maple (concept art)
+
+
+**Treehouse
+**Arbre
+
+
+++bWF5 (big vending machine)
+++bWF5 (distributeur automatique géant)
+
+++Led (concept art)
+
+
+**Book
+**Livre
+
+
+**Record Player
+**Tourne-Disque
+
+++maple (concept art/code improvements)
+++maple (concept art/améliorations du code)
+
+
+++rollaby (concept art)
+
+
+++Noahrav (coding/spriting)
+++Noahrav (code/sprites)
+
+@@Contributors
+@@Contributeurs
+
+**Music
+**Musiques
+
+**Other Assets
+**Autres Ressources
+
+@@Book Covers
+@@Couvertures
+
+@@Collective Unconscious Badges
+@@Badges de Collective Unconscious
+
+@@Translation
+@@Traduction
+
+**French
+**Français
+
+**Spanish
+**Espagnol
+
+**Italian
+**Italien
+
+**Brazilian Portuguese
+**Portugais du Brésil
+
+**Polish
+**Polonais
+
+**Finnish
+**Finlandais
+
+
+**Swedish
+**Suédois
+
+
+**Japanese
+**Japonais
+
+
+**Chinese
+**Chinois
+
+
+**Korean
+**Coréen
+
+@@YNOproject Developers
+@@Développeurs de YNOproject
+
+
+@@EasyRPG Developers
+@@Développeurs d'EasyRPG
+
+@@License
+@@Licence
+
+++\c[5]Actor2 \c[0]- \c[9]VictorSena and Garakuta \c[0]- \c[10]CC-BY 4.0
+++\c[5]Actor2 \c[0]- \c[9]VictorSena et Garakuta \c[0]- \c[10]CC-BY 4.0
+
+++\c[5]Animal \c[0]- \c[9]VictorSena and Garakuta \c[0]- \c[10]CC-BY 4.0
+++\c[5]Animal \c[0]- \c[9]VictorSena et Garakuta \c[0]- \c[10]CC-BY 4.0
+
+++\c[5]Censor Beep 4 \c[0]- \c[9]SoundJay \c[0]- \c[10]Royalty-free
+++\c[5]Censor Beep 4 \c[0]- \c[9]SoundJay \c[0]- \c[10]Libre de Droits
+
+++\c[9]Andrey_Popov \c[0]- \c[10]shutterstock Standard License
+++\c[9]Andrey_Popov \c[0]- \c[10]Licence Standard shutterstock
+
+++\c[9]JuliusH \c[0]- \c[10]Pixabay Content License
+++\c[9]JuliusH \c[0]- \c[10]Licence de Contenu Pixabay
+
+++\c[10]Royalty-free \c[0]- Part of GDC2020
+++\c[10]Libre de Droits \c[0]- Fait partie de GDC2020
+
+++\c[9]MerchantShade, Garakuta, Jetrotal and
+++\c[9]MerchantShade, Garakuta, Jetrotal et
+
+++\c[9]smartsoundFX and VAMIFY \c[0]- \c[10]Royalty-free
+++\c[9]smartsoundFX and VAMIFY \c[0]- \c[10]Libre de Droits
+
+++\c[10]shutterstock Standard License
+++\c[10]Licence Standard shutterstock
+
+++\c[9]Jean-Honoré Fragonard \c[0]- \c[10]Public Domain
+++\c[9]Jean-Honoré Fragonard \c[0]- \c[10]Domaine Public
+
+++\c[10]Pixabay Content License
+++\c[10]Licence de Contenu Pixabay
+
+++For EasyRPG's license and its components, check
+++Pour la licence d'EasyRPG et de ses ressources,
+
+++Engine Options (F1) -> License
+++Options du moteur de jeu (F1) -> License
+
+@@Others
+@@Autres
+
+++RPG Maker 2003 RTP
+++RTP de RPG Maker 2003
+
+@@Special Thanks
+@@Remerciements Spéciaux
+
+++RPG Maker 2000 and 2003 Staff
+++Équipe de RPG Maker 2000 et 2003
+
+++YNOproject Staff
+++Équipe de YNOproject
+
+++YNOproject Badge Artists
+++Artistes de Badges de YNOproject
+
+++YNOproject Emoji Artists
+++Artistes d'Émojis de YNOproject
+
+++Yume Wiki Contributors
+++Contributeurs de Yume Wiki
+
+++Japanese Collective Unconscious Wiki Contributors
+++Contributeurs du Wiki Japonais du Jeu
+
+++Yume Nikki Fangame Community
+++Communauté de Fangames de Yume Nikki
+
+++THANKS FOR Kikiyama
+++MERCI Kikiyama
+

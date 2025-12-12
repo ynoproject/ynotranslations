@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -20,17 +20,17 @@ msgstr ""
 #. ID 2
 msgctxt "actors.name"
 msgid "Map progress"
-msgstr "Progression des cartes"
+msgstr "Cartes"
 
 #. ID 3
 msgctxt "actors.name"
 msgid "Record misc."
-msgstr "Piste fourre-tout"
+msgstr "Pistes"
 
 #. ID 4
 msgctxt "actors.name"
 msgid "VM progress"
-msgstr "Progression des distrib'"
+msgstr "Distribs"
 
 #. ID 1
 msgctxt "skills.name"
@@ -42,10 +42,20 @@ msgctxt "skills.using_message1"
 msgid "‚ÌUŒ‚I"
 msgstr ""
 
+#. ID 1
+msgctxt "skills.description"
+msgid "Return to your own realm."
+msgstr "Retournez dans votre royaume."
+
 #. ID 2
 msgctxt "skills.name"
-msgid "0002"
+msgid "Instructions"
 msgstr ""
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Revisit the instructions."
+msgstr "Redécouvrez les instructions."
 
 #. ID 3
 msgctxt "skills.name"
@@ -10636,8 +10646,8 @@ msgid "Eidola"
 msgstr ""
 
 msgctxt "terms.command_skill"
-msgid "Return"
-msgstr "Retourner"
+msgid "Actions"
+msgstr ""
 
 msgctxt "terms.menu_equipment"
 msgid "Equipment"
@@ -10695,6 +10705,18 @@ msgctxt "terms.no"
 msgid "No"
 msgstr "Non"
 
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
 msgctxt "terms.easyrpg_status_scene_name"
 msgid "default_term"
 msgstr ""
@@ -10748,5 +10770,13 @@ msgid "default_term"
 msgstr ""
 
 msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""

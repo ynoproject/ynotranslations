@@ -10,95 +10,119 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
-#. ID 4, Line 19
+#. ID 4, Line 20
 msgid ""
 "\n"
 "                   * Soulfire *"
 msgstr ""
 "\n"
-"                   * 魂の火 *"
+"                    * 魂の火 *"
 
-#. ID 4, Line 48
+#. ID 4, Line 58
 msgid ""
 "\n"
 "                     * Umbra *"
 msgstr ""
 "\n"
-"                     * 陰 *"
+"                      * 陰 *"
 
-#. ID 4, Line 77
+#. ID 4, Line 96
 msgid ""
 "\n"
 "                   * Rodentia *"
 msgstr ""
 "\n"
-"                   * 齧歯類 *"
+"                    * 齧歯類 *"
 
-#. ID 4, Line 106
+#. ID 4, Line 134
 msgid ""
 "\n"
 "                    * Lumen *"
 msgstr ""
 "\n"
-"                    * 陽 *"
+"                      * 陽 *"
 
-#. ID 4, Line 135
+#. ID 4, Line 172
 msgid ""
 "\n"
 "                    * Youth *"
 msgstr ""
 "\n"
-"                    * 若者 *"
+"                     * 若者 *"
 
-#. ID 4, Line 164
+#. ID 4, Line 210
 msgid ""
 "\n"
 "                   * Spectral *"
 msgstr ""
 "\n"
-"                   * 霊体 *"
+"                     * 霊体 *"
 
-#. ID 4, Line 193
+#. ID 4, Line 248
 msgid ""
 "\n"
 "                    * Climate *"
 msgstr ""
 "\n"
-"                    * 気象 *"
+"                     * 気象 *"
 
-#. ID 4, Line 222
+#. ID 4, Line 286
 msgid ""
 "\n"
 "                    * Kalimba *"
 msgstr ""
 "\n"
-"                    * カリンバ *"
+"                   * カリンバ *"
 
-#. ID 4, Line 251
+#. ID 4, Line 324
 msgid ""
 "\n"
 "                    * Visage *"
 msgstr ""
 "\n"
-"                    * 容貌 *"
+"                     * 容貌 *"
 
-#. ID 4, Line 282
+#. ID 4, Line 364
 msgid ""
 "\n"
 "                     * Imago *"
 msgstr ""
 "\n"
-"                    * 鱗翅 *"
+"                     * 鱗翅 *"
 
-#. ID 4, Line 311
+#. ID 4, Line 402
 msgid ""
 "\n"
 "                    * Amanita *"
 msgstr ""
 "\n"
-"                   * テングタケ *"
+"                  * テングタケ *"
+
+#. ID 4, Line 440
+msgid ""
+"\n"
+"                     * Train *"
+msgstr ""
+"\n"
+"                     * 汽車 *"
+
+#. ID 4, Line 484
+msgid ""
+"\n"
+"                     * Nazar *"
+msgstr ""
+"\n"
+"                   * ナザール *"
+
+#. ID 4, Line 528
+msgid ""
+"\n"
+"                    * Selachii *"
+msgstr ""
+"\n"
+"                     * 鮫類 *"
 
 #. ID 21, Line 12
 #. ID 21, Line 15
@@ -106,7 +130,7 @@ msgstr ""
 msgid "\\$\\.\\.\\^"
 msgstr ""
 
-#. ID 28, Line 11
+#. ID 28, Line 12
 msgid ""
 "\n"
 "               * Menu theme: Office *"
@@ -114,7 +138,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: オフィス *"
 
-#. ID 28, Line 27
+#. ID 28, Line 37
 msgid ""
 "\n"
 "               * Menu theme: Sun *"
@@ -122,7 +146,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 太陽 *"
 
-#. ID 28, Line 45
+#. ID 28, Line 64
 msgid ""
 "\n"
 "               * Menu theme: Dusk *"
@@ -130,7 +154,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 夕暮 *"
 
-#. ID 28, Line 61
+#. ID 28, Line 89
 msgid ""
 "\n"
 "           * Menu theme: Vague Memory *"
@@ -138,7 +162,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: 朧気な記憶 *"
 
-#. ID 28, Line 77
+#. ID 28, Line 114
 msgid ""
 "\n"
 "              * Menu theme: Squids *"
@@ -146,7 +170,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: イカ *"
 
-#. ID 28, Line 93
+#. ID 28, Line 139
 msgid ""
 "\n"
 "              * Menu theme: Willow *"
@@ -154,7 +178,7 @@ msgstr ""
 "\n"
 "              * メニュータイプ: 柳 *"
 
-#. ID 28, Line 109
+#. ID 28, Line 164
 msgid ""
 "\n"
 "           * Menu theme: Vibrant Blue *"
@@ -162,7 +186,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: 鮮やかな青 *"
 
-#. ID 28, Line 125
+#. ID 28, Line 189
 msgid ""
 "\n"
 "          * Menu theme: Glitched Static *"
@@ -170,7 +194,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: 乱れた静寂 *"
 
-#. ID 28, Line 141
+#. ID 28, Line 214
 msgid ""
 "\n"
 "             * Menu theme: Ammolites *"
@@ -178,7 +202,7 @@ msgstr ""
 "\n"
 "         * メニュータイプ: アンモライト *"
 
-#. ID 28, Line 157
+#. ID 28, Line 239
 msgid ""
 "\n"
 "            * Menu theme: Box Office *"
@@ -186,7 +210,7 @@ msgstr ""
 "\n"
 "        * メニュータイプ: チケット売り場 *"
 
-#. ID 28, Line 173
+#. ID 28, Line 264
 msgid ""
 "\n"
 "                * Menu theme: Mural *"
@@ -194,7 +218,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 壁画 *"
 
-#. ID 28, Line 189
+#. ID 28, Line 289
 msgid ""
 "\n"
 "            * Menu theme: Neon Mural *"
@@ -202,7 +226,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: ネオン壁画 *"
 
-#. ID 28, Line 205
+#. ID 28, Line 310
 msgid ""
 "\n"
 "             * Menu theme: Altered *"
@@ -210,7 +234,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 変貌 *"
 
-#. ID 28, Line 221
+#. ID 28, Line 335
 msgid ""
 "\n"
 "              * Menu theme: Glowing *"
@@ -218,7 +242,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 発光 *"
 
-#. ID 28, Line 237
+#. ID 28, Line 360
 msgid ""
 "\n"
 "              * Menu theme: Sunset *"
@@ -226,7 +250,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 日没 *"
 
-#. ID 28, Line 253
+#. ID 28, Line 385
 msgid ""
 "\n"
 "             * Menu theme: Celestial *"
@@ -234,7 +258,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 天体 *"
 
-#. ID 28, Line 269
+#. ID 28, Line 410
 msgid ""
 "\n"
 "               * Menu theme: Sweet *"
@@ -242,7 +266,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: スイーツ *"
 
-#. ID 28, Line 285
+#. ID 28, Line 435
 msgid ""
 "\n"
 "          * Menu theme: Blueing Plastic *"
@@ -250,23 +274,23 @@ msgstr ""
 "\n"
 "      * メニュータイプ: 青染めプラスチック *"
 
-#. ID 28, Line 301
+#. ID 28, Line 460
 msgid ""
 "\n"
 "             * Menu theme: Voidbound *"
 msgstr ""
 "\n"
-"            * メニュータイプ: 空虚 *"
+"             * メニュータイプ: 空虚 *"
 
-#. ID 28, Line 317
+#. ID 28, Line 485
 msgid ""
 "\n"
 "             * Menu theme: Handheld *"
 msgstr ""
 "\n"
-"        * メニュータイプ: 携帯ゲーム機 *"
+"         * メニュータイプ: 携帯ゲーム機 *"
 
-#. ID 28, Line 333
+#. ID 28, Line 510
 msgid ""
 "\n"
 "             * Menu theme: Sidereal *"
@@ -274,7 +298,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 恒星 *"
 
-#. ID 28, Line 349
+#. ID 28, Line 535
 msgid ""
 "\n"
 "             * Menu theme: Golfer *"
@@ -282,7 +306,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: ゴルファー *"
 
-#. ID 28, Line 365
+#. ID 28, Line 560
 msgid ""
 "\n"
 "              * Menu theme: Virtual *"
@@ -290,7 +314,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: バーチャル *"
 
-#. ID 28, Line 381
+#. ID 28, Line 585
 msgid ""
 "\n"
 "              * Menu theme: Orchid *"
@@ -298,7 +322,7 @@ msgstr ""
 "\n"
 "              * メニュータイプ: 蘭 *"
 
-#. ID 28, Line 397
+#. ID 28, Line 610
 msgid ""
 "\n"
 "            * Menu theme: Streetlight *"
@@ -306,7 +330,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 街灯 *"
 
-#. ID 28, Line 413
+#. ID 28, Line 635
 msgid ""
 "\n"
 "              * Menu theme: Basalt *"
@@ -314,7 +338,7 @@ msgstr ""
 "\n"
 "            * メニュータイプ: 玄武岩 *"
 
-#. ID 28, Line 429
+#. ID 28, Line 660
 msgid ""
 "\n"
 "               * Menu theme: Metal *"
@@ -322,7 +346,7 @@ msgstr ""
 "\n"
 "            * メニュータイプ: メタル *"
 
-#. ID 28, Line 445
+#. ID 28, Line 685
 msgid ""
 "\n"
 "              * Menu theme: Charred *"
@@ -330,7 +354,7 @@ msgstr ""
 "\n"
 "            * メニュータイプ: 黒焦げ *"
 
-#. ID 28, Line 461
+#. ID 28, Line 710
 msgid ""
 "\n"
 "             * Menu theme: Chromatic *"
@@ -338,7 +362,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 色彩 *"
 
-#. ID 28, Line 477
+#. ID 28, Line 735
 msgid ""
 "\n"
 "             * Menu theme: Mossy Lab *"
@@ -346,7 +370,7 @@ msgstr ""
 "\n"
 "        * メニュータイプ: 苔生した実験室 *"
 
-#. ID 28, Line 493
+#. ID 28, Line 760
 msgid ""
 "\n"
 "             * Menu theme: Crystal *"
@@ -354,7 +378,7 @@ msgstr ""
 "\n"
 "          * メニュータイプ: クリスタル *"
 
-#. ID 28, Line 509
+#. ID 28, Line 785
 msgid ""
 "\n"
 "           * Menu theme: Metallic Moth *"
@@ -362,7 +386,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: 金属の蛾 *"
 
-#. ID 28, Line 525
+#. ID 28, Line 810
 msgid ""
 "\n"
 "             * Menu theme: Tooth Decay *"
@@ -370,7 +394,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 虫歯 *"
 
-#. ID 28, Line 541
+#. ID 28, Line 835
 msgid ""
 "\n"
 "           * Menu theme: Premium Roast *"
@@ -378,7 +402,7 @@ msgstr ""
 "\n"
 "      * メニュータイプ: プレミアムロースト *"
 
-#. ID 28, Line 557
+#. ID 28, Line 860
 msgid ""
 "\n"
 "              * Menu theme: Aztec *"
@@ -386,7 +410,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: アステカ *"
 
-#. ID 28, Line 573
+#. ID 28, Line 885
 msgid ""
 "\n"
 "             * Menu theme: Gradient *"
@@ -394,7 +418,7 @@ msgstr ""
 "\n"
 "        * メニュータイプ: グラデーション *"
 
-#. ID 28, Line 589
+#. ID 28, Line 910
 msgid ""
 "\n"
 "             * Menu theme: Oracle *"
@@ -402,7 +426,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 神託 *"
 
-#. ID 28, Line 605
+#. ID 28, Line 935
 msgid ""
 "\n"
 "             * Menu theme: Vacation *"
@@ -410,7 +434,7 @@ msgstr ""
 "\n"
 "             * メニュータイプ: 休暇 *"
 
-#. ID 28, Line 621
+#. ID 28, Line 960
 msgid ""
 "\n"
 "             * Menu theme: Brass Moon *"
@@ -418,31 +442,31 @@ msgstr ""
 "\n"
 "           * メニュータイプ: 真鍮の月 *"
 
-#. ID 28, Line 637
+#. ID 28, Line 985
 msgid ""
 "\n"
 "        * Menu theme: Sleepy Mouse Polka *"
 msgstr ""
 "\n"
-"    * メニュータイプ: 眠たいネズミのポルカ *"
+"     * メニュータイプ: 眠たいネズミのポルカ *"
 
-#. ID 28, Line 653
+#. ID 28, Line 1010
 msgid ""
 "\n"
 "             * Menu theme: Picnic A *"
 msgstr ""
 "\n"
-"         * メニュータイプ: ピクニックA *"
+"          * メニュータイプ: ピクニックA *"
 
-#. ID 28, Line 669
+#. ID 28, Line 1035
 msgid ""
 "\n"
 "             * Menu theme: Picnic B *"
 msgstr ""
 "\n"
-"         * メニュータイプ: ピクニックB *"
+"          * メニュータイプ: ピクニックB *"
 
-#. ID 28, Line 685
+#. ID 28, Line 1060
 msgid ""
 "\n"
 "           * Menu theme: Flame Pattern *"
@@ -450,7 +474,7 @@ msgstr ""
 "\n"
 "            * メニュータイプ: 炎模様 *"
 
-#. ID 28, Line 701
+#. ID 28, Line 1085
 msgid ""
 "\n"
 "             * Menu theme: Butterfly *"
@@ -458,7 +482,7 @@ msgstr ""
 "\n"
 "              * メニュータイプ: 蝶 *"
 
-#. ID 28, Line 717
+#. ID 28, Line 1110
 msgid ""
 "\n"
 "        * Menu theme: Chromatic Apparition *"
@@ -466,7 +490,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: 色彩の幻 *"
 
-#. ID 28, Line 733
+#. ID 28, Line 1135
 msgid ""
 "\n"
 "           * Menu theme: Hyper Sigils *"
@@ -474,7 +498,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: 超越紋章 *"
 
-#. ID 28, Line 749
+#. ID 28, Line 1160
 msgid ""
 "\n"
 "            * Menu theme: Shambling *"
@@ -482,7 +506,7 @@ msgstr ""
 "\n"
 "           * メニュータイプ: よろめき *"
 
-#. ID 28, Line 765
+#. ID 28, Line 1185
 msgid ""
 "\n"
 "              * Menu theme: Chess *"
@@ -490,10 +514,106 @@ msgstr ""
 "\n"
 "            * メニュータイプ: チェス *"
 
-#. ID 28, Line 781
+#. ID 28, Line 1210
 msgid ""
 "\n"
 "             * Menu theme: Ecstasy *"
 msgstr ""
 "\n"
 "             * メニュータイプ: 恍惚 *"
+
+#. ID 28, Line 1235
+msgid ""
+"\n"
+"               * Menu theme: Green *"
+msgstr ""
+"\n"
+"              * メニュータイプ: 緑 *"
+
+#. ID 28, Line 1260
+msgid ""
+"\n"
+"               * Menu theme: Heart *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 心臓 *"
+
+#. ID 28, Line 1285
+msgid ""
+"\n"
+"             * Menu theme: Bleeding *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 出血 *"
+
+#. ID 28, Line 1310
+msgid ""
+"\n"
+"            * Menu theme: Precursor *"
+msgstr ""
+"\n"
+"            * メニュータイプ: 前駆体 *"
+
+#. ID 28, Line 1335
+msgid ""
+"\n"
+"            * Menu theme: Suncarved *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 夕闇 *"
+
+#. ID 28, Line 1360
+msgid ""
+"\n"
+"             * Menu theme: Entrails *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 内臓 *"
+
+#. ID 28, Line 1385
+msgid ""
+"\n"
+"              * Menu theme: Unicorn *"
+msgstr ""
+"\n"
+"          * メニュータイプ: ユニコーン *"
+
+#. ID 28, Line 1410
+msgid ""
+"\n"
+"             * Menu theme: Tabitha *"
+msgstr ""
+"\n"
+"            * メニュータイプ: タビサ *"
+
+#. ID 28, Line 1435
+msgid ""
+"\n"
+"             * Menu theme: Vending *"
+msgstr ""
+"\n"
+"           * メニュータイプ: 自動販売 *"
+
+#. ID 28, Line 1460
+msgid ""
+"\n"
+"              * Menu theme: Beloved *"
+msgstr ""
+"\n"
+"             * メニュータイプ: 親愛 *"
+
+#. ID 28, Line 1485
+msgid ""
+"\n"
+"          * Menu theme: Dudetastic Visera *"
+msgstr ""
+"\n"
+"    * メニュータイプ: デュードスティックな臓 *"
+
+#. ID 28, Line 1510
+msgid ""
+"\n"
+"           * Menu theme: Tender Carnis *"
+msgstr ""
+"\n"
+"          * メニュータイプ: 柔らかな肉 *"

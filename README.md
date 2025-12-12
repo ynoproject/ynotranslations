@@ -123,9 +123,13 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 
 ## Credits
 ### Translation
+* 0d1an - Russian translation of Mikan Muzou
 * aku - Library's books for the English translation of Yume 2kki
+* Anteol - Korean translation of Collective Unconscious
+* aosagi - Vietnamese translation of Mikan Muzou
 * Aya - Initial French translation of Yume 2kki
 * bathynomus - Brazilian Portuguese translation of Collective Unconscious
+* BinRecycle - Korean translation of the Memory Game from Yume 2kki
 * Carbonara - French translations of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, Collective Unconscious, If, Unaccomplished; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
 * Catmat (貓毯) - Porting and maintenance of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * CDMilky - Romanian translation of Yume 2kki
@@ -133,6 +137,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * CloudyThoughts - Esperanto translation of Yume Nikki
 * Cool Person#8939 (369071 2458) - Finnish translation of Yume Nikki
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
+* CuriousBoi - Swedish translation of Collective Unconscious
 * Eel - English translation of .flow
 * ElTipejoLoco - Spanish translations of Deep Dreams, Mikan Muzou
 * Eternal Dream Arabization team ( الحلم المتجدد للتعريب) - Help on the Arabic translation of Yume Nikki
@@ -170,7 +175,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Niko (Нико) - Spanish translations of Answered Prayers, Muma|Rope, .flow; Spanish translation of Yume 2kki
 * nimiala - Toki Pona translations of Yume Nikki, Yume 2kki
 * Nulsdodage (Wavyup) - Korean translation of Yume 2kki, Someday, English translation of Mikan Muzou
-* Pats - Spanish translation of Yume Nikki
+* Pats - Spanish translation of Yume Nikki; Rework of the Spanish translation of .flow
 * Plush - Italian translations of .flow, Collective Unconscious
 * portal - Initial French translation of Yume 2kki
 * Proton - Finnish translation of Collective Unconscious
