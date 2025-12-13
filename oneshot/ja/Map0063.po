@@ -372,7 +372,7 @@ msgid ""
 "ancient language."
 msgstr ""
 "ああ。\\!\n"
-"古代の言語で言語で書かれてるみたいね。"
+"古代の言語で書かれてるみたいね。"
 
 #. ID 3, Page 4, Line 32, Pos (17,27)
 msgid ""
@@ -1202,3 +1202,4 @@ msgstr "6つの面がある"
 #. ID 20, Page 1, Line 4, Pos (29,29)
 msgid "Which face did you get?"
 msgstr "君はどの顔と遭遇した？"
+
