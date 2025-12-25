@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. ID 18, Line 28
 msgid "                   - Straw Hat -"
@@ -102,7 +102,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "The rooftop"
-msgstr ""
+msgstr "屋上"
 
 #. ID 36, Line 7
 #. ChangeHeroName (Actor 9)
@@ -144,7 +144,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Untitled"
-msgstr ""
+msgstr "無題"
 
 #. ID 36, Line 17
 #. ChangeHeroName (Actor 9)
@@ -156,7 +156,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Yin!"
-msgstr ""
+msgstr "いん！"
 
 #. ID 36, Line 22
 #. ChangeHeroName (Actor 9)
@@ -178,13 +178,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "stay peace"
-msgstr ""
+msgstr "平穏"
 
 #. ID 36, Line 28
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "darkness"
-msgstr ""
+msgstr "暗闇"
 
 #. ID 36, Line 32
 #. ChangeHeroName (Actor 9)
@@ -210,13 +210,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "midnight gate"
-msgstr ""
+msgstr "真夜中の門"
 
 #. ID 36, Line 38
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "deep sea"
-msgstr ""
+msgstr "深海"
 
 #. ID 36, Line 42
 #. ChangeHeroName (Actor 9)
@@ -230,19 +230,19 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "shipwrecks"
-msgstr ""
+msgstr "破綻"
 
 #. ID 36, Line 48
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "dream in dream"
-msgstr ""
+msgstr "夢中夢"
 
 #. ID 36, Line 53
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "lost in the game"
-msgstr ""
+msgstr "ゲームで迷走"
 
 #. ID 36, Line 57
 #. ChangeHeroName (Actor 9)
@@ -254,9 +254,11 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Dreaming in 8 bits"
-msgstr ""
+msgstr "8ビットの夢を見る"
 
 #. ID 36, Line 62
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 157
 #. ChangeHeroName (Actor 9)
 msgctxt "actors.name"
 msgid "oliver"
@@ -266,7 +268,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "the dark"
-msgstr ""
+msgstr "闇"
 
 #. ID 36, Line 67
 #. ChangeHeroName (Actor 9)
@@ -278,13 +280,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "The Shadow"
-msgstr ""
+msgstr "影"
 
 #. ID 36, Line 73
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Flower-bury"
-msgstr ""
+msgstr "花葬"
 
 #. ID 36, Line 77
 #. ChangeHeroName (Actor 9)
@@ -298,13 +300,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "False End"
-msgstr ""
+msgstr "偽物のエンド"
 
 #. ID 36, Line 83
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Lights On, Lights Off"
-msgstr ""
+msgstr "点けて、消して"
 
 #. ID 36, Line 87
 #. ChangeHeroName (Actor 9)
@@ -316,11 +318,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "fields"
-msgstr ""
+msgstr "平原"
 
 #. ID 36, Line 92
 #. ChangeHeroName (Actor 9)
 #. ID 36, Line 102
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 122
 #. ChangeHeroName (Actor 9)
 msgctxt "actors.name"
 msgid "OrangeGel"
@@ -330,9 +334,11 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Sunlit Greenery"
-msgstr ""
+msgstr "照らされた草木"
 
 #. ID 36, Line 97
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 137
 #. ChangeHeroName (Actor 9)
 msgctxt "actors.name"
 msgid "Alice"
@@ -342,13 +348,133 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "First Step"
-msgstr ""
+msgstr "最初の一歩"
 
 #. ID 36, Line 103
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "TmVlZCBzb21ldGhpbmc/"
 msgstr ""
+
+#. ID 36, Line 107
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 112
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 152
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "stvalenspine"
+msgstr ""
+
+#. ID 36, Line 108
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Block Buddies"
+msgstr "ブロックの仲間たち"
+
+#. ID 36, Line 113
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Fortune"
+msgstr "幸運"
+
+#. ID 36, Line 117
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "FasT"
+msgstr ""
+
+#. ID 36, Line 118
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Lost Girl, Lost World"
+msgstr "失われた少女、失われた場所"
+
+#. ID 36, Line 123
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Take Flight"
+msgstr "飛び立って"
+
+#. ID 36, Line 127
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 132
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "raspie.n"
+msgstr ""
+
+#. ID 36, Line 128
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "paint.net"
+msgstr ""
+
+#. ID 36, Line 133
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "My Bestie"
+msgstr "親友"
+
+#. ID 36, Line 138
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "GAME OVER"
+msgstr "ゲームオーバー"
+
+#. ID 36, Line 142
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Zahyou"
+msgstr ""
+
+#. ID 36, Line 143
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "By Your Side"
+msgstr "あなたのそばに"
+
+#. ID 36, Line 147
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 96
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 106
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 116
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "akalog"
+msgstr ""
+
+#. ID 36, Line 148
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Crimson Rose"
+msgstr "真紅の薔薇"
+
+#. ID 36, Line 153
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Lonely Angler"
+msgstr "孤独な釣り人"
+
+#. ID 36, Line 158
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "evening"
+msgstr "日暮れ"
+
+#. ID 36, Line 162
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "UFOwleri"
+msgstr ""
+
+#. ID 36, Line 163
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Good Morning/Night"
+msgstr "おはよう/おやすみ"
 
 #. ID 37, Line 4
 #. Contains choice at line 3 (2 options)
@@ -521,7 +647,7 @@ msgstr ""
 "昔を懐かしみ、思い出の味を噛みしめてみたくなる\n"
 "ときがある……"
 
-#. ID 42, Line 53
+#. ID 42, Line 52
 msgid ""
 "Is it sweet? Or savory?\n"
 "Or the flavor of some kind of\n"
@@ -949,16 +1075,6 @@ msgctxt "actors.name"
 msgid "ERROR"
 msgstr ""
 
-#. ID 72, Line 96
-#. ChangeHeroName (Actor 9)
-#. ID 72, Line 106
-#. ChangeHeroName (Actor 9)
-#. ID 72, Line 116
-#. ChangeHeroName (Actor 9)
-msgctxt "actors.name"
-msgid "akalog"
-msgstr ""
-
 #. ID 72, Line 97
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
@@ -1211,7 +1327,7 @@ msgctxt "actors.name"
 msgid "Flame"
 msgstr ""
 
-#. ID 101, Line 26
+#. ID 101, Line 30
 #. Choice (4 options)
 msgid ""
 "2004\n"
@@ -1224,11 +1340,11 @@ msgstr ""
 "2009\n"
 "次のページ"
 
-#. ID 101, Line 30
+#. ID 101, Line 34
 msgid "You're already here."
 msgstr "あなたはもうここにいる。"
 
-#. ID 101, Line 61
+#. ID 101, Line 65
 #. Choice (4 options)
 msgid ""
 "2010\n"
@@ -1241,7 +1357,7 @@ msgstr ""
 "2012\n"
 "次のページ"
 
-#. ID 101, Line 94
+#. ID 101, Line 98
 #. Choice (4 options)
 msgid ""
 "2013\n"
@@ -1254,7 +1370,7 @@ msgstr ""
 "2015\n"
 "次のページ"
 
-#. ID 101, Line 127
+#. ID 101, Line 131
 #. Choice (4 options)
 msgid ""
 "2016\n"
@@ -1267,7 +1383,7 @@ msgstr ""
 "2018\n"
 "次のページ"
 
-#. ID 101, Line 160
+#. ID 101, Line 164
 #. Choice (4 options)
 msgid ""
 "2019\n"
@@ -1280,17 +1396,26 @@ msgstr ""
 "2021\n"
 "次のページ"
 
-#. ID 101, Line 193
+#. ID 101, Line 197
 #. Choice (4 options)
 msgid ""
 "2022\n"
 "2023\n"
 "2024\n"
+"Next"
+msgstr ""
+"2022\n"
+"2023\n"
+"2024\n"
+"次のページ"
+
+#. ID 101, Line 230
+#. Choice (2 options)
+msgid ""
+"2025\n"
 "Back"
 msgstr ""
-"2022\n"
-"2023\n"
-"2024\n"
+"2025\n"
 "戻る"
 
 #. ID 197, Line 3
