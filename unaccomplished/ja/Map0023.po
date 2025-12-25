@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.5\n"
 
 #. ID 14, Page 1, Line 2, Pos (18,13)
 #. Choice (4 options)
@@ -25,7 +25,7 @@ msgstr ""
 "吹き出しエモート\n"
 "ゲームを閉じる"
 
-#. ID 14, Page 1, Line 26, Pos (18,13)
+#. ID 14, Page 1, Line 25, Pos (18,13)
 msgid ""
 "Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
 "Wuqi Effects: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
@@ -35,7 +35,7 @@ msgstr ""
 "Wuqiのエフェクト: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
 "特別なアイテム: \\c[1]\\V[16]\\c[0]/\\V[510]"
 
-#. ID 14, Page 1, Line 31, Pos (18,13)
+#. ID 14, Page 1, Line 30, Pos (18,13)
 msgid ""
 "Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
 "Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
@@ -43,7 +43,7 @@ msgstr ""
 "エフェクト: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
 "特別なアイテム: \\c[1]\\V[16]\\c[0]/\\V[510]"
 
-#. ID 14, Page 1, Line 35, Pos (18,13)
+#. ID 14, Page 1, Line 34, Pos (18,13)
 msgid ""
 "Wallpapers: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
 "Documents: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
@@ -55,7 +55,7 @@ msgstr ""
 "メニュースタイル: \\c[1]\\V[92]\\c[0]/\\V[507]\n"
 "プレイしてくれてありがとう :P"
 
-#. ID 14, Page 1, Line 46, Pos (18,13)
+#. ID 14, Page 1, Line 45, Pos (18,13)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
@@ -65,7 +65,7 @@ msgstr ""
 "選択します。\n"
 "現在は \\c[1][有効]\\c[0] になっています。"
 
-#. ID 14, Page 1, Line 48, Pos (18,13)
+#. ID 14, Page 1, Line 47, Pos (18,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Turn OFF\n"
@@ -74,12 +74,12 @@ msgstr ""
 "無効にする\n"
 "変更しない"
 
-#. ID 14, Page 1, Line 51, Pos (18,13)
-#. ID 14, Page 1, Line 63, Pos (18,13)
+#. ID 14, Page 1, Line 50, Pos (18,13)
+#. ID 14, Page 1, Line 62, Pos (18,13)
 msgid "Setup complete."
 msgstr "設定完了。"
 
-#. ID 14, Page 1, Line 58, Pos (18,13)
+#. ID 14, Page 1, Line 57, Pos (18,13)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
@@ -89,7 +89,7 @@ msgstr ""
 "選択します。\n"
 "現在は \\c[1][無効]\\c[0] になっています。"
 
-#. ID 14, Page 1, Line 60, Pos (18,13)
+#. ID 14, Page 1, Line 59, Pos (18,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "Turn ON\n"
@@ -98,14 +98,14 @@ msgstr ""
 "有効にする\n"
 "変更しない"
 
-#. ID 14, Page 1, Line 72, Pos (18,13)
+#. ID 14, Page 1, Line 71, Pos (18,13)
 #. Contains choice at line 2 (2 options)
 msgid "Are you sure?"
 msgstr "本当に？"
 
-#. ID 14, Page 1, Line 73, Pos (18,13)
+#. ID 14, Page 1, Line 72, Pos (18,13)
 #. Choice (2 options, embedded in a message)
-#. ID 23, Page 1, Line 14, Pos (0,0)
+#. ID 23, Page 1, Line 13, Pos (0,0)
 #. Choice (2 options, embedded in a message)
 #. ID 100, Page 1, Line 3, Pos (1,12)
 #. Choice (2 options, embedded in a message)
@@ -128,7 +128,7 @@ msgstr ""
 msgid "The recycle bin is empty. "
 msgstr "ゴミ箱は空です。"
 
-#. ID 23, Page 1, Line 13, Pos (0,0)
+#. ID 23, Page 1, Line 12, Pos (0,0)
 #. Contains choice at line 2 (2 options)
 msgid "Quit?"
 msgstr "やめる？"
@@ -174,225 +174,3 @@ msgstr ""
 "\\>【メニュースタイル】 No.3 PCゲーム\n"
 "\\>これを使う？"
 
-#. ID 115, Page 1, Line 18, Pos (5,2)
-#. Contains choice at line 2 (3 options)
-msgid "[\\c[1]DIY\\c[0] Fu (Chinese New Year Paper Cutting Design)]"
-msgstr "[\\c[1]DIY\\c[0] 福 (春節の切り絵デザイン)]"
-
-#. ID 115, Page 1, Line 19, Pos (5,2)
-#. Choice (3 options, embedded in a message)
-msgid ""
-"Use your design\n"
-"View other designs \n"
-"Help"
-msgstr ""
-"あなたのデザインを使う\n"
-"他のデザインを見る\n"
-"ヘルプ"
-
-#. ID 115, Page 1, Line 22, Pos (5,2)
-msgid ""
-"[Tip]\n"
-"If an error pop-up appears next, \n"
-"please check the contents of [Help]"
-msgstr ""
-"[ヒント]\n"
-"この後エラーのポップアップが表示された場合は、\n"
-"[ヘルプ]の内容を確認してください。"
-
-#. ID 115, Page 1, Line 38, Pos (5,2)
-#. Contains choice at line 2 (3 options)
-msgid "\\>[Fu Design] \\c[1]\\N[10]\\c[0]"
-msgstr "\\>[福デザイン] \\c[1]\\N[10]\\c[0]"
-
-#. ID 115, Page 1, Line 39, Pos (5,2)
-#. Choice (3 options, embedded in a message)
-msgid ""
-"Use this\n"
-"Back to random \n"
-"Change its name"
-msgstr ""
-"これを使う\n"
-"ランダムに戻す\n"
-"名前を変更する"
-
-#. ID 115, Page 1, Line 42, Pos (5,2)
-msgid ""
-"Setup complete.\n"
-"Enjoy your own design :P"
-msgstr ""
-"設定完了。\n"
-"あなただけのデザインを楽しもう:P"
-
-#. ID 115, Page 1, Line 48, Pos (5,2)
-msgid ""
-"Setup complete.\n"
-"(Set back to random mode)"
-msgstr ""
-"設定完了。\n"
-"(ランダムモードに戻しました)"
-
-#. ID 115, Page 1, Line 75, Pos (5,2)
-#. Choice (4 options)
-msgid ""
-"About Fu\n"
-"About Design\n"
-"About Image Processing / ERROR\n"
-"About Submissions"
-msgstr ""
-"福について\n"
-"デザインについて\n"
-"画像処理 / エラーについて\n"
-"投稿について"
-
-#. ID 115, Page 1, Line 77, Pos (5,2)
-msgid ""
-"Fu is a traditional paper-cutting art from China, \n"
-"which is usually pasted on walls or other places \n"
-"during the Chinese New Year."
-msgstr ""
-"福は中国の伝統的な切り絵で、旧正月に壁などに\n"
-"貼られるのが一般的です。"
-
-#. ID 115, Page 1, Line 80, Pos (5,2)
-msgid ""
-"For more about fu, read here: \n"
-"\\c[1][wikipedia.org/wiki/Fu_(character)]\\c[0]"
-msgstr ""
-"福について、詳しくはこちらをご覧ください: \n"
-"\\c[1][https://ja.wikipedia.org/wiki/倒福]\\c[0]"
-
-#. ID 115, Page 1, Line 85, Pos (5,2)
-msgid ""
-"In the <Fu Sample> folder, you will find an image \n"
-"called \\c[1][YM_E_FU_Sample.png]\\c[0]\n"
-"After DIYing your own fu, overwrite the file with \n"
-"same name in CharSet, then you can use it here."
-msgstr ""
-"<Fu Sample>フォルダの中に、\\c[1][YM_E_FU_Sample.png]\\c[0]\n"
-"という画像があります。\n"
-"福をDIYした後、CharSetに同名のファイルを上書き\n"
-"すれば、ゲーム内で使用することができます。"
-
-#. ID 115, Page 1, Line 89, Pos (5,2)
-msgid ""
-"If you can't put your design into the game, \n"
-"Send your design to the E-mail in the \\c[1][Read me]\\c[0]\n"
-"and put the comment \\c[1][Fix Picture]\\c[0]\n"
-"We will try to help you solve this problem."
-msgstr ""
-"もし、あなたのデザインをゲームに入れることができな\n"
-"い場合は、\\c[1][Read me]\\c[0]にあるEメールにあなたのデザイン\n"
-"を\\c[1][Fix Picture]\\c[0]とコメントを入れてお送りください。\n"
-"問題を解決するためのお手伝いをすることができます。"
-
-#. ID 115, Page 1, Line 96, Pos (5,2)
-#. Choice (4 options)
-msgid ""
-"Unsupported PNG image\n"
-"Can't open <Sample> file\n"
-"Wrong transparent color\n"
-"Other problems / Can't solve it"
-msgstr ""
-"Unsupported PNG image\n"
-"ファイル <Sample> は開けません\n"
-"透過色が間違っている\n"
-"その他の問題 / 解決できない"
-
-#. ID 115, Page 1, Line 98, Pos (5,2)
-msgid ""
-"This means that you provided an image with the \n"
-"wrong bit depth and color count. \n"
-"Make sure the sprite is \\c[1]8-bit\\c[0], \n"
-"with \\c[1]256 colors\\c[0], indexed."
-msgstr ""
-"これは、間違ったビット深度と色数の画像を\n"
-"読み込めなかったことを意味します。\n"
-"スプライトが\\c[1]8ビット\\c[0]インデックスカラー\n"
-"\\c[1](256色)\\c[0]であることを確認してください。"
-
-#. ID 115, Page 1, Line 104, Pos (5,2)
-msgid ""
-"Either the image being requested by the game\n"
-"is missing, or the image uses the wrong name. \n"
-"Make sure your design image in the CharSet folder,\n"
-"and the sprites name is \\c[1]YM_E_FU_Sample\\c[0]"
-msgstr ""
-"ゲームが要求する画像が見つからないか、画像の名前が\n"
-"間違っている可能性があります。\n"
-"デザイン画像がCharSetフォルダにあり、ファイル名が\n"
-"\\c[1]YM_E_FU_Sample\\c[0]になっていることを確認してください。"
-
-#. ID 115, Page 1, Line 110, Pos (5,2)
-msgid ""
-"Make sure that the color that would be used for \n"
-"the transparent color for your CharSet is the \n"
-"first in the indexed palette."
-msgstr ""
-"CharSetの透過色に使用する色が、画像のパレットの\n"
-"最初の色であることを確認してください。"
-
-#. ID 115, Page 1, Line 113, Pos (5,2)
-msgid ""
-"Keep in mind that it should be much different \n"
-"from the color used by the sprites themselves."
-msgstr ""
-"スプライト自身が使用する色とは異なる色でなければ\n"
-"ならないことに注意してください。"
-
-#. ID 115, Page 1, Line 117, Pos (5,2)
-msgid ""
-"If you find other problems or can't sove it,\n"
-"Send your design to the E-mail in the \\c[1][Read me]\\c[0]\n"
-"put comment \\c[1][Fix Picture]\\c[0] or \\c[1][Error help]\\c[0].\n"
-"We will try to help you solve it."
-msgstr ""
-"もし他の問題が見つかったり、解決できない場合は、\n"
-"\\c[1][Read me]\\c[0]に記載されているEメールに\n"
-"\\c[1][Fix Picture]\\c[0]または\\c[1][Error help]\\c[0]のコメント\n"
-"を入れてあなたのデザインをお送りください。"
-
-#. ID 115, Page 1, Line 126, Pos (5,2)
-msgid ""
-"If you want to submit your designs for the game,\n"
-"Send your design to the E-mail in [Read me] and \n"
-"comment \\c[1][Submit design]\\c[0]\n"
-"Or contribute via the Disocrd server."
-msgstr ""
-"ゲームにデザインを投稿したい場合は、\n"
-"\\c[1][Submit design]\\c[0]とコメントを入れて、[Read me]の\n"
-"Eメールにデザインをお送りください。\n"
-"もしくは、Disocrdサーバーから投稿してください。"
-
-#. ID 115, Page 1, Line 130, Pos (5,2)
-msgid ""
-"Then, tell me the \\c[1][Design name]\\c[0]\n"
-"and \\c[1][Author name]\\c[0], \n"
-"I'll try to add it in next update!"
-msgstr ""
-"そして、\\c[1][デザイン名]\\c[0]と\\c[1][作者名]\\c[0]を\n"
-"教えてくれれば、\n"
-"次回のアップデートで追加するかもしれません！"
-
-#. ID 115, Page 1, Line 133, Pos (5,2)
-msgid ""
-"Note: \n"
-"\\c[1][All submissions can only use given color palette]\\c[0]\n"
-"We will improve all submissions to make it fit \n"
-"the style of this game better."
-msgstr ""
-"注意：\n"
-"[すべての投稿作品は、指定された\n"
-"カラーパレットのみを使用できます］\n"
-"提出された作品は、このゲームのスタイルに合うように\n"
-"改善されます。"
-
-#. ID 115, Page 1, Line 137, Pos (5,2)
-msgid ""
-"If your submitted design can't display or \n"
-"doesn't display properly in the game,\n"
-"we'll fix it, don't worry."
-msgstr ""
-"提出いただいたデザインがゲーム内で正しく表示\n"
-"されない場合や表示に問題がある場合は、こちらで修正\n"
-"しますのでご安心ください。"
