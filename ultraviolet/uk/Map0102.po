@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 10, Page 1, Line 3, Pos (17,12)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>今までに入れたお金：\\V[0026]/1000\\\\\n"
+"\\>所持金：\\V[0040]\\\\"
+msgstr ""
+"\\>Грошей пожертвовано: \\V[0026]/1000￥\n"
+"\\>Грошей при собі: \\V[0040]￥"
+
+#. ID 10, Page 1, Line 5, Pos (17,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"100円玉を入れる\n"
+"何もしない"
+msgstr ""
+"Пожертвувати 100￥\n"
+"Нічого не робити"
+
+#. ID 10, Page 1, Line 12, Pos (17,12)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 10, Page 1, Line 21, Pos (17,12)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　  　　　  みこ\\<\\|\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　  　　　   Міко\\<\\|\\|\\^"
+
+#. ID 10, Page 1, Line 36, Pos (17,12)
+msgid "（お金が足りません…）"
+msgstr "(Не вистачає грошей...)"
+
+#. ID 16, Page 1, Line 1, Pos (17,20)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>睡眠時に設定される固定変数をいじるよ！\n"
+"\\>現在：\\V[0091]"
+msgstr ""
+"\\>Тут можна змінити змінну, що встановлюється для сна!\n"
+"\\>Зараз: \\V[0091]"
+
+#. ID 16, Page 1, Line 3, Pos (17,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Так\n"
+"\\>Ні"
+
+#. ID 16, Page 1, Line 7, Pos (17,20)
+#. Contains choice at line 2 (2 options)
+msgid "\\>現在：\\V[0091]"
+msgstr "\\>Зараз: \\V[0091]"
+
+#. ID 16, Page 1, Line 8, Pos (17,20)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>もっかい\n"
+"\\>いらん"
+msgstr ""
+"\\>Додати\n"
+"\\>Не треба"
