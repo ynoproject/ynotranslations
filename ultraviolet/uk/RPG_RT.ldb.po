@@ -1,0 +1,663 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "そめつき"
+msgstr "Сомецукі"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Лунатизм"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Ущипнути Щоку"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "起床します。"
+msgstr "Прокинутись."
+
+#. ID 1
+#. ID 2
+msgctxt "skills.using_message1"
+msgid "0"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.name"
+msgid "デバッグ"
+msgstr "Дебаг"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "デバッグ的なことをします。"
+msgstr "Виконати Дебаг."
+
+#. ID 1
+msgctxt "items.name"
+msgid "うさぎ"
+msgstr "  Кролик"
+
+#. ID 1
+msgctxt "items.description"
+msgid "ウサギになります。"
+msgstr "Стати кроликом."
+
+#. ID 2
+msgctxt "items.name"
+msgid "ネイルハンマー"
+msgstr "  Молоток"
+
+#. ID 2
+msgctxt "items.description"
+msgid "ネイルハンマーを持ちます。"
+msgstr "Озброїтись молотком."
+
+#. ID 3
+msgctxt "items.name"
+msgid "ケーキ"
+msgstr "  Торт"
+
+#. ID 3
+msgctxt "items.description"
+msgid "ケーキになります。"
+msgstr "Стати тортом."
+
+#. ID 4
+msgctxt "items.name"
+msgid "コートとマフラー"
+msgstr "  Пальто і Шарф"
+
+#. ID 4
+msgctxt "items.description"
+msgid "コートとマフラーを着けます。"
+msgstr "Вдягнути пальто і шарф."
+
+#. ID 5
+msgctxt "items.name"
+msgid "ステンドグラス"
+msgstr "  Вітраж"
+
+#. ID 5
+msgctxt "items.description"
+msgid "ステンドグラスになります。"
+msgstr "Бути зробленою з кольорового скла."
+
+#. ID 7
+msgctxt "items.name"
+msgid "まほうつかい"
+msgstr "  Чарівниця"
+
+#. ID 7
+msgctxt "items.description"
+msgid "魔法使いになります。"
+msgstr "Стати чарівницею."
+
+#. ID 8
+msgctxt "items.name"
+msgid "アメフラシ"
+msgstr "  Аплизія"
+
+#. ID 8
+msgctxt "items.description"
+msgid "アメフラシになります。"
+msgstr "Перетворитись на молюска з кролячими вушками."
+
+#. ID 9
+msgctxt "items.name"
+msgid "ショートヘアー"
+msgstr "  Коротке Волосся"
+
+#. ID 9
+msgctxt "items.description"
+msgid "ショートヘアーになります。"
+msgstr "Підрізати волосся."
+
+#. ID 10
+msgctxt "items.name"
+msgid "くびなし"
+msgstr "  Безголова"
+
+#. ID 10
+msgctxt "items.description"
+msgid "首が無くなります。"
+msgstr "Втратити голову."
+
+#. ID 12
+msgctxt "items.name"
+msgid "ほうでんとう"
+msgstr "  Вуличний Ліхтар"
+
+#. ID 12
+msgctxt "items.description"
+msgid "頭が放電灯になります。"
+msgstr "Мати вуличний ліхтар замість голови."
+
+#. ID 13
+msgctxt "items.name"
+msgid "アンドロイド"
+msgstr "  Андроїд"
+
+#. ID 13
+msgctxt "items.description"
+msgid "アンドロイドになります。"
+msgstr "Стати роботом."
+
+#. ID 14
+msgctxt "items.name"
+msgid "たまご"
+msgstr "  Яйце"
+
+#. ID 14
+msgctxt "items.description"
+msgid "卵になります。"
+msgstr "Перетворитись на яйце."
+
+#. ID 15
+msgctxt "items.name"
+msgid "みこ"
+msgstr "  Міко"
+
+#. ID 15
+msgctxt "items.description"
+msgid "巫女さんになります。"
+msgstr "Вдягнутись як жриця."
+
+#. ID 16
+msgctxt "items.name"
+msgid "-くも"
+msgstr "  -Павук"
+
+#. ID 16
+msgctxt "items.description"
+msgid "蜘蛛になります。"
+msgstr "Стати павуком."
+
+#. ID 17
+msgctxt "items.name"
+msgid "しっけんけん"
+msgstr "  Шіккенкен"
+
+#. ID 17
+msgctxt "items.description"
+msgid "シッケンケンになります。"
+msgstr "Перетворитись на Шіккенкен."
+
+#. ID 18
+msgctxt "items.name"
+msgid "バイオリン"
+msgstr "  Скрипка"
+
+#. ID 18
+msgctxt "items.description"
+msgid "バイオリンを持ちます。"
+msgstr "Взяти скрипку."
+
+#. ID 19
+msgctxt "items.name"
+msgid "-はとどけい"
+msgstr "  -Годинник з зозулею"
+
+#. ID 19
+msgctxt "items.description"
+msgid "頭が鳩時計になります。"
+msgstr "Мати годинник з зозулею замість голови."
+
+#. ID 20
+#. ID 60
+msgctxt "items.name"
+msgid "----"
+msgstr "----"
+
+#. ID 21
+msgctxt "items.name"
+msgid "リボン"
+msgstr "  Стрічка"
+
+#. ID 21
+msgctxt "items.description"
+msgid "リボンを付けます。"
+msgstr "Зібрати волосся стрічкою."
+
+#. ID 38
+msgctxt "items.name"
+msgid "■夢日記帳"
+msgstr "■ Щоденник снів"
+
+#. ID 38
+msgctxt "items.description"
+msgid "夢の中でセーブが出来る高級品です。(夢の中専用)"
+msgstr "Модна річ для збереження у снах. (працює лише уві сні)"
+
+#. ID 40
+msgctxt "items.name"
+msgid "＝＝＝＝＝＝＝＝＝＝"
+msgstr "＝＝＝＝＝＝＝＝＝＝"
+
+#. ID 41
+msgctxt "items.name"
+msgid " うさぎ"
+msgstr "  Кролик"
+
+#. ID 41
+msgctxt "items.description"
+msgid "ウサギになった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви перетворюєтесь на кролика."
+
+#. ID 42
+msgctxt "items.name"
+msgid " ネイルハンマー"
+msgstr "  Молоток"
+
+#. ID 42
+msgctxt "items.description"
+msgid "ネイルハンマーを持った夢の記憶です。"
+msgstr "Спогад про сон, в якому у вас є молоток."
+
+#. ID 43
+msgctxt "items.name"
+msgid " ケーキ"
+msgstr "  Торт"
+
+#. ID 43
+msgctxt "items.description"
+msgid "自分がケーキになった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — торт."
+
+#. ID 44
+msgctxt "items.name"
+msgid " コートとマフラー"
+msgstr "  Пальто і Шарф"
+
+#. ID 44
+msgctxt "items.description"
+msgid "コートとマフラーを着けていた夢の記憶です。"
+msgstr "Спогад про сон, в якому ви носите пальто з шарфом."
+
+#. ID 45
+msgctxt "items.name"
+msgid " ステンドグラス"
+msgstr "  Вітраж"
+
+#. ID 45
+msgctxt "items.description"
+msgid "体がステンドグラスのようになった夢の記憶です。"
+msgstr "Спогад про сон, де тіло створено з кольорового скла."
+
+#. ID 47
+msgctxt "items.name"
+msgid " まほうつかい"
+msgstr "  Чарівниця"
+
+#. ID 47
+msgctxt "items.description"
+msgid "魔法使いになって箒で空を飛んだ夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — відьма і літаєте на мітлі."
+
+#. ID 48
+msgctxt "items.name"
+msgid " アメフラシ"
+msgstr "  Аплизія"
+
+#. ID 48
+msgctxt "items.description"
+msgid "アメフラシになった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — аплизія."
+
+#. ID 49
+msgctxt "items.name"
+msgid " ショートヘアー"
+msgstr "  Коротке Волосся"
+
+#. ID 49
+msgctxt "items.description"
+msgid "髪型がショートになった夢の記憶です。"
+msgstr "Спогад про сон, в якому у вас коротка зачіска."
+
+#. ID 50
+msgctxt "items.name"
+msgid " くびなし"
+msgstr "  Безголова"
+
+#. ID 50
+msgctxt "items.description"
+msgid "首が無くなった夢の記憶です。"
+msgstr "Спогад про сон, в якому у вас немає голови."
+
+#. ID 52
+msgctxt "items.name"
+msgid " ほうでんとう"
+msgstr "  Вуличний ліхтар"
+
+#. ID 52
+msgctxt "items.description"
+msgid "頭が放電灯になった夢の記憶です。"
+msgstr "Спогад про сон, в якому замість вашої голови — ліхтар."
+
+#. ID 53
+msgctxt "items.name"
+msgid " アンドロイド"
+msgstr "  Андроїд"
+
+#. ID 53
+msgctxt "items.description"
+msgid "アンドロイドになった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — Андроїд."
+
+#. ID 54
+msgctxt "items.name"
+msgid " たまご"
+msgstr "  Яйце"
+
+#. ID 54
+msgctxt "items.description"
+msgid "卵の殻に閉じこもった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — велике яйце."
+
+#. ID 55
+msgctxt "items.name"
+msgid " みこ"
+msgstr "  Міко"
+
+#. ID 55
+msgctxt "items.description"
+msgid "巫女装束を着ていた夢の記憶です。"
+msgstr "Спогад про сон, в якому ви носите вбрання жриці."
+
+#. ID 56
+msgctxt "items.name"
+msgid " -くも"
+msgstr "  -Павук"
+
+#. ID 56
+msgctxt "items.description"
+msgid "蜘蛛になった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — павук."
+
+#. ID 57
+msgctxt "items.name"
+msgid " しっけんけん"
+msgstr "  Шіккенкен"
+
+#. ID 57
+msgctxt "items.description"
+msgid "一本足の雪女になりきった夢の記憶です。"
+msgstr "Спогад про сон, в якому ви — однонога Юкі-Онна."
+
+#. ID 58
+msgctxt "items.name"
+msgid " バイオリン"
+msgstr "  Скрипка"
+
+#. ID 58
+msgctxt "items.description"
+msgid "バイオリンを演奏した夢の記憶です。"
+msgstr "Спогад про сон, в якому ви граєте на скрипці."
+
+#. ID 59
+msgctxt "items.name"
+msgid " -はとどけい"
+msgstr "  -Годинник з зозулею"
+
+#. ID 59
+msgctxt "items.description"
+msgid "頭が鳩時計になった夢の記憶です。"
+msgstr "Спогад про сон із годинником з зозулею на голові."
+
+#. ID 61
+msgctxt "items.name"
+msgid " リボン"
+msgstr "  Стрічка"
+
+#. ID 61
+msgctxt "items.description"
+msgid "リボンで髪を結んだ夢の記憶です。"
+msgstr "Спогад про сон, в якому ви носите стрічки у волоссі."
+
+#. ID 79
+msgctxt "items.name"
+msgid "■ 夢日記帳"
+msgstr "■ Щоденник Снів"
+
+#. ID 79
+msgctxt "items.description"
+msgid "夢の中で夢日記を書いていた夢の記憶です。"
+msgstr "Спогад про сон, в якому ви ведете щоденник снів."
+
+#. ID 80
+msgctxt "items.name"
+msgid "■ゲームの説明"
+msgstr "■ Інструкції"
+
+#. ID 80
+msgctxt "items.description"
+msgid "このゲームの遊び方を見ます。"
+msgstr "Переглянути інструкції до гри."
+
+#. ID 1
+msgctxt "enemies.name"
+msgid "敵"
+msgstr ""
+
+#. ID 1
+msgctxt "states.name"
+msgid "戦闘不能"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "は倒れた！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "を倒した！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "は立ち上がった！"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "所持数"
+msgstr "Предметів"
+
+msgctxt "terms.equipped_items"
+msgid "装備数"
+msgstr "Кількість Обладняння"
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "￥"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Ефекти"
+
+msgctxt "terms.command_skill"
+msgid "起きる"
+msgstr "Прокинутись"
+
+msgctxt "terms.menu_equipment"
+msgid "そうび"
+msgstr "Обладнання"
+
+msgctxt "terms.menu_quit"
+msgid "ゲーム終了"
+msgstr "Вийти"
+
+msgctxt "terms.new_game"
+msgid "はじめから"
+msgstr "Почати"
+
+msgctxt "terms.load_game"
+msgid "つづきから"
+msgstr "Продовжити"
+
+msgctxt "terms.exit_game"
+msgid "おしまい"
+msgstr "Вийти"
+
+msgctxt "terms.level"
+msgid "ｴﾌｪｸﾄ数"
+msgstr "Ефектів Отримано"
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.exp_short"
+msgid "EX"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "右手"
+msgstr "Права Рука"
+
+msgctxt "terms.shield"
+msgid "左手"
+msgstr "Ліва Рука"
+
+msgctxt "terms.armor"
+msgid "体"
+msgstr "Тіло"
+
+msgctxt "terms.helmet"
+msgid "頭"
+msgstr "Голова"
+
+msgctxt "terms.accessory"
+msgid "その他"
+msgstr "Інше"
+
+msgctxt "terms.save_game_message"
+msgid "セーブするファイルを選んでください。"
+msgstr "Виберіть файл, в якому ви хочете зберегти гру."
+
+msgctxt "terms.load_game_message"
+msgid "ロードするファイルを選んでください。"
+msgstr "Виберіть файл збереження, який ви хочете завантажити."
+
+msgctxt "terms.file"
+msgid "ファイル"
+msgstr "Файл"
+
+msgctxt "terms.exit_game_message"
+msgid "ゲームを終了しますか？"
+msgstr "Бажаєте покинути гру?"
+
+msgctxt "terms.yes"
+msgid "する"
+msgstr "Так"
+
+msgctxt "terms.no"
+msgid "ちがう"
+msgstr "Ні"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
