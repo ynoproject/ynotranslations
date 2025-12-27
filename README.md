@@ -127,6 +127,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * aku - Library's books for the English translation of Yume 2kki
 * Anteol - Korean translation of Collective Unconscious
 * aosagi - Vietnamese translation of Mikan Muzou
+* Artyomak - Ukrainian translation of Ultra Violet
 * Aya - Initial French translation of Yume 2kki
 * bathynomus - Brazilian Portuguese translation of Collective Unconscious
 * BinRecycle - Korean translation of the Memory Game from Yume 2kki
@@ -139,14 +140,14 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
 * CuriousBoi - Swedish translation of Collective Unconscious
 * Eel - English translation of .flow
-* ElTipejoLoco - Spanish translations of Deep Dreams, Mikan Muzou
+* ElTipejoLoco - Spanish translation of Deep Dreams, Mikan Muzou
 * Eternal Dream Arabization team ( الحلم المتجدد للتعريب) - Help on the Arabic translation of Yume Nikki
 * fcoldstar (飛揚寒星) - Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * Fettuccine Alfredo - Finnish translation of Collective Unconscious
 * FlashfyreDev (Sam) - English translation of Yume 2kki; Misc edits on the English translation of Mikan Muzou
 * .flow Chinese Group (.flow汉化组) - Chinese translation of .flow
 * fokifox - Russian translation of Yume Nikki
-* Fonvight - Russian translations of Yume 2kki, .flow, Answered Prayers, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Ultra Violet; English translation of the wallpaper gallery in Yume 2kki
+* Fonvight - Russian translation of Yume 2kki, .flow, Answered Prayers, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Ultra Violet; English translation of the wallpaper gallery in Yume 2kki
 * FukoSan - Spanish translation of Yume 2kki
 * GiAnMMV - Italian translation of Yume Nikki
 * Gugu (菇菇) - Chinese translation of .flow
@@ -157,9 +158,9 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * IStoleThePies - Text correction in the English translation of Yume 2kki
 * Kong - Brazilian Portuguese translation of Yume 2kki, English Yume 2kki Memory Card game
 * Kowinski - Testing of the Russian translation of She Awaits
-* KRBlacky - Korean translations of Yume 2kki, Answered Prayers, Deep Dreams
+* KRBlacky - Korean translation of Yume 2kki, Answered Prayers, Deep Dreams
 * krossower1 - Polish translation of Yume 2kki
-* Leo9 - Esperanto translations of Yume Nikki, .flow
+* Leo9 - Esperanto translation of Yume Nikki, .flow
 * lich65 - Korean translation of Yume Nikki
 * Lovena - Initial French translation of Yume 2kki; French translation of Oversomnia, nostAlgic
 * maple - Polish translation of Uneven Dream, Collective Unconscious
@@ -170,10 +171,10 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Moucky2333 - Chinese translation of Uneven Dream, Collective Unconscious; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
 * Moustluigi - Initial French translation of Yume 2kki
 * nask - Initial French translation of Yume 2kki
-* nekhnona - Romanian translations of Yume Nikki, Yume 2kki, Uneven Dream
+* nekhnona - Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream
 * Nex0.10 - Porting of the text from the Chinese translation of Dream Genie
-* Niko (Нико) - Spanish translations of Answered Prayers, Muma|Rope, .flow; Spanish translation of Yume 2kki
-* nimiala - Toki Pona translations of Yume Nikki, Yume 2kki
+* Niko (Нико) - Spanish translation of Answered Prayers, Muma|Rope, .flow; Spanish translation of Yume 2kki
+* nimiala - Toki Pona translation of Yume Nikki, Yume 2kki
 * Nulsdodage (Wavyup) - Korean translation of Yume 2kki, Someday, English translation of Mikan Muzou
 * Pats - Spanish translation of Yume Nikki; Rework of the Spanish translation of .flow
 * Plush - Italian translations of .flow, Collective Unconscious
@@ -189,8 +190,8 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * sniperbob - Hebrew translation of Yume Nikki
 * takne77 - Estonian translation of Yume Nikki
 * TrolChelavi - Russian translation of She Awaits
-* uroyu - Japanese translations of Collective Unconscious, OneShot, Unaccomplished
-* VioletNeiv - Vietnamese translations of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Ultra Violet
+* uroyu - Japanese translation of Collective Unconscious, OneShot, Unaccomplished
+* VioletNeiv - Vietnamese translation of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Ultra Violet
 * Voyager - Spanish translation of Yume Nikki
 * Xiaodao (小岛) - Porting of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * YNOproject Chinese Team (YNOproject汉化组) - Chinese translation of Deep Dreams, Uneven Dream, Collective Unconscious
