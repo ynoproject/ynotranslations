@@ -51,7 +51,7 @@ msgstr "Виконати Дебаг."
 #. ID 1
 msgctxt "items.name"
 msgid "うさぎ"
-msgstr "Кролик"
+msgstr "  Кролик"
 
 #. ID 1
 msgctxt "items.description"
@@ -61,7 +61,7 @@ msgstr "Стати кроликом."
 #. ID 2
 msgctxt "items.name"
 msgid "ネイルハンマー"
-msgstr "Молоток"
+msgstr "  Молоток"
 
 #. ID 2
 msgctxt "items.description"
@@ -71,7 +71,7 @@ msgstr "Озброїтись молотком."
 #. ID 3
 msgctxt "items.name"
 msgid "ケーキ"
-msgstr "Торт"
+msgstr "  Торт"
 
 #. ID 3
 msgctxt "items.description"
@@ -81,7 +81,7 @@ msgstr "Стати тортом."
 #. ID 4
 msgctxt "items.name"
 msgid "コートとマフラー"
-msgstr "Пальто і Шарф"
+msgstr "  Пальто і Шарф"
 
 #. ID 4
 msgctxt "items.description"
@@ -91,7 +91,7 @@ msgstr "Вдягнути пальто і шарф."
 #. ID 5
 msgctxt "items.name"
 msgid "ステンドグラス"
-msgstr "Вітраж"
+msgstr "  Вітраж"
 
 #. ID 5
 msgctxt "items.description"
@@ -101,7 +101,7 @@ msgstr "Бути зробленою з кольорового скла."
 #. ID 7
 msgctxt "items.name"
 msgid "まほうつかい"
-msgstr "Чарівниця"
+msgstr "  Чарівниця"
 
 #. ID 7
 msgctxt "items.description"
@@ -111,7 +111,7 @@ msgstr "Стати чарівницею."
 #. ID 8
 msgctxt "items.name"
 msgid "アメフラシ"
-msgstr "Аплизія"
+msgstr "  Аплизія"
 
 #. ID 8
 msgctxt "items.description"
@@ -121,7 +121,7 @@ msgstr "Перетворитись на молюска з кролячими в�
 #. ID 9
 msgctxt "items.name"
 msgid "ショートヘアー"
-msgstr "Коротке Волосся"
+msgstr "  Коротке Волосся"
 
 #. ID 9
 msgctxt "items.description"
@@ -131,7 +131,7 @@ msgstr "Підрізати волосся."
 #. ID 10
 msgctxt "items.name"
 msgid "くびなし"
-msgstr "Безголова"
+msgstr "  Безголова"
 
 #. ID 10
 msgctxt "items.description"
@@ -141,7 +141,7 @@ msgstr "Втратити голову."
 #. ID 12
 msgctxt "items.name"
 msgid "ほうでんとう"
-msgstr "Вуличний Ліхтар"
+msgstr "  Вуличний Ліхтар"
 
 #. ID 12
 msgctxt "items.description"
@@ -151,7 +151,7 @@ msgstr "Мати вуличний ліхтар замість голови."
 #. ID 13
 msgctxt "items.name"
 msgid "アンドロイド"
-msgstr "Андроїд"
+msgstr "  Андроїд"
 
 #. ID 13
 msgctxt "items.description"
@@ -161,7 +161,7 @@ msgstr "Стати роботом."
 #. ID 14
 msgctxt "items.name"
 msgid "たまご"
-msgstr "Яйце"
+msgstr "  Яйце"
 
 #. ID 14
 msgctxt "items.description"
@@ -171,7 +171,7 @@ msgstr "Перетворитись на яйце."
 #. ID 15
 msgctxt "items.name"
 msgid "みこ"
-msgstr "Міко"
+msgstr "  Міко"
 
 #. ID 15
 msgctxt "items.description"
@@ -181,7 +181,7 @@ msgstr "Вдягнутись як жриця."
 #. ID 16
 msgctxt "items.name"
 msgid "-くも"
-msgstr "-Павук"
+msgstr "  -Павук"
 
 #. ID 16
 msgctxt "items.description"
@@ -191,7 +191,7 @@ msgstr "Стати павуком."
 #. ID 17
 msgctxt "items.name"
 msgid "しっけんけん"
-msgstr "Шіккенкен"
+msgstr "  Шіккенкен"
 
 #. ID 17
 msgctxt "items.description"
@@ -201,7 +201,7 @@ msgstr "Перетворитись на Шіккенкен."
 #. ID 18
 msgctxt "items.name"
 msgid "バイオリン"
-msgstr "Скрипка"
+msgstr "  Скрипка"
 
 #. ID 18
 msgctxt "items.description"
@@ -211,7 +211,7 @@ msgstr "Взяти скрипку."
 #. ID 19
 msgctxt "items.name"
 msgid "-はとどけい"
-msgstr "-Годинник з зозулею"
+msgstr "  -Годинник з зозулею"
 
 #. ID 19
 msgctxt "items.description"
@@ -227,7 +227,7 @@ msgstr "----"
 #. ID 21
 msgctxt "items.name"
 msgid "リボン"
-msgstr "Стрічка"
+msgstr "  Стрічка"
 
 #. ID 21
 msgctxt "items.description"
@@ -252,7 +252,7 @@ msgstr "＝＝＝＝＝＝＝＝＝＝"
 #. ID 41
 msgctxt "items.name"
 msgid " うさぎ"
-msgstr " Кролик"
+msgstr "  Кролик"
 
 #. ID 41
 msgctxt "items.description"
@@ -262,7 +262,7 @@ msgstr "Спогад про сон, в якому ви перетворюєте�
 #. ID 42
 msgctxt "items.name"
 msgid " ネイルハンマー"
-msgstr " Молоток"
+msgstr "  Молоток"
 
 #. ID 42
 msgctxt "items.description"
@@ -272,7 +272,7 @@ msgstr "Спогад про сон, в якому у вас є молоток."
 #. ID 43
 msgctxt "items.name"
 msgid " ケーキ"
-msgstr " Торт"
+msgstr "  Торт"
 
 #. ID 43
 msgctxt "items.description"
@@ -282,7 +282,7 @@ msgstr "Спогад про сон, в якому ви — торт."
 #. ID 44
 msgctxt "items.name"
 msgid " コートとマフラー"
-msgstr " Пальто і Шарф"
+msgstr "  Пальто і Шарф"
 
 #. ID 44
 msgctxt "items.description"
@@ -292,7 +292,7 @@ msgstr "Спогад про сон, в якому ви носите пальто
 #. ID 45
 msgctxt "items.name"
 msgid " ステンドグラス"
-msgstr " Вітраж"
+msgstr "  Вітраж"
 
 #. ID 45
 msgctxt "items.description"
@@ -302,7 +302,7 @@ msgstr "Спогад про сон, де тіло створено з кольо
 #. ID 47
 msgctxt "items.name"
 msgid " まほうつかい"
-msgstr " Чарівниця"
+msgstr "  Чарівниця"
 
 #. ID 47
 msgctxt "items.description"
@@ -312,7 +312,7 @@ msgstr "Спогад про сон, в якому ви — відьма і лі�
 #. ID 48
 msgctxt "items.name"
 msgid " アメフラシ"
-msgstr " Аплизія"
+msgstr "  Аплизія"
 
 #. ID 48
 msgctxt "items.description"
@@ -322,7 +322,7 @@ msgstr "Спогад про сон, в якому ви — аплизія."
 #. ID 49
 msgctxt "items.name"
 msgid " ショートヘアー"
-msgstr " Коротке Волосся"
+msgstr "  Коротке Волосся"
 
 #. ID 49
 msgctxt "items.description"
@@ -332,7 +332,7 @@ msgstr "Спогад про сон, в якому у вас коротка за�
 #. ID 50
 msgctxt "items.name"
 msgid " くびなし"
-msgstr " Безголова"
+msgstr "  Безголова"
 
 #. ID 50
 msgctxt "items.description"
@@ -342,7 +342,7 @@ msgstr "Спогад про сон, в якому у вас немає голо�
 #. ID 52
 msgctxt "items.name"
 msgid " ほうでんとう"
-msgstr " Вуличний ліхтар"
+msgstr "  Вуличний ліхтар"
 
 #. ID 52
 msgctxt "items.description"
@@ -352,7 +352,7 @@ msgstr "Спогад про сон, в якому замість вашої го
 #. ID 53
 msgctxt "items.name"
 msgid " アンドロイド"
-msgstr " Андроїд"
+msgstr "  Андроїд"
 
 #. ID 53
 msgctxt "items.description"
@@ -362,17 +362,17 @@ msgstr "Спогад про сон, в якому ви — Андроїд."
 #. ID 54
 msgctxt "items.name"
 msgid " たまご"
-msgstr " Яйце"
+msgstr "  Яйце"
 
 #. ID 54
 msgctxt "items.description"
 msgid "卵の殻に閉じこもった夢の記憶です。"
-msgstr "Спогад про сон, в якому ви ховаєтесь в яєчній шкарлупі."
+msgstr "Спогад про сон, в якому ви — велике яйце."
 
 #. ID 55
 msgctxt "items.name"
 msgid " みこ"
-msgstr " Міко"
+msgstr "  Міко"
 
 #. ID 55
 msgctxt "items.description"
@@ -382,7 +382,7 @@ msgstr "Спогад про сон, в якому ви носите вбранн
 #. ID 56
 msgctxt "items.name"
 msgid " -くも"
-msgstr " -Павук"
+msgstr "  -Павук"
 
 #. ID 56
 msgctxt "items.description"
@@ -392,7 +392,7 @@ msgstr "Спогад про сон, в якому ви — павук."
 #. ID 57
 msgctxt "items.name"
 msgid " しっけんけん"
-msgstr " Шіккенкен"
+msgstr "  Шіккенкен"
 
 #. ID 57
 msgctxt "items.description"
@@ -402,7 +402,7 @@ msgstr "Спогад про сон, в якому ви — однонога Юк
 #. ID 58
 msgctxt "items.name"
 msgid " バイオリン"
-msgstr " Скрипка"
+msgstr "  Скрипка"
 
 #. ID 58
 msgctxt "items.description"
@@ -412,17 +412,17 @@ msgstr "Спогад про сон, в якому ви граєте на скр�
 #. ID 59
 msgctxt "items.name"
 msgid " -はとどけい"
-msgstr " -Годинник з зозулею"
+msgstr "  -Годинник з зозулею"
 
 #. ID 59
 msgctxt "items.description"
 msgid "頭が鳩時計になった夢の記憶です。"
-msgstr "Спогад про сон, в якому у вас на голові є годинник з зозулею."
+msgstr "Спогад про сон із годинником з зозулею на голові."
 
 #. ID 61
 msgctxt "items.name"
 msgid " リボン"
-msgstr " Стрічка"
+msgstr "  Стрічка"
 
 #. ID 61
 msgctxt "items.description"
@@ -447,7 +447,7 @@ msgstr "■ Інструкції"
 #. ID 80
 msgctxt "items.description"
 msgid "このゲームの遊び方を見ます。"
-msgstr " Переглянути інструкції до гри."
+msgstr "Переглянути інструкції до гри."
 
 #. ID 1
 msgctxt "enemies.name"
