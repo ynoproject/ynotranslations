@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. ID 18, Line 28
 msgid "                   - Straw Hat -"
@@ -258,6 +258,8 @@ msgstr "Rêvant en 8 Bits"
 
 #. ID 36, Line 62
 #. ChangeHeroName (Actor 9)
+#. ID 36, Line 157
+#. ChangeHeroName (Actor 9)
 msgctxt "actors.name"
 msgid "oliver"
 msgstr ""
@@ -322,6 +324,8 @@ msgstr "Champs"
 #. ChangeHeroName (Actor 9)
 #. ID 36, Line 102
 #. ChangeHeroName (Actor 9)
+#. ID 36, Line 122
+#. ChangeHeroName (Actor 9)
 msgctxt "actors.name"
 msgid "OrangeGel"
 msgstr ""
@@ -333,6 +337,8 @@ msgid "Sunlit Greenery"
 msgstr "Verdure Illuminée"
 
 #. ID 36, Line 97
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 137
 #. ChangeHeroName (Actor 9)
 msgctxt "actors.name"
 msgid "Alice"
@@ -349,6 +355,126 @@ msgstr "Premier Pas"
 msgctxt "actors.name"
 msgid "TmVlZCBzb21ldGhpbmc/"
 msgstr ""
+
+#. ID 36, Line 107
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 112
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 152
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "stvalenspine"
+msgstr ""
+
+#. ID 36, Line 108
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Block Buddies"
+msgstr "Copains Cubiques"
+
+#. ID 36, Line 113
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Fortune"
+msgstr "Chance"
+
+#. ID 36, Line 117
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "FasT"
+msgstr ""
+
+#. ID 36, Line 118
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Lost Girl, Lost World"
+msgstr "Fille Perdue d'un Monde Perdu"
+
+#. ID 36, Line 123
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Take Flight"
+msgstr "Envol"
+
+#. ID 36, Line 127
+#. ChangeHeroName (Actor 9)
+#. ID 36, Line 132
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "raspie.n"
+msgstr ""
+
+#. ID 36, Line 128
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "paint.net"
+msgstr ""
+
+#. ID 36, Line 133
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "My Bestie"
+msgstr "Mon Meilleur Ami"
+
+#. ID 36, Line 138
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "GAME OVER"
+msgstr ""
+
+#. ID 36, Line 142
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "Zahyou"
+msgstr ""
+
+#. ID 36, Line 143
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "By Your Side"
+msgstr "À Tes Côtés"
+
+#. ID 36, Line 147
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 96
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 106
+#. ChangeHeroName (Actor 9)
+#. ID 72, Line 116
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "akalog"
+msgstr ""
+
+#. ID 36, Line 148
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Crimson Rose"
+msgstr "Rose Pourpre"
+
+#. ID 36, Line 153
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Lonely Angler"
+msgstr "Pêcheur Isolé"
+
+#. ID 36, Line 158
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "evening"
+msgstr "Soirée"
+
+#. ID 36, Line 162
+#. ChangeHeroName (Actor 9)
+msgctxt "actors.name"
+msgid "UFOwleri"
+msgstr ""
+
+#. ID 36, Line 163
+#. ChangeHeroName (Actor 8)
+msgctxt "actors.name"
+msgid "Good Morning/Night"
+msgstr "Bonjour/Bonsoir"
 
 #. ID 37, Line 4
 #. Contains choice at line 3 (2 options)
@@ -891,7 +1017,7 @@ msgstr "Coupure Papier B"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Relief"
-msgstr ""
+msgstr "Soulagement"
 
 #. ID 72, Line 42
 #. ChangeHeroName (Actor 8)
@@ -974,16 +1100,6 @@ msgstr "Attrape-rêves"
 msgctxt "actors.name"
 msgid "ERROR"
 msgstr "ERREUR"
-
-#. ID 72, Line 96
-#. ChangeHeroName (Actor 9)
-#. ID 72, Line 106
-#. ChangeHeroName (Actor 9)
-#. ID 72, Line 116
-#. ChangeHeroName (Actor 9)
-msgctxt "actors.name"
-msgid "akalog"
-msgstr ""
 
 #. ID 72, Line 97
 #. ChangeHeroName (Actor 8)
@@ -1237,7 +1353,7 @@ msgctxt "actors.name"
 msgid "Flame"
 msgstr "Flamme"
 
-#. ID 101, Line 26
+#. ID 101, Line 30
 #. Choice (4 options)
 msgid ""
 "2004\n"
@@ -1250,11 +1366,11 @@ msgstr ""
 "2009\n"
 "Suivant"
 
-#. ID 101, Line 30
+#. ID 101, Line 34
 msgid "You're already here."
 msgstr "Tu es déjà ici."
 
-#. ID 101, Line 61
+#. ID 101, Line 65
 #. Choice (4 options)
 msgid ""
 "2010\n"
@@ -1267,7 +1383,7 @@ msgstr ""
 "2012\n"
 "Suivant"
 
-#. ID 101, Line 94
+#. ID 101, Line 98
 #. Choice (4 options)
 msgid ""
 "2013\n"
@@ -1280,7 +1396,7 @@ msgstr ""
 "2015\n"
 "Suivant"
 
-#. ID 101, Line 127
+#. ID 101, Line 131
 #. Choice (4 options)
 msgid ""
 "2016\n"
@@ -1293,7 +1409,7 @@ msgstr ""
 "2018\n"
 "Suivant"
 
-#. ID 101, Line 160
+#. ID 101, Line 164
 #. Choice (4 options)
 msgid ""
 "2019\n"
@@ -1306,17 +1422,26 @@ msgstr ""
 "2021\n"
 "Suivant"
 
-#. ID 101, Line 193
+#. ID 101, Line 197
 #. Choice (4 options)
 msgid ""
 "2022\n"
 "2023\n"
 "2024\n"
+"Next"
+msgstr ""
+"2022\n"
+"2023\n"
+"2024\n"
+"Suivant"
+
+#. ID 101, Line 230
+#. Choice (2 options)
+msgid ""
+"2025\n"
 "Back"
 msgstr ""
-"2022\n"
-"2023\n"
-"2024\n"
+"2025\n"
 "Retour"
 
 #. ID 197, Line 3

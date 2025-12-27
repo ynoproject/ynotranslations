@@ -771,8 +771,8 @@ msgid "Begin!"
 msgstr "開始！"
 
 msgctxt "terms.load_game"
-msgid "Think?"
-msgstr "思考？"
+msgid "Think:"
+msgstr "思考："
 
 msgctxt "terms.exit_game"
 msgid "Over."
