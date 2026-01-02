@@ -1,0 +1,10621 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yume 2kki 0.118c Patch 6\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: FlashfyreDev\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцукі"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "夢遊病"
+msgstr "Сновида"
+
+#. ID 2
+msgctxt "actors.name"
+msgid "マップ到達"
+msgstr "Досягнуто локацій"
+
+#. ID 3
+msgctxt "actors.name"
+msgid "デフォルト1"
+msgstr "За замовчуванням 1"
+
+#. ID 4
+msgctxt "actors.name"
+msgid "デフォルト2"
+msgstr "За замовчуванням 2"
+
+#. ID 5
+msgctxt "actors.name"
+msgid "女の子"
+msgstr "Дівчинка"
+
+#. ID 5
+msgctxt "actors.title"
+msgid "オカ部部員"
+msgstr "Член окультного клубу"
+
+#. ID 6
+msgctxt "actors.name"
+msgid "デフォルト3"
+msgstr "За замовчуванням 3"
+
+#. ID 7
+msgctxt "actors.name"
+msgid "Player Name"
+msgstr "Ім'я гравця"
+
+#. ID 8
+msgctxt "actors.name"
+msgid "First Effect"
+msgstr "Перший ефект"
+
+#. ID 11
+#. ID 12
+#. ID 13
+#. ID 14
+#. ID 15
+#. ID 16
+#. ID 17
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "actors.name"
+msgid "-"
+msgstr ""
+
+#. ID 11
+#. ID 12
+#. ID 13
+#. ID 14
+#. ID 15
+#. ID 16
+#. ID 17
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+msgctxt "actors.title"
+msgid "-"
+msgstr ""
+
+#. ID 98
+msgctxt "actors.name"
+msgid "最大数は"
+msgstr ""
+
+#. ID 99
+msgctxt "actors.name"
+msgid "増やさないで"
+msgstr ""
+
+#. ID 1
+#. ID 2
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Ущипнути щоку"
+
+#. ID 1
+#. ID 2
+msgctxt "skills.description"
+msgid "ほほをつねって、ゆめからさめる"
+msgstr "Ущипнути свою щоку, щоб покинути світ снів."
+
+#. ID 1
+#. ID 3
+#. ID 4
+#. ID 5
+#. ID 6
+#. ID 7
+#. ID 8
+#. ID 9
+#. ID 10
+#. ID 11
+#. ID 12
+#. ID 13
+#. ID 14
+#. ID 15
+#. ID 16
+#. ID 17
+#. ID 18
+#. ID 19
+#. ID 20
+#. ID 21
+#. ID 22
+#. ID 23
+#. ID 24
+#. ID 25
+#. ID 26
+#. ID 27
+#. ID 28
+#. ID 29
+#. ID 30
+#. ID 31
+#. ID 32
+#. ID 33
+#. ID 34
+#. ID 35
+#. ID 36
+#. ID 37
+#. ID 38
+#. ID 39
+#. ID 40
+#. ID 41
+#. ID 42
+#. ID 43
+#. ID 44
+#. ID 45
+#. ID 46
+#. ID 47
+#. ID 48
+#. ID 49
+#. ID 50
+#. ID 51
+#. ID 52
+#. ID 53
+#. ID 54
+#. ID 55
+#. ID 56
+#. ID 57
+#. ID 58
+#. ID 59
+#. ID 60
+#. ID 61
+#. ID 62
+#. ID 63
+#. ID 64
+#. ID 65
+#. ID 66
+#. ID 67
+#. ID 68
+#. ID 69
+#. ID 70
+#. ID 71
+#. ID 72
+#. ID 73
+#. ID 74
+#. ID 75
+#. ID 76
+#. ID 77
+#. ID 78
+#. ID 79
+#. ID 80
+#. ID 81
+#. ID 82
+#. ID 83
+#. ID 84
+#. ID 85
+#. ID 86
+#. ID 87
+#. ID 88
+#. ID 89
+#. ID 90
+#. ID 91
+#. ID 92
+#. ID 93
+#. ID 94
+#. ID 95
+#. ID 96
+#. ID 97
+#. ID 98
+#. ID 99
+#. ID 100
+#. ID 101
+#. ID 102
+#. ID 103
+#. ID 104
+#. ID 105
+#. ID 106
+#. ID 107
+#. ID 108
+#. ID 109
+#. ID 110
+#. ID 111
+#. ID 112
+#. ID 113
+#. ID 114
+#. ID 115
+#. ID 116
+#. ID 117
+#. ID 118
+#. ID 119
+#. ID 120
+#. ID 121
+#. ID 122
+#. ID 123
+#. ID 124
+#. ID 125
+#. ID 126
+#. ID 127
+#. ID 128
+#. ID 129
+#. ID 130
+#. ID 131
+#. ID 132
+#. ID 133
+#. ID 134
+#. ID 135
+#. ID 136
+#. ID 137
+#. ID 138
+#. ID 139
+#. ID 140
+#. ID 141
+#. ID 142
+#. ID 143
+#. ID 144
+#. ID 145
+#. ID 146
+#. ID 147
+#. ID 148
+#. ID 149
+#. ID 150
+#. ID 151
+#. ID 152
+#. ID 153
+#. ID 154
+#. ID 155
+#. ID 156
+#. ID 157
+#. ID 158
+#. ID 159
+#. ID 160
+#. ID 161
+#. ID 162
+#. ID 163
+#. ID 164
+#. ID 165
+#. ID 166
+#. ID 167
+#. ID 168
+#. ID 169
+#. ID 170
+#. ID 171
+#. ID 172
+#. ID 173
+#. ID 174
+#. ID 175
+#. ID 176
+#. ID 177
+#. ID 178
+#. ID 179
+#. ID 180
+#. ID 181
+#. ID 182
+#. ID 183
+#. ID 184
+#. ID 185
+#. ID 186
+#. ID 187
+#. ID 188
+#. ID 189
+#. ID 190
+#. ID 191
+#. ID 192
+#. ID 193
+#. ID 194
+#. ID 195
+#. ID 196
+#. ID 197
+#. ID 198
+#. ID 199
+#. ID 200
+#. ID 201
+#. ID 202
+#. ID 203
+#. ID 204
+#. ID 205
+#. ID 206
+#. ID 207
+#. ID 208
+#. ID 209
+#. ID 210
+#. ID 211
+#. ID 212
+#. ID 213
+#. ID 214
+#. ID 215
+#. ID 216
+#. ID 217
+#. ID 218
+#. ID 219
+#. ID 220
+#. ID 221
+#. ID 222
+#. ID 223
+#. ID 224
+#. ID 225
+#. ID 226
+#. ID 227
+#. ID 228
+#. ID 229
+#. ID 230
+#. ID 231
+#. ID 232
+#. ID 233
+#. ID 234
+#. ID 235
+#. ID 236
+#. ID 237
+#. ID 238
+#. ID 239
+#. ID 240
+#. ID 241
+#. ID 242
+#. ID 243
+#. ID 244
+#. ID 245
+#. ID 246
+#. ID 247
+#. ID 248
+#. ID 249
+#. ID 250
+#. ID 251
+#. ID 252
+#. ID 253
+#. ID 254
+#. ID 255
+#. ID 256
+#. ID 257
+#. ID 258
+#. ID 259
+#. ID 260
+#. ID 261
+#. ID 262
+#. ID 263
+#. ID 264
+#. ID 265
+#. ID 266
+#. ID 267
+#. ID 268
+#. ID 269
+#. ID 270
+#. ID 271
+#. ID 272
+#. ID 273
+#. ID 274
+#. ID 275
+#. ID 276
+#. ID 277
+#. ID 278
+#. ID 279
+#. ID 280
+#. ID 281
+#. ID 282
+#. ID 283
+#. ID 284
+#. ID 285
+#. ID 286
+#. ID 287
+#. ID 288
+#. ID 289
+#. ID 290
+#. ID 291
+#. ID 292
+#. ID 293
+#. ID 294
+#. ID 295
+#. ID 296
+#. ID 297
+#. ID 298
+#. ID 299
+#. ID 300
+#. ID 301
+#. ID 302
+#. ID 303
+#. ID 304
+#. ID 305
+#. ID 306
+#. ID 307
+#. ID 308
+#. ID 309
+#. ID 310
+#. ID 311
+#. ID 312
+#. ID 313
+#. ID 314
+#. ID 315
+#. ID 316
+#. ID 317
+#. ID 318
+#. ID 319
+#. ID 320
+#. ID 321
+#. ID 322
+#. ID 323
+#. ID 324
+#. ID 325
+#. ID 326
+#. ID 327
+#. ID 328
+#. ID 329
+#. ID 330
+#. ID 331
+#. ID 332
+#. ID 333
+#. ID 334
+#. ID 335
+#. ID 336
+#. ID 337
+#. ID 338
+#. ID 339
+#. ID 340
+#. ID 341
+#. ID 342
+#. ID 343
+#. ID 344
+#. ID 345
+#. ID 346
+#. ID 347
+#. ID 348
+#. ID 349
+#. ID 350
+#. ID 351
+#. ID 352
+#. ID 353
+#. ID 354
+#. ID 355
+#. ID 356
+#. ID 357
+#. ID 358
+#. ID 359
+#. ID 360
+#. ID 361
+#. ID 362
+#. ID 363
+#. ID 364
+#. ID 365
+#. ID 366
+#. ID 367
+#. ID 368
+#. ID 369
+#. ID 370
+#. ID 371
+#. ID 372
+#. ID 373
+#. ID 374
+#. ID 375
+#. ID 376
+#. ID 377
+#. ID 378
+#. ID 379
+#. ID 380
+#. ID 381
+#. ID 382
+#. ID 383
+#. ID 384
+#. ID 385
+#. ID 386
+#. ID 387
+#. ID 388
+#. ID 389
+#. ID 390
+#. ID 391
+#. ID 392
+#. ID 393
+#. ID 394
+#. ID 395
+#. ID 396
+#. ID 397
+#. ID 398
+#. ID 399
+#. ID 400
+#. ID 401
+#. ID 402
+#. ID 403
+#. ID 404
+#. ID 405
+#. ID 406
+#. ID 407
+#. ID 408
+#. ID 409
+#. ID 410
+#. ID 411
+#. ID 412
+#. ID 413
+#. ID 414
+#. ID 415
+#. ID 416
+#. ID 417
+#. ID 418
+#. ID 419
+#. ID 420
+#. ID 421
+#. ID 422
+#. ID 423
+#. ID 424
+#. ID 425
+#. ID 426
+#. ID 427
+#. ID 428
+#. ID 429
+#. ID 430
+#. ID 431
+#. ID 432
+#. ID 433
+#. ID 434
+#. ID 435
+#. ID 436
+#. ID 437
+#. ID 438
+#. ID 439
+#. ID 440
+#. ID 441
+#. ID 442
+#. ID 443
+#. ID 444
+#. ID 445
+#. ID 446
+#. ID 447
+#. ID 448
+#. ID 449
+#. ID 450
+#. ID 451
+#. ID 452
+#. ID 453
+#. ID 454
+#. ID 455
+#. ID 456
+#. ID 457
+#. ID 458
+#. ID 459
+#. ID 460
+#. ID 461
+#. ID 462
+#. ID 463
+#. ID 464
+#. ID 465
+#. ID 466
+#. ID 467
+#. ID 468
+#. ID 469
+#. ID 470
+#. ID 471
+#. ID 472
+#. ID 473
+#. ID 474
+#. ID 475
+#. ID 476
+#. ID 477
+#. ID 478
+#. ID 479
+#. ID 480
+#. ID 481
+#. ID 482
+#. ID 483
+#. ID 484
+#. ID 485
+#. ID 486
+#. ID 487
+#. ID 488
+#. ID 489
+#. ID 490
+#. ID 491
+#. ID 492
+#. ID 493
+#. ID 494
+#. ID 495
+#. ID 496
+#. ID 497
+#. ID 498
+#. ID 499
+#. ID 500
+#. ID 501
+#. ID 502
+#. ID 503
+#. ID 504
+#. ID 505
+#. ID 506
+#. ID 507
+#. ID 508
+#. ID 509
+#. ID 510
+#. ID 511
+#. ID 512
+#. ID 513
+#. ID 514
+#. ID 515
+#. ID 516
+#. ID 517
+#. ID 518
+#. ID 519
+#. ID 520
+#. ID 521
+#. ID 522
+#. ID 523
+#. ID 524
+#. ID 525
+#. ID 526
+#. ID 527
+#. ID 528
+#. ID 529
+#. ID 530
+#. ID 531
+#. ID 532
+#. ID 533
+#. ID 534
+#. ID 535
+#. ID 536
+#. ID 537
+#. ID 538
+#. ID 539
+#. ID 540
+#. ID 541
+#. ID 542
+#. ID 543
+#. ID 544
+#. ID 545
+#. ID 546
+#. ID 547
+#. ID 548
+#. ID 549
+#. ID 550
+#. ID 551
+#. ID 552
+#. ID 553
+#. ID 554
+#. ID 555
+#. ID 556
+#. ID 557
+#. ID 558
+#. ID 559
+#. ID 560
+#. ID 561
+#. ID 562
+#. ID 563
+#. ID 564
+#. ID 565
+#. ID 566
+#. ID 567
+#. ID 568
+#. ID 569
+#. ID 570
+#. ID 571
+#. ID 572
+#. ID 573
+#. ID 574
+#. ID 575
+#. ID 576
+#. ID 577
+#. ID 578
+#. ID 579
+#. ID 580
+#. ID 581
+#. ID 582
+#. ID 583
+#. ID 584
+#. ID 585
+#. ID 586
+#. ID 587
+#. ID 588
+#. ID 589
+#. ID 590
+#. ID 591
+#. ID 592
+#. ID 593
+#. ID 594
+#. ID 595
+#. ID 596
+#. ID 597
+#. ID 598
+#. ID 599
+#. ID 600
+#. ID 601
+#. ID 602
+#. ID 603
+#. ID 604
+#. ID 605
+#. ID 606
+#. ID 607
+#. ID 608
+#. ID 609
+#. ID 610
+#. ID 611
+#. ID 612
+#. ID 613
+#. ID 614
+#. ID 615
+#. ID 616
+#. ID 617
+#. ID 618
+#. ID 619
+#. ID 620
+#. ID 621
+#. ID 622
+#. ID 623
+#. ID 624
+#. ID 625
+#. ID 626
+#. ID 627
+#. ID 628
+#. ID 629
+#. ID 630
+#. ID 631
+#. ID 632
+#. ID 633
+#. ID 634
+#. ID 635
+#. ID 636
+#. ID 637
+#. ID 638
+#. ID 639
+#. ID 640
+#. ID 641
+#. ID 642
+#. ID 643
+#. ID 644
+#. ID 645
+#. ID 646
+#. ID 647
+#. ID 648
+#. ID 649
+#. ID 650
+#. ID 651
+#. ID 652
+#. ID 653
+#. ID 654
+#. ID 655
+#. ID 656
+#. ID 657
+#. ID 658
+#. ID 659
+#. ID 660
+#. ID 661
+#. ID 662
+#. ID 663
+#. ID 664
+#. ID 665
+#. ID 666
+#. ID 667
+#. ID 668
+#. ID 669
+#. ID 670
+#. ID 671
+#. ID 672
+#. ID 673
+#. ID 674
+#. ID 675
+#. ID 676
+#. ID 677
+#. ID 678
+#. ID 679
+#. ID 680
+#. ID 681
+#. ID 682
+#. ID 683
+#. ID 684
+#. ID 685
+#. ID 686
+#. ID 687
+#. ID 688
+#. ID 689
+#. ID 690
+#. ID 691
+#. ID 692
+#. ID 693
+#. ID 694
+#. ID 695
+#. ID 696
+#. ID 697
+#. ID 698
+#. ID 699
+#. ID 700
+#. ID 701
+#. ID 702
+#. ID 703
+#. ID 704
+#. ID 705
+#. ID 706
+#. ID 707
+#. ID 708
+#. ID 709
+#. ID 710
+#. ID 711
+#. ID 712
+#. ID 713
+#. ID 714
+#. ID 715
+#. ID 716
+#. ID 717
+#. ID 718
+#. ID 719
+#. ID 720
+#. ID 721
+#. ID 722
+#. ID 723
+#. ID 724
+#. ID 725
+#. ID 726
+#. ID 727
+#. ID 728
+#. ID 729
+#. ID 730
+#. ID 731
+#. ID 732
+#. ID 733
+#. ID 734
+#. ID 735
+#. ID 736
+#. ID 737
+#. ID 738
+#. ID 739
+#. ID 740
+#. ID 741
+#. ID 742
+#. ID 743
+#. ID 744
+#. ID 745
+#. ID 746
+#. ID 747
+#. ID 748
+#. ID 749
+#. ID 750
+#. ID 751
+#. ID 752
+#. ID 753
+#. ID 754
+#. ID 755
+#. ID 756
+#. ID 757
+#. ID 758
+#. ID 759
+#. ID 760
+#. ID 761
+#. ID 762
+#. ID 763
+#. ID 764
+#. ID 765
+#. ID 766
+#. ID 767
+#. ID 768
+#. ID 769
+#. ID 770
+#. ID 771
+#. ID 772
+#. ID 773
+#. ID 774
+#. ID 775
+#. ID 776
+#. ID 777
+#. ID 778
+#. ID 779
+#. ID 780
+#. ID 781
+#. ID 782
+#. ID 783
+#. ID 784
+#. ID 785
+#. ID 786
+#. ID 787
+#. ID 788
+#. ID 789
+#. ID 790
+#. ID 791
+#. ID 792
+#. ID 793
+#. ID 794
+#. ID 795
+#. ID 796
+#. ID 797
+#. ID 798
+#. ID 799
+#. ID 800
+#. ID 801
+#. ID 802
+#. ID 803
+#. ID 804
+#. ID 805
+#. ID 806
+#. ID 807
+#. ID 808
+#. ID 809
+#. ID 810
+#. ID 811
+#. ID 812
+#. ID 813
+#. ID 814
+#. ID 815
+#. ID 816
+#. ID 817
+#. ID 818
+#. ID 819
+#. ID 820
+#. ID 821
+#. ID 822
+#. ID 823
+#. ID 824
+#. ID 825
+#. ID 826
+#. ID 827
+#. ID 828
+#. ID 829
+#. ID 830
+#. ID 831
+#. ID 832
+#. ID 833
+#. ID 834
+#. ID 835
+#. ID 836
+#. ID 837
+#. ID 838
+#. ID 839
+#. ID 840
+#. ID 841
+#. ID 842
+#. ID 843
+#. ID 844
+#. ID 845
+#. ID 846
+#. ID 847
+#. ID 848
+#. ID 849
+#. ID 850
+#. ID 851
+#. ID 852
+#. ID 853
+#. ID 854
+#. ID 855
+#. ID 856
+#. ID 857
+#. ID 858
+#. ID 859
+#. ID 860
+#. ID 861
+#. ID 862
+#. ID 863
+#. ID 864
+#. ID 865
+#. ID 866
+#. ID 867
+#. ID 868
+#. ID 869
+#. ID 870
+#. ID 871
+#. ID 872
+#. ID 873
+#. ID 874
+#. ID 875
+#. ID 876
+#. ID 877
+#. ID 878
+#. ID 879
+#. ID 880
+#. ID 881
+#. ID 882
+#. ID 883
+#. ID 884
+#. ID 885
+#. ID 886
+#. ID 887
+#. ID 888
+#. ID 889
+#. ID 890
+#. ID 891
+#. ID 892
+#. ID 893
+#. ID 894
+#. ID 895
+#. ID 896
+#. ID 897
+#. ID 898
+#. ID 899
+#. ID 900
+#. ID 901
+#. ID 902
+#. ID 903
+#. ID 904
+#. ID 905
+#. ID 906
+#. ID 907
+#. ID 908
+#. ID 909
+#. ID 910
+#. ID 911
+#. ID 912
+#. ID 913
+#. ID 914
+#. ID 915
+#. ID 916
+#. ID 917
+#. ID 918
+#. ID 919
+#. ID 920
+#. ID 921
+#. ID 922
+#. ID 923
+#. ID 924
+#. ID 925
+#. ID 926
+#. ID 927
+#. ID 928
+#. ID 929
+#. ID 930
+#. ID 931
+#. ID 932
+#. ID 933
+#. ID 934
+#. ID 935
+#. ID 936
+#. ID 937
+#. ID 938
+#. ID 939
+#. ID 940
+#. ID 941
+#. ID 942
+#. ID 943
+#. ID 944
+#. ID 945
+#. ID 946
+#. ID 947
+#. ID 948
+#. ID 949
+#. ID 950
+#. ID 951
+#. ID 952
+#. ID 953
+#. ID 954
+#. ID 955
+#. ID 956
+#. ID 957
+#. ID 958
+#. ID 959
+#. ID 960
+#. ID 961
+#. ID 962
+#. ID 963
+#. ID 964
+#. ID 965
+#. ID 966
+#. ID 967
+#. ID 968
+#. ID 969
+#. ID 970
+#. ID 971
+#. ID 972
+#. ID 973
+#. ID 974
+#. ID 975
+#. ID 976
+#. ID 977
+#. ID 978
+#. ID 979
+#. ID 980
+#. ID 981
+#. ID 982
+#. ID 983
+#. ID 984
+#. ID 985
+#. ID 986
+#. ID 987
+#. ID 988
+#. ID 989
+#. ID 990
+#. ID 991
+#. ID 992
+#. ID 993
+#. ID 994
+#. ID 995
+#. ID 996
+#. ID 997
+#. ID 998
+#. ID 999
+#. ID 1000
+#. ID 1001
+#. ID 1002
+#. ID 1003
+#. ID 1004
+#. ID 1005
+#. ID 1006
+#. ID 1007
+#. ID 1008
+#. ID 1009
+#. ID 1010
+#. ID 1011
+#. ID 1012
+#. ID 1013
+#. ID 1014
+#. ID 1015
+#. ID 1016
+#. ID 1017
+#. ID 1018
+#. ID 1019
+#. ID 1020
+#. ID 1021
+#. ID 1022
+#. ID 1023
+#. ID 1024
+#. ID 1025
+#. ID 1026
+#. ID 1027
+#. ID 1028
+#. ID 1029
+#. ID 1030
+#. ID 1031
+#. ID 1032
+#. ID 1033
+#. ID 1034
+#. ID 1035
+#. ID 1036
+#. ID 1037
+#. ID 1038
+#. ID 1039
+#. ID 1040
+#. ID 1041
+#. ID 1042
+#. ID 1043
+#. ID 1044
+#. ID 1045
+#. ID 1046
+#. ID 1047
+#. ID 1048
+#. ID 1049
+#. ID 1050
+#. ID 1051
+#. ID 1052
+#. ID 1053
+#. ID 1054
+#. ID 1055
+#. ID 1056
+#. ID 1057
+#. ID 1058
+#. ID 1059
+#. ID 1060
+#. ID 1061
+#. ID 1062
+#. ID 1063
+#. ID 1064
+#. ID 1065
+#. ID 1066
+#. ID 1067
+#. ID 1068
+#. ID 1069
+#. ID 1070
+#. ID 1071
+#. ID 1072
+#. ID 1073
+#. ID 1074
+#. ID 1075
+#. ID 1076
+#. ID 1077
+#. ID 1078
+#. ID 1079
+#. ID 1080
+#. ID 1081
+#. ID 1082
+#. ID 1083
+#. ID 1084
+#. ID 1085
+#. ID 1086
+#. ID 1087
+#. ID 1088
+#. ID 1089
+#. ID 1090
+#. ID 1091
+#. ID 1092
+#. ID 1093
+#. ID 1094
+#. ID 1095
+#. ID 1096
+#. ID 1097
+#. ID 1098
+#. ID 1099
+#. ID 1100
+#. ID 1101
+#. ID 1102
+#. ID 1103
+#. ID 1104
+#. ID 1105
+#. ID 1106
+#. ID 1107
+#. ID 1108
+#. ID 1109
+#. ID 1110
+#. ID 1111
+#. ID 1112
+#. ID 1113
+#. ID 1114
+#. ID 1115
+#. ID 1116
+#. ID 1117
+#. ID 1118
+#. ID 1119
+#. ID 1120
+#. ID 1121
+#. ID 1122
+#. ID 1123
+#. ID 1124
+#. ID 1125
+#. ID 1126
+#. ID 1127
+#. ID 1128
+#. ID 1129
+#. ID 1130
+#. ID 1131
+#. ID 1132
+#. ID 1133
+#. ID 1134
+#. ID 1135
+#. ID 1136
+#. ID 1137
+#. ID 1138
+#. ID 1139
+#. ID 1140
+#. ID 1141
+#. ID 1142
+#. ID 1143
+#. ID 1144
+#. ID 1145
+#. ID 1146
+#. ID 1147
+#. ID 1148
+#. ID 1149
+#. ID 1150
+#. ID 1151
+#. ID 1152
+#. ID 1153
+#. ID 1154
+#. ID 1155
+#. ID 1156
+#. ID 1157
+#. ID 1158
+#. ID 1159
+#. ID 1160
+#. ID 1161
+#. ID 1162
+#. ID 1163
+#. ID 1164
+#. ID 1165
+#. ID 1166
+#. ID 1167
+#. ID 1168
+#. ID 1169
+#. ID 1170
+#. ID 1171
+#. ID 1172
+#. ID 1173
+#. ID 1174
+#. ID 1175
+#. ID 1176
+#. ID 1177
+#. ID 1178
+#. ID 1179
+#. ID 1180
+#. ID 1181
+#. ID 1182
+#. ID 1183
+#. ID 1184
+#. ID 1185
+#. ID 1186
+#. ID 1187
+#. ID 1188
+#. ID 1189
+#. ID 1190
+#. ID 1191
+#. ID 1192
+#. ID 1193
+#. ID 1194
+#. ID 1195
+#. ID 1196
+#. ID 1197
+#. ID 1198
+#. ID 1199
+#. ID 1200
+#. ID 1201
+#. ID 1202
+#. ID 1203
+#. ID 1204
+#. ID 1205
+#. ID 1206
+#. ID 1207
+#. ID 1208
+#. ID 1209
+#. ID 1210
+#. ID 1211
+#. ID 1212
+#. ID 1213
+#. ID 1214
+#. ID 1215
+#. ID 1216
+#. ID 1217
+#. ID 1218
+#. ID 1219
+#. ID 1220
+#. ID 1221
+#. ID 1222
+#. ID 1223
+#. ID 1224
+#. ID 1225
+#. ID 1226
+#. ID 1227
+#. ID 1228
+#. ID 1229
+#. ID 1230
+#. ID 1231
+#. ID 1232
+#. ID 1233
+#. ID 1234
+#. ID 1235
+#. ID 1236
+#. ID 1237
+#. ID 1238
+#. ID 1239
+#. ID 1240
+#. ID 1241
+#. ID 1242
+#. ID 1243
+#. ID 1244
+#. ID 1245
+#. ID 1246
+#. ID 1247
+#. ID 1248
+#. ID 1249
+#. ID 1250
+#. ID 1251
+#. ID 1252
+#. ID 1253
+#. ID 1254
+#. ID 1255
+#. ID 1256
+#. ID 1257
+#. ID 1258
+#. ID 1259
+#. ID 1260
+#. ID 1261
+#. ID 1262
+#. ID 1263
+#. ID 1264
+#. ID 1265
+#. ID 1266
+#. ID 1267
+#. ID 1268
+#. ID 1269
+#. ID 1270
+#. ID 1271
+#. ID 1272
+#. ID 1273
+#. ID 1274
+#. ID 1275
+#. ID 1276
+#. ID 1277
+#. ID 1278
+#. ID 1279
+#. ID 1280
+#. ID 1281
+#. ID 1282
+#. ID 1283
+#. ID 1284
+#. ID 1285
+#. ID 1286
+#. ID 1287
+#. ID 1288
+#. ID 1289
+#. ID 1290
+#. ID 1291
+#. ID 1292
+#. ID 1293
+#. ID 1294
+#. ID 1295
+#. ID 1296
+#. ID 1297
+#. ID 1298
+#. ID 1299
+#. ID 1300
+#. ID 1301
+#. ID 1302
+#. ID 1303
+#. ID 1304
+#. ID 1305
+#. ID 1306
+#. ID 1307
+#. ID 1308
+#. ID 1309
+#. ID 1310
+#. ID 1311
+#. ID 1312
+#. ID 1313
+#. ID 1314
+#. ID 1315
+#. ID 1316
+#. ID 1317
+#. ID 1318
+#. ID 1319
+#. ID 1320
+#. ID 1321
+#. ID 1322
+#. ID 1323
+#. ID 1324
+#. ID 1325
+#. ID 1326
+#. ID 1327
+#. ID 1328
+#. ID 1329
+#. ID 1330
+#. ID 1331
+#. ID 1332
+#. ID 1333
+#. ID 1334
+#. ID 1335
+#. ID 1336
+#. ID 1337
+#. ID 1338
+#. ID 1339
+#. ID 1340
+#. ID 1341
+#. ID 1342
+#. ID 1343
+#. ID 1344
+#. ID 1345
+#. ID 1346
+#. ID 1347
+#. ID 1348
+#. ID 1349
+#. ID 1350
+#. ID 1351
+#. ID 1352
+#. ID 1353
+#. ID 1354
+#. ID 1355
+#. ID 1356
+#. ID 1357
+#. ID 1358
+#. ID 1359
+#. ID 1360
+#. ID 1361
+#. ID 1362
+#. ID 1363
+#. ID 1364
+#. ID 1365
+#. ID 1366
+#. ID 1367
+#. ID 1368
+#. ID 1369
+#. ID 1370
+#. ID 1371
+#. ID 1372
+#. ID 1373
+#. ID 1374
+#. ID 1375
+#. ID 1376
+#. ID 1377
+#. ID 1378
+#. ID 1379
+#. ID 1380
+#. ID 1381
+#. ID 1382
+#. ID 1383
+#. ID 1384
+#. ID 1385
+#. ID 1386
+#. ID 1387
+#. ID 1388
+#. ID 1389
+#. ID 1390
+#. ID 1391
+#. ID 1392
+#. ID 1393
+#. ID 1394
+#. ID 1395
+#. ID 1396
+#. ID 1397
+#. ID 1398
+#. ID 1399
+#. ID 1400
+#. ID 1401
+#. ID 1402
+#. ID 1403
+#. ID 1404
+#. ID 1405
+#. ID 1406
+#. ID 1407
+#. ID 1408
+#. ID 1409
+#. ID 1410
+#. ID 1411
+#. ID 1412
+#. ID 1413
+#. ID 1414
+#. ID 1415
+#. ID 1416
+#. ID 1417
+#. ID 1418
+#. ID 1419
+#. ID 1420
+#. ID 1421
+#. ID 1422
+#. ID 1423
+#. ID 1424
+#. ID 1425
+#. ID 1426
+#. ID 1427
+#. ID 1428
+#. ID 1429
+#. ID 1430
+#. ID 1431
+#. ID 1432
+#. ID 1433
+#. ID 1434
+#. ID 1435
+#. ID 1436
+#. ID 1437
+#. ID 1438
+#. ID 1439
+#. ID 1440
+#. ID 1441
+#. ID 1442
+#. ID 1443
+#. ID 1444
+#. ID 1445
+#. ID 1446
+#. ID 1447
+#. ID 1448
+#. ID 1449
+#. ID 1450
+#. ID 1451
+#. ID 1452
+#. ID 1453
+#. ID 1454
+#. ID 1455
+#. ID 1456
+#. ID 1457
+#. ID 1458
+#. ID 1459
+#. ID 1460
+#. ID 1461
+#. ID 1462
+#. ID 1463
+#. ID 1464
+#. ID 1465
+#. ID 1466
+#. ID 1467
+#. ID 1468
+#. ID 1469
+#. ID 1470
+#. ID 1471
+#. ID 1472
+#. ID 1473
+#. ID 1474
+#. ID 1475
+#. ID 1476
+#. ID 1477
+#. ID 1478
+#. ID 1479
+#. ID 1480
+#. ID 1481
+#. ID 1482
+#. ID 1483
+#. ID 1484
+#. ID 1485
+#. ID 1486
+#. ID 1487
+#. ID 1488
+#. ID 1489
+#. ID 1490
+#. ID 1491
+#. ID 1492
+#. ID 1493
+#. ID 1494
+#. ID 1495
+#. ID 1496
+#. ID 1497
+#. ID 1498
+#. ID 1499
+#. ID 1500
+#. ID 1501
+#. ID 1502
+#. ID 1503
+#. ID 1504
+#. ID 1505
+#. ID 1506
+#. ID 1507
+#. ID 1508
+#. ID 1509
+#. ID 1510
+#. ID 1511
+#. ID 1512
+#. ID 1513
+#. ID 1514
+#. ID 1515
+#. ID 1516
+#. ID 1517
+#. ID 1518
+#. ID 1519
+#. ID 1520
+#. ID 1521
+#. ID 1522
+#. ID 1523
+#. ID 1524
+#. ID 1525
+#. ID 1526
+#. ID 1527
+#. ID 1528
+#. ID 1529
+#. ID 1530
+#. ID 1531
+#. ID 1532
+#. ID 1533
+#. ID 1534
+#. ID 1535
+#. ID 1536
+#. ID 1537
+#. ID 1538
+#. ID 1539
+#. ID 1540
+#. ID 1541
+#. ID 1542
+#. ID 1543
+#. ID 1544
+#. ID 1545
+#. ID 1546
+#. ID 1547
+#. ID 1548
+#. ID 1549
+#. ID 1550
+#. ID 1551
+#. ID 1552
+#. ID 1553
+#. ID 1554
+#. ID 1555
+#. ID 1556
+#. ID 1557
+#. ID 1558
+#. ID 1559
+#. ID 1560
+#. ID 1561
+#. ID 1562
+#. ID 1563
+#. ID 1564
+#. ID 1565
+#. ID 1566
+#. ID 1567
+#. ID 1568
+#. ID 1569
+#. ID 1570
+#. ID 1571
+#. ID 1572
+#. ID 1573
+#. ID 1574
+#. ID 1575
+#. ID 1576
+#. ID 1577
+#. ID 1578
+#. ID 1579
+#. ID 1580
+#. ID 1581
+#. ID 1582
+#. ID 1583
+#. ID 1584
+#. ID 1585
+#. ID 1586
+#. ID 1587
+#. ID 1588
+#. ID 1589
+#. ID 1590
+#. ID 1591
+#. ID 1592
+#. ID 1593
+#. ID 1594
+#. ID 1595
+#. ID 1596
+#. ID 1597
+#. ID 1598
+#. ID 1599
+#. ID 1600
+#. ID 1601
+#. ID 1602
+#. ID 1603
+#. ID 1604
+#. ID 1605
+#. ID 1606
+#. ID 1607
+#. ID 1608
+#. ID 1609
+#. ID 1610
+#. ID 1611
+#. ID 1612
+#. ID 1613
+#. ID 1614
+#. ID 1615
+#. ID 1616
+#. ID 1617
+#. ID 1618
+#. ID 1619
+#. ID 1620
+#. ID 1621
+#. ID 1622
+#. ID 1623
+#. ID 1624
+#. ID 1625
+#. ID 1626
+#. ID 1627
+#. ID 1628
+#. ID 1629
+#. ID 1630
+#. ID 1631
+#. ID 1632
+#. ID 1633
+#. ID 1634
+#. ID 1635
+#. ID 1636
+#. ID 1637
+#. ID 1638
+#. ID 1639
+#. ID 1640
+#. ID 1641
+#. ID 1642
+#. ID 1643
+#. ID 1644
+#. ID 1645
+#. ID 1646
+#. ID 1647
+#. ID 1648
+#. ID 1649
+#. ID 1650
+#. ID 1651
+#. ID 1652
+#. ID 1653
+#. ID 1654
+#. ID 1655
+#. ID 1656
+#. ID 1657
+#. ID 1658
+#. ID 1659
+#. ID 1660
+#. ID 1661
+#. ID 1662
+#. ID 1663
+#. ID 1664
+#. ID 1665
+#. ID 1666
+#. ID 1667
+#. ID 1668
+#. ID 1669
+#. ID 1670
+#. ID 1671
+#. ID 1672
+#. ID 1673
+#. ID 1674
+#. ID 1675
+#. ID 1676
+#. ID 1677
+#. ID 1678
+#. ID 1679
+#. ID 1680
+#. ID 1681
+#. ID 1682
+#. ID 1683
+#. ID 1684
+#. ID 1685
+#. ID 1686
+#. ID 1687
+#. ID 1688
+#. ID 1689
+#. ID 1690
+#. ID 1691
+#. ID 1692
+#. ID 1693
+#. ID 1694
+#. ID 1695
+#. ID 1696
+#. ID 1697
+#. ID 1698
+#. ID 1699
+#. ID 1700
+#. ID 1701
+#. ID 1702
+#. ID 1703
+#. ID 1704
+#. ID 1705
+#. ID 1706
+#. ID 1707
+#. ID 1708
+#. ID 1709
+#. ID 1710
+#. ID 1711
+#. ID 1712
+#. ID 1713
+#. ID 1714
+#. ID 1715
+#. ID 1716
+#. ID 1717
+#. ID 1718
+#. ID 1719
+#. ID 1720
+#. ID 1721
+#. ID 1722
+#. ID 1723
+#. ID 1724
+#. ID 1725
+#. ID 1726
+#. ID 1727
+#. ID 1728
+#. ID 1729
+#. ID 1730
+#. ID 1731
+#. ID 1732
+#. ID 1733
+#. ID 1734
+#. ID 1735
+#. ID 1736
+#. ID 1737
+#. ID 1738
+#. ID 1739
+#. ID 1740
+#. ID 1741
+#. ID 1742
+#. ID 1743
+#. ID 1744
+#. ID 1745
+#. ID 1746
+#. ID 1747
+#. ID 1748
+#. ID 1749
+#. ID 1750
+#. ID 1751
+#. ID 1752
+#. ID 1753
+#. ID 1754
+#. ID 1755
+#. ID 1756
+#. ID 1757
+#. ID 1758
+#. ID 1759
+#. ID 1760
+#. ID 1761
+#. ID 1762
+#. ID 1763
+#. ID 1764
+#. ID 1765
+#. ID 1766
+#. ID 1767
+#. ID 1768
+#. ID 1769
+#. ID 1770
+#. ID 1771
+#. ID 1772
+#. ID 1773
+#. ID 1774
+#. ID 1775
+#. ID 1776
+#. ID 1777
+#. ID 1778
+#. ID 1779
+#. ID 1780
+#. ID 1781
+#. ID 1782
+#. ID 1783
+#. ID 1784
+#. ID 1785
+#. ID 1786
+#. ID 1787
+#. ID 1788
+#. ID 1789
+#. ID 1790
+#. ID 1791
+#. ID 1792
+#. ID 1793
+#. ID 1794
+#. ID 1795
+#. ID 1796
+#. ID 1797
+#. ID 1798
+#. ID 1799
+#. ID 1800
+#. ID 1801
+#. ID 1802
+#. ID 1803
+#. ID 1804
+#. ID 1805
+#. ID 1806
+#. ID 1807
+#. ID 1808
+#. ID 1809
+#. ID 1810
+#. ID 1811
+#. ID 1812
+#. ID 1813
+#. ID 1814
+#. ID 1815
+#. ID 1816
+#. ID 1817
+#. ID 1818
+#. ID 1819
+#. ID 1820
+#. ID 1821
+#. ID 1822
+#. ID 1823
+#. ID 1824
+#. ID 1825
+#. ID 1826
+#. ID 1827
+#. ID 1828
+#. ID 1829
+#. ID 1830
+#. ID 1831
+#. ID 1832
+#. ID 1833
+#. ID 1834
+#. ID 1835
+#. ID 1836
+#. ID 1837
+#. ID 1838
+#. ID 1839
+#. ID 1840
+#. ID 1841
+#. ID 1842
+#. ID 1843
+#. ID 1844
+#. ID 1845
+#. ID 1846
+#. ID 1847
+#. ID 1848
+#. ID 1849
+#. ID 1850
+#. ID 1851
+#. ID 1852
+#. ID 1853
+#. ID 1854
+#. ID 1855
+#. ID 1856
+#. ID 1857
+#. ID 1858
+#. ID 1859
+#. ID 1860
+#. ID 1861
+#. ID 1862
+#. ID 1863
+#. ID 1864
+#. ID 1865
+#. ID 1866
+#. ID 1867
+#. ID 1868
+#. ID 1869
+#. ID 1870
+#. ID 1871
+#. ID 1872
+#. ID 1873
+#. ID 1874
+#. ID 1875
+#. ID 1876
+#. ID 1877
+#. ID 1878
+#. ID 1879
+#. ID 1880
+#. ID 1881
+#. ID 1882
+#. ID 1883
+#. ID 1884
+#. ID 1885
+#. ID 1886
+#. ID 1887
+#. ID 1888
+#. ID 1889
+#. ID 1890
+#. ID 1891
+#. ID 1892
+#. ID 1893
+#. ID 1894
+#. ID 1895
+#. ID 1896
+#. ID 1897
+#. ID 1898
+#. ID 1899
+#. ID 1900
+#. ID 1901
+#. ID 1902
+#. ID 1903
+#. ID 1904
+#. ID 1905
+#. ID 1906
+#. ID 1907
+#. ID 1908
+#. ID 1909
+#. ID 1910
+#. ID 1911
+#. ID 1912
+#. ID 1913
+#. ID 1914
+#. ID 1915
+#. ID 1916
+#. ID 1917
+#. ID 1918
+#. ID 1919
+#. ID 1920
+#. ID 1921
+#. ID 1922
+#. ID 1923
+#. ID 1924
+#. ID 1925
+#. ID 1926
+#. ID 1927
+#. ID 1928
+#. ID 1929
+#. ID 1930
+#. ID 1931
+#. ID 1932
+#. ID 1933
+#. ID 1934
+#. ID 1935
+#. ID 1936
+#. ID 1937
+#. ID 1938
+#. ID 1939
+#. ID 1940
+#. ID 1941
+#. ID 1942
+#. ID 1943
+#. ID 1944
+#. ID 1945
+#. ID 1946
+#. ID 1947
+#. ID 1948
+#. ID 1949
+#. ID 1950
+#. ID 1951
+#. ID 1952
+#. ID 1953
+#. ID 1954
+#. ID 1955
+#. ID 1956
+#. ID 1957
+#. ID 1958
+#. ID 1959
+#. ID 1960
+#. ID 1961
+#. ID 1962
+#. ID 1963
+#. ID 1964
+#. ID 1965
+#. ID 1966
+#. ID 1967
+#. ID 1968
+#. ID 1969
+#. ID 1970
+#. ID 1971
+#. ID 1972
+#. ID 1973
+#. ID 1974
+#. ID 1975
+#. ID 1976
+#. ID 1977
+#. ID 1978
+#. ID 1979
+#. ID 1980
+#. ID 1981
+#. ID 1982
+#. ID 1983
+#. ID 1984
+#. ID 1985
+#. ID 1986
+#. ID 1987
+#. ID 1988
+#. ID 1989
+#. ID 1990
+#. ID 1991
+#. ID 1992
+#. ID 1993
+#. ID 1994
+#. ID 1995
+#. ID 1996
+#. ID 1997
+#. ID 1998
+#. ID 1999
+#. ID 2000
+msgctxt "skills.using_message1"
+msgid "%S"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.using_message1"
+msgid "%S ダミーのほほをつねるです。"
+msgstr ""
+
+#. ID 2
+msgctxt "skills.using_message2"
+msgid "通常のほほつね処理が入らないので演出などに使ってね"
+msgstr ""
+
+#. ID 3
+msgctxt "skills.name"
+msgid "ID:    3"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.name"
+msgid "ID:*   4"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.description"
+msgid "登録済みの場所に移動します。デバッグ用。"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.name"
+msgid "ID:*   5"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.description"
+msgid "登録済みの場所に帰還します。デバッグ用。"
+msgstr ""
+
+#. ID 6
+msgctxt "skills.name"
+msgid "ID:    6"
+msgstr ""
+
+#. ID 7
+msgctxt "skills.name"
+msgid "ID:    7"
+msgstr ""
+
+#. ID 8
+msgctxt "skills.name"
+msgid "ID:    8"
+msgstr ""
+
+#. ID 9
+msgctxt "skills.name"
+msgid "ID:    9"
+msgstr ""
+
+#. ID 10
+msgctxt "skills.name"
+msgid "ID:   10"
+msgstr ""
+
+#. ID 11
+msgctxt "skills.name"
+msgid "ID:   11"
+msgstr ""
+
+#. ID 12
+msgctxt "skills.name"
+msgid "ID:   12"
+msgstr ""
+
+#. ID 13
+msgctxt "skills.name"
+msgid "ID:   13"
+msgstr ""
+
+#. ID 14
+msgctxt "skills.name"
+msgid "ID:   14"
+msgstr ""
+
+#. ID 15
+msgctxt "skills.name"
+msgid "ID:   15"
+msgstr ""
+
+#. ID 16
+msgctxt "skills.name"
+msgid "ID:   16"
+msgstr ""
+
+#. ID 17
+msgctxt "skills.name"
+msgid "ID:   17"
+msgstr ""
+
+#. ID 18
+msgctxt "skills.name"
+msgid "ID:   18"
+msgstr ""
+
+#. ID 19
+msgctxt "skills.name"
+msgid "ID:   19"
+msgstr ""
+
+#. ID 20
+msgctxt "skills.name"
+msgid "ID:   20"
+msgstr ""
+
+#. ID 21
+msgctxt "skills.name"
+msgid "ID:   21"
+msgstr ""
+
+#. ID 22
+msgctxt "skills.name"
+msgid "ID:   22"
+msgstr ""
+
+#. ID 23
+msgctxt "skills.name"
+msgid "ID:   23"
+msgstr ""
+
+#. ID 24
+msgctxt "skills.name"
+msgid "ID:   24"
+msgstr ""
+
+#. ID 25
+msgctxt "skills.name"
+msgid "ID:   25"
+msgstr ""
+
+#. ID 26
+msgctxt "skills.name"
+msgid "ID:   26"
+msgstr ""
+
+#. ID 27
+msgctxt "skills.name"
+msgid "ID:   27"
+msgstr ""
+
+#. ID 28
+msgctxt "skills.name"
+msgid "ID:   28"
+msgstr ""
+
+#. ID 29
+msgctxt "skills.name"
+msgid "ID:   29"
+msgstr ""
+
+#. ID 30
+msgctxt "skills.name"
+msgid "ID:   30"
+msgstr ""
+
+#. ID 31
+msgctxt "skills.name"
+msgid "ID:   31"
+msgstr ""
+
+#. ID 32
+msgctxt "skills.name"
+msgid "ID:   32"
+msgstr ""
+
+#. ID 33
+msgctxt "skills.name"
+msgid "ID:   33"
+msgstr ""
+
+#. ID 34
+msgctxt "skills.name"
+msgid "ID:   34"
+msgstr ""
+
+#. ID 35
+msgctxt "skills.name"
+msgid "ID:   35"
+msgstr ""
+
+#. ID 36
+msgctxt "skills.name"
+msgid "ID:   36"
+msgstr ""
+
+#. ID 37
+msgctxt "skills.name"
+msgid "ID:   37"
+msgstr ""
+
+#. ID 38
+msgctxt "skills.name"
+msgid "ID:   38"
+msgstr ""
+
+#. ID 39
+msgctxt "skills.name"
+msgid "ID:   39"
+msgstr ""
+
+#. ID 40
+msgctxt "skills.name"
+msgid "ID:   40"
+msgstr ""
+
+#. ID 41
+msgctxt "skills.name"
+msgid "ID:   41"
+msgstr ""
+
+#. ID 42
+msgctxt "skills.name"
+msgid "ID:   42"
+msgstr ""
+
+#. ID 43
+msgctxt "skills.name"
+msgid "ID:   43"
+msgstr ""
+
+#. ID 44
+msgctxt "skills.name"
+msgid "ID:   44"
+msgstr ""
+
+#. ID 45
+msgctxt "skills.name"
+msgid "ID:   45"
+msgstr ""
+
+#. ID 46
+msgctxt "skills.name"
+msgid "ID:   46"
+msgstr ""
+
+#. ID 47
+msgctxt "skills.name"
+msgid "ID:   47"
+msgstr ""
+
+#. ID 48
+msgctxt "skills.name"
+msgid "ID:   48"
+msgstr ""
+
+#. ID 49
+msgctxt "skills.name"
+msgid "ID:   49"
+msgstr ""
+
+#. ID 50
+msgctxt "skills.name"
+msgid "ID:   50"
+msgstr ""
+
+#. ID 51
+msgctxt "skills.name"
+msgid "ID:   51"
+msgstr ""
+
+#. ID 52
+msgctxt "skills.name"
+msgid "ID:   52"
+msgstr ""
+
+#. ID 53
+msgctxt "skills.name"
+msgid "ID:   53"
+msgstr ""
+
+#. ID 54
+msgctxt "skills.name"
+msgid "ID:   54"
+msgstr ""
+
+#. ID 55
+msgctxt "skills.name"
+msgid "ID:   55"
+msgstr ""
+
+#. ID 56
+msgctxt "skills.name"
+msgid "ID:   56"
+msgstr ""
+
+#. ID 57
+msgctxt "skills.name"
+msgid "ID:   57"
+msgstr ""
+
+#. ID 58
+msgctxt "skills.name"
+msgid "ID:   58"
+msgstr ""
+
+#. ID 59
+msgctxt "skills.name"
+msgid "ID:   59"
+msgstr ""
+
+#. ID 60
+msgctxt "skills.name"
+msgid "ID:   60"
+msgstr ""
+
+#. ID 61
+msgctxt "skills.name"
+msgid "ID:   61"
+msgstr ""
+
+#. ID 62
+msgctxt "skills.name"
+msgid "ID:   62"
+msgstr ""
+
+#. ID 63
+msgctxt "skills.name"
+msgid "ID:   63"
+msgstr ""
+
+#. ID 64
+msgctxt "skills.name"
+msgid "ID:   64"
+msgstr ""
+
+#. ID 65
+msgctxt "skills.name"
+msgid "ID:   65"
+msgstr ""
+
+#. ID 66
+msgctxt "skills.name"
+msgid "ID:   66"
+msgstr ""
+
+#. ID 67
+msgctxt "skills.name"
+msgid "ID:   67"
+msgstr ""
+
+#. ID 68
+msgctxt "skills.name"
+msgid "ID:   68"
+msgstr ""
+
+#. ID 69
+msgctxt "skills.name"
+msgid "ID:   69"
+msgstr ""
+
+#. ID 70
+msgctxt "skills.name"
+msgid "ID:   70"
+msgstr ""
+
+#. ID 71
+msgctxt "skills.name"
+msgid "ID:   71"
+msgstr ""
+
+#. ID 72
+msgctxt "skills.name"
+msgid "ID:   72"
+msgstr ""
+
+#. ID 73
+msgctxt "skills.name"
+msgid "ID:   73"
+msgstr ""
+
+#. ID 74
+msgctxt "skills.name"
+msgid "ID:   74"
+msgstr ""
+
+#. ID 75
+msgctxt "skills.name"
+msgid "ID:   75"
+msgstr ""
+
+#. ID 76
+msgctxt "skills.name"
+msgid "ID:   76"
+msgstr ""
+
+#. ID 77
+msgctxt "skills.name"
+msgid "ID:   77"
+msgstr ""
+
+#. ID 78
+msgctxt "skills.name"
+msgid "ID:   78"
+msgstr ""
+
+#. ID 79
+msgctxt "skills.name"
+msgid "ID:   79"
+msgstr ""
+
+#. ID 80
+msgctxt "skills.name"
+msgid "ID:   80"
+msgstr ""
+
+#. ID 81
+msgctxt "skills.name"
+msgid "ID:   81"
+msgstr ""
+
+#. ID 82
+msgctxt "skills.name"
+msgid "ID:   82"
+msgstr ""
+
+#. ID 83
+msgctxt "skills.name"
+msgid "ID:   83"
+msgstr ""
+
+#. ID 84
+msgctxt "skills.name"
+msgid "ID:   84"
+msgstr ""
+
+#. ID 85
+msgctxt "skills.name"
+msgid "ID:   85"
+msgstr ""
+
+#. ID 86
+msgctxt "skills.name"
+msgid "ID:   86"
+msgstr ""
+
+#. ID 87
+msgctxt "skills.name"
+msgid "ID:   87"
+msgstr ""
+
+#. ID 88
+msgctxt "skills.name"
+msgid "ID:   88"
+msgstr ""
+
+#. ID 89
+msgctxt "skills.name"
+msgid "ID:   89"
+msgstr ""
+
+#. ID 90
+msgctxt "skills.name"
+msgid "ID:   90"
+msgstr ""
+
+#. ID 91
+msgctxt "skills.name"
+msgid "ID:   91"
+msgstr ""
+
+#. ID 92
+msgctxt "skills.name"
+msgid "ID:   92"
+msgstr ""
+
+#. ID 93
+msgctxt "skills.name"
+msgid "ID:   93"
+msgstr ""
+
+#. ID 94
+msgctxt "skills.name"
+msgid "ID:   94"
+msgstr ""
+
+#. ID 95
+msgctxt "skills.name"
+msgid "ID:   95"
+msgstr ""
+
+#. ID 96
+msgctxt "skills.name"
+msgid "ID:   96"
+msgstr ""
+
+#. ID 97
+msgctxt "skills.name"
+msgid "ID:   97"
+msgstr ""
+
+#. ID 98
+msgctxt "skills.name"
+msgid "ID:   98"
+msgstr ""
+
+#. ID 99
+msgctxt "skills.name"
+msgid "ID:   99"
+msgstr ""
+
+#. ID 100
+msgctxt "skills.name"
+msgid "ID:  100"
+msgstr ""
+
+#. ID 101
+msgctxt "skills.name"
+msgid "ID:  101"
+msgstr ""
+
+#. ID 102
+msgctxt "skills.name"
+msgid "ID:  102"
+msgstr ""
+
+#. ID 103
+msgctxt "skills.name"
+msgid "ID:  103"
+msgstr ""
+
+#. ID 104
+msgctxt "skills.name"
+msgid "ID:  104"
+msgstr ""
+
+#. ID 105
+msgctxt "skills.name"
+msgid "ID:  105"
+msgstr ""
+
+#. ID 106
+msgctxt "skills.name"
+msgid "ID:  106"
+msgstr ""
+
+#. ID 107
+msgctxt "skills.name"
+msgid "ID:  107"
+msgstr ""
+
+#. ID 108
+msgctxt "skills.name"
+msgid "ID:  108"
+msgstr ""
+
+#. ID 109
+msgctxt "skills.name"
+msgid "ID:  109"
+msgstr ""
+
+#. ID 110
+msgctxt "skills.name"
+msgid "ID:  110"
+msgstr ""
+
+#. ID 111
+msgctxt "skills.name"
+msgid "ID:  111"
+msgstr ""
+
+#. ID 112
+msgctxt "skills.name"
+msgid "ID:  112"
+msgstr ""
+
+#. ID 113
+msgctxt "skills.name"
+msgid "ID:  113"
+msgstr ""
+
+#. ID 114
+msgctxt "skills.name"
+msgid "ID:  114"
+msgstr ""
+
+#. ID 115
+msgctxt "skills.name"
+msgid "ID:  115"
+msgstr ""
+
+#. ID 116
+msgctxt "skills.name"
+msgid "ID:  116"
+msgstr ""
+
+#. ID 117
+msgctxt "skills.name"
+msgid "ID:  117"
+msgstr ""
+
+#. ID 118
+msgctxt "skills.name"
+msgid "ID:  118"
+msgstr ""
+
+#. ID 119
+msgctxt "skills.name"
+msgid "ID:  119"
+msgstr ""
+
+#. ID 120
+msgctxt "skills.name"
+msgid "ID:  120"
+msgstr ""
+
+#. ID 121
+msgctxt "skills.name"
+msgid "ID:  121"
+msgstr ""
+
+#. ID 122
+msgctxt "skills.name"
+msgid "ID:  122"
+msgstr ""
+
+#. ID 123
+msgctxt "skills.name"
+msgid "ID:  123"
+msgstr ""
+
+#. ID 124
+msgctxt "skills.name"
+msgid "ID:  124"
+msgstr ""
+
+#. ID 125
+msgctxt "skills.name"
+msgid "ID:  125"
+msgstr ""
+
+#. ID 126
+msgctxt "skills.name"
+msgid "ID:  126"
+msgstr ""
+
+#. ID 127
+msgctxt "skills.name"
+msgid "ID:  127"
+msgstr ""
+
+#. ID 128
+msgctxt "skills.name"
+msgid "ID:  128"
+msgstr ""
+
+#. ID 129
+msgctxt "skills.name"
+msgid "ID:  129"
+msgstr ""
+
+#. ID 130
+msgctxt "skills.name"
+msgid "ID:  130"
+msgstr ""
+
+#. ID 131
+msgctxt "skills.name"
+msgid "ID:  131"
+msgstr ""
+
+#. ID 132
+msgctxt "skills.name"
+msgid "ID:  132"
+msgstr ""
+
+#. ID 133
+msgctxt "skills.name"
+msgid "ID:  133"
+msgstr ""
+
+#. ID 134
+msgctxt "skills.name"
+msgid "ID:  134"
+msgstr ""
+
+#. ID 135
+msgctxt "skills.name"
+msgid "ID:  135"
+msgstr ""
+
+#. ID 136
+msgctxt "skills.name"
+msgid "ID:  136"
+msgstr ""
+
+#. ID 137
+msgctxt "skills.name"
+msgid "ID:  137"
+msgstr ""
+
+#. ID 138
+msgctxt "skills.name"
+msgid "ID:  138"
+msgstr ""
+
+#. ID 139
+msgctxt "skills.name"
+msgid "ID:  139"
+msgstr ""
+
+#. ID 140
+msgctxt "skills.name"
+msgid "ID:  140"
+msgstr ""
+
+#. ID 141
+msgctxt "skills.name"
+msgid "ID:  141 雲slot"
+msgstr ""
+
+#. ID 142
+msgctxt "skills.name"
+msgid "ID:  142 雲FC迷宮"
+msgstr ""
+
+#. ID 143
+msgctxt "skills.name"
+msgid "ID:  143 雲ﾌﾞﾛｯｸ塀"
+msgstr ""
+
+#. ID 144
+msgctxt "skills.name"
+msgid "ID:  144 雲myko"
+msgstr ""
+
+#. ID 145
+msgctxt "skills.name"
+msgid "ID:  145 雲チタババ"
+msgstr ""
+
+#. ID 146
+msgctxt "skills.name"
+msgid "ID:  146 雲symbolon"
+msgstr ""
+
+#. ID 147
+msgctxt "skills.name"
+msgid "ID:  147 雲UG"
+msgstr ""
+
+#. ID 148
+msgctxt "skills.name"
+msgid "ID:  148 雲銭湯前"
+msgstr ""
+
+#. ID 149
+msgctxt "skills.name"
+msgid "ID:  149 雲煉瓦"
+msgstr ""
+
+#. ID 150
+msgctxt "skills.name"
+msgid "ID:  150 ﾊﾟｽﾞﾙｹﾞﾑｰ"
+msgstr ""
+
+#. ID 151
+msgctxt "skills.name"
+msgid "ID:  151"
+msgstr ""
+
+#. ID 152
+msgctxt "skills.name"
+msgid "ID:  152"
+msgstr ""
+
+#. ID 153
+msgctxt "skills.name"
+msgid "ID:  153"
+msgstr ""
+
+#. ID 154
+msgctxt "skills.name"
+msgid "ID:  154"
+msgstr ""
+
+#. ID 155
+msgctxt "skills.name"
+msgid "ID:  155"
+msgstr ""
+
+#. ID 156
+msgctxt "skills.name"
+msgid "ID:  156"
+msgstr ""
+
+#. ID 157
+msgctxt "skills.name"
+msgid "ID:  157"
+msgstr ""
+
+#. ID 158
+msgctxt "skills.name"
+msgid "ID:  158"
+msgstr ""
+
+#. ID 159
+msgctxt "skills.name"
+msgid "ID:  159"
+msgstr ""
+
+#. ID 160
+msgctxt "skills.name"
+msgid "ID:  160"
+msgstr ""
+
+#. ID 161
+msgctxt "skills.name"
+msgid "ID:  161"
+msgstr ""
+
+#. ID 162
+msgctxt "skills.name"
+msgid "ID:  162"
+msgstr ""
+
+#. ID 163
+msgctxt "skills.name"
+msgid "ID:  163"
+msgstr ""
+
+#. ID 164
+msgctxt "skills.name"
+msgid "ID:  164"
+msgstr ""
+
+#. ID 165
+msgctxt "skills.name"
+msgid "ID:  165"
+msgstr ""
+
+#. ID 166
+msgctxt "skills.name"
+msgid "ID:  166"
+msgstr ""
+
+#. ID 167
+msgctxt "skills.name"
+msgid "ID:  167"
+msgstr ""
+
+#. ID 168
+msgctxt "skills.name"
+msgid "ID:  168"
+msgstr ""
+
+#. ID 169
+msgctxt "skills.name"
+msgid "ID:  169"
+msgstr ""
+
+#. ID 170
+msgctxt "skills.name"
+msgid "ID:  170"
+msgstr ""
+
+#. ID 171
+msgctxt "skills.name"
+msgid "ID:  171"
+msgstr ""
+
+#. ID 172
+msgctxt "skills.name"
+msgid "ID:  172"
+msgstr ""
+
+#. ID 173
+msgctxt "skills.name"
+msgid "ID:  173"
+msgstr ""
+
+#. ID 174
+msgctxt "skills.name"
+msgid "ID:  174"
+msgstr ""
+
+#. ID 175
+msgctxt "skills.name"
+msgid "ID:  175"
+msgstr ""
+
+#. ID 176
+msgctxt "skills.name"
+msgid "ID:  176"
+msgstr ""
+
+#. ID 177
+msgctxt "skills.name"
+msgid "ID:  177"
+msgstr ""
+
+#. ID 178
+msgctxt "skills.name"
+msgid "ID:  178"
+msgstr ""
+
+#. ID 179
+msgctxt "skills.name"
+msgid "ID:  179"
+msgstr ""
+
+#. ID 180
+msgctxt "skills.name"
+msgid "ID:  180"
+msgstr ""
+
+#. ID 181
+msgctxt "skills.name"
+msgid "ID:  181"
+msgstr ""
+
+#. ID 182
+msgctxt "skills.name"
+msgid "ID:  182"
+msgstr ""
+
+#. ID 183
+msgctxt "skills.name"
+msgid "ID:  183"
+msgstr ""
+
+#. ID 184
+msgctxt "skills.name"
+msgid "ID:  184"
+msgstr ""
+
+#. ID 185
+msgctxt "skills.name"
+msgid "ID:  185"
+msgstr ""
+
+#. ID 186
+msgctxt "skills.name"
+msgid "ID:  186"
+msgstr ""
+
+#. ID 187
+msgctxt "skills.name"
+msgid "ID:  187"
+msgstr ""
+
+#. ID 188
+msgctxt "skills.name"
+msgid "ID:  188"
+msgstr ""
+
+#. ID 189
+msgctxt "skills.name"
+msgid "ID:  189"
+msgstr ""
+
+#. ID 190
+msgctxt "skills.name"
+msgid "ID:  190"
+msgstr ""
+
+#. ID 191
+msgctxt "skills.name"
+msgid "ID:  191 雲debug"
+msgstr ""
+
+#. ID 192
+msgctxt "skills.name"
+msgid "ID:  192 雲PG"
+msgstr ""
+
+#. ID 193
+msgctxt "skills.name"
+msgid "ID:  193 雲"
+msgstr ""
+
+#. ID 194
+msgctxt "skills.name"
+msgid "ID:  194 雲銭湯"
+msgstr ""
+
+#. ID 195
+msgctxt "skills.name"
+msgid "ID:  195 雲ｹﾝｷｭｳｼﾞｮ"
+msgstr ""
+
+#. ID 196
+msgctxt "skills.name"
+msgid "ID:  196 雲八畳和室"
+msgstr ""
+
+#. ID 197
+msgctxt "skills.name"
+msgid "ID:  197 雲代価移住"
+msgstr ""
+
+#. ID 198
+msgctxt "skills.name"
+msgid "ID:  198 雲ミラー"
+msgstr ""
+
+#. ID 199
+msgctxt "skills.name"
+msgid "ID:  199 雲4-6-4"
+msgstr ""
+
+#. ID 200
+msgctxt "skills.name"
+msgid "ID:  200 雲ソファ"
+msgstr ""
+
+#. ID 201
+msgctxt "skills.name"
+msgid "ID:  201"
+msgstr ""
+
+#. ID 202
+msgctxt "skills.name"
+msgid "ID:  202"
+msgstr ""
+
+#. ID 203
+msgctxt "skills.name"
+msgid "ID:  203"
+msgstr ""
+
+#. ID 204
+msgctxt "skills.name"
+msgid "ID:  204"
+msgstr ""
+
+#. ID 205
+msgctxt "skills.name"
+msgid "ID:  205"
+msgstr ""
+
+#. ID 206
+msgctxt "skills.name"
+msgid "ID:  206"
+msgstr ""
+
+#. ID 207
+msgctxt "skills.name"
+msgid "ID:  207"
+msgstr ""
+
+#. ID 208
+msgctxt "skills.name"
+msgid "ID:  208"
+msgstr ""
+
+#. ID 209
+msgctxt "skills.name"
+msgid "ID:  209"
+msgstr ""
+
+#. ID 210
+msgctxt "skills.name"
+msgid "ID:  210"
+msgstr ""
+
+#. ID 211
+msgctxt "skills.name"
+msgid "ID:  211"
+msgstr ""
+
+#. ID 212
+msgctxt "skills.name"
+msgid "ID:  212"
+msgstr ""
+
+#. ID 213
+msgctxt "skills.name"
+msgid "ID:  213"
+msgstr ""
+
+#. ID 214
+msgctxt "skills.name"
+msgid "ID:  214"
+msgstr ""
+
+#. ID 215
+msgctxt "skills.name"
+msgid "ID:  215"
+msgstr ""
+
+#. ID 216
+msgctxt "skills.name"
+msgid "ID:  216"
+msgstr ""
+
+#. ID 217
+msgctxt "skills.name"
+msgid "ID:  217"
+msgstr ""
+
+#. ID 218
+msgctxt "skills.name"
+msgid "ID:  218"
+msgstr ""
+
+#. ID 219
+msgctxt "skills.name"
+msgid "ID:  219"
+msgstr ""
+
+#. ID 220
+msgctxt "skills.name"
+msgid "ID:  220"
+msgstr ""
+
+#. ID 221
+msgctxt "skills.name"
+msgid "ID:  221"
+msgstr ""
+
+#. ID 222
+msgctxt "skills.name"
+msgid "ID:  222"
+msgstr ""
+
+#. ID 223
+msgctxt "skills.name"
+msgid "ID:  223"
+msgstr ""
+
+#. ID 224
+msgctxt "skills.name"
+msgid "ID:  224"
+msgstr ""
+
+#. ID 225
+msgctxt "skills.name"
+msgid "ID:  225"
+msgstr ""
+
+#. ID 226
+msgctxt "skills.name"
+msgid "ID:  226"
+msgstr ""
+
+#. ID 227
+msgctxt "skills.name"
+msgid "ID:  227"
+msgstr ""
+
+#. ID 228
+msgctxt "skills.name"
+msgid "ID:  228"
+msgstr ""
+
+#. ID 229
+msgctxt "skills.name"
+msgid "ID:  229"
+msgstr ""
+
+#. ID 230
+msgctxt "skills.name"
+msgid "ID:  230"
+msgstr ""
+
+#. ID 231
+msgctxt "skills.name"
+msgid "ID:  231"
+msgstr ""
+
+#. ID 232
+msgctxt "skills.name"
+msgid "ID:  232"
+msgstr ""
+
+#. ID 233
+msgctxt "skills.name"
+msgid "ID:  233"
+msgstr ""
+
+#. ID 234
+msgctxt "skills.name"
+msgid "ID:  234"
+msgstr ""
+
+#. ID 235
+msgctxt "skills.name"
+msgid "ID:  235"
+msgstr ""
+
+#. ID 236
+msgctxt "skills.name"
+msgid "ID:  236"
+msgstr ""
+
+#. ID 237
+msgctxt "skills.name"
+msgid "ID:  237"
+msgstr ""
+
+#. ID 238
+msgctxt "skills.name"
+msgid "ID:  238"
+msgstr ""
+
+#. ID 239
+msgctxt "skills.name"
+msgid "ID:  239"
+msgstr ""
+
+#. ID 240
+msgctxt "skills.name"
+msgid "ID:  240"
+msgstr ""
+
+#. ID 241
+msgctxt "skills.name"
+msgid "ID:  241"
+msgstr ""
+
+#. ID 242
+msgctxt "skills.name"
+msgid "ID:  242"
+msgstr ""
+
+#. ID 243
+msgctxt "skills.name"
+msgid "ID:  243"
+msgstr ""
+
+#. ID 244
+msgctxt "skills.name"
+msgid "ID:  244"
+msgstr ""
+
+#. ID 245
+msgctxt "skills.name"
+msgid "ID:  245"
+msgstr ""
+
+#. ID 246
+msgctxt "skills.name"
+msgid "ID:  246"
+msgstr ""
+
+#. ID 247
+msgctxt "skills.name"
+msgid "ID:  247"
+msgstr ""
+
+#. ID 248
+msgctxt "skills.name"
+msgid "ID:  248"
+msgstr ""
+
+#. ID 249
+msgctxt "skills.name"
+msgid "ID:  249"
+msgstr ""
+
+#. ID 250
+msgctxt "skills.name"
+msgid "ID:  250"
+msgstr ""
+
+#. ID 251
+msgctxt "skills.name"
+msgid "ID:  251"
+msgstr ""
+
+#. ID 252
+msgctxt "skills.name"
+msgid "ID:  252"
+msgstr ""
+
+#. ID 253
+msgctxt "skills.name"
+msgid "ID:  253"
+msgstr ""
+
+#. ID 254
+msgctxt "skills.name"
+msgid "ID:  254"
+msgstr ""
+
+#. ID 255
+msgctxt "skills.name"
+msgid "ID:  255"
+msgstr ""
+
+#. ID 256
+msgctxt "skills.name"
+msgid "ID:  256"
+msgstr ""
+
+#. ID 257
+msgctxt "skills.name"
+msgid "ID:  257"
+msgstr ""
+
+#. ID 258
+msgctxt "skills.name"
+msgid "ID:  258"
+msgstr ""
+
+#. ID 259
+msgctxt "skills.name"
+msgid "ID:  259"
+msgstr ""
+
+#. ID 260
+msgctxt "skills.name"
+msgid "ID:  260"
+msgstr ""
+
+#. ID 261
+msgctxt "skills.name"
+msgid "ID:  261"
+msgstr ""
+
+#. ID 262
+msgctxt "skills.name"
+msgid "ID:  262"
+msgstr ""
+
+#. ID 263
+msgctxt "skills.name"
+msgid "ID:  263"
+msgstr ""
+
+#. ID 264
+msgctxt "skills.name"
+msgid "ID:  264"
+msgstr ""
+
+#. ID 265
+msgctxt "skills.name"
+msgid "ID:  265"
+msgstr ""
+
+#. ID 266
+msgctxt "skills.name"
+msgid "ID:  266"
+msgstr ""
+
+#. ID 267
+msgctxt "skills.name"
+msgid "ID:  267"
+msgstr ""
+
+#. ID 268
+msgctxt "skills.name"
+msgid "ID:  268"
+msgstr ""
+
+#. ID 269
+msgctxt "skills.name"
+msgid "ID:  269"
+msgstr ""
+
+#. ID 270
+msgctxt "skills.name"
+msgid "ID:  270"
+msgstr ""
+
+#. ID 271
+msgctxt "skills.name"
+msgid "ID:  271"
+msgstr ""
+
+#. ID 272
+msgctxt "skills.name"
+msgid "ID:  272"
+msgstr ""
+
+#. ID 273
+msgctxt "skills.name"
+msgid "ID:  273"
+msgstr ""
+
+#. ID 274
+msgctxt "skills.name"
+msgid "ID:  274"
+msgstr ""
+
+#. ID 275
+msgctxt "skills.name"
+msgid "ID:  275"
+msgstr ""
+
+#. ID 276
+msgctxt "skills.name"
+msgid "ID:  276"
+msgstr ""
+
+#. ID 277
+msgctxt "skills.name"
+msgid "ID:  277"
+msgstr ""
+
+#. ID 278
+msgctxt "skills.name"
+msgid "ID:  278"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.name"
+msgid "ID:  279"
+msgstr ""
+
+#. ID 280
+msgctxt "skills.name"
+msgid "ID:  280"
+msgstr ""
+
+#. ID 281
+msgctxt "skills.name"
+msgid "ID:  281"
+msgstr ""
+
+#. ID 282
+msgctxt "skills.name"
+msgid "ID:  282"
+msgstr ""
+
+#. ID 283
+msgctxt "skills.name"
+msgid "ID:  283"
+msgstr ""
+
+#. ID 284
+msgctxt "skills.name"
+msgid "ID:  284"
+msgstr ""
+
+#. ID 285
+msgctxt "skills.name"
+msgid "ID:  285"
+msgstr ""
+
+#. ID 286
+msgctxt "skills.name"
+msgid "ID:  286"
+msgstr ""
+
+#. ID 287
+msgctxt "skills.name"
+msgid "ID:  287"
+msgstr ""
+
+#. ID 288
+msgctxt "skills.name"
+msgid "ID:  288"
+msgstr ""
+
+#. ID 289
+msgctxt "skills.name"
+msgid "ID:  289"
+msgstr ""
+
+#. ID 290
+msgctxt "skills.name"
+msgid "ID:  290"
+msgstr ""
+
+#. ID 291
+msgctxt "skills.name"
+msgid "ID:  291"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.name"
+msgid "ID:  292"
+msgstr ""
+
+#. ID 293
+msgctxt "skills.name"
+msgid "ID:  293"
+msgstr ""
+
+#. ID 294
+msgctxt "skills.name"
+msgid "ID:  294"
+msgstr ""
+
+#. ID 295
+msgctxt "skills.name"
+msgid "ID:  295"
+msgstr ""
+
+#. ID 296
+msgctxt "skills.name"
+msgid "ID:  296"
+msgstr ""
+
+#. ID 297
+msgctxt "skills.name"
+msgid "ID:  297"
+msgstr ""
+
+#. ID 298
+msgctxt "skills.name"
+msgid "ID:  298"
+msgstr ""
+
+#. ID 299
+msgctxt "skills.name"
+msgid "ID:  299"
+msgstr ""
+
+#. ID 300
+msgctxt "skills.name"
+msgid "ID:  300"
+msgstr ""
+
+#. ID 301
+msgctxt "skills.name"
+msgid "ID:  301"
+msgstr ""
+
+#. ID 302
+msgctxt "skills.name"
+msgid "ID:  302"
+msgstr ""
+
+#. ID 303
+msgctxt "skills.name"
+msgid "ID:  303"
+msgstr ""
+
+#. ID 304
+msgctxt "skills.name"
+msgid "ID:  304"
+msgstr ""
+
+#. ID 305
+msgctxt "skills.name"
+msgid "ID:  305"
+msgstr ""
+
+#. ID 306
+msgctxt "skills.name"
+msgid "ID:  306"
+msgstr ""
+
+#. ID 307
+msgctxt "skills.name"
+msgid "ID:  307"
+msgstr ""
+
+#. ID 308
+msgctxt "skills.name"
+msgid "ID:  308"
+msgstr ""
+
+#. ID 309
+msgctxt "skills.name"
+msgid "ID:  309"
+msgstr ""
+
+#. ID 310
+msgctxt "skills.name"
+msgid "ID:  310"
+msgstr ""
+
+#. ID 311
+msgctxt "skills.name"
+msgid "ID:  311"
+msgstr ""
+
+#. ID 312
+msgctxt "skills.name"
+msgid "ID:  312"
+msgstr ""
+
+#. ID 313
+msgctxt "skills.name"
+msgid "ID:  313"
+msgstr ""
+
+#. ID 314
+msgctxt "skills.name"
+msgid "ID:  314"
+msgstr ""
+
+#. ID 315
+msgctxt "skills.name"
+msgid "ID:  315"
+msgstr ""
+
+#. ID 316
+msgctxt "skills.name"
+msgid "ID:  316"
+msgstr ""
+
+#. ID 317
+msgctxt "skills.name"
+msgid "ID:  317"
+msgstr ""
+
+#. ID 318
+msgctxt "skills.name"
+msgid "ID:  318"
+msgstr ""
+
+#. ID 319
+msgctxt "skills.name"
+msgid "ID:  319"
+msgstr ""
+
+#. ID 320
+msgctxt "skills.name"
+msgid "ID:  320"
+msgstr ""
+
+#. ID 321
+msgctxt "skills.name"
+msgid "ID:  321"
+msgstr ""
+
+#. ID 322
+msgctxt "skills.name"
+msgid "ID:  322"
+msgstr ""
+
+#. ID 323
+msgctxt "skills.name"
+msgid "ID:  323"
+msgstr ""
+
+#. ID 324
+msgctxt "skills.name"
+msgid "ID:  324"
+msgstr ""
+
+#. ID 325
+msgctxt "skills.name"
+msgid "ID:  325"
+msgstr ""
+
+#. ID 326
+msgctxt "skills.name"
+msgid "ID:  326"
+msgstr ""
+
+#. ID 327
+msgctxt "skills.name"
+msgid "ID:  327"
+msgstr ""
+
+#. ID 328
+msgctxt "skills.name"
+msgid "ID:  328"
+msgstr ""
+
+#. ID 329
+msgctxt "skills.name"
+msgid "ID:  329"
+msgstr ""
+
+#. ID 330
+msgctxt "skills.name"
+msgid "ID:  330"
+msgstr ""
+
+#. ID 331
+msgctxt "skills.name"
+msgid "ID:  331"
+msgstr ""
+
+#. ID 332
+msgctxt "skills.name"
+msgid "ID:  332"
+msgstr ""
+
+#. ID 333
+msgctxt "skills.name"
+msgid "ID:  333"
+msgstr ""
+
+#. ID 334
+msgctxt "skills.name"
+msgid "ID:  334"
+msgstr ""
+
+#. ID 335
+msgctxt "skills.name"
+msgid "ID:  335"
+msgstr ""
+
+#. ID 336
+msgctxt "skills.name"
+msgid "ID:  336"
+msgstr ""
+
+#. ID 337
+msgctxt "skills.name"
+msgid "ID:  337"
+msgstr ""
+
+#. ID 338
+msgctxt "skills.name"
+msgid "ID:  338"
+msgstr ""
+
+#. ID 339
+msgctxt "skills.name"
+msgid "ID:  339"
+msgstr ""
+
+#. ID 340
+msgctxt "skills.name"
+msgid "ID:  340"
+msgstr ""
+
+#. ID 341
+msgctxt "skills.name"
+msgid "ID:  341"
+msgstr ""
+
+#. ID 342
+msgctxt "skills.name"
+msgid "ID:  342"
+msgstr ""
+
+#. ID 343
+msgctxt "skills.name"
+msgid "ID:  343"
+msgstr ""
+
+#. ID 344
+msgctxt "skills.name"
+msgid "ID:  344"
+msgstr ""
+
+#. ID 345
+msgctxt "skills.name"
+msgid "ID:  345"
+msgstr ""
+
+#. ID 346
+msgctxt "skills.name"
+msgid "ID:  346"
+msgstr ""
+
+#. ID 347
+msgctxt "skills.name"
+msgid "ID:  347"
+msgstr ""
+
+#. ID 348
+msgctxt "skills.name"
+msgid "ID:  348"
+msgstr ""
+
+#. ID 349
+msgctxt "skills.name"
+msgid "ID:  349"
+msgstr ""
+
+#. ID 350
+msgctxt "skills.name"
+msgid "ID:  350"
+msgstr ""
+
+#. ID 351
+msgctxt "skills.name"
+msgid "ID:  351"
+msgstr ""
+
+#. ID 352
+msgctxt "skills.name"
+msgid "ID:  352"
+msgstr ""
+
+#. ID 353
+msgctxt "skills.name"
+msgid "ID:  353"
+msgstr ""
+
+#. ID 354
+msgctxt "skills.name"
+msgid "ID:  354"
+msgstr ""
+
+#. ID 355
+msgctxt "skills.name"
+msgid "ID:  355"
+msgstr ""
+
+#. ID 356
+msgctxt "skills.name"
+msgid "ID:  356"
+msgstr ""
+
+#. ID 357
+msgctxt "skills.name"
+msgid "ID:  357"
+msgstr ""
+
+#. ID 358
+msgctxt "skills.name"
+msgid "ID:  358"
+msgstr ""
+
+#. ID 359
+msgctxt "skills.name"
+msgid "ID:  359"
+msgstr ""
+
+#. ID 360
+msgctxt "skills.name"
+msgid "ID:  360"
+msgstr ""
+
+#. ID 361
+msgctxt "skills.name"
+msgid "ID:  361"
+msgstr ""
+
+#. ID 362
+msgctxt "skills.name"
+msgid "ID:  362"
+msgstr ""
+
+#. ID 363
+msgctxt "skills.name"
+msgid "ID:  363"
+msgstr ""
+
+#. ID 364
+msgctxt "skills.name"
+msgid "ID:  364"
+msgstr ""
+
+#. ID 365
+msgctxt "skills.name"
+msgid "ID:  365"
+msgstr ""
+
+#. ID 366
+msgctxt "skills.name"
+msgid "ID:  366"
+msgstr ""
+
+#. ID 367
+msgctxt "skills.name"
+msgid "ID:  367"
+msgstr ""
+
+#. ID 368
+msgctxt "skills.name"
+msgid "ID:  368"
+msgstr ""
+
+#. ID 369
+msgctxt "skills.name"
+msgid "ID:  369"
+msgstr ""
+
+#. ID 370
+msgctxt "skills.name"
+msgid "ID:  370"
+msgstr ""
+
+#. ID 371
+msgctxt "skills.name"
+msgid "ID:  371雲不思議通路"
+msgstr ""
+
+#. ID 372
+msgctxt "skills.name"
+msgid "ID:  372 雲昼夜"
+msgstr ""
+
+#. ID 373
+msgctxt "skills.name"
+msgid "ID:  373 雲文字世界"
+msgstr ""
+
+#. ID 374
+msgctxt "skills.name"
+msgid "ID:  374 雲"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.name"
+msgid "ID:  375 雲boxTiny"
+msgstr ""
+
+#. ID 376
+msgctxt "skills.name"
+msgid "ID:  376 雲膝"
+msgstr ""
+
+#. ID 377
+msgctxt "skills.name"
+msgid "ID:  377 雲ﾓﾉｸﾛﾁｯﾌﾟ"
+msgstr ""
+
+#. ID 378
+msgctxt "skills.name"
+msgid "ID:  378 雲ポスト"
+msgstr ""
+
+#. ID 379
+msgctxt "skills.name"
+msgid "ID:  379 雲END?"
+msgstr ""
+
+#. ID 380
+msgctxt "skills.name"
+msgid "ID:  380 雲ｽﾀｯﾌﾛｰﾙ"
+msgstr ""
+
+#. ID 381
+msgctxt "skills.name"
+msgid "ID:  381"
+msgstr ""
+
+#. ID 382
+msgctxt "skills.name"
+msgid "ID:  382"
+msgstr ""
+
+#. ID 383
+msgctxt "skills.name"
+msgid "ID:  383"
+msgstr ""
+
+#. ID 384
+msgctxt "skills.name"
+msgid "ID:  384"
+msgstr ""
+
+#. ID 385
+msgctxt "skills.name"
+msgid "ID:  385"
+msgstr ""
+
+#. ID 386
+msgctxt "skills.name"
+msgid "ID:  386"
+msgstr ""
+
+#. ID 387
+msgctxt "skills.name"
+msgid "ID:  387"
+msgstr ""
+
+#. ID 388
+msgctxt "skills.name"
+msgid "ID:  388"
+msgstr ""
+
+#. ID 389
+msgctxt "skills.name"
+msgid "ID:  389"
+msgstr ""
+
+#. ID 390
+msgctxt "skills.name"
+msgid "ID:  390"
+msgstr ""
+
+#. ID 391
+msgctxt "skills.name"
+msgid "ID:  391"
+msgstr ""
+
+#. ID 392
+msgctxt "skills.name"
+msgid "ID:  392"
+msgstr ""
+
+#. ID 393
+msgctxt "skills.name"
+msgid "ID:  393"
+msgstr ""
+
+#. ID 394
+msgctxt "skills.name"
+msgid "ID:  394"
+msgstr ""
+
+#. ID 395
+msgctxt "skills.name"
+msgid "ID:  395"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.name"
+msgid "ID:  396"
+msgstr ""
+
+#. ID 397
+msgctxt "skills.name"
+msgid "ID:  397"
+msgstr ""
+
+#. ID 398
+msgctxt "skills.name"
+msgid "ID:  398"
+msgstr ""
+
+#. ID 399
+msgctxt "skills.name"
+msgid "ID:  399"
+msgstr ""
+
+#. ID 400
+msgctxt "skills.name"
+msgid "ID:  400"
+msgstr ""
+
+#. ID 401
+msgctxt "skills.name"
+msgid "ID:  401"
+msgstr ""
+
+#. ID 402
+msgctxt "skills.name"
+msgid "ID:  402"
+msgstr ""
+
+#. ID 403
+msgctxt "skills.name"
+msgid "ID:  403"
+msgstr ""
+
+#. ID 404
+msgctxt "skills.name"
+msgid "ID:  404"
+msgstr ""
+
+#. ID 405
+msgctxt "skills.name"
+msgid "ID:  405"
+msgstr ""
+
+#. ID 406
+msgctxt "skills.name"
+msgid "ID:  406"
+msgstr ""
+
+#. ID 407
+msgctxt "skills.name"
+msgid "ID:  407"
+msgstr ""
+
+#. ID 408
+msgctxt "skills.name"
+msgid "ID:  408"
+msgstr ""
+
+#. ID 409
+msgctxt "skills.name"
+msgid "ID:  409"
+msgstr ""
+
+#. ID 410
+msgctxt "skills.name"
+msgid "ID:  410"
+msgstr ""
+
+#. ID 411
+msgctxt "skills.name"
+msgid "ID:  411"
+msgstr ""
+
+#. ID 412
+msgctxt "skills.name"
+msgid "ID:  412"
+msgstr ""
+
+#. ID 413
+msgctxt "skills.name"
+msgid "ID:  413"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.name"
+msgid "ID:  414"
+msgstr ""
+
+#. ID 415
+msgctxt "skills.name"
+msgid "ID:  415"
+msgstr ""
+
+#. ID 416
+msgctxt "skills.name"
+msgid "ID:  416"
+msgstr ""
+
+#. ID 417
+msgctxt "skills.name"
+msgid "ID:  417"
+msgstr ""
+
+#. ID 418
+msgctxt "skills.name"
+msgid "ID:  418"
+msgstr ""
+
+#. ID 419
+msgctxt "skills.name"
+msgid "ID:  419"
+msgstr ""
+
+#. ID 420
+msgctxt "skills.name"
+msgid "ID:  420"
+msgstr ""
+
+#. ID 421
+msgctxt "skills.name"
+msgid "ID:  421"
+msgstr ""
+
+#. ID 422
+msgctxt "skills.name"
+msgid "ID:  422"
+msgstr ""
+
+#. ID 423
+msgctxt "skills.name"
+msgid "ID:  423"
+msgstr ""
+
+#. ID 424
+msgctxt "skills.name"
+msgid "ID:  424"
+msgstr ""
+
+#. ID 425
+msgctxt "skills.name"
+msgid "ID:  425"
+msgstr ""
+
+#. ID 426
+msgctxt "skills.name"
+msgid "ID:  426"
+msgstr ""
+
+#. ID 427
+msgctxt "skills.name"
+msgid "ID:  427"
+msgstr ""
+
+#. ID 428
+msgctxt "skills.name"
+msgid "ID:  428"
+msgstr ""
+
+#. ID 429
+msgctxt "skills.name"
+msgid "ID:  429"
+msgstr ""
+
+#. ID 430
+msgctxt "skills.name"
+msgid "ID:  430"
+msgstr ""
+
+#. ID 431
+msgctxt "skills.name"
+msgid "ID:  431"
+msgstr ""
+
+#. ID 432
+msgctxt "skills.name"
+msgid "ID:  432"
+msgstr ""
+
+#. ID 433
+msgctxt "skills.name"
+msgid "ID:  433"
+msgstr ""
+
+#. ID 434
+msgctxt "skills.name"
+msgid "ID:  434"
+msgstr ""
+
+#. ID 435
+msgctxt "skills.name"
+msgid "ID:  435"
+msgstr ""
+
+#. ID 436
+msgctxt "skills.name"
+msgid "ID:  436"
+msgstr ""
+
+#. ID 437
+msgctxt "skills.name"
+msgid "ID:  437"
+msgstr ""
+
+#. ID 438
+msgctxt "skills.name"
+msgid "ID:  438"
+msgstr ""
+
+#. ID 439
+msgctxt "skills.name"
+msgid "ID:  439"
+msgstr ""
+
+#. ID 440
+msgctxt "skills.name"
+msgid "ID:  440"
+msgstr ""
+
+#. ID 441
+msgctxt "skills.name"
+msgid "ID:  441"
+msgstr ""
+
+#. ID 442
+msgctxt "skills.name"
+msgid "ID:  442"
+msgstr ""
+
+#. ID 443
+msgctxt "skills.name"
+msgid "ID:  443"
+msgstr ""
+
+#. ID 444
+msgctxt "skills.name"
+msgid "ID:  444"
+msgstr ""
+
+#. ID 445
+msgctxt "skills.name"
+msgid "ID:  445"
+msgstr ""
+
+#. ID 446
+msgctxt "skills.name"
+msgid "ID:  446"
+msgstr ""
+
+#. ID 447
+msgctxt "skills.name"
+msgid "ID:  447"
+msgstr ""
+
+#. ID 448
+msgctxt "skills.name"
+msgid "ID:  448"
+msgstr ""
+
+#. ID 449
+msgctxt "skills.name"
+msgid "ID:  449"
+msgstr ""
+
+#. ID 450
+msgctxt "skills.name"
+msgid "ID:  450"
+msgstr ""
+
+#. ID 451
+msgctxt "skills.name"
+msgid "ID:  451"
+msgstr ""
+
+#. ID 452
+msgctxt "skills.name"
+msgid "ID:  452"
+msgstr ""
+
+#. ID 453
+msgctxt "skills.name"
+msgid "ID:  453"
+msgstr ""
+
+#. ID 454
+msgctxt "skills.name"
+msgid "ID:  454"
+msgstr ""
+
+#. ID 455
+msgctxt "skills.name"
+msgid "ID:  455"
+msgstr ""
+
+#. ID 456
+msgctxt "skills.name"
+msgid "ID:  456"
+msgstr ""
+
+#. ID 457
+msgctxt "skills.name"
+msgid "ID:  457"
+msgstr ""
+
+#. ID 458
+msgctxt "skills.name"
+msgid "ID:  458"
+msgstr ""
+
+#. ID 459
+msgctxt "skills.name"
+msgid "ID:  459"
+msgstr ""
+
+#. ID 460
+msgctxt "skills.name"
+msgid "ID:  460"
+msgstr ""
+
+#. ID 461
+msgctxt "skills.name"
+msgid "ID:  461"
+msgstr ""
+
+#. ID 462
+msgctxt "skills.name"
+msgid "ID:  462"
+msgstr ""
+
+#. ID 463
+msgctxt "skills.name"
+msgid "ID:  463"
+msgstr ""
+
+#. ID 464
+msgctxt "skills.name"
+msgid "ID:  464"
+msgstr ""
+
+#. ID 465
+msgctxt "skills.name"
+msgid "ID:  465"
+msgstr ""
+
+#. ID 466
+msgctxt "skills.name"
+msgid "ID:  466"
+msgstr ""
+
+#. ID 467
+msgctxt "skills.name"
+msgid "ID:  467"
+msgstr ""
+
+#. ID 468
+msgctxt "skills.name"
+msgid "ID:  468"
+msgstr ""
+
+#. ID 469
+msgctxt "skills.name"
+msgid "ID:  469"
+msgstr ""
+
+#. ID 470
+msgctxt "skills.name"
+msgid "ID:  470"
+msgstr ""
+
+#. ID 471
+msgctxt "skills.name"
+msgid "ID:  471"
+msgstr ""
+
+#. ID 472
+msgctxt "skills.name"
+msgid "ID:  472"
+msgstr ""
+
+#. ID 473
+msgctxt "skills.name"
+msgid "ID:  473"
+msgstr ""
+
+#. ID 474
+msgctxt "skills.name"
+msgid "ID:  474"
+msgstr ""
+
+#. ID 475
+msgctxt "skills.name"
+msgid "ID:  475"
+msgstr ""
+
+#. ID 476
+msgctxt "skills.name"
+msgid "ID:  476"
+msgstr ""
+
+#. ID 477
+msgctxt "skills.name"
+msgid "ID:  477"
+msgstr ""
+
+#. ID 478
+msgctxt "skills.name"
+msgid "ID:  478"
+msgstr ""
+
+#. ID 479
+msgctxt "skills.name"
+msgid "ID:  479"
+msgstr ""
+
+#. ID 480
+msgctxt "skills.name"
+msgid "ID:  480"
+msgstr ""
+
+#. ID 481
+msgctxt "skills.name"
+msgid "ID:  481"
+msgstr ""
+
+#. ID 482
+msgctxt "skills.name"
+msgid "ID:  482"
+msgstr ""
+
+#. ID 483
+msgctxt "skills.name"
+msgid "ID:  483"
+msgstr ""
+
+#. ID 484
+msgctxt "skills.name"
+msgid "ID:  484"
+msgstr ""
+
+#. ID 485
+msgctxt "skills.name"
+msgid "ID:  485"
+msgstr ""
+
+#. ID 486
+msgctxt "skills.name"
+msgid "ID:  486"
+msgstr ""
+
+#. ID 487
+msgctxt "skills.name"
+msgid "ID:  487"
+msgstr ""
+
+#. ID 488
+msgctxt "skills.name"
+msgid "ID:  488"
+msgstr ""
+
+#. ID 489
+msgctxt "skills.name"
+msgid "ID:  489"
+msgstr ""
+
+#. ID 490
+msgctxt "skills.name"
+msgid "ID:  490"
+msgstr ""
+
+#. ID 491
+msgctxt "skills.name"
+msgid "ID:  491"
+msgstr ""
+
+#. ID 492
+msgctxt "skills.name"
+msgid "ID:  492"
+msgstr ""
+
+#. ID 493
+msgctxt "skills.name"
+msgid "ID:  493"
+msgstr ""
+
+#. ID 494
+msgctxt "skills.name"
+msgid "ID:  494"
+msgstr ""
+
+#. ID 495
+msgctxt "skills.name"
+msgid "ID:  495"
+msgstr ""
+
+#. ID 496
+msgctxt "skills.name"
+msgid "ID:  496"
+msgstr ""
+
+#. ID 497
+msgctxt "skills.name"
+msgid "ID:  497"
+msgstr ""
+
+#. ID 498
+msgctxt "skills.name"
+msgid "ID:  498"
+msgstr ""
+
+#. ID 499
+msgctxt "skills.name"
+msgid "ID:  499"
+msgstr ""
+
+#. ID 500
+msgctxt "skills.name"
+msgid "ID:  500"
+msgstr ""
+
+#. ID 501
+msgctxt "skills.name"
+msgid "ID:  501"
+msgstr ""
+
+#. ID 502
+msgctxt "skills.name"
+msgid "ID:  502"
+msgstr ""
+
+#. ID 503
+msgctxt "skills.name"
+msgid "ID:  503"
+msgstr ""
+
+#. ID 504
+msgctxt "skills.name"
+msgid "ID:  504"
+msgstr ""
+
+#. ID 505
+msgctxt "skills.name"
+msgid "ID:  505"
+msgstr ""
+
+#. ID 506
+msgctxt "skills.name"
+msgid "ID:  506"
+msgstr ""
+
+#. ID 507
+msgctxt "skills.name"
+msgid "ID:  507"
+msgstr ""
+
+#. ID 508
+msgctxt "skills.name"
+msgid "ID:  508"
+msgstr ""
+
+#. ID 509
+msgctxt "skills.name"
+msgid "ID:  509"
+msgstr ""
+
+#. ID 510
+msgctxt "skills.name"
+msgid "ID:  510"
+msgstr ""
+
+#. ID 511
+msgctxt "skills.name"
+msgid "ID:  511"
+msgstr ""
+
+#. ID 512
+msgctxt "skills.name"
+msgid "ID:  512"
+msgstr ""
+
+#. ID 513
+msgctxt "skills.name"
+msgid "ID:  513"
+msgstr ""
+
+#. ID 514
+msgctxt "skills.name"
+msgid "ID:  514"
+msgstr ""
+
+#. ID 515
+msgctxt "skills.name"
+msgid "ID:  515"
+msgstr ""
+
+#. ID 516
+msgctxt "skills.name"
+msgid "ID:  516"
+msgstr ""
+
+#. ID 517
+msgctxt "skills.name"
+msgid "ID:  517"
+msgstr ""
+
+#. ID 518
+msgctxt "skills.name"
+msgid "ID:  518"
+msgstr ""
+
+#. ID 519
+msgctxt "skills.name"
+msgid "ID:  519"
+msgstr ""
+
+#. ID 520
+msgctxt "skills.name"
+msgid "ID:  520"
+msgstr ""
+
+#. ID 521
+msgctxt "skills.name"
+msgid "ID:  521"
+msgstr ""
+
+#. ID 522
+msgctxt "skills.name"
+msgid "ID:  522"
+msgstr ""
+
+#. ID 523
+msgctxt "skills.name"
+msgid "ID:  523"
+msgstr ""
+
+#. ID 524
+msgctxt "skills.name"
+msgid "ID:  524"
+msgstr ""
+
+#. ID 525
+msgctxt "skills.name"
+msgid "ID:  525"
+msgstr ""
+
+#. ID 526
+msgctxt "skills.name"
+msgid "ID:  526"
+msgstr ""
+
+#. ID 527
+msgctxt "skills.name"
+msgid "ID:  527"
+msgstr ""
+
+#. ID 528
+msgctxt "skills.name"
+msgid "ID:  528"
+msgstr ""
+
+#. ID 529
+msgctxt "skills.name"
+msgid "ID:  529"
+msgstr ""
+
+#. ID 530
+msgctxt "skills.name"
+msgid "ID:  530"
+msgstr ""
+
+#. ID 531
+msgctxt "skills.name"
+msgid "ID:  531"
+msgstr ""
+
+#. ID 532
+msgctxt "skills.name"
+msgid "ID:  532"
+msgstr ""
+
+#. ID 533
+msgctxt "skills.name"
+msgid "ID:  533"
+msgstr ""
+
+#. ID 534
+msgctxt "skills.name"
+msgid "ID:  534"
+msgstr ""
+
+#. ID 535
+msgctxt "skills.name"
+msgid "ID:  535"
+msgstr ""
+
+#. ID 536
+msgctxt "skills.name"
+msgid "ID:  536"
+msgstr ""
+
+#. ID 537
+msgctxt "skills.name"
+msgid "ID:  537"
+msgstr ""
+
+#. ID 538
+msgctxt "skills.name"
+msgid "ID:  538"
+msgstr ""
+
+#. ID 539
+msgctxt "skills.name"
+msgid "ID:  539"
+msgstr ""
+
+#. ID 540
+msgctxt "skills.name"
+msgid "ID:  540"
+msgstr ""
+
+#. ID 541
+msgctxt "skills.name"
+msgid "ID:  541"
+msgstr ""
+
+#. ID 542
+msgctxt "skills.name"
+msgid "ID:  542"
+msgstr ""
+
+#. ID 543
+msgctxt "skills.name"
+msgid "ID:  543"
+msgstr ""
+
+#. ID 544
+msgctxt "skills.name"
+msgid "ID:  544"
+msgstr ""
+
+#. ID 545
+msgctxt "skills.name"
+msgid "ID:  545"
+msgstr ""
+
+#. ID 546
+msgctxt "skills.name"
+msgid "ID:  546"
+msgstr ""
+
+#. ID 547
+msgctxt "skills.name"
+msgid "ID:  547"
+msgstr ""
+
+#. ID 548
+msgctxt "skills.name"
+msgid "ID:  548"
+msgstr ""
+
+#. ID 549
+msgctxt "skills.name"
+msgid "ID:  549"
+msgstr ""
+
+#. ID 550
+msgctxt "skills.name"
+msgid "ID:  550"
+msgstr ""
+
+#. ID 551
+msgctxt "skills.name"
+msgid "ID:  551"
+msgstr ""
+
+#. ID 552
+msgctxt "skills.name"
+msgid "ID:  552"
+msgstr ""
+
+#. ID 553
+msgctxt "skills.name"
+msgid "ID:  553"
+msgstr ""
+
+#. ID 554
+msgctxt "skills.name"
+msgid "ID:  554"
+msgstr ""
+
+#. ID 555
+msgctxt "skills.name"
+msgid "ID:  555"
+msgstr ""
+
+#. ID 556
+msgctxt "skills.name"
+msgid "ID:  556"
+msgstr ""
+
+#. ID 557
+msgctxt "skills.name"
+msgid "ID:  557"
+msgstr ""
+
+#. ID 558
+msgctxt "skills.name"
+msgid "ID:  558"
+msgstr ""
+
+#. ID 559
+msgctxt "skills.name"
+msgid "ID:  559"
+msgstr ""
+
+#. ID 560
+msgctxt "skills.name"
+msgid "ID:  560"
+msgstr ""
+
+#. ID 561
+msgctxt "skills.name"
+msgid "ID:  561"
+msgstr ""
+
+#. ID 562
+msgctxt "skills.name"
+msgid "ID:  562"
+msgstr ""
+
+#. ID 563
+msgctxt "skills.name"
+msgid "ID:  563"
+msgstr ""
+
+#. ID 564
+msgctxt "skills.name"
+msgid "ID:  564"
+msgstr ""
+
+#. ID 565
+msgctxt "skills.name"
+msgid "ID:  565"
+msgstr ""
+
+#. ID 566
+msgctxt "skills.name"
+msgid "ID:  566"
+msgstr ""
+
+#. ID 567
+msgctxt "skills.name"
+msgid "ID:  567"
+msgstr ""
+
+#. ID 568
+msgctxt "skills.name"
+msgid "ID:  568"
+msgstr ""
+
+#. ID 569
+msgctxt "skills.name"
+msgid "ID:  569"
+msgstr ""
+
+#. ID 570
+msgctxt "skills.name"
+msgid "ID:  570"
+msgstr ""
+
+#. ID 571
+msgctxt "skills.name"
+msgid "ID:  571"
+msgstr ""
+
+#. ID 572
+msgctxt "skills.name"
+msgid "ID:  572"
+msgstr ""
+
+#. ID 573
+msgctxt "skills.name"
+msgid "ID:  573"
+msgstr ""
+
+#. ID 574
+msgctxt "skills.name"
+msgid "ID:  574"
+msgstr ""
+
+#. ID 575
+msgctxt "skills.name"
+msgid "ID:  575"
+msgstr ""
+
+#. ID 576
+msgctxt "skills.name"
+msgid "ID:  576"
+msgstr ""
+
+#. ID 577
+msgctxt "skills.name"
+msgid "ID:  577"
+msgstr ""
+
+#. ID 578
+msgctxt "skills.name"
+msgid "ID:  578"
+msgstr ""
+
+#. ID 579
+msgctxt "skills.name"
+msgid "ID:  579"
+msgstr ""
+
+#. ID 580
+msgctxt "skills.name"
+msgid "ID:  580"
+msgstr ""
+
+#. ID 581
+msgctxt "skills.name"
+msgid "ID:  581"
+msgstr ""
+
+#. ID 582
+msgctxt "skills.name"
+msgid "ID:  582"
+msgstr ""
+
+#. ID 583
+msgctxt "skills.name"
+msgid "ID:  583"
+msgstr ""
+
+#. ID 584
+msgctxt "skills.name"
+msgid "ID:  584"
+msgstr ""
+
+#. ID 585
+msgctxt "skills.name"
+msgid "ID:  585"
+msgstr ""
+
+#. ID 586
+msgctxt "skills.name"
+msgid "ID:  586"
+msgstr ""
+
+#. ID 587
+msgctxt "skills.name"
+msgid "ID:  587"
+msgstr ""
+
+#. ID 588
+msgctxt "skills.name"
+msgid "ID:  588"
+msgstr ""
+
+#. ID 589
+msgctxt "skills.name"
+msgid "ID:  589"
+msgstr ""
+
+#. ID 590
+msgctxt "skills.name"
+msgid "ID:  590"
+msgstr ""
+
+#. ID 591
+msgctxt "skills.name"
+msgid "ID:  591"
+msgstr ""
+
+#. ID 592
+msgctxt "skills.name"
+msgid "ID:  592"
+msgstr ""
+
+#. ID 593
+msgctxt "skills.name"
+msgid "ID:  593"
+msgstr ""
+
+#. ID 594
+msgctxt "skills.name"
+msgid "ID:  594"
+msgstr ""
+
+#. ID 595
+msgctxt "skills.name"
+msgid "ID:  595"
+msgstr ""
+
+#. ID 596
+msgctxt "skills.name"
+msgid "ID:  596"
+msgstr ""
+
+#. ID 597
+msgctxt "skills.name"
+msgid "ID:  597"
+msgstr ""
+
+#. ID 598
+msgctxt "skills.name"
+msgid "ID:  598"
+msgstr ""
+
+#. ID 599
+msgctxt "skills.name"
+msgid "ID:  599"
+msgstr ""
+
+#. ID 600
+msgctxt "skills.name"
+msgid "ID:  600"
+msgstr ""
+
+#. ID 601
+msgctxt "skills.name"
+msgid "ID:  601"
+msgstr ""
+
+#. ID 602
+msgctxt "skills.name"
+msgid "ID:  602"
+msgstr ""
+
+#. ID 603
+msgctxt "skills.name"
+msgid "ID:  603"
+msgstr ""
+
+#. ID 604
+msgctxt "skills.name"
+msgid "ID:  604"
+msgstr ""
+
+#. ID 605
+msgctxt "skills.name"
+msgid "ID:  605"
+msgstr ""
+
+#. ID 606
+msgctxt "skills.name"
+msgid "ID:  606"
+msgstr ""
+
+#. ID 607
+msgctxt "skills.name"
+msgid "ID:  607"
+msgstr ""
+
+#. ID 608
+msgctxt "skills.name"
+msgid "ID:  608"
+msgstr ""
+
+#. ID 609
+msgctxt "skills.name"
+msgid "ID:  609"
+msgstr ""
+
+#. ID 610
+msgctxt "skills.name"
+msgid "ID:  610"
+msgstr ""
+
+#. ID 611
+msgctxt "skills.name"
+msgid "ID:  611 雲"
+msgstr ""
+
+#. ID 612
+msgctxt "skills.name"
+msgid "ID:  612 雲カッレ"
+msgstr ""
+
+#. ID 613
+msgctxt "skills.name"
+msgid "ID:  613 雲 繋ぎ部屋"
+msgstr ""
+
+#. ID 614
+msgctxt "skills.name"
+msgid "ID:  614 雲boxGrowIn"
+msgstr ""
+
+#. ID 615
+msgctxt "skills.name"
+msgid "ID:  615 雲boxGrowOu"
+msgstr ""
+
+#. ID 616
+msgctxt "skills.name"
+msgid "ID:  616 雲boxMiniIn"
+msgstr ""
+
+#. ID 617
+msgctxt "skills.name"
+msgid "ID:  617 雲boxMiniOu"
+msgstr ""
+
+#. ID 618
+msgctxt "skills.name"
+msgid "ID:  618 雲ﾐﾆｹﾞB.ex"
+msgstr ""
+
+#. ID 619
+msgctxt "skills.name"
+msgid "ID:  619 雲ﾗｲﾌｹﾞｰﾑ"
+msgstr ""
+
+#. ID 620
+msgctxt "skills.name"
+msgid "ID:  620 SR分室"
+msgstr ""
+
+#. ID 621
+msgctxt "skills.name"
+msgid "ID:  621"
+msgstr ""
+
+#. ID 622
+msgctxt "skills.name"
+msgid "ID:  622"
+msgstr ""
+
+#. ID 623
+msgctxt "skills.name"
+msgid "ID:  623"
+msgstr ""
+
+#. ID 624
+msgctxt "skills.name"
+msgid "ID:  624"
+msgstr ""
+
+#. ID 625
+msgctxt "skills.name"
+msgid "ID:  625"
+msgstr ""
+
+#. ID 626
+msgctxt "skills.name"
+msgid "ID:  626"
+msgstr ""
+
+#. ID 627
+msgctxt "skills.name"
+msgid "ID:  627"
+msgstr ""
+
+#. ID 628
+msgctxt "skills.name"
+msgid "ID:  628"
+msgstr ""
+
+#. ID 629
+msgctxt "skills.name"
+msgid "ID:  629"
+msgstr ""
+
+#. ID 630
+msgctxt "skills.name"
+msgid "ID:  630"
+msgstr ""
+
+#. ID 631
+msgctxt "skills.name"
+msgid "ID:  631"
+msgstr ""
+
+#. ID 632
+msgctxt "skills.name"
+msgid "ID:  632"
+msgstr ""
+
+#. ID 633
+msgctxt "skills.name"
+msgid "ID:  633"
+msgstr ""
+
+#. ID 634
+msgctxt "skills.name"
+msgid "ID:  634"
+msgstr ""
+
+#. ID 635
+msgctxt "skills.name"
+msgid "ID:  635"
+msgstr ""
+
+#. ID 636
+msgctxt "skills.name"
+msgid "ID:  636"
+msgstr ""
+
+#. ID 637
+msgctxt "skills.name"
+msgid "ID:  637"
+msgstr ""
+
+#. ID 638
+msgctxt "skills.name"
+msgid "ID:  638"
+msgstr ""
+
+#. ID 639
+msgctxt "skills.name"
+msgid "ID:  639"
+msgstr ""
+
+#. ID 640
+msgctxt "skills.name"
+msgid "ID:  640"
+msgstr ""
+
+#. ID 641
+msgctxt "skills.name"
+msgid "ID:  641"
+msgstr ""
+
+#. ID 642
+msgctxt "skills.name"
+msgid "ID:  642"
+msgstr ""
+
+#. ID 643
+msgctxt "skills.name"
+msgid "ID:  643"
+msgstr ""
+
+#. ID 644
+msgctxt "skills.name"
+msgid "ID:  644"
+msgstr ""
+
+#. ID 645
+msgctxt "skills.name"
+msgid "ID:  645"
+msgstr ""
+
+#. ID 646
+msgctxt "skills.name"
+msgid "ID:  646"
+msgstr ""
+
+#. ID 647
+msgctxt "skills.name"
+msgid "ID:  647"
+msgstr ""
+
+#. ID 648
+msgctxt "skills.name"
+msgid "ID:  648"
+msgstr ""
+
+#. ID 649
+msgctxt "skills.name"
+msgid "ID:  649"
+msgstr ""
+
+#. ID 650
+msgctxt "skills.name"
+msgid "ID:  650"
+msgstr ""
+
+#. ID 651
+msgctxt "skills.name"
+msgid "ID:  651"
+msgstr ""
+
+#. ID 652
+msgctxt "skills.name"
+msgid "ID:  652"
+msgstr ""
+
+#. ID 653
+msgctxt "skills.name"
+msgid "ID:  653"
+msgstr ""
+
+#. ID 654
+msgctxt "skills.name"
+msgid "ID:  654"
+msgstr ""
+
+#. ID 655
+msgctxt "skills.name"
+msgid "ID:  655"
+msgstr ""
+
+#. ID 656
+msgctxt "skills.name"
+msgid "ID:  656"
+msgstr ""
+
+#. ID 657
+msgctxt "skills.name"
+msgid "ID:  657"
+msgstr ""
+
+#. ID 658
+msgctxt "skills.name"
+msgid "ID:  658"
+msgstr ""
+
+#. ID 659
+msgctxt "skills.name"
+msgid "ID:  659"
+msgstr ""
+
+#. ID 660
+msgctxt "skills.name"
+msgid "ID:  660"
+msgstr ""
+
+#. ID 661
+msgctxt "skills.name"
+msgid "ID:  661"
+msgstr ""
+
+#. ID 662
+msgctxt "skills.name"
+msgid "ID:  662"
+msgstr ""
+
+#. ID 663
+msgctxt "skills.name"
+msgid "ID:  663"
+msgstr ""
+
+#. ID 664
+msgctxt "skills.name"
+msgid "ID:  664"
+msgstr ""
+
+#. ID 665
+msgctxt "skills.name"
+msgid "ID:  665"
+msgstr ""
+
+#. ID 666
+msgctxt "skills.name"
+msgid "ID:  666"
+msgstr ""
+
+#. ID 667
+msgctxt "skills.name"
+msgid "ID:  667"
+msgstr ""
+
+#. ID 668
+msgctxt "skills.name"
+msgid "ID:  668"
+msgstr ""
+
+#. ID 669
+msgctxt "skills.name"
+msgid "ID:  669"
+msgstr ""
+
+#. ID 670
+msgctxt "skills.name"
+msgid "ID:  670"
+msgstr ""
+
+#. ID 671
+msgctxt "skills.name"
+msgid "ID:  671"
+msgstr ""
+
+#. ID 672
+msgctxt "skills.name"
+msgid "ID:  672"
+msgstr ""
+
+#. ID 673
+msgctxt "skills.name"
+msgid "ID:  673"
+msgstr ""
+
+#. ID 674
+msgctxt "skills.name"
+msgid "ID:  674"
+msgstr ""
+
+#. ID 675
+msgctxt "skills.name"
+msgid "ID:  675"
+msgstr ""
+
+#. ID 676
+msgctxt "skills.name"
+msgid "ID:  676"
+msgstr ""
+
+#. ID 677
+msgctxt "skills.name"
+msgid "ID:  677"
+msgstr ""
+
+#. ID 678
+msgctxt "skills.name"
+msgid "ID:  678"
+msgstr ""
+
+#. ID 679
+msgctxt "skills.name"
+msgid "ID:  679"
+msgstr ""
+
+#. ID 680
+msgctxt "skills.name"
+msgid "ID:  680"
+msgstr ""
+
+#. ID 681
+msgctxt "skills.name"
+msgid "ID:  681"
+msgstr ""
+
+#. ID 682
+msgctxt "skills.name"
+msgid "ID:  682"
+msgstr ""
+
+#. ID 683
+msgctxt "skills.name"
+msgid "ID:  683"
+msgstr ""
+
+#. ID 684
+msgctxt "skills.name"
+msgid "ID:  684"
+msgstr ""
+
+#. ID 685
+msgctxt "skills.name"
+msgid "ID:  685"
+msgstr ""
+
+#. ID 686
+msgctxt "skills.name"
+msgid "ID:  686"
+msgstr ""
+
+#. ID 687
+msgctxt "skills.name"
+msgid "ID:  687"
+msgstr ""
+
+#. ID 688
+msgctxt "skills.name"
+msgid "ID:  688"
+msgstr ""
+
+#. ID 689
+msgctxt "skills.name"
+msgid "ID:  689"
+msgstr ""
+
+#. ID 690
+msgctxt "skills.name"
+msgid "ID:  690"
+msgstr ""
+
+#. ID 691
+msgctxt "skills.name"
+msgid "ID:  691"
+msgstr ""
+
+#. ID 692
+msgctxt "skills.name"
+msgid "ID:  692"
+msgstr ""
+
+#. ID 693
+msgctxt "skills.name"
+msgid "ID:  693"
+msgstr ""
+
+#. ID 694
+msgctxt "skills.name"
+msgid "ID:  694"
+msgstr ""
+
+#. ID 695
+msgctxt "skills.name"
+msgid "ID:  695"
+msgstr ""
+
+#. ID 696
+msgctxt "skills.name"
+msgid "ID:  696"
+msgstr ""
+
+#. ID 697
+msgctxt "skills.name"
+msgid "ID:  697"
+msgstr ""
+
+#. ID 698
+msgctxt "skills.name"
+msgid "ID:  698"
+msgstr ""
+
+#. ID 699
+msgctxt "skills.name"
+msgid "ID:  699"
+msgstr ""
+
+#. ID 700
+msgctxt "skills.name"
+msgid "ID:  700"
+msgstr ""
+
+#. ID 701
+msgctxt "skills.name"
+msgid "ID:  701"
+msgstr ""
+
+#. ID 702
+msgctxt "skills.name"
+msgid "ID:  702"
+msgstr ""
+
+#. ID 703
+msgctxt "skills.name"
+msgid "ID:  703"
+msgstr ""
+
+#. ID 704
+msgctxt "skills.name"
+msgid "ID:  704"
+msgstr ""
+
+#. ID 705
+msgctxt "skills.name"
+msgid "ID:  705"
+msgstr ""
+
+#. ID 706
+msgctxt "skills.name"
+msgid "ID:  706"
+msgstr ""
+
+#. ID 707
+msgctxt "skills.name"
+msgid "ID:  707"
+msgstr ""
+
+#. ID 708
+msgctxt "skills.name"
+msgid "ID:  708"
+msgstr ""
+
+#. ID 709
+msgctxt "skills.name"
+msgid "ID:  709 廃墟商店２"
+msgstr ""
+
+#. ID 710
+msgctxt "skills.name"
+msgid "ID:  710"
+msgstr ""
+
+#. ID 711
+msgctxt "skills.name"
+msgid "ID:  711"
+msgstr ""
+
+#. ID 712
+msgctxt "skills.name"
+msgid "ID:  712"
+msgstr ""
+
+#. ID 713
+msgctxt "skills.name"
+msgid "ID:  713"
+msgstr ""
+
+#. ID 714
+msgctxt "skills.name"
+msgid "ID:  714"
+msgstr ""
+
+#. ID 715
+msgctxt "skills.name"
+msgid "ID:  715"
+msgstr ""
+
+#. ID 716
+msgctxt "skills.name"
+msgid "ID:  716"
+msgstr ""
+
+#. ID 717
+msgctxt "skills.name"
+msgid "ID:  717"
+msgstr ""
+
+#. ID 718
+msgctxt "skills.name"
+msgid "ID:  718"
+msgstr ""
+
+#. ID 719
+msgctxt "skills.name"
+msgid "ID:  719"
+msgstr ""
+
+#. ID 720
+msgctxt "skills.name"
+msgid "ID:  720"
+msgstr ""
+
+#. ID 721
+msgctxt "skills.name"
+msgid "ID:  721"
+msgstr ""
+
+#. ID 722
+msgctxt "skills.name"
+msgid "ID:  722"
+msgstr ""
+
+#. ID 723
+msgctxt "skills.name"
+msgid "ID:  723"
+msgstr ""
+
+#. ID 724
+msgctxt "skills.name"
+msgid "ID:  724"
+msgstr ""
+
+#. ID 725
+msgctxt "skills.name"
+msgid "ID:  725"
+msgstr ""
+
+#. ID 726
+msgctxt "skills.name"
+msgid "ID:  726"
+msgstr ""
+
+#. ID 727
+msgctxt "skills.name"
+msgid "ID:  727"
+msgstr ""
+
+#. ID 728
+msgctxt "skills.name"
+msgid "ID:  728"
+msgstr ""
+
+#. ID 729
+msgctxt "skills.name"
+msgid "ID:  729"
+msgstr ""
+
+#. ID 730
+msgctxt "skills.name"
+msgid "ID:  730"
+msgstr ""
+
+#. ID 731
+msgctxt "skills.name"
+msgid "ID:  731"
+msgstr ""
+
+#. ID 732
+msgctxt "skills.name"
+msgid "ID:  732"
+msgstr ""
+
+#. ID 733
+msgctxt "skills.name"
+msgid "ID:  733"
+msgstr ""
+
+#. ID 734
+msgctxt "skills.name"
+msgid "ID:  734"
+msgstr ""
+
+#. ID 735
+msgctxt "skills.name"
+msgid "ID:  735"
+msgstr ""
+
+#. ID 736
+msgctxt "skills.name"
+msgid "ID:  736"
+msgstr ""
+
+#. ID 737
+msgctxt "skills.name"
+msgid "ID:  737"
+msgstr ""
+
+#. ID 738
+msgctxt "skills.name"
+msgid "ID:  738"
+msgstr ""
+
+#. ID 739
+msgctxt "skills.name"
+msgid "ID:  739"
+msgstr ""
+
+#. ID 740
+msgctxt "skills.name"
+msgid "ID:  740"
+msgstr ""
+
+#. ID 741
+msgctxt "skills.name"
+msgid "ID:  741"
+msgstr ""
+
+#. ID 742
+msgctxt "skills.name"
+msgid "ID:  742"
+msgstr ""
+
+#. ID 743
+msgctxt "skills.name"
+msgid "ID:  743"
+msgstr ""
+
+#. ID 744
+msgctxt "skills.name"
+msgid "ID:  744"
+msgstr ""
+
+#. ID 745
+msgctxt "skills.name"
+msgid "ID:  745"
+msgstr ""
+
+#. ID 746
+msgctxt "skills.name"
+msgid "ID:  746"
+msgstr ""
+
+#. ID 747
+msgctxt "skills.name"
+msgid "ID:  747"
+msgstr ""
+
+#. ID 748
+msgctxt "skills.name"
+msgid "ID:  748"
+msgstr ""
+
+#. ID 749
+msgctxt "skills.name"
+msgid "ID:  749"
+msgstr ""
+
+#. ID 750
+msgctxt "skills.name"
+msgid "ID:  750"
+msgstr ""
+
+#. ID 751
+msgctxt "skills.name"
+msgid "ID:  751"
+msgstr ""
+
+#. ID 752
+msgctxt "skills.name"
+msgid "ID:  752"
+msgstr ""
+
+#. ID 753
+msgctxt "skills.name"
+msgid "ID:  753"
+msgstr ""
+
+#. ID 754
+msgctxt "skills.name"
+msgid "ID:  754"
+msgstr ""
+
+#. ID 755
+msgctxt "skills.name"
+msgid "ID:  755"
+msgstr ""
+
+#. ID 756
+msgctxt "skills.name"
+msgid "ID:  756"
+msgstr ""
+
+#. ID 757
+msgctxt "skills.name"
+msgid "ID:  757"
+msgstr ""
+
+#. ID 758
+msgctxt "skills.name"
+msgid "ID:  758"
+msgstr ""
+
+#. ID 759
+msgctxt "skills.name"
+msgid "ID:  759"
+msgstr ""
+
+#. ID 760
+msgctxt "skills.name"
+msgid "ID:  760"
+msgstr ""
+
+#. ID 761
+msgctxt "skills.name"
+msgid "ID:  761"
+msgstr ""
+
+#. ID 762
+msgctxt "skills.name"
+msgid "ID:  762"
+msgstr ""
+
+#. ID 763
+msgctxt "skills.name"
+msgid "ID:  763"
+msgstr ""
+
+#. ID 764
+msgctxt "skills.name"
+msgid "ID:  764"
+msgstr ""
+
+#. ID 765
+msgctxt "skills.name"
+msgid "ID:  765"
+msgstr ""
+
+#. ID 766
+msgctxt "skills.name"
+msgid "ID:  766"
+msgstr ""
+
+#. ID 767
+msgctxt "skills.name"
+msgid "ID:  767"
+msgstr ""
+
+#. ID 768
+msgctxt "skills.name"
+msgid "ID:  768"
+msgstr ""
+
+#. ID 769
+msgctxt "skills.name"
+msgid "ID:  769"
+msgstr ""
+
+#. ID 770
+msgctxt "skills.name"
+msgid "ID:  770"
+msgstr ""
+
+#. ID 771
+msgctxt "skills.name"
+msgid "ID:  771"
+msgstr ""
+
+#. ID 772
+msgctxt "skills.name"
+msgid "ID:  772"
+msgstr ""
+
+#. ID 773
+msgctxt "skills.name"
+msgid "ID:  773"
+msgstr ""
+
+#. ID 774
+msgctxt "skills.name"
+msgid "ID:  774"
+msgstr ""
+
+#. ID 775
+msgctxt "skills.name"
+msgid "ID:  775"
+msgstr ""
+
+#. ID 776
+msgctxt "skills.name"
+msgid "ID:  776"
+msgstr ""
+
+#. ID 777
+msgctxt "skills.name"
+msgid "ID:  777"
+msgstr ""
+
+#. ID 778
+msgctxt "skills.name"
+msgid "ID:  778"
+msgstr ""
+
+#. ID 779
+msgctxt "skills.name"
+msgid "ID:  779"
+msgstr ""
+
+#. ID 780
+msgctxt "skills.name"
+msgid "ID:  780"
+msgstr ""
+
+#. ID 781
+msgctxt "skills.name"
+msgid "ID:  781 幾何学模様"
+msgstr ""
+
+#. ID 782
+msgctxt "skills.name"
+msgid "ID:  782"
+msgstr ""
+
+#. ID 783
+msgctxt "skills.name"
+msgid "ID:  783"
+msgstr ""
+
+#. ID 784
+msgctxt "skills.name"
+msgid "ID:  784"
+msgstr ""
+
+#. ID 785
+msgctxt "skills.name"
+msgid "ID:  785 ｴｽｶﾚｰﾀｰ"
+msgstr ""
+
+#. ID 786
+msgctxt "skills.name"
+msgid "ID:  786 果て_ano"
+msgstr ""
+
+#. ID 787
+msgctxt "skills.name"
+msgid "ID:  787 泥"
+msgstr ""
+
+#. ID 788
+msgctxt "skills.name"
+msgid "ID:  788 BF"
+msgstr ""
+
+#. ID 789
+msgctxt "skills.name"
+msgid "ID:  789"
+msgstr ""
+
+#. ID 790
+msgctxt "skills.name"
+msgid "ID:  790"
+msgstr ""
+
+#. ID 791
+msgctxt "skills.name"
+msgid "ID:  791 shigurin"
+msgstr ""
+
+#. ID 792
+msgctxt "skills.name"
+msgid "ID:  792 地底研究所"
+msgstr ""
+
+#. ID 793
+msgctxt "skills.name"
+msgid "ID:  793 地研奥"
+msgstr ""
+
+#. ID 794
+msgctxt "skills.name"
+msgid "ID:  794 通り道"
+msgstr ""
+
+#. ID 795
+msgctxt "skills.name"
+msgid "ID:  795 機密"
+msgstr ""
+
+#. ID 796
+msgctxt "skills.name"
+msgid "ID:  796 拒絶"
+msgstr ""
+
+#. ID 797
+msgctxt "skills.name"
+msgid "ID:  797 屋根"
+msgstr ""
+
+#. ID 798
+msgctxt "skills.name"
+msgid "ID:  798 賭博"
+msgstr ""
+
+#. ID 799
+msgctxt "skills.name"
+msgid "ID:  799 生者必滅"
+msgstr ""
+
+#. ID 800
+msgctxt "skills.name"
+msgid "ID:  800 ★覗き壁---"
+msgstr ""
+
+#. ID 801
+msgctxt "skills.name"
+msgid "ID:  801 2i9ﾃﾞﾊﾞｯｸﾞ"
+msgstr ""
+
+#. ID 802
+msgctxt "skills.name"
+msgid "ID:  802 ﾎｲｯﾌﾟA"
+msgstr ""
+
+#. ID 803
+msgctxt "skills.name"
+msgid "ID:  803 虫食い"
+msgstr ""
+
+#. ID 804
+msgctxt "skills.name"
+msgid "ID:  804 nF"
+msgstr ""
+
+#. ID 805
+msgctxt "skills.name"
+msgid "ID:  805 "
+msgstr ""
+
+#. ID 806
+msgctxt "skills.name"
+msgid "ID:  806 傭豚場"
+msgstr ""
+
+#. ID 807
+msgctxt "skills.name"
+msgid "ID:  807 まだらA"
+msgstr ""
+
+#. ID 808
+msgctxt "skills.name"
+msgid "ID:  808 星ｲｯﾊﾟｲ園"
+msgstr ""
+
+#. ID 809
+msgctxt "skills.name"
+msgid "ID:  809 ｸﾘﾉｲﾃﾞｱ"
+msgstr ""
+
+#. ID 810
+msgctxt "skills.name"
+msgid "ID:  810 ★繁栄巣A--"
+msgstr ""
+
+#. ID 811
+msgctxt "skills.name"
+msgid "ID:  811"
+msgstr ""
+
+#. ID 812
+msgctxt "skills.name"
+msgid "ID:  812"
+msgstr ""
+
+#. ID 813
+msgctxt "skills.name"
+msgid "ID:  813"
+msgstr ""
+
+#. ID 814
+msgctxt "skills.name"
+msgid "ID:  814"
+msgstr ""
+
+#. ID 815
+msgctxt "skills.name"
+msgid "ID:  815"
+msgstr ""
+
+#. ID 816
+msgctxt "skills.name"
+msgid "ID:  816"
+msgstr ""
+
+#. ID 817
+msgctxt "skills.name"
+msgid "ID:  817"
+msgstr ""
+
+#. ID 818
+msgctxt "skills.name"
+msgid "ID:  818"
+msgstr ""
+
+#. ID 819
+msgctxt "skills.name"
+msgid "ID:  819"
+msgstr ""
+
+#. ID 820
+msgctxt "skills.name"
+msgid "ID:  820"
+msgstr ""
+
+#. ID 821
+msgctxt "skills.name"
+msgid "ID:  821"
+msgstr ""
+
+#. ID 822
+msgctxt "skills.name"
+msgid "ID:  822"
+msgstr ""
+
+#. ID 823
+msgctxt "skills.name"
+msgid "ID:  823"
+msgstr ""
+
+#. ID 824
+msgctxt "skills.name"
+msgid "ID:  824"
+msgstr ""
+
+#. ID 825
+msgctxt "skills.name"
+msgid "ID:  825"
+msgstr ""
+
+#. ID 826
+msgctxt "skills.name"
+msgid "ID:  826"
+msgstr ""
+
+#. ID 827
+msgctxt "skills.name"
+msgid "ID:  827"
+msgstr ""
+
+#. ID 828
+msgctxt "skills.name"
+msgid "ID:  828"
+msgstr ""
+
+#. ID 829
+msgctxt "skills.name"
+msgid "ID:  829"
+msgstr ""
+
+#. ID 830
+msgctxt "skills.name"
+msgid "ID:  830"
+msgstr ""
+
+#. ID 831
+msgctxt "skills.name"
+msgid "ID:  831 赤道路"
+msgstr ""
+
+#. ID 832
+msgctxt "skills.name"
+msgid "ID:  832 Noildoof"
+msgstr ""
+
+#. ID 833
+msgctxt "skills.name"
+msgid "ID:  833 外観"
+msgstr ""
+
+#. ID 834
+msgctxt "skills.name"
+msgid "ID:  834 水辺"
+msgstr ""
+
+#. ID 835
+msgctxt "skills.name"
+msgid "ID:  835 内部"
+msgstr ""
+
+#. ID 836
+msgctxt "skills.name"
+msgid "ID:  836 街灯ｴﾘｱ"
+msgstr ""
+
+#. ID 837
+msgctxt "skills.name"
+msgid "ID:  837 人形屋敷"
+msgstr ""
+
+#. ID 838
+msgctxt "skills.name"
+msgid "ID:  838 繋ぎ"
+msgstr ""
+
+#. ID 839
+msgctxt "skills.name"
+msgid "ID:  839 白黒深淵"
+msgstr ""
+
+#. ID 840
+msgctxt "skills.name"
+msgid "ID:  840 ﾈｵﾝ海"
+msgstr ""
+
+#. ID 841
+msgctxt "skills.name"
+msgid "ID:  841 円錐館"
+msgstr ""
+
+#. ID 842
+msgctxt "skills.name"
+msgid "ID:  842 青仙人掌島"
+msgstr ""
+
+#. ID 843
+msgctxt "skills.name"
+msgid "ID:  843 猫墓地/紅葉"
+msgstr ""
+
+#. ID 844
+msgctxt "skills.name"
+msgid "ID:  844 落書き街"
+msgstr ""
+
+#. ID 845
+msgctxt "skills.name"
+msgid "ID:  845 花の小部屋"
+msgstr ""
+
+#. ID 846
+msgctxt "skills.name"
+msgid "ID:  846 夢孤島"
+msgstr ""
+
+#. ID 847
+msgctxt "skills.name"
+msgid "ID:  847 nOnAmE"
+msgstr ""
+
+#. ID 848
+msgctxt "skills.name"
+msgid "ID:  848 海底神殿"
+msgstr ""
+
+#. ID 849
+msgctxt "skills.name"
+msgid "ID:  849 廃籠A"
+msgstr ""
+
+#. ID 850
+msgctxt "skills.name"
+msgid "ID:  850 夢夢夢"
+msgstr ""
+
+#. ID 851
+msgctxt "skills.name"
+msgid "ID:  851 2i9荒野"
+msgstr ""
+
+#. ID 852
+msgctxt "skills.name"
+msgid "ID:  852 鯨飲"
+msgstr ""
+
+#. ID 853
+msgctxt "skills.name"
+msgid "ID:  853 紫紺の森"
+msgstr ""
+
+#. ID 854
+msgctxt "skills.name"
+msgid "ID:  854 猿侯爵地下"
+msgstr ""
+
+#. ID 855
+msgctxt "skills.name"
+msgid "ID:  855 四辺形ﾁｪｽ"
+msgstr ""
+
+#. ID 856
+msgctxt "skills.name"
+msgid "ID:  856 彫刻庭園"
+msgstr ""
+
+#. ID 857
+msgctxt "skills.name"
+msgid "ID:  857 繁栄巣B"
+msgstr ""
+
+#. ID 858
+msgctxt "skills.name"
+msgid "ID:  858 桃ｴﾎﾟｯﾍﾟ"
+msgstr ""
+
+#. ID 859
+msgctxt "skills.name"
+msgid "ID:  859 紫ｴﾎﾟｯﾍﾟ"
+msgstr ""
+
+#. ID 860
+msgctxt "skills.name"
+msgid "ID:  860 ★*--------"
+msgstr ""
+
+#. ID 861
+msgctxt "skills.name"
+msgid "ID:  861"
+msgstr ""
+
+#. ID 862
+msgctxt "skills.name"
+msgid "ID:  862"
+msgstr ""
+
+#. ID 863
+msgctxt "skills.name"
+msgid "ID:  863"
+msgstr ""
+
+#. ID 864
+msgctxt "skills.name"
+msgid "ID:  864"
+msgstr ""
+
+#. ID 865
+msgctxt "skills.name"
+msgid "ID:  865"
+msgstr ""
+
+#. ID 866
+msgctxt "skills.name"
+msgid "ID:  866"
+msgstr ""
+
+#. ID 867
+msgctxt "skills.name"
+msgid "ID:  867"
+msgstr ""
+
+#. ID 868
+msgctxt "skills.name"
+msgid "ID:  868"
+msgstr ""
+
+#. ID 869
+msgctxt "skills.name"
+msgid "ID:  869"
+msgstr ""
+
+#. ID 870
+msgctxt "skills.name"
+msgid "ID:  870"
+msgstr ""
+
+#. ID 871
+msgctxt "skills.name"
+msgid "ID:  871 氷の大地"
+msgstr ""
+
+#. ID 872
+msgctxt "skills.name"
+msgid "ID:　872 きれい"
+msgstr ""
+
+#. ID 873
+msgctxt "skills.name"
+msgid "ID:  873 ？"
+msgstr ""
+
+#. ID 874
+msgctxt "skills.name"
+msgid "ID:  874 "
+msgstr ""
+
+#. ID 875
+msgctxt "skills.name"
+msgid "ID:  875 廃籠B"
+msgstr ""
+
+#. ID 876
+msgctxt "skills.name"
+msgid "ID:  876 廃籠C"
+msgstr ""
+
+#. ID 877
+msgctxt "skills.name"
+msgid "ID:  877 ﾊﾟﾗｻｲﾄﾗﾎﾞ"
+msgstr ""
+
+#. ID 878
+msgctxt "skills.name"
+msgid "ID:  878 黒板"
+msgstr ""
+
+#. ID 879
+msgctxt "skills.name"
+msgid "ID:  879 ｺﾞｰｽﾄ街"
+msgstr ""
+
+#. ID 880
+msgctxt "skills.name"
+msgid "ID:  880 霧の橋"
+msgstr ""
+
+#. ID 881
+msgctxt "skills.name"
+msgid "ID:  881 通い路"
+msgstr ""
+
+#. ID 882
+msgctxt "skills.name"
+msgid "ID:  882 星の集落"
+msgstr ""
+
+#. ID 883
+msgctxt "skills.name"
+msgid "ID:  883  ツナード"
+msgstr ""
+
+#. ID 884
+msgctxt "skills.name"
+msgid "ID:  884 ****"
+msgstr ""
+
+#. ID 885
+msgctxt "skills.name"
+msgid "ID:  885 橙道"
+msgstr ""
+
+#. ID 886
+msgctxt "skills.name"
+msgid "ID:  886 雨降る荒野"
+msgstr ""
+
+#. ID 887
+msgctxt "skills.name"
+msgid "ID:  887 プリン蝋燭"
+msgstr ""
+
+#. ID 888
+msgctxt "skills.name"
+msgid "ID:  888"
+msgstr ""
+
+#. ID 889
+msgctxt "skills.name"
+msgid "ID:  889 "
+msgstr ""
+
+#. ID 890
+msgctxt "skills.name"
+msgid "ID:  890 "
+msgstr ""
+
+#. ID 891
+msgctxt "skills.name"
+msgid "ID:  891"
+msgstr ""
+
+#. ID 892
+msgctxt "skills.name"
+msgid "ID:  892"
+msgstr ""
+
+#. ID 893
+msgctxt "skills.name"
+msgid "ID:  893"
+msgstr ""
+
+#. ID 894
+msgctxt "skills.name"
+msgid "ID:  894"
+msgstr ""
+
+#. ID 895
+msgctxt "skills.name"
+msgid "ID:  895"
+msgstr ""
+
+#. ID 896
+msgctxt "skills.name"
+msgid "ID:  896"
+msgstr ""
+
+#. ID 897
+msgctxt "skills.name"
+msgid "ID:  897"
+msgstr ""
+
+#. ID 898
+msgctxt "skills.name"
+msgid "ID:  898"
+msgstr ""
+
+#. ID 899
+msgctxt "skills.name"
+msgid "ID:  899"
+msgstr ""
+
+#. ID 900
+msgctxt "skills.name"
+msgid "ID:  900"
+msgstr ""
+
+#. ID 901
+msgctxt "skills.name"
+msgid "ID:  901 ﾄﾝﾈﾙｴﾘｱ"
+msgstr ""
+
+#. ID 902
+msgctxt "skills.name"
+msgid "ID:  902 妖精の池"
+msgstr ""
+
+#. ID 903
+msgctxt "skills.name"
+msgid "ID:  903 ﾓﾉｸﾛﾏﾝｼｮﾝ"
+msgstr ""
+
+#. ID 904
+msgctxt "skills.name"
+msgid "ID:  904 ﾓﾉｸﾛ草原"
+msgstr ""
+
+#. ID 905
+msgctxt "skills.name"
+msgid "ID:  905 夢火星"
+msgstr ""
+
+#. ID 906
+msgctxt "skills.name"
+msgid "ID:  906 夢金星"
+msgstr ""
+
+#. ID 907
+msgctxt "skills.name"
+msgid "ID:  907 広い街"
+msgstr ""
+
+#. ID 908
+msgctxt "skills.name"
+msgid "ID:  908 "
+msgstr ""
+
+#. ID 909
+msgctxt "skills.name"
+msgid "ID:  909 so"
+msgstr ""
+
+#. ID 910
+msgctxt "skills.name"
+msgid "ID:  910 ★---------"
+msgstr ""
+
+#. ID 911
+msgctxt "skills.name"
+msgid "ID:  911 neve"
+msgstr ""
+
+#. ID 912
+msgctxt "skills.name"
+msgid "ID:  912 exitErr"
+msgstr ""
+
+#. ID 913
+msgctxt "skills.name"
+msgid "ID:  913 err"
+msgstr ""
+
+#. ID 914
+msgctxt "skills.name"
+msgid "qxy:914_∞library"
+msgstr ""
+
+#. ID 915
+msgctxt "skills.name"
+msgid "ID:  915 cr"
+msgstr ""
+
+#. ID 916
+msgctxt "skills.name"
+msgid "ID:  916"
+msgstr ""
+
+#. ID 917
+msgctxt "skills.name"
+msgid "ID:  917"
+msgstr ""
+
+#. ID 918
+msgctxt "skills.name"
+msgid "ID:  918 attic"
+msgstr ""
+
+#. ID 919
+msgctxt "skills.name"
+msgid "ID:  919"
+msgstr ""
+
+#. ID 920
+msgctxt "skills.name"
+msgid "ID:  920 --"
+msgstr ""
+
+#. ID 921
+msgctxt "skills.name"
+msgid "ID:  921 繋ぎ"
+msgstr ""
+
+#. ID 922
+msgctxt "skills.name"
+msgid "ID:  922 お外ｴﾘｱ"
+msgstr ""
+
+#. ID 923
+msgctxt "skills.name"
+msgid "ID:  923 井戸ン中"
+msgstr ""
+
+#. ID 924
+msgctxt "skills.name"
+msgid "ID:  924 顔"
+msgstr ""
+
+#. ID 925
+msgctxt "skills.name"
+msgid "ID:  925 内部ｴﾘｱ"
+msgstr ""
+
+#. ID 926
+msgctxt "skills.name"
+msgid "ID:  926 "
+msgstr ""
+
+#. ID 927
+msgctxt "skills.name"
+msgid "ID:  927"
+msgstr ""
+
+#. ID 928
+msgctxt "skills.name"
+msgid "ID:  928 楽園？"
+msgstr ""
+
+#. ID 929
+msgctxt "skills.name"
+msgid "ID:  929"
+msgstr ""
+
+#. ID 930
+msgctxt "skills.name"
+msgid "ID:  930 ★---------"
+msgstr ""
+
+#. ID 931
+msgctxt "skills.name"
+msgid "ID:  931 ip"
+msgstr ""
+
+#. ID 932
+msgctxt "skills.name"
+msgid "ID:  932 so"
+msgstr ""
+
+#. ID 933
+msgctxt "skills.name"
+msgid "ID:  933"
+msgstr ""
+
+#. ID 934
+msgctxt "skills.name"
+msgid "ID:  934"
+msgstr ""
+
+#. ID 935
+msgctxt "skills.name"
+msgid "ID:  935"
+msgstr ""
+
+#. ID 936
+msgctxt "skills.name"
+msgid "ID:  936"
+msgstr ""
+
+#. ID 937
+msgctxt "skills.name"
+msgid "ID:  937"
+msgstr ""
+
+#. ID 938
+msgctxt "skills.name"
+msgid "ID:  938"
+msgstr ""
+
+#. ID 939
+msgctxt "skills.name"
+msgid "ID:  939"
+msgstr ""
+
+#. ID 940
+msgctxt "skills.name"
+msgid "ID:  940 s"
+msgstr ""
+
+#. ID 941
+msgctxt "skills.name"
+msgid "ID:  941 --"
+msgstr ""
+
+#. ID 942
+msgctxt "skills.name"
+msgid "ID:  942"
+msgstr ""
+
+#. ID 943
+msgctxt "skills.name"
+msgid "ID:  943"
+msgstr ""
+
+#. ID 944
+msgctxt "skills.name"
+msgid "ID:  944 fc"
+msgstr ""
+
+#. ID 945
+msgctxt "skills.name"
+msgid "ID:  945 am"
+msgstr ""
+
+#. ID 946
+msgctxt "skills.name"
+msgid "ID:  946 i"
+msgstr ""
+
+#. ID 947
+msgctxt "skills.name"
+msgid "ID:  947 p"
+msgstr ""
+
+#. ID 948
+msgctxt "skills.name"
+msgid "ID:  948 ig"
+msgstr ""
+
+#. ID 949
+msgctxt "skills.name"
+msgid "ID:  949 wm"
+msgstr ""
+
+#. ID 950
+msgctxt "skills.name"
+msgid "ID:  950 br"
+msgstr ""
+
+#. ID 951
+msgctxt "skills.name"
+msgid "ID:  951 Rio"
+msgstr ""
+
+#. ID 952
+msgctxt "skills.name"
+msgid "ID:  952 SewersHand"
+msgstr ""
+
+#. ID 953
+msgctxt "skills.name"
+msgid "ID:  953 SewerAlleys"
+msgstr ""
+
+#. ID 954
+msgctxt "skills.name"
+msgid "ID:  954 Autumn"
+msgstr ""
+
+#. ID 955
+msgctxt "skills.name"
+msgid "ID:  955 AutumnInter"
+msgstr ""
+
+#. ID 956
+msgctxt "skills.name"
+msgid "ID:  956 Town"
+msgstr ""
+
+#. ID 957
+msgctxt "skills.name"
+msgid "ID:  957 Town→958"
+msgstr ""
+
+#. ID 958
+msgctxt "skills.name"
+msgid "ID:  958 Condominium"
+msgstr ""
+
+#. ID 959
+msgctxt "skills.name"
+msgid "ID:  959"
+msgstr ""
+
+#. ID 960
+msgctxt "skills.name"
+msgid "ID:  960 ★---------"
+msgstr ""
+
+#. ID 961
+msgctxt "skills.name"
+msgid "ID:  961"
+msgstr ""
+
+#. ID 962
+msgctxt "skills.name"
+msgid "ID:  962"
+msgstr ""
+
+#. ID 963
+msgctxt "skills.name"
+msgid "ID:  963"
+msgstr ""
+
+#. ID 964
+msgctxt "skills.name"
+msgid "ID:  964 下水処理"
+msgstr ""
+
+#. ID 965
+msgctxt "skills.name"
+msgid "ID:  965"
+msgstr ""
+
+#. ID 966
+msgctxt "skills.name"
+msgid "ID:  966 ロボ"
+msgstr ""
+
+#. ID 967
+msgctxt "skills.name"
+msgid "ID:  967 ミニ4"
+msgstr ""
+
+#. ID 968
+msgctxt "skills.name"
+msgid "ID:  968 骨1"
+msgstr ""
+
+#. ID 969
+msgctxt "skills.name"
+msgid "ID:  969"
+msgstr ""
+
+#. ID 970
+msgctxt "skills.name"
+msgid "ID:  970 骨2"
+msgstr ""
+
+#. ID 971
+msgctxt "skills.name"
+msgid "ID:  971 美術展"
+msgstr ""
+
+#. ID 972
+msgctxt "skills.name"
+msgid "ID:  972 天文台-昼"
+msgstr ""
+
+#. ID 973
+msgctxt "skills.name"
+msgid "ID:  973 天文台-夜"
+msgstr ""
+
+#. ID 974
+msgctxt "skills.name"
+msgid "ID:  974 ｼﾞｬﾝｸﾞﾙｴﾘｱ"
+msgstr ""
+
+#. ID 975
+msgctxt "skills.name"
+msgid "ID:  975 伝送塔ｴﾘｱ"
+msgstr ""
+
+#. ID 976
+msgctxt "skills.name"
+msgid "ID:  976 人魚洞A"
+msgstr ""
+
+#. ID 977
+msgctxt "skills.name"
+msgid "ID:  977 人魚洞B"
+msgstr ""
+
+#. ID 978
+msgctxt "skills.name"
+msgid "ID:  978 ﾋﾞ湿A"
+msgstr ""
+
+#. ID 979
+msgctxt "skills.name"
+msgid "ID:  979 ﾋﾞ湿B"
+msgstr ""
+
+#. ID 980
+msgctxt "skills.name"
+msgid "ID:  980 ﾋﾞ湿C"
+msgstr ""
+
+#. ID 981
+msgctxt "skills.name"
+msgid "ID:  981"
+msgstr ""
+
+#. ID 982
+msgctxt "skills.name"
+msgid "ID:  982"
+msgstr ""
+
+#. ID 983
+msgctxt "skills.name"
+msgid "ID:  983"
+msgstr ""
+
+#. ID 984
+msgctxt "skills.name"
+msgid "ID:  984"
+msgstr ""
+
+#. ID 985
+msgctxt "skills.name"
+msgid "ID:  985"
+msgstr ""
+
+#. ID 986
+msgctxt "skills.name"
+msgid "ID:  986"
+msgstr ""
+
+#. ID 987
+msgctxt "skills.name"
+msgid "ID:  987"
+msgstr ""
+
+#. ID 988
+msgctxt "skills.name"
+msgid "ID:  988"
+msgstr ""
+
+#. ID 989
+msgctxt "skills.name"
+msgid "ID:  989"
+msgstr ""
+
+#. ID 990
+msgctxt "skills.name"
+msgid "ID:  990"
+msgstr ""
+
+#. ID 991
+msgctxt "skills.name"
+msgid "ID:  991"
+msgstr ""
+
+#. ID 992
+msgctxt "skills.name"
+msgid "ID:  992"
+msgstr ""
+
+#. ID 993
+msgctxt "skills.name"
+msgid "ID:  993"
+msgstr ""
+
+#. ID 994
+msgctxt "skills.name"
+msgid "ID:  994"
+msgstr ""
+
+#. ID 995
+msgctxt "skills.name"
+msgid "ID:  995"
+msgstr ""
+
+#. ID 996
+msgctxt "skills.name"
+msgid "ID:  996"
+msgstr ""
+
+#. ID 997
+msgctxt "skills.name"
+msgid "ID:  997"
+msgstr ""
+
+#. ID 998
+msgctxt "skills.name"
+msgid "ID:  998"
+msgstr ""
+
+#. ID 999
+msgctxt "skills.name"
+msgid "ID:  999"
+msgstr ""
+
+#. ID 1000
+msgctxt "skills.name"
+msgid "ID: 1000"
+msgstr ""
+
+#. ID 1001
+msgctxt "skills.name"
+msgid "ID: 1001 魔女の住処"
+msgstr ""
+
+#. ID 1002
+msgctxt "skills.name"
+msgid "ID: 1002 冬の村A"
+msgstr ""
+
+#. ID 1003
+msgctxt "skills.name"
+msgid "ID: 1003 冬の村B"
+msgstr ""
+
+#. ID 1004
+msgctxt "skills.name"
+msgid "ID: 1004 冬の村C"
+msgstr ""
+
+#. ID 1005
+msgctxt "skills.name"
+msgid "ID: 1005 ﾓﾉｸﾛ階段"
+msgstr ""
+
+#. ID 1006
+msgctxt "skills.name"
+msgid "ID: 1006 ﾓﾉｸﾛｽﾄｰﾝ"
+msgstr ""
+
+#. ID 1007
+msgctxt "skills.name"
+msgid "ID: 1007 宇宙船A"
+msgstr ""
+
+#. ID 1008
+msgctxt "skills.name"
+msgid "ID: 1008 宇宙船B"
+msgstr ""
+
+#. ID 1009
+msgctxt "skills.name"
+msgid "ID: 1009 宇宙船C"
+msgstr ""
+
+#. ID 1010
+msgctxt "skills.name"
+msgid "ID: 1010"
+msgstr ""
+
+#. ID 1011
+msgctxt "skills.name"
+msgid "ID: 1011 Rio"
+msgstr ""
+
+#. ID 1012
+msgctxt "skills.name"
+msgid "ID: 1012"
+msgstr ""
+
+#. ID 1013
+msgctxt "skills.name"
+msgid "ID: 1013"
+msgstr ""
+
+#. ID 1014
+msgctxt "skills.name"
+msgid "ID: 1014"
+msgstr ""
+
+#. ID 1015
+msgctxt "skills.name"
+msgid "ID: 1015 CastleRoom"
+msgstr ""
+
+#. ID 1016
+msgctxt "skills.name"
+msgid "ID: 1016"
+msgstr ""
+
+#. ID 1017
+msgctxt "skills.name"
+msgid "ID: 1017"
+msgstr ""
+
+#. ID 1018
+msgctxt "skills.name"
+msgid "ID: 1018"
+msgstr ""
+
+#. ID 1019
+msgctxt "skills.name"
+msgid "ID: 1019"
+msgstr ""
+
+#. ID 1020
+msgctxt "skills.name"
+msgid "ID: 1020 鏡湖"
+msgstr ""
+
+#. ID 1021
+msgctxt "skills.name"
+msgid "ID: 1021　腐った海"
+msgstr ""
+
+#. ID 1022
+msgctxt "skills.name"
+msgid "ID: 1022　閉鎖空間"
+msgstr ""
+
+#. ID 1023
+msgctxt "skills.name"
+msgid "ID: 1023　カル雪原"
+msgstr ""
+
+#. ID 1024
+msgctxt "skills.name"
+msgid "ID: 1024　カル雪　中"
+msgstr ""
+
+#. ID 1025
+msgctxt "skills.name"
+msgid "ID: 1025　アイス"
+msgstr ""
+
+#. ID 1026
+msgctxt "skills.name"
+msgid "ID: 1026"
+msgstr ""
+
+#. ID 1027
+msgctxt "skills.name"
+msgid "ID: 1027"
+msgstr ""
+
+#. ID 1028
+msgctxt "skills.name"
+msgid "ID: 1028"
+msgstr ""
+
+#. ID 1029
+msgctxt "skills.name"
+msgid "ID: 1029"
+msgstr ""
+
+#. ID 1030
+msgctxt "skills.name"
+msgid "ID: 1030"
+msgstr ""
+
+#. ID 1031
+msgctxt "skills.name"
+msgid "ID: 1031"
+msgstr ""
+
+#. ID 1032
+msgctxt "skills.name"
+msgid "ID: 1032"
+msgstr ""
+
+#. ID 1033
+msgctxt "skills.name"
+msgid "ID: 1033"
+msgstr ""
+
+#. ID 1034
+msgctxt "skills.name"
+msgid "ID: 1034"
+msgstr ""
+
+#. ID 1035
+msgctxt "skills.name"
+msgid "ID: 1035"
+msgstr ""
+
+#. ID 1036
+msgctxt "skills.name"
+msgid "ID: 1036"
+msgstr ""
+
+#. ID 1037
+msgctxt "skills.name"
+msgid "ID: 1037"
+msgstr ""
+
+#. ID 1038
+msgctxt "skills.name"
+msgid "ID: 1038"
+msgstr ""
+
+#. ID 1039
+msgctxt "skills.name"
+msgid "ID: 1039"
+msgstr ""
+
+#. ID 1040
+msgctxt "skills.name"
+msgid "ID: 1040"
+msgstr ""
+
+#. ID 1041
+msgctxt "skills.name"
+msgid "ID: 1041 Nulsdodage"
+msgstr ""
+
+#. ID 1042
+msgctxt "skills.name"
+msgid "ID: 1042 ﾃﾞｰﾀｽﾄﾘｰﾑ"
+msgstr ""
+
+#. ID 1043
+msgctxt "skills.name"
+msgid "ID: 1043 "
+msgstr ""
+
+#. ID 1044
+msgctxt "skills.name"
+msgid "ID: 1044 "
+msgstr ""
+
+#. ID 1045
+msgctxt "skills.name"
+msgid "ID: 1045 "
+msgstr ""
+
+#. ID 1046
+msgctxt "skills.name"
+msgid "ID: 1046 "
+msgstr ""
+
+#. ID 1047
+msgctxt "skills.name"
+msgid "ID: 1047 "
+msgstr ""
+
+#. ID 1048
+msgctxt "skills.name"
+msgid "ID: 1048 "
+msgstr ""
+
+#. ID 1049
+msgctxt "skills.name"
+msgid "ID: 1049 "
+msgstr ""
+
+#. ID 1050
+msgctxt "skills.name"
+msgid "ID: 1050 ★---------"
+msgstr ""
+
+#. ID 1051
+msgctxt "skills.name"
+msgid "ID: 1051"
+msgstr ""
+
+#. ID 1052
+msgctxt "skills.name"
+msgid "ID: 1052"
+msgstr ""
+
+#. ID 1053
+msgctxt "skills.name"
+msgid "ID: 1053"
+msgstr ""
+
+#. ID 1054
+msgctxt "skills.name"
+msgid "ID: 1054"
+msgstr ""
+
+#. ID 1055
+msgctxt "skills.name"
+msgid "ID: 1055"
+msgstr ""
+
+#. ID 1056
+msgctxt "skills.name"
+msgid "ID: 1056"
+msgstr ""
+
+#. ID 1057
+msgctxt "skills.name"
+msgid "ID: 1057"
+msgstr ""
+
+#. ID 1058
+msgctxt "skills.name"
+msgid "ID: 1058"
+msgstr ""
+
+#. ID 1059
+msgctxt "skills.name"
+msgid "ID: 1059"
+msgstr ""
+
+#. ID 1060
+msgctxt "skills.name"
+msgid "ID: 1060"
+msgstr ""
+
+#. ID 1061
+msgctxt "skills.name"
+msgid "ID: 1061"
+msgstr ""
+
+#. ID 1062
+msgctxt "skills.name"
+msgid "ID: 1062"
+msgstr ""
+
+#. ID 1063
+msgctxt "skills.name"
+msgid "ID: 1063"
+msgstr ""
+
+#. ID 1064
+msgctxt "skills.name"
+msgid "ID: 1064"
+msgstr ""
+
+#. ID 1065
+msgctxt "skills.name"
+msgid "ID: 1065"
+msgstr ""
+
+#. ID 1066
+msgctxt "skills.name"
+msgid "ID: 1066"
+msgstr ""
+
+#. ID 1067
+msgctxt "skills.name"
+msgid "ID: 1067"
+msgstr ""
+
+#. ID 1068
+msgctxt "skills.name"
+msgid "ID: 1068"
+msgstr ""
+
+#. ID 1069
+msgctxt "skills.name"
+msgid "ID: 1069"
+msgstr ""
+
+#. ID 1070
+msgctxt "skills.name"
+msgid "ID: 1070"
+msgstr ""
+
+#. ID 1071
+msgctxt "skills.name"
+msgid "ID: 1071"
+msgstr ""
+
+#. ID 1072
+msgctxt "skills.name"
+msgid "ID: 1072"
+msgstr ""
+
+#. ID 1073
+msgctxt "skills.name"
+msgid "ID: 1073"
+msgstr ""
+
+#. ID 1074
+msgctxt "skills.name"
+msgid "ID: 1074"
+msgstr ""
+
+#. ID 1075
+msgctxt "skills.name"
+msgid "ID: 1075"
+msgstr ""
+
+#. ID 1076
+msgctxt "skills.name"
+msgid "ID: 1076"
+msgstr ""
+
+#. ID 1077
+msgctxt "skills.name"
+msgid "ID: 1077"
+msgstr ""
+
+#. ID 1078
+msgctxt "skills.name"
+msgid "ID: 1078"
+msgstr ""
+
+#. ID 1079
+msgctxt "skills.name"
+msgid "ID: 1079"
+msgstr ""
+
+#. ID 1080
+msgctxt "skills.name"
+msgid "ID: 1080"
+msgstr ""
+
+#. ID 1081
+msgctxt "skills.name"
+msgid "ID: 1081"
+msgstr ""
+
+#. ID 1082
+msgctxt "skills.name"
+msgid "ID: 1082"
+msgstr ""
+
+#. ID 1083
+msgctxt "skills.name"
+msgid "ID: 1083"
+msgstr ""
+
+#. ID 1084
+msgctxt "skills.name"
+msgid "ID: 1084"
+msgstr ""
+
+#. ID 1085
+msgctxt "skills.name"
+msgid "ID: 1085"
+msgstr ""
+
+#. ID 1086
+msgctxt "skills.name"
+msgid "ID: 1086"
+msgstr ""
+
+#. ID 1087
+msgctxt "skills.name"
+msgid "ID: 1087"
+msgstr ""
+
+#. ID 1088
+msgctxt "skills.name"
+msgid "ID: 1088"
+msgstr ""
+
+#. ID 1089
+msgctxt "skills.name"
+msgid "ID: 1089"
+msgstr ""
+
+#. ID 1090
+msgctxt "skills.name"
+msgid "ID: 1090"
+msgstr ""
+
+#. ID 1091
+msgctxt "skills.name"
+msgid "ID: 1091"
+msgstr ""
+
+#. ID 1092
+msgctxt "skills.name"
+msgid "ID: 1092"
+msgstr ""
+
+#. ID 1093
+msgctxt "skills.name"
+msgid "ID: 1093"
+msgstr ""
+
+#. ID 1094
+msgctxt "skills.name"
+msgid "ID: 1094"
+msgstr ""
+
+#. ID 1095
+msgctxt "skills.name"
+msgid "ID: 1095"
+msgstr ""
+
+#. ID 1096
+msgctxt "skills.name"
+msgid "ID: 1096"
+msgstr ""
+
+#. ID 1097
+msgctxt "skills.name"
+msgid "ID: 1097"
+msgstr ""
+
+#. ID 1098
+msgctxt "skills.name"
+msgid "ID: 1098"
+msgstr ""
+
+#. ID 1099
+msgctxt "skills.name"
+msgid "ID: 1099"
+msgstr ""
+
+#. ID 1100
+msgctxt "skills.name"
+msgid "ID: 1100"
+msgstr ""
+
+#. ID 1101
+msgctxt "skills.name"
+msgid "ID: 1101"
+msgstr ""
+
+#. ID 1102
+msgctxt "skills.name"
+msgid "ID: 1102"
+msgstr ""
+
+#. ID 1103
+msgctxt "skills.name"
+msgid "ID: 1103"
+msgstr ""
+
+#. ID 1104
+msgctxt "skills.name"
+msgid "ID: 1104"
+msgstr ""
+
+#. ID 1105
+msgctxt "skills.name"
+msgid "ID: 1105"
+msgstr ""
+
+#. ID 1106
+msgctxt "skills.name"
+msgid "ID: 1106"
+msgstr ""
+
+#. ID 1107
+msgctxt "skills.name"
+msgid "ID: 1107"
+msgstr ""
+
+#. ID 1108
+msgctxt "skills.name"
+msgid "ID: 1108"
+msgstr ""
+
+#. ID 1109
+msgctxt "skills.name"
+msgid "ID: 1109"
+msgstr ""
+
+#. ID 1110
+msgctxt "skills.name"
+msgid "ID: 1110"
+msgstr ""
+
+#. ID 1111
+msgctxt "skills.name"
+msgid "ID: 1111"
+msgstr ""
+
+#. ID 1112
+msgctxt "skills.name"
+msgid "ID: 1112"
+msgstr ""
+
+#. ID 1113
+msgctxt "skills.name"
+msgid "ID: 1113"
+msgstr ""
+
+#. ID 1114
+msgctxt "skills.name"
+msgid "ID: 1114"
+msgstr ""
+
+#. ID 1115
+msgctxt "skills.name"
+msgid "ID: 1115"
+msgstr ""
+
+#. ID 1116
+msgctxt "skills.name"
+msgid "ID: 1116"
+msgstr ""
+
+#. ID 1117
+msgctxt "skills.name"
+msgid "ID: 1117"
+msgstr ""
+
+#. ID 1118
+msgctxt "skills.name"
+msgid "ID: 1118"
+msgstr ""
+
+#. ID 1119
+msgctxt "skills.name"
+msgid "ID: 1119"
+msgstr ""
+
+#. ID 1120
+msgctxt "skills.name"
+msgid "ID: 1120"
+msgstr ""
+
+#. ID 1121
+msgctxt "skills.name"
+msgid "ID: 1121"
+msgstr ""
+
+#. ID 1122
+msgctxt "skills.name"
+msgid "ID: 1122"
+msgstr ""
+
+#. ID 1123
+msgctxt "skills.name"
+msgid "ID: 1123"
+msgstr ""
+
+#. ID 1124
+msgctxt "skills.name"
+msgid "ID: 1124"
+msgstr ""
+
+#. ID 1125
+msgctxt "skills.name"
+msgid "ID: 1125"
+msgstr ""
+
+#. ID 1126
+msgctxt "skills.name"
+msgid "ID: 1126"
+msgstr ""
+
+#. ID 1127
+msgctxt "skills.name"
+msgid "ID: 1127"
+msgstr ""
+
+#. ID 1128
+msgctxt "skills.name"
+msgid "ID: 1128"
+msgstr ""
+
+#. ID 1129
+msgctxt "skills.name"
+msgid "ID: 1129"
+msgstr ""
+
+#. ID 1130
+msgctxt "skills.name"
+msgid "ID: 1130"
+msgstr ""
+
+#. ID 1131
+msgctxt "skills.name"
+msgid "ID: 1131"
+msgstr ""
+
+#. ID 1132
+msgctxt "skills.name"
+msgid "ID: 1132"
+msgstr ""
+
+#. ID 1133
+msgctxt "skills.name"
+msgid "ID: 1133"
+msgstr ""
+
+#. ID 1134
+msgctxt "skills.name"
+msgid "ID: 1134"
+msgstr ""
+
+#. ID 1135
+msgctxt "skills.name"
+msgid "ID: 1135"
+msgstr ""
+
+#. ID 1136
+msgctxt "skills.name"
+msgid "ID: 1136"
+msgstr ""
+
+#. ID 1137
+msgctxt "skills.name"
+msgid "ID: 1137"
+msgstr ""
+
+#. ID 1138
+msgctxt "skills.name"
+msgid "ID: 1138"
+msgstr ""
+
+#. ID 1139
+msgctxt "skills.name"
+msgid "ID: 1139"
+msgstr ""
+
+#. ID 1140
+msgctxt "skills.name"
+msgid "ID: 1140"
+msgstr ""
+
+#. ID 1141
+msgctxt "skills.name"
+msgid "ID: 1141"
+msgstr ""
+
+#. ID 1142
+msgctxt "skills.name"
+msgid "ID: 1142"
+msgstr ""
+
+#. ID 1143
+msgctxt "skills.name"
+msgid "ID: 1143"
+msgstr ""
+
+#. ID 1144
+msgctxt "skills.name"
+msgid "ID: 1144"
+msgstr ""
+
+#. ID 1145
+msgctxt "skills.name"
+msgid "ID: 1145"
+msgstr ""
+
+#. ID 1146
+msgctxt "skills.name"
+msgid "ID: 1146"
+msgstr ""
+
+#. ID 1147
+msgctxt "skills.name"
+msgid "ID: 1147"
+msgstr ""
+
+#. ID 1148
+msgctxt "skills.name"
+msgid "ID: 1148"
+msgstr ""
+
+#. ID 1149
+msgctxt "skills.name"
+msgid "ID: 1149"
+msgstr ""
+
+#. ID 1150
+msgctxt "skills.name"
+msgid "ID: 1150"
+msgstr ""
+
+#. ID 1151
+msgctxt "skills.name"
+msgid "ID: 1151"
+msgstr ""
+
+#. ID 1152
+msgctxt "skills.name"
+msgid "ID: 1152"
+msgstr ""
+
+#. ID 1153
+msgctxt "skills.name"
+msgid "ID: 1153"
+msgstr ""
+
+#. ID 1154
+msgctxt "skills.name"
+msgid "ID: 1154"
+msgstr ""
+
+#. ID 1155
+msgctxt "skills.name"
+msgid "ID: 1155"
+msgstr ""
+
+#. ID 1156
+msgctxt "skills.name"
+msgid "ID: 1156"
+msgstr ""
+
+#. ID 1157
+msgctxt "skills.name"
+msgid "ID: 1157"
+msgstr ""
+
+#. ID 1158
+msgctxt "skills.name"
+msgid "ID: 1158"
+msgstr ""
+
+#. ID 1159
+msgctxt "skills.name"
+msgid "ID: 1159"
+msgstr ""
+
+#. ID 1160
+msgctxt "skills.name"
+msgid "ID: 1160"
+msgstr ""
+
+#. ID 1161
+msgctxt "skills.name"
+msgid "ID: 1161"
+msgstr ""
+
+#. ID 1162
+msgctxt "skills.name"
+msgid "ID: 1162"
+msgstr ""
+
+#. ID 1163
+msgctxt "skills.name"
+msgid "ID: 1163"
+msgstr ""
+
+#. ID 1164
+msgctxt "skills.name"
+msgid "ID: 1164"
+msgstr ""
+
+#. ID 1165
+msgctxt "skills.name"
+msgid "ID: 1165"
+msgstr ""
+
+#. ID 1166
+msgctxt "skills.name"
+msgid "ID: 1166"
+msgstr ""
+
+#. ID 1167
+msgctxt "skills.name"
+msgid "ID: 1167"
+msgstr ""
+
+#. ID 1168
+msgctxt "skills.name"
+msgid "ID: 1168"
+msgstr ""
+
+#. ID 1169
+msgctxt "skills.name"
+msgid "ID: 1169"
+msgstr ""
+
+#. ID 1170
+msgctxt "skills.name"
+msgid "ID: 1170"
+msgstr ""
+
+#. ID 1171
+msgctxt "skills.name"
+msgid "ID: 1171"
+msgstr ""
+
+#. ID 1172
+msgctxt "skills.name"
+msgid "ID: 1172"
+msgstr ""
+
+#. ID 1173
+msgctxt "skills.name"
+msgid "ID: 1173"
+msgstr ""
+
+#. ID 1174
+msgctxt "skills.name"
+msgid "ID: 1174"
+msgstr ""
+
+#. ID 1175
+msgctxt "skills.name"
+msgid "ID: 1175"
+msgstr ""
+
+#. ID 1176
+msgctxt "skills.name"
+msgid "ID: 1176"
+msgstr ""
+
+#. ID 1177
+msgctxt "skills.name"
+msgid "ID: 1177"
+msgstr ""
+
+#. ID 1178
+msgctxt "skills.name"
+msgid "ID: 1178"
+msgstr ""
+
+#. ID 1179
+msgctxt "skills.name"
+msgid "ID: 1179"
+msgstr ""
+
+#. ID 1180
+msgctxt "skills.name"
+msgid "ID: 1180"
+msgstr ""
+
+#. ID 1181
+msgctxt "skills.name"
+msgid "ID: 1181 まだらB"
+msgstr ""
+
+#. ID 1182
+msgctxt "skills.name"
+msgid "ID: 1182 2i9"
+msgstr ""
+
+#. ID 1183
+msgctxt "skills.name"
+msgid "ID: 1183 ﾗｾﾝ階段"
+msgstr ""
+
+#. ID 1184
+msgctxt "skills.name"
+msgid "ID: 1184 繋ぎ部屋"
+msgstr ""
+
+#. ID 1185
+msgctxt "skills.name"
+msgid "ID: 1185 ﾏｳｿﾚｳﾑ"
+msgstr ""
+
+#. ID 1186
+msgctxt "skills.name"
+msgid "ID: 1186 臓"
+msgstr ""
+
+#. ID 1187
+msgctxt "skills.name"
+msgid "ID: 1187 ﾎｲｯﾌﾟB"
+msgstr ""
+
+#. ID 1188
+msgctxt "skills.name"
+msgid "ID: 1188 2i9"
+msgstr ""
+
+#. ID 1189
+msgctxt "skills.name"
+msgid "ID: 1189 2i9"
+msgstr ""
+
+#. ID 1190
+msgctxt "skills.name"
+msgid "ID: 1190 **"
+msgstr ""
+
+#. ID 1191
+msgctxt "skills.name"
+msgid "ID: 1191 Lemniscate"
+msgstr ""
+
+#. ID 1192
+msgctxt "skills.name"
+msgid "ID: 1192 holo_off"
+msgstr ""
+
+#. ID 1193
+msgctxt "skills.name"
+msgid "ID: 1193 hall"
+msgstr ""
+
+#. ID 1194
+msgctxt "skills.name"
+msgid "ID: 1194 ether"
+msgstr ""
+
+#. ID 1195
+msgctxt "skills.name"
+msgid "ID: 1195 city"
+msgstr ""
+
+#. ID 1196
+msgctxt "skills.name"
+msgid "ID: 1196 "
+msgstr ""
+
+#. ID 1197
+msgctxt "skills.name"
+msgid "ID: 1197 "
+msgstr ""
+
+#. ID 1198
+msgctxt "skills.name"
+msgid "ID: 1198 "
+msgstr ""
+
+#. ID 1199
+msgctxt "skills.name"
+msgid "ID: 1199 "
+msgstr ""
+
+#. ID 1200
+msgctxt "skills.name"
+msgid "ID: 1200 ★---------"
+msgstr ""
+
+#. ID 1201
+msgctxt "skills.name"
+msgid "ID: 1201"
+msgstr ""
+
+#. ID 1202
+msgctxt "skills.name"
+msgid "ID: 1202"
+msgstr ""
+
+#. ID 1203
+msgctxt "skills.name"
+msgid "ID: 1203"
+msgstr ""
+
+#. ID 1204
+msgctxt "skills.name"
+msgid "ID: 1204"
+msgstr ""
+
+#. ID 1205
+msgctxt "skills.name"
+msgid "ID: 1205"
+msgstr ""
+
+#. ID 1206
+msgctxt "skills.name"
+msgid "ID: 1206"
+msgstr ""
+
+#. ID 1207
+msgctxt "skills.name"
+msgid "ID: 1207"
+msgstr ""
+
+#. ID 1208
+msgctxt "skills.name"
+msgid "ID: 1208"
+msgstr ""
+
+#. ID 1209
+msgctxt "skills.name"
+msgid "ID: 1209"
+msgstr ""
+
+#. ID 1210
+msgctxt "skills.name"
+msgid "ID: 1210"
+msgstr ""
+
+#. ID 1211
+msgctxt "skills.name"
+msgid "ID: 1211"
+msgstr ""
+
+#. ID 1212
+msgctxt "skills.name"
+msgid "ID: 1212"
+msgstr ""
+
+#. ID 1213
+msgctxt "skills.name"
+msgid "ID: 1213"
+msgstr ""
+
+#. ID 1214
+msgctxt "skills.name"
+msgid "ID: 1214"
+msgstr ""
+
+#. ID 1215
+msgctxt "skills.name"
+msgid "ID: 1215"
+msgstr ""
+
+#. ID 1216
+msgctxt "skills.name"
+msgid "ID: 1216"
+msgstr ""
+
+#. ID 1217
+msgctxt "skills.name"
+msgid "ID: 1217"
+msgstr ""
+
+#. ID 1218
+msgctxt "skills.name"
+msgid "ID: 1218"
+msgstr ""
+
+#. ID 1219
+msgctxt "skills.name"
+msgid "ID: 1219"
+msgstr ""
+
+#. ID 1220
+msgctxt "skills.name"
+msgid "ID: 1220"
+msgstr ""
+
+#. ID 1221
+msgctxt "skills.name"
+msgid "ID: 1221"
+msgstr ""
+
+#. ID 1222
+msgctxt "skills.name"
+msgid "ID: 1222"
+msgstr ""
+
+#. ID 1223
+msgctxt "skills.name"
+msgid "ID: 1223"
+msgstr ""
+
+#. ID 1224
+msgctxt "skills.name"
+msgid "ID: 1224"
+msgstr ""
+
+#. ID 1225
+msgctxt "skills.name"
+msgid "ID: 1225"
+msgstr ""
+
+#. ID 1226
+msgctxt "skills.name"
+msgid "ID: 1226"
+msgstr ""
+
+#. ID 1227
+msgctxt "skills.name"
+msgid "ID: 1227"
+msgstr ""
+
+#. ID 1228
+msgctxt "skills.name"
+msgid "ID: 1228"
+msgstr ""
+
+#. ID 1229
+msgctxt "skills.name"
+msgid "ID: 1229"
+msgstr ""
+
+#. ID 1230
+msgctxt "skills.name"
+msgid "ID: 1230"
+msgstr ""
+
+#. ID 1231
+msgctxt "skills.name"
+msgid "ID: 1231"
+msgstr ""
+
+#. ID 1232
+msgctxt "skills.name"
+msgid "ID: 1232"
+msgstr ""
+
+#. ID 1233
+msgctxt "skills.name"
+msgid "ID: 1233"
+msgstr ""
+
+#. ID 1234
+msgctxt "skills.name"
+msgid "ID: 1234"
+msgstr ""
+
+#. ID 1235
+msgctxt "skills.name"
+msgid "ID: 1235"
+msgstr ""
+
+#. ID 1236
+msgctxt "skills.name"
+msgid "ID: 1236"
+msgstr ""
+
+#. ID 1237
+msgctxt "skills.name"
+msgid "ID: 1237"
+msgstr ""
+
+#. ID 1238
+msgctxt "skills.name"
+msgid "ID: 1238"
+msgstr ""
+
+#. ID 1239
+msgctxt "skills.name"
+msgid "ID: 1239"
+msgstr ""
+
+#. ID 1240
+msgctxt "skills.name"
+msgid "ID: 1240"
+msgstr ""
+
+#. ID 1241
+msgctxt "skills.name"
+msgid "ID: 1241 球状宇宙"
+msgstr ""
+
+#. ID 1242
+msgctxt "skills.name"
+msgid "ID: 1242"
+msgstr ""
+
+#. ID 1243
+msgctxt "skills.name"
+msgid "ID: 1243　夢解け水"
+msgstr ""
+
+#. ID 1244
+msgctxt "skills.name"
+msgid "ID: 1244　institutio"
+msgstr ""
+
+#. ID 1245
+msgctxt "skills.name"
+msgid "ID: 1245　カルカリナ"
+msgstr ""
+
+#. ID 1246
+msgctxt "skills.name"
+msgid "ID: 1246　紅細胞"
+msgstr ""
+
+#. ID 1247
+msgctxt "skills.name"
+msgid "ID: 1247　This world"
+msgstr ""
+
+#. ID 1248
+msgctxt "skills.name"
+msgid "ID: 1248　VOID"
+msgstr ""
+
+#. ID 1249
+msgctxt "skills.name"
+msgid "ID: 1249　VOIδ"
+msgstr ""
+
+#. ID 1250
+msgctxt "skills.name"
+msgid "ID: 1250　#0×6 ink"
+msgstr ""
+
+#. ID 1251
+msgctxt "skills.name"
+msgid "ID: 1251　Herbarium"
+msgstr ""
+
+#. ID 1252
+msgctxt "skills.name"
+msgid "ID: 1252　Art frame"
+msgstr ""
+
+#. ID 1253
+msgctxt "skills.name"
+msgid "ID: 1253　VOID部屋"
+msgstr ""
+
+#. ID 1254
+msgctxt "skills.name"
+msgid "ID: 1254　AGAIN"
+msgstr ""
+
+#. ID 1255
+msgctxt "skills.name"
+msgid "ID: 1255　おやすみは"
+msgstr ""
+
+#. ID 1256
+msgctxt "skills.name"
+msgid "ID: 1256　ink部屋"
+msgstr ""
+
+#. ID 1257
+msgctxt "skills.name"
+msgid "ID: 1257　灯籠流るる"
+msgstr ""
+
+#. ID 1258
+msgctxt "skills.name"
+msgid "ID: 1258　灯籠２"
+msgstr ""
+
+#. ID 1259
+msgctxt "skills.name"
+msgid "ID: 1259　無限階段"
+msgstr ""
+
+#. ID 1260
+msgctxt "skills.name"
+msgid "ID: 1260　燐光菌"
+msgstr ""
+
+#. ID 1261
+msgctxt "skills.name"
+msgid "ID:1261コンテンツ森B"
+msgstr ""
+
+#. ID 1262
+msgctxt "skills.name"
+msgid "ID:1262　指蝋燭"
+msgstr ""
+
+#. ID 1263
+msgctxt "skills.name"
+msgid "ID:1263　反富裕"
+msgstr ""
+
+#. ID 1264
+msgctxt "skills.name"
+msgid "ID:1264  指迷路"
+msgstr ""
+
+#. ID 1265
+msgctxt "skills.name"
+msgid "ID:1265 デッキ"
+msgstr ""
+
+#. ID 1266
+msgctxt "skills.name"
+msgid "ID:1266 寂れた叫び"
+msgstr ""
+
+#. ID 1267
+msgctxt "skills.name"
+msgid "ID:1267 トンネル内"
+msgstr ""
+
+#. ID 1268
+msgctxt "skills.name"
+msgid "ID:1268 ガリバーA"
+msgstr ""
+
+#. ID 1269
+msgctxt "skills.name"
+msgid "ID:1269　ガラス"
+msgstr ""
+
+#. ID 1270
+msgctxt "skills.name"
+msgid "ID:1270コンテンツ森A"
+msgstr ""
+
+#. ID 1271
+msgctxt "skills.name"
+msgid "ID: 1271 aediorugap"
+msgstr ""
+
+#. ID 1272
+msgctxt "skills.name"
+msgid "ID: 1272 laundrette"
+msgstr ""
+
+#. ID 1273
+msgctxt "skills.name"
+msgid "ID: 1273ドラム缶の森"
+msgstr ""
+
+#. ID 1274
+msgctxt "skills.name"
+msgid "ID: 1274　遘々貉"
+msgstr ""
+
+#. ID 1275
+msgctxt "skills.name"
+msgid "ID: 1275　帷幄"
+msgstr ""
+
+#. ID 1276
+msgctxt "skills.name"
+msgid "ID: 1276劇中華誘蛾島"
+msgstr ""
+
+#. ID 1277
+msgctxt "skills.name"
+msgid "ID: 1277ワインセラー"
+msgstr ""
+
+#. ID 1278
+msgctxt "skills.name"
+msgid "ID: 1278ワイングラス"
+msgstr ""
+
+#. ID 1279
+msgctxt "skills.name"
+msgid "ID: 1279先匕邨"
+msgstr ""
+
+#. ID 1280
+msgctxt "skills.name"
+msgid "ID: 1280ocayznnemibe"
+msgstr ""
+
+#. ID 1281
+msgctxt "skills.name"
+msgid "ID: 1281"
+msgstr ""
+
+#. ID 1282
+msgctxt "skills.name"
+msgid "ID: 1282"
+msgstr ""
+
+#. ID 1283
+msgctxt "skills.name"
+msgid "ID: 1283"
+msgstr ""
+
+#. ID 1284
+msgctxt "skills.name"
+msgid "ID: 1284"
+msgstr ""
+
+#. ID 1285
+msgctxt "skills.name"
+msgid "ID: 1285"
+msgstr ""
+
+#. ID 1286
+msgctxt "skills.name"
+msgid "ID: 1286"
+msgstr ""
+
+#. ID 1287
+msgctxt "skills.name"
+msgid "ID: 1287"
+msgstr ""
+
+#. ID 1288
+msgctxt "skills.name"
+msgid "ID: 1288"
+msgstr ""
+
+#. ID 1289
+msgctxt "skills.name"
+msgid "ID: 1289"
+msgstr ""
+
+#. ID 1290
+msgctxt "skills.name"
+msgid "ID: 1290"
+msgstr ""
+
+#. ID 1291
+msgctxt "skills.name"
+msgid "ID:1291 ミサロジーA"
+msgstr ""
+
+#. ID 1292
+msgctxt "skills.name"
+msgid "ID:1292　黒白世界"
+msgstr ""
+
+#. ID 1293
+msgctxt "skills.name"
+msgid "ID:1293 唐砂漠"
+msgstr ""
+
+#. ID 1294
+msgctxt "skills.name"
+msgid "ID:1294 ミサロジーB"
+msgstr ""
+
+#. ID 1295
+msgctxt "skills.name"
+msgid "ID:1295　スタッチュ"
+msgstr ""
+
+#. ID 1296
+msgctxt "skills.name"
+msgid "ID:1296　デッキ裏"
+msgstr ""
+
+#. ID 1297
+msgctxt "skills.name"
+msgid "ID:1297 捨_1"
+msgstr ""
+
+#. ID 1298
+msgctxt "skills.name"
+msgid "ID:1298　暗い荒野"
+msgstr ""
+
+#. ID 1299
+msgctxt "skills.name"
+msgid "ID:1299 恋の家"
+msgstr ""
+
+#. ID 1300
+msgctxt "skills.name"
+msgid "ID:1300　イベント"
+msgstr ""
+
+#. ID 1301
+msgctxt "skills.name"
+msgid "ID:1301 ????の家"
+msgstr ""
+
+#. ID 1302
+msgctxt "skills.name"
+msgid "ID:1302　ｽﾀｯﾁｭ_桟橋"
+msgstr ""
+
+#. ID 1303
+msgctxt "skills.name"
+msgid "ID:1303　恋楔"
+msgstr ""
+
+#. ID 1304
+msgctxt "skills.name"
+msgid "ID:1304　恋"
+msgstr ""
+
+#. ID 1305
+msgctxt "skills.name"
+msgid "ID:1305 嘘つきの浅瀬"
+msgstr ""
+
+#. ID 1306
+msgctxt "skills.name"
+msgid "ID:1306　始祖庭"
+msgstr ""
+
+#. ID 1307
+msgctxt "skills.name"
+msgid "ID:1307　繁華道"
+msgstr ""
+
+#. ID 1308
+msgctxt "skills.name"
+msgid "ID:1308　繋ぎ"
+msgstr ""
+
+#. ID 1309
+msgctxt "skills.name"
+msgid "ID:1309　半富裕B"
+msgstr ""
+
+#. ID 1310
+msgctxt "skills.name"
+msgid "ID:1310　飢え"
+msgstr ""
+
+#. ID 1311
+msgctxt "skills.name"
+msgid "ID:1311　Cube of Ste"
+msgstr ""
+
+#. ID 1312
+msgctxt "skills.name"
+msgid "ID:1312　箱入りのコ"
+msgstr ""
+
+#. ID 1313
+msgctxt "skills.name"
+msgid "ID:1313　打捨てる"
+msgstr ""
+
+#. ID 1314
+msgctxt "skills.name"
+msgid "ID:1314　ポップレボ"
+msgstr ""
+
+#. ID 1315
+msgctxt "skills.name"
+msgid "ID:1315　翠緑の楼"
+msgstr ""
+
+#. ID 1316
+msgctxt "skills.name"
+msgid "ID:1316　陰森の橋"
+msgstr ""
+
+#. ID 1317
+msgctxt "skills.name"
+msgid "ID:1317　内側"
+msgstr ""
+
+#. ID 1318
+msgctxt "skills.name"
+msgid "ID:1318　チョコレ塔"
+msgstr ""
+
+#. ID 1319
+msgctxt "skills.name"
+msgid "ID:1319　赤の奈落"
+msgstr ""
+
+#. ID 1320
+msgctxt "skills.name"
+msgid "ID:1320　ライトボッ"
+msgstr ""
+
+#. ID 1321
+msgctxt "skills.name"
+msgid "ID:1321 ★-----srd"
+msgstr ""
+
+#. ID 1322
+msgctxt "skills.name"
+msgid "ID:1322 srd"
+msgstr ""
+
+#. ID 1323
+msgctxt "skills.name"
+msgid "ID:1323 srd"
+msgstr ""
+
+#. ID 1324
+msgctxt "skills.name"
+msgid "ID:1324 srd"
+msgstr ""
+
+#. ID 1325
+msgctxt "skills.name"
+msgid "ID:1325 srd"
+msgstr ""
+
+#. ID 1326
+msgctxt "skills.name"
+msgid "ID:1326 srd"
+msgstr ""
+
+#. ID 1327
+msgctxt "skills.name"
+msgid "ID:1327 srd"
+msgstr ""
+
+#. ID 1328
+msgctxt "skills.name"
+msgid "ID:1328 srd"
+msgstr ""
+
+#. ID 1329
+msgctxt "skills.name"
+msgid "ID:1329 srd"
+msgstr ""
+
+#. ID 1330
+msgctxt "skills.name"
+msgid "ID:1330 ★---------"
+msgstr ""
+
+#. ID 1331
+msgctxt "skills.name"
+msgid "ID:1331 ◆SnpHK3qog."
+msgstr ""
+
+#. ID 1332
+msgctxt "skills.name"
+msgid "ID:1332"
+msgstr ""
+
+#. ID 1333
+msgctxt "skills.name"
+msgid "ID:1333"
+msgstr ""
+
+#. ID 1334
+msgctxt "skills.name"
+msgid "ID:1334"
+msgstr ""
+
+#. ID 1335
+msgctxt "skills.name"
+msgid "ID:1335"
+msgstr ""
+
+#. ID 1336
+msgctxt "skills.name"
+msgid "ID:1336"
+msgstr ""
+
+#. ID 1337
+msgctxt "skills.name"
+msgid "ID:1337"
+msgstr ""
+
+#. ID 1338
+msgctxt "skills.name"
+msgid "ID:1338"
+msgstr ""
+
+#. ID 1339
+msgctxt "skills.name"
+msgid "ID:1339"
+msgstr ""
+
+#. ID 1340
+msgctxt "skills.name"
+msgid "ID:1340"
+msgstr ""
+
+#. ID 1341
+msgctxt "skills.name"
+msgid "ID:1341 深層"
+msgstr ""
+
+#. ID 1342
+msgctxt "skills.name"
+msgid "ID:1342 屋上"
+msgstr ""
+
+#. ID 1343
+msgctxt "skills.name"
+msgid "ID:1343 似非扉部屋"
+msgstr ""
+
+#. ID 1344
+msgctxt "skills.name"
+msgid "ID:1344 側溝"
+msgstr ""
+
+#. ID 1345
+msgctxt "skills.name"
+msgid "ID:1345 恋B"
+msgstr ""
+
+#. ID 1346
+msgctxt "skills.name"
+msgid "ID:1346 恋荒び"
+msgstr ""
+
+#. ID 1347
+msgctxt "skills.name"
+msgid "ID:1347 恋の味"
+msgstr ""
+
+#. ID 1348
+msgctxt "skills.name"
+msgid "ID:1348 きらめく森"
+msgstr ""
+
+#. ID 1349
+msgctxt "skills.name"
+msgid "ID:1349 嘘つきの街"
+msgstr ""
+
+#. ID 1350
+msgctxt "skills.name"
+msgid "ID:1350 虹遺跡"
+msgstr ""
+
+#. ID 1351
+msgctxt "skills.name"
+msgid "ID:1351 ★-----srd"
+msgstr ""
+
+#. ID 1352
+msgctxt "skills.name"
+msgid "ID:1352 srd"
+msgstr ""
+
+#. ID 1353
+msgctxt "skills.name"
+msgid "ID:1353 srd"
+msgstr ""
+
+#. ID 1354
+msgctxt "skills.name"
+msgid "ID:1354 srd"
+msgstr ""
+
+#. ID 1355
+msgctxt "skills.name"
+msgid "ID:1355 srd"
+msgstr ""
+
+#. ID 1356
+msgctxt "skills.name"
+msgid "ID:1356 srd"
+msgstr ""
+
+#. ID 1357
+msgctxt "skills.name"
+msgid "ID:1357 srd"
+msgstr ""
+
+#. ID 1358
+msgctxt "skills.name"
+msgid "ID:1358 srd"
+msgstr ""
+
+#. ID 1359
+msgctxt "skills.name"
+msgid "ID:1359 srd"
+msgstr ""
+
+#. ID 1360
+msgctxt "skills.name"
+msgid "ID:1360 ★---------"
+msgstr ""
+
+#. ID 1361
+msgctxt "skills.name"
+msgid "ID:1361"
+msgstr ""
+
+#. ID 1362
+msgctxt "skills.name"
+msgid "ID:1362"
+msgstr ""
+
+#. ID 1363
+msgctxt "skills.name"
+msgid "ID:1363"
+msgstr ""
+
+#. ID 1364
+msgctxt "skills.name"
+msgid "ID:1364"
+msgstr ""
+
+#. ID 1365
+msgctxt "skills.name"
+msgid "ID:1365"
+msgstr ""
+
+#. ID 1366
+msgctxt "skills.name"
+msgid "ID:1366"
+msgstr ""
+
+#. ID 1367
+msgctxt "skills.name"
+msgid "ID:1367"
+msgstr ""
+
+#. ID 1368
+msgctxt "skills.name"
+msgid "ID:1368"
+msgstr ""
+
+#. ID 1369
+msgctxt "skills.name"
+msgid "ID:1369"
+msgstr ""
+
+#. ID 1370
+msgctxt "skills.name"
+msgid "ID:1370"
+msgstr ""
+
+#. ID 1371
+msgctxt "skills.name"
+msgid "ID:1371 Monochrome"
+msgstr ""
+
+#. ID 1372
+msgctxt "skills.name"
+msgid "ID:1372 fused"
+msgstr ""
+
+#. ID 1373
+msgctxt "skills.name"
+msgid "ID:1373 T-creature"
+msgstr ""
+
+#. ID 1374
+msgctxt "skills.name"
+msgid "ID:1374 The road map"
+msgstr ""
+
+#. ID 1375
+msgctxt "skills.name"
+msgid "ID:1375 trap"
+msgstr ""
+
+#. ID 1376
+msgctxt "skills.name"
+msgid "ID:1376 maze"
+msgstr ""
+
+#. ID 1377
+msgctxt "skills.name"
+msgid "ID:1377 monastery"
+msgstr ""
+
+#. ID 1381
+msgctxt "skills.name"
+msgid "MAP1381　環館酸彩厨"
+msgstr ""
+
+#. ID 1382
+msgctxt "skills.name"
+msgid "MAP1382　食迷宮の回"
+msgstr ""
+
+#. ID 1383
+msgctxt "skills.name"
+msgid "MAP1383　西洋かるた"
+msgstr ""
+
+#. ID 1384
+msgctxt "skills.name"
+msgid "MAP1384　月見横丁"
+msgstr ""
+
+#. ID 1385
+msgctxt "skills.name"
+msgid "MAP1385  天秤パレス"
+msgstr ""
+
+#. ID 1386
+msgctxt "skills.name"
+msgid "MAP1386  食べ残し"
+msgstr ""
+
+#. ID 1387
+msgctxt "skills.name"
+msgid "MAP1387  靴下星&最終"
+msgstr ""
+
+#. ID 1388
+msgctxt "skills.name"
+msgid "MAP1388  剥製"
+msgstr ""
+
+#. ID 1389
+msgctxt "skills.name"
+msgid "MAP1389  完食"
+msgstr ""
+
+#. ID 1390
+msgctxt "skills.name"
+msgid "MAP1390  墓穴"
+msgstr ""
+
+#. ID 1392
+msgctxt "skills.name"
+msgid "MAP1392　srom"
+msgstr ""
+
+#. ID 1393
+msgctxt "skills.name"
+msgid "MAP1393　生命の樹"
+msgstr ""
+
+#. ID 1394
+msgctxt "skills.name"
+msgid "MAP1394　チーズHouse"
+msgstr ""
+
+#. ID 1395
+msgctxt "skills.name"
+msgid "MAP1395　74726"
+msgstr ""
+
+#. ID 1396
+msgctxt "skills.name"
+msgid "MAP1396　nostalgia"
+msgstr ""
+
+#. ID 1397
+msgctxt "skills.name"
+msgid "MAP1397　うさうさ"
+msgstr ""
+
+#. ID 1401
+msgctxt "skills.name"
+msgid "ID: 1401 シャッター1"
+msgstr ""
+
+#. ID 1402
+msgctxt "skills.name"
+msgid "ID: 1402 シャッター2"
+msgstr ""
+
+#. ID 1421
+msgctxt "skills.name"
+msgid "ID:1421 ★----octave"
+msgstr ""
+
+#. ID 1422
+msgctxt "skills.name"
+msgid "ID:1422 吐き気"
+msgstr ""
+
+#. ID 1423
+msgctxt "skills.name"
+msgid "ID:1423 五線譜"
+msgstr ""
+
+#. ID 1424
+#. ID 1430
+msgctxt "skills.name"
+msgid "        ------"
+msgstr ""
+
+#. ID 1425
+msgctxt "skills.name"
+msgid "ID:1425 ｸﾞﾘｰﾝﾎﾞｰｲ"
+msgstr ""
+
+#. ID 1426
+msgctxt "skills.name"
+msgid "ID:1426 亀池"
+msgstr ""
+
+#. ID 1427
+msgctxt "skills.name"
+msgid "ID:1427 暁座"
+msgstr ""
+
+#. ID 1428
+msgctxt "skills.name"
+msgid "ID:1428 マミールーム"
+msgstr ""
+
+#. ID 1429
+msgctxt "skills.name"
+msgid "ID:1429 キリキリ"
+msgstr ""
+
+#. ID 1431
+msgctxt "skills.name"
+msgid "ID:1421 ★--とゐはぬ"
+msgstr ""
+
+#. ID 1434
+msgctxt "skills.name"
+msgid "ID:1434 映し雲"
+msgstr ""
+
+#. ID 1481
+msgctxt "skills.name"
+msgid "ID:1481 ★-----srd"
+msgstr ""
+
+#. ID 1482
+msgctxt "skills.name"
+msgid "ID:1482 srd"
+msgstr ""
+
+#. ID 1483
+msgctxt "skills.name"
+msgid "ID:1483 srd"
+msgstr ""
+
+#. ID 1484
+msgctxt "skills.name"
+msgid "ID:1484 srd"
+msgstr ""
+
+#. ID 1485
+msgctxt "skills.name"
+msgid "ID:1485 srd"
+msgstr ""
+
+#. ID 1486
+msgctxt "skills.name"
+msgid "ID:1486 srd"
+msgstr ""
+
+#. ID 1487
+msgctxt "skills.name"
+msgid "ID:1487 srd"
+msgstr ""
+
+#. ID 1488
+msgctxt "skills.name"
+msgid "ID:1488 srd"
+msgstr ""
+
+#. ID 1489
+msgctxt "skills.name"
+msgid "ID:1489 srd"
+msgstr ""
+
+#. ID 1490
+msgctxt "skills.name"
+msgid "ID:1490 ★---------"
+msgstr ""
+
+#. ID 1493
+msgctxt "skills.name"
+msgid "ID:1493水没電柱_果て"
+msgstr ""
+
+#. ID 1494
+msgctxt "skills.name"
+msgid "ID:1494　水没電柱"
+msgstr ""
+
+#. ID 1495
+msgctxt "skills.name"
+msgid "ID:1495　通り道"
+msgstr ""
+
+#. ID 1496
+msgctxt "skills.name"
+msgid "ID:1496　ｽｲｰﾂﾎｰﾙ"
+msgstr ""
+
+#. ID 1497
+msgctxt "skills.name"
+msgid "ID:1497　ｽｲｰﾂﾎｰﾙ"
+msgstr ""
+
+#. ID 1498
+msgctxt "skills.name"
+msgid "ID:1498　ぶりぶり"
+msgstr ""
+
+#. ID 1500
+msgctxt "skills.name"
+msgid "ID:1500　捨_2"
+msgstr ""
+
+#. ID 1501
+msgctxt "skills.name"
+msgid "ID:1501 ★----就活"
+msgstr ""
+
+#. ID 1502
+msgctxt "skills.name"
+msgid "ID:1502 ｼﾞｪﾙｼﾞｪｲﾙ"
+msgstr ""
+
+#. ID 1504
+msgctxt "skills.name"
+msgid "ID:1504 アセロラ"
+msgstr ""
+
+#. ID 1541
+msgctxt "skills.name"
+msgid "ID:1541 ★--ほらつき"
+msgstr ""
+
+#. ID 1542
+msgctxt "skills.name"
+msgid "ID:1542 三路通路 "
+msgstr ""
+
+#. ID 1543
+msgctxt "skills.name"
+msgid "ID:1543 仮面族の世界"
+msgstr ""
+
+#. ID 1544
+msgctxt "skills.name"
+msgid "ID:1544 マンマルン"
+msgstr ""
+
+#. ID 1545
+msgctxt "skills.name"
+msgid "ID:1545 蟲毒"
+msgstr ""
+
+#. ID 1546
+msgctxt "skills.name"
+msgid "ID:1546 サボテン砂漠"
+msgstr ""
+
+#. ID 1548
+msgctxt "skills.name"
+msgid "ID:1548 笑刑場"
+msgstr ""
+
+#. ID 1549
+msgctxt "skills.name"
+msgid "ID:1549 落書き通路"
+msgstr ""
+
+#. ID 1550
+msgctxt "skills.name"
+msgid "ID:1550 アトリエ"
+msgstr ""
+
+#. ID 1551
+msgctxt "skills.name"
+msgid "ID:1551 香水店"
+msgstr ""
+
+#. ID 1552
+msgctxt "skills.name"
+msgid "ID:1552 ﾗﾝﾌﾟ（煉瓦街"
+msgstr ""
+
+#. ID 1581
+msgctxt "skills.name"
+msgid "ID:1581 ★-森温"
+msgstr ""
+
+#. ID 1582
+msgctxt "skills.name"
+msgid "ID:1582 森徊"
+msgstr ""
+
+#. ID 1583
+msgctxt "skills.name"
+msgid "ID:1583 地下水洞"
+msgstr ""
+
+#. ID 1584
+msgctxt "skills.name"
+msgid "ID:1584 ヒラヤマ"
+msgstr ""
+
+#. ID 1585
+msgctxt "skills.name"
+msgid "ID:1585 夢プール入口"
+msgstr ""
+
+#. ID 1586
+msgctxt "skills.name"
+msgid "ID:1586 夢プール"
+msgstr ""
+
+#. ID 1587
+msgctxt "skills.name"
+msgid "ID:1587 チェリー"
+msgstr ""
+
+#. ID 1588
+msgctxt "skills.name"
+msgid "ID:1588 錆鉄"
+msgstr ""
+
+#. ID 1590
+msgctxt "skills.name"
+msgid "ID:1590 怒哀階段"
+msgstr ""
+
+#. ID 1621
+msgctxt "skills.name"
+msgid "ID:1621 ★蒸気シルエ"
+msgstr ""
+
+#. ID 1622
+msgctxt "skills.name"
+msgid "ID:1622 駄菓子屋"
+msgstr ""
+
+#. ID 1623
+msgctxt "skills.name"
+msgid "ID:1623 サバ砂漠"
+msgstr ""
+
+#. ID 1624
+msgctxt "skills.name"
+msgid "ID:1624 木材世界"
+msgstr ""
+
+#. ID 1625
+msgctxt "skills.name"
+msgid "ID:1625 ブルーブルー"
+msgstr ""
+
+#. ID 1626
+msgctxt "skills.name"
+msgid "ID:1626 タツノコ館"
+msgstr ""
+
+#. ID 1627
+msgctxt "skills.name"
+msgid "ID:1627 ホットケーキ"
+msgstr ""
+
+#. ID 1628
+msgctxt "skills.name"
+msgid "ID:1628 停止風車"
+msgstr ""
+
+#. ID 1629
+msgctxt "skills.name"
+msgid "ID:1629 牛柄パネル"
+msgstr ""
+
+#. ID 1630
+msgctxt "skills.name"
+msgid "ID:1630 身崩"
+msgstr ""
+
+#. ID 1631
+msgctxt "skills.name"
+msgid "ID:1631 ★ゐもり"
+msgstr ""
+
+#. ID 1632
+msgctxt "skills.name"
+msgid "ID:1632 蓮華公園"
+msgstr ""
+
+#. ID 1651
+msgctxt "skills.name"
+msgid "ID:1651 穴ぼこ"
+msgstr ""
+
+#. ID 1652
+msgctxt "skills.name"
+msgid "ID:1652 夢研究所"
+msgstr ""
+
+#. ID 1653
+msgctxt "skills.name"
+msgid "ID:1653 白黒広場"
+msgstr ""
+
+#. ID 1654
+msgctxt "skills.name"
+msgid "ID:1654 白黒迷路"
+msgstr ""
+
+#. ID 1655
+msgctxt "skills.name"
+msgid "ID:1655 槍民族の世界"
+msgstr ""
+
+#. ID 1656
+msgctxt "skills.name"
+msgid "ID:1656 タワーズ"
+msgstr ""
+
+#. ID 1657
+msgctxt "skills.name"
+msgid "ID:1657 胞子の森"
+msgstr ""
+
+#. ID 1661
+msgctxt "skills.name"
+msgid "ID:1661 ★-森温"
+msgstr ""
+
+#. ID 1662
+msgctxt "skills.name"
+msgid "ID:1662 辺境の夢"
+msgstr ""
+
+#. ID 1663
+msgctxt "skills.name"
+msgid "ID:1663 蒼園小部屋"
+msgstr ""
+
+#. ID 1665
+msgctxt "skills.name"
+msgid "ID:1665 風力高原"
+msgstr ""
+
+#. ID 1667
+msgctxt "skills.name"
+msgid "ID:1667 風力高原斜塔"
+msgstr ""
+
+#. ID 1668
+msgctxt "skills.name"
+msgid "ID:1668 錆鉄蛇口広場"
+msgstr ""
+
+#. ID 1669
+msgctxt "skills.name"
+msgid "ID:1669 錆鉄風力繋ぎ"
+msgstr ""
+
+#. ID 1670
+msgctxt "skills.name"
+msgid "ID:1670 蒼園"
+msgstr ""
+
+#. ID 1671
+msgctxt "skills.name"
+msgid "ID:1671 蒼園小部屋2"
+msgstr ""
+
+#. ID 1672
+msgctxt "skills.name"
+msgid "ID:1672 森徊蒼園繋ぎ"
+msgstr ""
+
+#. ID 1673
+msgctxt "skills.name"
+msgid "ID:1673 マジカル"
+msgstr ""
+
+#. ID 1674
+msgctxt "skills.name"
+msgid "ID:1674 辺境夢拡張2"
+msgstr ""
+
+#. ID 1675
+msgctxt "skills.name"
+msgid "ID:1675 禁足"
+msgstr ""
+
+#. ID 1691
+msgctxt "skills.name"
+msgid "ID:1691 空鈴々"
+msgstr ""
+
+#. ID 1692
+msgctxt "skills.name"
+msgid "ID:1692 妄毒"
+msgstr ""
+
+#. ID 1693
+msgctxt "skills.name"
+msgid "ID:1693 甲羅"
+msgstr ""
+
+#. ID 1694
+msgctxt "skills.name"
+msgid "ID:1694 月風鳥花"
+msgstr ""
+
+#. ID 1695
+msgctxt "skills.name"
+msgid "ID:1695 音々ピラミッ"
+msgstr ""
+
+#. ID 1696
+msgctxt "skills.name"
+msgid "ID:1696 瞋恚"
+msgstr ""
+
+#. ID 1697
+msgctxt "skills.name"
+msgid "ID:1697 機械塔&死生"
+msgstr ""
+
+#. ID 1698
+msgctxt "skills.name"
+msgid "ID:1698 未定義の海&"
+msgstr ""
+
+#. ID 1699
+msgctxt "skills.name"
+msgid "ID:1699 副葬牢&海B"
+msgstr ""
+
+#. ID 1700
+msgctxt "skills.name"
+msgid "ID:1700 幽晶鶏モ愛酒"
+msgstr ""
+
+#. ID 1702
+msgctxt "skills.name"
+msgid "ID:1702 図形"
+msgstr ""
+
+#. ID 1703
+msgctxt "skills.name"
+msgid "ID:1703 図形家"
+msgstr ""
+
+#. ID 1704
+msgctxt "skills.name"
+msgid "ID:1704 ストレース"
+msgstr ""
+
+#. ID 1705
+msgctxt "skills.name"
+msgid "ID:1705 レースワン"
+msgstr ""
+
+#. ID 1706
+msgctxt "skills.name"
+msgid "ID:1706 レース警告"
+msgstr ""
+
+#. ID 1707
+msgctxt "skills.name"
+msgid "ID:1707 レースイン"
+msgstr ""
+
+#. ID 1708
+msgctxt "skills.name"
+msgid "ID:1708 最終レース"
+msgstr ""
+
+#. ID 1709
+msgctxt "skills.name"
+msgid "ID:1709 黄管板"
+msgstr ""
+
+#. ID 1710
+msgctxt "skills.name"
+msgid "ID:1710 ペン禁雪白"
+msgstr ""
+
+#. ID 1711
+msgctxt "skills.name"
+msgid "ID:1711 岩旋鉱"
+msgstr ""
+
+#. ID 1712
+msgctxt "skills.name"
+msgid "ID:1712 絵楽"
+msgstr ""
+
+#. ID 1713
+msgctxt "skills.name"
+msgid "ID:1713 桃青花"
+msgstr ""
+
+#. ID 1714
+msgctxt "skills.name"
+msgid "ID:1714 個人部屋"
+msgstr ""
+
+#. ID 1721
+msgctxt "skills.name"
+msgid "ID:1721 ピーポー"
+msgstr ""
+
+#. ID 1722
+msgctxt "skills.name"
+msgid "ID:1722 ヒートアイA"
+msgstr ""
+
+#. ID 1723
+msgctxt "skills.name"
+msgid "ID:1723 ヒートアイB"
+msgstr ""
+
+#. ID 1724
+msgctxt "skills.name"
+msgid "ID:1724 サケ"
+msgstr ""
+
+#. ID 1725
+msgctxt "skills.name"
+msgid "ID:1725 祈祷&青空パ"
+msgstr ""
+
+#. ID 1726
+msgctxt "skills.name"
+msgid "ID:1726 蜂蜜工場&電"
+msgstr ""
+
+#. ID 1727
+msgctxt "skills.name"
+msgid "ID:1727 冷蔵庫&ハト"
+msgstr ""
+
+#. ID 1728
+msgctxt "skills.name"
+msgid "ID:1728 缶再空&ヤキ"
+msgstr ""
+
+#. ID 1729
+msgctxt "skills.name"
+msgid "ID:1729 ふらんねるの"
+msgstr ""
+
+#. ID 1730
+msgctxt "skills.name"
+msgid "ID:1730 ヌミョンドロ"
+msgstr ""
+
+#. ID 1731
+msgctxt "skills.name"
+msgid "ID:1731 Autumn"
+msgstr ""
+
+#. ID 1736
+msgctxt "skills.name"
+msgid "ID:1736 Autumn"
+msgstr ""
+
+#. ID 1739
+msgctxt "skills.name"
+msgid "ID:1739 Autumn"
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "★デバッグ★"
+msgstr ""
+
+#. ID 1
+msgctxt "items.description"
+msgid "デバッグモードを起動する"
+msgstr ""
+
+#. ID 2
+#. ID 3
+#. ID 4
+#. ID 5
+#. ID 6
+#. ID 7
+#. ID 8
+#. ID 9
+#. ID 10
+msgctxt "items.name"
+msgid "使用不可"
+msgstr "Недоступно"
+
+#. ID 11
+msgctxt "items.name"
+msgid "★ｴﾌｪｸﾄ用　始"
+msgstr ""
+
+#. ID 12
+msgctxt "items.name"
+msgid "バイク"
+msgstr "Мотоцикл"
+
+#. ID 12
+#. ID 53
+msgctxt "items.description"
+msgid "「バイク」にのる"
+msgstr "Їздити на мотоциклі."
+
+#. ID 13
+msgctxt "items.name"
+msgid "おとこのこ"
+msgstr "Хлопчик"
+
+#. ID 13
+#. ID 54
+msgctxt "items.description"
+msgid "「おとこのこ」になる"
+msgstr "Стати хлопчиком."
+
+#. ID 14
+msgctxt "items.name"
+msgid "チェーンソー"
+msgstr "Бензопила"
+
+#. ID 14
+#. ID 55
+msgctxt "items.description"
+msgid "「チェーンソー」をもつ"
+msgstr "Озброїтись бензопилою."
+
+#. ID 15
+msgctxt "items.name"
+msgid "カンテラ"
+msgstr "Ліхтар"
+
+#. ID 15
+#. ID 56
+msgctxt "items.description"
+msgid "「カンテラ」をもつ"
+msgstr "Нести ліхтар."
+
+#. ID 16
+msgctxt "items.name"
+msgid "ようせい"
+msgstr "Фея"
+
+#. ID 16
+#. ID 57
+msgctxt "items.description"
+msgid "「ようせい」になる"
+msgstr "Стати феєю."
+
+#. ID 17
+msgctxt "items.name"
+msgid "うちゅうふく"
+msgstr "Скафандр"
+
+#. ID 17
+#. ID 58
+msgctxt "items.description"
+msgid "「うちゅうふく」をきる"
+msgstr "Надіти скафандр."
+
+#. ID 18
+msgctxt "items.name"
+msgid "めがね"
+msgstr "Окуляри"
+
+#. ID 18
+#. ID 59
+msgctxt "items.description"
+msgid "「めがね」をかける"
+msgstr "Носити окуляри."
+
+#. ID 19
+msgctxt "items.name"
+msgid "にじ"
+msgstr "Веселка"
+
+#. ID 19
+#. ID 60
+msgctxt "items.description"
+msgid "「にじ」になる"
+msgstr "Стати різнокольоровою."
+
+#. ID 20
+msgctxt "items.name"
+msgid "おおかみ"
+msgstr "Вовк"
+
+#. ID 20
+#. ID 61
+msgctxt "items.description"
+msgid "「おおかみ」の みみとしっぽがつく"
+msgstr "Мати вовчі вуха та хвіст."
+
+#. ID 21
+msgctxt "items.name"
+msgid "めだまばくだん"
+msgstr "Око-бомба"
+
+#. ID 21
+#. ID 62
+msgctxt "items.description"
+msgid "「めだまばくだん」になる"
+msgstr "Стати бомбою з оком."
+
+#. ID 22
+msgctxt "items.name"
+msgid "くろでんわ"
+msgstr "Телефон"
+
+#. ID 22
+#. ID 63
+msgctxt "items.description"
+msgid "「くろでんわ」になる"
+msgstr "Стати дисковим телефоном."
+
+#. ID 23
+msgctxt "items.name"
+msgid "まいこ"
+msgstr "Майко"
+
+#. ID 23
+#. ID 64
+msgctxt "items.description"
+msgid "「まいこさん」になる"
+msgstr "Стати танцюючим дитям."
+
+#. ID 24
+msgctxt "items.name"
+msgid "ツインテール"
+msgstr "Хвостики"
+
+#. ID 24
+#. ID 65
+msgctxt "items.description"
+msgid "「ツインテール」のかみがたになる"
+msgstr "Зав'язати собі хвостики."
+
+#. ID 25
+msgctxt "items.name"
+msgid "ぺんぎん"
+msgstr "Пінгвін"
+
+#. ID 25
+#. ID 66
+msgctxt "items.description"
+msgid "「ぺんぎん」になりきる"
+msgstr "Одягти костюм пінгвіна"
+
+#. ID 26
+msgctxt "items.name"
+msgid "むし"
+msgstr "Комашка"
+
+#. ID 26
+#. ID 67
+msgctxt "items.description"
+msgid "「むし」っぽくなる"
+msgstr "Перетворитися на комаху."
+
+#. ID 27
+msgctxt "items.name"
+msgid "バネ"
+msgstr "Пружина"
+
+#. ID 27
+#. ID 68
+msgctxt "items.description"
+msgid "あしが「バネ」になる"
+msgstr "Мати ноги як пружини."
+
+#. ID 28
+msgctxt "items.name"
+msgid "とうめい"
+msgstr "Плащ-невидимка"
+
+#. ID 28
+#. ID 69
+msgctxt "items.description"
+msgid "「とうめい」になる"
+msgstr "Стати незамітною."
+
+#. ID 29
+msgctxt "items.name"
+msgid "がくラン"
+msgstr "Гакуран"
+
+#. ID 29
+#. ID 70
+msgctxt "items.description"
+msgid "「がくラン」をきて マントをはおる"
+msgstr "Вдягти гакуран і накинути плащ."
+
+#. ID 30
+msgctxt "items.name"
+msgid "ギプス"
+msgstr "Гіпс"
+
+#. ID 30
+#. ID 71
+msgctxt "items.description"
+msgid "「ギプス」をつける"
+msgstr "Надіти гіпс."
+
+#. ID 31
+msgctxt "items.name"
+msgid "せのび"
+msgstr "Витягування"
+
+#. ID 31
+#. ID 72
+msgctxt "items.description"
+msgid "「せのび」する"
+msgstr "Стати високою."
+
+#. ID 32
+msgctxt "items.name"
+msgid "はにわ"
+msgstr "Ханіва"
+
+#. ID 32
+#. ID 73
+msgctxt "items.description"
+msgid "「はにわ」になる"
+msgstr "Стати скульптурою Ханіва."
+
+#. ID 33
+msgctxt "items.name"
+msgid "トロンボーン"
+msgstr "Тромбон."
+
+#. ID 33
+#. ID 74
+msgctxt "items.description"
+msgid "「トロンボーン」をもつ"
+msgstr "Грати на тромботі."
+
+#. ID 34
+msgctxt "items.name"
+msgid "ケーキ"
+msgstr "Торт"
+
+#. ID 34
+#. ID 75
+msgctxt "items.description"
+msgid "「ケーキ」をあたまにのせる"
+msgstr "Покласти кусочок торта на голову."
+
+#. ID 35
+msgctxt "items.name"
+msgid "こども"
+msgstr "Дитина"
+
+#. ID 35
+#. ID 76
+msgctxt "items.description"
+msgid "「こども」になる"
+msgstr "Стати дитиною."
+
+#. ID 36
+msgctxt "items.name"
+msgid "あかずきん"
+msgstr "Червона Шапочка"
+
+#. ID 36
+#. ID 77
+msgctxt "items.description"
+msgid "「あかずきん」をかぶる"
+msgstr "Вдягнутись як \"Червона Шапочка.\""
+
+#. ID 37
+msgctxt "items.name"
+msgid "ティッシュ"
+msgstr "Серветки"
+
+#. ID 37
+#. ID 78
+msgctxt "items.description"
+msgid "「ティッシュ」のケースになる"
+msgstr "Перетворитися на коробку серветок."
+
+#. ID 38
+msgctxt "items.name"
+msgid "コウモリ"
+msgstr "Кажан"
+
+#. ID 38
+#. ID 79
+msgctxt "items.description"
+msgid "「コウモリ」のはねをつける"
+msgstr "Літати як кажан."
+
+#. ID 39
+msgctxt "items.name"
+msgid "ポリゴン"
+msgstr "Полігон"
+
+#. ID 39
+#. ID 80
+msgctxt "items.description"
+msgid "「ポリゴン」っぽくなる"
+msgstr "Стати полігональною."
+
+#. ID 40
+msgctxt "items.name"
+msgid "てるてるぼうず"
+msgstr "Теру-теру-бодзу"
+
+#. ID 40
+#. ID 81
+msgctxt "items.description"
+msgid "「てるてるぼうず」のかわりになる"
+msgstr "Стати лялькою, що відганяє дощ."
+
+#. ID 41
+msgctxt "items.name"
+msgid "マージナル"
+msgstr "Маргінал"
+
+#. ID 41
+#. ID 82
+msgctxt "items.description"
+msgid "「マージナルビビッドワーカー」になる"
+msgstr "Стати маргінальним чудовиськом."
+
+#. ID 42
+msgctxt "items.name"
+msgid "ドラムかん"
+msgstr "Барабан"
+
+#. ID 42
+#. ID 83
+msgctxt "items.description"
+msgid "からだが「ドラムかん」になる"
+msgstr "Перетворитися на бочку."
+
+#. ID 43
+msgctxt "items.name"
+msgid "おはか"
+msgstr "Могила"
+
+#. ID 43
+#. ID 84
+msgctxt "items.description"
+msgid "「おはか」になる"
+msgstr "Стати могилою."
+
+#. ID 44
+msgctxt "items.name"
+msgid "ふみきり"
+msgstr "Залізничний знак"
+
+#. ID 44
+#. ID 85
+msgctxt "items.description"
+msgid "「ふみきり」になる"
+msgstr "Стати знаком, що означає \"Залізничний переїзд.\""
+
+#. ID 45
+msgctxt "items.name"
+msgid "うさみみ"
+msgstr "Вушки кролика"
+
+#. ID 45
+#. ID 86
+msgctxt "items.description"
+msgid "「うさみみ」をつける"
+msgstr "Надіти обруч з вушками кролика."
+
+#. ID 46
+msgctxt "items.name"
+msgid "サイコロ"
+msgstr "Гральний кубик"
+
+#. ID 46
+#. ID 87
+msgctxt "items.description"
+msgid "「サイコロ」になる"
+msgstr "Перетворитися на гральний кубик."
+
+#. ID 47
+msgctxt "items.name"
+msgid "バイク＋おおかみ"
+msgstr "Мотоцикл + Вовк"
+
+#. ID 47
+#. ID 88
+msgctxt "items.description"
+msgid "消してもいいのよ"
+msgstr ""
+
+#. ID 48
+msgctxt "items.name"
+msgid "★ｴﾌｪｸﾄ用　終"
+msgstr ""
+
+#. ID 50
+msgctxt "items.name"
+msgid "説明書"
+msgstr "Інструкції"
+
+#. ID 50
+msgctxt "items.description"
+msgid "「ゲームのせつめい」をみる"
+msgstr "Переглянути інструкції до гри."
+
+#. ID 52
+msgctxt "items.name"
+msgid "★ﾀﾞﾐｰｴﾌｪｸﾄ用　始"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid " バイク"
+msgstr " Мотоцикл"
+
+#. ID 54
+msgctxt "items.name"
+msgid " おとこのこ"
+msgstr " Хлопчик"
+
+#. ID 55
+msgctxt "items.name"
+msgid " チェーンソー"
+msgstr " Бензопила"
+
+#. ID 56
+msgctxt "items.name"
+msgid " カンテラ"
+msgstr " Ліхтар"
+
+#. ID 57
+msgctxt "items.name"
+msgid " ようせい"
+msgstr " Фея"
+
+#. ID 58
+msgctxt "items.name"
+msgid " うちゅうふく"
+msgstr " Скафандр"
+
+#. ID 59
+msgctxt "items.name"
+msgid " めがね"
+msgstr " Окуляри"
+
+#. ID 60
+msgctxt "items.name"
+msgid " にじ"
+msgstr " Веселка"
+
+#. ID 61
+msgctxt "items.name"
+msgid " おおかみ"
+msgstr " Вовк"
+
+#. ID 62
+msgctxt "items.name"
+msgid " めだまばくだん"
+msgstr " Око-бомба"
+
+#. ID 63
+msgctxt "items.name"
+msgid " くろでんわ"
+msgstr " Телефон"
+
+#. ID 64
+msgctxt "items.name"
+msgid " まいこ"
+msgstr " Майко"
+
+#. ID 65
+msgctxt "items.name"
+msgid " ツインテール"
+msgstr " Хвостики"
+
+#. ID 66
+msgctxt "items.name"
+msgid " ぺんぎん"
+msgstr " Пінгвін"
+
+#. ID 67
+msgctxt "items.name"
+msgid " むし"
+msgstr " Комашка"
+
+#. ID 68
+msgctxt "items.name"
+msgid " バネ"
+msgstr " Пружина"
+
+#. ID 69
+msgctxt "items.name"
+msgid " とうめい"
+msgstr " Плащ-невидимка"
+
+#. ID 70
+msgctxt "items.name"
+msgid " がくラン"
+msgstr " Гакуран"
+
+#. ID 71
+msgctxt "items.name"
+msgid " ギプス"
+msgstr " Гіпс"
+
+#. ID 72
+msgctxt "items.name"
+msgid " せのび"
+msgstr " Витягування"
+
+#. ID 73
+msgctxt "items.name"
+msgid " はにわ"
+msgstr " Ханіва"
+
+#. ID 74
+msgctxt "items.name"
+msgid " トロンボーン"
+msgstr " Тромбон"
+
+#. ID 75
+msgctxt "items.name"
+msgid " ケーキ"
+msgstr " Торт"
+
+#. ID 76
+msgctxt "items.name"
+msgid " こども"
+msgstr " Дитина"
+
+#. ID 77
+msgctxt "items.name"
+msgid " あかずきん"
+msgstr " Червона Шапочка"
+
+#. ID 78
+msgctxt "items.name"
+msgid " ティッシュ"
+msgstr " Серветки"
+
+#. ID 79
+msgctxt "items.name"
+msgid " コウモリ"
+msgstr " Кажан"
+
+#. ID 80
+msgctxt "items.name"
+msgid " ポリゴン"
+msgstr " Полігон"
+
+#. ID 81
+msgctxt "items.name"
+msgid " てるてるぼうず"
+msgstr " Теру-теру-бодзу"
+
+#. ID 82
+msgctxt "items.name"
+msgid " マージナル"
+msgstr " Маргінал"
+
+#. ID 83
+msgctxt "items.name"
+msgid " ドラムかん"
+msgstr " Барабан"
+
+#. ID 84
+msgctxt "items.name"
+msgid " おはか"
+msgstr " Могила"
+
+#. ID 85
+msgctxt "items.name"
+msgid " ふみきり"
+msgstr " Залізничний знак"
+
+#. ID 86
+msgctxt "items.name"
+msgid " うさみみ"
+msgstr " Вушки кролика"
+
+#. ID 87
+msgctxt "items.name"
+msgid " サイコロ"
+msgstr " Гральний кубик"
+
+#. ID 88
+msgctxt "items.name"
+msgid " バイク＋おおかみ"
+msgstr " Мотоцикл + вовк"
+
+#. ID 89
+msgctxt "items.name"
+msgid "★ﾀﾞﾐｰｴﾌｪｸﾄ用　終"
+msgstr ""
+
+#. ID 90
+msgctxt "items.name"
+msgid "鍵"
+msgstr "Ключ"
+
+#. ID 90
+msgctxt "items.description"
+msgid "格子の模様が入った鍵"
+msgstr "Ключ з візерунком у вигляді решітки."
+
+#. ID 1
+msgctxt "states.message_actor"
+msgid "%S は倒れた！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_enemy"
+msgid "%S を倒した！"
+msgstr ""
+
+#. ID 1
+msgctxt "states.message_recovery"
+msgid "%S は立ち上がった！"
+msgstr ""
+
+msgctxt "terms.encounter"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.exp_received"
+msgid "%V"
+msgstr ""
+
+msgctxt "terms.gold_recieved_a"
+msgid "%V%U"
+msgstr ""
+
+msgctxt "terms.item_recieved"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "%S %V"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "%S %V"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "%S"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "%O"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "%O"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "%O"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "%O"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "%S %O"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "%S %U %V"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "%S %U %V"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "%S %U %V"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "%O %U %V"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "%O %U %V"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "%S %O"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "%S %O"
+msgstr ""
+
+msgctxt "terms.level_up"
+msgid "%S is %U %V"
+msgstr ""
+
+msgctxt "terms.skill_learned"
+msgid "%O"
+msgstr ""
+
+msgctxt "terms.inn_a_greeting_1"
+msgid "%V%U"
+msgstr ""
+
+msgctxt "terms.inn_b_greeting_1"
+msgid "%V%U"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "夢"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Ефекти"
+
+msgctxt "terms.command_skill"
+msgid "おきる"
+msgstr "Прокинутись"
+
+msgctxt "terms.menu_equipment"
+msgid "じょうたい"
+msgstr "Статус"
+
+msgctxt "terms.menu_quit"
+msgid "おわる"
+msgstr "Вийти"
+
+msgctxt "terms.new_game"
+msgid " はじめて "
+msgstr "  Почати"
+
+msgctxt "terms.load_game"
+msgid "　つづき　"
+msgstr "Продовжити"
+
+msgctxt "terms.exit_game"
+msgid "　おわり　"
+msgstr " Покинути"
+
+msgctxt "terms.lvl_short"
+msgid "Ｅ"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "　　　Ｅ："
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "◆どのファイルに書きますか？"
+msgstr "◆ У який файл хочете зберегтися?"
+
+msgctxt "terms.load_game_message"
+msgid "◆どのファイルを読みますか？"
+msgstr "◆ Який файл хочете завантажити?"
+
+msgctxt "terms.file"
+msgid "◆ファイル"
+msgstr "◆ Файл"
+
+msgctxt "terms.exit_game_message"
+msgid "おわっても よろしいですか？"
+msgstr "Ви впевнені, що хочете вийти?"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "Так"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "Ні"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
