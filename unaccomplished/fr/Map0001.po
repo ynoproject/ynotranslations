@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.8\n"
 
 #. ID 49, Page 1, Line 6, Pos (6,5)
 msgid "                        l-l"
@@ -57,3 +57,15 @@ msgstr ""
 #. ID 170, Page 1, Line 1, Pos (16,16)
 msgid "¤ª´ý¤Á¤¯¤À¤µ¤¤"
 msgstr "Veuillez patienter, s'il vous plaît"
+
+#. ID 174, Page 1, Line 5, Pos (16,40)
+msgid "1"
+msgstr ""
+
+#. ID 177, Page 1, Line 1, Pos (18,36)
+msgid "Unaccomplished Wallpaper Submission"
+msgstr "Soumission de fond d'écran Unaccomplished"
+
+#. ID 179, Page 1, Line 1, Pos (56,11)
+msgid "11223"
+msgstr ""
