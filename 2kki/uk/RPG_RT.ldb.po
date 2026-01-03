@@ -9878,7 +9878,7 @@ msgstr "Пінгвін"
 #. ID 66
 msgctxt "items.description"
 msgid "「ぺんぎん」になりきる"
-msgstr "Одягти костюм пінгвіна"
+msgstr "Одягти костюм пінгвіна."
 
 #. ID 26
 msgctxt "items.name"
