@@ -128,7 +128,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Artyomak - Ukrainian translation of Ultra Violet
 * Aya - Initial French translation of Yume 2kki
 * BinRecycle - Korean translation of the Memory Game from Yume 2kki
-* Carbonara - French translation of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, If, Unaccomplished; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
+* Carbonara - French translation of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, If, Unaccomplished, `[COLD]`; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
 * Catmat (貓毯) - Porting and maintenance of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * CDMilky - Romanian translation of Yume 2kki
 * chillcicada (寒蝉) - Chinese translation of Muma|Rope
@@ -163,7 +163,8 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Mhhh (Sundance) - Initial French translation of Yume 2kki; French translation of Answered Prayers
 * Midomido - Japanese translation of Answered Prayers, Deep Dreams, Braingirl, Muma|Rope; English translation of the Debug Room in Yume 2kki
 * miikka847 - Finnish translation of Yume Nikki
-* Moucky2333 - Chinese translation of Uneven Dream; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
+* Mnn988 - COLD translation of `[COLD]`
+* Moucky2333 - Chinese translation of Uneven Dream, `[COLD]`; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
 * Moustluigi - Initial French translation of Yume 2kki
 * nask - Initial French translation of Yume 2kki
 * nekhnona - Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream
@@ -171,7 +172,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Niko (Нико) - Spanish translation of Answered Prayers, Muma|Rope, .flow; Spanish translation of Yume 2kki
 * nimiala - Toki Pona translation of Yume Nikki, Yume 2kki
 * Nulsdodage (Wavyup) - Korean translation of Yume 2kki, Someday, English translation of Mikan Muzou
-* Pats - Spanish translation of Yume Nikki; Rework of the Spanish translation of .flow
+* Pats - Spanish translation of Yume Nikki, `[COLD]`; Rework of the Spanish translation of .flow
 * Plush - Italian translation of .flow
 * portal - Initial French translation of Yume 2kki
 * RødGrødMedFløde - Danish translation of Yume Nikki
@@ -183,7 +184,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * sniperbob - Hebrew translation of Yume Nikki
 * takne77 - Estonian translation of Yume Nikki
 * TrolChelavi - Russian translation of She Awaits
-* uroyu - Japanese translation of OneShot, Unaccomplished
+* uroyu - Japanese translation of OneShot, Unaccomplished, `[COLD]`
 * VioletNeiv - Vietnamese translation of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Ultra Violet
 * Voyager - Spanish translation of Yume Nikki
 * Xiaodao (小岛) - Porting of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
@@ -206,4 +207,5 @@ The Japanese version of Yume Nikki, Spanish version of Someday, French and Japan
 * [Yume Nikki Fangames Wiki](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki)
 * [EasyRPG.org](https://easyrpg.org/)
 * [EasyRPG Wiki](https://wiki.easyrpg.org/)
+
 
