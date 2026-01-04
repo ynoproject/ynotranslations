@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 2, Page 1, Line 12, Pos (19,0)
+#. Condition (Actor Name = A)
+#. ID 2, Page 1, Line 43, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+#. ID 2, Page 1, Line 63, Pos (19,0)
+#. Condition (Actor Name = A)
+#. ID 2, Page 1, Line 94, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+#. ID 2, Page 1, Line 112, Pos (19,0)
+#. Condition (Actor Name = A)
+#. ID 2, Page 1, Line 127, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+#. ID 2, Page 1, Line 146, Pos (19,0)
+#. Condition (Actor Name = A)
+#. ID 2, Page 1, Line 149, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+#. ID 2, Page 1, Line 163, Pos (19,0)
+#. Condition (Actor Name = A)
+#. ID 2, Page 1, Line 166, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+#. ID 2, Page 1, Line 179, Pos (19,0)
+#. Condition (Actor Name = A)
+#. ID 2, Page 1, Line 182, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+#. ID 2, Page 1, Line 357, Pos (19,0)
+#. ChangeHeroName (Actor 10)
+msgctxt "actors.name"
+msgid "A"
+msgstr ""
+
+#. ID 2, Page 1, Line 15, Pos (19,0)
+#. Condition (Actor Name = aruben)
+#. ID 2, Page 1, Line 66, Pos (19,0)
+#. Condition (Actor Name = aruben)
+msgctxt "actors.name"
+msgid "aruben"
+msgstr "cold"
+
+#. ID 2, Page 1, Line 36, Pos (19,0)
+#. Condition (Actor Name = Aruben)
+#. ID 2, Page 1, Line 87, Pos (19,0)
+#. Condition (Actor Name = Aruben)
+msgctxt "actors.name"
+msgid "Aruben"
+msgstr "COLD"

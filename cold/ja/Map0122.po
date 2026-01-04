@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 13, Page 2, Line 48, Pos (9,9)
+msgid "Bonus: 62602202"
+msgstr "Bonus: 62602202"
+
+#. ID 13, Page 2, Line 49, Pos (9,9)
+#. Contains choice at line 2 (2 options)
+msgid "Flashback?"
+msgstr "回想する？"
+
+#. ID 13, Page 2, Line 50, Pos (9,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ok\n"
+"that is enough"
+msgstr ""
+"はい\n"
+"もう十分"
+
+#. ID 13, Page 2, Line 74, Pos (9,9)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "COLD"
+msgstr "冷"
+
+#. ID 13, Page 2, Line 75, Pos (9,9)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "COLD"
+msgstr "冷"
+
