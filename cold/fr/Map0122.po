@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 13, Page 2, Line 48, Pos (9,9)
+msgid "Bonus: 62602202"
+msgstr "Bonus : 62602202"
+
+#. ID 13, Page 2, Line 49, Pos (9,9)
+#. Contains choice at line 2 (2 options)
+msgid "Flashback?"
+msgstr "Revenir ?"
+
+#. ID 13, Page 2, Line 50, Pos (9,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"ok\n"
+"that is enough"
+msgstr ""
+"k\n"
+"c'est bon"
+
+#. ID 13, Page 2, Line 74, Pos (9,9)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "COLD"
+msgstr "FROID"
+
+#. ID 13, Page 2, Line 75, Pos (9,9)
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "COLD"
+msgstr "FROID"

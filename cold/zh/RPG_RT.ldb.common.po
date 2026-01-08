@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.5\n"
+
+#. ID 16, Line 40
+msgid "                      [hood]"
+msgstr "                      [兜帽]"
+
+#. ID 16, Line 45
+msgid "                      [smile]"
+msgstr "                      [微笑]"
+
+#. ID 16, Line 50
+msgid "                     [toy box]"
+msgstr "                     [玩具盒]"
+
+#. ID 16, Line 56
+msgid "                      [older]"
+msgstr "                      [长者]"
+
+#. ID 16, Line 61
+msgid "                      [tiger]"
+msgstr "                      [老虎]"
+
+#. ID 16, Line 66
+msgid "                    [snowball]"
+msgstr "                      [雪球]"
+
+#. ID 16, Line 71
+msgid "                      [sign]"
+msgstr "                      [木牌]"
+
+#. ID 16, Line 76
+msgid "                     [uniform]"
+msgstr "                      [校服]"
+
+#. ID 16, Line 81
+msgid "                    [basketball]"
+msgstr "                      [篮球]"
+
+#. ID 16, Line 86
+msgid "                        [A]"
+msgstr "                        [A]"

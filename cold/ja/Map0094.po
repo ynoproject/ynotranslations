@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 14, Pos (10,9)
+msgid "                       RUIN"
+msgstr "                       廃墟"
+
+#. ID 14, Page 1, Line 23, Pos (10,9)
+msgid "                       COLD"
+msgstr "                       寒冷"
+
+#. ID 14, Page 1, Line 32, Pos (10,9)
+msgid "                       HOME"
+msgstr "                       帰宅"
+
+#. ID 14, Page 1, Line 42, Pos (10,9)
+msgid "                       GAME"
+msgstr "                       遊戯"
+
