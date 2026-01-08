@@ -22,4 +22,4 @@ msgstr "Уроцукі"
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "見"
-msgstr "Подивись на мене"
+msgstr ""

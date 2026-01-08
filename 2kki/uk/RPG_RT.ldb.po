@@ -9735,7 +9735,7 @@ msgstr "Мотоцикл"
 #. ID 53
 msgctxt "items.description"
 msgid "「バイク」にのる"
-msgstr "Їздити на мотоциклі."
+msgstr "Їхати на мотоциклі."
 
 #. ID 13
 msgctxt "items.name"
@@ -9883,7 +9883,7 @@ msgstr "Одягти костюм пінгвіна."
 #. ID 26
 msgctxt "items.name"
 msgid "むし"
-msgstr "Комашка"
+msgstr "Комаха"
 
 #. ID 26
 #. ID 67
@@ -9938,7 +9938,7 @@ msgstr "Надіти гіпс."
 #. ID 31
 msgctxt "items.name"
 msgid "せのび"
-msgstr "Витягування"
+msgstr "Розтяг"
 
 #. ID 31
 #. ID 72
@@ -9960,13 +9960,13 @@ msgstr "Стати скульптурою Ханіва."
 #. ID 33
 msgctxt "items.name"
 msgid "トロンボーン"
-msgstr "Тромбон."
+msgstr "Тромбон"
 
 #. ID 33
 #. ID 74
 msgctxt "items.description"
 msgid "「トロンボーン」をもつ"
-msgstr "Грати на тромботі."
+msgstr "Грати на тромбоні."
 
 #. ID 34
 msgctxt "items.name"
@@ -10070,7 +10070,7 @@ msgstr "Перетворитися на бочку."
 #. ID 43
 msgctxt "items.name"
 msgid "おはか"
-msgstr "Могила"
+msgstr "Надгробок"
 
 #. ID 43
 #. ID 84
@@ -10092,7 +10092,7 @@ msgstr "Стати знаком, що означає \"Залізничний п
 #. ID 45
 msgctxt "items.name"
 msgid "うさみみ"
-msgstr "Вушки кролика"
+msgstr "Вушка кролика"
 
 #. ID 45
 #. ID 86
@@ -10215,7 +10215,7 @@ msgstr " Пінгвін"
 #. ID 67
 msgctxt "items.name"
 msgid " むし"
-msgstr " Комашка"
+msgstr " Комаха"
 
 #. ID 68
 msgctxt "items.name"
@@ -10240,7 +10240,7 @@ msgstr " Гіпс"
 #. ID 72
 msgctxt "items.name"
 msgid " せのび"
-msgstr " Витягування"
+msgstr " Розтяг"
 
 #. ID 73
 msgctxt "items.name"
@@ -10300,7 +10300,7 @@ msgstr " Барабан"
 #. ID 84
 msgctxt "items.name"
 msgid " おはか"
-msgstr " Могила"
+msgstr " Надгробок"
 
 #. ID 85
 msgctxt "items.name"
@@ -10310,7 +10310,7 @@ msgstr " Залізничний знак"
 #. ID 86
 msgctxt "items.name"
 msgid " うさみみ"
-msgstr " Вушки кролика"
+msgstr " Вушка кролика"
 
 #. ID 87
 msgctxt "items.name"

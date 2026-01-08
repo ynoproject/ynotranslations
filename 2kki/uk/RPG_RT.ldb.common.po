@@ -150,7 +150,7 @@ msgstr "Пінгвін"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "むし"
-msgstr "Комашка"
+msgstr "Комаха"
 
 #. ID 14, Line 103
 #. ChangeHeroName (Actor 8)
@@ -180,7 +180,7 @@ msgstr "Гіпс"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "せのび"
-msgstr "Витягування"
+msgstr "Розтяг"
 
 #. ID 14, Line 123
 #. ChangeHeroName (Actor 8)
@@ -252,7 +252,7 @@ msgstr "Барабан"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "おはか"
-msgstr "Могила"
+msgstr "Надгробок"
 
 #. ID 14, Line 171
 #. ChangeHeroName (Actor 8)
@@ -264,7 +264,7 @@ msgstr "Залізничний знак"
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "うさみみ"
-msgstr "Вушки кролика"
+msgstr "Вушка кролика"
 
 #. ID 14, Line 179
 #. ChangeHeroName (Actor 8)
@@ -286,7 +286,7 @@ msgid ""
 "\\>\\C[\\V[1]] 0010 (おなまえ)\n"
 "\\>\\N[1]"
 msgstr ""
-"\\>\\C[\\V[1]] 0010 (name)\n"
+"\\>\\C[\\V[1]] 0010 (назва)\n"
 "\\>\\N[1]"
 
 #. ID 37, Line 37
@@ -442,7 +442,7 @@ msgstr ""
 "\\>Ваш файл збереження належить до новішої версії гри.\n"
 "\\>　      Файл збереження: \\c[4]ver \\V[8]\\N[6]\\V[10]\\N[3] \\c[0]\n"
 "\\>     Поточна версія гри: \\c[4]ver \\V[7]\\N[4]\\V[9]\\N[2]  \\c[0]\n"
-"\\!\\>Продовжуючи, ви ризикуєте пошкодити файл збереження"
+"\\!\\>Продовжуючи,\\_ви\\_ризикуєте\\_пошкодити\\_файл\\_збереження."
 
 #. ID 62, Line 26
 #. Contains choice at line 3 (2 options)
@@ -450,7 +450,7 @@ msgid ""
 "\\>続行した場合、セーブデータ破損のおそれがあります。\n"
 "\\>　　　本当にこのまま続けてよろしいですか？"
 msgstr ""
-"\\>Продовжуючи, ви ризикуєте пошкодити файл збереження\n"
+"\\>Продовжуючи,\\_ви\\_ризикуєте\\_пошкодити\\_файл\\_збереження.\n"
 "\\>Ви впевнені, що хочете продовжити?"
 
 #. ID 62, Line 28
@@ -517,7 +517,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr "Urotsuki"
+msgstr "Уроцукі"
 
 #. ID 62, Line 534
 msgid "\\>　　　　　　　　　　　　　　　　　　　　　　　　　\\^\\"
@@ -682,7 +682,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "Sleepwalking"
+msgstr "Сновида"
 
 #. ID 69, Line 55
 msgid ""
