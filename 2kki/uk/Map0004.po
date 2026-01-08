@@ -140,7 +140,7 @@ msgstr "Пінгвін "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "むし"
-msgstr "Комашка "
+msgstr "Комаха "
 
 #. ID 5, Page 2, Line 105, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -170,7 +170,7 @@ msgstr "Гіпс "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "せのび"
-msgstr "Витягування "
+msgstr "Розтяг "
 
 #. ID 5, Page 2, Line 129, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -236,7 +236,7 @@ msgstr "Барабан "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "おはか"
-msgstr "Могила "
+msgstr "Надгробок "
 
 #. ID 5, Page 2, Line 174, Pos (13,5)
 #. ChangeHeroName (Actor 2)
@@ -248,7 +248,7 @@ msgstr "Залізничний знак "
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "うさみみ"
-msgstr "Вушки кролика "
+msgstr "Вушка кролика "
 
 #. ID 5, Page 2, Line 182, Pos (13,5)
 #. ChangeHeroName (Actor 2)
