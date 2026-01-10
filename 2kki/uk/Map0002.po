@@ -1,0 +1,1375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 1, Page 2, Line 44, Pos (1,1)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 2, Line 92, Pos (12,5)
+#. ChangeHeroName (Actor 7)
+#. ID 6, Page 2, Line 96, Pos (12,5)
+#. ChangeHeroName (Actor 7)
+#. ID 6, Page 6, Line 416, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 447, Pos (12,5)
+#. Condition (Actor Name = うろつき)
+#. ID 6, Page 6, Line 461, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 18, Page 1, Line 45, Pos (2,14)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "うろつき"
+msgstr "Уроцукі"
+
+#. ID 1, Page 2, Line 62, Pos (1,1)
+msgid ""
+"\\>エラー：Time Trial Modeでセーブできてしまいました\n"
+"\\>\n"
+"\\>\n"
+"\\>タイトル画面へ戻ります"
+msgstr "\\>Помилка: Відбулося збереження в Режимі на Час\n"
+"\\>\n"
+"\\>\n"
+"\\>Повернення на головне меню"
+
+#. ID 2, Page 1, Line 5, Pos (12,4)
+#. Condition (Actor Name = 【壁紙ｷﾞｬﾗﾘｰへ入室する】)
+#. ID 6, Page 6, Line 588, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【壁紙ｷﾞｬﾗﾘｰへ入室する】"
+msgstr ""
+
+#. ID 6, Page 2, Line 91, Pos (12,5)
+#. Condition (Actor Name = Player Name)
+msgctxt "actors.name"
+msgid "Player Name"
+msgstr ""
+
+#. ID 6, Page 4, Line 700, Pos (12,5)
+#. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
+#. ID 6, Page 5, Line 187, Pos (12,5)
+#. Condition (Actor Name = ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ)
+msgctxt "actors.name"
+msgid "ﾋﾞｯﾄ立ｻﾝﾌﾟﾙ"
+msgstr ""
+
+#. ID 6, Page 4, Line 845, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>No. \\V[46] に変更しました\n"
+"\\>文字色サンプル:\\C[0]$j通常 \\C[1]$k強調 \\C[3]$m選択不可"
+msgstr ""
+"\\>Змінити на Nọ\\_\\V[46]\n"
+"\\>Зразок Кольору Шрифту: \\C[0]$jЗвич. \\C[1]$kВиділ. \\C[3]$mНеакт."
+
+#. ID 6, Page 4, Line 847, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\C[0]これでOK\n"
+"\\>選びなおす"
+msgstr ""
+"\\>\\C[0]Підтвердити\n"
+"\\>Інший"
+
+#. ID 6, Page 4, Line 1125, Pos (12,5)
+msgid ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪再生中：カーソル移動音 \\<\\.\\.\\^"
+msgstr ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪ Зараз грає: Звук Навігації\\<\\.\\.\\^"
+
+#. ID 6, Page 4, Line 1130, Pos (12,5)
+msgid ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪再生中：決定音\\<\\.\\.\\^"
+msgstr ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪ Зараз грає: Звук Вибора\\<\\.\\.\\^"
+
+#. ID 6, Page 4, Line 1135, Pos (12,5)
+msgid ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪再生中：キャンセル音\\<\\.\\.\\^"
+msgstr ""
+"\n"
+"\\>　／       ／\n"
+"\\>♪ Зараз грає: Звук Cкасування\\<\\.\\.\\^"
+
+#. ID 6, Page 5, Line 330, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 5, Line 347, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 75, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【PC画面BGMを演奏する】"
+msgstr ""
+
+#. ID 6, Page 5, Line 361, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>No. \\V[1405]に変更しました"
+msgstr "\\>Змінити на Nọ\\_\\V[1405]"
+
+#. ID 6, Page 5, Line 362, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>これでOK\n"
+"\\>選びなおす"
+msgstr ""
+"\\>Підтвердити\n"
+"\\>Інший"
+
+#. ID 6, Page 5, Line 365, Pos (12,5)
+msgid ""
+"\\>No. \\V[17]：\n"
+"\\>サウンドルームで登録した曲をBGMに設定します。\n"
+"\\>\n"
+"\\>サウンドルームでShiftキーを押すと登録できます。"
+msgstr ""
+"\\>Nọ \\V[17]:\n"
+"\\>Встановлено обраний саундтрек із звукової кімнати.\n"
+"\\>(Щоб обрати інший, натисніть [Shift] в звуковій \n"
+"\\>кімнаті)."
+
+#. ID 6, Page 5, Line 372, Pos (12,5)
+msgid ""
+"\\>No. \\V[17]：\n"
+"\\>サウンドルームのメモリーからランダムに設定します。\n"
+"\\>\n"
+"\\>(メモリー登録が無い場合は無音になります。)"
+msgstr ""
+"\\>Nọ \\V[17]:\n"
+"\\>Встановлено випадковий саундтрек з плейлісту.\n"
+"\\>(Якщо в плейлісті немає саундтреків, музика не\n"
+"\\>буде відтворюватись.)"
+
+#. ID 6, Page 5, Line 379, Pos (12,5)
+msgid ""
+"\\>No. \\V[17]：\n"
+"\\>サウンドルームの曲からランダムに設定します。\n"
+"\\>\n"
+"\\>(未開放曲がいっぱいあると時間がかかるかも。)"
+msgstr ""
+"\\>Nọ \\V[17]:\n"
+"\\>Встановлено випадковий саундтрек із звук. кімнати.\n"
+"\\>(Це може зайняти деякий час, якщо багато треків ще не\n"
+"\\>відкрито.)"
+
+#. ID 6, Page 6, Line 84, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 605, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 632, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【外部マップから壁紙を表示する】"
+msgstr ""
+
+#. ID 6, Page 6, Line 353, Pos (12,5)
+msgid ""
+"\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]\n"
+"\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
+msgstr ""
+"\\>　※ Ви не можете зберігатсь в Режимі на Час ※　\n"
+"\\>Час гри           : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>Перше проходження : \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]\n"
+"\\>\\C[2]　　　　(Окрім часу проведеного в меню)"
+
+#. ID 6, Page 6, Line 359, Pos (12,5)
+msgid ""
+"\\>　※Time Trial Modeではセーブ機能を使えません※　\n"
+"\\>\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>\\C[2]　　　　(メニュー画面を開いている時間を含めず)"
+msgstr ""
+"\\>　※ Ви не можете зберігатсь в Режимі на Час ※　\n"
+"\\>\n"
+"\\>Час гри           : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>\\C[2]　　　　(Окрім часу проведеного в меню)"
+
+#. ID 6, Page 6, Line 415, Pos (12,5)
+msgid "\\>♪Secret Code：\\V[15]"
+msgstr "\\>♪ Секретний код: \\V[15]"
+
+#. ID 6, Page 6, Line 422, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 430, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 437, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+#. ID 6, Page 6, Line 444, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "Code入力中"
+msgstr "Введіть код"
+
+#. ID 6, Page 6, Line 467, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【SR分室へ入室する】"
+msgstr ""
+
+#. ID 6, Page 6, Line 543, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>通知機能を設定してください"
+msgstr "\\>Налаштуйте сповіщення."
+
+#. ID 6, Page 6, Line 544, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"・ON\n"
+"・OFF\n"
+"・あとで設定する"
+msgstr ""
+"・Увімкнути\n"
+"・Вимкнути\n"
+"・Потім"
+
+#. ID 6, Page 6, Line 552, Pos (12,5)
+msgid "\\>壁紙メニューのオプションで設定が変えられます"
+msgstr "\\>Налаштування можна змінити пізніше в меню шпалер."
+
+#. ID 6, Page 6, Line 567, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 577, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+#. ID 6, Page 6, Line 620, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 654, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "OFF"
+msgstr "OFF"
+
+#. ID 6, Page 6, Line 570, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 574, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+#. ID 6, Page 6, Line 623, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+#. ID 6, Page 6, Line 650, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ON"
+msgstr "ON"
+
+#. ID 6, Page 6, Line 581, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\C[4]\\>\\V[20]/\\V[558]\\C[0]枚 現在壁紙:No.\\C[4]\\V[19] \\C[0]ランダム:\\C[4]\\N[2] \\C[0]新着:\\C[4]\\N[3]\\C[0]"
+msgstr "\\C[4]\\>\\V[20]/\\V[558]\\C[0]  Nọ:\\_\\C[4]\\V[19]  \\C[0]Випадкові:\\_\\C[4]\\N[2]  \\C[0]Сповіщення:\\_\\C[4]\\N[3]\\C[0]"
+
+#. ID 6, Page 6, Line 582, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>・壁紙を選ぶ\n"
+"\\>・壁紙を読み込み\n"
+"\\>・オプション"
+msgstr ""
+"\\>・Вибрати шпалери\n"
+"\\>・Імпортувати шпалери\n"
+"\\>・Налаштування"
+
+#. ID 6, Page 6, Line 598, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>ゆめ2っきver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_backを使用します。\n"
+"\\>\\C[4]ファイルが読み込めなかった場合、強制終了します。\\C[0]"
+msgstr ""
+"\\>Розташування файлу: Yume 2kki ver\\V[7]\\N[4]\\V[9]\\N[2]\\\\pc_back\n"
+"\\>\\C[4]Якщо Файл не вдасться прочитати, гра вилетить.\\C[0]"
+
+#. ID 6, Page 6, Line 600, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・壁紙を読み込む\n"
+"\\>・やめる"
+msgstr ""
+"\\>・Імпортувати\n"
+"\\>・Назад"
+
+#. ID 6, Page 6, Line 616, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>\\C[4]壁紙オプション\\C[0]"
+msgstr "\\>\\C[4]Налаштування шпалер\\C[0]"
+
+#. ID 6, Page 6, Line 617, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>・ランダムモード 切替\n"
+"\\>・新着通知設定 切替\n"
+"\\>・New表示操作"
+msgstr ""
+"\\>・Режим випадкових шпалер\n"
+"\\>・Сповіщення про нові шпалери: Увімк/Вимк\n"
+"\\>・Сповіщення про нові шпалери: Налаштування"
+
+#. ID 6, Page 6, Line 626, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\C[3]\\>壁紙をランダムで自動切り替えします\n"
+"\\>現在：\\C[4]\\N[2]\\C[3]"
+msgstr ""
+"\\C[3]\\>Встановлення випадкових розблокованох шпалер при\n"
+"\\>сіданні за комп'ютер.                  Зараз:\\_\\C[4]\\N[2]\\C[3]"
+
+#. ID 6, Page 6, Line 628, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+#. ID 6, Page 6, Line 661, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・ON\n"
+"\\>・OFF"
+msgstr ""
+"\\>・Увімкнути\n"
+"\\>・Вимкнути"
+
+#. ID 6, Page 6, Line 636, Pos (12,5)
+#. ID 6, Page 6, Line 664, Pos (12,5)
+msgid "\\>ONにしました。"
+msgstr "\\>Увімкнуто."
+
+#. ID 6, Page 6, Line 641, Pos (12,5)
+#. ID 6, Page 6, Line 668, Pos (12,5)
+msgid "\\>OFFにしました。"
+msgstr "\\>Вимкнуто."
+
+#. ID 6, Page 6, Line 659, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid "\\>新着壁紙通知設定　現在：\\C[4]\\N[2]\\C[0]\n"
+msgstr "\\>Сповіщення про нові шпалери.         Зараз:\\_\\C[4]\\N[2]\\C[0]\n"
+
+#. ID 6, Page 6, Line 677, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>"
+msgstr ""
+"\\>\\C[3]Позначити всі шпалери як \"Нові\", або знняти\n"
+"\\>позначку."
+
+#. ID 6, Page 6, Line 679, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・入手済みの全ての壁紙からNew表示を外す\n"
+"\\>・入手済みの全ての壁紙にNew表示をつける"
+msgstr ""
+"\\>・Зняти позначку \"Нові\" з усіх шпалер.\n"
+"\\>・Позначити всі шпалери як \"Нові\"."
+
+#. ID 6, Page 6, Line 681, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "入手済みの全ての壁紙からNew表示を外し"
+msgstr "Знімаємо позначку \"Нові\" з шпалер..."
+
+#. ID 6, Page 6, Line 686, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "入手済みの全ての壁紙にNew表示をつけ"
+msgstr "Позначаємо всі шпалери як \"Нові\"..."
+
+#. ID 6, Page 6, Line 696, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2]ています。\n"
+"\\>  ・\\<\\|\\^"
+msgstr ""
+"\\>\\C[3]Відобразити всі \"Нові\" позначки шпалер одночасно.\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2] В процесі.\n"
+"\\>  ・\\<\\|\\^"
+
+#. ID 6, Page 6, Line 702, Pos (12,5)
+#. ID 6, Page 6, Line 714, Pos (12,5)
+#. ID 6, Page 6, Line 726, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]処理を中断しました。"
+msgstr ""
+"\\>\\C[3]Відобразити всі \"Нові\" позначки шпалер одночасно.\n"
+"\\>\n"
+"\\>  \\C[4]Процес було перервано."
+
+#. ID 6, Page 6, Line 708, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2]ています。\n"
+"\\>  ・・\\<\\|\\^"
+msgstr ""
+"\\>\\C[3]Відобразити всі \"Нові\" позначки шпалер одночасно.\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2] В процесі.\n"
+"\\>  ・・\\<\\|\\^"
+
+#. ID 6, Page 6, Line 720, Pos (12,5)
+msgid ""
+"\\>\\C[3]壁紙のNew表示状態を一括で操作します\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2]ています。\n"
+"\\>  ・・・\\<\\|\\^"
+msgstr ""
+"\\>\\C[3]Відобразити всі \"Нові\" позначки шпалер одночасно.\n"
+"\\>\n"
+"\\>  \\C[4]\\N[2] В процесі.\n"
+"\\>  ・・・\\<\\|\\^"
+
+#. ID 6, Page 6, Line 732, Pos (12,5)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "【New表示状態を操作する】"
+msgstr ""
+
+#. ID 6, Page 6, Line 735, Pos (12,5)
+msgid "\\>\\C[3]\\N[2]ました。"
+msgstr "\\>\\C[3]\\N[2] Успіх!"
+
+#. ID 6, Page 6, Line 741, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マップ到達"
+msgstr ""
+
+#. ID 6, Page 6, Line 768, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ナシ"
+msgstr "OFF"
+
+#. ID 6, Page 6, Line 771, Pos (12,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "アリ"
+msgstr "ON"
+
+#. ID 6, Page 6, Line 776, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\>夢内の文字イベント　現在：\\C[4]\\N[2]\\C[0]"
+msgstr "\\>Текстові події уві сні.                Зараз:\\_\\C[4]\\N[2]\\C[0]"
+
+#. ID 6, Page 6, Line 777, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>・アリ\n"
+"\\>・ナシ\n"
+"\\>・設定終了"
+msgstr ""
+"\\>・Увімкнути\n"
+"\\>・Вимкнути\n"
+"\\>・Закрити"
+
+#. ID 6, Page 6, Line 780, Pos (12,5)
+msgid "\\>アリにしました。"
+msgstr "\\>Увімкнено."
+
+#. ID 6, Page 6, Line 784, Pos (12,5)
+msgid "\\>ナシにしました。"
+msgstr "\\>Вимкнено."
+
+#. ID 6, Page 6, Line 802, Pos (12,5)
+#. Choice (4 options)
+msgid ""
+"\\>・メニュータイプ＆効果音変更\n"
+"\\>・PC画面BGM変更\n"
+"\\>・デフォルトに戻す\n"
+"\\>・設定終了"
+msgstr ""
+"\\>・Тип Меню і Звукові Ефекти\n"
+"\\>・Фонова музика комп'ютера\n"
+"\\>・Стандартні налаштування\n"
+"\\>・Закрити"
+
+#. ID 6, Page 6, Line 826, Pos (12,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>以下の設定をデフォルトに戻します。\n"
+"\\>メニュータイプ / 効果音 / PC画面BGM"
+msgstr ""
+"\\>Скинути до стандартних налаштувань:\n"
+"\\>Тип меню\\_/\\_Звукові Ефекти\\_/\\_Фонова музика комп'ютера"
+
+#. ID 6, Page 6, Line 828, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>・デフォルトに戻す\n"
+"\\>・キャンセル"
+msgstr ""
+"\\>・ Скинути\n"
+"\\>・ Скасувати"
+
+#. ID 6, Page 6, Line 836, Pos (12,5)
+msgid ""
+"\\>メニュータイプ / 効果音 / PC画面BGM\n"
+"\\>…をデフォルトに戻しました。"
+msgstr ""
+"\\>Тип меню\\_/\\_Звукові Ефекти\\_/\\_Фонова музика комп'ютера\n"
+"\\>були скинуті."
+
+#. ID 6, Page 6, Line 921, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "00000"
+msgstr ""
+
+#. ID 6, Page 6, Line 923, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "0000"
+msgstr ""
+
+#. ID 6, Page 6, Line 927, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "000"
+msgstr ""
+
+#. ID 6, Page 6, Line 931, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "00"
+msgstr ""
+
+#. ID 6, Page 6, Line 935, Pos (12,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "0"
+msgstr ""
+
+#. ID 6, Page 6, Line 946, Pos (12,5)
+#. Contains choice at line 2 (3 options)
+#. ID 6, Page 6, Line 1018, Pos (12,5)
+#. Contains choice at line 2 (2 options)
+msgid "\\>\\C[4]【DATA】\\C[0]　ゆめ２っき　ver\\V[7]\\N[4]\\V[9]\\N[2]"
+msgstr "\\>\\C[4]【ДАНІ】\\C[0]　Yume 2kki　ver\\V[7]\\N[4]\\V[9]\\N[2]"
+
+#. ID 6, Page 6, Line 947, Pos (12,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>プレイ記録を見る\n"
+"\\>エンディングを見返す\n"
+"\\>このウィンドウを閉じる"
+msgstr ""
+"\\>Проглянути статистику\n"
+"\\>Передивитись кінцівки\n"
+"\\>Закрити"
+
+#. ID 6, Page 6, Line 949, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
+"\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]\n"
+"\\>(最初に入手したエフェクトは \\C[4]\\N[8]\\C[0])"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [1/5]\n"
+"\\>　　Версія: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Ефекти: \\C[4]\\V[2]％\\C[0]\n"
+"\\> (Вашим першим ефектом був «\\C[4]\\N[8]\\C[0]»)"
+
+#. ID 6, Page 6, Line 953, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
+"\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
+"\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
+"\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [2/5]\n"
+"\\>Звукова кімната: \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Шпалери        : \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Кура Пазли     : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+
+#. ID 6, Page 6, Line 958, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 00分 00秒\\C[0]\n"
+"\\>　　　　(メニュー画面を開いている時間を含めず)\n"
+"\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Час гри          : \\C[4]\\v[87]h 00m 00s\\C[0]\n"
+"\\>　　　　(Окрім часу проведеного в меню)\n"
+"\\>Перше проходження: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
+
+#. ID 6, Page 6, Line 964, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>　　　　(メニュー画面を開いている時間を含めず)\n"
+"\\>初クリア　： \\C[4]\\v[3520]時間 \\v[3519]分 \\v[3518]秒\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [3/5]\n"
+"\\>Час гри          : \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>　　　　(Окрім часу проведеного в меню)\n"
+"\\>Перше проходження: \\C[4]\\v[3520]h \\v[3519]m \\v[3518]s\\C[0]"
+
+#. ID 6, Page 6, Line 971, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Час сну        : \\C[4]\\v[43] днів\\C[0]\n"
+"\\>　Кроків зроблено: \\C[4]\\v[90] \\C[0]"
+
+#. ID 6, Page 6, Line 977, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[91]\\N[3]000000歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Час сну        : \\C[4]\\v[43] днів\\C[0]\n"
+"\\>　Кроків зроблено: \\C[4]\\v[91]\\N[3]000000\\C[0]"
+
+#. ID 6, Page 6, Line 982, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[91]\\N[3]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [4/5]\n"
+"\\>　Час сну        : \\C[4]\\v[43] днів\\C[0]\n"
+"\\>　Кроків зроблено: \\C[4]\\v[91]\\N[3]\\v[90]\\C[0]"
+
+#. ID 6, Page 6, Line 989, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
+"\\>訪れた世界： \\C[4]\\V[71]ヵ所\\C[0]ぐらい\n"
+"\\>　　殺傷数： \\C[4]\\v[3936]回\\C[0](無機物も含む)"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [5/5]\n"
+"\\>Світів провідано: \\C[4]\\V[71]\\C[0] (Приблизно)\n"
+"\\>Атак            : \\C[4]\\v[3936]\\C[0] (включаючи неживі предмети)"
+
+#. ID 6, Page 6, Line 1019, Pos (12,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>プレイ記録を見る\n"
+"\\>このウィンドウを閉じる"
+msgstr ""
+"\\>Проглянути статистику\n"
+"\\>Закрити"
+
+#. ID 6, Page 6, Line 1021, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
+"\\>　　バージョン： \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　エフェクト： \\C[4]\\V[2]％\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [1/4]\n"
+"\\>　　Версія: \\C[4]\\V[7]\\N[4]\\V[9]\\N[2]\\C[0]\n"
+"\\>　　Ефекти: \\C[4]\\V[2]%\\C[0]"
+
+#. ID 6, Page 6, Line 1024, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
+"\\>サウンドルーム： \\C[4]\\V[5]％ (\\V[114]/\\V[112])\\C[0]\n"
+"\\>　パソコン壁紙： \\C[4]\\V[3]％ (\\V[20]/\\V[558])\\C[0]\n"
+"\\>　　パズル絵柄： \\C[4]\\V[4]％ (\\V[60]/\\V[1465])\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [2/4]\n"
+"\\>Звукова кімната: \\C[4]\\V[5]% (\\V[114]/\\V[112])\\C[0]\n"
+"\\>Шпалери        : \\C[4]\\V[3]% (\\V[20]/\\V[558])\\C[0]\n"
+"\\>Кура пазли     : \\C[4]\\V[4]% (\\V[60]/\\V[1465])\\C[0]"
+
+#. ID 6, Page 6, Line 1028, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
+"\\>プレイ時間： \\C[4]\\v[87]時間 \\v[86]分 \\v[85]秒\\C[0]\n"
+"\\>　　　　(メニュー画面を開いている時間を含めず)"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [3/4]\n"
+"\\>Час гри: \\C[4]\\v[87]h \\v[86]m \\v[85]s\\C[0]\n"
+"\\>　　　　(Окрім часу проведеного в меню)"
+
+#. ID 6, Page 6, Line 1032, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　Час сну        : \\C[4]\\v[43] днів\\C[0]\n"
+"\\>　Кроків зроблено: \\C[4]\\v[90]\\C[0]"
+
+#. ID 6, Page 6, Line 1037, Pos (12,5)
+msgid ""
+"\\>\\C[4]【DATA】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　睡眠日数： \\C[4]\\v[43]日\\C[0]\n"
+"\\>　　　歩数： \\C[4]\\v[91]\\v[90]歩\\C[0]"
+msgstr ""
+"\\>\\C[4]【ДАНІ】\\C[0]　　　　　　　　　　　　　　　　　　 [4/4]\n"
+"\\>　Час сну        : \\C[4]\\v[43] днів\\C[0]\n"
+"\\>　Кроків зроблено: \\C[4]\\v[91]\\v[90]\\C[0]"
+
+#. ID 6, Page 6, Line 1051, Pos (12,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "女の子"
+msgstr ""
+
+#. ID 9, Page 2, Line 13, Pos (9,10)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "            "
+msgstr ""
+
+#. ID 9, Page 2, Line 14, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "\\>\\C[5]                              SCORE \\C[0]"
+msgstr "\\>\\C[5]                              РАХУНОК \\C[0]"
+
+#. ID 9, Page 2, Line 15, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid "\\>\\N[2]  Original ver - \\V[1012]\n"
+"\\>\\N[2]     EX ver    - \\V[1454]"
+msgstr "\\>\\N[2]   \\_Оригінал\\_   - \\V[1012]\n"
+"\\>\\N[2]   Версія EX   - \\V[1454]"
+
+#. ID 9, Page 3, Line 72, Pos (9,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>前回セーブまでの死亡回数：\\v[1262]\n"
+"\\>ロードしますか？"
+msgstr ""
+"\\>Смертей з остатнього запису: \\v[1262]\n"
+"\\>Хочете загрузити?"
+
+#. ID 9, Page 3, Line 74, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Так\n"
+"Ні"
+
+#. ID 9, Page 3, Line 118, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+#. ID 9, Page 3, Line 150, Pos (9,10)
+#. Contains choice at line 2 (2 options)
+msgid "\\>ゲームを終了しますか？"
+msgstr "\\>Завершити гру?"
+
+#. ID 9, Page 3, Line 119, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+#. ID 9, Page 3, Line 151, Pos (9,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>はい\n"
+"\\>いいえ"
+msgstr ""
+"\\>Так\n"
+"\\>Ні"
+
+#. ID 12, Page 2, Line 10, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 12, Page 2, Line 76, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おおかみ"
+msgstr "Вовк "
+
+#. ID 12, Page 2, Line 11, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 12, Page 2, Line 85, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バイク"
+msgstr "Мотоцикл "
+
+#. ID 12, Page 2, Line 18, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテ"
+msgstr "Хвостики "
+
+#. ID 12, Page 2, Line 19, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 12, Page 2, Line 68, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めがね"
+msgstr "Окуляри "
+
+#. ID 12, Page 2, Line 26, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+#. ID 12, Page 2, Line 125, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "はにわ"
+msgstr "Ханіва "
+
+#. ID 12, Page 2, Line 27, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+#. ID 12, Page 2, Line 133, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ケーキ"
+msgstr "Торт "
+
+#. ID 12, Page 2, Line 34, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "レインコート"
+msgstr "Дощовик "
+
+#. ID 12, Page 2, Line 44, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "くろでんわ"
+msgstr "Телефон "
+
+#. ID 12, Page 2, Line 48, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おとこのこ"
+msgstr "Хлопчик "
+
+#. ID 12, Page 2, Line 52, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "チェーンソー"
+msgstr "Бензопила "
+
+#. ID 12, Page 2, Line 56, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "カンテラ"
+msgstr "Ліхтар "
+
+#. ID 12, Page 2, Line 60, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ようせい"
+msgstr "Фея "
+
+#. ID 12, Page 2, Line 64, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うちゅうふく"
+msgstr "Скафандр "
+
+#. ID 12, Page 2, Line 72, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "にじ"
+msgstr "Веселка "
+
+#. ID 12, Page 2, Line 80, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "めだま"
+msgstr "Око-"
+
+#. ID 12, Page 2, Line 81, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ばくだん"
+msgstr "бомба "
+
+#. ID 12, Page 2, Line 89, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "まいこ"
+msgstr "Майко "
+
+#. ID 12, Page 2, Line 93, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ツインテール"
+msgstr "Хвостики "
+
+#. ID 12, Page 2, Line 97, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ぺんぎん"
+msgstr "Пінгвін "
+
+#. ID 12, Page 2, Line 101, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "むし"
+msgstr "Комаха "
+
+#. ID 12, Page 2, Line 105, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "バネ"
+msgstr "Пружина "
+
+#. ID 12, Page 2, Line 109, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "とうめい"
+msgstr "Плащ-невидимка "
+
+#. ID 12, Page 2, Line 113, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "がくラン"
+msgstr "Гакуран "
+
+#. ID 12, Page 2, Line 117, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ギプス"
+msgstr "Гіпс"
+
+#. ID 12, Page 2, Line 121, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "せのび"
+msgstr "Розтяг "
+
+#. ID 12, Page 2, Line 129, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "トロンボーン"
+msgstr "Тромбон "
+
+#. ID 12, Page 2, Line 137, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "こども"
+msgstr "Дитина "
+
+#. ID 12, Page 2, Line 141, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "あかずきん"
+msgstr "Червона Шапочка "
+
+#. ID 12, Page 2, Line 145, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ティッシュ"
+msgstr "Серветки "
+
+#. ID 12, Page 2, Line 149, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "コウモリ"
+msgstr "Кажан "
+
+#. ID 12, Page 2, Line 153, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ポリゴン"
+msgstr "Полігон "
+
+#. ID 12, Page 2, Line 157, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "てるてる"
+msgstr "Теру-теру-"
+
+#. ID 12, Page 2, Line 158, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "ぼうず"
+msgstr "бодзу "
+
+#. ID 12, Page 2, Line 162, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "マージナル"
+msgstr "Маргінал "
+
+#. ID 12, Page 2, Line 166, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ドラムかん"
+msgstr "Барабан "
+
+#. ID 12, Page 2, Line 170, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "おはか"
+msgstr "Надгробок "
+
+#. ID 12, Page 2, Line 174, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "ふみきり"
+msgstr "Залізничний знак "
+
+#. ID 12, Page 2, Line 178, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "うさみみ"
+msgstr "Вушка кролика "
+
+#. ID 12, Page 2, Line 182, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "サイコロ"
+msgstr "Гральний кубик "
+
+#. ID 12, Page 2, Line 186, Pos (13,5)
+#. ChangeHeroName (Actor 2)
+msgctxt "actors.name"
+msgid "なし（エフェ"
+msgstr "Нічого "
+
+#. ID 12, Page 2, Line 187, Pos (13,5)
+#. ChangeHeroName (Actor 3)
+msgctxt "actors.name"
+msgid "クト解除）"
+msgstr "(Видалено) "
+
+#. ID 12, Page 3, Line 23, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 30, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+#. ID 12, Page 3, Line 43, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 90, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[1]使用中"
+msgstr "\\C[1]Увімкнено"
+
+#. ID 12, Page 3, Line 26, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 33, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+#. ID 12, Page 3, Line 47, Pos (13,5)
+#. ChangeHeroName (Actor 4)
+#. ID 12, Page 3, Line 94, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[2]未使用"
+msgstr "\\C[2]Вимкнено"
+
+#. ID 12, Page 3, Line 36, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "\\C[0]エフェ"
+msgstr "\\C[0]"
+
+#. ID 12, Page 3, Line 38, Pos (13,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\> ★ シフトキー拡張機能 ★ "
+msgstr "\\> ★ Функціонал клавіші [Shift] ★ "
+
+#. ID 12, Page 3, Line 39, Pos (13,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>お気に入りエフェクト　　:\\N[4]\n"
+"\\>\\N[5]クトシフトチェンジ:\\N[6]\n"
+"\\>\\C[0]やめる"
+msgstr ""
+"\\>Дати улюблений ефект: \\N[4]\n"
+"\\>\\N[5]Вибір серед ефектів: \\N[6]\n"
+"\\>\\C[0]Вийти"
+
+#. ID 12, Page 3, Line 44, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+#. ID 12, Page 3, Line 91, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "使わない"
+msgstr "Вимкнути"
+
+#. ID 12, Page 3, Line 48, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+#. ID 12, Page 3, Line 95, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "使う"
+msgstr "Увімкнути"
+
+#. ID 12, Page 3, Line 51, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\> ★ お気に入りエフェクト ★ \n"
+"\\>※現在の設定:\\N[4]\\C[0]　\\N[2]\\N[3]"
+msgstr ""
+"\\> ★ Дати улюблений ефект ★ \n"
+"\\>※ Зараз:\\_\\N[4]\\C[0]　\\N[2]\\N[3]"
+
+#. ID 12, Page 3, Line 53, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\N[5]\n"
+"\\>せつめい"
+msgstr ""
+"\\>\\N[5]\n"
+"\\>Довідка"
+
+#. ID 12, Page 3, Line 58, Pos (13,5)
+msgid ""
+"\\>※\"使う\"に変更しました。\n"
+"\\>　登録エフェクトを変更するときは、\n"
+"\\>　登録したいエフェクトを使用している状態で\n"
+"\\>　夢の中にあるこの引き出しを調べてください。"
+msgstr ""
+"\\>※ Увімкнено.\n"
+"\\>　Щоб зробити ефект \"улюбленим\", взаємодійте зі\n"
+"\\>　шухлядою в своїй кімнаті в світі снів, маючи на\n"
+"\\>　собі цей самий ефект."
+
+#. ID 12, Page 3, Line 64, Pos (13,5)
+#. ID 12, Page 3, Line 108, Pos (13,5)
+msgid "\\>※\"使わない\"に変更しました。"
+msgstr "\\>※ Вимкнуто."
+
+#. ID 12, Page 3, Line 70, Pos (13,5)
+msgid ""
+"\\>　★「お気に入りエフェクト」機能について★\n"
+"※エフェクトを一つお気に入りに登録します。\n"
+"　登録したエフェクトは、シフトキー長押しで\n"
+"　使用できます。"
+msgstr ""
+"\\>　★ Більше про цю функцію ★\n"
+"※ Зробити \"улюбленим\" можливо тільки один ефект.\n"
+"  Щоб використати цей ефект, треба зажати [Shift]."
+
+#. ID 12, Page 3, Line 74, Pos (13,5)
+msgid ""
+"\\>　★「お気に入りエフェクト」機能について★\n"
+"※登録エフェクト使用中にシフトを長押しすると、\n"
+"　登録エフェクトにチェンジする前に使用していた\n"
+"　エフェクトに戻します。"
+msgstr ""
+"\\>　★ Більше про цю функцію ★\n"
+"※ Якщо зажати [Shift], маючи на собі улюблений\n"
+"   ефект, ви переключитеся на попередній ефект."
+
+#. ID 12, Page 3, Line 98, Pos (13,5)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\> ★ エフェクトシフトチェンジ ★ \n"
+"\\>※現在の設定:\\N[6]\\C[0]"
+msgstr ""
+"\\> ★ Вибір серед ефектів ★ \n"
+"\\>※ Зараз:\\_\\N[6]\\C[0]"
+
+#. ID 12, Page 3, Line 100, Pos (13,5)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>\\N[5]\n"
+"\\>せつめい / おぷしょん"
+msgstr ""
+"\\>\\N[5]\n"
+"\\>Довідка / Налаштування"
+
+#. ID 12, Page 3, Line 105, Pos (13,5)
+msgid "\\>※\"使う\"に変更しました。"
+msgstr "\\>※ Увімкнено."
+
+#. ID 12, Page 3, Line 119, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "\\C[2]エフェクト解除する"
+msgstr "\\C[2]Прибрати ефект"
+
+#. ID 12, Page 3, Line 122, Pos (13,5)
+#. ChangeHeroName (Actor 5)
+msgctxt "actors.name"
+msgid "\\C[1]なにもしない"
+msgstr "\\C[1]Нічого не робити"
+
+#. ID 12, Page 3, Line 126, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[2]お気に入りエフェクト"
+msgstr "\\C[2]Улюблений ефект"
+
+#. ID 12, Page 3, Line 129, Pos (13,5)
+#. ChangeHeroName (Actor 6)
+msgctxt "actors.name"
+msgid "\\C[1]エフェクト解除"
+msgstr "\\C[1]Прибрати ефект"
+
+#. ID 12, Page 3, Line 132, Pos (13,5)
+#. Contains choice at line 2 (3 options)
+msgid "\\> ★ エフェクトシフトチェンジ ★ おぷしょん"
+msgstr "\\> ★ Вибір серед ефектів ★ - Налаштування"
+
+#. ID 12, Page 3, Line 133, Pos (13,5)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"\\>同じ項目を選んだ時：\\N[5]\\C[0]\n"
+"\\>上キーを押した時　：\\N[6]\\C[0]\n"
+"\\>せつめい"
+msgstr ""
+"\\>Коли вибрано той самий ефект: \\N[5]\\C[0]\n"
+"\\>Коли клавіша [▲] нажата : \\N[6]\\C[0]\n"
+"\\>Довідка"
+
+#. ID 12, Page 3, Line 138, Pos (13,5)
+msgid ""
+"\\>※\"なにもしない\"に変更しました。\n"
+"\n"
+"\\>現在のエフェクトと同じ項目を選んでも、\n"
+"\\>エフェクト解除しないようにします。"
+msgstr ""
+"\\>※ \"Нічого не робити\".\n"
+"\n"
+"\\>Вибір ефекта який ви вже маєте на собі не прибере\n"
+"\\>його."
+
+#. ID 12, Page 3, Line 145, Pos (13,5)
+msgid "\\>※\"エフェクト解除する\"に変更しました。"
+msgstr "\\>※ \"Прибрати ефект\"."
+
+#. ID 12, Page 3, Line 153, Pos (13,5)
+msgid ""
+"\\>※\"エフェクト解除\"に変更しました。\n"
+"\n"
+"\\>上キーでエフェクト解除、\n"
+"\\>下キーでお気に入りエフェクトを選択します。"
+msgstr ""
+"\\>※ \"Прибрати ефект\".\n"
+"\n"
+"\\>Клавіша [▲] прибере ефект, який ви маєте на собі.\n"
+"\\>Клавіша [▼] дасть вам Улюблений ефект."
+
+#. ID 12, Page 3, Line 160, Pos (13,5)
+msgid ""
+"\\>※\"お気に入りエフェクト\"に変更しました。\n"
+"\n"
+"\\>上キーと下キーのどちらでも\n"
+"\\>お気に入りエフェクトを選択します。"
+msgstr ""
+"\\>※ \"Улюблений ефект\".\n"
+"\n"
+"\\>\n"
+"\\>Натискання [▲] або [▼] дасть вам Улюблений ефект."
+
+#. ID 12, Page 3, Line 168, Pos (13,5)
+msgid ""
+"\\> ★ エフェクトシフトチェンジ ★ \n"
+"シフトキーでエフェクトを選ぶ画面が出る機能です。\n"
+"もちろん、いつものメニューもそのまま使えます。"
+msgstr ""
+"\\> ★ Вибір серед ефектів ★ \n"
+"При натисканні [Shift] з'явиться вікно вибора.\n"
+"ефектів. Ви все ще можете вибирати через звичайне\n"
+"меню."
+
+#. ID 12, Page 3, Line 171, Pos (13,5)
+msgid ""
+"\\> ★ エフェクトシフトチェンジ ★ \n"
+"また、シフトキーを押してから下キーを押すと\n"
+"お気に入りエフェクトに登録したものを選択できます。"
+msgstr ""
+"\\> ★ Вибір серед ефектів ★ \n"
+"Ви також можете швидко вибрати Улюблений ефект,\n"
+"натиснувши клавішу [▼]."
+
+#. ID 23, Page 1, Line 12, Pos (1,14)
+msgid ""
+"\\>エラー：うろつきが居ません\n"
+"\n"
+"\n"
+"\\>決定キーを押すとタイトル画面に戻ります"
+msgstr ""
+
+#. ID 25, Page 5, Line 45, Pos (5,6)
+#. Contains choice at line 2 (2 options)
+msgid "\\>どちらのアルバムを見ますか？"
+msgstr "\\>Який альбом хочете подивитись?"
+
+#. ID 25, Page 5, Line 46, Pos (5,6)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"\\>改変後（現行処理）ver.\n"
+"\\>改変前（元処理）ver."
+msgstr ""
+"\\>Нову версію\n"
+"\\>Стару версію"
+
+#. ID 26, Page 1, Line 18, Pos (0,14)
+#. Choice (4 options)
+msgid ""
+"\\>ミニゲームＡ\n"
+"\\>ミニゲームＢ\n"
+"\\>ミニゲームＣ\n"
+"やめる"
+msgstr ""
+"\\>Мінігра A\n"
+"\\>Мінігра B\n"
+"\\>Мінігра C\n"
+"Вийти"
+
+#. ID 26, Page 1, Line 29, Pos (0,14)
+msgid "\\>大変長らく更新せずすいませんでした。"
+msgstr ""
+
+#. ID 26, Page 1, Line 30, Pos (0,14)
+msgid ""
+"\\>･変更点\n"
+"\\>ミニゲームのマップ変更・追加\n"
+"\\>今更ながらに主人公キャラの変更（結構やっつけ）"
+msgstr ""
+
+#. ID 26, Page 1, Line 33, Pos (0,14)
+msgid ""
+"なお、ゲーム中はセーブが\n"
+"できないようになっております。"
+msgstr ""
+
+#. ID 26, Page 1, Line 35, Pos (0,14)
+msgid "※メニューも開けないように設定してます"
+msgstr ""
+
+#. ID 26, Page 1, Line 36, Pos (0,14)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"なお、止める際にはわざと死ぬか、\n"
+"それか仮面の子に話しかけてください。"
+msgstr ""
+
+#. ID 26, Page 1, Line 38, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"始める\n"
+"やらない"
+msgstr ""
+"Почати\n"
+"Не починати"
+
+#. ID 26, Page 4, Line 9, Pos (0,14)
+#. Choice (2 options)
+msgid ""
+"通常体験版を起動\n"
+"過去体験版を起動"
+msgstr ""
+
+#. ID 26, Page 4, Line 14, Pos (0,14)
+#. Choice (2 options)
+msgid ""
+"\\>初めから\n"
+"\\>続きから"
+msgstr ""
+"\\>Почати\n"
+"\\>Продовжити"
+
+#. ID 26, Page 4, Line 31, Pos (0,14)
+msgid ""
+"コンティニューポイント選択画面へ移行します\n"
+"この機能はまだ未完成です"
+msgstr ""
