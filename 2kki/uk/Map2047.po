@@ -80,7 +80,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr ""
+msgstr "Сновида"
 
 #. ID 26, Page 1, Line 3, Pos (16,0)
 #. ChangeHeroName (Actor 1)
@@ -96,7 +96,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "Уроцукі"
 
 #. ID 27, Page 1, Line 2, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
@@ -126,7 +126,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "うろつき"
-msgstr ""
+msgstr "Уроцукі"
 
 #. ID 27, Page 1, Line 12, Pos (10,2)
 #. ChangeHeroTitle (Actor 1)
@@ -174,7 +174,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "夢遊病"
-msgstr ""
+msgstr "Сновида"
 
 #. ID 28, Page 1, Line 12, Pos (11,2)
 #. ChangeHeroName (Actor 1)
@@ -236,7 +236,7 @@ msgstr ""
 "\\>\n"
 "\\>\n"
 "\\>\n"
-"\\>　　　　　　　 ■■■■■■■■■■: 52\\<\\|\\|\\^"
+"\\>　　　　　　    　\\_■■■ ■■■■: 52\\<\\|\\|\\^"
 
 #. ID 33, Page 1, Line 1, Pos (87,115)
 #. Choice (2 options)
