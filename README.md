@@ -125,7 +125,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * 0d1an - Russian translation of Mikan Muzou
 * aku - Library's books for the English translation of Yume 2kki
 * aosagi - Vietnamese translation of Mikan Muzou
-* Artyomak - Ukrainian translation of Ultra Violet
+* Artyomak - Ukrainian translation of Yume 2kki, Ultra Violet
 * Aya - Initial French translation of Yume 2kki
 * BinRecycle - Korean translation of the Memory Game from Yume 2kki
 * Carbonara - French translation of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, If, Unaccomplished, `[COLD]`; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
@@ -135,6 +135,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * CloudyThoughts - Esperanto translation of Yume Nikki
 * Cool Person#8939 (369071 2458) - Finnish translation of Yume Nikki
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
+* delta416 - Ukrainian translation of Yume 2kki (Jigsaw Puzzle World pictures)
 * Eel - English translation of .flow
 * ElTipejoLoco - Spanish translation of Deep Dreams, Mikan Muzou
 * Eternal Dream Arabization team ( الحلم المتجدد للتعريب) - Help on the Arabic translation of Yume Nikki
@@ -207,5 +208,6 @@ The Japanese version of Yume Nikki, Spanish version of Someday, French and Japan
 * [Yume Nikki Fangames Wiki](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki)
 * [EasyRPG.org](https://easyrpg.org/)
 * [EasyRPG Wiki](https://wiki.easyrpg.org/)
+
 
 
