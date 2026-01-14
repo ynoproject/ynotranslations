@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. ID 1, Page 1, Line 18, Pos (1,1)
+#. Contains choice at line 2 (3 options)
+msgid "\\>"
+msgstr ""
+
+#. ID 1, Page 1, Line 19, Pos (1,1)
+#. Choice (3 options, embedded in a message)
+#, fuzzy
+msgid ""
+"\\>デバッグモード\n"
+"\\>Time Trial Mode\n"
+"\\>マップ到達率の動作チェック"
+msgstr ""
+"\\>デバッグモード\n"
+"\\>Режим на Час\n"
+"\\>マップ到達率の動作チェック"
+
+#. ID 1, Page 1, Line 27, Pos (1,1)
+msgid ""
+"\\>◆マップ到達率の動作チェック\n"
+"\\>調べたいマップへ行ったフラグを立てて、\n"
+"\\>到達数が変動するか確認できます。\n"
+"\\>(座標でエリア分けされてる所等は上手く動きません)"
+msgstr ""
+
+#. ID 1, Page 1, Line 31, Pos (1,1)
+msgid ""
+"\\>◆マップ到達率の動作チェック\n"
+"\\>なお、終了コマンドはありません。\n"
+"\\>終わりたい時は F12 でタイトルへ戻ってください。"
+msgstr ""
+
+#. ID 1, Page 1, Line 51, Pos (1,1)
+msgid ""
+"\\>◆マップ到達率の動作チェック\n"
+"\\>到達済み:\\V[3511] / 到達可能マップ数:\\V[3512]\n"
+"\\>直前にチェックしたMAPID:\\V[28] \\N[1]"
+msgstr ""
+
+#. ID 1, Page 1, Line 60, Pos (1,1)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "YES"
+msgstr ""
+
+#. ID 1, Page 1, Line 63, Pos (1,1)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "NO / Unknown"
+msgstr ""
+
+#. ID 1, Page 1, Line 66, Pos (1,1)
+msgid ""
+"\\>◆マップ到達率の動作チェック\n"
+"\\>到達済み:\\V[3511] / 到達可能マップ数:\\V[3512]\n"
+"\\>MAPID:\\V[28]\n"
+"\\>到達率に含まれる？:\\V[15] \\N[1]"
+msgstr ""
+
+#. ID 1, Page 1, Line 86, Pos (1,1)
+msgid "\\>　　　　　　　　　　　　　　　　　　　　　　　　　\\^\\"
+msgstr ""
+
+#. ID 1, Page 1, Line 180, Pos (1,1)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　Time Trial Mode\\<\\|\\^"
+msgstr ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　   　\\_Режим на Час\\<\\|\\^"
+
+#. ID 1, Page 1, Line 196, Pos (1,1)
+msgid ""
+"\\>\n"
+"\\>\n"
+"\\>\n"
+"\\>　　　　　　　 　　　デバッグ\\<\\|\\^"
+msgstr ""
