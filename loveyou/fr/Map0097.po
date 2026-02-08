@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 1, Page 1, Line 4, Pos (3,12)
+#. Contains choice at line 2 (2 options)
+msgid "                \"Cursed\" Menu Theme"
+msgstr "             \\_Thème de menu « Maudit »"
+
+#. ID 1, Page 1, Line 7, Pos (3,12)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip theme\n"
+"Do not equip"
+msgstr ""
+"Équiper le thème\n"
+"Ne pas équiper"
