@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 4, Page 1, Line 2, Pos (0,14)
+#. Contains choice at line 2 (2 options)
+msgid "Exit PC?"
+msgstr "Quitter le PC ?"
+
+#. ID 4, Page 1, Line 3, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 17, Page 1, Line 2, Pos (11,3)
+#. Contains choice at line 2 (2 options)
+msgid "Select Ice PC color?"
+msgstr "Choisir la couleur de PC « Glace » ?"
+
+#. ID 17, Page 1, Line 3, Pos (11,3)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 3, Pos (11,4)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 3, Pos (11,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 3, Pos (11,6)
+#. Choice (2 options, embedded in a message)
+#. ID 21, Page 1, Line 3, Pos (11,7)
+#. Choice (2 options, embedded in a message)
+#. ID 22, Page 1, Line 3, Pos (11,2)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Select\n"
+"Cancel"
+msgstr ""
+"Utiliser\n"
+"Annuler"
+
+#. ID 18, Page 1, Line 2, Pos (11,4)
+#. Contains choice at line 2 (2 options)
+msgid "Select Sea PC color?"
+msgstr "Choisir la couleur de PC « Mer » ?"
+
+#. ID 19, Page 1, Line 2, Pos (11,5)
+#. Contains choice at line 2 (2 options)
+msgid "Select Clover PC color?"
+msgstr "Choisir la couleur de PC « Trèfle » ?"
+
+#. ID 20, Page 1, Line 2, Pos (11,6)
+#. Contains choice at line 2 (2 options)
+msgid "Select Honey PC color?"
+msgstr "Choisir la couleur de PC « Miel » ?"
+
+#. ID 21, Page 1, Line 2, Pos (11,7)
+#. Contains choice at line 2 (2 options)
+msgid "Select Amber PC color?"
+msgstr "Choisir la couleur de PC « Ambre » ?"
+
+#. ID 22, Page 1, Line 2, Pos (11,2)
+#. Contains choice at line 2 (2 options)
+msgid "Select Orchid PC color?"
+msgstr "Choisir la couleur de PC « Orchidée » ?"

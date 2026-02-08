@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 1, Page 1, Line 3, Pos (1,9)
+#. Contains choice at line 2 (2 options)
+msgid "Default Menu Theme"
+msgstr "Thème de menu par défaut"
+
+#. ID 1, Page 1, Line 4, Pos (1,9)
+#. Choice (2 options, embedded in a message)
+#. ID 2, Page 1, Line 4, Pos (1,11)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 4, Pos (3,1)
+#. Choice (2 options, embedded in a message)
+#. ID 7, Page 1, Line 4, Pos (3,3)
+#. Choice (2 options, embedded in a message)
+#. ID 10, Page 1, Line 4, Pos (3,5)
+#. Choice (2 options, embedded in a message)
+#. ID 11, Page 1, Line 4, Pos (3,7)
+#. Choice (2 options, embedded in a message)
+#. ID 12, Page 1, Line 4, Pos (3,9)
+#. Choice (2 options, embedded in a message)
+#. ID 13, Page 1, Line 4, Pos (3,11)
+#. Choice (2 options, embedded in a message)
+#. ID 15, Page 1, Line 4, Pos (5,1)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 4, Pos (5,3)
+#. Choice (2 options, embedded in a message)
+#. ID 19, Page 1, Line 4, Pos (5,5)
+#. Choice (2 options, embedded in a message)
+#. ID 20, Page 1, Line 4, Pos (5,7)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip theme\n"
+"No"
+msgstr ""
+"Équiper le thème\n"
+"Non"
+
+#. ID 2, Page 1, Line 3, Pos (1,11)
+#. Contains choice at line 2 (2 options)
+msgid "95 Menu Theme"
+msgstr "Thème de menu « '95 »"
+
+#. ID 3, Page 1, Line 3, Pos (3,1)
+#. Contains choice at line 2 (2 options)
+msgid "Glass Menu Theme"
+msgstr "Thème de menu « Verre »"
+
+#. ID 4, Page 1, Line 2, Pos (0,14)
+#. Contains choice at line 2 (2 options)
+msgid "Exit PC?"
+msgstr "Quitter le PC ?"
+
+#. ID 4, Page 1, Line 3, Pos (0,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 7, Page 1, Line 3, Pos (3,3)
+#. Contains choice at line 2 (2 options)
+msgid "Intestines Menu Theme"
+msgstr "Thème de menu « Intestins »"
+
+# Dofric seems to be a typo of dorfic (DORFic), which is an aesthetic.
+#. ID 10, Page 1, Line 3, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "Dofric Menu Theme"
+msgstr "Thème de menu « DORFic »"
+
+# Duplicated the line with Dofric written as Dorfic, in case it is just a typo.
+#. ID 10, Page 1, Line 9, Pos (3,5)
+#. Contains choice at line 2 (2 options)
+msgid "Dorfic Menu Theme"
+msgstr "Thème de menu « DORFic »"
+
+#. ID 11, Page 1, Line 3, Pos (3,7)
+#. Contains choice at line 2 (2 options)
+msgid "Soap Menu Theme"
+msgstr "Thème de menu « Savon »"
+
+#. ID 12, Page 1, Line 3, Pos (3,9)
+#. Contains choice at line 2 (2 options)
+msgid "Shampoo Menu Theme"
+msgstr "Thème de menu « Shampooing »"
+
+#. ID 13, Page 1, Line 3, Pos (3,11)
+#. Contains choice at line 2 (2 options)
+msgid "Cursed Menu Theme"
+msgstr "Thème de menu « Maudit »"
+
+#. ID 15, Page 1, Line 3, Pos (5,1)
+#. Contains choice at line 2 (2 options)
+msgid "Nocturne Menu Theme"
+msgstr "Thème de menu « Nocturne »"
+
+#. ID 18, Page 1, Line 3, Pos (5,3)
+#. Contains choice at line 2 (2 options)
+msgid "Copper Menu Theme"
+msgstr "Thème de menu « Cuivre »"
+
+#. ID 19, Page 1, Line 3, Pos (5,5)
+#. Contains choice at line 2 (2 options)
+msgid "Yellow Heartbreak Menu Theme"
+msgstr "Thème de menu « Chagrin Jaune »"
+
+#. ID 20, Page 1, Line 3, Pos (5,7)
+#. Contains choice at line 2 (2 options)
+msgid "Mp3 Player Menu Theme"
+msgstr "Thème de menu « Lecteur mp3 »"

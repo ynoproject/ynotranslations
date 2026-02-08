@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 1, Page 1, Line 4, Pos (12,1)
+msgid "                      Scene"
+msgstr "                       Scène"
+
+#. ID 2, Page 1, Line 4, Pos (28,2)
+#. ID 21, Page 1, Line 4, Pos (29,2)
+#. ID 23, Page 1, Line 4, Pos (28,0)
+#. ID 28, Page 1, Line 4, Pos (29,0)
+#. ID 29, Page 1, Line 4, Pos (29,1)
+#. ID 35, Page 1, Line 4, Pos (28,1)
+msgid "                       Heart"
+msgstr "                       \\_Cœur"
+
+#. ID 5, Page 1, Line 4, Pos (9,6)
+#. ID 18, Page 1, Line 4, Pos (10,4)
+#. ID 19, Page 1, Line 4, Pos (10,6)
+#. ID 20, Page 1, Line 4, Pos (9,4)
+#. ID 37, Page 1, Line 4, Pos (10,5)
+#. ID 38, Page 1, Line 4, Pos (9,5)
+msgid "                    Plague Doc"
+msgstr "                 \\_Médecin de peste"
+
+#. ID 6, Page 1, Line 4, Pos (7,1)
+msgid "                      Rasta"
+msgstr ""
+
+#. ID 7, Page 1, Line 4, Pos (32,1)
+msgid "                      Victim"
+msgstr "                      Victime"
+
+#. ID 9, Page 1, Line 4, Pos (14,1)
+msgid "                       Noir"
+msgstr "                       Noire"
+
+#. ID 10, Page 1, Line 4, Pos (9,1)
+msgid "                       Goat"
+msgstr "                      \\_Chèvre"
+
+#. ID 11, Page 1, Line 4, Pos (16,1)
+msgid "                      Sansara"
+msgstr "                      Samsara"
+
+#. ID 12, Page 1, Line 4, Pos (5,4)
+msgid "                     Camellia"
+msgstr "                      Camélia"
+
+#. ID 13, Page 1, Line 4, Pos (7,4)
+msgid "                    Trenchcoat"
+msgstr "                    Trench-coat"
+
+#. ID 16, Page 1, Line 4, Pos (5,1)
+msgid "                   Meat Cleaver"
+msgstr "                 Couperet à viande"
+
+#. ID 26, Page 1, Line 4, Pos (3,21)
+#. Contains choice at line 2 (2 options)
+msgid "              \"Intestines\" Menu Theme"
+msgstr "            Thème de menu « Intestins »"
+
+#. ID 26, Page 1, Line 7, Pos (3,21)
+#. Choice (2 options, embedded in a message)
+#. ID 27, Page 1, Line 7, Pos (1,21)
+#. Choice (2 options, embedded in a message)
+#. ID 50, Page 1, Line 7, Pos (7,21)
+#. Choice (2 options, embedded in a message)
+#. ID 59, Page 1, Line 11, Pos (5,21)
+#. Choice (2 options, embedded in a message)
+#. ID 59, Page 2, Line 11, Pos (5,21)
+#. Choice (2 options, embedded in a message)
+#. ID 64, Page 1, Line 7, Pos (9,21)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip theme\n"
+"Do not equip"
+msgstr ""
+"Équiper le thème\n"
+"Ne pas équiper"
+
+#. ID 27, Page 1, Line 4, Pos (1,21)
+#. Contains choice at line 2 (2 options)
+msgid "                 \"Glass\" Menu Theme"
+msgstr "              Thème de menu « Verre »"
+
+#. ID 30, Page 1, Line 4, Pos (12,4)
+msgid "                      Candle"
+msgstr "                      \\_Bougie"
+
+# Seems Kamikaze was an early name and/or concept for the Wingman effect.
+#. ID 31, Page 1, Line 4, Pos (14,4)
+msgid "                     Kamikaze"
+msgstr "                      \\_Ailier"
+
+#. ID 32, Page 1, Line 4, Pos (16,4)
+msgid "                      Bride"
+msgstr "                      \\_Mariée"
+
+#. ID 33, Page 1, Line 4, Pos (5,7)
+msgid "                       Sailor"
+msgstr "                     Marinette"
+
+#. ID 34, Page 1, Line 5, Pos (7,7)
+msgid "                        Emo"
+msgstr ""
+
+#. ID 50, Page 1, Line 4, Pos (7,21)
+#. Contains choice at line 2 (2 options)
+msgid "              \"Cursed\" Menu Theme"
+msgstr "             \\_Thème de menu « Maudit »"
+
+#. ID 59, Page 1, Line 8, Pos (5,21)
+#. Contains choice at line 2 (2 options)
+msgid "                 \"Soap\" Menu Theme"
+msgstr "              Thème de menu « Savon »"
+
+#. ID 59, Page 2, Line 8, Pos (5,21)
+#. Contains choice at line 2 (2 options)
+msgid "                 \"Shampoo\" Menu Theme"
+msgstr "           \\_Thème de menu « Shampooing »"
+
+#. ID 64, Page 1, Line 4, Pos (9,21)
+#. Contains choice at line 2 (2 options)
+msgid "              \"Nocturne\" Menu Theme"
+msgstr "            \\_Thème de menu « Nocturne »"
