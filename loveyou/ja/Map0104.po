@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 10, Page 1, Line 8, Pos (6,5)
+#. ID 12, Page 1, Line 8, Pos (4,6)
+#. ID 12, Page 1, Line 22, Pos (4,6)
+#. ID 12, Page 1, Line 36, Pos (4,6)
+#. ID 12, Page 1, Line 50, Pos (4,6)
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 12, Page 1, Line 1, Pos (4,6)
+#. Choice (4 options)
+msgid ""
+"Golden Resin World\n"
+"-30\n"
+"Greasy Town\n"
+"Noir Walk"
+msgstr ""
+

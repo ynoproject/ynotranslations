@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 16, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Heartbroken"
+msgstr "失恋"
+
+#. ID 18, Line 2
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 50, Line 17
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Meat Cleaver"
+msgstr "肉切り包丁"
+
+#. ID 51, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Rasta"
+msgstr "ラスタ"
+
+#. ID 52, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Goat"
+msgstr "ヤギ"
+
+#. ID 53, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Scene"
+msgstr "シーン"
+
+#. ID 54, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Noir"
+msgstr "ノワール"
+
+#. ID 55, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Sansara"
+msgstr "サンサーラ"
+
+#. ID 56, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Camellia"
+msgstr "カメリア"
+
+#. ID 57, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Trenchcoat"
+msgstr "ﾄﾚﾝﾁｺｰﾄ"
+
+#. ID 58, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Plague Doc"
+msgstr "ペスト医師"
+
+#. ID 59, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Candle"
+msgstr "ろうそく"
+
+#. ID 60, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Wingman"
+msgstr "航空兵"
+
+#. ID 61, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bride"
+msgstr "花嫁"
+
+#. ID 62, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Sailor"
+msgstr "船乗り"
+
+#. ID 63, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Emo"
+msgstr "エモ"
+
+#. ID 78, Line 17
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Swan Dress"
+msgstr ""
+
+#. ID 80, Line 16
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Heart"
+msgstr "心臓"
+
+#. ID 82, Line 16
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Victim"
+msgstr "被害者"
+
+#. ID 199, Line 17
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Healing"
+msgstr ""

@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 4, Page 1, Line 4, Pos (11,11)
+#. Contains choice at line 2 (2 options)
+msgid "              \"Nocturne\" Menu Theme"
+msgstr "                 ﾒﾆｭｰﾀｲﾌﾟ「夜想曲」"
+
+#. ID 4, Page 1, Line 7, Pos (11,11)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip theme\n"
+"Do not equip"
+msgstr ""
+"メニュータイプを変更する\n"
+"変更しない"

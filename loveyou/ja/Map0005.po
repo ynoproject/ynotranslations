@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 34, Page 1, Line 8, Pos (35,22)
+#. ID 34, Page 1, Line 17, Pos (35,22)
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 43, Page 1, Line 8, Pos (94,41)
+#. Contains choice at line 2 (2 options)
+msgid "                 \"Soap\" Menu Theme"
+msgstr "                  ﾒﾆｭｰﾀｲﾌﾟ「石鹸」"
+
+#. ID 43, Page 1, Line 11, Pos (94,41)
+#. Choice (2 options, embedded in a message)
+#. ID 89, Page 1, Line 11, Pos (97,41)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Equip theme\n"
+"Do not equip"
+msgstr ""
+"メニュータイプを変更する\n"
+"変更しない"
+
+#. ID 89, Page 1, Line 8, Pos (97,41)
+#. Contains choice at line 2 (2 options)
+msgid "              \"Shampoo\" Menu Theme"
+msgstr "               ﾒﾆｭｰﾀｲﾌﾟ「シャンプー」"
