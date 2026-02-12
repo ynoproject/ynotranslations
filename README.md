@@ -185,7 +185,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * sniperbob - Hebrew translation of Yume Nikki
 * takne77 - Estonian translation of Yume Nikki
 * TrolChelavi - Russian translation of She Awaits
-* uroyu - Japanese translation of Oversomnia, OneShot, Unaccomplished, `[COLD]`
+* uroyu - Japanese translation of Oversomnia, OneShot, Unaccomplished, `[COLD]`, Love You
 * VioletNeiv - Vietnamese translation of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Ultra Violet
 * Voyager - Spanish translation of Yume Nikki
 * Xiaodao (小岛) - Porting of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
@@ -208,6 +208,7 @@ The Japanese version of Yume Nikki, Spanish version of Someday, French and Japan
 * [Yume Nikki Fangames Wiki](https://ynfg.yume.wiki/Yume_Nikki_Fangames_Wiki)
 * [EasyRPG.org](https://easyrpg.org/)
 * [EasyRPG Wiki](https://wiki.easyrpg.org/)
+
 
 
 
