@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep Dreams\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Artyomak\n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Mariana"
+msgstr "Маріана"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Deep Sleeper"
+msgstr "Сонько"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "Wake Up"
+msgstr "Прокинутись"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Instructions"
+msgstr "Інструкції"
+
+#. ID 1
+msgctxt "items.name"
+msgid "Monochromatic"
+msgstr "Монохромія"
+
+#. ID 1
+msgctxt "items.description"
+msgid "Turns me greyscale"
+msgstr "Робить мене чорно-білою"
+
+#. ID 2
+msgctxt "items.name"
+msgid "Pastel"
+msgstr "Пастель"
+
+#. ID 2
+msgctxt "items.description"
+msgid "Turns me pastel"
+msgstr "Робить мене пастельних відтінків"
+
+#. ID 3
+msgctxt "items.name"
+msgid "Vortex"
+msgstr "Вихор"
+
+#. ID 3
+msgctxt "items.description"
+msgid "Holding the space bar lets me warp to the Nexus"
+msgstr "Повертає мене до Нексусу при натисканні Пробілу"
+
+#. ID 4
+msgctxt "items.name"
+msgid "Damage"
+msgstr "Ушкодження"
+
+#. ID 4
+msgctxt "items.description"
+msgid "Lets me kill other people"
+msgstr "Дає змогу вбивати інших"
+
+#. ID 5
+msgctxt "items.name"
+msgid "Verdant"
+msgstr "Буяння"
+
+#. ID 5
+msgctxt "items.description"
+msgid "Holding the space bar lets me attract other people"
+msgstr "Приваблює інших при натисканні Пробілу"
+
+#. ID 6
+msgctxt "items.name"
+msgid "Toxic"
+msgstr "Токсичність"
+
+#. ID 6
+msgctxt "items.description"
+msgid "Repels and protects me from Plague Nurses"
+msgstr "Відганяє і захищає мене від Чумних Медсестер"
+
+#. ID 7
+msgctxt "items.name"
+msgid "Nostalgic"
+msgstr "Ностальгія"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Dresses me in yesteryear's fashions"
+msgstr "Вдягає мене в стиль минулого року"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Glassy"
+msgstr "Скляна"
+
+#. ID 8
+msgctxt "items.description"
+msgid "Lights my way in dark areas"
+msgstr "Освітлює мій шлях в темних місцях"
+
+#. ID 9
+msgctxt "items.name"
+msgid "Metallic"
+msgstr "Металева"
+
+#. ID 9
+msgctxt "items.description"
+msgid "Turns me into an android"
+msgstr "Перетворює мене на андроїда"
+
+#. ID 10
+msgctxt "items.name"
+msgid "Gelatinous"
+msgstr "Желеподібна"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Turns me into blue jelly"
+msgstr "Перетворює мене на синє желе"
+
+#. ID 11
+msgctxt "items.name"
+msgid "Celestial"
+msgstr "Неземна"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Turns me into a living night sky"
+msgstr "Робить мене живим нічним небом"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Apparition"
+msgstr "Привид"
+
+#. ID 12
+msgctxt "items.description"
+msgid "Makes me invisible to almost everyone"
+msgstr "Робить мене невидимою майже для всіх"
+
+msgctxt "terms.command_item"
+msgid "Alters"
+msgstr "Альтери"
+
+msgctxt "terms.command_skill"
+msgid "Action"
+msgstr "Дія"
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr "Зберегтись"
+
+msgctxt "terms.menu_quit"
+msgid "Quit"
+msgstr "Вийти"
+
+msgctxt "terms.new_game"
+msgid "Dream"
+msgstr "Новий сон"
+
+msgctxt "terms.load_game"
+msgid "Recall"
+msgstr "Згадати"
+
+msgctxt "terms.exit_game"
+msgid "Awaken"
+msgstr "Прокинутись"
+
+msgctxt "terms.normal_status"
+msgid "Normal"
+msgstr "В нормі"
+
+msgctxt "terms.lvl_short"
+msgid "L"
+msgstr "Р"
+
+msgctxt "terms.hp_short"
+msgid "H"
+msgstr "Зд"
+
+msgctxt "terms.sp_short"
+msgid "M"
+msgstr "М"
+
+msgctxt "terms.save_game_message"
+msgid "Save to which file?"
+msgstr "Де зберегтись?"
+
+msgctxt "terms.load_game_message"
+msgid "Load which file?"
+msgstr "Який файл завантажити?"
+
+msgctxt "terms.file"
+msgid "File"
+msgstr "Файл"
+
+msgctxt "terms.exit_game_message"
+msgid "Do you really want to quit?"
+msgstr "Ви справді хочете вийти?"
+
+msgctxt "terms.yes"
+msgid "Yes"
+msgstr "Так"
+
+msgctxt "terms.no"
+msgid "No"
+msgstr "Ні"
