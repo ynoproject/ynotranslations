@@ -125,7 +125,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * 0d1an - Russian translation of Mikan Muzou
 * aku - Library's books for the English translation of Yume 2kki
 * aosagi - Vietnamese translation of Mikan Muzou
-* Artyomak - Ukrainian translation of Yume 2kki, Ultra Violet
+* Artyomak - Ukrainian translation of Yume 2kki, Deep Dreams, Ultra Violet
 * Aya - Initial French translation of Yume 2kki
 * BinRecycle - Korean translation of the Memory Game from Yume 2kki
 * Carbonara - French translation of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, If, Unaccomplished, `[COLD]`, Love You; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
