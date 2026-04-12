@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 11, Page 1, Line 4, Pos (3,6)
+msgid "\\>　　　　　　　 　    \\_■つる■\\<"
+msgstr "\\>　　　　　　　 　   \\_■Crane■\\<"
+
+#. ID 12, Page 1, Line 4, Pos (4,6)
+msgid "\\>　　　　　　　 　    \\_■ゆき■\\<"
+msgstr "\\>　　　　　　　 　    \\_■Snow■\\<"
+
+#. ID 13, Page 1, Line 4, Pos (2,8)
+msgid "\\>　　　　　　　 　 \\_■ふきのとう■\\<"
+msgstr "\\>　　　　　　　 　 \\_■Fuki Shoot■\\<"
+
+#. ID 14, Page 1, Line 4, Pos (3,8)
+msgid "\\>　　　　　　　 　   \\_■さくら■\\<"
+msgstr "\\>　　　　　　　 　   \\_■Sakura■\\<"
+
+#. ID 15, Page 1, Line 4, Pos (4,8)
+msgid "\\>　　　　　　　 　    \\_■かめ■\\<"
+msgstr "\\>　　　　　　　 　   \\_■Turtle■\\<"
+
+#. ID 16, Page 1, Line 4, Pos (6,6)
+msgid "\\>　　　　　　　 　  \\_■あじさい■\\<"
+msgstr "\\>　　　　　　　 　  \\_■Hydrangea■\\<"
+
+#. ID 17, Page 1, Line 4, Pos (7,6)
+msgid "\\>　　　　　　　 　  \\_■ひまわり■\\<"
+msgstr "\\>　　　　　　　 　  \\_■Sunflower■\\<"
+
+#. ID 18, Page 1, Line 4, Pos (8,6)
+msgid "\\>　　　　　　　 　  \\_■かげろう■\\<"
+msgstr "\\>　　　　　　　 　  \\_■Heat Haze■\\<"
+
+#. ID 19, Page 1, Line 4, Pos (6,8)
+msgid "\\>　　　　　　　 　   \\_■けむり■\\<"
+msgstr "\\>　　　　　　　 　   \\_■Smoke■\\<"
+
+#. ID 20, Page 1, Line 4, Pos (7,8)
+msgid "\\>　　　　　　　 　    \\_■きく■\\<"
+msgstr "\\>　　　　　　　　\\_■Chrysanthemum■\\<"
+
+#. ID 21, Page 1, Line 4, Pos (8,8)
+msgid "\\>　　　　　　　 　   \\_■もみじ■\\<"
+msgstr "\\>　　　　　　　 　   \\_■Maple■\\<"
+
+#. ID 22, Page 1, Line 4, Pos (2,6)
+msgid "\\>　　　　　　　 　   \\_■とじる■\\<"
+msgstr "\\>　　　　　　　 　   \\_■Close■\\<"
+
+#. ID 23, Page 1, Line 3, Pos (9,5)
+msgid "エフェクトを全て"
+msgstr "All Effects"
+
+#. ID 23, Page 1, Line 4, Pos (9,5)
+#. Choice (4 options)
+msgid ""
+"取得する\n"
+"返却する\n"
+"破棄する\n"
+"再取得する"
+msgstr ""
+"Acquire\n"
+"Return\n"
+"Discard\n"
+"Re-acquire"
+
+#. ID 23, Page 1, Line 7, Pos (9,5)
+msgid "取得しました"
+msgstr "All effects acquired"
+
+#. ID 23, Page 1, Line 11, Pos (9,5)
+msgid "返却しました"
+msgstr "All effects returned"
+
+#. ID 23, Page 1, Line 15, Pos (9,5)
+msgid "破棄しました"
+msgstr "All effects discarded"
+
+#. ID 23, Page 1, Line 19, Pos (9,5)
+msgid "再取得しました"
+msgstr "All effects re-acquired"
+
+#. ID 24, Page 1, Line 11, Pos (12,6)
+msgid "\\>　　　　　　　　 \\_■メニュー変更■\\<"
+msgstr "\\>　　　　　　　　 \\_■Menu Change■\\<"
+
+#. ID 40, Page 1, Line 2, Pos (14,10)
+msgid "\\V[49]"
+msgstr ""
