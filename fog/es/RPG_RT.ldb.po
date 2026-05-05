@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.9\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -529,7 +529,7 @@ msgstr "Bolas de estrés"
 #. ID 4
 msgctxt "items.description"
 msgid "The \"greater struggle\"? I believe it!"
-msgstr "¿El \"mayor lucha\"? ¡Lo creo!"
+msgstr "¿La \"lucha mayor\"? ¡Lo creo!"
 
 #. ID 5
 msgctxt "items.name"
