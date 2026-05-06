@@ -75,7 +75,7 @@ msgstr "$pSe réveiller"
 #. ID 1
 msgctxt "skills.description"
 msgid "Wake up from the dream."
-msgstr "Réveille-toi du rêve."
+msgstr "Réveille-toi et sors du rêve."
 
 #. ID 2
 msgctxt "skills.name"
@@ -95,7 +95,7 @@ msgstr "$lInsecticide"
 #. ID 3
 msgctxt "skills.description"
 msgid "Carry a bug sprayer. (SPACE = Destroy object)"
-msgstr "Porte un insecticide. (ESPACE = Détruire un objet)"
+msgstr "Tiens un insecticide. (ESPACE = Détruire un objet)"
 
 #. ID 4
 msgctxt "skills.name"
@@ -105,7 +105,7 @@ msgstr "$lLampe torche"
 #. ID 4
 msgctxt "skills.description"
 msgid "Carry a flashlight. (SHIFT = Shine light)"
-msgstr "Porte une lampe torche. (MAJ = Allumer la lumière)"
+msgstr "Tiens une lampe torche. (MAJ = Allumer la lumière)"
 
 #. ID 5
 msgctxt "skills.name"
@@ -160,12 +160,12 @@ msgstr "Deviens un insecte lumineux."
 #. ID 10
 msgctxt "skills.name"
 msgid "$lMicrophone"
-msgstr ""
+msgstr "$lMicro"
 
 #. ID 10
 msgctxt "skills.description"
 msgid "Carry a microphone."
-msgstr "Porte un microphone."
+msgstr "Tiens un micro."
 
 #. ID 11
 #. ID 19
@@ -179,7 +179,7 @@ msgstr "$lClé"
 #. ID 29
 msgctxt "skills.description"
 msgid "Carry a key. (SPACE = Open box)"
-msgstr "Porte une clé. (ESPACE = Ouvrir une boîte)"
+msgstr "Tiens une clé. (ESPACE = Ouvrir une boîte)"
 
 #. ID 12
 msgctxt "skills.name"
@@ -239,7 +239,7 @@ msgstr "$lFilet à insectes"
 #. ID 17
 msgctxt "skills.description"
 msgid "Carry a bug-catching net. (SPACE = Catch object)"
-msgstr "Porte un filet à insectes. (ESPACE = Attraper objet)"
+msgstr "Tiens un filet à insectes. (ESPACE = Attraper objet)"
 
 #. ID 18
 msgctxt "skills.name"
@@ -279,7 +279,7 @@ msgstr "$lPistolet de départ"
 #. ID 22
 msgctxt "skills.description"
 msgid "Carry a starter pistol. (SHIFT = Return to Nexus)"
-msgstr "Porte un pistolet de départ. (MAJ = Retourner au Nexus)"
+msgstr "Tiens un pistolet de départ. (MAJ = Retourner au Nexus)"
 
 #. ID 23
 msgctxt "skills.name"
@@ -299,7 +299,7 @@ msgstr "$lLampe"
 #. ID 24
 msgctxt "skills.description"
 msgid "Carry an oil lamp. (Shines light)"
-msgstr "Porte une lampe à huile. (Émets de la lumière)"
+msgstr "Tiens une lampe à huile. (Émets de la lumière)"
 
 #. ID 25
 msgctxt "skills.name"
@@ -639,7 +639,7 @@ msgstr "Patate"
 #. ID 15
 msgctxt "items.description"
 msgid "What's this for? Physics lab?"
-msgstr "Elle sert à quoi ? À un labo de physique ?"
+msgstr "Elle sert à quoi ? C'est pour un labo de physique ?"
 
 #. ID 16
 msgctxt "items.name"
@@ -1544,7 +1544,7 @@ msgstr ""
 #. ID 3
 msgctxt "states.name"
 msgid "Awake"
-msgstr "Éveillé"
+msgstr "Éveil"
 
 #. ID 4
 msgctxt "states.name"
@@ -1971,7 +1971,7 @@ msgstr ""
 
 msgctxt "terms.normal_status"
 msgid "Awake"
-msgstr "Éveillé"
+msgstr "Éveil"
 
 msgctxt "terms.lvl_short"
 msgid "E"

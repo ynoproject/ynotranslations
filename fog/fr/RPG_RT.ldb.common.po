@@ -64,7 +64,7 @@ msgstr "[Luciole]"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "[Microphone]"
-msgstr ""
+msgstr "[Micro]"
 
 #. ID 12, Line 15
 #. ChangeHeroTitle (Actor 1)
@@ -206,7 +206,7 @@ msgstr "                      Luciole"
 
 #. ID 55, Line 122
 msgid "\\_                    Microphone"
-msgstr ""
+msgstr "                       Micro"
 
 #. ID 55, Line 128
 #. ID 55, Line 276
