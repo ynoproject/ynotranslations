@@ -1,11 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: es\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -120,7 +117,7 @@ msgstr "Convertirse en una arroba (\"@\")."
 #. ID 6
 msgctxt "skills.name"
 msgid "$lBanshee"
-msgstr ""
+msgstr "$lBanshee"
 
 #. ID 6
 msgctxt "skills.description"
@@ -299,7 +296,7 @@ msgstr "$lLámpara"
 #. ID 24
 msgctxt "skills.description"
 msgid "Carry an oil lamp. (Shines light)"
-msgstr "Llevar una lámpara de aceite. (Illuminando)"
+msgstr "Llevar una lámpara de aceite. (Se ilumina)"
 
 #. ID 25
 msgctxt "skills.name"
@@ -319,7 +316,7 @@ msgstr "$lMariquita"
 #. ID 26
 msgctxt "skills.description"
 msgid "Become a ladybug."
-msgstr "Convertirse literalmente en una mariquita."
+msgstr "Convertirse en una mariquita."
 
 #. ID 27
 msgctxt "skills.name"
@@ -359,7 +356,7 @@ msgstr "$kCaja naranja"
 #. ID 31
 msgctxt "skills.description"
 msgid "Give it to Black GREG in Heaven."
-msgstr "Désela a GREG Negro en el cielo blanco."
+msgstr "Désela a Black GREG en el cielo blanco."
 
 #. ID 32
 msgctxt "skills.name"
@@ -418,8 +415,8 @@ msgstr "$kCaja blanca"
 
 #. ID 37
 msgctxt "skills.description"
-msgid "Give it to the sleeper in the Rainbow Maze."
-msgstr "Désela al durmiente en el laberinto arcoiris."
+msgid "Give it to Emil in the Rainbow Maze."
+msgstr "Désela a Emil en el laberinto arcoíris."
 
 #. ID 38
 msgctxt "skills.name"
@@ -569,7 +566,7 @@ msgstr "Gorro"
 #. ID 8
 msgctxt "items.description"
 msgid "This is Martha's. Is she okay?"
-msgstr "Es el de Martha. ¿Está bien?"
+msgstr "Es de Martha. ¿Está bien?"
 
 #. ID 9
 msgctxt "items.name"
@@ -598,8 +595,8 @@ msgstr "Revista"
 
 #. ID 11
 msgctxt "items.description"
-msgid "Definitely not \"kid stuff.\""
-msgstr "Definitivamente no es \"cosas de niños.\""
+msgid "It's about heavy metal."
+msgstr "Se trata de heavy metal."
 
 #. ID 12
 msgctxt "items.name"
@@ -769,7 +766,7 @@ msgstr "Retrato"
 #. ID 28
 msgctxt "items.description"
 msgid "This was us..."
-msgstr "Fuimos nosotros..."
+msgstr "Fuimos nosotras..."
 
 #. ID 29
 msgctxt "items.name"
@@ -799,7 +796,7 @@ msgstr "Cuello con campana"
 #. ID 31
 msgctxt "items.description"
 msgid "Don't ask."
-msgstr "No pregunta."
+msgstr "No me pregunta."
 
 #. ID 32
 msgctxt "items.name"
@@ -1927,15 +1924,15 @@ msgstr "Salir"
 
 msgctxt "terms.new_game"
 msgid " START"
-msgstr " INICIO"
+msgstr "INICIO"
 
 msgctxt "terms.load_game"
 msgid " CONTINUE "
-msgstr " CONTINUAR "
+msgstr "CONTINUAR"
 
 msgctxt "terms.exit_game"
 msgid " EXIT"
-msgstr " SALIR"
+msgstr "SALIR"
 
 msgctxt "terms.status"
 msgid "Status"
@@ -2039,11 +2036,11 @@ msgstr "¿Salir del juego? Perdirá progreso no guardado."
 
 msgctxt "terms.yes"
 msgid " YES "
-msgstr " SÍ "
+msgstr "SÍ"
 
 msgctxt "terms.no"
 msgid " NO"
-msgstr " NO "
+msgstr "NO"
 
 msgctxt "terms.easyrpg_item_number_separator"
 msgid "default_term"
@@ -2120,3 +2117,4 @@ msgstr ""
 msgctxt "terms.easyrpg_battle2k3_item"
 msgid "default_term"
 msgstr ""
+
