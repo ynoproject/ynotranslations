@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 5, Page 1, Line 10, Pos (11,24)
+msgid ""
+"\\c[6]FOG\\c[0] \\c[4]v0.1.42\\c[0]\n"
+"Copyright 2015-2022 \\c[9]ROSEGORM\\c[0].\n"
+"\\c[9]https://rosegorm.itch.io/fog/\\c[0]"
+msgstr ""
+"\\c[6]FOG\\c[0] \\c[4]v0.1.51\\c[0]\n"
+"Copyright 2015-2026 \\c[9]ROSEGORM\\c[0].\n"
+"\\c[9]https://rosegorm.itch.io/fog/\\c[0]"
+
+#. ID 5, Page 1, Line 16, Pos (11,24)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Enter the Debug Room?\n"
+"\\c[11]It may spoil or break the game.\\c[0]"
+msgstr ""
+"Entrer dans la Salle de Débogage ?\n"
+"\\c[11]Vous pourriez vous faire spoiler ou casser le jeu.\\c[0]"
+
+#. ID 5, Page 1, Line 18, Pos (11,24)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Oui\n"
+"Non"
+
+#. ID 5, Page 1, Line 29, Pos (11,24)
+msgid ""
+"In FOG, everything\n"
+"happens for a reason.\n"
+"\\|\\|\\|\n"
+"Maybe."
+msgstr ""
+"Dans FOG, tout\n"
+"se passe pour une raison.\n"
+"\\|\\|\\|\n"
+"Peut-être."
+
+#. ID 5, Page 1, Line 44, Pos (11,24)
+msgid "Pick a number."
+msgstr "Choisis un nombre."
+
+#. ID 5, Page 1, Line 57, Pos (11,24)
+msgid "No endings are implemented yet."
+msgstr "Aucune fin n'a été implémentée pour le moment."

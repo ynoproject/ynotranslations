@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
-"Language: es\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.6\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 3, Line 16
 #. ChangeHeroTitle (Actor 1)
@@ -46,7 +42,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "[Deadpan]"
-msgstr "[Sin Expr.]"
+msgstr "[Sin expr.]"
 
 #. ID 9, Line 15
 #. ChangeHeroTitle (Actor 1)
@@ -174,293 +170,293 @@ msgstr "[Escala]"
 
 #. ID 55, Line 74
 msgid "\\_                      Photon"
-msgstr "                       Fotón"
+msgstr "    $t Fotón"
 
 #. ID 55, Line 80
 msgid "                     Bug Spray"
-msgstr "                     Repelente"
+msgstr "    $t Repelente"
 
 #. ID 55, Line 86
 msgid "\\_                    Flashlight"
-msgstr "                     \\_Linterna"
+msgstr "    $t Linterna"
 
 #. ID 55, Line 92
 msgid "                      At Sign"
-msgstr "                      \\_Arroba"
+msgstr "    $t Arroba"
 
 #. ID 55, Line 98
 msgid "                      Banshee"
-msgstr ""
+msgstr "    $t Banshee"
 
 #. ID 55, Line 104
 msgid "                      Deadpan"
-msgstr "                   Sin expresión"
+msgstr "    $t Sin expresión"
 
 #. ID 55, Line 110
 msgid "\\_                      Bottle"
-msgstr "                      Botella"
+msgstr "    $t Botella"
 
 #. ID 55, Line 116
 msgid "                      Firefly"
-msgstr "                    \\_Luciérnaga"
+msgstr "    $t Luciérnaga"
 
 #. ID 55, Line 122
 msgid "\\_                    Microphone"
-msgstr "                     Micrófono"
+msgstr "    $t Micrófono"
 
 #. ID 55, Line 128
 #. ID 55, Line 276
 #. ID 55, Line 436
 msgid "                        Key"
-msgstr "                       Llave"
+msgstr "    $t Llave"
 
 #. ID 55, Line 134
 msgid "\\_                      8 Ball"
-msgstr "                      \\_Bola 8"
+msgstr "    $t Bola 8"
 
 #. ID 55, Line 140
 msgid "                       Robot"
-msgstr ""
+msgstr "    $t Robot"
 
 #. ID 55, Line 146
 msgid "\\_                    Monochrome"
-msgstr "                     Monocromo"
+msgstr "    $t Monocromo"
 
 #. ID 55, Line 151
 msgid "                   * Rain Boots"
-msgstr "                 * Botas de lluvia"
+msgstr "    $t * Botas de lluvia"
 
 #. ID 55, Line 156
 msgid "                  * Stress Balls"
-msgstr "                 * Bolas de estrés"
+msgstr "    $t * Bolas de estrés"
 
 #. ID 55, Line 161
 msgid "\\_                     * Laptop"
-msgstr "              \\_* Computadora portátil"
+msgstr "    $t * Computadora portátil"
 
 #. ID 55, Line 166
 msgid "\\_                   * Paintbrush"
-msgstr "               \\_* Cepillo de pintura"
+msgstr "    $t * Cepillo de pintura"
 
 #. ID 55, Line 171
 msgid "                      * Radio"
-msgstr ""
+msgstr "    $t * Radio"
 
 #. ID 55, Line 176
 msgid "                   * Floppy Disk"
-msgstr "                 \\_* Disco flexible"
+msgstr "    $t * Disco flexible"
 
 #. ID 55, Line 181
 msgid "                   * Jawbreaker"
-msgstr "               * Quebrador de fauces"
+msgstr "    $t * Quebrador de fauces"
 
 #. ID 55, Line 186
 msgid "\\_                    * Beanie"
-msgstr "                      * Gorro"
+msgstr "    $t * Gorro"
 
 #. ID 55, Line 191
 msgid "                     * Incense"
-msgstr "                    \\_* Incienso"
+msgstr "    $t * Incienso"
 
 #. ID 55, Line 196
 msgid "\\_                   * Cell Phone"
-msgstr "                 \\_* Teléfono móvil"
+msgstr "    $t * Teléfono móvil"
 
 #. ID 55, Line 201
 msgid "                       * Pen"
-msgstr "                    * Bolígrafo"
+msgstr "    $t * Bolígrafo"
 
 #. ID 55, Line 206
 msgid "\\_                    * Magazine"
-msgstr "                     * Revista"
+msgstr "    $t * Revista"
 
 #. ID 55, Line 211
 msgid "\\_                   * Comic Book"
-msgstr "                  \\_* Libro cómico"
+msgstr "    $t * Libro cómico"
 
 #. ID 55, Line 216
 msgid "\\_                   * Space Suit"
-msgstr "                 \\_* Traje espacial"
+msgstr "    $t * Traje espacial"
 
 #. ID 55, Line 221
 msgid "\\_                   * Puzzle Box"
-msgstr "              \\_* Caja de rompecabezas"
+msgstr "    $t * Caja de rompecabezas"
 
 #. ID 55, Line 226
 msgid "\\_                     * Potato"
-msgstr "                      \\_* Papa"
+msgstr "    $t * Papa"
 
 #. ID 55, Line 231
 msgid "                      * Beret"
-msgstr "                      * Boina"
+msgstr "    $t * Boina"
 
 #. ID 55, Line 236
 msgid "\\_                   * Cappuccino"
-msgstr "                    * Capuchino"
+msgstr "    $t * Capuchino"
 
 #. ID 55, Line 241
 msgid "                     * Crystal"
-msgstr "                     * Cristal"
+msgstr "    $t * Cristal"
 
 #. ID 55, Line 246
 msgid "                   * Dark Matter"
-msgstr "                 \\_* Materia oscura"
+msgstr "    $t * Materia oscura"
 
 #. ID 55, Line 252
 msgid "                     Alternate"
-msgstr "                    Alternativa"
+msgstr "    $t Alternativa"
 
 #. ID 55, Line 258
 msgid "                       Onion"
-msgstr "                      Cebolla"
+msgstr "    $t Cebolla"
 
 #. ID 55, Line 264
 msgid "                      Bug Net"
-msgstr "                        Red"
+msgstr "    $t Red"
 
 #. ID 55, Line 270
 msgid "                       Lamia"
-msgstr ""
+msgstr "    $t Lamia"
 
 #. ID 55, Line 282
 msgid "                       Clown"
-msgstr "                      \\_Payasa"
+msgstr "    $t Payasa"
 
 #. ID 55, Line 288
 msgid "                    Cheerleader"
-msgstr "                     \\_Porrista"
+msgstr "    $t Porrista"
 
 #. ID 55, Line 294
 msgid "\\_                  Starter Pistol"
-msgstr "                      Pistola"
+msgstr "    $t Pistola"
 
 #. ID 55, Line 300
 msgid "\\_                       Neon"
-msgstr "                       \\_Neón"
+msgstr "    $t Neón"
 
 #. ID 55, Line 306
 msgid "\\_                       Lamp"
-msgstr "                      Lámpara"
+msgstr "    $t Lámpara"
 
 #. ID 55, Line 312
 msgid "                      Uniform"
-msgstr "                     \\_Uniforme"
+msgstr "    $t Uniforme"
 
 #. ID 55, Line 318
 msgid "                      Ladybug"
-msgstr "                     Mariquita"
+msgstr "    $t Mariquita"
 
 #. ID 55, Line 324
 msgid "                     Grayscale"
-msgstr "                 \\_Escala de grises"
+msgstr "    $t Escala de grises"
 
 #. ID 55, Line 329
 msgid "                      * Pager"
-msgstr "                  * Buscapersonas"
+msgstr "    $t * Buscapersonas"
 
 #. ID 55, Line 334
 msgid "\\_                     * Cherry"
-msgstr "                     \\_* Cereza"
+msgstr "    $t * Cereza"
 
 #. ID 55, Line 339
 msgid "                    * Portrait"
-msgstr "                     * Retrato"
+msgstr "    $t * Retrato"
 
 #. ID 55, Line 344
 msgid "\\_                     * Pencil"
-msgstr "                      * Lápiz"
+msgstr "    $t * Lápiz"
 
 #. ID 55, Line 349
 msgid "                     * Glasses"
-msgstr "                    \\_* Anteojos"
+msgstr "    $t * Anteojos"
 
 #. ID 55, Line 354
 msgid "                   * Bell Collar"
-msgstr "               \\_* Cuello con campana"
+msgstr "    $t * Cuello con campana"
 
 #. ID 55, Line 359
 msgid "\\_                     * Bottle"
-msgstr "                     * Botella"
+msgstr "    $t * Botella"
 
 #. ID 55, Line 364
 msgid "                    * Newspaper"
-msgstr "                    * Periódico"
+msgstr "    $t * Periódico"
 
 #. ID 55, Line 369
 msgid "\\_                     * Needle"
-msgstr "                      * Aguja"
+msgstr "    $t * Aguja"
 
 #. ID 55, Line 374
 msgid "                     * Eyeball"
-msgstr "                  \\_* Globo ocular"
+msgstr "    $t * Globo ocular"
 
 #. ID 55, Line 379
 msgid "                      * Heart"
-msgstr "                     * Corazón"
+msgstr "    $t * Corazón"
 
 #. ID 55, Line 384
 msgid "\\_                     * Guitar"
-msgstr "                    \\_* Guitarra"
+msgstr "    $t * Guitarra"
 
 #. ID 55, Line 389
 msgid "\\_                   * Sketchbook"
-msgstr "                 \\_* Bloc de dibujo"
+msgstr "    $t * Bloc de dibujo"
 
 #. ID 55, Line 394
 msgid "\\_                  * Bloody Knife"
-msgstr "               * Cuchillo sangriento"
+msgstr "    $t * Cuchillo sangriento"
 
 #. ID 55, Line 399
 msgid "\\_                   * Red Marker"
-msgstr "                 \\_* Rotulador rojo"
+msgstr "    $t * Rotulador rojo"
 
 #. ID 55, Line 404
 msgid "                      * Skull"
-msgstr "                     \\_* Cráneo"
+msgstr "    $t * Cráneo"
 
 #. ID 55, Line 409
 msgid "\\_                      * Wart"
-msgstr "                     * Verruga"
+msgstr "    $t * Verruga"
 
 #. ID 55, Line 414
 msgid "\\_                 * Martha's Voice"
-msgstr "                  * Voz de Martha"
+msgstr "    $t * Voz de Martha"
 
 #. ID 55, Line 419
 msgid "                   * Dream Diary"
-msgstr "                \\_* Diario de sueños"
+msgstr "    $t * Diario de sueños"
 
 #. ID 55, Line 424
 msgid "\\_                 * Fidget Spinner"
-msgstr "               \\_* Hilandero inquieto"
+msgstr "    $t * Hilandero inquieto"
 
 #. ID 55, Line 430
 msgid "                       Mouse"
-msgstr "                       Ratón"
+msgstr "    $t Ratón"
 
 #. ID 55, Line 441
 msgid "                      * Spork"
-msgstr "                 * Cuchara-tenedor"
+msgstr "    $t * Cuchara-tenedor"
 
 #. ID 55, Line 446
 msgid "                    * Medallion"
-msgstr "                    \\_* Medallón"
+msgstr "    $t * Medallón"
 
 #. ID 55, Line 451
 msgid "\\_                  * Piece of Fog"
-msgstr "                \\_* Pedazo de niebla"
+msgstr "    $t * Pedazo de niebla"
 
 #. ID 55, Line 456
 msgid "                    * Dunce Cap"
-msgstr "                 \\_* Gorra de burro"
+msgstr "    $t * Gorra de burro"
 
 #. ID 55, Line 461
 msgid "                  * Worn Out Book"
-msgstr "                  * Libro gastado"
+msgstr "    $t * Libro gastado"
 
 #. ID 55, Line 471
 msgid "\\_                       ????"
-msgstr "                       \\_¿¿??"
+msgstr "    $t ????"
 
 #. ID 56, Line 4
 #. ChangeHeroTitle (Actor 1)
@@ -487,3 +483,4 @@ msgid ""
 "\n"
 "\\|\\|\\|\\>The next dream will be different.\\<"
 msgstr ""
+

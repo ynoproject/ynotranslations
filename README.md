@@ -128,7 +128,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Artyomak - Ukrainian translation of Yume 2kki, Deep Dreams, Ultra Violet
 * Aya - Initial French translation of Yume 2kki
 * BinRecycle - Korean translation of the Memory Game from Yume 2kki
-* Carbonara - French translation of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, If, Unaccomplished, `[COLD]`, Love You; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
+* Carbonara - French translation of Yume Nikki, .flow, Deep Dreams, Someday, Uneven Dream, Braingirl, Muma|Rope, Dream Genie, Mikan Muzou, Ultra Violet, She Awaits, Oversomnia, nostAlgic, If, Unaccomplished, `[COLD]`, FOG, Love You; Misc edits and fixes on the Chinese translation of Yume Nikki, English translation of Yume 2kki, Mikan Muzou, French translation of Answered Prayers; Jigsaw Puzzle World, Plated Snow Country menu, Quick effect menu, Database for the English translation of Yume 2kki; Picture editing help on the Spanish translation of Yume 2kki, Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream, Brazilian Portuguese translation of Yume 2kki; Update of Someday's translations; Testing and maintenance
 * Catmat (貓毯) - Porting and maintenance of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
 * CDMilky - Romanian translation of Yume 2kki
 * chillcicada (寒蝉) - Chinese translation of Muma|Rope
@@ -193,7 +193,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * YouArentDistorted (yugamineena) - English translation of Ultra Violet, nostAlgic, If; Wavy Up, Gimmick Runner, Plated Snow Country & Library's books for the English translation of Yume 2kki
 * Yume 2kki Chinese Translation Group (梦二记汉化组) - Chinese translation of Yume 2kki
   
-The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish version of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
+The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish and Japanese versions of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
 
 ### Special Thanks
 * [EasyRPG Player Developers](https://github.com/EasyRPG/Player/blob/master/docs/AUTHORS.md)
