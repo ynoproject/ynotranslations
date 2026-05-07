@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.9\n"
 
 #. ID 1, Page 1, Line 4, Pos (12,1)
 msgid "                      Scene"
-msgstr "                  Escénico"
+msgstr "                      Escénico"
 
 #. ID 2, Page 1, Line 4, Pos (28,2)
 #. ID 21, Page 1, Line 4, Pos (29,2)

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.9\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -40,7 +40,7 @@ msgstr "Regresar"
 #. ID 1
 msgctxt "items.name"
 msgid "Meat Cleaver"
-msgstr "Cuchillo de Carnicero"
+msgstr "C. Carnicero"
 
 #. ID 1
 #. ID 49
@@ -90,7 +90,7 @@ msgstr "Cine Negro"
 #. ID 53
 msgctxt "items.description"
 msgid "Become an actress in a noir movie."
-msgstr "Conviértete en una actriz en una película de cine negro."
+msgstr "Conviértete en actriz de una película de cine negro."
 
 #. ID 6
 msgctxt "items.name"
@@ -156,7 +156,7 @@ msgstr "Piloto"
 #. ID 59
 msgctxt "items.description"
 msgid "Become a pilot."
-msgstr "Conviértete en un Piloto."
+msgstr "Conviértete en un piloto."
 
 #. ID 12
 msgctxt "items.name"
@@ -227,7 +227,7 @@ msgstr "Yo lo amaba."
 #. ID 49
 msgctxt "items.name"
 msgid "(Meat Cleaver)"
-msgstr "(Cuchillo de Carnicero)"
+msgstr "(C. Carnicero)"
 
 #. ID 50
 msgctxt "items.name"
@@ -329,7 +329,7 @@ msgstr "Deja que esas feas heridas sanen."
 #. ID 100
 msgctxt "items.name"
 msgid "(Healing)"
-msgstr ""
+msgstr "(Curación)"
 
 #. ID 1
 msgctxt "states.name"
