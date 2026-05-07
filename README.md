@@ -173,7 +173,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Niko (Нико) - Spanish translation of Answered Prayers, Muma|Rope, .flow; Spanish translation of Yume 2kki
 * nimiala - Toki Pona translation of Yume Nikki, Yume 2kki
 * Nulsdodage (Wavyup) - Korean translation of Yume 2kki, Someday, English translation of Mikan Muzou
-* Pats - Spanish translation of Yume Nikki, `[COLD]`; Rework of the Spanish translation of .flow
+* Pats - Spanish translation of Yume Nikki, `[COLD]`, Love You; Rework of the Spanish translation of .flow
 * Plush - Italian translation of .flow
 * portal - Initial French translation of Yume 2kki
 * RødGrødMedFløde - Danish translation of Yume Nikki

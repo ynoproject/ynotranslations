@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.9\n"
 
 #. ID 16, Line 18
 #. ChangeHeroTitle (Actor 1)
@@ -26,7 +26,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Meat Cleaver"
-msgstr "Cuchillo de Carnicero"
+msgstr "Carnicero"
 
 #. ID 51, Line 18
 #. ChangeHeroTitle (Actor 1)
@@ -74,7 +74,7 @@ msgstr "Gabardina"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Plague Doc"
-msgstr "Doctor de la Plaga"
+msgstr "Dr. Plaga"
 
 #. ID 59, Line 18
 #. ChangeHeroTitle (Actor 1)
@@ -110,7 +110,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Swan Dress"
-msgstr "Vestido de Cisne"
+msgstr "Cisne"
 
 #. ID 80, Line 16
 #. ChangeHeroTitle (Actor 1)
