@@ -12,34 +12,36 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.4.4\n"
 
-#. ID 4, Page 1, Line 2, Pos (16,2)
+#. ID 4, Page 1, Line 2, Pos (68,1)
 msgid "\\>【製作者のコメント】（仕様変更など、ここに書く）"
 msgstr ""
 "\\>【Developers' Notes】\n"
 "(Write down feature changes etc. here)"
 
-#. ID 4, Page 1, Line 3, Pos (16,2)
+#. ID 4, Page 1, Line 3, Pos (68,1)
 #. Contains choice at line 2 (2 options)
-msgid "読みますか"
-msgstr "Do you want to read it?"
+msgid "読みますか (※制作初期の思い出です)"
+msgstr ""
+"Do you want to read it?\n"
+"(※Memories from the early stages of production)"
 
-#. ID 4, Page 1, Line 4, Pos (16,2)
+#. ID 4, Page 1, Line 4, Pos (68,1)
 #. Choice (2 options, embedded in a message)
-#. ID 74, Page 1, Line 6, Pos (13,14)
+#. ID 74, Page 1, Line 6, Pos (9,11)
 #. Choice (2 options, embedded in a message)
-#. ID 95, Page 1, Line 7, Pos (46,5)
+#. ID 95, Page 1, Line 7, Pos (56,5)
 #. Choice (2 options, embedded in a message)
-#. ID 121, Page 1, Line 11, Pos (18,25)
+#. ID 121, Page 1, Line 11, Pos (28,20)
 #. Choice (2 options, embedded in a message)
-#. ID 141, Page 1, Line 3, Pos (4,18)
+#. ID 141, Page 1, Line 3, Pos (5,18)
 #. Choice (2 options, embedded in a message)
-#. ID 141, Page 1, Line 17, Pos (4,18)
+#. ID 141, Page 1, Line 17, Pos (5,18)
 #. Choice (2 options, embedded in a message)
-#. ID 141, Page 1, Line 70, Pos (4,18)
+#. ID 141, Page 1, Line 70, Pos (5,18)
 #. Choice (2 options, embedded in a message)
-#. ID 153, Page 1, Line 9, Pos (16,25)
+#. ID 153, Page 1, Line 9, Pos (26,20)
 #. Choice (2 options, embedded in a message)
-#. ID 153, Page 1, Line 17, Pos (16,25)
+#. ID 153, Page 1, Line 17, Pos (26,20)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "はい\n"
@@ -48,7 +50,7 @@ msgstr ""
 "Yes\n"
 "No"
 
-#. ID 4, Page 1, Line 6, Pos (16,2)
+#. ID 4, Page 1, Line 6, Pos (68,1)
 msgid ""
 "\\>hal「エフェクト周りのコモンイベント設定がややこし\n"
 "\\>いので注意。"
@@ -56,19 +58,19 @@ msgstr ""
 "\\>hal: \"Note that the CEV setting around effects\n"
 "\\>is complicated."
 
-#. ID 4, Page 1, Line 8, Pos (16,2)
+#. ID 4, Page 1, Line 8, Pos (68,1)
 msgid ""
 "\\>新規にエフェクトを作る場合は現実部屋とデバックルー\n"
 "\\>ムに配置してあるイベントの設定を見て周る必要あり」\n"
 "\\>\n"
 "\\>\\C[4]※設定方法が変更になりました。　以下につづく"
 msgstr ""
-"\\>Check the EV setting in Urotsuki's room and\n"
-"\\>in the Debug room before adding effects\".\n"
+"\\>Check the EV setting in Urotsuki's Room and\n"
+"\\>in the Debug Room before adding effects\".\n"
 "\\>\\C[4]※The setting method has been changed.\n"
 "\\>Continue to next page"
 
-#. ID 4, Page 1, Line 12, Pos (16,2)
+#. ID 4, Page 1, Line 12, Pos (68,1)
 msgid ""
 "\\>>>２０\n"
 "\\>ｴﾌｪｸﾄの整理をｺﾓﾝｲﾍﾞﾝﾄで集中管理するようにしました\n"
@@ -78,7 +80,7 @@ msgstr ""
 "\\>Control them intensively through Common Events\n"
 "\\>\\C[4]【Controlling CEVID:0016, 0017, 0018】"
 
-#. ID 4, Page 1, Line 15, Pos (16,2)
+#. ID 4, Page 1, Line 15, Pos (68,1)
 msgid ""
 "\\>新しいｴﾌｪｸﾄを追加したら\n"
 "\\>コモンイベントの0016、0017、0018をそれぞれ修正\n"
@@ -90,7 +92,7 @@ msgstr ""
 "\\>\\C[4]Editing the EV in Urotsuki's Room is no longer\n"
 "\\>\\C[4]necessary."
 
-#. ID 4, Page 1, Line 19, Pos (16,2)
+#. ID 4, Page 1, Line 19, Pos (68,1)
 msgid ""
 "\\>椅子に座るのサンプルイベントを設置しました\n"
 "\\>自分のMAPにコピペでいけます"
@@ -98,7 +100,7 @@ msgstr ""
 "\\>Added sample events for the chairs\n"
 "\\>You can Copy & Paste them"
 
-#. ID 4, Page 1, Line 21, Pos (16,2)
+#. ID 4, Page 1, Line 21, Pos (68,1)
 msgid ""
 "\\>エフェクト対応のサンプルイベントを設置しました\n"
 "\\>自分のMAPにコピペでいけます"
@@ -106,7 +108,7 @@ msgstr ""
 "\\>Added sample events for the effects\n"
 "\\>You can Copy & Paste them"
 
-#. ID 4, Page 1, Line 23, Pos (16,2)
+#. ID 4, Page 1, Line 23, Pos (68,1)
 msgid ""
 "\\>斜め階段のサンプルイベントを設置しました\n"
 "\\>自分のMAPにコピペでいけます"
@@ -114,7 +116,7 @@ msgstr ""
 "\\>Added sample events for diagonal stairs\n"
 "\\>You can Copy & Paste them"
 
-#. ID 4, Page 1, Line 25, Pos (16,2)
+#. ID 4, Page 1, Line 25, Pos (68,1)
 msgid ""
 "\\>これからコピペで何とかなるような\n"
 "\\>サンプルイベントを置いていこうかなと思う"
@@ -122,7 +124,7 @@ msgstr ""
 "\\>I'm planning to make sample events\n"
 "\\>that you can use by Copying & Pasting them"
 
-#. ID 4, Page 1, Line 27, Pos (16,2)
+#. ID 4, Page 1, Line 27, Pos (68,1)
 msgid ""
 "\\>\\c[2]◆9G8(ry\\c[0]\\<\n"
 "「\\c[4]自販機のEVをコモンイベントから\n"
@@ -134,7 +136,7 @@ msgstr ""
 "from the Common Event\\c[0]\\!\n"
 "For more details, check the CEV list\""
 
-#. ID 4, Page 1, Line 31, Pos (16,2)
+#. ID 4, Page 1, Line 31, Pos (68,1)
 msgid ""
 "\\>\\c[2]◆9G8(ry\\c[0]\\<\n"
 "「それに合わせて各マップの自販機イベントを\n"
@@ -146,7 +148,7 @@ msgstr ""
 "for each map. There may be omissions,\n"
 "so please check your map\""
 
-#. ID 5, Page 1, Line 7, Pos (17,2)
+#. ID 5, Page 1, Line 7, Pos (18,2)
 #. Choice (4 options)
 msgid ""
 "\\>>>>>>　　神速\n"
@@ -159,11 +161,11 @@ msgstr ""
 "\\>>>>　A little faster than default\n"
 "\\>>　Slow　*Cancel for default"
 
-#. ID 5, Page 1, Line 30, Pos (17,2)
+#. ID 5, Page 1, Line 30, Pos (18,2)
 msgid "\\>歩行速度 \\V[45] になりました。"
 msgstr "\\>Walking speed has been set to \\V[45]."
 
-#. ID 6, Page 1, Line 2, Pos (18,2)
+#. ID 6, Page 1, Line 2, Pos (17,2)
 #. Choice (2 options)
 msgid ""
 "\\>エフェクト全取得\n"
@@ -172,15 +174,15 @@ msgstr ""
 "\\>Obtain all effects\n"
 "\\>Discard all effects"
 
-#. ID 6, Page 1, Line 15, Pos (18,2)
+#. ID 6, Page 1, Line 15, Pos (17,2)
 msgid "\\>全てのエフェクトを取得しました"
 msgstr "\\>Obtained all effects"
 
-#. ID 6, Page 1, Line 25, Pos (18,2)
+#. ID 6, Page 1, Line 25, Pos (17,2)
 msgid "\\>全てのエフェクトを破棄しました"
 msgstr "\\>Discarded all effects"
 
-#. ID 7, Page 1, Line 5, Pos (22,3)
+#. ID 7, Page 1, Line 5, Pos (32,3)
 msgid ""
 "\\>黒電話\n"
 "\\>「くろでんわ」エフェクトを手に入れました"
@@ -188,7 +190,7 @@ msgstr ""
 "\\>Telephone\n"
 "\\>Obtained Telephone effect"
 
-#. ID 7, Page 1, Line 7, Pos (22,3)
+#. ID 7, Page 1, Line 7, Pos (32,3)
 msgid ""
 "\\>黒電話\n"
 "\\>「変身後、決定キー長押しで音が鳴る\n"
@@ -198,7 +200,7 @@ msgstr ""
 "\\>Hold Enter to ring\n"
 "\\> Its graphic has slightly been changed"
 
-#. ID 7, Page 2, Line 5, Pos (22,3)
+#. ID 7, Page 2, Line 5, Pos (32,3)
 msgid ""
 "\\>黒電話\n"
 "\\>「くろでんわ」エフェクトを破棄しました"
@@ -206,7 +208,7 @@ msgstr ""
 "\\>Telephone\n"
 "\\>Discarded Telephone effect"
 
-#. ID 8, Page 1, Line 5, Pos (24,3)
+#. ID 8, Page 1, Line 5, Pos (34,3)
 msgid ""
 "\\>おとこのこ\n"
 "\\>「おとこのこ」エフェクトを手に入れました。"
@@ -214,7 +216,7 @@ msgstr ""
 "\\>Boy\n"
 "\\>Obtained Boy effect."
 
-#. ID 8, Page 1, Line 7, Pos (24,3)
+#. ID 8, Page 1, Line 7, Pos (34,3)
 msgid ""
 "\\>おとこのこ\n"
 "\\>「効果はその場に座る、そして立ち上がる、です。"
@@ -222,7 +224,7 @@ msgstr ""
 "\\>Boy\n"
 "\\>Hold Enter to sit/stand up."
 
-#. ID 8, Page 2, Line 5, Pos (24,3)
+#. ID 8, Page 2, Line 5, Pos (34,3)
 msgid ""
 "\\>黒電話\n"
 "\\>「おとこのこ」エフェクトを破棄しました"
@@ -230,7 +232,7 @@ msgstr ""
 "\\>Boy\n"
 "\\>Discarded Boy effect"
 
-#. ID 9, Page 1, Line 5, Pos (26,3)
+#. ID 9, Page 1, Line 5, Pos (36,3)
 msgid ""
 "\\>「チェーンソー」エフェクトを手に入れました\n"
 "\\>\n"
@@ -240,7 +242,7 @@ msgstr ""
 "\\>Obtained Chainsaw effect\n"
 "\\>Tap or hold Enter to use"
 
-#. ID 9, Page 1, Line 8, Pos (26,3)
+#. ID 9, Page 1, Line 8, Pos (36,3)
 msgid ""
 "\\>　長押しのみで発動にすると\n"
 "\\>　イベント的に色々面倒なので、\n"
@@ -251,7 +253,7 @@ msgstr ""
 "\\>troublesome. So tap to use can work too for\n"
 "\\>\\C[4]objects with behavior.\\C[0]"
 
-#. ID 9, Page 1, Line 12, Pos (26,3)
+#. ID 9, Page 1, Line 12, Pos (36,3)
 msgid ""
 "\\>サンプルイベントで、やられキャラを作りましたので、\n"
 "\\>各製作者は、中身を見て任意で対応させてください。"
@@ -259,13 +261,13 @@ msgstr ""
 "\\>I made several test dummies at the sample event area,\n"
 "\\>so please check them by yourself."
 
-#. ID 9, Page 2, Line 5, Pos (26,3)
+#. ID 9, Page 2, Line 5, Pos (36,3)
 msgid "\\>「チェーンソー」エフェクトを破棄しました"
 msgstr ""
 "\\>Chainsaw\n"
 "\\>Discarded Chainsaw effect"
 
-#. ID 10, Page 1, Line 5, Pos (28,3)
+#. ID 10, Page 1, Line 5, Pos (38,3)
 msgid ""
 "\\>カンテラ\n"
 "\\>「カンテラ」エフェクトを手に入れました"
@@ -273,7 +275,7 @@ msgstr ""
 "\\>Lantern\n"
 "\\>Obtained Lantern effect"
 
-#. ID 10, Page 1, Line 7, Pos (28,3)
+#. ID 10, Page 1, Line 7, Pos (38,3)
 msgid ""
 "\\>カンテラを持ちます。\n"
 "\\>決定キー長押しで火力を一瞬上げます。"
@@ -281,7 +283,7 @@ msgstr ""
 "\\>Carry a lantern.\n"
 "\\>Hold Enter to blaze your surroundings for a moment."
 
-#. ID 10, Page 2, Line 5, Pos (28,3)
+#. ID 10, Page 2, Line 5, Pos (38,3)
 msgid ""
 "\\>カンテラ\n"
 "\\>「カンテラ」エフェクトを破棄しました"
@@ -289,7 +291,7 @@ msgstr ""
 "\\>Lantern\n"
 "\\>Discarded Lantern effect"
 
-#. ID 11, Page 1, Line 5, Pos (30,3)
+#. ID 11, Page 1, Line 5, Pos (40,3)
 msgid ""
 "\\>「ようせい」エフェクトを手に入れました\n"
 "\\>　特殊動作は　まわるです"
@@ -298,13 +300,13 @@ msgstr ""
 "\\>Obtained Fairy effect\n"
 "\\> Hold Enter to spin"
 
-#. ID 11, Page 2, Line 5, Pos (30,3)
+#. ID 11, Page 2, Line 5, Pos (40,3)
 msgid "\\>「ようせい」エフェクトを破棄しました"
 msgstr ""
 "\\>Fairy\n"
 "\\> Discarded Fairy effect"
 
-#. ID 12, Page 1, Line 5, Pos (22,5)
+#. ID 12, Page 1, Line 5, Pos (32,5)
 msgid ""
 "\\>「宇宙服」エフェクトを手に入れました\n"
 "\\>　くるりと宙返りをします"
@@ -313,7 +315,7 @@ msgstr ""
 "\\>Obtained Spacesuit\n"
 "\\>Hold enter to do a somersault"
 
-#. ID 12, Page 2, Line 5, Pos (22,5)
+#. ID 12, Page 2, Line 5, Pos (32,5)
 msgid ""
 "\\>\n"
 "\\>「宇宙服」エフェクトを破棄しました"
@@ -321,7 +323,7 @@ msgstr ""
 "\\>Spacesuit\n"
 "\\>Discarded Spacesuit effect"
 
-#. ID 13, Page 1, Line 5, Pos (24,5)
+#. ID 13, Page 1, Line 5, Pos (34,5)
 msgid ""
 "\\>「メガネ」エフェクトを手に入れました\n"
 "\\>特殊動作は「クイッと上げる」です"
@@ -329,13 +331,13 @@ msgstr ""
 "\\>Glasses\n"
 "\\>Hold Enter to adjust your glasses"
 
-#. ID 13, Page 2, Line 5, Pos (24,5)
+#. ID 13, Page 2, Line 5, Pos (34,5)
 msgid "\\>「メガネ」エフェクトを破棄しました"
 msgstr ""
 "\\>Glasses\n"
 "\\>Discarded Glasses effect"
 
-#. ID 14, Page 1, Line 5, Pos (26,5)
+#. ID 14, Page 1, Line 5, Pos (36,5)
 msgid ""
 "\\>「虹」エフェクトを手に入れました\n"
 "\\>　特殊動作は　光るです"
@@ -344,13 +346,13 @@ msgstr ""
 "\\>Obtained Rainbow effect\n"
 "\\>Hold Enter to shine"
 
-#. ID 14, Page 2, Line 5, Pos (26,5)
+#. ID 14, Page 2, Line 5, Pos (36,5)
 msgid "\\>「虹」エフェクトを破棄しました"
 msgstr ""
 "\\>Rainbow\n"
 "\\>Discarded Rainbow effect"
 
-#. ID 15, Page 1, Line 5, Pos (28,5)
+#. ID 15, Page 1, Line 5, Pos (38,5)
 msgid ""
 "\\>「オオカミ」エフェクトを手に入れました\n"
 "\\>特殊動作は「遠吠え」で、\n"
@@ -361,13 +363,13 @@ msgstr ""
 "\\>Hold Enter to howl. In contrast to the Cat\n"
 "\\>effect, the characters will scatter when used."
 
-#. ID 15, Page 2, Line 5, Pos (28,5)
+#. ID 15, Page 2, Line 5, Pos (38,5)
 msgid "\\>「オオカミ」エフェクトを破棄しました"
 msgstr ""
 "\\>Wolf\n"
 "\\>Discarded Wolf effect"
 
-#. ID 16, Page 1, Line 5, Pos (30,5)
+#. ID 16, Page 1, Line 5, Pos (40,5)
 msgid ""
 "\\>「めだまばくだん」エフェクトを手に入れました\n"
 "\\>設置場所：0142 ＦＣ迷宮\n"
@@ -377,15 +379,15 @@ msgstr ""
 "\\>Eyeball Bomb\n"
 "\\>Obtained Eyeball Bomb\n"
 "\\>Location: Map #0142 Mini-Maze\n"
-"\\>Hold Enter to return to The Nexus."
+"\\>Hold Enter to return to the Nexus."
 
-#. ID 16, Page 2, Line 5, Pos (30,5)
+#. ID 16, Page 2, Line 5, Pos (40,5)
 msgid "\\>「めだまばくだん」エフェクトを破棄しました"
 msgstr ""
 "\\>Eyeball Bomb\n"
 "\\>Discarded Eyeball Bomb effect"
 
-#. ID 17, Page 1, Line 5, Pos (22,7)
+#. ID 17, Page 1, Line 5, Pos (32,7)
 msgid ""
 "\\>「バイク」エフェクトを手に入れました\n"
 "\\> 長押しするとウイリーします"
@@ -394,13 +396,13 @@ msgstr ""
 "\\>Obtained Bike effect\n"
 "\\>Hold Enter to do a wheelie"
 
-#. ID 17, Page 2, Line 5, Pos (22,7)
+#. ID 17, Page 2, Line 5, Pos (32,7)
 msgid "\\>「ばいく」エフェクトを破棄しました"
 msgstr ""
 "\\>Bike\n"
 "\\>Discarded Bike effect"
 
-#. ID 18, Page 1, Line 5, Pos (24,7)
+#. ID 18, Page 1, Line 5, Pos (34,7)
 msgid ""
 "\\>「まいこ」エフェクトを手に入れました\n"
 "\\>長押しするとお辞儀します。"
@@ -409,13 +411,13 @@ msgstr ""
 "\\>Obtained Maiko effect\n"
 "\\>Hold Enter to bow."
 
-#. ID 18, Page 2, Line 5, Pos (24,7)
+#. ID 18, Page 2, Line 5, Pos (34,7)
 msgid "\\>「まいこ」エフェクトを破棄しました"
 msgstr ""
 "\\>Maiko\n"
 "\\>Discarded Maiko effect"
 
-#. ID 19, Page 1, Line 5, Pos (26,7)
+#. ID 19, Page 1, Line 5, Pos (36,7)
 msgid ""
 "\\>「ついんてーる」エフェクトを手に入れました\n"
 "\\>長押しすると、ゆるーい蹴りを繰り出します\n"
@@ -427,19 +429,19 @@ msgstr ""
 "\\>There is only left and right kicking graphics, so\n"
 "\\>be careful when you make objects with this behavior"
 
-#. ID 19, Page 1, Line 9, Pos (26,7)
+#. ID 19, Page 1, Line 9, Pos (36,7)
 msgid "\\>追記：ver0.103dから上下方向にも対応しました"
 msgstr ""
 "\\>Edit: upper and downward direction are available\n"
 "\\>since ver0.103d"
 
-#. ID 19, Page 2, Line 5, Pos (26,7)
+#. ID 19, Page 2, Line 5, Pos (36,7)
 msgid "\\>「ついんてーる」エフェクトを破棄しました"
 msgstr ""
 "\\>Twintails\n"
 "\\>Discarded Twintails effect"
 
-#. ID 20, Page 1, Line 5, Pos (28,7)
+#. ID 20, Page 1, Line 5, Pos (38,7)
 msgid ""
 "\\>「ぺんぎん」エフェクトを拾いました\n"
 "\\>設置場所：0171 うろつき邸\n"
@@ -451,7 +453,7 @@ msgstr ""
 "\\>Location: Map #0171 Urotsuki's Dream Apartments\n"
 "\\>Hold Enter to slide on 5 steps."
 
-#. ID 20, Page 1, Line 9, Pos (28,7)
+#. ID 20, Page 1, Line 9, Pos (38,7)
 msgid ""
 "\\>\\C[4]腹滑り中は以下のイベントが実行されません。\n"
 "\\>「キャラの下・上」で「触れた時に開始」のもの。"
@@ -460,13 +462,13 @@ msgstr ""
 "\\>Trigger: [Player Touch]\n"
 "\\>& Priority: [Above/Below Characters]"
 
-#. ID 20, Page 2, Line 5, Pos (28,7)
+#. ID 20, Page 2, Line 5, Pos (38,7)
 msgid "\\>「ぺんぎん」エフェクトを破棄しました"
 msgstr ""
 "\\>Penguin\n"
 "\\>Discarded Penguin effect"
 
-#. ID 21, Page 1, Line 5, Pos (30,7)
+#. ID 21, Page 1, Line 5, Pos (40,7)
 msgid ""
 "\\>「むし」エフェクトを拾いました\n"
 "\\>長押しの効果すると羽をこすって鳴きます。"
@@ -475,19 +477,19 @@ msgstr ""
 "\\>Obtained Insect effect\n"
 "\\>Hold Enter to ring and flutter your feathers."
 
-#. ID 21, Page 2, Line 5, Pos (30,7)
+#. ID 21, Page 2, Line 5, Pos (40,7)
 msgid "\\>「むし」エフェクトを破棄しました。"
 msgstr ""
 "\\>Insect\n"
 "\\>Discarded Insect effect"
 
-#. ID 22, Page 1, Line 5, Pos (22,9)
+#. ID 22, Page 1, Line 5, Pos (32,9)
 msgid "\\>「バネ」エフェクトを手に入れました"
 msgstr ""
 "\\>Spring\n"
 "\\>Obtained Spring effect"
 
-#. ID 22, Page 1, Line 6, Pos (22,9)
+#. ID 22, Page 1, Line 6, Pos (32,9)
 msgid ""
 "動作指定でジャンプを間に入れたかったが\n"
 "プライオリティ★のところで\n"
@@ -497,13 +499,13 @@ msgstr ""
 "the graphic is gonna be glitched when the\n"
 "Map Chip Priority is [★], so the idea was denied."
 
-#. ID 22, Page 2, Line 5, Pos (22,9)
+#. ID 22, Page 2, Line 5, Pos (32,9)
 msgid "\\>「バネ」エフェクトを破棄しました"
 msgstr ""
 "\\>Spring\n"
 "\\>Discarded Spring effect"
 
-#. ID 23, Page 1, Line 5, Pos (24,9)
+#. ID 23, Page 1, Line 5, Pos (34,9)
 msgid ""
 "\\>「がくラン」エフェクトを手に入れました\n"
 "\\>マントをバサッとさせます"
@@ -512,13 +514,13 @@ msgstr ""
 "\\>Obtained School Boy effect\n"
 "\\>Hold Enter to flap your cloak"
 
-#. ID 23, Page 2, Line 5, Pos (24,9)
+#. ID 23, Page 2, Line 5, Pos (34,9)
 msgid "\\>「がくラン」エフェクトを破棄しました"
 msgstr ""
 "\\>School Boy\n"
 "\\>Discarded School Boy effect"
 
-#. ID 24, Page 1, Line 5, Pos (26,9)
+#. ID 24, Page 1, Line 5, Pos (36,9)
 msgid ""
 "\\>「ギプス」エフェクトを手に入れました\n"
 "\\>ｲﾔ､ﾔﾒﾃ、と喋ります"
@@ -527,13 +529,13 @@ msgstr ""
 "\\>Obtained Plaster Cast\n"
 "\\>Hold Enter to say \"Iya (no)\" and \"Yamete (stop)\""
 
-#. ID 24, Page 2, Line 5, Pos (26,9)
+#. ID 24, Page 2, Line 5, Pos (36,9)
 msgid "\\>「ギプス」エフェクトを破棄しました"
 msgstr ""
 "\\>Plaster Cast\n"
 "\\>Discarded Plaster Cast effect"
 
-#. ID 25, Page 1, Line 5, Pos (28,9)
+#. ID 25, Page 1, Line 5, Pos (38,9)
 msgid ""
 "\\>「せのび」エフェクトを手に入れました\n"
 "\\>長押しで座り、涙をこぼします\n"
@@ -544,13 +546,13 @@ msgstr ""
 "\\>Hold Enter to sit and drop tears\n"
 "\\>It only has left and right graphics"
 
-#. ID 25, Page 2, Line 5, Pos (28,9)
+#. ID 25, Page 2, Line 5, Pos (38,9)
 msgid "\\>「せのび」エフェクトを破棄しました"
 msgstr ""
 "\\>Stretch\n"
 "\\>Discarded Stretch effect"
 
-#. ID 26, Page 1, Line 5, Pos (30,9)
+#. ID 26, Page 1, Line 5, Pos (40,9)
 msgid ""
 "\\>「とうめい」エフェクトを拾いました\n"
 "\\>設置場所：0239\n"
@@ -559,16 +561,16 @@ msgid ""
 msgstr ""
 "\\>Invisible\n"
 "\\>Obtained Invisible effect\n"
-"\\>Location: Map #0239 The Invisible Maze\n"
+"\\>Location: Map #0239 Invisible Maze\n"
 "\\>Hold Enter to become invisible."
 
-#. ID 26, Page 2, Line 5, Pos (30,9)
+#. ID 26, Page 2, Line 5, Pos (40,9)
 msgid "\\>「とうめい」エフェクトを破棄しました"
 msgstr ""
 "\\>Invisible\n"
 "\\>Discarded Invisible effect"
 
-#. ID 27, Page 1, Line 5, Pos (22,11)
+#. ID 27, Page 1, Line 5, Pos (32,11)
 msgid ""
 "\\>「はにわ」エフェクトを手に入れました\n"
 "\\>長押しで額が光ります\n"
@@ -579,13 +581,13 @@ msgstr ""
 "\\>Hold Enter to blink your forehead\n"
 "\\>Some objects react to it"
 
-#. ID 27, Page 2, Line 5, Pos (22,11)
+#. ID 27, Page 2, Line 5, Pos (32,11)
 msgid "\\>「はにわ」エフェクトを破棄しました"
 msgstr ""
 "\\>Haniwa\n"
 "\\>Discarded Haniwa"
 
-#. ID 28, Page 1, Line 5, Pos (24,11)
+#. ID 28, Page 1, Line 5, Pos (34,11)
 msgid ""
 "\\>「トロンボーン」エフェクトを手に入れました\n"
 "\\>長押しで吹きます"
@@ -594,13 +596,13 @@ msgstr ""
 "\\>Obtained Trombone effect\n"
 "\\>Hold Enter to play trombone"
 
-#. ID 28, Page 2, Line 5, Pos (24,11)
+#. ID 28, Page 2, Line 5, Pos (34,11)
 msgid "\\>「トロンボーン」エフェクトを破棄しました"
 msgstr ""
 "\\>Trombone\n"
 "\\>Discarded Trombone effect"
 
-#. ID 29, Page 1, Line 5, Pos (26,11)
+#. ID 29, Page 1, Line 5, Pos (36,11)
 msgid ""
 "\\>「ケーキ」のエフェクトを手に入れました\n"
 "\\>　生クリームがたれてきます。"
@@ -609,13 +611,13 @@ msgstr ""
 "\\>Obtained Cake effect\n"
 "\\>Hold Enter to drip cream."
 
-#. ID 29, Page 2, Line 5, Pos (26,11)
+#. ID 29, Page 2, Line 5, Pos (36,11)
 msgid "\\>「ケーキ」エフェクトを破棄しました"
 msgstr ""
 "\\>Cake\n"
 "\\>Discarded Cake effect"
 
-#. ID 30, Page 1, Line 5, Pos (28,11)
+#. ID 30, Page 1, Line 5, Pos (38,11)
 msgid ""
 "\\>「こども」のエフェクトを手に入れました\n"
 "\\>　ジャンプします。バネと被っていますｗ"
@@ -625,13 +627,13 @@ msgstr ""
 "\\>Hold Enter to jump\n"
 "\\>Same as the Spring effect :/"
 
-#. ID 30, Page 2, Line 5, Pos (28,11)
+#. ID 30, Page 2, Line 5, Pos (38,11)
 msgid "\\>「こども」エフェクトを破棄しました"
 msgstr ""
 "\\>Child\n"
 "\\>Discarded Child effect"
 
-#. ID 31, Page 1, Line 5, Pos (30,11)
+#. ID 31, Page 1, Line 5, Pos (40,11)
 msgid ""
 "\\>「あかずきん」のエフェクトを手に入れました\n"
 "\\>長押しすると、リンゴをかじります"
@@ -640,13 +642,13 @@ msgstr ""
 "\\>Obtained Red Riding Hood effect\n"
 "\\>Hold Enter to bite an apple"
 
-#. ID 31, Page 2, Line 5, Pos (30,11)
+#. ID 31, Page 2, Line 5, Pos (40,11)
 msgid "\\>「あかずきん」エフェクトを破棄しました"
 msgstr ""
 "\\>Red Riding Hood\n"
 "\\>Discarded Red Riding Hood effect"
 
-#. ID 44, Page 1, Line 3, Pos (1,15)
+#. ID 44, Page 1, Line 3, Pos (9,15)
 msgid ""
 "\\>階段イベントサンプルです\n"
 "\\>必要段数をコピペだけでいけます"
@@ -654,21 +656,21 @@ msgstr ""
 "\\>Sample event of stairs\n"
 "\\>Just Copy & Paste how much you want"
 
-#. ID 45, Page 1, Line 1, Pos (14,19)
+#. ID 45, Page 1, Line 1, Pos (11,8)
 msgid "\\>チェーンソーで壊れます"
-msgstr "\\>Can be break by the Chainsaw effect"
+msgstr "\\>Can be broken with the Chainsaw effect."
 
-#. ID 46, Page 1, Line 10, Pos (13,19)
+#. ID 46, Page 1, Line 10, Pos (9,8)
 msgid ""
 "\\>エフェクト「カンテラ」のアクションで\n"
 "\\>火を灯す事ができます。"
-msgstr "\\>You can light it by using the Lantern effect."
+msgstr "\\>You can light it with the Lantern effect."
 
-#. ID 46, Page 3, Line 3, Pos (13,19)
+#. ID 46, Page 3, Line 3, Pos (9,8)
 msgid "\\>火を消しました。"
 msgstr "\\>Fire extinguished."
 
-#. ID 47, Page 1, Line 8, Pos (10,8)
+#. ID 47, Page 1, Line 8, Pos (9,20)
 msgid ""
 "\\>椅子イベント\n"
 "\\>コピペだけでいけるよ\n"
@@ -678,9 +680,7 @@ msgstr ""
 "\\>You can just Copy & Paste me!\n"
 "\\>You can only sit on me from the south."
 
-#. ID 47, Page 1, Line 11, Pos (10,8)
-#. ID 195, Page 1, Line 11, Pos (9,7)
-#. ID 199, Page 1, Line 11, Pos (9,8)
+#. ID 47, Page 1, Line 11, Pos (9,20)
 msgid ""
 "\\>すわる部分のマップチップのプライオリティは必ず×で\n"
 "\\>背もたれの\n"
@@ -691,13 +691,13 @@ msgstr ""
 "\\>Note that if the Map Chip Priority of the backrest\n"
 "\\> is [★], the sitting graphic will be glitchy."
 
-#. ID 49, Page 1, Line 21, Pos (10,7)
+#. ID 49, Page 1, Line 5, Pos (22,2)
 msgid ""
-"\\>椅子イベント2\n"
-"\\>上を向いてないと座れないよ"
+"\\>本当に透明になります\n"
+"\\>もう一度調べると戻ります"
 msgstr ""
-"\\>Chair event 2\n"
-"\\>You only can sit from south"
+"\\>This makes you completely invisible.\n"
+"\\>Interact again to return to normal."
 
 #. ID 52, Page 1, Line 4, Pos (2,7)
 msgid ""
@@ -750,32 +750,32 @@ msgid ""
 "\\>マップIDと座標を指定して移動\n"
 "\\>キャンセル"
 msgstr ""
-"\\>Teleport to specified Map ID\n"
+"\\>Teleport to specified MAP ID\n"
 "\\>Teleport to specified MAP ID and coord\n"
 "\\>Cancel"
 
-#. ID 55, Page 1, Line 2, Pos (10,22)
+#. ID 55, Page 1, Line 2, Pos (15,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "水中"
 msgstr "underwater"
 
-#. ID 55, Page 1, Line 5, Pos (10,22)
+#. ID 55, Page 1, Line 5, Pos (15,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "陸地"
 msgstr "land"
 
-#. ID 55, Page 1, Line 8, Pos (10,22)
+#. ID 55, Page 1, Line 8, Pos (15,13)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>デバッグルームは今、\\N[2]です。\n"
 "\\>ペンギンは陸地だと歩き、水中だと泳ぎます。"
 msgstr ""
-"\\>Currently, the Debug room is set as \\N[2].\n"
+"\\>Currently, the Debug Room is set as \\N[2].\n"
 "\\>The Penguin will walk on land / swim underwater"
 
-#. ID 55, Page 1, Line 10, Pos (10,22)
+#. ID 55, Page 1, Line 10, Pos (15,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "陸地/水中を切り替える\n"
@@ -784,7 +784,7 @@ msgstr ""
 "Switch land/underwater\n"
 "More info"
 
-#. ID 55, Page 1, Line 23, Pos (10,22)
+#. ID 55, Page 1, Line 23, Pos (15,13)
 msgid ""
 "\\>スイッチ[0020:水中歩行中]をONにすると、\n"
 "\\>水の中にいる扱いになります。\n"
@@ -796,7 +796,7 @@ msgstr ""
 "\\>Underwater, the Penguin can swim, but you are\n"
 "\\>unable to use the Lantern and Eyeball Bomb effects."
 
-#. ID 55, Page 1, Line 27, Pos (10,22)
+#. ID 55, Page 1, Line 27, Pos (15,13)
 msgid ""
 "\\>なお、スイッチを操作しただけでは\n"
 "\\>ペンギン等のグラフィックが水中用になりません。\n"
@@ -808,147 +808,147 @@ msgstr ""
 "\\>Call the CEV [0027【Call】Update Effect Graphic]\n"
 "\\>after using the Switch [0020]."
 
-#. ID 57, Page 1, Line 2, Pos (59,6)
+#. ID 57, Page 1, Line 2, Pos (69,1)
 msgid "\\>サウンドテスト　曲番00はBGMOFF"
 msgstr "\\>Sound Test [00 to cancel]"
 
-#. ID 57, Page 1, Line 16, Pos (59,6)
+#. ID 57, Page 1, Line 16, Pos (69,1)
 msgid "\\V[0001]/BGMOFF"
 msgstr ""
 
-#. ID 57, Page 1, Line 21, Pos (59,6)
+#. ID 57, Page 1, Line 21, Pos (69,1)
 msgid "\\V[0001]/626-ryukyu"
 msgstr ""
 
-#. ID 57, Page 1, Line 26, Pos (59,6)
+#. ID 57, Page 1, Line 26, Pos (69,1)
 msgid "\\V[0001]/626-seagull"
 msgstr ""
 
-#. ID 57, Page 1, Line 31, Pos (59,6)
+#. ID 57, Page 1, Line 31, Pos (69,1)
 msgid "\\V[0001]/803-1"
 msgstr ""
 
-#. ID 57, Page 1, Line 36, Pos (59,6)
+#. ID 57, Page 1, Line 36, Pos (69,1)
 msgid "\\V[0001]/932-warm"
 msgstr ""
 
-#. ID 57, Page 1, Line 41, Pos (59,6)
+#. ID 57, Page 1, Line 41, Pos (69,1)
 msgid "\\V[0001]/bgm038"
 msgstr ""
 
-#. ID 57, Page 1, Line 46, Pos (59,6)
+#. ID 57, Page 1, Line 46, Pos (69,1)
 msgid "\\V[0001]/ym2-20-chiukoushin"
 msgstr ""
 
-#. ID 57, Page 1, Line 51, Pos (59,6)
+#. ID 57, Page 1, Line 51, Pos (69,1)
 msgid "\\V[0001]/x-air-Chukka"
 msgstr ""
 
-#. ID 57, Page 1, Line 56, Pos (59,6)
+#. ID 57, Page 1, Line 56, Pos (69,1)
 msgid "\\V[0001]/152-organ33"
 msgstr ""
 
-#. ID 57, Page 1, Line 61, Pos (59,6)
+#. ID 57, Page 1, Line 61, Pos (69,1)
 msgid "\\V[0001]/pipoq"
 msgstr ""
 
-#. ID 57, Page 1, Line 66, Pos (59,6)
+#. ID 57, Page 1, Line 66, Pos (69,1)
 msgid "\\V[0001]/qs0UrDFJ-bgm041"
 msgstr ""
 
-#. ID 57, Page 1, Line 71, Pos (59,6)
+#. ID 57, Page 1, Line 71, Pos (69,1)
 msgid "\\V[0001]/soto-C5"
 msgstr ""
 
-#. ID 57, Page 1, Line 76, Pos (59,6)
+#. ID 57, Page 1, Line 76, Pos (69,1)
 msgid "\\V[0001]/soundshop-89maturi"
 msgstr ""
 
-#. ID 57, Page 1, Line 81, Pos (59,6)
+#. ID 57, Page 1, Line 81, Pos (69,1)
 msgid "\\V[0001]/152-woo"
 msgstr ""
 
-#. ID 57, Page 1, Line 86, Pos (59,6)
+#. ID 57, Page 1, Line 86, Pos (69,1)
 msgid "\\V[0001]/ym2-00_ano deskwork"
 msgstr ""
 
-#. ID 57, Page 1, Line 91, Pos (59,6)
+#. ID 57, Page 1, Line 91, Pos (69,1)
 msgid "\\V[0001]/ym2-02_chii gensyou"
 msgstr ""
 
-#. ID 57, Page 1, Line 96, Pos (59,6)
+#. ID 57, Page 1, Line 96, Pos (69,1)
 msgid "\\V[0001]/ym2-18_nounai matusyou"
 msgstr ""
 
-#. ID 57, Page 1, Line 101, Pos (59,6)
+#. ID 57, Page 1, Line 101, Pos (69,1)
 msgid "\\V[0001]/ym2-19_kuruwasiimonohahaieguru"
 msgstr ""
 
-#. ID 57, Page 1, Line 106, Pos (59,6)
+#. ID 57, Page 1, Line 106, Pos (69,1)
 msgid "\\V[0001]/zaza"
 msgstr ""
 
-#. ID 57, Page 1, Line 111, Pos (59,6)
+#. ID 57, Page 1, Line 111, Pos (69,1)
 msgid "\\V[0001]/kikai004"
 msgstr ""
 
-#. ID 57, Page 1, Line 116, Pos (59,6)
+#. ID 57, Page 1, Line 116, Pos (69,1)
 msgid "\\V[0001]/bgm055"
 msgstr ""
 
-#. ID 57, Page 1, Line 121, Pos (59,6)
+#. ID 57, Page 1, Line 121, Pos (69,1)
 msgid "\\V[0001]/626-tb303"
 msgstr ""
 
-#. ID 57, Page 1, Line 126, Pos (59,6)
+#. ID 57, Page 1, Line 126, Pos (69,1)
 msgid "\\V[0001]/626-india"
 msgstr ""
 
-#. ID 57, Page 1, Line 131, Pos (59,6)
+#. ID 57, Page 1, Line 131, Pos (69,1)
 msgid "\\V[0001]/qs0UrDFJ-bgm054"
 msgstr ""
 
-#. ID 57, Page 1, Line 136, Pos (59,6)
+#. ID 57, Page 1, Line 136, Pos (69,1)
 msgid "\\V[0001]/soto-C8"
 msgstr ""
 
-#. ID 57, Page 1, Line 141, Pos (59,6)
+#. ID 57, Page 1, Line 141, Pos (69,1)
 msgid "\\V[0001]/903-suna001"
 msgstr ""
 
-#. ID 57, Page 1, Line 146, Pos (59,6)
+#. ID 57, Page 1, Line 146, Pos (69,1)
 msgid "\\V[0001]/qs0UrDFJ-title"
 msgstr ""
 
-#. ID 57, Page 1, Line 151, Pos (59,6)
+#. ID 57, Page 1, Line 151, Pos (69,1)
 msgid "\\V[0001]/yumepo06"
 msgstr ""
 
-#. ID 57, Page 1, Line 156, Pos (59,6)
+#. ID 57, Page 1, Line 156, Pos (69,1)
 msgid "\\V[0001]/bgm051"
 msgstr ""
 
-#. ID 57, Page 1, Line 161, Pos (59,6)
+#. ID 57, Page 1, Line 161, Pos (69,1)
 msgid "\\V[0001]/bgm052"
 msgstr ""
 
-#. ID 57, Page 1, Line 166, Pos (59,6)
+#. ID 57, Page 1, Line 166, Pos (69,1)
 msgid "\\V[0001]/yumepo3"
 msgstr ""
 
-#. ID 57, Page 1, Line 171, Pos (59,6)
+#. ID 57, Page 1, Line 171, Pos (69,1)
 msgid "\\V[0001]/kana08"
 msgstr ""
 
-#. ID 57, Page 1, Line 176, Pos (59,6)
+#. ID 57, Page 1, Line 176, Pos (69,1)
 msgid "\\V[0001]/bgm075"
 msgstr ""
 
-#. ID 58, Page 1, Line 11, Pos (16,19)
+#. ID 58, Page 1, Line 11, Pos (5,11)
 msgid "\\>チェーンソーイベントサンプルです"
 msgstr "\\>Chainsaw event sample"
 
-#. ID 58, Page 2, Line 53, Pos (16,19)
+#. ID 58, Page 2, Line 53, Pos (5,11)
 msgid ""
 "と、\\>まぁこんな感じです\n"
 "\\!　中身みればわかると思いますが\n"
@@ -959,7 +959,7 @@ msgstr ""
 "you can just write a page for when the event is\n"
 "killed and then implement it."
 
-#. ID 58, Page 2, Line 56, Pos (16,19)
+#. ID 58, Page 2, Line 56, Pos (5,11)
 msgid ""
 "\\>血しぶき、叫び声の効果音はサンプルなので、\n"
 "\\>好きにいじったり　オリジナルにしたりして\n"
@@ -969,7 +969,7 @@ msgstr ""
 "\\>so you can edit them or change them to your\n"
 "\\>original one."
 
-#. ID 58, Page 2, Line 59, Pos (16,19)
+#. ID 58, Page 2, Line 59, Pos (5,11)
 msgid ""
 "\\>サンプルで血アニメを２つ用意したので\n"
 "　使ってください\n"
@@ -979,7 +979,7 @@ msgstr ""
 "\\>animation, so feel free to use them.\n"
 "\\>Or use your original one."
 
-#. ID 58, Page 2, Line 62, Pos (16,19)
+#. ID 58, Page 2, Line 62, Pos (5,11)
 msgid ""
 "\\>通常だとこの後に「\\C[4]イベントの消去\\C[0]」を使って\n"
 "\\>このバケモノを消し去るんですが\n"
@@ -989,21 +989,21 @@ msgstr ""
 "\\>erase this creature, but you can change things\n"
 "\\>around with your ideas."
 
-#. ID 58, Page 2, Line 72, Pos (16,19)
+#. ID 58, Page 2, Line 72, Pos (5,11)
 msgid "\\>あんた殺しすぎじゃー"
 msgstr "\\>You serial killer!"
 
-#. ID 60, Page 1, Line 10, Pos (18,19)
+#. ID 60, Page 1, Line 10, Pos (7,11)
 msgid ""
 "\\>サンプルイベント\n"
 "\\>くろでんわ、おとこのこ、チェーンソー、オオカミ\n"
 "\\>それぞれのエフェクトに対応"
 msgstr ""
 "\\>Sample Event\n"
-"\\>React to the Telephone, Boy, Chainsaw, Lantern,\n"
+"\\>Reacts to the Telephone, Boy, Chainsaw, Lantern,\n"
 "\\>Fairy, and Wolf effects."
 
-#. ID 61, Page 1, Line 1, Pos (14,25)
+#. ID 61, Page 1, Line 1, Pos (24,20)
 msgid ""
 "\\>スクロールイベントです\n"
 "\\!やめたい、速度を変えたい→部屋から出てね\n"
@@ -1013,8 +1013,8 @@ msgstr ""
 "\\!To cancel/change speed, reenter the room.\n"
 "Scroll speed? 1~16"
 
-#. ID 62, Page 1, Line 1, Pos (60,6)
-#. ID 63, Page 1, Line 1, Pos (61,6)
+#. ID 62, Page 1, Line 1, Pos (70,1)
+#. ID 63, Page 1, Line 1, Pos (71,1)
 msgid ""
 "\\>　ごちゅうい\n"
 "\\>このイベントは古いバージョンにおける\n"
@@ -1026,7 +1026,7 @@ msgstr ""
 "\\>for the old version. The Old Sound Room\n"
 "\\>works differently than the Sound Room."
 
-#. ID 62, Page 1, Line 9, Pos (60,6)
+#. ID 62, Page 1, Line 9, Pos (70,1)
 msgid ""
 "\\>イントロ再生の再生時間を設定します。\n"
 "\\>例　030入力→約3.00秒※すごく環境依存\n"
@@ -1036,11 +1036,11 @@ msgstr ""
 "\\>e.g. 030→about 3.00s ※environment-dependence\n"
 "\\>Cannot set to less than 12 due to display message"
 
-#. ID 63, Page 1, Line 8, Pos (61,6)
+#. ID 63, Page 1, Line 8, Pos (71,1)
 msgid "\\>サウンドルームへの曲追加方法は簡単です。"
 msgstr "\\>It's easy to add a music to the Sound Room."
 
-#. ID 63, Page 1, Line 9, Pos (61,6)
+#. ID 63, Page 1, Line 9, Pos (71,1)
 msgid ""
 "\\>コモンイベント:0219 ｻｳﾝﾄﾞ 曲格納庫に\n"
 "\\>\\C[4]・総曲数を入力\n"
@@ -1052,7 +1052,7 @@ msgstr ""
 "\\>\\C[4]・Register your music(s)\n"
 "\\>\\C[3]That's it. \\<\\!Easy, right?"
 
-#. ID 63, Page 1, Line 13, Pos (61,6)
+#. ID 63, Page 1, Line 13, Pos (71,1)
 msgid ""
 "\\>文字情報追加や\n"
 "\\>画像追加方法等はそのうち説明…\n"
@@ -1064,12 +1064,12 @@ msgstr ""
 "\\!\\>I wrote notes inside these events so\n"
 "\\>check them out."
 
-#. ID 63, Page 1, Line 17, Pos (61,6)
+#. ID 63, Page 1, Line 17, Pos (71,1)
 #. Contains choice at line 2 (2 options)
 msgid "\\>古い説明書、雑記"
 msgstr "\\>Old instructions and notes"
 
-#. ID 63, Page 1, Line 18, Pos (61,6)
+#. ID 63, Page 1, Line 18, Pos (71,1)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "みる\n"
@@ -1078,7 +1078,7 @@ msgstr ""
 "Read\n"
 "Cancel"
 
-#. ID 63, Page 1, Line 20, Pos (61,6)
+#. ID 63, Page 1, Line 20, Pos (71,1)
 #. Choice (4 options)
 msgid ""
 "Ver.0.01\n"
@@ -1087,7 +1087,7 @@ msgid ""
 "Ver.0.04"
 msgstr ""
 
-#. ID 63, Page 1, Line 22, Pos (61,6)
+#. ID 63, Page 1, Line 22, Pos (71,1)
 msgid ""
 "\\>どーも20 ◆7Hq6S9uj/75dです。\n"
 "\\!\\>最近「ゆめ２っき」界隈に活気が出てなによりです＾＾"
@@ -1095,7 +1095,7 @@ msgstr ""
 "\\>Hello, it's 20 ◆7Hq6S9uj/75d.\n"
 "\\!\\>I'm glad that \"Yume 2kki\" is expanding ＾＾"
 
-#. ID 63, Page 1, Line 24, Pos (61,6)
+#. ID 63, Page 1, Line 24, Pos (71,1)
 msgid ""
 "\\>さて、かねてより考えていた、\n"
 "\\>サウンドルームのテストバージョンが出来ました。"
@@ -1103,7 +1103,7 @@ msgstr ""
 "\\>Meanwhile, I made a test version of the Sound Room\n"
 "\\>that I wanted to make."
 
-#. ID 63, Page 1, Line 26, Pos (61,6)
+#. ID 63, Page 1, Line 26, Pos (71,1)
 msgid ""
 "\\>まだテスト段階のため5曲しか入れてません\n"
 "\\!\\>演出面などのグラフィカルなコンソール、曲追加は\n"
@@ -1115,7 +1115,7 @@ msgstr ""
 "\\>will be put on hold until I made a proper program.\n"
 "\\!\\>It has too many events so it's a bit heavy......"
 
-#. ID 63, Page 1, Line 30, Pos (61,6)
+#. ID 63, Page 1, Line 30, Pos (71,1)
 msgid ""
 "\\>サウンドルームのグラフィックはサンプルです。\n"
 "\\>とくに決まってないです。\n"
@@ -1125,7 +1125,7 @@ msgstr ""
 "\\>They are not determined yet.\n"
 "\\!\\>Any artist who can draw?"
 
-#. ID 63, Page 1, Line 33, Pos (61,6)
+#. ID 63, Page 1, Line 33, Pos (71,1)
 msgid ""
 "\\>自動連続再生や、ランダム再生を\n"
 "\\>出来ないことも無いですが\n"
@@ -1135,7 +1135,7 @@ msgstr ""
 "\\>Play function, but it's hard to implement them.\n"
 "\\>"
 
-#. ID 63, Page 1, Line 36, Pos (61,6)
+#. ID 63, Page 1, Line 36, Pos (71,1)
 msgid ""
 "\\>数値入力での曲再生は\n"
 "\\>このイベントに絡めて実装予定です"
@@ -1143,7 +1143,7 @@ msgstr ""
 "\\>I'm planning to implement \"Play track\" by \n"
 "\\>inputting a No. in this Event"
 
-#. ID 63, Page 1, Line 38, Pos (61,6)
+#. ID 63, Page 1, Line 38, Pos (71,1)
 msgid ""
 "\\>一応\\C[4]シフトキー\\C[0]でイントロ風　連続演奏ができます。\n"
 "\\>もう一度押すと解除されます。"
@@ -1152,7 +1152,7 @@ msgstr ""
 "\\>Autoplay intro tracks.\n"
 "\\>And then press the Shift key once again to disable."
 
-#. ID 63, Page 1, Line 41, Pos (61,6)
+#. ID 63, Page 1, Line 41, Pos (71,1)
 msgid ""
 "\\>なお、一度イベントを終了しても、\n"
 "\\>最後に聞いた曲は保持されます。"
@@ -1160,13 +1160,13 @@ msgstr ""
 "\\>The last track you will have listened will be\n"
 "\\>saved even after ending this event."
 
-#. ID 63, Page 1, Line 46, Pos (61,6)
-#. ID 63, Page 1, Line 67, Pos (61,6)
-#. ID 63, Page 1, Line 114, Pos (61,6)
+#. ID 63, Page 1, Line 46, Pos (71,1)
+#. ID 63, Page 1, Line 67, Pos (71,1)
+#. ID 63, Page 1, Line 114, Pos (71,1)
 msgid "\\>どーも20 ◆7Hq6S9uj/75dです。"
 msgstr "\\>Hello, it's 20 ◆7Hq6S9uj/75d."
 
-#. ID 63, Page 1, Line 47, Pos (61,6)
+#. ID 63, Page 1, Line 47, Pos (71,1)
 msgid ""
 "\\>サウンドルームのテストバージョン\n"
 "\\>Ver.0.02が出来ました。"
@@ -1174,7 +1174,7 @@ msgstr ""
 "\\>The test version of the Sound Room is\n"
 "\\>now Ver.0.02."
 
-#. ID 63, Page 1, Line 49, Pos (61,6)
+#. ID 63, Page 1, Line 49, Pos (71,1)
 msgid ""
 "\\>イベントを見直したので、\n"
 "\\>動作が前回より軽くなりました！！"
@@ -1182,7 +1182,7 @@ msgstr ""
 "\\>I revised the event so the behaviour\n"
 "\\>is so much lighter than before!!"
 
-#. ID 63, Page 1, Line 51, Pos (61,6)
+#. ID 63, Page 1, Line 51, Pos (71,1)
 msgid ""
 "\\>今回は直感的に操作できるか調べるため、\n"
 "\\>マニュアルの表示は無しです。"
@@ -1191,7 +1191,7 @@ msgstr ""
 "\\>since I want to know if anyone can control it\n"
 "\\>by intuition."
 
-#. ID 63, Page 1, Line 53, Pos (61,6)
+#. ID 63, Page 1, Line 53, Pos (71,1)
 msgid ""
 "\\>連続再生を擬似的に導入しました。\n"
 "\\!\\>ただしこの再生方法は多少難があり……"
@@ -1199,7 +1199,7 @@ msgstr ""
 "\\>I implemented a spurious Autoplay feature.\n"
 "\\!\\>This method has some problems..."
 
-#. ID 63, Page 1, Line 55, Pos (61,6)
+#. ID 63, Page 1, Line 55, Pos (71,1)
 msgid ""
 "\\>お使いのPCの環境に左右されるため、\n"
 "\\>正確に再生時間を測ることが出来ません。"
@@ -1207,7 +1207,7 @@ msgstr ""
 "\\>It depends on your PC specs, so it cannot measure\n"
 "\\>accurate play time."
 
-#. ID 63, Page 1, Line 57, Pos (61,6)
+#. ID 63, Page 1, Line 57, Pos (71,1)
 msgid ""
 "\\>単に聴くだけでしたら生ファイルを\n"
 "\\>メディアプレーヤーなどのアプリで\n"
@@ -1216,7 +1216,7 @@ msgstr ""
 "\\>If you just want to listen tracks, play the music\n"
 "\\>files in your media player is better for sure.＾＾；"
 
-#. ID 63, Page 1, Line 60, Pos (61,6)
+#. ID 63, Page 1, Line 60, Pos (71,1)
 msgid ""
 "\\>タイトル名　作曲者名を擬似的に表示してみました。\n"
 "\\!\\>この方法だとキー操作の関係で文字の表示が使えない為\n"
@@ -1227,7 +1227,7 @@ msgstr ""
 "\\>letters while controlling, so it's necessary to\n"
 "\\>make Pictures for each track＾＾；"
 
-#. ID 63, Page 1, Line 63, Pos (61,6)
+#. ID 63, Page 1, Line 63, Pos (71,1)
 msgid ""
 "\\>なお、イントロ再生の時間設定は、\n"
 "\\>時計で調整できます。"
@@ -1235,7 +1235,7 @@ msgstr ""
 "\\>Furthermore, you can adjust the length of \n"
 "\\>intro tracks with the clock."
 
-#. ID 63, Page 1, Line 68, Pos (61,6)
+#. ID 63, Page 1, Line 68, Pos (71,1)
 msgid ""
 "\\>サウンドルームのテストバージョン\n"
 "\\>Ver.0.03が出来ました。"
@@ -1243,7 +1243,7 @@ msgstr ""
 "\\>The test Version of Sound Room is\n"
 "\\>now Ver.0.03."
 
-#. ID 63, Page 1, Line 70, Pos (61,6)
+#. ID 63, Page 1, Line 70, Pos (71,1)
 msgid ""
 "\\>kuraudのイベントを触発され、プチ改良しました。\n"
 "\\>しかし、毎度氏の作るシステムは目からうろこですね。\n"
@@ -1254,15 +1254,15 @@ msgstr ""
 "\\>eyent-opener to me.\n"
 "\\c[2]\\!\\>I'm going to imitate those techs!!"
 
-#. ID 63, Page 1, Line 73, Pos (61,6)
+#. ID 63, Page 1, Line 73, Pos (71,1)
 msgid "さて、\\>今回の変更点は"
 msgstr "Now, \\>the changes of this version are:"
 
-#. ID 63, Page 1, Line 75, Pos (61,6)
+#. ID 63, Page 1, Line 75, Pos (71,1)
 msgid "\\>・曲・作曲者名と曲情報を1枚の画像に収め規格化"
 msgstr "\\>・Put the track title, composer, and info on 1 pic"
 
-#. ID 63, Page 1, Line 77, Pos (61,6)
+#. ID 63, Page 1, Line 77, Pos (71,1)
 msgid ""
 "\\>・曲・作曲者名と曲情報を1枚の画像に収め規格化\n"
 "\\>・曲情報が無ければ、未登録画像を表示"
@@ -1270,7 +1270,7 @@ msgstr ""
 "\\>・Put the track title, composer, and info on 1 pic\n"
 "\\>・Show an unregistered pic if no track info found"
 
-#. ID 63, Page 1, Line 80, Pos (61,6)
+#. ID 63, Page 1, Line 80, Pos (71,1)
 msgid ""
 "\\>・曲・作曲者名と曲情報を1枚の画像に収め規格化\n"
 "\\>・曲情報が無ければ、未登録画像を表示\n"
@@ -1280,7 +1280,7 @@ msgstr ""
 "\\>・Show an unregistered pic if no track info found\n"
 "\\>・Input a value if there is no specified length"
 
-#. ID 63, Page 1, Line 84, Pos (61,6)
+#. ID 63, Page 1, Line 84, Pos (71,1)
 msgid ""
 "\\>・曲・作曲者名と曲情報を1枚の画像に収め規格化\n"
 "\\>・曲情報が無ければ、未登録画像を表示\n"
@@ -1292,7 +1292,7 @@ msgstr ""
 "\\>・Input a value if there is no specified length\n"
 "　That's all."
 
-#. ID 63, Page 1, Line 88, Pos (61,6)
+#. ID 63, Page 1, Line 88, Pos (71,1)
 msgid ""
 "\\>それと追加で通常再生のリピート中に↑を押すと\n"
 "\\>曲情報が「文字イベント」として表示されます。"
@@ -1300,7 +1300,7 @@ msgstr ""
 "\\>Plus, press the ↑ key while in repeat mode to\n"
 "\\>show the track info as a \"Text Event\"."
 
-#. ID 63, Page 1, Line 90, Pos (61,6)
+#. ID 63, Page 1, Line 90, Pos (71,1)
 msgid ""
 "\\>凡庸性、編集製、作業性が高いですが、\n"
 "\\>\\c[3]リピート中にしか表示できない制限があります。"
@@ -1308,7 +1308,7 @@ msgstr ""
 "\\>It's very versatile and easy to edit,\n"
 "\\>\\c[3]but it is shown only while in repeat mode."
 
-#. ID 63, Page 1, Line 92, Pos (61,6)
+#. ID 63, Page 1, Line 92, Pos (71,1)
 msgid ""
 "\\>今後の展開としては\n"
 "\\c[4]\\>「俺はココのマップはこの曲のが合うと思うんだよね」\n"
@@ -1318,7 +1318,7 @@ msgstr ""
 "\\c[4]\\>people like:\n"
 "\\c[3]\\!\\>\"I think this map fits with that track.\""
 
-#. ID 63, Page 1, Line 95, Pos (61,6)
+#. ID 63, Page 1, Line 95, Pos (71,1)
 msgid ""
 "\\>プレイ中にでもiPodのように\n"
 "\\>マップ上で曲を変更できるよう考えております。"
@@ -1326,13 +1326,13 @@ msgstr ""
 "\\>I'm thinking of adding a feature to be able\n"
 "\\>to change track on any map like an iPod."
 
-#. ID 63, Page 1, Line 97, Pos (61,6)
+#. ID 63, Page 1, Line 97, Pos (71,1)
 msgid "\\>という事で全てのイベントをコモン化する予定です。"
 msgstr ""
 "\\>Thus, I'm planning to make these events\n"
 "\\>as Common Events."
 
-#. ID 63, Page 1, Line 98, Pos (61,6)
+#. ID 63, Page 1, Line 98, Pos (71,1)
 msgid ""
 "\\>曲追加も可能な限り簡素化して、\n"
 "\\>わかりやすくしたいところです。"
@@ -1340,13 +1340,13 @@ msgstr ""
 "\\>If possible I want to make it easy to add tracks\n"
 "\\>by simplifying it."
 
-#. ID 63, Page 1, Line 100, Pos (61,6)
+#. ID 63, Page 1, Line 100, Pos (71,1)
 msgid "\\>個人的に搭載したい機能は「ファジー演奏機能」です。"
 msgstr ""
 "\\>Personally, I want to implement a\n"
 "\\>\"Fuzzy play functionality\"."
 
-#. ID 63, Page 1, Line 101, Pos (61,6)
+#. ID 63, Page 1, Line 101, Pos (71,1)
 msgid ""
 "\\>短いループ曲は3週ぐらい演奏して、\n"
 "\\>長い曲は1回だけとか……そんなアバウトな機能です。"
@@ -1355,7 +1355,7 @@ msgstr ""
 "\\>A Short track loops 3 times\n"
 "\\>A long track loops once."
 
-#. ID 63, Page 1, Line 103, Pos (61,6)
+#. ID 63, Page 1, Line 103, Pos (71,1)
 msgid ""
 "\\>サウンドルームをどのような見た目にするか、\n"
 "\\>全然考えていないのですが、どうしましょうかね？"
@@ -1364,7 +1364,7 @@ msgstr ""
 "\\> Sound Room...\n"
 "\\>What should I do?"
 
-#. ID 63, Page 1, Line 105, Pos (61,6)
+#. ID 63, Page 1, Line 105, Pos (71,1)
 msgid ""
 "\\>小さなドット絵がちょこまか動くマップにするのか。\n"
 "\\!\\>それとも1枚絵ドーンのピクチャーで行くか。\n"
@@ -1374,7 +1374,7 @@ msgstr ""
 "\\!\\>Or 1 big Picture?\n"
 "\\!\\>Or exchangeable picture skins?"
 
-#. ID 63, Page 1, Line 108, Pos (61,6)
+#. ID 63, Page 1, Line 108, Pos (71,1)
 msgid ""
 "\\>そんな事を想像しながら聴いてください。\n"
 "\\>曲はヘッドホンで聴くことをおすすめします。\n"
@@ -1384,7 +1384,7 @@ msgstr ""
 "\\>Using headphones is recommended.\n"
 "\\>See you again!!"
 
-#. ID 63, Page 1, Line 115, Pos (61,6)
+#. ID 63, Page 1, Line 115, Pos (71,1)
 msgid ""
 "\\>サウンドルームのテストバージョン\n"
 "\\>Ver.0.04が出来ました。"
@@ -1392,7 +1392,7 @@ msgstr ""
 "\\>The test Version of the Sound Room is\n"
 "\\>now Ver.0.04."
 
-#. ID 63, Page 1, Line 117, Pos (61,6)
+#. ID 63, Page 1, Line 117, Pos (71,1)
 msgid ""
 "\\>そろそろ本体の方を更新しろ！\n"
 "\\>などという声が出てきそうですが＾＾；"
@@ -1401,13 +1401,13 @@ msgstr ""
 "\\>\"Update the main game now!\"\n"
 "\\>I assume...＾＾；"
 
-#. ID 63, Page 1, Line 119, Pos (61,6)
+#. ID 63, Page 1, Line 119, Pos (71,1)
 msgid "\\>水面下では動いてますが、なかなか実装に至りません。"
 msgstr ""
 "\\>Actually I'm working on it but it's still not\n"
 "\\>done yet."
 
-#. ID 63, Page 1, Line 120, Pos (61,6)
+#. ID 63, Page 1, Line 120, Pos (71,1)
 msgid ""
 "\\>ロダにあった「ラフ画赤い街」いいですね。\n"
 "\\>職人さんGJ！\n"
@@ -1418,13 +1418,13 @@ msgstr ""
 "\\>Great job artist!\n"
 "\\!\\>I'm going to make a map from that."
 
-#. ID 63, Page 1, Line 123, Pos (61,6)
+#. ID 63, Page 1, Line 123, Pos (71,1)
 msgid "\\>さて、今回のサウンドルーム変更点は……"
 msgstr ""
 "\\>Now, the changes of the Sound\n"
 "\\>Room on this version are.."
 
-#. ID 63, Page 1, Line 124, Pos (61,6)
+#. ID 63, Page 1, Line 124, Pos (71,1)
 msgid ""
 "\\>曲をフェードアウトさせて曲の繋ぎを\n"
 "\\>ごまかしてみました"
@@ -1432,7 +1432,7 @@ msgstr ""
 "\\>Made tracks fade out and made the transition\n"
 "\\>smoother between tracks."
 
-#. ID 63, Page 1, Line 126, Pos (61,6)
+#. ID 63, Page 1, Line 126, Pos (71,1)
 msgid ""
 "\\>ただし、仕様上フェードアウト中は\n"
 "\\>再生ボタン、停止ボタン、リピートボタン\n"
@@ -1442,11 +1442,11 @@ msgstr ""
 "\\>Stop, Repeat, and Intro buttons during a fade out.\n"
 "\\>A buzzer sound is played instead."
 
-#. ID 63, Page 1, Line 129, Pos (61,6)
+#. ID 63, Page 1, Line 129, Pos (71,1)
 msgid "\\>次にいろいろと演出方法を模索しました。"
 msgstr "\\>Secondly, I sought ways of visual staging."
 
-#. ID 63, Page 1, Line 130, Pos (61,6)
+#. ID 63, Page 1, Line 130, Pos (71,1)
 msgid ""
 "\\>今回は視覚的演出方法の一例として\n"
 "\\>ピクチャーを使わず遠景を使用してみました。"
@@ -1455,7 +1455,7 @@ msgstr ""
 "\\>of a Picture as an example of a visual\n"
 "\\>staging method."
 
-#. ID 63, Page 1, Line 132, Pos (61,6)
+#. ID 63, Page 1, Line 132, Pos (71,1)
 msgid ""
 "\\>専用のピクチャーをわざわざ用意しなくても\n"
 "\\>マップで使っているリソースをそのまま利用できます。"
@@ -1463,7 +1463,7 @@ msgstr ""
 "\\>You can reuse the resources of a map, so\n"
 "\\>no need to draw a dedicated picture."
 
-#. ID 63, Page 1, Line 134, Pos (61,6)
+#. ID 63, Page 1, Line 134, Pos (71,1)
 msgid ""
 "\\>もちろん別途ピクチャーを用意するとか、\n"
 "\\>遠景が用意出来なくても問題無しです。"
@@ -1472,7 +1472,7 @@ msgstr ""
 "\\>picture if you want, and it's not a problem\n"
 "\\>if you couldn't prepare backgrounds."
 
-#. ID 63, Page 1, Line 136, Pos (61,6)
+#. ID 63, Page 1, Line 136, Pos (71,1)
 msgid ""
 "\\>ロダにあがっていた素材にピンと来て、\n"
 "\\>ただ、やってみたかったというのもありますｗ"
@@ -1481,23 +1481,23 @@ msgstr ""
 "\\>idea from some resources I found\n"
 "\\>on an uploader. :P"
 
-#. ID 63, Page 1, Line 138, Pos (61,6)
+#. ID 63, Page 1, Line 138, Pos (71,1)
 msgid "\\>ではどうぞ！"
 msgstr "\\>Now here you go!"
 
-#. ID 64, Page 1, Line 2, Pos (14,22)
+#. ID 64, Page 1, Line 2, Pos (20,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ません"
 msgstr "cannot"
 
-#. ID 64, Page 1, Line 5, Pos (14,22)
+#. ID 64, Page 1, Line 5, Pos (20,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "ます"
 msgstr "can"
 
-#. ID 64, Page 1, Line 8, Pos (14,22)
+#. ID 64, Page 1, Line 8, Pos (20,13)
 msgid ""
 "\\>現在、てるてるぼうずで天候を変えられ\\n[2]。\n"
 "\\>\\\\S[0017:てるてる天候変更禁止]がONだと\n"
@@ -1507,12 +1507,12 @@ msgstr ""
 "\\>Teru Teru Bōzu effect. If the S[0017:Forbid Weather\n"
 "\\>Change] is ON, you can't change the weather."
 
-#. ID 64, Page 1, Line 11, Pos (14,22)
+#. ID 64, Page 1, Line 11, Pos (20,13)
 #. Contains choice at line 2 (2 options)
 msgid "\\>\\\\S[0017:てるてる天候変更禁止]"
 msgstr "\\>S[0017:Forbid Weather Change]"
 
-#. ID 64, Page 1, Line 12, Pos (14,22)
+#. ID 64, Page 1, Line 12, Pos (20,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "変えられなくする\n"
@@ -1528,13 +1528,13 @@ msgstr "\\>Teleport to Atlantis"
 
 #. ID 66, Page 1, Line 3, Pos (9,2)
 #. Choice (2 options, embedded in a message)
-#. ID 115, Page 1, Line 4, Pos (12,25)
+#. ID 115, Page 1, Line 4, Pos (20,23)
 #. Choice (2 options, embedded in a message)
-#. ID 131, Page 1, Line 12, Pos (58,3)
+#. ID 117, Page 1, Line 12, Pos (26,2)
 #. Choice (2 options, embedded in a message)
-#. ID 131, Page 1, Line 29, Pos (58,3)
+#. ID 117, Page 1, Line 29, Pos (26,2)
 #. Choice (2 options, embedded in a message)
-#. ID 158, Page 1, Line 82, Pos (19,0)
+#. ID 158, Page 1, Line 85, Pos (19,0)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>はい\n"
@@ -1611,32 +1611,32 @@ msgstr "\\>This is a shared object."
 msgid "\\>自販機は、特別のことが無い限り統一しましょう。"
 msgstr "\\>Unless special purpose, use the shared one."
 
-#. ID 74, Page 1, Line 2, Pos (13,14)
+#. ID 74, Page 1, Line 2, Pos (9,11)
 msgid ""
 "\\>ピエロに触れると弾き飛ばされます\n"
 "\\>確率でお金を取られてしまいます\n"
 "\\>お金が100以下だと　閉じ込められます"
 msgstr ""
-"\\>If you touch the clown, he will knock you back.\n"
-"\\>Sometimes he will even steal your money.\n"
+"\\>If you touch the clown, it will knock you back.\n"
+"\\>Sometimes it will even steal your money.\n"
 "\\>If your money is under 100夢, you will be trapped."
 
-#. ID 74, Page 1, Line 5, Pos (13,14)
+#. ID 74, Page 1, Line 5, Pos (9,11)
 #. Contains choice at line 2 (2 options)
 msgid "\\>追いかけられますか？（とてもウザイ"
 msgstr ""
-"\\>Do you want to be chased by him?\n"
-"\\>(Be careful, he is really annoying)"
+"\\>Do you want to be chased by it?\n"
+"\\>(Be careful, it is really annoying)"
 
-#. ID 74, Page 2, Line 89, Pos (13,14)
-#. ID 74, Page 3, Line 35, Pos (13,14)
-#. ID 74, Page 4, Line 34, Pos (13,14)
+#. ID 74, Page 2, Line 89, Pos (9,11)
+#. ID 74, Page 3, Line 35, Pos (9,11)
+#. ID 74, Page 4, Line 34, Pos (9,11)
 msgid "\\>お金が足りないので、閉じ込めMAPにワープ処理"
 msgstr ""
 "\\>Lack of money.\n"
 "\\>Teleport to the trap MAP."
 
-#. ID 84, Page 1, Line 2, Pos (25,1)
+#. ID 84, Page 1, Line 2, Pos (35,1)
 #. Choice (3 options)
 msgid ""
 "\\>【エフェクトMIX一覧】\n"
@@ -1647,7 +1647,7 @@ msgstr ""
 "\\>【About using effect graphics】\n"
 "\\>Cancel"
 
-#. ID 84, Page 1, Line 4, Pos (25,1)
+#. ID 84, Page 1, Line 4, Pos (35,1)
 msgid ""
 "\\>【エフェクトMIX一覧】\n"
 "\\>バイク＋おおかみ　→　おおかみバイク\n"
@@ -1659,7 +1659,7 @@ msgstr ""
 "\\>Red Riding Hood + Teru Teru Bōzu → Raincoat\n"
 "\\>Cake + Haniwa → ???"
 
-#. ID 84, Page 1, Line 8, Pos (25,1)
+#. ID 84, Page 1, Line 8, Pos (35,1)
 msgid ""
 "\\>【エフェクトMIX一覧】\n"
 "\\>メガネ　＋　ツインテール　→　ツインテメガネ"
@@ -1667,7 +1667,7 @@ msgstr ""
 "\\>【List of Effect MIX】\n"
 "\\>Glasses + Twintails → Twintails with Glasses"
 
-#. ID 84, Page 1, Line 12, Pos (25,1)
+#. ID 84, Page 1, Line 12, Pos (35,1)
 msgid ""
 "\\>【エフェクトのグラフィック利用に関して】\n"
 "\\>ドラムかん > ギターを弾いているグラフィック\n"
@@ -1732,12 +1732,12 @@ msgstr ""
 "\\>Player, you can make it only appears for a\n"
 "\\>certain distance. Anyone wanna make it?"
 
-#. ID 93, Page 1, Line 1, Pos (56,3)
+#. ID 93, Page 1, Line 1, Pos (20,2)
 #. Contains choice at line 2 (3 options)
 msgid "\\>現在位置の座標表示コモン"
 msgstr "\\>Common event: Show current coordinates"
 
-#. ID 93, Page 1, Line 2, Pos (56,3)
+#. ID 93, Page 1, Line 2, Pos (20,2)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>つかう\n"
@@ -1748,7 +1748,7 @@ msgstr ""
 "\\>Cancel\n"
 "\\>Manual"
 
-#. ID 93, Page 1, Line 10, Pos (56,3)
+#. ID 93, Page 1, Line 10, Pos (20,2)
 msgid ""
 "\\>MAPID、XY座標、足元の地形IDを\n"
 "\\>画面上部に常に表示させる機能です。\n"
@@ -1760,7 +1760,7 @@ msgstr ""
 "\n"
 "\\>While holding the X key, this info is hidden."
 
-#. ID 93, Page 1, Line 14, Pos (56,3)
+#. ID 93, Page 1, Line 14, Pos (20,2)
 msgid ""
 "\\>おまけ機能として、天候、水中、ぺんぎんの腹滑り、\n"
 "\\>天候変更禁止、すっぴん座り禁止、なども出ます。"
@@ -1770,18 +1770,22 @@ msgstr ""
 "\\>[0017 Forbid changing weather] and [1982 Forbid\n"
 "\\>sitting while no effect] are ON or OFF."
 
-#. ID 95, Page 1, Line 1, Pos (46,5)
-#. ID 98, Page 1, Line 1, Pos (46,3)
+#. ID 95, Page 1, Line 1, Pos (56,5)
+#. ID 98, Page 1, Line 1, Pos (56,3)
 msgid "\\c[2]この機能は実装されました\\c[0]"
 msgstr ""
 "\\c[2]This functionality has been implemented.\n"
 "The next comments from there are old.\\c[0]"
 
-#. ID 95, Page 1, Line 2, Pos (46,5)
-msgid "設置に失敗したミニゲームE\n"
-msgstr "I failed to implement the Mini Game E\n"
+#. ID 95, Page 1, Line 2, Pos (56,5)
+msgid ""
+"設置に失敗したミニゲームE\n"
+""
+msgstr ""
+"I failed to implement the Minigame E.\n"
+""
 
-#. ID 95, Page 1, Line 4, Pos (46,5)
+#. ID 95, Page 1, Line 4, Pos (56,5)
 msgid ""
 "現実部屋周辺わかる方、設置していただけると\n"
 "ありがたいです"
@@ -1790,12 +1794,12 @@ msgstr ""
 "in Urotsuki's Room, I would appreciate if it\n"
 "could be implemented."
 
-#. ID 95, Page 1, Line 6, Pos (46,5)
+#. ID 95, Page 1, Line 6, Pos (56,5)
 #. Contains choice at line 2 (2 options)
 msgid "やってみる？"
 msgstr "Do you want to play?"
 
-#. ID 96, Page 1, Line 1, Pos (50,3)
+#. ID 96, Page 1, Line 1, Pos (60,3)
 #. Choice (4 options)
 msgid ""
 "\\>20_エンディングサンプル1\n"
@@ -1808,21 +1812,21 @@ msgstr ""
 "\\>20_EndingSample3\n"
 "\\>Cancel"
 
-#. ID 97, Page 1, Line 1, Pos (52,3)
-#. ID 99, Page 1, Line 1, Pos (52,5)
+#. ID 97, Page 1, Line 1, Pos (62,3)
+#. ID 99, Page 1, Line 1, Pos (62,5)
 msgid "エンディングのサンプルに飛びます"
 msgstr "Teleport to Ending sample"
 
-#. ID 97, Page 1, Line 2, Pos (52,3)
+#. ID 97, Page 1, Line 2, Pos (62,3)
 #. Contains choice at line 2 (2 options)
-#. ID 99, Page 1, Line 2, Pos (52,5)
+#. ID 99, Page 1, Line 2, Pos (62,5)
 #. Contains choice at line 2 (2 options)
 msgid "ネタバレしたくない方は次の処理で戻れます"
 msgstr "This event includes a spoiler."
 
-#. ID 97, Page 1, Line 3, Pos (52,3)
+#. ID 97, Page 1, Line 3, Pos (62,3)
 #. Choice (2 options, embedded in a message)
-#. ID 99, Page 1, Line 3, Pos (52,5)
+#. ID 99, Page 1, Line 3, Pos (62,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "戻る\n"
@@ -1831,7 +1835,7 @@ msgstr ""
 "Cancel\n"
 "Proceed"
 
-#. ID 98, Page 1, Line 2, Pos (46,3)
+#. ID 98, Page 1, Line 2, Pos (56,3)
 msgid ""
 "クリスマスプレゼントのつもりで作ったんですが、\n"
 "ミニゲームの設置の仕方がわかりませんでした。\n"
@@ -1842,7 +1846,7 @@ msgstr ""
 "I don't know how to implement it.\n"
 "I would appreciate if anyone could implement it."
 
-#. ID 98, Page 1, Line 6, Pos (46,3)
+#. ID 98, Page 1, Line 6, Pos (56,3)
 msgid ""
 "プレゼントイベントと連動させるつもりだったので\n"
 "スイッチ「■プレゼント」がONのときに\n"
@@ -1854,7 +1858,7 @@ msgstr ""
 "I'm sorry for asking too much orders.\n"
 "Thank you."
 
-#. ID 98, Page 1, Line 10, Pos (46,3)
+#. ID 98, Page 1, Line 10, Pos (56,3)
 #. Choice (2 options)
 msgid ""
 "あそんでみる\n"
@@ -1863,20 +1867,20 @@ msgstr ""
 "Play\n"
 "Cancel"
 
-#. ID 99, Page 1, Line 9, Pos (52,5)
+#. ID 99, Page 1, Line 9, Pos (62,5)
 msgid "この後ベランダに移動してください。"
 msgstr "Go to the Balcony to proceed."
 
-#. ID 100, Page 1, Line 1, Pos (50,5)
+#. ID 100, Page 1, Line 1, Pos (60,5)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>エンディングの　サンプルがある‥‥\n"
 "\\>これは「だれかさんのゆめにっき」というらしい"
 msgstr ""
 "\\>You found an Ending Sample...\n"
-"\\>It is written \"Someone's Dream Diary\""
+"\\>It is called \"Someone's Dream Diary\""
 
-#. ID 100, Page 1, Line 3, Pos (50,5)
+#. ID 100, Page 1, Line 3, Pos (60,5)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>そっとしておこう\n"
@@ -1885,12 +1889,12 @@ msgstr ""
 "\\>Leave it\n"
 "\\>Take a look at it"
 
-#. ID 101, Page 1, Line 1, Pos (49,1)
+#. ID 101, Page 1, Line 1, Pos (59,1)
 #. Contains choice at line 2 (2 options)
 msgid "\\>製作者の部屋へ行く？"
 msgstr "\\>Do you want to visit the Developer Room?"
 
-#. ID 101, Page 1, Line 2, Pos (49,1)
+#. ID 101, Page 1, Line 2, Pos (59,1)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "行く\n"
@@ -1899,7 +1903,7 @@ msgstr ""
 "Visit\n"
 "Stay"
 
-#. ID 102, Page 1, Line 5, Pos (22,13)
+#. ID 102, Page 1, Line 5, Pos (32,13)
 msgid ""
 "\\>「ティッシュ」のエフェクトを手に入れました\n"
 "\\>\\C[4]置いたティッシュのピクチャはキャラより手前に\n"
@@ -1910,7 +1914,7 @@ msgstr ""
 "\\>\\C[4]Note that the tissue graphics\n"
 "\\>are shown above the character."
 
-#. ID 102, Page 1, Line 8, Pos (22,13)
+#. ID 102, Page 1, Line 8, Pos (32,13)
 msgid ""
 "\\>MAPID:0018 繋ぎ部屋8 市内 では、\n"
 "\\>\\C[4]ティッシュのピクチャを\n"
@@ -1922,13 +1926,13 @@ msgstr ""
 "\\>Map EV.\\C[0].\n"
 "\\>If you wanna use it, please refer to this."
 
-#. ID 102, Page 2, Line 5, Pos (22,13)
+#. ID 102, Page 2, Line 5, Pos (32,13)
 msgid "\\>「ティッシュ」エフェクトを破棄しました"
 msgstr ""
 "\\>Tissue\n"
 "\\>Discarded Tissue effect"
 
-#. ID 103, Page 1, Line 5, Pos (24,13)
+#. ID 103, Page 1, Line 5, Pos (34,13)
 msgid ""
 "\\>「コウモリ」のエフェクトを手に入れました\n"
 "\\>一度目の長押し時に現在位置を記憶し、\n"
@@ -1940,13 +1944,13 @@ msgstr ""
 "\\>then teleport to that position when used a second\n"
 "\\>time. Only available on the same MAPID."
 
-#. ID 103, Page 2, Line 5, Pos (24,13)
+#. ID 103, Page 2, Line 5, Pos (34,13)
 msgid "\\>「コウモリ」エフェクトを破棄しました"
 msgstr ""
 "\\>Bat\n"
 "\\>Discarded Bat effect"
 
-#. ID 104, Page 1, Line 5, Pos (26,13)
+#. ID 104, Page 1, Line 5, Pos (36,13)
 msgid ""
 "\\>「ポリゴン」のエフェクトを手に入れました\n"
 "\\>長押しすると、解像度？を変更できます\n"
@@ -1957,13 +1961,13 @@ msgstr ""
 "\\>Hold Enter to make a beep with your face.\n"
 "\\>It may disappears with a low probability."
 
-#. ID 104, Page 2, Line 5, Pos (26,13)
+#. ID 104, Page 2, Line 5, Pos (36,13)
 msgid "\\>「ポリゴン」エフェクトを破棄しました"
 msgstr ""
 "\\>Polygon\n"
 "\\>Discarded Polygon effect"
 
-#. ID 105, Page 1, Line 5, Pos (28,13)
+#. ID 105, Page 1, Line 5, Pos (38,13)
 msgid ""
 "\\>「てるてるぼうず」のエフェクトを手に入れました\n"
 "\\>長押しで、雨や雪を降らせたり、止ませたりできます"
@@ -1972,13 +1976,13 @@ msgstr ""
 "\\>Obtained Teru Teru Bōzu effect\n"
 "\\>Hold Enter to change the weather"
 
-#. ID 105, Page 2, Line 5, Pos (28,13)
+#. ID 105, Page 2, Line 5, Pos (38,13)
 msgid "\\>「てるてるぼうず」エフェクトを破棄しました"
 msgstr ""
 "\\>Teru Teru Bōzu\n"
 "\\>Discarded Teru Teru Bōzu effect"
 
-#. ID 106, Page 1, Line 5, Pos (30,13)
+#. ID 106, Page 1, Line 5, Pos (40,13)
 msgid ""
 "\\>「マージナル」のエフェクトを手に入れました\n"
 "\\>長押しすると、額に眼が現れます"
@@ -1987,13 +1991,13 @@ msgstr ""
 "\\>Obtained Marginal effect\n"
 "\\>Hold Enter to open a third eye"
 
-#. ID 106, Page 2, Line 5, Pos (30,13)
+#. ID 106, Page 2, Line 5, Pos (40,13)
 msgid "\\>「マージナル」エフェクトを破棄しました"
 msgstr ""
 "\\>Marginal\n"
 "\\>Discarded Marginal effect"
 
-#. ID 107, Page 1, Line 5, Pos (22,15)
+#. ID 107, Page 1, Line 5, Pos (32,15)
 msgid ""
 "\\>「ドラムかん」のエフェクトを手に入れました\n"
 "\\>長押し動作はまだ実装していません"
@@ -2002,13 +2006,13 @@ msgstr ""
 "\\>Obtained Drum effect\n"
 "\\>Hold Enter to SLAP your body"
 
-#. ID 107, Page 2, Line 5, Pos (22,15)
+#. ID 107, Page 2, Line 5, Pos (32,15)
 msgid "\\>「空きスロット31」エフェクトを破棄しました"
 msgstr ""
 "\\>Drum\n"
 "\\>Discarded Drum effect"
 
-#. ID 108, Page 1, Line 5, Pos (24,15)
+#. ID 108, Page 1, Line 5, Pos (34,15)
 msgid ""
 "\\>「おはか」のエフェクトを手に入れました\n"
 "\\>長押し動作は考えてません\n"
@@ -2018,13 +2022,13 @@ msgstr ""
 "\\>Obtained Grave effect\n"
 "\\>Hold Enter to sit(?)"
 
-#. ID 108, Page 2, Line 5, Pos (24,15)
+#. ID 108, Page 2, Line 5, Pos (34,15)
 msgid "\\>「空きスロット32」エフェクトを破棄しました"
 msgstr ""
 "\\>Grave\n"
 "\\>Discarded Grave effect"
 
-#. ID 109, Page 1, Line 5, Pos (26,15)
+#. ID 109, Page 1, Line 5, Pos (36,15)
 msgid ""
 "\\>「ふみきり」のエフェクトを手に入れました\n"
 "\\>長押し動作は「警報を鳴らす」です"
@@ -2033,7 +2037,7 @@ msgstr ""
 "\\>Obtained Railroad Crossing effect\n"
 "\\>Hold Enter to ring an alarm"
 
-#. ID 109, Page 1, Line 8, Pos (26,15)
+#. ID 109, Page 1, Line 8, Pos (36,15)
 msgid ""
 "\\>本家の★しんごう★的動作を\n"
 "\\>全移動キャラに適応するとなると\n"
@@ -2044,7 +2048,7 @@ msgstr ""
 "\\>Traffic Light behaviour like to all objects.\n"
 "\\>Should we do it anyways?"
 
-#. ID 109, Page 1, Line 12, Pos (26,15)
+#. ID 109, Page 1, Line 12, Pos (36,15)
 msgid ""
 "ver0.099h現在\n"
 "長押し動作不安定、対応キャラが少ない等の\n"
@@ -2055,7 +2059,7 @@ msgstr ""
 "due to unstable holding action and\n"
 "the fact that only few objects worked."
 
-#. ID 109, Page 1, Line 15, Pos (26,15)
+#. ID 109, Page 1, Line 15, Pos (36,15)
 msgid ""
 "ver0.100にて、\n"
 "「こんな感じかな？」と手を加えてみました。\n"
@@ -2067,42 +2071,42 @@ msgstr ""
 "It should now work.\n"
 "(Hold action works only during Debug)"
 
-#. ID 109, Page 2, Line 5, Pos (26,15)
+#. ID 109, Page 2, Line 5, Pos (36,15)
 msgid "\\>「空きスロット33」エフェクトを破棄しました"
 msgstr ""
 "\\>Railroad Crossing\n"
 "\\>Discarded Railroad Crossing effect"
 
-#. ID 110, Page 1, Line 5, Pos (28,15)
+#. ID 110, Page 1, Line 5, Pos (38,15)
 msgid "\\>「うさみみ」のエフェクトを手に入れました"
 msgstr ""
 "\\>Bunny Ears\n"
 "\\>Obtained Bunny Ears effect"
 
-#. ID 110, Page 2, Line 5, Pos (28,15)
+#. ID 110, Page 2, Line 5, Pos (38,15)
 msgid "\\>「うさみみ」エフェクトを破棄しました"
 msgstr ""
 "\\>Bunny Ears\n"
 "\\>Discarded Bunny Ears effect"
 
-#. ID 111, Page 1, Line 5, Pos (30,15)
+#. ID 111, Page 1, Line 5, Pos (40,15)
 msgid "\\>「サイコロ」のエフェクトを手に入れました"
 msgstr ""
 "\\>Dice\n"
 "\\>Obtained Dice effect"
 
-#. ID 111, Page 2, Line 5, Pos (30,15)
+#. ID 111, Page 2, Line 5, Pos (40,15)
 msgid "\\>「サイコロ」エフェクトを破棄しました"
 msgstr ""
 "\\>Dice\n"
 "\\>Discarded Dice effect"
 
-#. ID 112, Page 1, Line 1, Pos (18,16)
+#. ID 112, Page 1, Line 1, Pos (19,7)
 #. Contains choice at line 2 (3 options)
 msgid "\\>エフェクト/お面を記憶して外す・付けるサンプル"
 msgstr "\\>Memorize effect/mask then put it off/on"
 
-#. ID 112, Page 1, Line 2, Pos (18,16)
+#. ID 112, Page 1, Line 2, Pos (19,7)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>記憶させて外す\n"
@@ -2111,9 +2115,9 @@ msgid ""
 msgstr ""
 "\\>Memorize and remove it\n"
 "\\>Use memorized\n"
-"\\>Check Memorized / X key to Cancel"
+"\\>Check memorized / X key to Cancel"
 
-#. ID 112, Page 1, Line 33, Pos (18,16)
+#. ID 112, Page 1, Line 33, Pos (19,7)
 msgid ""
 "\\>エフェクト「\\V[1439]」と「\\V[1440]」が記録されています。\n"
 "\n"
@@ -2123,26 +2127,23 @@ msgstr ""
 "\n"
 "\\>Memorized mask 「\\V[3930]」."
 
-#. ID 114, Page 1, Line 2, Pos (21,1)
-msgid ""
-"\\>全てのエフェクトを\n"
-"\\>エフェクト管理室（仮）に移動します"
-msgstr ""
-"\\>Do you want to drop all your effects\n"
-"\\>to the Trophy Room slots?"
+#. ID 114, Page 1, Line 2, Pos (31,1)
+#. Contains choice at line 2 (3 options)
+msgid "\\>エフェクト展示室"
+msgstr "\\>Trophy Room"
 
-#. ID 114, Page 1, Line 4, Pos (21,1)
-#. Choice (3 options)
+#. ID 114, Page 1, Line 3, Pos (31,1)
+#. Choice (3 options, embedded in a message)
 msgid ""
-"\\>はい\n"
-"\\>いいえ\n"
-"\\>エフェクト展示室へ行く"
+"\\>展示室へ移動する\n"
+"\\>エフェクト全捨て\n"
+"\\>なにもしない"
 msgstr ""
-"\\>Yes\n"
-"\\>No\n"
-"\\>Visit the Trophy Room"
+"\\>Visit the Trophy Room\n"
+"\\>Drop all effects\n"
+"\\>Do nothing"
 
-#. ID 115, Page 1, Line 1, Pos (12,25)
+#. ID 115, Page 1, Line 1, Pos (20,23)
 msgid ""
 "\\>飛行イベントのサンプルです。\n"
 "\\>戻りたいときはマップ左端を調べてください。"
@@ -2151,107 +2152,29 @@ msgstr ""
 "\\>Interact with the left side to return\n"
 "\\>(may not work)"
 
-#. ID 115, Page 1, Line 3, Pos (12,25)
+#. ID 115, Page 1, Line 3, Pos (20,23)
 #. Contains choice at line 2 (2 options)
 msgid "\\>飛んでみますか？"
 msgstr "\\>Do you want to fly?"
 
-#. ID 116, Page 1, Line 5, Pos (22,17)
+#. ID 116, Page 1, Line 5, Pos (32,17)
 msgid "\\>「空きスロット36」のエフェクトを手に入れました"
 msgstr ""
 "\\>Bike + Wolf\n"
 "\\>Obtained Bike + Wolf effect"
 
-#. ID 116, Page 2, Line 5, Pos (22,17)
+#. ID 116, Page 2, Line 5, Pos (32,17)
 msgid "\\>「空きスロット36」エフェクトを破棄しました"
 msgstr ""
 "\\>Bike + Wolf\n"
 "\\>Discarded Bike + Wolf effect"
 
-#. ID 117, Page 1, Line 1, Pos (60,3)
-#. Contains choice at line 2 (3 options)
-msgid "\\>【所持金の変更】　　　　※キャンセルで変更しない\\$"
-msgstr "\\>【Change money value】     ※ X key to Cancel\\$"
-
-#. ID 117, Page 1, Line 2, Pos (60,3)
-#. Choice (3 options, embedded in a message)
-msgid ""
-"\\>代入\n"
-"\\>加算\n"
-"\\>減算"
-msgstr ""
-"\\>Input value\n"
-"\\>Add\n"
-"\\>Subtract"
-
-#. ID 118, Page 1, Line 3, Pos (13,11)
-#. ID 119, Page 1, Line 3, Pos (14,11)
-#. ID 120, Page 1, Line 3, Pos (15,11)
-msgid ""
-"\\>作りかけの行き止まりなどは\n"
-"\\>「工事中」の表示をすると\n"
-"\\>プレイヤーに親切です。"
-msgstr ""
-"\\>Place an \"Under Construction\" sign at\n"
-"\\> a WIP place that a player can see."
-
-#. ID 118, Page 1, Line 6, Pos (13,11)
-#. ID 119, Page 1, Line 6, Pos (14,11)
-#. ID 120, Page 1, Line 6, Pos (15,11)
-msgid ""
-"\\>エフェクトをすべて試してダメでした。\n"
-"\\>という時はとってもガッカリします。"
-msgstr ""
-"\\>The players felt down when they tried\n"
-"\\>every effect at them."
-
-#. ID 121, Page 1, Line 1, Pos (18,25)
-msgid ""
-"暗くして視界を狭める関係の処理\n"
-"その1です。よかったら使ってあげてください。　"
-msgstr ""
-"Darken and shrink sight event\n"
-"No.1. Feel free to use this."
-
-#. ID 121, Page 1, Line 3, Pos (18,25)
-msgid "但し上下左右　20*15　以上空けたMAP限定になります。"
-msgstr ""
-"Only available for maps that are bigger\n"
-"than 20*15."
-
-#. ID 121, Page 1, Line 4, Pos (18,25)
-msgid ""
-"要はピクチャーで画面中央に穴を空けただけですので、\n"
-"常にうろつきが画面の中央に居ないと\n"
-"おかしいことになるので。"
-msgstr ""
-"This is just a black picture with a hole at the\n"
-"center. Therefore, Urotsuki must always be\n"
-"positioned at the center."
-
-#. ID 121, Page 1, Line 7, Pos (18,25)
-msgid ""
-"似たものでカンテラのイベントを博物館リベンジで\n"
-"利用しております。そちらのイベントも参考にして\n"
-"いただければと思います。"
-msgstr ""
-"A similar event is used for the Lantern Event\n"
-"in the Dark Museum. So please refer\n"
-"to this event too."
-
-#. ID 121, Page 1, Line 10, Pos (18,25)
-#. Contains choice at line 2 (2 options)
-#. ID 153, Page 1, Line 8, Pos (16,25)
-#. Contains choice at line 2 (2 options)
-msgid "はい　で　実行　いいえで終了"
-msgstr "Yes to run, No to Cancel"
-
-#. ID 131, Page 1, Line 3, Pos (58,3)
+#. ID 117, Page 1, Line 3, Pos (26,2)
 #. Contains choice at line 2 (3 options)
 msgid "\\>【？】BGM演奏？SE演奏？"
 msgstr "\\>【?】Play BGM? Play SE?"
 
-#. ID 131, Page 1, Line 4, Pos (58,3)
+#. ID 117, Page 1, Line 4, Pos (26,2)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>[0213:BGM演奏]コモンを呼ぶ\n"
@@ -2262,7 +2185,7 @@ msgstr ""
 "\\>Call CEV[0214:Play SE]\n"
 "\\>Cancel"
 
-#. ID 131, Page 1, Line 7, Pos (58,3)
+#. ID 117, Page 1, Line 7, Pos (26,2)
 msgid ""
 "\\>【？】コモンイベントに渡す数値は？\n"
 "\\>　　　（現在の数値：\\v[17]）"
@@ -2270,12 +2193,12 @@ msgstr ""
 "\\>【?】Input value to send to the CEV\n"
 "\\>　　　（Current：\\v[17]）"
 
-#. ID 131, Page 1, Line 11, Pos (58,3)
+#. ID 117, Page 1, Line 11, Pos (26,2)
 #. Contains choice at line 2 (2 options)
 msgid "\\>【？】続ける？　　\\\\V[17]:\\V[17]"
 msgstr "\\>【?】Continue?　　\\\\V[17]:\\V[17]"
 
-#. ID 131, Page 1, Line 24, Pos (58,3)
+#. ID 117, Page 1, Line 24, Pos (26,2)
 msgid ""
 "\\>【？】コモンイベントに渡す数値は？\n"
 "\\>　　　（現在の数値：\\v[18]）"
@@ -2283,12 +2206,101 @@ msgstr ""
 "\\>【?】Input value to send to the CEV\n"
 "\\>　　　（Current：\\v[18]）"
 
-#. ID 131, Page 1, Line 28, Pos (58,3)
+#. ID 117, Page 1, Line 28, Pos (26,2)
 #. Contains choice at line 2 (2 options)
 msgid "\\>【？】続ける？　　\\\\V[18]:\\V[18]"
 msgstr "\\>【?】Continue?　　\\\\V[18]:\\V[18]"
 
-#. ID 133, Page 1, Line 23, Pos (56,6)
+#. ID 118, Page 1, Line 3, Pos (18,10)
+#. ID 119, Page 1, Line 3, Pos (19,10)
+#. ID 120, Page 1, Line 3, Pos (20,10)
+msgid ""
+"\\>作りかけの行き止まりなどは\n"
+"\\>「工事中」の表示をすると\n"
+"\\>プレイヤーに親切です。"
+msgstr ""
+"\\>Marking WIP sections with an \"Under\n"
+"\\>Construction\" sign is helpful to players."
+
+#. ID 118, Page 1, Line 6, Pos (18,10)
+#. ID 119, Page 1, Line 6, Pos (19,10)
+#. ID 120, Page 1, Line 6, Pos (20,10)
+msgid ""
+"\\>エフェクトをすべて試してダメでした。\n"
+"\\>という時はとってもガッカリします。"
+msgstr ""
+"\\>They'll feel disappointed if they try out\n"
+"\\>every effect and none of them work."
+
+#. ID 121, Page 1, Line 1, Pos (28,20)
+msgid ""
+"暗くして視界を狭める関係の処理\n"
+"その1です。よかったら使ってあげてください。　"
+msgstr ""
+"Darken and shrink sight event\n"
+"No.1. Feel free to use this."
+
+#. ID 121, Page 1, Line 3, Pos (28,20)
+msgid "但し上下左右　20*15　以上空けたMAP限定になります。"
+msgstr ""
+"Only available for maps that are bigger\n"
+"than 20*15."
+
+#. ID 121, Page 1, Line 4, Pos (28,20)
+msgid ""
+"要はピクチャーで画面中央に穴を空けただけですので、\n"
+"常にうろつきが画面の中央に居ないと\n"
+"おかしいことになるので。"
+msgstr ""
+"This is just a black picture with a hole at the\n"
+"center. Therefore, Urotsuki must always be\n"
+"positioned at the center."
+
+#. ID 121, Page 1, Line 7, Pos (28,20)
+msgid ""
+"似たものでカンテラのイベントを博物館リベンジで\n"
+"利用しております。そちらのイベントも参考にして\n"
+"いただければと思います。"
+msgstr ""
+"A similar event is used for the Lantern Event\n"
+"in the Dark Museum. So please refer\n"
+"to this event too."
+
+#. ID 121, Page 1, Line 10, Pos (28,20)
+#. Contains choice at line 2 (2 options)
+#. ID 153, Page 1, Line 8, Pos (26,20)
+#. Contains choice at line 2 (2 options)
+msgid "はい　で　実行　いいえで終了"
+msgstr "Yes to run, No to Cancel"
+
+#. ID 131, Page 1, Line 1, Pos (10,5)
+msgid ""
+"これは\\c[1]#null.png\\c[0]、何も描かれてない画像です。\n"
+"\n"
+"\n"
+"……何も描かれてないのに気付くとは。やりおる。"
+msgstr ""
+"I'm \\c[1]#null.png\\c[0], an image file that displays NOTHING.\n"
+"\n"
+"...How'd you even find me if I'm invisible?\n"
+"That's pretty good."
+
+#. ID 131, Page 1, Line 5, Pos (10,5)
+msgid ""
+"◆キャラクターの動作指定 でキャラを透明にしたい時\n"
+"見えないけど向きがあるキャラが欲しい時など、\n"
+"何も描いてないグラフィックがあればいいのにって時に\n"
+"思い出して使ってくれたら嬉しいです。よろしくね。"
+msgstr ""
+"◆When you try to change character transparency\n"
+"using Set Move Route, when you need an invisible\n"
+"event that can still have a direction, or any time\n"
+"you think \"it'd be nice to have an empty charset\".\n"
+"<easyrpg:new_page>\n"
+"I'd be happy if you remember this tip and\n"
+"use this file. I'm at your service!"
+
+#. ID 133, Page 1, Line 23, Pos (66,6)
 msgid ""
 "\\>各種収集要素の条件を調べてみた\n"
 "\\>とりあえず[\\C[1]ver.0.106a\\C[0]]まで"
@@ -2378,12 +2390,12 @@ msgstr ""
 "\\>Characters] but only while S[0175: Penguin\n"
 "\\>action] is ON."
 
-#. ID 141, Page 1, Line 2, Pos (4,18)
+#. ID 141, Page 1, Line 2, Pos (5,18)
 #. Contains choice at line 2 (2 options)
 msgid "ボートイベントについての説明を聞きますか？"
 msgstr "Do you want to know about the Boat Event?"
 
-#. ID 141, Page 1, Line 5, Pos (4,18)
+#. ID 141, Page 1, Line 5, Pos (5,18)
 msgid ""
 "ボートのサンプルイベントです。\n"
 "実装には「乗船するイベント」と\n"
@@ -2393,7 +2405,7 @@ msgstr ""
 "To implement it, you need to use a 「Boarding\n"
 "Event」and a 「Disembarking Event」."
 
-#. ID 141, Page 1, Line 8, Pos (4,18)
+#. ID 141, Page 1, Line 8, Pos (5,18)
 msgid ""
 "使い方はそれぞれのイベントをコピーして\n"
 "編集するだけです。\n"
@@ -2403,7 +2415,7 @@ msgstr ""
 "and edit them.\n"
 "There are 2 ways to implement them."
 
-#. ID 141, Page 1, Line 11, Pos (4,18)
+#. ID 141, Page 1, Line 11, Pos (5,18)
 msgid ""
 " (1)イベント交換式\n"
 " (2)スイッチ式\n"
@@ -2415,7 +2427,7 @@ msgstr ""
 "Sample of (1) is the Goldfish boat($z).\n"
 "Sample of (2) are the other boats than (1)($w$y$x)."
 
-#. ID 141, Page 1, Line 15, Pos (4,18)
+#. ID 141, Page 1, Line 15, Pos (5,18)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "実装は(2)の方が簡単です。\n"
@@ -2424,12 +2436,12 @@ msgstr ""
 "(2) is easier to implement.\n"
 "Do you need more details?"
 
-#. ID 141, Page 1, Line 20, Pos (4,18)
-#. ID 141, Page 1, Line 73, Pos (4,18)
+#. ID 141, Page 1, Line 20, Pos (5,18)
+#. ID 141, Page 1, Line 73, Pos (5,18)
 msgid "どの説明を聞きますか？"
 msgstr "Which method do you want to know?"
 
-#. ID 141, Page 1, Line 21, Pos (4,18)
+#. ID 141, Page 1, Line 21, Pos (5,18)
 #. Choice (4 options)
 msgid ""
 "(1)イベント交換方式\n"
@@ -2442,7 +2454,7 @@ msgstr ""
 "(3)Type of Boat\n"
 "(4)Precaution"
 
-#. ID 141, Page 1, Line 23, Pos (4,18)
+#. ID 141, Page 1, Line 23, Pos (5,18)
 msgid ""
 "(1)イベント交換方式\n"
 "この方式では最低限3個のイベントが必要となります。\n"
@@ -2453,7 +2465,7 @@ msgstr ""
 "In this method, you need 3 events at least.\n"
 "It is used in 20's maps (MAP0186,0313)."
 
-#. ID 141, Page 1, Line 27, Pos (4,18)
+#. ID 141, Page 1, Line 27, Pos (5,18)
 msgid ""
 "名前の通り、イベントを交換する方法です。\n"
 "「乗船イベント」、\n"
@@ -2465,7 +2477,7 @@ msgstr ""
 "a 「Disembarking Event」, and\n"
 "a 「Blocking Point while On Board Event」."
 
-#. ID 141, Page 1, Line 31, Pos (4,18)
+#. ID 141, Page 1, Line 31, Pos (5,18)
 msgid ""
 "この方法ですと「乗船している判定」と\n"
 "「置いてあるボートの表示」を分けることができます。\n"
@@ -2474,10 +2486,10 @@ msgid ""
 msgstr ""
 "In this way you can divide [Detect on board]\n"
 "and [Off board boat].\n"
-"Although it may seems to be weird while\n"
+"Although it may seem to be weird while\n"
 "the player is boarding the boat."
 
-#. ID 141, Page 1, Line 35, Pos (4,18)
+#. ID 141, Page 1, Line 35, Pos (5,18)
 msgid ""
 "またマップが変わるとイベントIDは変わります。\n"
 "よってイベントIDやイベントの交換位置座標を\n"
@@ -2485,11 +2497,11 @@ msgid ""
 "また交換位置は画面に見えないようにするか、"
 msgstr ""
 "Plus if you moved to another map, the EventID will\n"
-"change too. Therefore, You need to set an EventID\n"
+"change too. Therefore, you need to set an EventID\n"
 "and an Event exchanging position in both maps.\n"
 "You must hide the boat by covering over"
 
-#. ID 141, Page 1, Line 39, Pos (4,18)
+#. ID 141, Page 1, Line 39, Pos (5,18)
 msgid ""
 "透明なグラフィックに変えるなどして、\n"
 "置いてあったボートを隠さないといけません。\n"
@@ -2501,7 +2513,7 @@ msgstr ""
 "using it is for the\n"
 "S[0574:Amusement Park  On Board]."
 
-#. ID 141, Page 1, Line 46, Pos (4,18)
+#. ID 141, Page 1, Line 46, Pos (5,18)
 msgid ""
 "(2)スイッチ方式\n"
 "この方法では最低限2個のイベントが必要となります。\n"
@@ -2513,7 +2525,7 @@ msgstr ""
 "Used in ◆wXeoWvpbbM's maps (MAP0436,0437)\n"
 "and in Wataru's maps"
 
-#. ID 141, Page 1, Line 50, Pos (4,18)
+#. ID 141, Page 1, Line 50, Pos (5,18)
 msgid ""
 "イベント交換方式でもスイッチは必要となりますが、\n"
 "こちらの方法は「乗船している判定」と\n"
@@ -2521,10 +2533,10 @@ msgid ""
 "同じスイッチを使用します。"
 msgstr ""
 "In this method, a switch is required too,\n"
-"buti it detects both 「Detect on board」\n"
+"but it detects both 「Detect on board」\n"
 "and 「Show off board boat」."
 
-#. ID 141, Page 1, Line 54, Pos (4,18)
+#. ID 141, Page 1, Line 54, Pos (5,18)
 msgid ""
 "そのため実際に表示されている画像と\n"
 "乗船している判定にずれが生じるかもしれません。\n"
@@ -2536,7 +2548,7 @@ msgstr ""
 "Be careful when creating an event [if\n"
 "player is on board/not]."
 
-#. ID 141, Page 1, Line 58, Pos (4,18)
+#. ID 141, Page 1, Line 58, Pos (5,18)
 msgid ""
 "サンプルで使用しているスイッチは\n"
 "「4103:ボート乗船中」または\n"
@@ -2546,7 +2558,7 @@ msgstr ""
 "S[4103:Boarding boat] or\n"
 "S[4986:Forest　Boarding canoe]."
 
-#. ID 141, Page 1, Line 64, Pos (4,18)
+#. ID 141, Page 1, Line 64, Pos (5,18)
 msgid ""
 "ボートはver0.103e時点で\n"
 "金魚型、遊泳ボート型、木舟型、白鳥型の\n"
@@ -2557,7 +2569,7 @@ msgstr ""
 "The Goldfish, Tour Boat, Wooden Boat, and the Swan.\n"
 "It adds 1 to each boat Variable when boarding."
 
-#. ID 141, Page 1, Line 68, Pos (4,18)
+#. ID 141, Page 1, Line 68, Pos (5,18)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "ボートの種類によって変わるのは見かけだけです。\n"
@@ -2566,7 +2578,7 @@ msgstr ""
 "The difference is only graphical.\\!\n"
 "Do you need more details?"
 
-#. ID 141, Page 1, Line 74, Pos (4,18)
+#. ID 141, Page 1, Line 74, Pos (5,18)
 #. Choice (4 options)
 msgid ""
 "(1)金魚型\n"
@@ -2579,7 +2591,7 @@ msgstr ""
 "(3)Wooden Boat\n"
 "(4)Swan"
 
-#. ID 141, Page 1, Line 78, Pos (4,18)
+#. ID 141, Page 1, Line 78, Pos (5,18)
 msgid ""
 "(1)金魚型：対応する変数は「2756:ボート 金魚」\n"
 "　 対応する歩行グラフィックは「20_CharSet_22」\n"
@@ -2590,7 +2602,7 @@ msgstr ""
 "Graphics: 「20_CharSet_22」\n"
 "Used in MAP0186 (Underwater Amusement Park) etc."
 
-#. ID 141, Page 1, Line 88, Pos (4,18)
+#. ID 141, Page 1, Line 88, Pos (5,18)
 msgid ""
 "(2)遊泳ボート型：対応する変数は\n"
 "   「2757:ボート 遊泳」\n"
@@ -2602,7 +2614,7 @@ msgstr ""
 "Graphics: [syujinkou_39ninme]\n"
 "Used in MAP0436 (Sunken City) etc."
 
-#. ID 141, Page 1, Line 99, Pos (4,18)
+#. ID 141, Page 1, Line 99, Pos (5,18)
 msgid ""
 "(3)木舟型：対応する変数は「2758:ボート 木舟」\n"
 "　 対応する歩行グラフィックは\n"
@@ -2614,7 +2626,7 @@ msgstr ""
 "Graphics: [wataru 主人公　カヌー移動]\n"
 "Used in MAP0512 (Forest Pier) etc."
 
-#. ID 141, Page 1, Line 110, Pos (4,18)
+#. ID 141, Page 1, Line 110, Pos (5,18)
 msgid ""
 "(4)白鳥型：対応する変数は「2759:ボート 白鳥」\n"
 "　 対応する歩行グラフィックは\n"
@@ -2626,7 +2638,7 @@ msgstr ""
 "Graphics: [wataru 主人公　カヌー移動]\n"
 "Used in MAP0564 (Overgrown Gate) etc."
 
-#. ID 141, Page 1, Line 129, Pos (4,18)
+#. ID 141, Page 1, Line 129, Pos (5,18)
 msgid ""
 "もし同じ画面内に2個以上のボートを設置する場合は、\n"
 "別々のスイッチを使うと良いでしょう。\n"
@@ -2638,7 +2650,7 @@ msgstr ""
 "If you use the same switch, either boat will\n"
 "disappear when the player will board it."
 
-#. ID 141, Page 1, Line 133, Pos (4,18)
+#. ID 141, Page 1, Line 133, Pos (5,18)
 msgid ""
 "長押し禁止・メニュー禁止の安全性をふまえると、\n"
 "一番オススメな実装方法は\n"
@@ -2648,287 +2660,287 @@ msgstr ""
 "Menu], Wataru's Wooden Boat or Swan method is\n"
 "recommended to be implemented."
 
-#. ID 151, Page 1, Line 3, Pos (18,14)
+#. ID 151, Page 1, Line 3, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "・・・おや？今は私があれこれ禁止中のようです。\n"
 "解除をした方がよろしいでしょうか？"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Hmm... Seems like I am active now.\n"
 "Shall I deactivate myself?"
 
-#. ID 151, Page 1, Line 6, Pos (18,14)
+#. ID 151, Page 1, Line 6, Pos (11,14)
 #. Contains choice at line 2 (2 options)
-#. ID 151, Page 1, Line 23, Pos (18,14)
+#. ID 151, Page 1, Line 23, Pos (11,14)
 #. Contains choice at line 2 (3 options)
-#. ID 151, Page 1, Line 37, Pos (18,14)
+#. ID 151, Page 1, Line 37, Pos (11,14)
 #. Contains choice at line 2 (2 options)
-#. ID 151, Page 1, Line 51, Pos (18,14)
+#. ID 151, Page 1, Line 51, Pos (11,14)
 #. Contains choice at line 2 (2 options)
 msgid "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]"
-msgstr "\\>◆CEV[0008:Forbid Action while Event]"
+msgstr "\\>◆CEV[0008:Forbid Action During Event]"
 
-#. ID 151, Page 1, Line 7, Pos (18,14)
+#. ID 151, Page 1, Line 7, Pos (11,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>[0009:ｲﾍﾞﾝﾄ中動作禁止解除]呼ぶ\n"
 "\\>このままでお願い"
 msgstr ""
-"\\>Call CEV[0009:deact' Forbid Action while Event]\n"
+"\\>Call CEV[0009:deact' Forbid Action During Event]\n"
 "\\>Don't deactivate yet"
 
-#. ID 151, Page 1, Line 9, Pos (18,14)
+#. ID 151, Page 1, Line 9, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "では、[0009:ｲﾍﾞﾝﾄ中動作禁止解除]を呼んできます。\n"
 "そうですね、1/60秒ほどお待ちください。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "All right, I'll call CEV[0009].\n"
 "Hmmm... please wait about 1/60s."
 
-#. ID 151, Page 1, Line 13, Pos (18,14)
+#. ID 151, Page 1, Line 13, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "はい、解除されたようですよ。\n"
 "それでは、また。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Here you go, I deactivated myself.\n"
 "Farewell."
 
-#. ID 151, Page 1, Line 24, Pos (18,14)
+#. ID 151, Page 1, Line 24, Pos (11,14)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>それって何？どう使うの？\n"
 "\\>使うとどんな感じ？\n"
 "\\>手短に教えろ　(Ｘでキャンセル)"
 msgstr ""
-"\\>What is that? How to use?\n"
+"\\>What is that? How do you use it?\n"
 "\\>How does it work?\n"
 "\\>TL;DR (X key to Cancel)"
 
-#. ID 151, Page 1, Line 26, Pos (18,14)
+#. ID 151, Page 1, Line 26, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "長押し動作されると困る、シフトキーのアレも困る、\n"
 "メニューを開かれたら困る、そんな時に私の出番！"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
-"You don't want to have to deal with the Action of\n"
-"an Effect, Shift key function, and opening Menu?\n"
-"Just call me!"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
+"When you don't want players to be able to use\n"
+"the action of an effect, the Shift key function,\n"
+"or open the menu, just call me!"
 
-#. ID 151, Page 1, Line 29, Pos (18,14)
+#. ID 151, Page 1, Line 29, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "私こと[0008:ｲﾍﾞﾝﾄ中動作禁止]を呼び出せば、\n"
 "足音は鳴らなくなり、メニューは開けなくなり、\n"
 "長押し動作も起こらなくなります！"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "I, CEV[0008], will forbid footsteps,\n"
-"opening Menu, and action when holding\n"
-"the Enter key!"
+"opening the menu, and actions triggered\n"
+"by holding the Enter key!"
 
-#. ID 151, Page 1, Line 33, Pos (18,14)
+#. ID 151, Page 1, Line 33, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "階段やハシゴを上り下りする際や、\n"
 "長いイベントシーンなどを作る際、\n"
 "こっそりと影で活躍しているのが私なのです。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
-"I'm working for stairs, ladders, and long event\n"
-"scenes."
+"\\>◆CEV[0008:Forbid Action During Event]\n"
+"You'll see me activated for stairs, ladders,\n"
+"and long event scenes."
 
-#. ID 151, Page 1, Line 38, Pos (18,14)
+#. ID 151, Page 1, Line 38, Pos (11,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>どう使えばいいの？\n"
 "\\>興味ないね"
 msgstr ""
-"\\>How to use you?\n"
+"\\>How do I use you?\n"
 "\\>I'm not interested"
 
-#. ID 151, Page 1, Line 40, Pos (18,14)
+#. ID 151, Page 1, Line 40, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "まずは、私こと[0008:ｲﾍﾞﾝﾄ中動作禁止]を\n"
 "イベントの呼び出しコマンドで呼びつけてください。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "First, call me (CEV[0008]) by using\n"
 "the [Call Event] Command."
 
-#. ID 151, Page 1, Line 43, Pos (18,14)
+#. ID 151, Page 1, Line 43, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "私を呼びましたら、後は演出や移動をして、\n"
 "私の弟である[0009:ｲﾍﾞﾝﾄ中動作禁止解除]ですね、\n"
 "彼を呼んで、禁止を解除してくださいませ。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "After calling me, do what you want, and then\n"
-"call my brother(CEV[0009]) to deactivate me.\n"
-"・CEV[0009:deact' Forbid Action while Event]"
+"call my brother (CEV[0009]) to deactivate me.\n"
+"・CEV[0009:deact' Forbid Action During Event]"
 
-#. ID 151, Page 1, Line 47, Pos (18,14)
+#. ID 151, Page 1, Line 47, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "もし[0009:ｲﾍﾞﾝﾄ中動作禁止解除]を呼ばなかった場合は\n"
 "永遠にメニューが開けないまま、長押しもできません。\n"
 "どうかご注意を。私と弟は二人で一つにございます。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
-"If you don't call the CEV[0009], you will not be\n"
-"able to open the Menu and holding the Enter key\n"
-"action permanently. \n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
+"If you don't call CEV[0009], you will indefinitely\n"
+"be unable to open the menu or use the Enter\n"
+"key action. \n"
 "<easyrpg:new_page>\n"
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Please be careful. CEV[0009] and I form a duo."
 
-#. ID 151, Page 1, Line 52, Pos (18,14)
+#. ID 151, Page 1, Line 52, Pos (11,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>よくある使い方\n"
 "\\>興味ないね"
 msgstr ""
-"\\>For example\n"
+"\\>Common usage\n"
 "\\>I'm not interested"
 
-#. ID 151, Page 1, Line 54, Pos (18,14)
+#. ID 151, Page 1, Line 54, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "例えば、マップ移動中ですね、\n"
 "画面は真暗でも、長押しの動作はできてしまいます。\n"
 "これを禁止する為に私が呼ばれることがありますね。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
-"While the player is moving from a map to\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
+"When the player is moving from one map to\n"
 "another, they can still hold the Enter key\n"
-"and act even if the screen is entirely dark.\n"
+"and act, even if the screen is entirely dark.\n"
 "<easyrpg:new_page>\n"
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "To prevent this, just call me."
 
-#. ID 151, Page 1, Line 58, Pos (18,14)
+#. ID 151, Page 1, Line 58, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "他には、うろつき様を勝手に歩かせる時など、\n"
 "重要なイベントシーンでも呼ばれています。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
-"I'm called for important event scenes,\n"
-"for example to make Urotsuki-sama\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
+"I'm called for important event scenes;\n"
+"for example, to make Urotsuki-sama\n"
 "walk automatically."
 
-#. ID 151, Page 1, Line 61, Pos (18,14)
+#. ID 151, Page 1, Line 61, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "少しクセのあるヤツだと言われた事もありますが、\n"
 "私を使いこなしていただければ、\n"
 "より安定した動作になるのではと思います。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Someone told me that I'm tricky, but\n"
-"the game performance will be stable\n"
-"if you use me skillfully,"
+"if you use me skillfully, I think I'll\n"
+"operate stably."
 
-#. ID 151, Page 1, Line 75, Pos (18,14)
+#. ID 151, Page 1, Line 75, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "長押しをした時の動作が起こらなくなり、\n"
 "メニューが開けなくなり、足音も消え、\n"
 "お気に入りエフェクト等も使えなくなります。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
-"Forbid opening Menu, footsteps,\n"
-"and Shift Key Functionality."
+"\\>◆CEV[0008:Forbid Action During Event]\n"
+"Forbid opening the menu, footsteps,\n"
+"and Shift key functionality."
 
-#. ID 151, Page 1, Line 79, Pos (18,14)
+#. ID 151, Page 1, Line 79, Pos (11,14)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "試しに、私を呼んでみましょうか？"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Do you want to try?"
 
-#. ID 151, Page 1, Line 81, Pos (18,14)
+#. ID 151, Page 1, Line 81, Pos (11,14)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>[0008:ｲﾍﾞﾝﾄ中動作禁止]を呼ぶ\n"
 "\\>やめてくれ"
 msgstr ""
-"\\>Call CEV[0008:Forbid Action while Event]\n"
+"\\>Call CEV[0008:Forbid Action During Event]\n"
 "\\>Cancel"
 
-#. ID 151, Page 1, Line 83, Pos (18,14)
+#. ID 151, Page 1, Line 83, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "では、[0008:ｲﾍﾞﾝﾄ中動作禁止]を呼んできます。\n"
 "そうですね、1/60秒ほどお待ちください。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Ok, I'll call CEV[0008].\n"
 "Let's see, please wait about 1/60s."
 
-#. ID 151, Page 1, Line 87, Pos (18,14)
+#. ID 151, Page 1, Line 87, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "はい、禁止いたしました。\n"
 "再び私に話しかければ解除いたしますので、\n"
 "効果を確認したら私の方へお願いいたします。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "My function is now active.\n"
 "To deactivate me, talk to me again."
 
-#. ID 151, Page 1, Line 97, Pos (18,14)
+#. ID 151, Page 1, Line 97, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "次のコモンイベントや仕組みの作動を禁止します。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "Forbid the following CEV and their actions."
 
-#. ID 151, Page 1, Line 99, Pos (18,14)
+#. ID 151, Page 1, Line 99, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "・エフェクトの長押し動作の発生\n"
 "・メニュー画面を開くこと\n"
 "・足音"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "・Effect action while holding key\n"
 "・Open Menu\n"
 "・Footsteps"
 
-#. ID 151, Page 1, Line 103, Pos (18,14)
+#. ID 151, Page 1, Line 103, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "・お気に入りエフェクト\n"
 "・エフェクトシフトチェンジ\n"
 "以上、主にこの５つです。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "・Favorite Effect\n"
 "・Effect Shift Key\n"
 "These 5 things."
 
-#. ID 151, Page 1, Line 107, Pos (18,14)
+#. ID 151, Page 1, Line 107, Pos (11,14)
 msgid ""
 "\\>◆コモンイベント[0008:ｲﾍﾞﾝﾄ中動作禁止]\n"
 "禁止した後、解除する時には\n"
 "[0009:ｲﾍﾞﾝﾄ中動作禁止解除]を呼び出して解除します。"
 msgstr ""
-"\\>◆CEV[0008:Forbid Action while Event]\n"
+"\\>◆CEV[0008:Forbid Action During Event]\n"
 "To deactivate, call\n"
-"CEV[0009:deact' Forbid Action while Event]."
+"CEV[0009:deact' Forbid Action During Event]."
 
-#. ID 153, Page 1, Line 2, Pos (16,25)
+#. ID 153, Page 1, Line 2, Pos (26,20)
 msgid ""
 "暗くして視界を狭める関係の処理\n"
 "その2です。こっちは画面内ならどこでもへーきへーき。"
@@ -2937,7 +2949,7 @@ msgstr ""
 "No.2. In this event, you don't need to\n"
 "position Urotsuki at the center of the screen."
 
-#. ID 153, Page 1, Line 4, Pos (16,25)
+#. ID 153, Page 1, Line 4, Pos (26,20)
 msgid ""
 "但し並列処理のイベントになるので、\n"
 "実装はその1より少しめんどくさいです。\n"
@@ -2949,7 +2961,7 @@ msgstr ""
 "For more details, check inside of the Event at\n"
 "the north of this Event."
 
-#. ID 153, Page 1, Line 15, Pos (16,25)
+#. ID 153, Page 1, Line 15, Pos (26,20)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "ついでに画面のスクロールも止める？\n"
@@ -2959,11 +2971,11 @@ msgstr ""
 "(If you go out of the screen, you will see\n"
 "the hard-earned tech behind the scenes.)"
 
-#. ID 153, Page 1, Line 19, Pos (16,25)
+#. ID 153, Page 1, Line 19, Pos (26,20)
 msgid "解除するときはまた話しかけてね。"
 msgstr "To deactivate, talk to me again."
 
-#. ID 155, Page 2, Line 2, Pos (57,6)
+#. ID 155, Page 2, Line 2, Pos (67,6)
 msgid ""
 "\\>ツクール2000はリリースされて久しく、\n"
 "\\>仕様についてはかなり研究が進んでいる\\<\\!\n"
@@ -2973,7 +2985,7 @@ msgstr ""
 "\\>released, and so many features were researched.\\<\\!\n"
 "\\>\\C[3]There is still a lot of unknown features though."
 
-#. ID 155, Page 2, Line 5, Pos (57,6)
+#. ID 155, Page 2, Line 5, Pos (67,6)
 msgid ""
 "\\>有志の研究の結果、面白い仕様や小技が発見されたが\n"
 "\\>その一部は「ツクールの想定外の値を設定する」\n"
@@ -2984,7 +2996,7 @@ msgstr ""
 "\\>of that uses glitches of RPG Maker like\n"
 "\\>\"setting an unexpected value\""
 
-#. ID 155, Page 2, Line 8, Pos (57,6)
+#. ID 155, Page 2, Line 8, Pos (67,6)
 msgid ""
 "\\>想定外の値は、当たり前だがツクール本体の\n"
 "\\>エディターでは設定できない\\<\\!\n"
@@ -2994,7 +3006,7 @@ msgstr ""
 "\\>You can't set unexpected values in RPG Maker.\n"
 "\\>Therefore, you need to use alternative tools."
 
-#. ID 155, Page 2, Line 12, Pos (57,6)
+#. ID 155, Page 2, Line 12, Pos (67,6)
 msgid ""
 "\\>外部ツールで著名なのはツクールブリッジだが\n"
 "\\>実際は他にもいろいろある"
@@ -3002,7 +3014,7 @@ msgstr ""
 "\\>A famous tool is \"Tkool Bridge\".\n"
 "\\>There are more.."
 
-#. ID 155, Page 2, Line 14, Pos (57,6)
+#. ID 155, Page 2, Line 14, Pos (67,6)
 msgid ""
 "\\>とりあえず俺が知ってる範囲で\n"
 "\\>コード作成できるツールを載せておく"
@@ -3010,7 +3022,7 @@ msgstr ""
 "\\>I'll write down tools that can\n"
 "\\>create codes as far as I know."
 
-#. ID 155, Page 2, Line 17, Pos (57,6)
+#. ID 155, Page 2, Line 17, Pos (67,6)
 msgid ""
 "\\>\\C[1]TkoolBridge\\C[0]\n"
 "\\>製作wikiの製作ツールページでも紹介されてるやつ\n"
@@ -3021,7 +3033,7 @@ msgstr ""
 "\\>Can create commands by editing\n"
 "\\>the RPG Maker Code directly"
 
-#. ID 155, Page 2, Line 20, Pos (57,6)
+#. ID 155, Page 2, Line 20, Pos (67,6)
 msgid ""
 "\\>\\C[1]TKcode Scripter+\\C[0]\n"
 "\\>ツクブリのようなTKコードそのものでなく、\n"
@@ -3031,7 +3043,7 @@ msgstr ""
 "\\>Uses its own grammar and then\n"
 "\\>transfer it to commands."
 
-#. ID 155, Page 2, Line 23, Pos (57,6)
+#. ID 155, Page 2, Line 23, Pos (67,6)
 msgid ""
 "\\>\\C[1]rpgfunc.as\\C[0]\n"
 "\\>実行ファイル形式でなく、HSP上でincludeして使う\n"
@@ -3043,7 +3055,7 @@ msgstr ""
 "\\>HSP is one of the programming languages\n"
 "\\>ans is required to use this."
 
-#. ID 155, Page 2, Line 27, Pos (57,6)
+#. ID 155, Page 2, Line 27, Pos (67,6)
 msgid ""
 "\\>\\C[1]BTL_SP\\C[0]\n"
 "\\>TKcodeを独自の文法で制御でき、\n"
@@ -3055,7 +3067,7 @@ msgstr ""
 "\\>grammar and can edit maps and part a of\n"
 "\\>the database. You can do many things with it."
 
-#. ID 155, Page 2, Line 31, Pos (57,6)
+#. ID 155, Page 2, Line 31, Pos (67,6)
 msgid ""
 "\\>\\C[1]RPGMaker2009Ultimate\\C[0]\n"
 "\\>ツクール2000/2003用の拡張エディター\n"
@@ -3066,7 +3078,7 @@ msgstr ""
 "\\>The original version is in English, but you can\n"
 "\\>also find a Japanese mod"
 
-#. ID 155, Page 2, Line 34, Pos (57,6)
+#. ID 155, Page 2, Line 34, Pos (67,6)
 msgid ""
 "\\>ただし、製品版のツクールが\n"
 "\\>インストールされてないと使えないうえ、\n"
@@ -3076,7 +3088,7 @@ msgstr ""
 "\\>required to use it; It checks if it's installed\n"
 "\\>or not"
 
-#. ID 155, Page 2, Line 37, Pos (57,6)
+#. ID 155, Page 2, Line 37, Pos (67,6)
 msgid ""
 "\\>DL購入した場合、製品版認定してくれないという\n"
 "\\>困った仕様があるが、解決法はちゃんとあるので\n"
@@ -3086,13 +3098,13 @@ msgstr ""
 "\\>but there are solutions so don't\n"
 "\\>give up and try to find that"
 
-#. ID 155, Page 2, Line 41, Pos (57,6)
-#. ID 155, Page 3, Line 28, Pos (57,6)
-#. ID 155, Page 4, Line 51, Pos (57,6)
+#. ID 155, Page 2, Line 41, Pos (67,6)
+#. ID 155, Page 3, Line 28, Pos (67,6)
+#. ID 155, Page 4, Line 51, Pos (67,6)
 msgid "\\>そんなとこだな"
 msgstr "\\>That's about it"
 
-#. ID 155, Page 3, Line 2, Pos (57,6)
+#. ID 155, Page 3, Line 2, Pos (67,6)
 msgid ""
 "\\>改変のありうる共同制作において、説明なしに\n"
 "\\>この処理を使ってしまったのは\n"
@@ -3102,7 +3114,7 @@ msgstr ""
 "\\>it is not good idea to use this processing\n"
 "\\>without manual."
 
-#. ID 155, Page 3, Line 5, Pos (57,6)
+#. ID 155, Page 3, Line 5, Pos (67,6)
 msgid ""
 "\\>「乗り物位置の設定」コマンドで\n"
 "\\>ツールを使い対象の乗り物を\\C[1]-1\\C[0]に設定することで\n"
@@ -3113,7 +3125,7 @@ msgstr ""
 "\\>the target vehicle to \\C[1]-1\\C[0]. \n"
 "\\>An alternative tool is required to do this."
 
-#. ID 155, Page 3, Line 11, Pos (57,6)
+#. ID 155, Page 3, Line 11, Pos (67,6)
 msgid ""
 "\\>今、会話中にSR分室に入室して戻ってきた\\<\\!\n"
 "\\>MAP1→MAP620→MAP1と移動していたが、\n"
@@ -3124,7 +3136,7 @@ msgstr ""
 "\\>you may have not noticed that since nothing has\n"
 "\\>changed on screen."
 
-#. ID 155, Page 3, Line 14, Pos (57,6)
+#. ID 155, Page 3, Line 14, Pos (67,6)
 msgid ""
 "\\>場所移動と違うのは、画面を即描画しないこと\\<\\!\n"
 "\\>場所移動コマンドは、使用時に画面を更新するが\n"
@@ -3135,7 +3147,7 @@ msgstr ""
 "\\>command updates the screen each time used,\n"
 "\\>but Set Vehicle Location doesn't."
 
-#. ID 155, Page 3, Line 17, Pos (57,6)
+#. ID 155, Page 3, Line 17, Pos (67,6)
 msgid ""
 "\\>つまり、ウェイトや画面更新を含む処理を挟まない限り\n"
 "\\>現在の画面を維持したまま他MAPへ移動可能なわけだ"
@@ -3144,7 +3156,7 @@ msgstr ""
 "\\>with the current screen as long as the processing\n"
 "\\>Wait or update the screen."
 
-#. ID 155, Page 3, Line 19, Pos (57,6)
+#. ID 155, Page 3, Line 19, Pos (67,6)
 msgid ""
 "\\>画面を維持するという点がポイントで、\n"
 "\\>画面上のピクチャを残したままMAP移動できる\\<\\!\n"
@@ -3156,7 +3168,7 @@ msgstr ""
 "\\>In the Album, the wallpapers are loaded through\n"
 "\\>Uro's Room, and the BGM through the Sound Room."
 
-#. ID 155, Page 3, Line 23, Pos (57,6)
+#. ID 155, Page 3, Line 23, Pos (67,6)
 msgid ""
 "\\>俺はアルバムの情報取得目的で使用しているが、\n"
 "\\>夢世界の演出にも利用できると思う\n"
@@ -3168,51 +3180,51 @@ msgstr ""
 "\\>Copy the Vehicle Starting Position command\n"
 "\\>inside this event and paste it where you want."
 
-#. ID 155, Page 3, Line 29, Pos (57,6)
+#. ID 155, Page 3, Line 29, Pos (67,6)
 #. ChangeHeroName (Actor 2)
-#. ID 155, Page 6, Line 4, Pos (57,6)
+#. ID 155, Page 6, Line 4, Pos (67,6)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "\\>「乗り物の位置を設定」について"
 msgstr "\\>About the 「Set Vehicle Starting Position」"
 
-#. ID 155, Page 4, Line 2, Pos (57,6)
+#. ID 155, Page 4, Line 2, Pos (67,6)
 msgid ""
 "\\>主人公の名前に\\C[1]\\\\V[1]\\C[0]と書くと\n"
 "\\>変数の値に置き換えられることはヘルプに書いてあるが\n"
 "\\>他の制御文字もちゃんと効くことは\n"
 "\\>意外と気づきにくいらしい"
 msgstr ""
-"\\>According to the Help, If you put \\C[1]\\\\V[1]\\C[0] for an\n"
+"\\>According to the Help, If you put \\C[1]\\\\V[1]\\C[0] for a\n"
 "\\>Hero's name, it exchanges to values of Variables,\n"
 "\\>but it was not specified that Control Characters\n"
 "\\>also work."
 
-#. ID 155, Page 4, Line 8, Pos (57,6)
+#. ID 155, Page 4, Line 8, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 4, Line 19, Pos (57,6)
+#. ID 155, Page 4, Line 19, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 4, Line 30, Pos (57,6)
+#. ID 155, Page 4, Line 30, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 4, Line 40, Pos (57,6)
+#. ID 155, Page 4, Line 40, Pos (67,6)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "\\C[2]"
 msgstr ""
 
-#. ID 155, Page 4, Line 11, Pos (57,6)
+#. ID 155, Page 4, Line 11, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 4, Line 22, Pos (57,6)
+#. ID 155, Page 4, Line 22, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 4, Line 33, Pos (57,6)
+#. ID 155, Page 4, Line 33, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 4, Line 43, Pos (57,6)
+#. ID 155, Page 4, Line 43, Pos (67,6)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "\\C[1]"
 msgstr ""
 
-#. ID 155, Page 4, Line 14, Pos (57,6)
+#. ID 155, Page 4, Line 14, Pos (67,6)
 msgid ""
 "\\>\\N[1]今メッセージを決定キーで送った人は青文字、\n"
 "\\>キャンセルキーで送った人は赤文字で\n"
@@ -3222,7 +3234,7 @@ msgstr ""
 "\\>Blue if you press the Enter key\n"
 "\\>or Red if you press the Cancel key."
 
-#. ID 155, Page 4, Line 25, Pos (57,6)
+#. ID 155, Page 4, Line 25, Pos (67,6)
 msgid ""
 "\\>\\N[1]次以降のメッセージを別のキーで送ってみるといい\\<\\!\n"
 "\\>決定キーなら青文字、キャンセルキーなら赤文字で\n"
@@ -3232,7 +3244,7 @@ msgstr ""
 "\\>Enter key for Blue, cancel key for Red\n"
 "\\>"
 
-#. ID 155, Page 4, Line 36, Pos (57,6)
+#. ID 155, Page 4, Line 36, Pos (67,6)
 msgid ""
 "\\>\\N[1]\\\\C[1]のような色変更以外にも\n"
 "\\>\\\\>,\\\\.などの表示時間の制御も効く"
@@ -3240,39 +3252,39 @@ msgstr ""
 "\\>\\N[1]Apply to changing color like \\\\C[1],\n"
 "\\>and controlling display time like\\\\>,\\\\.."
 
-#. ID 155, Page 4, Line 46, Pos (57,6)
+#. ID 155, Page 4, Line 46, Pos (67,6)
 msgid ""
 "\\>\\N[1]2っきでは文章表示自体が限られた状況でしか\n"
 "\\>使えないため活用できる機会は少ないかもしれないが\n"
 "\\>SREDのクレジットかっとばしに使っているので\n"
 "\\>一応説明しておいた"
 msgstr ""
-"\\>\\N[1]In Yume2kki, it can only be used for\n"
+"\\>\\N[1]In Yume 2kki, it can only be used for\n"
 "\\>limited situations, so it's hard to use this.\n"
 "\\>It is used to skip the SRED Credits,\n"
 "\\>so I tried to explain it here."
 
-#. ID 155, Page 4, Line 52, Pos (57,6)
+#. ID 155, Page 4, Line 52, Pos (67,6)
 #. ChangeHeroName (Actor 1)
-#. ID 155, Page 6, Line 3, Pos (57,6)
+#. ID 155, Page 6, Line 3, Pos (67,6)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "\\>特殊な処理に必要なツール"
 msgstr "\\>Tools for special processing"
 
-#. ID 155, Page 6, Line 5, Pos (57,6)
+#. ID 155, Page 6, Line 5, Pos (67,6)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "\\>「主人公の名前変更」について"
 msgstr "\\>About 「Changing Hero's Name」"
 
-#. ID 155, Page 6, Line 6, Pos (57,6)
+#. ID 155, Page 6, Line 6, Pos (67,6)
 #. ChangeHeroName (Actor 4)
 msgctxt "actors.name"
 msgid "\\>終了する"
 msgstr "\\>End"
 
-#. ID 155, Page 6, Line 8, Pos (57,6)
+#. ID 155, Page 6, Line 8, Pos (67,6)
 #. Contains choice at line 3 (1 options)
 msgid ""
 "\\>製作に関する話（主に処理方面）\\<\\!\n"
@@ -3281,12 +3293,12 @@ msgstr ""
 "\\>Story about creating (Mainly processing)\\<\\!\n"
 "\\>It's not easy but do you want to read?"
 
-#. ID 155, Page 6, Line 10, Pos (57,6)
+#. ID 155, Page 6, Line 10, Pos (67,6)
 #. Choice (1 options, embedded in a message)
 msgid "\\>聞く = Z / 聞かない = X"
 msgstr "\\>Yes = Z /No = X"
 
-#. ID 155, Page 6, Line 13, Pos (57,6)
+#. ID 155, Page 6, Line 13, Pos (67,6)
 #. Choice (4 options)
 msgid ""
 "\\>\\N[1]\n"
@@ -3295,49 +3307,49 @@ msgid ""
 "\\>\\N[4]"
 msgstr ""
 
-#. ID 155, Page 6, Line 36, Pos (57,6)
+#. ID 155, Page 6, Line 36, Pos (67,6)
 #. ChangeHeroName (Actor 1)
 #. ID 158, Page 2, Line 59, Pos (19,0)
 #. ChangeHeroName (Actor 1)
-#. ID 183, Page 6, Line 221, Pos (56,8)
+#. ID 183, Page 6, Line 219, Pos (66,3)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "うろつき"
 msgstr ""
 
-#. ID 155, Page 6, Line 37, Pos (57,6)
+#. ID 155, Page 6, Line 37, Pos (67,6)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "デフォルト"
 msgstr ""
 
-#. ID 155, Page 6, Line 38, Pos (57,6)
+#. ID 155, Page 6, Line 38, Pos (67,6)
 #. ChangeHeroName (Actor 3)
-#. ID 183, Page 6, Line 223, Pos (56,8)
+#. ID 183, Page 6, Line 221, Pos (66,3)
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "デフォルト1"
 msgstr ""
 
-#. ID 155, Page 6, Line 39, Pos (57,6)
+#. ID 155, Page 6, Line 39, Pos (67,6)
 #. ChangeHeroName (Actor 4)
-#. ID 183, Page 6, Line 224, Pos (56,8)
+#. ID 183, Page 6, Line 222, Pos (66,3)
 #. ChangeHeroName (Actor 4)
 msgctxt "actors.name"
 msgid "デフォルト2"
 msgstr ""
 
-#. ID 157, Page 1, Line 9, Pos (16,16)
+#. ID 157, Page 1, Line 9, Pos (22,7)
 msgid ""
-"\\>◆お面屋の変身 (0で中止)(99で選択画面)(現在\\V[3930])\n"
+"\\>◆お面他装備 (0で中止)(99で選択画面)(現在\\V[3930])\n"
 "\\>1～エフェ / 51～エフェMIX / 100～すっぴんランダム\n"
-"\\>/ 500000～その他Ev用"
+"\\>/ 500000～その他Ev用   ※左右の水色矢印で連番変身"
 msgstr ""
 "\\>◆Change Mask (0 to cancel) (99 for the Mask Menu)\n"
 "\\>1～Effect /51～Effect MIX/ 100～Non-Effect Masks\n"
 "\\>/500000～For Event Masks - Current: \\V[3930]"
 
-#. ID 158, Page 1, Line 8, Pos (19,0)
+#. ID 158, Page 1, Line 11, Pos (19,0)
 msgid ""
 "\\>現到達MAP数：\\V[3511]／\\V[3512]\n"
 "\\>現MAP到達率：\\V[3513]％"
@@ -3345,56 +3357,51 @@ msgstr ""
 "\\>Current visited Map(s): \\V[3511]/\\V[3512]\n"
 "\\>Current Map Rate: \\V[3513]%"
 
-#. ID 158, Page 1, Line 10, Pos (19,0)
-#. Contains choice at line 2 (3 options)
+#. ID 158, Page 1, Line 13, Pos (19,0)
+#. Contains choice at line 2 (2 options)
 msgid "\\>※MAP到達済みフラグ操作メニュー※"
 msgstr "\\>※Visited Map Flag Control Menu※"
 
-#. ID 158, Page 1, Line 11, Pos (19,0)
-#. Choice (3 options, embedded in a message)
+#. ID 158, Page 1, Line 14, Pos (19,0)
+#. Choice (2 options, embedded in a message)
 msgid ""
 "\\>何もしない\n"
-"\\>全MAP到達済みにする\n"
-"\\>"
+"\\>全MAP到達済みにする"
 msgstr ""
 "\\>Do nothing\n"
-"\\>change all to visited\n"
-"\\>"
+"\\>Change all to visited"
 
-#. ID 158, Page 1, Line 15, Pos (19,0)
+#. ID 158, Page 1, Line 18, Pos (19,0)
 #. Contains choice at line 3 (2 options)
 msgid ""
-"\\>しばらく時間がかかります。\n"
-"\\>よろしいですか？ (右キー押しながら決定で途中経過表示)"
+"\\>MAPID:\\v[26] までの全てに到達させます。\n"
+"\\>重い＆時間かかります。(右押しながら決定で経過表示)"
 msgstr ""
+"\\>Processes everything up to MAPID:\\v[26].\n"
 "\\>This will take a while.\n"
-"\\>Proceed? (Hold → key and proceed to show progress)"
+"(Hold → key while proceeding to show progress)"
 
-#. ID 158, Page 1, Line 17, Pos (19,0)
+#. ID 158, Page 1, Line 20, Pos (19,0)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>よろしいです\n"
 "\\>じゃあ止めます"
 msgstr ""
-"\\>Yes\n"
+"\\>Proceed\n"
 "\\>Cancel"
 
-#. ID 158, Page 1, Line 38, Pos (19,0)
-msgid "\\>mapID:\\v[28] OK\\^"
-msgstr ""
-
-#. ID 158, Page 1, Line 72, Pos (19,0)
+#. ID 158, Page 1, Line 77, Pos (19,0)
 msgid "\\>完了しました"
 msgstr "\\>Completed"
 
-#. ID 158, Page 1, Line 81, Pos (19,0)
+#. ID 158, Page 1, Line 84, Pos (19,0)
 #. Contains choice at line 2 (2 options)
 msgid "\\>以降、デバッグ用到達済み処理を呼び出しますか？"
 msgstr ""
 "\\>Do you still want to call the visited map\n"
 "\\>processing for Debug purposes?"
 
-#. ID 158, Page 1, Line 87, Pos (19,0)
+#. ID 158, Page 1, Line 90, Pos (19,0)
 msgid ""
 "\\>設定を変更しました\n"
 "\\>　以降、デバッグアイテムを捨てるまで\n"
@@ -3417,9 +3424,9 @@ msgstr ""
 
 #. ID 158, Page 2, Line 10, Pos (19,0)
 msgid ""
-"\\>【未訪問マップをチェック】\n"
-"\\>マップ訪問判定が行われているマップで、\n"
-"\\>訪問した判定になっていないマップを調べます。"
+"\\>【未到達マップをチェック】\n"
+"\\>マップ到達判定が行われているマップで、\n"
+"\\>到達した判定になっていないマップを調べます。"
 msgstr ""
 "\\>【Unvisited Maps Checker】\n"
 "\\>Check unvisited map(s) that detect visit."
@@ -3428,7 +3435,7 @@ msgstr ""
 #. Contains choice at line 2 (3 options)
 #. ID 158, Page 2, Line 19, Pos (19,0)
 #. Contains choice at line 2 (3 options)
-msgid "\\>【未訪問マップをチェック】"
+msgid "\\>【未到達マップをチェック】"
 msgstr "\\>【Unvisited Map Checker】"
 
 #. ID 158, Page 2, Line 14, Pos (19,0)
@@ -3475,19 +3482,19 @@ msgstr ""
 msgid "\\>「おきる」→「マップ到達」を選択し確認せよ！"
 msgstr "\\>Select 「Wake Up」→「マップ到達」 and check!"
 
-#. ID 162, Page 1, Line 2, Pos (12,22)
+#. ID 162, Page 1, Line 2, Pos (19,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "置けません"
 msgstr "cannot"
 
-#. ID 162, Page 1, Line 5, Pos (12,22)
+#. ID 162, Page 1, Line 5, Pos (19,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "置けます"
 msgstr "can"
 
-#. ID 162, Page 1, Line 8, Pos (12,22)
+#. ID 162, Page 1, Line 8, Pos (19,13)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>現在、ティッシュを\\n[2]。\n"
@@ -3496,7 +3503,7 @@ msgstr ""
 "\\>Currently, you \\n[2] put tissues on the ground.\n"
 "\\>You can't if S[1984:Forbid put tissue] is ON."
 
-#. ID 162, Page 1, Line 10, Pos (12,22)
+#. ID 162, Page 1, Line 10, Pos (19,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "置ける/置けないを切り替える\n"
@@ -3505,7 +3512,7 @@ msgstr ""
 "Toggle S[1984]\n"
 "More details"
 
-#. ID 162, Page 1, Line 23, Pos (12,22)
+#. ID 162, Page 1, Line 23, Pos (19,13)
 msgid ""
 "\\>\\\\S[1984:ティッシュ設置禁止]をONにすると、\n"
 "\\>ティッシュが空箱になって使えなくなります。"
@@ -3514,7 +3521,7 @@ msgstr ""
 "\\>the tissue box will be empty,\n"
 "\\>so will not be able to put tissues."
 
-#. ID 162, Page 1, Line 25, Pos (12,22)
+#. ID 162, Page 1, Line 25, Pos (19,13)
 msgid ""
 "\\>ただし、スイッチを操作しただけでは\n"
 "\\>ティッシュのグラフィックが空箱になりません。\n"
@@ -3526,23 +3533,23 @@ msgstr ""
 "\\>Call the CEV[0027:【Call】Update Effect Graphic]\n"
 "\\>after having toggled that switch."
 
-#. ID 163, Page 1, Line 2, Pos (18,22)
+#. ID 163, Page 1, Line 2, Pos (18,13)
 #. ChangeHeroName (Actor 2)
-#. ID 164, Page 1, Line 2, Pos (8,22)
+#. ID 164, Page 1, Line 2, Pos (21,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "使えません"
 msgstr "cannot"
 
-#. ID 163, Page 1, Line 5, Pos (18,22)
+#. ID 163, Page 1, Line 5, Pos (18,13)
 #. ChangeHeroName (Actor 2)
-#. ID 164, Page 1, Line 5, Pos (8,22)
+#. ID 164, Page 1, Line 5, Pos (21,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "使えます"
 msgstr "can"
 
-#. ID 163, Page 1, Line 8, Pos (18,22)
+#. ID 163, Page 1, Line 8, Pos (18,13)
 msgid ""
 "\\>現在、すっぴんの長押し動作を\\n[2]。\n"
 "\\>\\\\S[1982:すっぴん座り禁止]がONだと\n"
@@ -3552,14 +3559,14 @@ msgstr ""
 "\\>You can't sit with no effect if\n"
 "\\>S[1982:Forbid sit with no effect] is ON."
 
-#. ID 163, Page 1, Line 11, Pos (18,22)
+#. ID 163, Page 1, Line 11, Pos (18,13)
 #. Contains choice at line 2 (2 options)
 msgid "\\>\\\\S[1982:すっぴん座り禁止]"
 msgstr "\\>S[1982:Forbid sit with no effect]"
 
-#. ID 163, Page 1, Line 12, Pos (18,22)
+#. ID 163, Page 1, Line 12, Pos (18,13)
 #. Choice (2 options, embedded in a message)
-#. ID 164, Page 1, Line 12, Pos (8,22)
+#. ID 164, Page 1, Line 12, Pos (21,13)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "使えなくする\n"
@@ -3568,7 +3575,7 @@ msgstr ""
 "Activate\n"
 "Deactivate"
 
-#. ID 164, Page 1, Line 8, Pos (8,22)
+#. ID 164, Page 1, Line 8, Pos (21,13)
 msgid ""
 "\\>現在、ぺんぎんの長押し動作を\\n[2]。\n"
 "\\>\\\\S[0019:ぺんぎん腹滑り禁止]がONだと\n"
@@ -3579,24 +3586,24 @@ msgstr ""
 "\\>Slide] is ON, you will not be able to slide while\n"
 "\\>using the Penguin effect."
 
-#. ID 164, Page 1, Line 11, Pos (8,22)
+#. ID 164, Page 1, Line 11, Pos (21,13)
 #. Contains choice at line 2 (2 options)
 msgid "\\>\\\\S[0019:ぺんぎん腹滑り禁止]"
 msgstr "\\>S[0019:Forbid Penguin Slide]"
 
-#. ID 165, Page 1, Line 2, Pos (16,22)
+#. ID 165, Page 1, Line 2, Pos (16,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "非表示"
 msgstr "hidden"
 
-#. ID 165, Page 1, Line 5, Pos (16,22)
+#. ID 165, Page 1, Line 5, Pos (16,13)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "表示するよう"
 msgstr "shown"
 
-#. ID 165, Page 1, Line 8, Pos (16,22)
+#. ID 165, Page 1, Line 8, Pos (16,13)
 msgid ""
 "\\>現在、ようせい/うちゅうふくの\n"
 "\\>足元に表示される影を\\n[2]にしています。"
@@ -3604,12 +3611,12 @@ msgstr ""
 "Currently, the shadow of the Fairy/Spacesuit\n"
 "effect is \\n[2]."
 
-#. ID 165, Page 1, Line 10, Pos (16,22)
+#. ID 165, Page 1, Line 10, Pos (16,13)
 #. Contains choice at line 2 (3 options)
 msgid "\\>\\\\S[1125:うろつき影無し宇宙]"
 msgstr "\\>S[1125:No Shadow of Flying Effect]"
 
-#. ID 165, Page 1, Line 11, Pos (16,22)
+#. ID 165, Page 1, Line 11, Pos (16,13)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "影を消す/影を出す\n"
@@ -3620,7 +3627,7 @@ msgstr ""
 "More details\n"
 "Change Background picture"
 
-#. ID 165, Page 1, Line 24, Pos (16,22)
+#. ID 165, Page 1, Line 24, Pos (16,13)
 msgid ""
 "\\>\\\\S[1125:うろつき影無し宇宙]をONにすると、\n"
 "\\>空中に浮かぶエフェクトの影が出なくなります。"
@@ -3628,7 +3635,7 @@ msgstr ""
 "\\>If the S[1125:No Shadow of Flying Effect] is ON,\n"
 "\\>the shadow of flying effects will be hidden."
 
-#. ID 165, Page 1, Line 26, Pos (16,22)
+#. ID 165, Page 1, Line 26, Pos (16,13)
 msgid ""
 "\\>ただし、スイッチを操作しただけでは\n"
 "\\>ようせい等のグラフィックが更新されません。\n"
@@ -3640,9 +3647,9 @@ msgstr ""
 "\\>Call the CEV[0027:【Call】Update Effect Graphic] \n"
 "\\>after toggling the switch."
 
-#. ID 166, Page 1, Line 3, Pos (17,11)
-#. ID 178, Page 1, Line 3, Pos (16,11)
-#. ID 179, Page 1, Line 3, Pos (18,11)
+#. ID 166, Page 1, Line 3, Pos (23,10)
+#. ID 178, Page 1, Line 3, Pos (22,10)
+#. ID 179, Page 1, Line 3, Pos (24,10)
 msgid ""
 "\\>左にあるものと同じ「工事中」の表示です。\n"
 "\n"
@@ -3651,12 +3658,12 @@ msgid ""
 msgstr ""
 "\\>Same as left, this is an \"Under Construction\" sign.\n"
 "\n"
-"\\>This hint that \"Anyone can make a connection here\"\n"
-"\\>....or some nuance like that."
+"\\>This implies \"Anyone can make a connection here\"\n"
+"\\>....or something along those lines."
 
-#. ID 166, Page 1, Line 7, Pos (17,11)
-#. ID 178, Page 1, Line 7, Pos (16,11)
-#. ID 179, Page 1, Line 7, Pos (18,11)
+#. ID 166, Page 1, Line 7, Pos (23,10)
+#. ID 178, Page 1, Line 7, Pos (22,10)
+#. ID 179, Page 1, Line 7, Pos (24,10)
 msgid ""
 "\\>繋ぎ部屋などに置いておくと、\n"
 "\\>「この辺に追加すればいいのね」\n"
@@ -3665,7 +3672,7 @@ msgstr ""
 "\\>It makes easier for other creators to find a place\n"
 "\\>to connect if you put them in connection rooms."
 
-#. ID 167, Page 1, Line 8, Pos (6,5)
+#. ID 167, Page 1, Line 12, Pos (12,5)
 msgid ""
 "他のツクラーさんへ向けて、\n"
 "編集に関する意思表示を行うアイコンです。\n"
@@ -3677,7 +3684,7 @@ msgstr ""
 "Putting these at the upper-left corner of your\n"
 "map is recommended."
 
-#. ID 167, Page 1, Line 13, Pos (6,5)
+#. ID 167, Page 1, Line 17, Pos (12,5)
 msgid ""
 "アニメーションタイプが 通常/足踏みなし なので、\n"
 "ゲーム中では何も表示されません。\n"
@@ -3688,7 +3695,7 @@ msgstr ""
 "Fix (Inanimate). You can tell to the other creators\n"
 "your mind without dropping in gameplay quality."
 
-#. ID 167, Page 1, Line 17, Pos (6,5)
+#. ID 167, Page 1, Line 21, Pos (12,5)
 msgid ""
 "イベント内の注釈も併用することで、\n"
 "スムーズな意思疎通が、もしかしたら可能になるかも。"
@@ -3696,7 +3703,7 @@ msgstr ""
 "Using Comments inside of these Events makes it\n"
 "easier to tell your mind to the other creators."
 
-#. ID 167, Page 1, Line 20, Pos (6,5)
+#. ID 167, Page 1, Line 24, Pos (12,5)
 msgid ""
 "OK,NG,Info の3種類を用意しています。\n"
 "「イベント設置だけなら…」「ここから上はダメ」など\n"
@@ -3707,11 +3714,7 @@ msgstr ""
 "\"Just putting an event here is fine\" or\n"
 "\"Don't edit anything above here!\" etc."
 
-#. ID 167, Page 1, Line 24, Pos (6,5)
-msgid "……気が向いたら使ってね。"
-msgstr "……So feel free to try it."
-
-#. ID 168, Page 1, Line 1, Pos (7,5)
+#. ID 168, Page 1, Line 1, Pos (11,5)
 msgid ""
 "僕は\\c[1]#System_EVicon01.png\\c[0]です。\n"
 "ツクール上でイベントの中身を見分けたい時に、\n"
@@ -3722,7 +3725,7 @@ msgstr ""
 "I will make it easier to keep your events\n"
 "organized."
 
-#. ID 168, Page 1, Line 5, Pos (7,5)
+#. ID 168, Page 1, Line 5, Pos (11,5)
 msgid ""
 "パターンがLEFT/RIGHTの所にだけアイコンがあります。\n"
 "なんだかおかしな構成に見えますが、\n"
@@ -3734,22 +3737,22 @@ msgstr ""
 "\\C[1]not in game\\C[0] if the Animation Type is \\C[1]Standing\n"
 "\\C[1]Animation or Direction Fix (Inanimated).\\C[0]"
 
-#. ID 168, Page 1, Line 10, Pos (7,5)
+#. ID 168, Page 1, Line 10, Pos (11,5)
 msgid ""
 "遊んでる時は見えないけれど、ツクールで見ると\n"
-"この近くにもいくつかアイコンが居るんですよ。\n"
+"この近くにもいくつかアイコンが居ます。この隣とか。\n"
 "気が向いたら使ってみてね。"
 msgstr ""
-"You can't see them in game, but \n"
-"there are many icons around here.\n"
+"You can't see them in game, but there are many\n"
+"such icons here, including one right beside me.\n"
 "Feel free to use them."
 
-#. ID 169, Page 1, Line 8, Pos (16,14)
+#. ID 169, Page 1, Line 8, Pos (25,7)
 #. Contains choice at line 2 (3 options)
 msgid "\\>コモンEV:【呼】即席ショトカ"
 msgstr "\\>CEV:[0290【Call】Instant Shortcut]"
 
-#. ID 169, Page 1, Line 9, Pos (16,14)
+#. ID 169, Page 1, Line 9, Pos (25,7)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>機能説明\n"
@@ -3760,30 +3763,30 @@ msgstr ""
 "\\>How to implement\n"
 "\\>Cancel"
 
-#. ID 169, Page 1, Line 11, Pos (16,14)
+#. ID 169, Page 1, Line 11, Pos (25,7)
 msgid ""
 "\\>コモンEV:【呼】即席ショトカ\n"
 "うろつき邸へのショートカットになるコモンEVです。\n"
-"双方向移動が可能ですが、\n"
-"\"最後に調べた1つ\"としか繋がりません。"
+"ただし\"最後に調べた1つだけ\"という制限付きで、\n"
+"プレイヤーは好みで使い分けるものとなります。"
 msgstr ""
 "\\>CEV:[0290【Call】Instant Shortcut]\n"
 "This CEV can make a shortcut to Urotsuki's Dream\n"
-"Apartments. The connection is bi-directional but\n"
-"only connects to the last phone interacted."
+"Apartments. It only connects to the last phone\n"
+"interacted, so players can choose how to use it."
 
-#. ID 169, Page 1, Line 15, Pos (16,14)
+#. ID 169, Page 1, Line 15, Pos (25,7)
 msgid ""
 "\\>コモンEV:【呼】即席ショトカ\n"
-"\"設置場所が限定的だけど起きても残るコウモリワープ\"\n"
-"……みたいな感じの機能です。"
+"ここらで一旦セーブしに戻れますぞ、とか\n"
+"もう片方の道を後で見たい人は活用してね、とか\n"
+"そういった用途を想定しています。"
 msgstr ""
-"\\>CEV:[0290【Call】Instant Shortcut]\n"
-"You can see it as a \"Limited Bat warp\n"
-"that lasts even after waking up\"\n"
-".......It's a functionality like this."
+"For instance, letting you wake up to save,\n"
+"then easily revisit an area to check it out more—\n"
+"that's the kind of usage I had in mind."
 
-#. ID 169, Page 1, Line 18, Pos (16,14)
+#. ID 169, Page 1, Line 19, Pos (25,7)
 msgid ""
 "\\>コモンEV:【呼】即席ショトカ\n"
 "MAPID:0147に設置してあるので、試しに使ってみてね。"
@@ -3792,7 +3795,7 @@ msgstr ""
 "Used in MAPID:0147.\n"
 "Feel free to try it."
 
-#. ID 169, Page 1, Line 22, Pos (16,14)
+#. ID 169, Page 1, Line 23, Pos (25,7)
 msgid ""
 "\\>コモンEV:【呼】即席ショトカ\n"
 "上記のコモンイベントを呼び出すだけです。\n"
@@ -3802,11 +3805,11 @@ msgstr ""
 "Just call this CEV.\n"
 "Or you can Copy & Paste this event."
 
-#. ID 171, Page 1, Line 2, Pos (40,7)
+#. ID 171, Page 1, Line 2, Pos (50,7)
 msgid "空選択(0～7)"
 msgstr "Select sky (0~7)"
 
-#. ID 174, Page 1, Line 11, Pos (16,28)
+#. ID 174, Page 1, Line 11, Pos (26,23)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>特殊なアニメを組み込むときのサンプルイベントです\\<\n"
@@ -3816,7 +3819,7 @@ msgstr ""
 "\\>If you implement it like this, it might\\<\n"
 "\\>process well.\\<"
 
-#. ID 174, Page 1, Line 13, Pos (16,28)
+#. ID 174, Page 1, Line 13, Pos (26,23)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>試してみる\\<\n"
@@ -3825,7 +3828,7 @@ msgstr ""
 "\\>Try it out\\<\n"
 "\\>Restore to default\\<"
 
-#. ID 174, Page 1, Line 15, Pos (16,28)
+#. ID 174, Page 1, Line 15, Pos (26,23)
 msgid ""
 "\\>トロンボーン長押し効果を特殊なものに変更しました\\<\n"
 "…\n"
@@ -3837,7 +3840,7 @@ msgstr ""
 "\\>you will use use the Shift key Functionality or play\n"
 "\\>the animation of other effects."
 
-#. ID 180, Page 1, Line 1, Pos (11,14)
+#. ID 180, Page 1, Line 1, Pos (28,2)
 msgid ""
 "\\>このEvは、スレ8部屋目 >>367の書き込みより成立した、\n"
 "\\>閉じ込めイベントの移動先リストです。\n"
@@ -3848,7 +3851,7 @@ msgstr ""
 "\\>on an idea from >>367.\n"
 "\\>It also has a sample of a trap event."
 
-#. ID 180, Page 1, Line 4, Pos (11,14)
+#. ID 180, Page 1, Line 4, Pos (28,2)
 msgid ""
 "\\>詳しくは、エディターを開いて2ページ目以降を\n"
 "\\>お読みください。"
@@ -3856,7 +3859,7 @@ msgstr ""
 "\\>For more details, open the editor and\n"
 "\\>read from page 2."
 
-#. ID 183, Page 3, Line 9, Pos (56,8)
+#. ID 183, Page 3, Line 9, Pos (66,3)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>\\C[3]＞商品の演出を確認する\\C[0]\n"
@@ -3865,7 +3868,7 @@ msgstr ""
 "\\>\\C[3]＞Check the product animation\\C[0]\n"
 "\\>"
 
-#. ID 183, Page 3, Line 11, Pos (56,8)
+#. ID 183, Page 3, Line 11, Pos (66,3)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>番号を指定して演出を確認する\n"
@@ -3874,7 +3877,7 @@ msgstr ""
 "\\>Input ID to check animation\n"
 "\\>Check each animation"
 
-#. ID 183, Page 3, Line 16, Pos (56,8)
+#. ID 183, Page 3, Line 16, Pos (66,3)
 msgid ""
 "\\>・確認する演出の番号を指定\n"
 "\\> "
@@ -3882,7 +3885,7 @@ msgstr ""
 "\\>Input ID to check animation\n"
 "\\> "
 
-#. ID 183, Page 4, Line 20, Pos (56,8)
+#. ID 183, Page 4, Line 20, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞特定の商品が\\C[4]\\_m\\_回\\C[3]中 何回出現するか調べる\\C[0]\n"
 "\\>・m\\_を指定\n"
@@ -3892,7 +3895,7 @@ msgstr ""
 "\\>・Set M\n"
 "\\>　\\C[1]Large number takes more time"
 
-#. ID 183, Page 4, Line 33, Pos (56,8)
+#. ID 183, Page 4, Line 38, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞特定の商品が\\C[4]\\V[72]回\\C[3]中 何回出現するか調べる\\C[0]\n"
 "\\>・どの商品を調べるか指定\n"
@@ -3902,11 +3905,11 @@ msgstr ""
 "\\>emerges in \\C[4]\\V[72]\\_tries\\C[3]\n"
 "\\>Choose the product ID"
 
-#. ID 183, Page 4, Line 44, Pos (56,8)
+#. ID 183, Page 4, Line 49, Pos (66,3)
 msgid "\\>\\C[3]＞\\V[73]番が\\V[72]回中何回出現するか調べる\\<\\.\\.\\.\\^"
 msgstr "\\>\\C[3]＞Calc how many times No.\\V[73] emerges in \\V[72]tries\\<\\.\\.\\.\\^"
 
-#. ID 183, Page 4, Line 76, Pos (56,8)
+#. ID 183, Page 4, Line 81, Pos (66,3)
 msgid ""
 "\\> 商品 \\V[73]番 / 価格 \\V[66]\n"
 "\\> \\V[75]回中 \\C[1]\\V[74]回\\C[0]出現"
@@ -3914,7 +3917,7 @@ msgstr ""
 "\\>Product No.\\V[73]/Price \\V[66]\n"
 "\\>Emerged \\C[1]\\V[74]\\_times\\C[0] in \\V[75]\\_tries"
 
-#. ID 183, Page 5, Line 41, Pos (56,8)
+#. ID 183, Page 5, Line 42, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞特定の商品が出現するまでの回数を\\C[4]\\_n\\_回\\C[3]調べる\\C[0]\n"
 "\\>・n\\_を指定 (0の場合は無限)\n"
@@ -3923,7 +3926,7 @@ msgstr ""
 "\\>\\C[3]>Calculate \\C[4]\\_N\\_time(s)\\C[3] until the product emerges\\C[0]\n"
 "\\>・Set\\_N (0 for Infinite)"
 
-#. ID 183, Page 5, Line 51, Pos (56,8)
+#. ID 183, Page 5, Line 52, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞特定の商品が出現するまでの回数を\\C[4]\\V[71]回\\C[3]調べる\\C[0]\n"
 "\\>・どの商品を調べるか指定 (最大\\V[80])\n"
@@ -3933,7 +3936,7 @@ msgstr ""
 "\\>・Choose product ID (MAX:\\V[80])\n"
 "\\>　\\C[1] 0 for All products"
 
-#. ID 183, Page 5, Line 57, Pos (56,8)
+#. ID 183, Page 5, Line 58, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞特定の商品が出現するまでの回数を\\C[4]∞回\\C[3]調べる\\C[0]\n"
 "\\>・どの商品を調べるか指定 (最大\\V[80])\n"
@@ -3943,93 +3946,93 @@ msgstr ""
 "\\>Select Product(s) (MAX:\\V[80])\n"
 "\\>\\C[1]0 to test all products."
 
-#. ID 183, Page 5, Line 1089, Pos (56,8)
+#. ID 183, Page 5, Line 1090, Pos (66,3)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid " \\C[1]"
 msgstr " "
 
-#. ID 183, Page 5, Line 1091, Pos (56,8)
+#. ID 183, Page 5, Line 1092, Pos (66,3)
 #. ChangeHeroName (Actor 1)
-#. ID 183, Page 6, Line 121, Pos (56,8)
+#. ID 183, Page 6, Line 119, Pos (66,3)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "0000"
 msgstr ""
 
-#. ID 183, Page 5, Line 1095, Pos (56,8)
+#. ID 183, Page 5, Line 1096, Pos (66,3)
 #. ChangeHeroName (Actor 1)
-#. ID 183, Page 6, Line 125, Pos (56,8)
+#. ID 183, Page 6, Line 123, Pos (66,3)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "000"
 msgstr ""
 
-#. ID 183, Page 5, Line 1099, Pos (56,8)
+#. ID 183, Page 5, Line 1100, Pos (66,3)
 #. ChangeHeroName (Actor 1)
-#. ID 183, Page 6, Line 129, Pos (56,8)
+#. ID 183, Page 6, Line 127, Pos (66,3)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "00"
 msgstr ""
 
-#. ID 183, Page 5, Line 1103, Pos (56,8)
+#. ID 183, Page 5, Line 1104, Pos (66,3)
 #. ChangeHeroName (Actor 1)
-#. ID 183, Page 6, Line 133, Pos (56,8)
+#. ID 183, Page 6, Line 131, Pos (66,3)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "0"
 msgstr ""
 
-#. ID 183, Page 5, Line 1118, Pos (56,8)
+#. ID 183, Page 5, Line 1119, Pos (66,3)
 #. ChangeHeroName (Actor 6)
-#. ID 183, Page 5, Line 1125, Pos (56,8)
+#. ID 183, Page 5, Line 1126, Pos (66,3)
 #. ChangeHeroName (Actor 4)
-#. ID 183, Page 5, Line 1127, Pos (56,8)
+#. ID 183, Page 5, Line 1128, Pos (66,3)
 #. ChangeHeroName (Actor 4)
-#. ID 183, Page 6, Line 76, Pos (56,8)
+#. ID 183, Page 6, Line 74, Pos (66,3)
 #. ChangeHeroName (Actor 1)
-#. ID 183, Page 6, Line 148, Pos (56,8)
+#. ID 183, Page 6, Line 146, Pos (66,3)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "\\C[19]"
 msgstr ""
 
-#. ID 183, Page 5, Line 1123, Pos (56,8)
+#. ID 183, Page 5, Line 1124, Pos (66,3)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "商品総数"
 msgstr "Total Products"
 
-#. ID 183, Page 5, Line 1126, Pos (56,8)
+#. ID 183, Page 5, Line 1127, Pos (66,3)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "すべての商品"
 msgstr "All Products"
 
-#. ID 183, Page 5, Line 1131, Pos (56,8)
+#. ID 183, Page 5, Line 1132, Pos (66,3)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "商品"
 msgstr "Product"
 
-#. ID 183, Page 5, Line 1132, Pos (56,8)
+#. ID 183, Page 5, Line 1133, Pos (66,3)
 #. ChangeHeroName (Actor 3)
-#. ID 183, Page 5, Line 1134, Pos (56,8)
+#. ID 183, Page 5, Line 1135, Pos (66,3)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "番"
 msgstr "No."
 
-#. ID 183, Page 5, Line 1133, Pos (56,8)
+#. ID 183, Page 5, Line 1134, Pos (66,3)
 #. ChangeHeroName (Actor 4)
-#. ID 183, Page 6, Line 80, Pos (56,8)
+#. ID 183, Page 6, Line 78, Pos (66,3)
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid " "
 msgstr ""
 
-#. ID 183, Page 5, Line 1138, Pos (56,8)
+#. ID 183, Page 5, Line 1139, Pos (66,3)
 msgid ""
 "\\> \\N[2] \\V[15]\\N[3] / 価格 \\V[66]\n"
 "\\> 総試行数\\N[6]\\V[77]\\N[1]\\C[1]\\V[76]回\\C[0] / 調べた回数 \\V[74]回\n"
@@ -4041,12 +4044,12 @@ msgstr ""
 "\\>Minimum attempt until \\N[5]\\N[4]\\V[73]\\C[0] emerges \\V[78]\n"
 "\\>Maximum attempt until \\N[5]\\N[4]\\V[73]\\C[0] emerges \\V[79]"
 
-#. ID 183, Page 6, Line 23, Pos (56,8)
-#. ID 187, Page 1, Line 18, Pos (61,8)
+#. ID 183, Page 6, Line 21, Pos (66,3)
+#. ID 187, Page 1, Line 18, Pos (67,3)
 msgid "\\^"
 msgstr ""
 
-#. ID 183, Page 6, Line 37, Pos (56,8)
+#. ID 183, Page 6, Line 35, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞自販機コモンのテスト\\C[0]\n"
 "\\>・出現する商品を指定 (0の場合は指定なし)\n"
@@ -4056,12 +4059,12 @@ msgstr ""
 "\\.・Select product (0 for random)\n"
 "\\>"
 
-#. ID 183, Page 6, Line 50, Pos (56,8)
+#. ID 183, Page 6, Line 48, Pos (66,3)
 #. Contains choice at line 2 (3 options)
-msgid "\\>\\C[3]＞ver0.114i\\C[0]"
+msgid "\\>\\C[3]＞ver0.124h patch3\\C[0]"
 msgstr ""
 
-#. ID 183, Page 6, Line 51, Pos (56,8)
+#. ID 183, Page 6, Line 49, Pos (66,3)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>商品の演出を確認する\n"
@@ -4072,7 +4075,7 @@ msgstr ""
 "\\>Operation test・ Calculate probability\n"
 "\\>Manual"
 
-#. ID 183, Page 6, Line 62, Pos (56,8)
+#. ID 183, Page 6, Line 60, Pos (66,3)
 msgid ""
 "\\>\\C[3]＞動作テスト・確率の簡易調査\\C[0]\n"
 "\\>・自販機の価格を設定 (0の場合は価格を100に設定)\n"
@@ -4081,13 +4084,13 @@ msgstr ""
 "\\>\\C[3]＞Operation test・ Calculate probability\\C[0]\n"
 "\\>・VM Price setting (0 for 100)"
 
-#. ID 183, Page 6, Line 77, Pos (56,8)
+#. ID 183, Page 6, Line 75, Pos (66,3)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "∞"
 msgstr ""
 
-#. ID 183, Page 6, Line 84, Pos (56,8)
+#. ID 183, Page 6, Line 82, Pos (66,3)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>\\C[3]＞動作テスト・確率の簡易調査\\C[0] / 価格 \\C[4]\\V[66]\n"
@@ -4096,7 +4099,7 @@ msgstr ""
 "\\>\\C[3]>Operation test・ Calculate probability/ Price:\\C[4]\\V[66]\n"
 "\\>\\C[0]・N =\\N[1]\\V[71]\\C[0]\\N[2] / M = \\V[72]"
 
-#. ID 183, Page 6, Line 86, Pos (56,8)
+#. ID 183, Page 6, Line 84, Pos (66,3)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>特定の商品が出現するまでの回数を\\C[4]\\_n\\_回\\C[0]調べる\n"
@@ -4105,7 +4108,7 @@ msgstr ""
 "\\>Calc\\C[4]\\_N\\_time(s)\\C[0]\\_product emerges\n"
 "\\>Calc how many times the pro. emerges in \\C[4]\\_M\\_tries\\C[0]"
 
-#. ID 183, Page 6, Line 106, Pos (56,8)
+#. ID 183, Page 6, Line 104, Pos (66,3)
 msgid ""
 "\\>自販機のテストを行うイベントです。\n"
 "\\>選択肢を選ぶとき、shiftキーを押しながら決定すると、\n"
@@ -4115,7 +4118,7 @@ msgstr ""
 "\\>Hold the Shift key while choosing options\n"
 "\\>to set a value."
 
-#. ID 183, Page 6, Line 109, Pos (56,8)
+#. ID 183, Page 6, Line 107, Pos (66,3)
 msgid ""
 "\\>テストが長すぎて中断したいときは、\n"
 "\\>F10キーを押してください。\n"
@@ -4125,13 +4128,13 @@ msgstr ""
 "\\>If you use it, the CEV[0008: Forbid action\n"
 "\\>while event] will be kept active."
 
-#. ID 183, Page 6, Line 119, Pos (56,8)
+#. ID 183, Page 6, Line 117, Pos (66,3)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid " \\C[0]"
 msgstr ""
 
-#. ID 183, Page 6, Line 152, Pos (56,8)
+#. ID 183, Page 6, Line 150, Pos (66,3)
 msgid ""
 "\\>・1,000,000以上の加算テスト (0で中止)\n"
 "\\> \\N[6]\\V[77]\\C[1]\\N[1]\\C[4]\\V[76]\\C[0]\n"
@@ -4141,7 +4144,7 @@ msgstr ""
 "\\> \\N[6]\\V[77]\\C[1]\\N[1]\\C[4]\\V[76]\\C[0]　　　(0 to Cancel)\n"
 "\\>　＋"
 
-#. ID 183, Page 6, Line 158, Pos (56,8)
+#. ID 183, Page 6, Line 156, Pos (66,3)
 msgid ""
 "\\>・1,000,000以上の加算テスト\n"
 "\\> \\N[6]\\V[77]\\C[1]\\N[1]\\C[4]\\V[76]\\C[0]\n"
@@ -4153,25 +4156,25 @@ msgstr ""
 "\\>　＋\n"
 "\\>　\\V[75] (Shift key to change the value)"
 
-#. ID 183, Page 6, Line 222, Pos (56,8)
+#. ID 183, Page 6, Line 220, Pos (66,3)
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "マップ到達"
 msgstr ""
 
-#. ID 183, Page 6, Line 225, Pos (56,8)
+#. ID 183, Page 6, Line 223, Pos (66,3)
 #. ChangeHeroName (Actor 5)
 msgctxt "actors.name"
 msgid "女の子"
 msgstr ""
 
-#. ID 183, Page 6, Line 226, Pos (56,8)
+#. ID 183, Page 6, Line 224, Pos (66,3)
 #. ChangeHeroName (Actor 6)
 msgctxt "actors.name"
 msgid "デフォルト3"
 msgstr ""
 
-#. ID 186, Page 1, Line 1, Pos (14,16)
+#. ID 186, Page 1, Line 1, Pos (11,11)
 msgid ""
 "これは\\c[1]黒い帯\\c[0]です。\n"
 "主にバイクの前輪が壁からはみ出すのを防ぐために\n"
@@ -4181,7 +4184,7 @@ msgstr ""
 "Use it to prevent the front wheel of the\n"
 "Bike from protruding out of the wall."
 
-#. ID 186, Page 1, Line 5, Pos (14,16)
+#. ID 186, Page 1, Line 5, Pos (11,11)
 msgid ""
 "その他にも、半透明にして影として使ってみたり…\n"
 "このイベントの下に秘密の隠し通路を作ってみたり…\n"
@@ -4191,7 +4194,7 @@ msgstr ""
 "making its graphic Transparent (translucent),\n"
 "and creating an hidden path below this event."
 
-#. ID 187, Page 1, Line 25, Pos (61,8)
+#. ID 187, Page 1, Line 25, Pos (67,3)
 msgid ""
 "\\>\\C[3]＞マップのイベント数を調べるイベント\\C[0]\n"
 "\\>・MAPIDを指定 (0は中断 / 存在しないMAPはエラー)\n"
@@ -4201,7 +4204,7 @@ msgstr ""
 "\\>Input MAPID\n"
 "\\>(0 to Cancel/N/A MAPID for Error)"
 
-#. ID 187, Page 1, Line 31, Pos (61,8)
+#. ID 187, Page 1, Line 31, Pos (67,3)
 #. Contains choice at line 3 (2 options)
 msgid ""
 "\\>\\C[3]＞マップのイベント数を調べるイベント\\C[0]\n"
@@ -4210,14 +4213,14 @@ msgstr ""
 "\\>\\C[3]＞Count the Amount of Events\\C[0]\n"
 "\\>Sample MAP for checking operation"
 
-#. ID 187, Page 1, Line 33, Pos (61,8)
+#. ID 187, Page 1, Line 33, Pos (67,3)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>186\n"
 "\\>1314"
 msgstr ""
 
-#. ID 187, Page 1, Line 36, Pos (61,8)
+#. ID 187, Page 1, Line 36, Pos (67,3)
 msgid ""
 "\\>\\C[3]＞MAP\\v[71]\\C[0]\n"
 "\\>・イベント数を求めるとき、\n"
@@ -4229,7 +4232,7 @@ msgstr ""
 "\\>　you can find if it found an event\n"
 "\\>　or not by playing an SFX"
 
-#. ID 187, Page 1, Line 43, Pos (61,8)
+#. ID 187, Page 1, Line 43, Pos (67,3)
 msgid ""
 "\\>\\C[3]＞MAP\\v[71]\\C[0]\n"
 "\\>・イベント数を求めるとき、\n"
@@ -4241,16 +4244,16 @@ msgstr ""
 "\\>　you can find if the parallel process worked\n"
 "\\>　or not as a result"
 
-#. ID 187, Page 1, Line 80, Pos (61,8)
+#. ID 187, Page 1, Line 80, Pos (67,3)
 msgid "\\.\\^"
 msgstr ""
 
-#. ID 187, Page 1, Line 381, Pos (61,8)
+#. ID 187, Page 1, Line 381, Pos (67,3)
 #. Contains choice at line 2 (2 options)
 msgid "\\>\\C[3]＞マップのイベント数を調べるイベント\\C[0]"
 msgstr "\\>\\C[3]＞Count the Amount of Events\\C[0]"
 
-#. ID 187, Page 1, Line 382, Pos (61,8)
+#. ID 187, Page 1, Line 382, Pos (67,3)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "\\>続行する\n"
@@ -4259,7 +4262,7 @@ msgstr ""
 "\\>Continue\n"
 "\\>Cancel"
 
-#. ID 187, Page 1, Line 418, Pos (61,8)
+#. ID 187, Page 1, Line 418, Pos (67,3)
 msgid ""
 "\\>＞MAPID　　    : \\C[4]\\v[71]\\C[0]\n"
 "\\>＞MAPsize      : \\v[74], \\v[75]\n"
@@ -4271,7 +4274,7 @@ msgstr ""
 "\\>＞Amount of Events: \\C[4]\\v[77]\\C[0]\n"
 "\\>\\C[6]　(Enter for the next MAP / Cancel to End)\\C[0]"
 
-#. ID 187, Page 1, Line 424, Pos (61,8)
+#. ID 187, Page 1, Line 424, Pos (67,3)
 msgid ""
 "\\>＞MAPID　　    : \\C[4]\\v[71]\\C[0]\n"
 "\\>＞MAPsize      : \\v[74], \\v[75]\n"
@@ -4283,20 +4286,20 @@ msgstr ""
 "\\>＞Amount of Events: \\C[4]More than \\v[77]\\C[0] (Canceled)\n"
 "\\>\\C[6]　(Enter for the next MAP / Cancel to End)\\C[0]"
 
-#. ID 189, Page 1, Line 1, Pos (58,8)
+#. ID 189, Page 1, Line 1, Pos (66,9)
 msgid ""
 "前々から赤街頭と扉部屋の間に一つ世界を挟もうと\n"
 "思ってたんですけど、急に怖くなってやめました\n"
 "見たかったらスイッチONにしてください"
 msgstr ""
 "I was originally thinking that I could insert\n"
-"another world between The Nexus and Red\n"
+"another world between the Nexus and Red\n"
 "Streetlight World, but I canceled it because\n"
 "it was too scary.\n"
 "<easyrpg:new_page>\n"
 "If you want to visit it turn ON the switch."
 
-#. ID 189, Page 1, Line 4, Pos (58,8)
+#. ID 189, Page 1, Line 4, Pos (66,9)
 #. Choice (2 options)
 msgid ""
 "スイッチON\n"
@@ -4305,16 +4308,16 @@ msgstr ""
 "Turn ON\n"
 "Cancel"
 
-#. ID 189, Page 1, Line 6, Pos (58,8)
+#. ID 189, Page 1, Line 6, Pos (66,9)
 msgid "没マップスイッチをONにしました"
 msgstr "Unused map switch turned ON"
 
-#. ID 189, Page 2, Line 1, Pos (58,8)
+#. ID 189, Page 2, Line 1, Pos (66,9)
 #. Contains choice at line 2 (2 options)
 msgid "没マップスイッチをOFFにしますか"
 msgstr "Turn OFF the unused map switch?"
 
-#. ID 189, Page 2, Line 2, Pos (58,8)
+#. ID 189, Page 2, Line 2, Pos (66,9)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "スイッチOFF\n"
@@ -4323,11 +4326,11 @@ msgstr ""
 "Turn OFF\n"
 "Cancel"
 
-#. ID 189, Page 2, Line 4, Pos (58,8)
+#. ID 189, Page 2, Line 4, Pos (66,9)
 msgid "没マップスイッチをOFFにしました"
 msgstr "Unused map switch turned OFF"
 
-#. ID 191, Page 1, Line 1, Pos (11,16)
+#. ID 191, Page 1, Line 1, Pos (22,13)
 msgid ""
 "\\>通常、置いたティッシュはピクチャーで表示されます。\n"
 "\\>しかしそれじゃマップのループで居なくなるし、\n"
@@ -4339,7 +4342,7 @@ msgstr ""
 "\\>the map loops, and remain on screen after\n"
 "\\>being moved on the map."
 
-#. ID 191, Page 1, Line 5, Pos (11,16)
+#. ID 191, Page 1, Line 5, Pos (22,13)
 msgid ""
 "\\>そんな時はマップ内のイベントを\n"
 "\\>代わりに設置させることができます。\n"
@@ -4350,7 +4353,7 @@ msgstr ""
 "\\>a map event. There is a sample present in\n"
 "\\>MAP[0004 Urotsuki's Dream Room] that you can check!"
 
-#. ID 193, Page 1, Line 1, Pos (9,19)
+#. ID 193, Page 1, Line 1, Pos (20,20)
 msgid ""
 "\\>変数[4275:共用設定:大きさ]が -1以下、\n"
 "\\>つまり小さくなれば間のロープ部分を通れます。\n"
@@ -4362,7 +4365,7 @@ msgstr ""
 "\\>can go under the rope.\n"
 "\\>Current: \\V[4275]"
 
-#. ID 193, Page 1, Line 5, Pos (9,19)
+#. ID 193, Page 1, Line 5, Pos (20,20)
 msgid ""
 "\\>変数[4275:共用設定:大きさ]を使うタイプなら、\n"
 "\\>エフェクトごとに対応させる必要がなく\n"
@@ -4372,7 +4375,7 @@ msgstr ""
 "\\>you don't need to set a setting for each effect.\n"
 "\\>Plus, Masks are also affected by this setting."
 
-#. ID 193, Page 1, Line 8, Pos (9,19)
+#. ID 193, Page 1, Line 8, Pos (20,20)
 msgid ""
 "\\>ただ、「こどもOKようせいNG」な時は\n"
 "\\>素直にこどもエフェクトか否かで分岐させた方が\n"
@@ -4384,22 +4387,12 @@ msgstr ""
 "\\>set the condition to Child or not.\n"
 "\\>Use these functionalities wisely."
 
-#. ID 195, Page 1, Line 8, Pos (9,7)
-msgid ""
-"\\>椅子イベント\n"
-"\\>コピペだけでいけるよ\n"
-"\\>北向きに座り、北向きに離れるタイプだよ"
-msgstr ""
-"\\>Chair Event\n"
-"\\>Just Copy & Paste!\n"
-"\\>Look north while sitting, and leave to north."
-
-#. ID 196, Page 1, Line 2, Pos (12,8)
+#. ID 196, Page 1, Line 2, Pos (18,7)
 #. Contains choice at line 2 (3 options)
 msgid "\\>コモンイベント[0027:【呼】ｴﾌｪｸﾞﾗﾌｨｯｸ更新]"
 msgstr "\\>CEV[0027:【Call】Update Effect Graphic]"
 
-#. ID 196, Page 1, Line 3, Pos (12,8)
+#. ID 196, Page 1, Line 3, Pos (18,7)
 #. Choice (3 options, embedded in a message)
 msgid ""
 "\\>イベントの呼び出し\n"
@@ -4410,17 +4403,17 @@ msgstr ""
 "\\>Set value\n"
 "\\>Manual"
 
-#. ID 196, Page 1, Line 10, Pos (12,8)
+#. ID 196, Page 1, Line 10, Pos (18,7)
 #. Contains choice at line 2 (1 options)
 msgid "\\>数値設定"
 msgstr "\\>Set value"
 
-#. ID 196, Page 1, Line 11, Pos (12,8)
+#. ID 196, Page 1, Line 11, Pos (18,7)
 #. Choice (1 options, embedded in a message)
 msgid "\\>変数[4276:共用設定:エフェグラ]"
 msgstr "\\>V[4276:Common Setting: EffectGraphic]"
 
-#. ID 196, Page 1, Line 13, Pos (12,8)
+#. ID 196, Page 1, Line 13, Pos (18,7)
 msgid ""
 "\\>数値設定\n"
 "\\>変数[4276:共用設定:エフェグラ] (Now:\\V[4276])"
@@ -4428,7 +4421,7 @@ msgstr ""
 "\\>Set value\n"
 "\\>V[4276:Common Setting:EffectGraphic] (Now:\\V[4276])"
 
-#. ID 196, Page 1, Line 25, Pos (12,8)
+#. ID 196, Page 1, Line 25, Pos (18,7)
 msgid ""
 "\\>コモンイベント[0027:【呼】ｴﾌｪｸﾞﾗﾌｨｯｸ更新]\n"
 "エフェクト関係のグラフィックを\n"
@@ -4437,7 +4430,7 @@ msgstr ""
 "\\>CEV[0027:【Call】Update Effect Graphic]\n"
 "I wrote down things about effect graphics here."
 
-#. ID 196, Page 1, Line 28, Pos (12,8)
+#. ID 196, Page 1, Line 28, Pos (18,7)
 msgid ""
 "\\>コモンイベント[0027:【呼】ｴﾌｪｸﾞﾗﾌｨｯｸ更新]\n"
 "立ち姿に戻したい、という時や\n"
@@ -4449,12 +4442,154 @@ msgstr ""
 "to set Urotsuki to default graphics, when you go\n"
 "underwater, or to forbid a particular action."
 
-#. ID 199, Page 1, Line 8, Pos (9,8)
+#. ID 197, Page 1, Line 8, Pos (18,31)
 msgid ""
-"\\>椅子イベント\n"
-"\\>コピペだけでいけるよ\n"
-"\\>北向きに座り、南向きに離れるタイプだよ"
+"\\>椅子から立ち上がるときに\n"
+"\\>うろつきにジャンプしてほしくないよ、というときに"
 msgstr ""
-"\\>Chair Event\n"
-"\\>Just Copy&Paste! \n"
-"\\>Look north while sitting, and leave to south."
+"\\>If you don't want Urotsuki to jump when\n"
+"\\>standing up from a chair."
+
+#. ID 197, Page 1, Line 10, Pos (18,31)
+msgid ""
+"\\>座り開始をする直前に、スイッチ4100番\n"
+"\\>[CEV55:ｼﾞｬﾝﾌﾟしないで]をONにしておくと、\n"
+"\\>うろつきが椅子から立ち上がるときに\n"
+"\\>ジャンプしないようになります。"
+msgstr ""
+"\\>Right before sitting down, as you turn on\n"
+"\\>S[4100: \"CE0055:dontjump\"], Urotsuki won't\n"
+"\\>jump as she tries to rise from her chair."
+
+#. ID 197, Page 1, Line 14, Pos (18,31)
+msgid ""
+"\\>椅子から立ち上がると、\n"
+"\\>このスイッチは勝手にOFFに戻ります。\n"
+"\\>ためしてみてね"
+msgstr ""
+"\\>The switch will automatically turn off\n"
+"\\>upon getting up from the chair.\n"
+"\\>Give it a try!"
+
+#. ID 199, Page 1, Line 3, Pos (10,23)
+msgid ""
+"\\>椅子イベント。コピペだけでいけるよ\n"
+"\n"
+"\\>座る方向と降りる方向がそれぞれ指定されているよ\n"
+"\\>具体的には北向きに座って南へ降りるよ"
+msgstr ""
+"\\>Chair Event. Just Copy & Paste!\n"
+"\\>This has specific directions for sitting\n"
+"\\>down and leaving.\n"
+"\\>You face north while sitting, and leave to south."
+
+#. ID 199, Page 1, Line 7, Pos (10,23)
+msgid ""
+"\\>方向は特定の変数に決められた値を入れておくよ\n"
+"\\>(PCのテンキーを見ると覚えやすいよ)\n"
+"\n"
+"\\> 2:南, 4:西, 6:東, 8:北"
+msgstr ""
+"\\>The directions correspond to values in a variable.\n"
+"\\>(It's easy to remember if you look at\n"
+"\\>a PC's numeric keypad)\n"
+"\\>2: South, 4: West, 6: East, 8: North"
+
+#. ID 202, Page 1, Line 13, Pos (14,1)
+#. Contains choice at line 4 (1 options)
+msgid ""
+"\\>　　　　　【テストプレイモードチェック】　　　　　.\n"
+"\\>F10キーを押してください。\n"
+"\\>押して反応がない場合は、EscキーかXキーを押してね。"
+msgstr ""
+"\\>　　　　　  【Test Play Mode Check】　　 　　.\n"
+"\\>Press the F10 key to proceed.\n"
+"\\>If there is no response, press the Esc or X key."
+
+#. ID 202, Page 1, Line 16, Pos (14,1)
+#. Choice (1 options, embedded in a message)
+msgid "\\>（ｷｬﾝｾﾙの場合、ｴﾗｰﾒｯｾｰｼﾞを出して強制起床）"
+msgstr "\\>(Canceling will wake you up)"
+
+#. ID 206, Page 1, Line 3, Pos (26,10)
+msgid ""
+"\\>左にあるものと同じ「工事中」の表示です。\n"
+"\n"
+"\\>こちらは「この看板の場所は予約済みです」\n"
+"\\>……みたいな感じのニュアンスで。"
+msgstr ""
+"\\>Same as left, this is an \"Under Construction\" sign.\n"
+"\n"
+"\\>This implies \"This connection is already reserved\"\n"
+"\\>....or something along those lines."
+
+#. ID 206, Page 1, Line 7, Pos (26,10)
+#. ID 207, Page 1, Line 7, Pos (27,10)
+#. ID 208, Page 1, Line 7, Pos (28,10)
+msgid ""
+"\\>接続したいという予約があったところに置いておくと、\n"
+"\\>「ここはもう誰かが予約してるのね」\n"
+"\\>と更新の衝突が分かりやすくなるかもしれません。"
+msgstr ""
+"\\>Placing this can make update conflicts easier\n"
+"\\>to notice, signaling to others that the current\n"
+"\\>spot is already reserved for a connection."
+
+#. ID 206, Page 1, Line 10, Pos (26,10)
+#. ID 207, Page 1, Line 10, Pos (27,10)
+#. ID 208, Page 1, Line 10, Pos (28,10)
+msgid ""
+"\\>どこにでも置いていいわけではなく\n"
+"\\>元々あった赤い工事中看板を置き換えるように\n"
+"\\>設置することを想定しています\n"
+"\\>"
+msgstr ""
+"\\>It shouldn't be placed just anywhere;\n"
+"\\>it is meant to replace a red \"Under\n"
+"\\>Construction\" sign that was already there.\n"
+"\\>"
+
+#. ID 206, Page 1, Line 14, Pos (26,10)
+#. ID 207, Page 1, Line 14, Pos (27,10)
+#. ID 208, Page 1, Line 14, Pos (28,10)
+msgid ""
+"\\>\" うろつき氏が予約 2025/00/00 \"のように\n"
+"\\>イベント内に誰がいつ予約したかが分かるような\n"
+"\\>注釈を書いておきましょう"
+msgstr ""
+"\\>Be sure to include a note within the event\n"
+"\\>(e.g. \"Reserved by Urotsuki on 2025/00/00\")\n"
+"\\>so others can see who reserved it and when."
+
+#. ID 207, Page 1, Line 3, Pos (27,10)
+#. ID 208, Page 1, Line 3, Pos (28,10)
+msgid ""
+"\\>上のほうにあるものと同じ「工事中」の表示です。\n"
+"\n"
+"\\>こちらは「この看板の場所は予約済みです」\n"
+"\\>……みたいな感じのニュアンスで。"
+msgstr ""
+"\\>Same as top, this is an \"Under Construction\" sign.\n"
+"\n"
+"\\>This implies \"This connection is already reserved\"\n"
+"\\>....or something along those lines."
+
+#. ID 211, Page 1, Line 3, Pos (8,23)
+msgid ""
+"\\>椅子イベント。コピペだけでいけるよ\n"
+"\n"
+"\\>右にある椅子と違って降りる方向は指定してないよ\n"
+"\\>これなら座った時と同じ位置に戻るんだ"
+msgstr ""
+"\\>Chair Event. Just Copy & Paste!\n"
+"\\>Unlike the chair on the right, I haven't\n"
+"\\>specified a direction for getting off.\n"
+"\\>You'll return to the same position you sat from."
+
+#. ID 214, Page 1, Line 3, Pos (21,7)
+#. ID 215, Page 1, Line 3, Pos (23,7)
+msgid "\\>これから着替えるお面の番号は \\V[3930]"
+msgstr ""
+"\\>The number of the mask you are about to\n"
+"change into is \\V[3930]."
+
