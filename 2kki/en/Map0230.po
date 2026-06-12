@@ -2834,8 +2834,8 @@ msgid ""
 msgstr ""
 "\\>Changed Menu Theme #17 to its legacy version.\n"
 "\\>※Note: this setting will be maintained even if you\n"
-"\\>　swap to a different menu theme. To change this\n"
-"\\>　setting, please come back to the Developer Room."
+"\\> swap to a different menu theme. To change this\n"
+"\\> setting, please come back to the Developer Room."
 
 #. ID 83, Page 1, Line 30, Pos (42,59)
 msgid ""
