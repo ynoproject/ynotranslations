@@ -839,7 +839,7 @@ msgstr ""
 #. ID 24, Page 1, Line 17, Pos (45,90)
 #. Contains choice at line 2 (3 options)
 msgid "\\>デバッグルームに戻りますか？"
-msgstr ""
+msgstr "\\>Return to the Debug Room?"
 
 #. ID 24, Page 1, Line 18, Pos (45,90)
 #. Choice (3 options, embedded in a message)
@@ -848,6 +848,9 @@ msgid ""
 "\\>いいえ\n"
 "\\>現実自室に戻る"
 msgstr ""
+"\\>Yes\n"
+"\\>No\n"
+"\\>Return to your real bedroom"
 
 #. ID 26, Page 1, Line 7, Pos (39,30)
 msgid ""
