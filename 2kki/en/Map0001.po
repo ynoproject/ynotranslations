@@ -1617,16 +1617,16 @@ msgid ""
 "\\>確率でお金を取られてしまいます\n"
 "\\>お金が100以下だと　閉じ込められます"
 msgstr ""
-"\\>If you touch the clown, it will knock you back.\n"
-"\\>Sometimes it will even steal your money.\n"
+"\\>If you touch the clown, he will knock you back.\n"
+"\\>Sometimes he will even steal your money.\n"
 "\\>If your money is under 100夢, you will be trapped."
 
 #. ID 74, Page 1, Line 5, Pos (9,11)
 #. Contains choice at line 2 (2 options)
 msgid "\\>追いかけられますか？（とてもウザイ"
 msgstr ""
-"\\>Do you want to be chased by it?\n"
-"\\>(Be careful, it is really annoying)"
+"\\>Do you want to be chased by him?\n"
+"\\>(Be careful, he is really annoying)"
 
 #. ID 74, Page 2, Line 89, Pos (9,11)
 #. ID 74, Page 3, Line 35, Pos (9,11)
@@ -3379,7 +3379,7 @@ msgid ""
 msgstr ""
 "\\>Processes everything up to MAPID:\\v[26].\n"
 "\\>This will take a while.\n"
-"(Hold → key while proceeding to show progress)"
+"\\>(Hold → key while proceeding to show progress)"
 
 #. ID 158, Page 1, Line 20, Pos (19,0)
 #. Choice (2 options, embedded in a message)
