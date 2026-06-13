@@ -850,7 +850,7 @@ msgid ""
 msgstr ""
 "\\>Yes\n"
 "\\>No\n"
-"\\>Return to your real bedroom"
+"\\>Return to your real room"
 
 #. ID 26, Page 1, Line 7, Pos (39,30)
 msgid ""
