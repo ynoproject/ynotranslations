@@ -303,6 +303,8 @@ msgid ""
 "\n"
 "制作者の部屋にようこそ。"
 msgstr ""
+"\n"
+"Welcome to the Developer Room."
 
 #. ID 6, Page 1, Line 3, Pos (45,78)
 msgid ""
@@ -311,6 +313,10 @@ msgid ""
 "西側が音職人さんのお部屋、\n"
 "東側が絵師さんのお部屋となっています。"
 msgstr ""
+"\n"
+"Here, you can find commentary from the developers\n"
+"to the north, from the composers to the west,\n"
+"and from the graphic designers to the east."
 
 #. ID 6, Page 1, Line 7, Pos (45,78)
 msgid ""
@@ -318,6 +324,9 @@ msgid ""
 "あぁ、出口は南側にありますよ。\n"
 "ふふふ。それでは、ごゆっくり。"
 msgstr ""
+"\n"
+"Oh, and the exit is located directly below.\n"
+"Hehe. Please, take your time and enjoy your stay."
 
 #. ID 6, Page 1, Line 11, Pos (45,78)
 msgid ""
@@ -325,6 +334,9 @@ msgid ""
 "・・・あら。\n"
 "なるほど、デバッグモードの方ですね。"
 msgstr ""
+"\n"
+"...Oh.\n"
+"I see, you're in Debug Mode."
 
 #. ID 6, Page 1, Line 14, Pos (45,78)
 msgid ""
@@ -333,6 +345,10 @@ msgid ""
 "プレイヤーさんだけが入れるお部屋です。\n"
 "いわゆる、おまけ、ですね。"
 msgstr ""
+"\n"
+"This room is only accessible to players\n"
+"who have seen all the endings.\n"
+"It's what you might call a bonus room."
 
 #. ID 6, Page 1, Line 18, Pos (45,78)
 msgid ""
@@ -341,6 +357,10 @@ msgid ""
 "デバッグモードの方のみ、となっております。\n"
 "お気をつけくださいませ。"
 msgstr ""
+"\n"
+"Note that effects are only usable here\n"
+"while you are in Debug Mode.\n"
+"Please be careful."
 
 #. ID 8, Page 1, Line 163, Pos (48,30)
 #. ID 8, Page 1, Line 312, Pos (48,30)
@@ -2774,7 +2794,7 @@ msgstr ""
 
 #. ID 81, Page 1, Line 1, Pos (56,76)
 msgid "ここは絵師職人様方の部屋です。"
-msgstr ""
+msgstr "This is a space dedicated to our graphic designers."
 
 #. ID 81, Page 1, Line 2, Pos (56,76)
 msgid ""
@@ -2782,16 +2802,23 @@ msgid ""
 "グラフィック面で制作に携わった方々、\n"
 "設置お待ちしています。"
 msgstr ""
+"We look forward to receiving commentary from\n"
+"those who contributed wallpapers, panoramas, or\n"
+"character assets, as well as anyone else involved\n"
+"in graphic-related production."
 
 #. ID 82, Page 1, Line 1, Pos (35,76)
 msgid "ここは音職人様方の部屋です。"
-msgstr ""
+msgstr "This is a space dedicated to our composers."
 
 #. ID 82, Page 1, Line 2, Pos (35,76)
 msgid ""
 "BGM、SE面で制作に携わった方々、\n"
 "設置お待ちしています。"
 msgstr ""
+"We look forward to receiving commentary from\n"
+"those who participated in the creation of\n"
+"background music and sound effects."
 
 #. ID 83, Page 1, Line 3, Pos (42,59)
 msgid "…もうチェンソーはやめてね(遠い目)"
@@ -3300,6 +3327,8 @@ msgstr ""
 #. ID 93, Page 1, Line 1, Pos (47,68)
 msgid "ここはツクラー方の部屋です。"
 msgstr ""
+"This is a space dedicated to our map creators\n"
+"and system developers."
 
 #. ID 94, Page 1, Line 1, Pos (49,74)
 msgid ""
@@ -3308,6 +3337,10 @@ msgid ""
 "にじのように　きえていって　しまった\n"
 "だれかの　きもちを　あなたに"
 msgstr ""
+"\n"
+"Their dreams were left unfulfilled,\n"
+"and they vanished like a rainbow.\n"
+"I give someone's heart to you."
 
 #. ID 94, Page 1, Line 5, Pos (49,74)
 msgid ""
@@ -3315,17 +3348,22 @@ msgid ""
 "かきかけの　ちいさな　あそび\n"
 "ミニゲームの　ひだりはしに　おいてきました"
 msgstr ""
+"\n"
+"A small, unfinished bit of entertainment.\n"
+"I've left it at the left corner of the minigames."
 
 #. ID 94, Page 1, Line 8, Pos (49,74)
 msgid ""
 "\n"
 "にゃ。"
 msgstr ""
+"\n"
+"Meow."
 
 #. ID 95, Page 1, Line 2, Pos (42,74)
 #. Contains choice at line 2 (2 options)
 msgid "\\>気分だけでも、降りて歩くかい？"
-msgstr ""
+msgstr "\\>In the mood to get off and walk?"
 
 #. ID 95, Page 1, Line 3, Pos (42,74)
 #. Choice (2 options, embedded in a message)
@@ -3335,11 +3373,13 @@ msgid ""
 "\\>はい\n"
 "\\>いいえ"
 msgstr ""
+"\\>Yes\n"
+"\\>No"
 
 #. ID 95, Page 1, Line 13, Pos (42,74)
 #. Contains choice at line 2 (2 options)
 msgid "\\>気分だけでも、乗っていくかい？"
-msgstr ""
+msgstr "\\>In the mood to take a ride?"
 
 #. ID 96, Page 1, Line 1, Pos (9,12)
 #. Condition (Actor Name = Player Name)
