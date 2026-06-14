@@ -1,0 +1,2 @@
+# ignore .mo files submitted to the repo
+*.mo
