@@ -1,2 +1,98 @@
 # ignore .mo files submitted to the repo
 *.mo
+
+# Ignore po files not containing translations for obvious cases; only doing it for games that are finished or where it is officially said said thing would never be touched
+# Yume 2kki
+/2kki/*/RPG_RT.ldb.battle.po
+
+# [COLD]
+/cold/*/RPG_RT.ldb.battle.po
+/cold/*/RPG_RT.lmt.po
+
+# Deep Dreams
+/deepdreams/*/RPG_RT.ldb.battle.po
+/deepdreams/*/RPG_RT.ldb.common.po
+/deepdreams/*/RPG_RT.lmt.po
+
+# .flow
+/flow/*/Map0232.po
+/flow/*/Map0257.po
+/flow/*/RPG_RT.ldb.battle.po
+/flow/*/RPG_RT.lmt.po
+
+# FOG
+/fog/*/Map0053.po
+/fog/*/RPG_RT.ldb.battle.po
+/fog/*/RPG_RT.lmt.po
+
+# Dream Genie
+/genie/*/RPG_RT.ldb.battle.po
+/genie/*/RPG_RT.ldb.common.po
+/genie/*/RPG_RT.lmt.po
+
+# If
+/if/*/RPG_RT.ldb.battle.po
+/if/*/RPG_RT.ldb.common.po
+/if/*/RPG_RT.lmt.po
+
+# Mikan Muzou
+/mikan/*/Map0146.po
+/mikan/*/Map0147.po
+/mikan/*/Map0148.po
+/mikan/*/RPG_RT.ldb.battle.po
+/mikan/*/RPG_RT.lmt.po
+
+# Muma|Rope
+/muma/*/Map0146.po
+/muma/*/RPG_RT.ldb.battle.po
+/muma/*/RPG_RT.ldb.common.po
+/muma/*/RPG_RT.lmt.po
+
+# nostAlgic
+/nostalgic/*/RPG_RT.ldb.battle.po
+/nostalgic/*/RPG_RT.ldb.common.po
+/nostalgic/*/RPG_RT.lmt.po
+
+# Okuri
+/okuri/*/RPG_RT.ldb.battle.po
+/okuri/*/RPG_RT.ldb.common.po
+/okuri/*/RPG_RT.lmt.po
+
+# OneShot
+/oneshot/*/RPG_RT.ldb.battle.po
+/oneshot/*/RPG_RT.lmt.po
+
+# Oversomnia
+/oversomnia/*/Map0073.po
+/oversomnia/*/Map0084.po
+/oversomnia/*/RPG_RT.ldb.battle.po
+/oversomnia/*/RPG_RT.lmt.po
+
+# She Awaits
+/sheawaits/*/RPG_RT.ldb.battle.po
+/sheawaits/*/RPG_RT.ldb.common.po
+/sheawaits/*/RPG_RT.lmt.po
+
+# Someday
+/someday/*/RPG_RT.ldb.battle.po
+/someday/*/RPG_RT.lmt.po
+
+# ultra violet
+/ultraviolet/*/RPG_RT.ldb.battle.po
+/ultraviolet/*/RPG_RT.lmt.po
+
+# Unaccomplished
+/unaccomplished/*/Map0010.po
+/unaccomplished/*/Map0015.po
+/unaccomplished/*/Map0030.po
+/unaccomplished/*/Map0091.po
+/unaccomplished/*/Map0140.po
+/unaccomplished/*/Map0149.po
+/unaccomplished/*/Map0162.po
+/unaccomplished/*/RPG_RT.ldb.battle.po
+/unaccomplished/*/RPG_RT.lmt.po
+
+# Yume Nikki
+/yume/*/RPG_RT.ldb.battle.po
+/yume/*/RPG_RT.ldb.common.po
+/yume/*/RPG_RT.lmt.po
