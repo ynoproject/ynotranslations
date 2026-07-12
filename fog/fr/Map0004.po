@@ -18,7 +18,7 @@ msgid ""
 "Copyright 2015-2022 \\c[9]ROSEGORM\\c[0].\n"
 "\\c[9]https://rosegorm.itch.io/fog/\\c[0]"
 msgstr ""
-"\\c[6]FOG\\c[0] \\c[4]v0.1.51\\c[0]\n"
+"\\c[6]FOG\\c[0] \\c[4]v0.1.53\\c[0]\n"
 "Copyright 2015-2026 \\c[9]ROSEGORM\\c[0].\n"
 "\\c[9]https://rosegorm.itch.io/fog/\\c[0]"
 
