@@ -420,7 +420,7 @@ msgstr "虹色の迷宮でエミールにください"
 #. ID 38
 msgctxt "skills.name"
 msgid "$kBlack Box"
-msgstr "$kころいはこ"
+msgstr "$kくろいはこ"
 
 #. ID 38
 msgctxt "skills.description"
