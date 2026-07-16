@@ -74,7 +74,7 @@ msgstr "Casaco"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Plague Doc"
-msgstr "Méd. da Peste"
+msgstr "Dr. da Peste"
 
 #. ID 59, Line 18
 #. ChangeHeroTitle (Actor 1)
