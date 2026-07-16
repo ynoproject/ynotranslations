@@ -184,6 +184,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * srv_ui - Feedback on the French translation of She Awaits
 * sniperbob - Hebrew translation of Yume Nikki
 * takne77 - Estonian translation of Yume Nikki
+* tophat - Brazilian Portuguese translation of Love You
 * TrolChelavi - Russian translation of She Awaits
 * uroyu - Japanese translation of Oversomnia, OneShot, Unaccomplished, `[COLD]`, Love You
 * VioletNeiv - Vietnamese translation of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Ultra Violet
