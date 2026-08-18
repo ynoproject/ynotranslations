@@ -399,7 +399,7 @@ msgid ""
 "\\>　※仕様上\"BGMが変わってない\"等が起こりえます\\C[0]"
 msgstr ""
 "\\>　ID carte : ???? (0 pour annuler) \\C[2](Actuel : \\V[26])\\C[0]\n"
-"\\>　\\C[1]※0001 : Debug Room, 0010 : The Nexus\n"
+"\\>　\\C[1]※0001 : Debug Room, 0010 : Nexus\n"
 "\\>　※Il se peut que la musique ne change pas\\C[0]"
 
 #. ID 43, Line 185
