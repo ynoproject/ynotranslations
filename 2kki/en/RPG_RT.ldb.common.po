@@ -389,7 +389,7 @@ msgid ""
 msgstr ""
 "\\>Specify MAP ID\n"
 "\\>Debug Room\n"
-"\\>The Nexus\n"
+"\\>Nexus\n"
 "\\>Previous MAP (MAP ID:\\v[1435] X:\\v[1432] Y:\\v[1433])"
 
 #. ID 43, Line 177
@@ -399,7 +399,7 @@ msgid ""
 "\\>　※仕様上\"BGMが変わってない\"等が起こりえます\\C[0]"
 msgstr ""
 "\\>　MAP ID: ???? (0 to cancel) \\C[2](Current MAP ID: \\V[26])\\C[0]\n"
-"\\>　\\C[1]※0001: Debug Room, 0010: The Nexus\n"
+"\\>　\\C[1]※0001: Debug Room, 0010: Nexus\n"
 "\\>　※Sometimes the BGM will not be changed\\C[0]"
 
 #. ID 43, Line 185
