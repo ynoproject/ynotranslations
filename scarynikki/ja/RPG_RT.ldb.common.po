@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 5, Line 16
+msgid "1"
+msgstr ""
+
+#. ID 5, Line 21
+msgid "2"
+msgstr ""
+
+#. ID 5, Line 26
+msgid "3"
+msgstr ""
+
+#. ID 5, Line 31
+msgid "4"
+msgstr ""
+
+#. ID 5, Line 36
+msgid "5"
+msgstr ""
+
+#. ID 5, Line 41
+msgid "6"
+msgstr ""
+
+#. ID 5, Line 46
+msgid "11"
+msgstr ""
+
+#. ID 5, Line 51
+msgid "12"
+msgstr ""
+
+#. ID 5, Line 56
+msgid "13"
+msgstr ""
+
+#. ID 5, Line 61
+msgid "14"
+msgstr ""
+
+#. ID 5, Line 66
+msgid "15"
+msgstr ""
+
+#. ID 5, Line 71
+msgid "16"
+msgstr ""
+
+#. ID 5, Line 76
+msgid "17"
+msgstr ""
+
+#. ID 5, Line 81
+msgid "18"
+msgstr ""
+
+#. ID 5, Line 86
+msgid "19"
+msgstr ""
+
+#. ID 5, Line 91
+msgid "20"
+msgstr ""
+
+#. ID 5, Line 96
+msgid "21"
+msgstr ""
+
+#. ID 5, Line 101
+msgid "22"
+msgstr ""
+
+#. ID 5, Line 106
+msgid "23"
+msgstr ""
+
+#. ID 5, Line 111
+msgid "24"
+msgstr ""
+
+#. ID 55, Line 155
+msgid "Effect 14 Test"
+msgstr ""
+
+#. ID 55, Line 168
+msgid "Effect 16 Test"
+msgstr "エフェクト 16 テスト"
+
+#. ID 55, Line 175
+msgid "Effect 17 Test"
+msgstr ""
+
+#. ID 55, Line 182
+msgid "Effect 18 Test"
+msgstr ""
+
+#. ID 55, Line 189
+msgid "Effect 19 Test"
+msgstr ""
+
+#. ID 55, Line 196
+msgid "Effect 20 Test"
+msgstr ""
+
+#. ID 55, Line 203
+msgid "Effect 21 Test"
+msgstr ""
+
+#. ID 55, Line 210
+msgid "Effect 22 Test"
+msgstr ""
+
+#. ID 55, Line 217
+msgid "Effect 23 Test"
+msgstr ""
+
+#. ID 55, Line 224
+msgid "Effect 24 Test"
+msgstr ""
+
+#. ID 56, Line 11
+msgid ""
+"/!\\ WARNING /!\\\n"
+"The loaded save has been created in a different \n"
+"version of the game. Please consider starting a\n"
+"new save to prevent bugs and glitches. "
+msgstr ""
+"/!\\ 警告 /!\\\n"
+"読み込んだセーブデータは、異なるバージョンの\n"
+"ゲームで作成されたものです。バグや不具合を防ぐため、\n"
+"新しいセーブデータを作成することをご検討ください。"
+
+#. ID 63, Line 33
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Debug"
+msgstr ""
+
+#. ID 64, Line 34
+msgid "7 - Animation"
+msgstr ""
+
+#. ID 64, Line 44
+msgid "11 - Toggle Attack"
+msgstr ""
+
+#. ID 64, Line 55
+msgid "12 - Toggle Invisibility"
+msgstr ""
+
+#. ID 64, Line 65
+msgid "13 - Toggle NPC movement"
+msgstr ""
+
+#. ID 64, Line 77
+msgid "14 - Attract NPCs"
+msgstr ""
+
+#. ID 64, Line 120
+msgid "15 - Toggle Rain"
+msgstr ""
+
+#. ID 64, Line 163
+msgid "16 - Toggle Snow"
+msgstr ""
+
+#. ID 64, Line 198
+msgid "17 - Lighten Screen"
+msgstr ""
+
+#. ID 67, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Slow Speed"
+msgstr ""
+
+#. ID 68, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Swim Fast"
+msgstr ""
+
+#. ID 71, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Invisible"
+msgstr ""
+
+#. ID 72, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Stop NPCs"
+msgstr ""
+
+#. ID 73, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Attract NPCs"
+msgstr ""
+
+#. ID 75, Line 31
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Snow"
+msgstr ""
+
+#. ID 82, Line 28
+#. ChangeHeroTitle (Actor 1)
+#. ID 83, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 18"
+msgstr ""
+
+#. ID 84, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 19"
+msgstr ""
+
+#. ID 85, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 20"
+msgstr ""
+
+#. ID 86, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 21"
+msgstr ""
+
+#. ID 87, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 22"
+msgstr ""
+
+#. ID 88, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 23"
+msgstr ""
+
+#. ID 89, Line 28
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Effect 24"
+msgstr ""

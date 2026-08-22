@@ -1,0 +1,1571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "Sanpurutsuki"
+msgstr "さんぷるつき"
+
+#. ID 1
+msgctxt "actors.title"
+msgid "Sample"
+msgstr "サンプル"
+
+#. ID 2
+msgctxt "skills.name"
+msgid "Return"
+msgstr "もどる"
+
+#. ID 2
+msgctxt "skills.description"
+msgid "Back home."
+msgstr "おうちにかえる。"
+
+#. ID 3
+msgctxt "skills.name"
+msgid "[Items:]"
+msgstr ""
+
+#. ID 4
+msgctxt "skills.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.name"
+msgid "Instructions"
+msgstr ""
+
+#. ID 5
+msgctxt "skills.description"
+msgid "Explains how the game works. "
+msgstr ""
+
+#. ID 1
+msgctxt "items.name"
+msgid "D E B U G"
+msgstr ""
+
+#. ID 1
+msgctxt "items.description"
+msgid "Opens the Debug menu. "
+msgstr ""
+
+#. ID 3
+msgctxt "items.name"
+msgid "Effects (dream):"
+msgstr ""
+
+#. ID 3
+msgctxt "items.description"
+msgid "How effects behave when used in dreams."
+msgstr ""
+
+#. ID 4
+#. ID 110
+msgctxt "items.name"
+msgid "--------------------"
+msgstr ""
+
+#. ID 5
+msgctxt "items.name"
+msgid "Debug Effect"
+msgstr ""
+
+#. ID 5
+#. ID 111
+msgctxt "items.description"
+msgid "Multi-purpose debugging Effect."
+msgstr ""
+
+#. ID 6
+msgctxt "items.name"
+msgid "Phone"
+msgstr ""
+
+#. ID 6
+msgctxt "items.description"
+msgid "Your phone"
+msgstr ""
+
+#. ID 7
+msgctxt "items.name"
+msgid " Rocket"
+msgstr " ロケット"
+
+#. ID 7
+msgctxt "items.description"
+msgid "Ride a rocket."
+msgstr "ロケットに乗る。"
+
+#. ID 8
+msgctxt "items.name"
+msgid "Effect 2: Slow Speed"
+msgstr ""
+
+#. ID 8
+msgctxt "items.description"
+msgid "Go slower than walk speed."
+msgstr ""
+
+#. ID 9
+msgctxt "items.name"
+msgid "Effect 3: Swim Fast"
+msgstr ""
+
+#. ID 9
+#. ID 115
+msgctxt "items.description"
+msgid "Swim faster; normal speed (1 over YN walk speed)"
+msgstr ""
+
+#. ID 10
+msgctxt "items.name"
+msgid " Omega Sword"
+msgstr " オメガソード"
+
+#. ID 10
+msgctxt "items.description"
+msgid "Carry the legendary weapon."
+msgstr "伝説の武器を持つ。"
+
+#. ID 11
+msgctxt "items.name"
+msgid " Sunglasses"
+msgstr " サングラス"
+
+#. ID 11
+msgctxt "items.description"
+msgid "Become cooler."
+msgstr "クールになる。"
+
+#. ID 12
+msgctxt "items.name"
+msgid "Effect 6: Invisible"
+msgstr ""
+
+#. ID 12
+#. ID 118
+msgctxt "items.description"
+msgid "All NPCs ignore you. Toggle with Shift."
+msgstr ""
+
+#. ID 13
+msgctxt "items.name"
+msgid "Effect 7: Stop NPCs"
+msgstr ""
+
+#. ID 13
+#. ID 119
+msgctxt "items.description"
+msgid "Stops NPC movement. Toggle with Shift."
+msgstr ""
+
+#. ID 14
+msgctxt "items.name"
+msgid "E8: Attract NPCs"
+msgstr ""
+
+#. ID 14
+#. ID 120
+msgctxt "items.description"
+msgid "Press Shift to attract NPCs."
+msgstr ""
+
+#. ID 15
+msgctxt "items.name"
+msgid " Antlion"
+msgstr " アリジゴク"
+
+#. ID 15
+msgctxt "items.description"
+msgid "Summon sandstorm."
+msgstr "砂嵐を呼ぶ。"
+
+#. ID 16
+msgctxt "items.name"
+msgid "Effect 10: Snow"
+msgstr ""
+
+#. ID 16
+#. ID 122
+msgctxt "items.description"
+msgid "Press Shift to toggle snowfall."
+msgstr ""
+
+#. ID 17
+msgctxt "items.name"
+msgid " Flame Hair"
+msgstr " 炎髪"
+
+#. ID 17
+msgctxt "items.description"
+msgid "Your hair are made of fire."
+msgstr "髪の毛が炎でできている。"
+
+#. ID 18
+msgctxt "items.name"
+msgid " Pixel"
+msgstr " ピクセル"
+
+#. ID 18
+msgctxt "items.description"
+msgid "The smallest you can be."
+msgstr "できるだけ小さくなる。"
+
+#. ID 19
+msgctxt "items.name"
+msgid " Dragon"
+msgstr " ドラゴン"
+
+#. ID 19
+msgctxt "items.description"
+msgid "Become a dragon."
+msgstr "ドラゴンになる。"
+
+#. ID 20
+msgctxt "items.name"
+msgid " Fractal"
+msgstr " フラクタル"
+
+#. ID 20
+msgctxt "items.description"
+msgid "Incomprehensible."
+msgstr "理解不能。"
+
+#. ID 21
+msgctxt "items.name"
+msgid " Pear"
+msgstr " ヨウナシ"
+
+#. ID 21
+msgctxt "items.description"
+msgid "Become silly."
+msgstr "おバカになろう。"
+
+#. ID 22
+msgctxt "items.name"
+msgid " Derelict"
+msgstr " 廃棄物"
+
+#. ID 22
+msgctxt "items.description"
+msgid "Become"
+msgstr "になる。"
+
+#. ID 23
+msgctxt "items.name"
+msgid "Effect 17"
+msgstr ""
+
+#. ID 24
+msgctxt "items.name"
+msgid "Effect 18"
+msgstr ""
+
+#. ID 25
+msgctxt "items.name"
+msgid "Effect 19"
+msgstr ""
+
+#. ID 26
+msgctxt "items.name"
+msgid "Effect 20"
+msgstr ""
+
+#. ID 27
+msgctxt "items.name"
+msgid "Effect 21"
+msgstr ""
+
+#. ID 28
+msgctxt "items.name"
+msgid "Effect 22"
+msgstr ""
+
+#. ID 29
+msgctxt "items.name"
+msgid "Effect 23"
+msgstr ""
+
+#. ID 30
+msgctxt "items.name"
+msgid "Effect 24"
+msgstr ""
+
+#. ID 31
+msgctxt "items.name"
+msgid "Effect 25"
+msgstr ""
+
+#. ID 32
+msgctxt "items.name"
+msgid "Effect 26"
+msgstr ""
+
+#. ID 33
+msgctxt "items.name"
+msgid "Monster Energy"
+msgstr ""
+
+#. ID 33
+msgctxt "items.description"
+msgid "Energy drink. Recoveres MP"
+msgstr ""
+
+#. ID 34
+msgctxt "items.name"
+msgid "Golden Apple"
+msgstr ""
+
+#. ID 34
+msgctxt "items.description"
+msgid "Recoveres HP"
+msgstr ""
+
+#. ID 35
+msgctxt "items.name"
+msgid "Effect 29"
+msgstr ""
+
+#. ID 36
+msgctxt "items.name"
+msgid "Effect 30"
+msgstr ""
+
+#. ID 37
+msgctxt "items.name"
+msgid "Effect 31"
+msgstr ""
+
+#. ID 38
+msgctxt "items.name"
+msgid "Effect 32"
+msgstr ""
+
+#. ID 39
+msgctxt "items.name"
+msgid "Effect 33"
+msgstr ""
+
+#. ID 40
+msgctxt "items.name"
+msgid "Effect 34"
+msgstr ""
+
+#. ID 41
+msgctxt "items.name"
+msgid "Effect 35"
+msgstr ""
+
+#. ID 42
+msgctxt "items.name"
+msgid "Effect 36"
+msgstr ""
+
+#. ID 43
+msgctxt "items.name"
+msgid "Effect 37"
+msgstr ""
+
+#. ID 44
+msgctxt "items.name"
+msgid "Effect 38"
+msgstr ""
+
+#. ID 45
+msgctxt "items.name"
+msgid "Effect 39"
+msgstr ""
+
+#. ID 46
+msgctxt "items.name"
+msgid "Effect 40"
+msgstr ""
+
+#. ID 47
+msgctxt "items.name"
+msgid "Effect 41"
+msgstr ""
+
+#. ID 48
+msgctxt "items.name"
+msgid "Effect 42"
+msgstr ""
+
+#. ID 49
+msgctxt "items.name"
+msgid "Effect 43"
+msgstr ""
+
+#. ID 50
+msgctxt "items.name"
+msgid "Effect 44"
+msgstr ""
+
+#. ID 51
+msgctxt "items.name"
+msgid "Effect 45"
+msgstr ""
+
+#. ID 52
+msgctxt "items.name"
+msgid "Effect 46"
+msgstr ""
+
+#. ID 53
+msgctxt "items.name"
+msgid "Effect 47"
+msgstr ""
+
+#. ID 54
+msgctxt "items.name"
+msgid "Effect 48"
+msgstr ""
+
+#. ID 55
+msgctxt "items.name"
+msgid "Effect 49"
+msgstr ""
+
+#. ID 56
+msgctxt "items.name"
+msgid "Effect 50"
+msgstr ""
+
+#. ID 57
+msgctxt "items.name"
+msgid "Effect 51"
+msgstr ""
+
+#. ID 58
+msgctxt "items.name"
+msgid "Effect 52"
+msgstr ""
+
+#. ID 59
+msgctxt "items.name"
+msgid "Effect 53"
+msgstr ""
+
+#. ID 60
+msgctxt "items.name"
+msgid "Effect 54"
+msgstr ""
+
+#. ID 61
+msgctxt "items.name"
+msgid "Effect 55"
+msgstr ""
+
+#. ID 62
+msgctxt "items.name"
+msgid "Effect 56"
+msgstr ""
+
+#. ID 63
+msgctxt "items.name"
+msgid "Effect 57"
+msgstr ""
+
+#. ID 64
+msgctxt "items.name"
+msgid "Effect 58"
+msgstr ""
+
+#. ID 65
+msgctxt "items.name"
+msgid "Effect 59"
+msgstr ""
+
+#. ID 66
+msgctxt "items.name"
+msgid "Effect 60"
+msgstr ""
+
+#. ID 67
+msgctxt "items.name"
+msgid "Effect 61"
+msgstr ""
+
+#. ID 68
+msgctxt "items.name"
+msgid "Effect 62"
+msgstr ""
+
+#. ID 69
+msgctxt "items.name"
+msgid "Effect 63"
+msgstr ""
+
+#. ID 70
+msgctxt "items.name"
+msgid "Effect 64"
+msgstr ""
+
+#. ID 71
+msgctxt "items.name"
+msgid "Effect 65"
+msgstr ""
+
+#. ID 72
+msgctxt "items.name"
+msgid "Effect 66"
+msgstr ""
+
+#. ID 73
+msgctxt "items.name"
+msgid "Effect 67"
+msgstr ""
+
+#. ID 74
+msgctxt "items.name"
+msgid "Effect 68"
+msgstr ""
+
+#. ID 75
+msgctxt "items.name"
+msgid "Effect 69"
+msgstr ""
+
+#. ID 76
+msgctxt "items.name"
+msgid "Effect 70"
+msgstr ""
+
+#. ID 77
+msgctxt "items.name"
+msgid "Effect 71"
+msgstr ""
+
+#. ID 78
+msgctxt "items.name"
+msgid "Effect 72"
+msgstr ""
+
+#. ID 79
+msgctxt "items.name"
+msgid "Effect 73"
+msgstr ""
+
+#. ID 80
+msgctxt "items.name"
+msgid "Effect 74"
+msgstr ""
+
+#. ID 81
+msgctxt "items.name"
+msgid "Effect 75"
+msgstr ""
+
+#. ID 82
+msgctxt "items.name"
+msgid "Effect 76"
+msgstr ""
+
+#. ID 83
+msgctxt "items.name"
+msgid "Effect 77"
+msgstr ""
+
+#. ID 84
+msgctxt "items.name"
+msgid "Effect 78"
+msgstr ""
+
+#. ID 85
+msgctxt "items.name"
+msgid "Effect 79"
+msgstr ""
+
+#. ID 86
+msgctxt "items.name"
+msgid "Effect 80"
+msgstr ""
+
+#. ID 87
+msgctxt "items.name"
+msgid "Effect 81"
+msgstr ""
+
+#. ID 88
+msgctxt "items.name"
+msgid "Effect 82"
+msgstr ""
+
+#. ID 89
+msgctxt "items.name"
+msgid "Effect 83"
+msgstr ""
+
+#. ID 90
+msgctxt "items.name"
+msgid "Effect 84"
+msgstr ""
+
+#. ID 91
+msgctxt "items.name"
+msgid "Effect 85"
+msgstr ""
+
+#. ID 92
+msgctxt "items.name"
+msgid "Effect 86"
+msgstr ""
+
+#. ID 93
+msgctxt "items.name"
+msgid "Effect 87"
+msgstr ""
+
+#. ID 94
+msgctxt "items.name"
+msgid "Effect 88"
+msgstr ""
+
+#. ID 95
+msgctxt "items.name"
+msgid "Effect 89"
+msgstr ""
+
+#. ID 96
+msgctxt "items.name"
+msgid "Effect 90"
+msgstr ""
+
+#. ID 97
+msgctxt "items.name"
+msgid "Effect 91"
+msgstr ""
+
+#. ID 98
+msgctxt "items.name"
+msgid "Effect 92"
+msgstr ""
+
+#. ID 99
+msgctxt "items.name"
+msgid "Effect 93"
+msgstr ""
+
+#. ID 100
+msgctxt "items.name"
+msgid "Effect 94"
+msgstr ""
+
+#. ID 101
+msgctxt "items.name"
+msgid "Effect 95"
+msgstr ""
+
+#. ID 102
+msgctxt "items.name"
+msgid "Effect 96"
+msgstr ""
+
+#. ID 103
+msgctxt "items.name"
+msgid "Effect 97"
+msgstr ""
+
+#. ID 104
+msgctxt "items.name"
+msgid "Effect 98"
+msgstr ""
+
+#. ID 105
+msgctxt "items.name"
+msgid "Effect 99"
+msgstr ""
+
+#. ID 106
+msgctxt "items.name"
+msgid "Effect 100"
+msgstr ""
+
+#. ID 109
+msgctxt "items.name"
+msgid "Effects (awake):"
+msgstr ""
+
+#. ID 109
+msgctxt "items.description"
+msgid "How effects behave when awake."
+msgstr ""
+
+#. ID 111
+msgctxt "items.name"
+msgid "(Debug Effect)"
+msgstr ""
+
+#. ID 113
+msgctxt "items.name"
+msgid "(Effect 1: Fast)"
+msgstr ""
+
+#. ID 113
+msgctxt "items.description"
+msgid "Go faster than walk speed."
+msgstr ""
+
+#. ID 114
+msgctxt "items.name"
+msgid "(Effect 2: Slow)"
+msgstr ""
+
+#. ID 114
+msgctxt "items.description"
+msgid "Go Slower than walk speed."
+msgstr ""
+
+#. ID 115
+msgctxt "items.name"
+msgid "(Effect 3: SwimFast)"
+msgstr ""
+
+#. ID 116
+msgctxt "items.name"
+msgid "(Effect 4: Weapon)"
+msgstr ""
+
+#. ID 116
+msgctxt "items.description"
+msgid "Attacks enemies when you interact with them."
+msgstr ""
+
+#. ID 117
+msgctxt "items.name"
+msgid "(E5: Nexus Teleport)"
+msgstr ""
+
+#. ID 117
+msgctxt "items.description"
+msgid "Press Shift to teleport to the Nexus."
+msgstr ""
+
+#. ID 118
+msgctxt "items.name"
+msgid "(E6: Invisible)"
+msgstr ""
+
+#. ID 119
+msgctxt "items.name"
+msgid "(Effect 7:Stop NPCs)"
+msgstr ""
+
+#. ID 120
+msgctxt "items.name"
+msgid "(E8: Attract NPCs)"
+msgstr ""
+
+#. ID 121
+msgctxt "items.name"
+msgid "(Effect 9: Rain)"
+msgstr ""
+
+#. ID 121
+msgctxt "items.description"
+msgid "Press Shift to toggle rainfall."
+msgstr ""
+
+#. ID 122
+msgctxt "items.name"
+msgid "(Effect 10: Snow)"
+msgstr ""
+
+#. ID 123
+msgctxt "items.name"
+msgid "(Effect 11: Light)"
+msgstr ""
+
+#. ID 123
+msgctxt "items.description"
+msgid "Press Shift to toggle light in dark areas."
+msgstr ""
+
+#. ID 124
+msgctxt "items.name"
+msgid "(Effect 12: Tiny)"
+msgstr ""
+
+#. ID 124
+msgctxt "items.description"
+msgid "Fit inside tiny spaces."
+msgstr ""
+
+#. ID 125
+msgctxt "items.name"
+msgid "(Effect 13)"
+msgstr ""
+
+#. ID 126
+msgctxt "items.name"
+msgid "(Effect 14)"
+msgstr ""
+
+#. ID 127
+msgctxt "items.name"
+msgid "(Effect 15)"
+msgstr ""
+
+#. ID 128
+msgctxt "items.name"
+msgid "(Effect 16)"
+msgstr ""
+
+#. ID 129
+msgctxt "items.name"
+msgid "(Effect 17)"
+msgstr ""
+
+#. ID 130
+msgctxt "items.name"
+msgid "(Effect 18)"
+msgstr ""
+
+#. ID 131
+msgctxt "items.name"
+msgid "(Effect 19)"
+msgstr ""
+
+#. ID 132
+msgctxt "items.name"
+msgid "(Effect 20)"
+msgstr ""
+
+#. ID 133
+msgctxt "items.name"
+msgid "(Effect 21)"
+msgstr ""
+
+#. ID 134
+msgctxt "items.name"
+msgid "(Effect 22)"
+msgstr ""
+
+#. ID 135
+msgctxt "items.name"
+msgid "(Effect 23)"
+msgstr ""
+
+#. ID 136
+msgctxt "items.name"
+msgid "(Effect 24)"
+msgstr ""
+
+#. ID 137
+msgctxt "items.name"
+msgid "(Effect 25)"
+msgstr ""
+
+#. ID 138
+msgctxt "items.name"
+msgid "(Effect 26)"
+msgstr ""
+
+#. ID 139
+msgctxt "items.name"
+msgid "(Effect 27)"
+msgstr ""
+
+#. ID 140
+msgctxt "items.name"
+msgid "(Effect 28)"
+msgstr ""
+
+#. ID 141
+msgctxt "items.name"
+msgid "(Effect 29)"
+msgstr ""
+
+#. ID 142
+msgctxt "items.name"
+msgid "(Effect 30)"
+msgstr ""
+
+#. ID 143
+msgctxt "items.name"
+msgid "(Effect 31)"
+msgstr ""
+
+#. ID 144
+msgctxt "items.name"
+msgid "(Effect 32)"
+msgstr ""
+
+#. ID 145
+msgctxt "items.name"
+msgid "(Effect 33)"
+msgstr ""
+
+#. ID 146
+msgctxt "items.name"
+msgid "(Effect 34)"
+msgstr ""
+
+#. ID 147
+msgctxt "items.name"
+msgid "(Effect 35)"
+msgstr ""
+
+#. ID 148
+msgctxt "items.name"
+msgid "(Effect 36)"
+msgstr ""
+
+#. ID 149
+msgctxt "items.name"
+msgid "(Effect 37)"
+msgstr ""
+
+#. ID 150
+msgctxt "items.name"
+msgid "(Effect 38)"
+msgstr ""
+
+#. ID 151
+msgctxt "items.name"
+msgid "(Effect 39)"
+msgstr ""
+
+#. ID 152
+msgctxt "items.name"
+msgid "(Effect 40)"
+msgstr ""
+
+#. ID 153
+msgctxt "items.name"
+msgid "(Effect 41)"
+msgstr ""
+
+#. ID 154
+msgctxt "items.name"
+msgid "(Effect 42)"
+msgstr ""
+
+#. ID 155
+msgctxt "items.name"
+msgid "(Effect 43)"
+msgstr ""
+
+#. ID 156
+msgctxt "items.name"
+msgid "(Effect 44)"
+msgstr ""
+
+#. ID 157
+msgctxt "items.name"
+msgid "(Effect 45)"
+msgstr ""
+
+#. ID 158
+msgctxt "items.name"
+msgid "(Effect 46)"
+msgstr ""
+
+#. ID 159
+msgctxt "items.name"
+msgid "(Effect 47)"
+msgstr ""
+
+#. ID 160
+msgctxt "items.name"
+msgid "(Effect 48)"
+msgstr ""
+
+#. ID 161
+msgctxt "items.name"
+msgid "(Effect 49)"
+msgstr ""
+
+#. ID 162
+msgctxt "items.name"
+msgid "(Effect 50)"
+msgstr ""
+
+#. ID 163
+msgctxt "items.name"
+msgid "(Effect 51)"
+msgstr ""
+
+#. ID 164
+msgctxt "items.name"
+msgid "(Effect 52)"
+msgstr ""
+
+#. ID 165
+msgctxt "items.name"
+msgid "(Effect 53)"
+msgstr ""
+
+#. ID 166
+msgctxt "items.name"
+msgid "(Effect 54)"
+msgstr ""
+
+#. ID 167
+msgctxt "items.name"
+msgid "(Effect 55)"
+msgstr ""
+
+#. ID 168
+msgctxt "items.name"
+msgid "(Effect 56)"
+msgstr ""
+
+#. ID 169
+msgctxt "items.name"
+msgid "(Effect 57)"
+msgstr ""
+
+#. ID 170
+msgctxt "items.name"
+msgid "(Effect 58)"
+msgstr ""
+
+#. ID 171
+msgctxt "items.name"
+msgid "(Effect 59)"
+msgstr ""
+
+#. ID 172
+msgctxt "items.name"
+msgid "(Effect 60)"
+msgstr ""
+
+#. ID 173
+msgctxt "items.name"
+msgid "(Effect 61)"
+msgstr ""
+
+#. ID 174
+msgctxt "items.name"
+msgid "(Effect 62)"
+msgstr ""
+
+#. ID 175
+msgctxt "items.name"
+msgid "(Effect 63)"
+msgstr ""
+
+#. ID 176
+msgctxt "items.name"
+msgid "(Effect 64)"
+msgstr ""
+
+#. ID 177
+msgctxt "items.name"
+msgid "(Effect 65)"
+msgstr ""
+
+#. ID 178
+msgctxt "items.name"
+msgid "(Effect 66)"
+msgstr ""
+
+#. ID 179
+msgctxt "items.name"
+msgid "(Effect 67)"
+msgstr ""
+
+#. ID 180
+msgctxt "items.name"
+msgid "(Effect 68)"
+msgstr ""
+
+#. ID 181
+msgctxt "items.name"
+msgid "(Effect 69)"
+msgstr ""
+
+#. ID 182
+msgctxt "items.name"
+msgid "(Effect 70)"
+msgstr ""
+
+#. ID 183
+msgctxt "items.name"
+msgid "(Effect 71)"
+msgstr ""
+
+#. ID 184
+msgctxt "items.name"
+msgid "(Effect 72)"
+msgstr ""
+
+#. ID 185
+msgctxt "items.name"
+msgid "(Effect 73)"
+msgstr ""
+
+#. ID 186
+msgctxt "items.name"
+msgid "(Effect 74)"
+msgstr ""
+
+#. ID 187
+msgctxt "items.name"
+msgid "(Effect 75)"
+msgstr ""
+
+#. ID 188
+msgctxt "items.name"
+msgid "(Effect 76)"
+msgstr ""
+
+#. ID 189
+msgctxt "items.name"
+msgid "(Effect 77)"
+msgstr ""
+
+#. ID 190
+msgctxt "items.name"
+msgid "(Effect 78)"
+msgstr ""
+
+#. ID 191
+msgctxt "items.name"
+msgid "(Effect 79)"
+msgstr ""
+
+#. ID 192
+msgctxt "items.name"
+msgid "(Effect 80)"
+msgstr ""
+
+#. ID 193
+msgctxt "items.name"
+msgid "(Effect 81)"
+msgstr ""
+
+#. ID 194
+msgctxt "items.name"
+msgid "(Effect 82)"
+msgstr ""
+
+#. ID 195
+msgctxt "items.name"
+msgid "(Effect 83)"
+msgstr ""
+
+#. ID 196
+msgctxt "items.name"
+msgid "(Effect 84)"
+msgstr ""
+
+#. ID 197
+msgctxt "items.name"
+msgid "(Effect 85)"
+msgstr ""
+
+#. ID 198
+msgctxt "items.name"
+msgid "(Effect 86)"
+msgstr ""
+
+#. ID 199
+msgctxt "items.name"
+msgid "(Effect 87)"
+msgstr ""
+
+#. ID 200
+msgctxt "items.name"
+msgid "(Effect 88)"
+msgstr ""
+
+#. ID 201
+msgctxt "items.name"
+msgid "(Effect 89)"
+msgstr ""
+
+#. ID 202
+msgctxt "items.name"
+msgid "(Effect 90)"
+msgstr ""
+
+#. ID 203
+msgctxt "items.name"
+msgid "(Effect 91)"
+msgstr ""
+
+#. ID 204
+msgctxt "items.name"
+msgid "(Effect 92)"
+msgstr ""
+
+#. ID 205
+msgctxt "items.name"
+msgid "(Effect 93)"
+msgstr ""
+
+#. ID 206
+msgctxt "items.name"
+msgid "(Effect 94)"
+msgstr ""
+
+#. ID 207
+msgctxt "items.name"
+msgid "(Effect 95)"
+msgstr ""
+
+#. ID 208
+msgctxt "items.name"
+msgid "(Effect 96)"
+msgstr ""
+
+#. ID 209
+msgctxt "items.name"
+msgid "(Effect 97)"
+msgstr ""
+
+#. ID 210
+msgctxt "items.name"
+msgid "(Effect 98)"
+msgstr ""
+
+#. ID 211
+msgctxt "items.name"
+msgid "(Effect 99)"
+msgstr ""
+
+#. ID 212
+msgctxt "items.name"
+msgid "(Effect 100)"
+msgstr ""
+
+#. ID 213
+msgctxt "items.name"
+msgid "Clothes"
+msgstr ""
+
+msgctxt "terms.attacking"
+msgid "‚ÌUŒ‚I"
+msgstr ""
+
+msgctxt "terms.enemy_critical"
+msgid "‰ïS‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.actor_critical"
+msgid "’É¦‚ÌˆêŒ‚II"
+msgstr ""
+
+msgctxt "terms.defending"
+msgid "‚Íg‚ðŽç‚Á‚Ä‚¢‚éI"
+msgstr ""
+
+msgctxt "terms.observing"
+msgid "‚Í—lŽq‚ðŒ©‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.focus"
+msgid "‚Í—Í‚ð‚½‚ß‚Ä‚¢‚éEEE"
+msgstr ""
+
+msgctxt "terms.autodestruction"
+msgid "‚ÍŽ©”š‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_escape"
+msgid "‚Í“¦‚°‚Ä‚µ‚Ü‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_transform"
+msgid "‚ÍŽp‚ð•Ï‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ð—^‚¦‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_undamaged"
+msgid "‚Éƒ_ƒ[ƒW‚ð—^‚¦‚ç‚ê‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.actor_damaged"
+msgid "‚Ìƒ_ƒ[ƒW‚ðŽó‚¯‚½I"
+msgstr ""
+
+msgctxt "terms.actor_undamaged"
+msgid "‚Íƒ_ƒ[ƒW‚ðŽó‚¯‚Ä‚¢‚È‚¢I"
+msgstr ""
+
+msgctxt "terms.skill_failure_a"
+msgid "‚É‚ÍŒø‚©‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_b"
+msgid "‚Í•½‹C‚¾‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.skill_failure_c"
+msgid "‚Í–°‚ç‚È‚©‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.dodge"
+msgid "‚ÍUŒ‚‚ð‚©‚í‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.use_item"
+msgid "‚ðŽg‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.hp_recovery"
+msgid "‰ñ•œ‚µ‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_increase"
+msgid "ã‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.parameter_decrease"
+msgid "‰º‚ª‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.enemy_hp_absorbed"
+msgid "’D‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.actor_hp_absorbed"
+msgid "’D‚í‚ê‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_increase"
+msgid "‚É‹­‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.resistance_decrease"
+msgid "‚ÉŽã‚­‚È‚Á‚½I"
+msgstr ""
+
+msgctxt "terms.shop_greeting1"
+msgid "Please select a product."
+msgstr ""
+
+msgctxt "terms.shop_regreeting1"
+msgid "Please select a product."
+msgstr ""
+
+msgctxt "terms.shop_buy1"
+msgid "Buy"
+msgstr ""
+
+msgctxt "terms.shop_sell1"
+msgid "Sell"
+msgstr ""
+
+msgctxt "terms.shop_leave1"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "terms.possessed_items"
+msgid "In inventory"
+msgstr ""
+
+msgctxt "terms.equipped_items"
+msgid "Equipped"
+msgstr ""
+
+msgctxt "terms.gold"
+msgid "$"
+msgstr ""
+
+msgctxt "terms.battle_fight"
+msgid "Whisper"
+msgstr ""
+
+msgctxt "terms.battle_auto"
+msgid "Index"
+msgstr ""
+
+msgctxt "terms.battle_escape"
+msgid "Pulse"
+msgstr ""
+
+msgctxt "terms.command_attack"
+msgid "UŒ‚"
+msgstr ""
+
+msgctxt "terms.command_defend"
+msgid "–hŒä"
+msgstr ""
+
+msgctxt "terms.command_item"
+msgid "  Effects"
+msgstr "　エフェクト"
+
+msgctxt "terms.command_skill"
+msgid "  Skills"
+msgstr "　スキル"
+
+msgctxt "terms.menu_equipment"
+msgid "Equip"
+msgstr ""
+
+msgctxt "terms.menu_save"
+msgid "Save"
+msgstr ""
+
+msgctxt "terms.menu_quit"
+msgid "  Reset"
+msgstr "　リセット"
+
+msgctxt "terms.new_game"
+msgid " scary nikki "
+msgstr "　　怖い日記　　"
+
+msgctxt "terms.load_game"
+msgid "  ver. 0.04 "
+msgstr "　  ver. 0.04 　"
+
+msgctxt "terms.exit_game"
+msgid " made by ??? "
+msgstr "せいさく：？？？"
+
+msgctxt "terms.level"
+msgid "Effects"
+msgstr ""
+
+msgctxt "terms.health_points"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "A"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "HP"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "MP"
+msgstr ""
+
+msgctxt "terms.weapon"
+msgid "Left Hand"
+msgstr ""
+
+msgctxt "terms.shield"
+msgid "Right Hand"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "Body"
+msgstr ""
+
+msgctxt "terms.helmet"
+msgid "Head"
+msgstr ""
+
+msgctxt "terms.accessory"
+msgid "Other"
+msgstr ""
+
+msgctxt "terms.save_game_message"
+msgid "Why are you talking with door??"
+msgstr "なんでドアと話してるの？？"
+
+msgctxt "terms.load_game_message"
+msgid "Choose"
+msgstr "選択"
+
+msgctxt "terms.exit_game_message"
+msgid "DONT GO THERE"
+msgstr "行　く　な"
+
+msgctxt "terms.yes"
+msgid " Yes "
+msgstr " はい "
+
+msgctxt "terms.no"
+msgid " No "
+msgstr " いいえ "
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+
