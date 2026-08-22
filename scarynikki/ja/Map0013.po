@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 7, Page 1, Line 2, Pos (29,28)
+msgid "You are cancerful"
+msgstr "お前は害虫だ"
+
+#. ID 8, Page 1, Line 2, Pos (24,30)
+msgid "Die"
+msgstr "しね"
+
+#. ID 9, Page 1, Line 2, Pos (29,33)
+msgid "Jump from the building"
+msgstr "飛び降りちまえ"
+
+#. ID 10, Page 1, Line 2, Pos (26,35)
+msgid "Nobody likes you"
+msgstr "誰もお前のことなんか好きじゃない"
+
+#. ID 11, Page 1, Line 2, Pos (27,25)
+msgid "Don't talk to me"
+msgstr "話しかけないで"
+
+#. ID 14, Page 1, Line 3, Pos (35,7)
+msgid "I don't want to talk to him"
+msgstr "彼とは話したくない"
+
+#. ID 14, Page 1, Line 5, Pos (35,7)
+msgid ":("
+msgstr "(´・ω・｀)"
+

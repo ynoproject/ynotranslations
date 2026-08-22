@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 1, Page 1, Line 5, Pos (30,5)
+#. ID 2, Page 1, Line 5, Pos (31,5)
+#. ID 3, Page 1, Line 5, Pos (32,5)
+msgid "                      Pear"
+msgstr "                    ヨウナシ"
+
+#. ID 4, Page 1, Line 3, Pos (26,33)
+msgid "I'm being productive"
+msgstr "私は今生産的になっている"
+
+#. ID 5, Page 1, Line 3, Pos (16,19)
+msgid "Sorry we haven't finished this map yet"
+msgstr ""
+"ごめんなさい、このマップはまだ\n"
+"未完成です"
+
+#. ID 6, Page 1, Line 3, Pos (33,6)
+msgid "I have no clue what is this"
+msgstr "これが何なのかさっぱりだ"
