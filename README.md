@@ -152,6 +152,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Haruku - Korean translation of .flow
 * Hieshe - Brazilian Portuguese translation of Yume Nikki
 * IStoleThePies - Text correction in the English translation of Yume 2kki
+* Jerichi - Translation of 20's dialogue for the English translation of Yume 2kki
 * Kong - Brazilian Portuguese translation of Yume 2kki, English Yume 2kki Memory Card game
 * Kowinski - Testing of the Russian translation of She Awaits
 * KRBlacky - Korean translation of Yume 2kki, Answered Prayers, Deep Dreams
