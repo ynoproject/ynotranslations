@@ -20,12 +20,18 @@ msgid ""
 "\\>あとがき\n"
 "\\>終了"
 msgstr ""
+"\\>Introductions\n"
+"\\>The Secret Story of Urotsuki's Birth\n"
+"\\>Afterword\n"
+"\\>End"
 
 #. ID 2, Page 2, Line 25, Pos (43,54)
 msgid ""
 "20\n"
 "はじめまして製作者の20です"
 msgstr ""
+"20\n"
+"Nice to meet you. I'm the developer 20."
 
 #. ID 2, Page 2, Line 27, Pos (43,54)
 msgid ""
@@ -33,6 +39,9 @@ msgid ""
 "私は主にメインシステムとマップ製作を\n"
 "担当させてもらいました"
 msgstr ""
+"20\n"
+"I was mainly put in charge\n"
+"of the main system and map production."
 
 #. ID 2, Page 2, Line 30, Pos (43,54)
 msgid ""
@@ -40,6 +49,8 @@ msgid ""
 "「ゆめ２っき」\n"
 "楽しんで頂けましたか？"
 msgstr ""
+"20\n"
+"Have you been enjoying Yume 2kki?"
 
 #. ID 2, Page 2, Line 33, Pos (43,54)
 #. ID 2, Page 2, Line 66, Pos (43,54)
@@ -47,6 +58,8 @@ msgid ""
 "20\n"
 "……"
 msgstr ""
+"20\n"
+"......"
 
 #. ID 2, Page 2, Line 35, Pos (43,54)
 msgid ""
@@ -54,6 +67,9 @@ msgid ""
 "とにかく「ゆめ２っき」のプレイ\n"
 "ありがとうございました！"
 msgstr ""
+"20\n"
+"Anyway, thank you for playing\n"
+"Yume 2kki!"
 
 #. ID 2, Page 2, Line 38, Pos (43,54)
 msgid ""
@@ -61,6 +77,9 @@ msgid ""
 "そして……\\!　このマップに来るまで\n"
 "やりこんだあなたはスゴイ！！"
 msgstr ""
+"20\n"
+"Oh, and...\\!　You're amazing for making\n"
+"it all the way to this map!"
 
 #. ID 2, Page 2, Line 41, Pos (43,54)
 msgid ""
@@ -68,6 +87,9 @@ msgid ""
 "なにせ製作者ですら\n"
 "全体を把握できていない世界です"
 msgstr ""
+"20\n"
+"For you see, even some developers\n"
+"can't totally grasp some of the worlds."
 
 #. ID 2, Page 2, Line 44, Pos (43,54)
 msgid ""
@@ -75,6 +97,9 @@ msgid ""
 "プレイ動画でサクっとエンディングを\n"
 "見るのもいいですが……"
 msgstr ""
+"20\n"
+"Just watching some gameplay videos of\n"
+"the ending is fine, but..."
 
 #. ID 2, Page 2, Line 47, Pos (43,54)
 msgid ""
@@ -83,12 +108,18 @@ msgid ""
 "ここまで来てもらえたほうが\n"
 "\"製作者みょうり\"につきます"
 msgstr ""
+"20\n"
+"To us, actually playing it\n"
+"and making it this far\n"
+"is something of a \"Dev Blessing\"."
 
 #. ID 2, Page 2, Line 51, Pos (43,54)
 msgid ""
 "20\n"
 "プレイヤーのあなたに感謝いたします"
 msgstr ""
+"20\n"
+"We're grateful for you, the players."
 
 #. ID 2, Page 2, Line 63, Pos (43,54)
 msgid ""
@@ -96,6 +127,9 @@ msgid ""
 "あなたは「うろつき」に対してどんな\n"
 "イメージを持っていますか？"
 msgstr ""
+"20\n"
+"How do you imagine\n"
+"\"Urotsuki\" to be?"
 
 #. ID 2, Page 2, Line 68, Pos (43,54)
 msgid ""
@@ -103,6 +137,10 @@ msgid ""
 "プロジェクト立ち上げ期に\n"
 "ロダにアップされたラフ画をお見せします"
 msgstr ""
+"20\n"
+"When we were starting up the project,\n"
+"we showed some rough drafts on the\n"
+"loading screen."
 
 #. ID 2, Page 2, Line 71, Pos (43,54)
 msgid ""
@@ -110,18 +148,26 @@ msgid ""
 "見終わったら\n"
 "何かキーを押してください"
 msgstr ""
+"20\n"
+"Please press any key\n"
+"when you've finished looking."
 
 #. ID 2, Page 2, Line 79, Pos (43,54)
 msgid ""
 "20\n"
 "どうでしたか？"
 msgstr ""
+"20\n"
+"What do you think?"
 
 #. ID 2, Page 2, Line 81, Pos (43,54)
 msgid ""
 "20\n"
 "製作者は不明。あるのは2枚のラフ画だけ"
 msgstr ""
+"20\n"
+"Its creator is unknown. All that's\n"
+"left is the rough sketch."
 
 #. ID 2, Page 2, Line 84, Pos (43,54)
 msgid ""
@@ -129,6 +175,10 @@ msgid ""
 "左下のラフ画からドットが起こされ\n"
 "皆に描かれて　ここまで成長しました"
 msgstr ""
+"20\n"
+"From the bottom left rough sketch, a\n"
+"pixel version was made that everyone\n"
+"drew from. It grew from there."
 
 #. ID 2, Page 2, Line 87, Pos (43,54)
 msgid ""
@@ -137,6 +187,10 @@ msgid ""
 "私ですが\n"
 "なぜ左下を選んだかというと……"
 msgstr ""
+"20\n"
+"The one who created the pixel art\n"
+"from the bottom left was me.\n"
+"As for why I chose the bottom left..."
 
 #. ID 2, Page 2, Line 91, Pos (43,54)
 msgid ""
@@ -145,6 +199,14 @@ msgid ""
 "・ドットのしやすさ\n"
 "いたって単純な理由で気軽に選びました"
 msgstr ""
+"20\n"
+"・I pictured it as totally opposite\n"
+"  to Madotsuki\n"
+"・The pixeling was easy\n"
+"<easyrpg:new_page>\n"
+"20\n"
+"The reasons for my choice\n"
+"were quite simple."
 
 #. ID 2, Page 2, Line 95, Pos (43,54)
 msgid ""
@@ -152,6 +214,9 @@ msgid ""
 "当初は参加者数人の\n"
 "極小規模なものでした"
 msgstr ""
+"20\n"
+"At the start, the number of\n"
+"participants was vanishingly small."
 
 #. ID 2, Page 2, Line 98, Pos (43,54)
 msgid ""
@@ -159,6 +224,9 @@ msgid ""
 "まさかここまで大きくなるとは\n"
 "夢にも思いませんでした"
 msgstr ""
+"20\n"
+"I could never have dreamed\n"
+"that it would grow to be this large."
 
 #. ID 2, Page 2, Line 101, Pos (43,54)
 msgid ""
@@ -167,6 +235,13 @@ msgid ""
 "プレイヤーの方々に愛され、\n"
 "育ても親の一人として目を細める思いです"
 msgstr ""
+"20\n"
+"Getting love from developers, artists\n"
+"and players in such a niche market\n"
+"is a thought that makes me smile,\n"
+"<easyrpg:new_page>\n"
+"20\n"
+"like one of the parents who raised it."
 
 #. ID 2, Page 2, Line 105, Pos (43,54)
 msgid ""
@@ -174,6 +249,10 @@ msgid ""
 "名前の由来とかは\n"
 "別に言わなくてもいいですよね？"
 msgstr ""
+"20\n"
+"If it's alright with you,\n"
+"I won't say anything about the\n"
+"origin of her name."
 
 #. ID 2, Page 2, Line 121, Pos (43,54)
 msgid ""
@@ -181,6 +260,9 @@ msgid ""
 "私は開発初期からいた\n"
 "立ち上げメンバーの一人でしたが"
 msgstr ""
+"20\n"
+"I'm one of the members that has\n"
+"been around since the beginning."
 
 #. ID 2, Page 2, Line 124, Pos (43,54)
 msgid ""
@@ -188,6 +270,9 @@ msgid ""
 "気が付けば、当時のメンバーは\n"
 "私一人になっていました"
 msgstr ""
+"20\n"
+"You might notice that I was\n"
+"the only member at the time."
 
 #. ID 2, Page 2, Line 127, Pos (43,54)
 msgid ""
@@ -195,6 +280,10 @@ msgid ""
 "かなりの長いスパンで続けていたので\n"
 "仕方ないですが　寂しいところもあります"
 msgstr ""
+"20\n"
+"But because it's been such a long\n"
+"span, it has been lonely at times,\n"
+"unfortunately."
 
 #. ID 2, Page 2, Line 130, Pos (43,54)
 msgid ""
@@ -203,6 +292,10 @@ msgid ""
 "開発が進むにつれ新たな参加者が増え\n"
 "より一層 製作が楽しくなりました"
 msgstr ""
+"20\n"
+"However, as things have been advancing\n"
+"and new participants continue to join,\n"
+"development has been fun."
 
 #. ID 2, Page 2, Line 134, Pos (43,54)
 msgid ""
@@ -210,6 +303,10 @@ msgid ""
 "絵、音、ツクラー、各分野の素晴らしい\n"
 "製作者さんとの出会いがありました"
 msgstr ""
+"20\n"
+"I've met a number of amazing creators\n"
+"in every field, like art, sound and\n"
+"RPG Maker development."
 
 #. ID 2, Page 2, Line 137, Pos (43,54)
 msgid ""
@@ -218,6 +315,10 @@ msgid ""
 "製作者の端くれとして\n"
 "良い刺激になりました"
 msgstr ""
+"20\n"
+"I've gotten inspiration from everyone\n"
+"and each of these bits have been\n"
+"good motivation."
 
 #. ID 2, Page 2, Line 141, Pos (43,54)
 msgid ""
@@ -225,6 +326,9 @@ msgid ""
 "協力してくださったクリエイターの皆さん\n"
 "どうもありがとうございました！"
 msgstr ""
+"20\n"
+"To all the creators who have worked\n"
+"with me, thank you so much!"
 
 #. ID 2, Page 2, Line 144, Pos (43,54)
 msgid ""
@@ -233,6 +337,10 @@ msgid ""
 "他の製作者さんがいる限り\n"
 "まだまだ製作は続くことでしょう"
 msgstr ""
+"20\n"
+"Though the ending has been implemented,\n"
+"as long as there are other devs,\n"
+"development will likely continue."
 
 #. ID 2, Page 2, Line 148, Pos (43,54)
 msgid ""
@@ -241,6 +349,10 @@ msgid ""
 "ゆめ２っきを\n"
 "つむいでいってくれたらなと思います"
 msgstr ""
+"20\n"
+"Until the day RPG Maker 2000 no longer\n"
+"works, Yume 2kki will keep being\n"
+"spun together, I think."
 
 #. ID 2, Page 2, Line 152, Pos (43,54)
 msgid ""
@@ -248,12 +360,17 @@ msgid ""
 "それでは\n"
 "またどこかでお会いしましょう！"
 msgstr ""
+"20\n"
+"Well, in that case,\n"
+"let's meet again somewhere!"
 
 #. ID 2, Page 2, Line 155, Pos (43,54)
 msgid ""
 "20\n"
 "あなたに良い夢を！"
 msgstr ""
+"20\n"
+"Sweet dreams!"
 
 #. ID 3, Page 1, Line 1, Pos (25,77)
 msgid ""
@@ -6220,67 +6337,316 @@ msgid ""
 "適当に読んどいてください。大した事書いてないが。"
 msgstr ""
 
-#. ID 129, Page 1, Line 4, Pos (40,33)
+#. ID 130, Page 1, Line 2, Pos (40,33)
 msgid ""
-"夢箱です、何となくで来てみました\n"
-"セリフは考え中なので\n"
-"また私の更新があったら来てみてください\n"
-"何か増えてるかもです..."
+"夢箱と申します\n"
+"何か御用ですかな？"
 msgstr ""
 
-#. ID 129, Page 1, Line 8, Pos (40,33)
+#. ID 130, Page 1, Line 5, Pos (40,33)
+#. Choice (4 options)
 msgid ""
-"とにもかくにも数多の世界を乗り越え\n"
-"ここまで来た貴方はスゴイ!\n"
-"長い旅路だったでしょう..."
+"制作参加の軌跡\n"
+"どこ作ったの？\n"
+"ヒント\n"
+"立ち去る"
 msgstr ""
 
-#. ID 129, Page 1, Line 11, Pos (40,33)
+#. ID 130, Page 1, Line 7, Pos (40,33)
 msgid ""
-"このゲーム、ゆめ2っきは\n"
-"今現在も定期的に更新され\n"
-"世界が増え続けています。"
+"ゆめ2っきのご制作に参加したのは\n"
+"2022/11/24ですね、この日に初めての世界を\n"
+"扉部屋にて追加させて頂きました。"
 msgstr ""
 
-#. ID 129, Page 1, Line 14, Pos (40,33)
+#. ID 130, Page 1, Line 10, Pos (40,33)
 msgid ""
-"もしよければ、ふと思い出した時に\n"
-"もう一度プレイしてみてください\n"
-"新たな「夢」の発見があるかもです..."
+"今日に至るまで、この文章を記してる\n"
+"2026/8/15まで色々なご経験をさせてもらいました。"
 msgstr ""
 
-#. ID 129, Page 1, Line 17, Pos (40,33)
+#. ID 130, Page 1, Line 12, Pos (40,33)
 msgid ""
-"15年以上経った今でも更新が途絶えない\n"
-"不思議と魅力に溢れたゲームだと思います。\n"
-"それでは、また会えたら会いましょう..."
+"度々、界隈に大きなご迷惑をお掛けしました\n"
+"そのたびはご迷惑をお掛けして申し訳ございません\n"
+"だからこそ今は正しくあろうと志す私が御座います\n"
+"皆様が支えてくれたお陰です。"
 msgstr ""
 
-#. ID 129, Page 2, Line 4, Pos (40,33)
+#. ID 130, Page 1, Line 16, Pos (40,33)
 msgid ""
-"夢箱です、何となくで来てみました\n"
-"セリフは考え中なので\n"
-"また私の更新があったら来てみてください\n"
-"何か...."
+"ゆめ2っきのご制作に参加したいなぁ\n"
+"...と思った理由は当時はまだ其処らに居る\n"
+"ご普通のプレイヤーの一員でした。\n"
+"2022年の6月上旬頃からですね"
 msgstr ""
 
-#. ID 129, Page 2, Line 8, Pos (40,33)
+#. ID 130, Page 1, Line 20, Pos (40,33)
 msgid ""
-"おや、デバック中のお方でしたか\n"
+"ゆめ2っきの色々とツクラー様の世界を散歩する度に\n"
+"思ったのです、私も本家「ゆめにっき」っぽいを\n"
+"作りたいとそして衝動抑えきれず\n"
+"気づいた内には制作のスレの方に書き込んでました。"
+msgstr ""
+
+#. ID 130, Page 1, Line 24, Pos (40,33)
+msgid ""
+"私は基本的に「皆様に楽しんで欲しい」という\n"
+"言葉を胸に制作を行っております。\n"
+"皆様のご応援の言葉や私の世界のファンアート\n"
+"日々の励みになっております、ありがたや"
+msgstr ""
+
+#. ID 130, Page 1, Line 28, Pos (40,33)
+msgid ""
+"とここで一旦\n"
+"正直に思うんですが、文字を使った物語系の\n"
+"世界を作ってて何か違うなと思うところもあります。"
+msgstr ""
+
+#. ID 130, Page 1, Line 31, Pos (40,33)
+msgid ""
+"「お前が始めた物語だろ」と言われれば\n"
+"その通りです、今もまだ物語は終着点へと\n"
+"着いていませんが、今更やり方を変えるのも\n"
+"違うのかなと"
+msgstr ""
+
+#. ID 130, Page 1, Line 35, Pos (40,33)
+msgid ""
+"なので近頃、物語の終焉をお送りいたします\n"
+"楽しみにしてもらえれば幸いです。"
+msgstr ""
+
+#. ID 130, Page 1, Line 37, Pos (40,33)
+msgid ""
+"今後もゆるーく更新を続けてゆくと思うので\n"
+"よろしくお願いします。"
+msgstr ""
+
+#. ID 130, Page 1, Line 42, Pos (40,33)
+msgid ""
+"ゆめ2っきの楽しむWikiで一般的に\n"
+"呼ばれる呼称を使うと"
+msgstr ""
+
+#. ID 130, Page 1, Line 44, Pos (40,33)
+msgid ""
+"扉部屋から行ける「碧眼世界」(へきがんせかい)\n"
+"の方面"
+msgstr ""
+
+#. ID 130, Page 1, Line 46, Pos (40,33)
+msgid ""
+"打捨てる絵画から訪問できる「幻想図書館」\n"
+"の方面全般"
+msgstr ""
+
+#. ID 130, Page 1, Line 48, Pos (40,33)
+msgid ""
+"あと彼方此方に世界を配置しています。\n"
+"「白樺の森」とか「gear＆white」とかがそうですね。"
+msgstr ""
+
+#. ID 130, Page 1, Line 50, Pos (40,33)
+msgid ""
+"あと「紅子」と呼ばれる少女の世界関連を\n"
+"作らせていただきました\n"
+"こちらの世界群は貯金箱の対象になってないので\n"
+"エンドコンテンツとして見てもらえればなと。"
+msgstr ""
+
+#. ID 130, Page 1, Line 54, Pos (40,33)
+msgid ""
+"まぁ、こんな感じですかね。\n"
+"他にも隠しエリアとか遊び心で作ったりしてます。\n"
+"一つ挙げるなら「静寂の森」から香りが"
+msgstr ""
+
+#. ID 130, Page 1, Line 60, Pos (40,33)
+#. Choice (4 options)
+msgid ""
+"紅の軌跡\n"
+"青い蝋燭\n"
+"彼女に会った回数\n"
+"～戻る～"
+msgstr ""
+
+#. ID 130, Page 1, Line 62, Pos (40,33)
+msgid ""
+"白樺の森にとある曰くつきの絵画が\n"
+"あるみたいですそしてその先"
+msgstr ""
+
+#. ID 130, Page 1, Line 64, Pos (40,33)
+msgid ""
+"とある彼方に存在する紅の少女。\n"
+"入手手段が意味深だったあのエフェクトに\n"
+"反応しそうです。"
+msgstr ""
+
+#. ID 130, Page 1, Line 67, Pos (40,33)
+msgid ""
+"そしてその少女と似た人物が\n"
+"田舎の奥の謎の施設に居るみたいです\n"
+"会うことが何かのトリガーになってるかも？"
+msgstr ""
+
+#. ID 130, Page 1, Line 71, Pos (40,33)
+msgid "...一つの結末を見送ったそうですね"
+msgstr ""
+
+#. ID 130, Page 1, Line 72, Pos (40,33)
+msgid "でもそれは"
+msgstr ""
+
+#. ID 130, Page 1, Line 76, Pos (40,33)
+msgid "\\C[1]終 わ り の 始 ま り で す"
+msgstr ""
+
+#. ID 130, Page 1, Line 79, Pos (40,33)
+#. ID 130, Page 1, Line 83, Pos (40,33)
+msgid ""
+"無理に深追いはしないでくださいね\n"
+"何をするかは貴方の自由なのですから。"
+msgstr ""
+
+#. ID 130, Page 1, Line 90, Pos (40,33)
+msgid ""
+"図書館でとある書物を読みましたか？\n"
+"凶暴な生物を抑える事ができる儀式の場がある\n"
+"協会が存在するとか...?"
+msgstr ""
+
+#. ID 130, Page 1, Line 94, Pos (40,33)
+msgid ""
+"...おや、どうやら見つけたようですね。\n"
+"凶暴に暴れまわっていた生物も制圧できたようで\n"
+"(例外も居るらしいですが...)"
+msgstr ""
+
+#. ID 130, Page 1, Line 97, Pos (40,33)
+msgid ""
+"そう言えば協会近くの木の下に抜け穴があるって\n"
+"噂があるとかないとか"
+msgstr ""
+
+#. ID 130, Page 1, Line 99, Pos (40,33)
+msgid ""
+"とりあえず、脅威の鎮圧\n"
 "お疲れ様です。"
 msgstr ""
 
-#. ID 129, Page 2, Line 10, Pos (40,33)
+#. ID 130, Page 1, Line 103, Pos (40,33)
 msgid ""
-"制作の方かまたは遊び半分か\n"
-"それとも..."
+"碧眼世界の先を隈なく調べてみてください\n"
+"夕日と屋台ラーメンが目印ですよ。"
 msgstr ""
 
-#. ID 129, Page 2, Line 12, Pos (40,33)
+#. ID 130, Page 1, Line 110, Pos (40,33)
 msgid ""
-"まぁ、ここに来た経緯が例え「ズル」で\n"
-"あっても咎めはしませんよ。\n"
-"でも他のお方はどうでしょうかね..."
+"彼女に会った回数\\C[1]「\\V[4990]」\\C[0]ですね。\n"
+""
+msgstr ""
+
+#. ID 130, Page 1, Line 118, Pos (40,33)
+#. Choice (1 options)
+msgid "「」のヒント"
+msgstr ""
+
+#. ID 130, Page 1, Line 121, Pos (40,33)
+#. Choice (2 options)
+msgid ""
+"白い薔薇の母性\n"
+"目には目を"
+msgstr ""
+
+#. ID 130, Page 1, Line 123, Pos (40,33)
+msgid "壱・幻想ノ本浮遊スル 天と地　その番人"
+msgstr ""
+
+#. ID 130, Page 1, Line 124, Pos (40,33)
+msgid "弐・白黒ノ薔薇に植えられｼ存在"
+msgstr ""
+
+#. ID 130, Page 1, Line 125, Pos (40,33)
+msgid ""
+"弐つを成す時、猪高ぶる暗黒の地　その檻\n"
+"開かれる"
+msgstr ""
+
+#. ID 130, Page 1, Line 127, Pos (40,33)
+msgid ""
+"紅ノ結末見届けし時　蒼薔薇に彼女は訪れり\n"
+"一度で終わらない 二度目は裏切らない"
+msgstr ""
+
+#. ID 130, Page 1, Line 132, Pos (40,33)
+msgid ""
+"幻想ノ名刻まれシ　住居の一室\n"
+"その書物は真か嘘か？"
+msgstr ""
+
+#. ID 130, Page 1, Line 134, Pos (40,33)
+msgid ""
+"目には目を歯には歯を 本にはメガネを\n"
+"真実を見通すのだ"
+msgstr ""
+
+#. ID 130, Page 1, Line 139, Pos (40,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「」とは散った記憶の欠片\n"
+"貴方は真相を追うのですか？"
+msgstr ""
+
+#. ID 130, Page 1, Line 143, Pos (40,33)
+msgid ""
+"そう、貴方はさらなる深淵へと踏み込むか...\n"
+"ならば見つけてみなさい 六つの欠片を\n"
+"さすれば道が開かれる..."
+msgstr ""
+
+#. ID 130, Page 1, Line 146, Pos (40,33)
+msgid ""
+"...ふふっ 雰囲気づくりって大事ですよね\n"
+"それでは\n"
+"貴方の行きたいままに自由に夢をお楽しみくださいな。"
+msgstr ""
+
+#. ID 130, Page 1, Line 151, Pos (40,33)
+msgid ""
+"そうですか、ならば\n"
+"ご自由に夢世界を引き続き\n"
+"お楽しみいただければ幸いです"
+msgstr ""
+
+#. ID 130, Page 1, Line 162, Pos (40,33)
+msgid ""
+"ふむ、左様ですか\n"
+"ではでは、話しかけてくれてありがとね。"
+msgstr ""
+
+#. ID 130, Page 1, Line 170, Pos (40,33)
+msgid ""
+"ここまでの旅路、お疲れさまでした。\n"
+"これからも貴方に新しい夢のご縁がありますように..."
+msgstr ""
+
+#. ID 130, Page 1, Line 172, Pos (40,33)
+msgid "話しかけてくれてありがとね。"
+msgstr ""
+
+#. ID 130, Page 2, Line 2, Pos (40,33)
+msgid ""
+"アトリエの主の身体借りてます\n"
+"デバックお疲れ様です。"
+msgstr ""
+
+#. ID 130, Page 2, Line 4, Pos (40,33)
+msgid ""
+"余談だけどロングスリーパーを卒業したい\n"
+"もっと１日を堪能させてクレメンス"
 msgstr ""
 
 #. ID 131, Page 1, Line 1, Pos (64,79)
