@@ -121,6 +121,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 - FOG: the font [Chango by Fontstage](https://fonts.google.com/specimen/Chango) is used for the line "a dreamFOG game" in the credits; [Press Start 2P by CodeMan38](https://fonts.google.com/specimen/Press+Start+2P) for the rest of the credits; [TeX Gyre Adventor by Herb Lubalin and Tom Carnase](https://www.1001fonts.com/tex-gyre-adventor-font.html) for the "The Seven Dreamers will return." line. The small type lettering uses its own separate font.
 
 ## Credits
+
 ### Translation
 * 0d1an - Russian translation of Mikan Muzou
 * aku - Library's books for the English translation of Yume 2kki
@@ -196,6 +197,11 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Yume 2kki Chinese Translation Group (梦二记汉化组) - Chinese translation of Yume 2kki
   
 The Japanese version of Yume Nikki, Spanish version of Someday, French and Japanese versions of Amillusion, Chinese version of Dream Genie, Chinese version of Unaccomplished, and Spanish and Japanese versions of FOG, are made by the author(s) of their game, and are respectively made by Kikiyama, Jojogape, Team Compote, TanDen___ ☄, Moucky2333, and Alexis Priscilla.
+
+### Fonts
+* Tahoma is the font used for the Arabic and Hebrew translations of Yume Nikki, © 2018 Microsoft Corporation. All rights reserved. Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson.
+* dfkjbs Regular is the font used for the Toki Pona translations of Yume Nikki and Yume 2kki. It is licensed under the Open Font License, and was created by kdjgbsjksrdbg.
+* The font used in the Spanish translation of Deep Dreams is a modified copy of the font used for the game Deep Dreams (original font made by Nulsdodage, modified by ElTipejoLoco to add glyphs needed for the Spanish language).
 
 ### Special Thanks
 * [EasyRPG Player Developers](https://github.com/EasyRPG/Player/blob/master/docs/AUTHORS.md)
