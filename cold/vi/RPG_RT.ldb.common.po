@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Line 40
+msgid "                      [hood]"
+msgstr "                      [áo trùm]"
+
+#. ID 16, Line 45
+msgid "                      [smile]"
+msgstr "                     [mặt nạ cười]"
+
+#. ID 16, Line 50
+msgid "                     [toy box]"
+msgstr "                     [hộp đồ chơi]"
+
+#. ID 16, Line 56
+msgid "                      [older]"
+msgstr "                      [già nua]"
+
+#. ID 16, Line 61
+msgid "                      [tiger]"
+msgstr "                      [con hổ]"
+
+#. ID 16, Line 66
+msgid "                    [snowball]"
+msgstr "                     [người tuyết]"
+
+#. ID 16, Line 71
+msgid "                      [sign]"
+msgstr "                      [biển gỗ]"
+
+#. ID 16, Line 76
+msgid "                     [uniform]"
+msgstr "                     [đồng phục]"
+
+#. ID 16, Line 81
+msgid "                    [basketball]"
+msgstr "                      [bóng rổ]"
+
+#. ID 16, Line 86
+msgid "                        [A]"
+msgstr ""
+
