@@ -30,11 +30,11 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "COLD"
-msgstr ""
+msgstr "LẠNH"
 
 #. ID 13, Page 2, Line 75, Pos (9,9)
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "COLD"
-msgstr ""
+msgstr "LẠNH"
 
