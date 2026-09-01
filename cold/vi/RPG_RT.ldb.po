@@ -274,7 +274,7 @@ msgstr "quà"
 #. ID 101
 msgctxt "items.description"
 msgid "I don't know."
-msgstr ""
+msgstr "Mình không biết nữa."
 
 msgctxt "terms.special_combat"
 msgid "Caught the enemy off-guard!"
