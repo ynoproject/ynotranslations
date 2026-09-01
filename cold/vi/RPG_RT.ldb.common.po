@@ -30,7 +30,7 @@ msgstr "                      [con hổ]"
 
 #. ID 16, Line 66
 msgid "                    [snowball]"
-msgstr "                     [người tuyết]"
+msgstr "                     [bóng tuyết]"
 
 #. ID 16, Line 71
 msgid "                      [sign]"
