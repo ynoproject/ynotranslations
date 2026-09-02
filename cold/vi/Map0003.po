@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 1, Line 39, Pos (10,9)
+#. Contains choice at line 2 (2 options)
+msgid "is that good enough?"
+msgstr "vậy đã đủ tốt chưa?"
+
+#. ID 1, Page 1, Line 40, Pos (10,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"COLD\n"
+"......"
+msgstr "LẠNH\n"
+"......"
+
+#. ID 1, Page 1, Line 42, Pos (10,9)
+#. ID 1, Page 1, Line 79, Pos (10,9)
+msgid "......"
+msgstr "......"
+
+#. ID 1, Page 1, Line 43, Pos (10,9)
+msgid "......i wish you happiness."
+msgstr "......chúc bạn hạnh phúc về sau nhé."
+
+#. ID 1, Page 1, Line 80, Pos (10,9)
+msgid "please, don t forget..."
+msgstr "làm ơn, đừng có quên nhé..."
+
