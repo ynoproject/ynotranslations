@@ -137,6 +137,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Cool Person#8939 (369071 2458) - Finnish translation of Yume Nikki
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
 * delta416 (murasaki4) - Ukrainian translation of Yume 2kki (Jigsaw Puzzle World pictures), .flow
+* depipisthief - Vietnamese translation of `[COLD]`
 * Eel - English translation of .flow
 * ElTipejoLoco - Spanish translation of Deep Dreams, Mikan Muzou
 * Eternal Dream Arabization team ( الحلم المتجدد للتعريب) - Help on the Arabic translation of Yume Nikki
@@ -200,6 +201,7 @@ The Japanese version of Yume Nikki, Spanish version of Someday, French and Japan
 
 ### Fonts
 * Tahoma is the font used for the Arabic and Hebrew translations of Yume Nikki, © 2018 Microsoft Corporation. All rights reserved. Hebrew OpenType Layout logic copyright © 2003 & 2007, Ralph Hancock & John Hudson.
+* [Unifont](https://unifoundry.com/unifont/) is the font used for the Vietnamese translation of `[COLD]`. It is designed by Roman Czyborra, and is licensed under the SIL Open Font License (OFL) version 1.1 and the GNU GPL 2+ with the GNU font embedding exception licenses.
 * dfkjbs Regular is the font used for the Toki Pona translations of Yume Nikki and Yume 2kki. It is licensed under the Open Font License, and was created by kdjgbsjksrdbg.
 * The font used in the Spanish translation of Deep Dreams is a modified copy of the font used for the game Deep Dreams (original font made by Nulsdodage, modified by ElTipejoLoco to add glyphs needed for the Spanish language).
 
