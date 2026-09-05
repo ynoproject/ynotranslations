@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 16, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Heartbroken"
+msgstr "Đớn Đau"
+
+#. ID 18, Line 2
+msgid "\\$\\.\\.\\^"
+msgstr ""
+
+#. ID 50, Line 17
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Meat Cleaver"
+msgstr "Dao Phay"
+
+#. ID 51, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Rasta"
+msgstr ""
+
+#. ID 52, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Goat"
+msgstr "Con Dê"
+
+#. ID 53, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Scene"
+msgstr ""
+
+#. ID 54, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Noir"
+msgstr ""
+
+#. ID 55, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Sansara"
+msgstr "Luân Hồi"
+
+#. ID 56, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Camellia"
+msgstr "Hoa Trà"
+
+#. ID 57, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Trenchcoat"
+msgstr "Áo Khoác"
+
+#. ID 58, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Plague Doc"
+msgstr "Bác Sĩ Dịch Hạch"
+
+#. ID 59, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Candle"
+msgstr "Cây Nến"
+
+#. ID 60, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Wingman"
+msgstr "Phi Công"
+
+#. ID 61, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bride"
+msgstr "Cô Dâu"
+
+#. ID 62, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Sailor"
+msgstr "Thủy Thủ"
+
+#. ID 63, Line 18
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Emo"
+msgstr ""
+
+#. ID 78, Line 17
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Swan Dress"
+msgstr "Đầm Thiên Nga"
+
+#. ID 80, Line 16
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Heart"
+msgstr "Quả Tim"
+
+#. ID 82, Line 16
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Victim"
+msgstr "Nạn Nhân"
+
+#. ID 199, Line 17
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Healing"
+msgstr "Hồi Phục"
+
