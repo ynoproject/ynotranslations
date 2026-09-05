@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 106, Page 1, Line 4, Pos (81,3)
+#. ID 107, Page 1, Line 4, Pos (80,3)
+msgid "                       Heart"
+msgstr "                      Quả Tim"
+
+#. ID 111, Page 1, Line 4, Pos (81,1)
+#. ID 112, Page 1, Line 4, Pos (80,1)
+msgid "                      Heart"
+msgstr "                     Quả Tim"
+
