@@ -83,13 +83,13 @@ msgstr "\"Untitled\" bởi LEPERCOLONY"
 
 #. ID 24, Page 1, Line 2, Pos (8,4)
 #. Contains choice at line 2 (2 options)
-msgid "\"-30 Sunset\" by fvckingvisc3ra"
-msgstr "\"-30 Sunset\" bởi fvckingvisc3ra"
+msgid "\"-30 Sunset\" by fvckingvic3ra"
+msgstr "\"-30 Sunset\" bởi fvckingvic3ra"
 
 #. ID 25, Page 1, Line 2, Pos (10,4)
 #. Contains choice at line 2 (2 options)
-msgid "\"Ruminating Resin\" by fvckingvisc3ra"
-msgstr "\"Ruminating Resin\" bởi fvckingvisc3ra"
+msgid "\"Ruminating Resin\" by fvckingvic3ra"
+msgstr "\"Ruminating Resin\" bởi fvckingvic3ra"
 
 #. ID 26, Page 1, Line 2, Pos (12,4)
 #. Contains choice at line 2 (2 options)
