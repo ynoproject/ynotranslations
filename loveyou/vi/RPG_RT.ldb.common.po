@@ -70,7 +70,7 @@ msgstr "Áo Khoác"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Plague Doc"
-msgstr "Dịch Hạch"
+msgstr "Bác Sĩ"
 
 #. ID 59, Line 18
 #. ChangeHeroTitle (Actor 1)
@@ -106,7 +106,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Swan Dress"
-msgstr "Thiên Nga"
+msgstr "Bộ Đầm"
 
 #. ID 80, Line 16
 #. ChangeHeroTitle (Actor 1)
