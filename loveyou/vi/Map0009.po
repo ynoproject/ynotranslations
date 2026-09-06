@@ -10,7 +10,7 @@ msgstr ""
 
 #. ID 1, Page 1, Line 4, Pos (12,1)
 msgid "                      Scene"
-msgstr "                       Scene"
+msgstr ""
 
 #. ID 2, Page 1, Line 4, Pos (28,2)
 #. ID 21, Page 1, Line 4, Pos (29,2)
@@ -32,7 +32,7 @@ msgstr "                 \\_Bác Sĩ Dịch Hạch"
 
 #. ID 6, Page 1, Line 4, Pos (7,1)
 msgid "                      Rasta"
-msgstr "                       Rasta"
+msgstr ""
 
 #. ID 7, Page 1, Line 4, Pos (32,1)
 msgid "                      Victim"
