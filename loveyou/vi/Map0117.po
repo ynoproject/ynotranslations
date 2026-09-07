@@ -12,5 +12,5 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Swan Dress"
-msgstr "Thiên Nga"
+msgstr "Bộ Đầm"
 
