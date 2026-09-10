@@ -13,7 +13,7 @@ msgstr ""
 #. ID 145, Page 1, Line 22, Pos (3,35)
 #. Contains choice at line 2 (1 options)
 msgid "Buy a Soda? [3CD's]"
-msgstr "Mua một lon soda? [3CD]"
+msgstr "Mua một Lon Soda? [3CD]"
 
 #. ID 145, Page 1, Line 4, Pos (3,35)
 #. Choice (2 options, embedded in a message)
