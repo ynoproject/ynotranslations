@@ -53,7 +53,7 @@ msgstr "$rSoda Cẩm Thạch"
 #. ID 7
 msgctxt "items.description"
 msgid "Temporarily increase your running speed"
-msgstr "Tạm thời tăng tốc độ chạy."
+msgstr "Tạm thời tăng tốc độ chạy"
 
 #. ID 8
 msgctxt "items.name"
