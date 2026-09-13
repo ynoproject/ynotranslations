@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1, Page 3, Line 4, Pos (8,8)
+#. ID 1, Page 3, Line 16, Pos (8,8)
+msgid "..."
+msgstr ""
+
+#. ID 1, Page 3, Line 6, Pos (8,8)
+msgid "...You'll be okay!"
+msgstr "...Mày sẽ ổn thôi!"
+
+#. ID 1, Page 3, Line 8, Pos (8,8)
+msgid "You don't have to worry anymore."
+msgstr "Mày không phải lo về chuyện gì nữa đâu."
+
+#. ID 1, Page 3, Line 10, Pos (8,8)
+msgid ""
+"They won't find you,\n"
+"as long as you stay here."
+msgstr ""
+"Miễn là mày ở đây\n"
+"thì lũ đấy không tìm đến mày được đâu."
+
+#. ID 1, Page 3, Line 13, Pos (8,8)
+msgid ""
+"And I'm sure if we wait long enough, they\n"
+"will stop looking for you altogether!"
+msgstr ""
+"Và tao cũng chắc rằng nếu mình đợi đủ lâu,\n"
+"chúng nó cũng sẽ thôi không tìm mày nữa!"
+
+#. ID 1, Page 3, Line 18, Pos (8,8)
+msgid "..I think..."
+msgstr "..Tao đoán vậy..."
+
+#. ID 1, Page 3, Line 20, Pos (8,8)
+msgid ""
+"But whatever happens, I will be\n"
+"here for you."
+msgstr ""
+"Nhưng mà cho dù có việc gì đi chăng nữa,\n"
+"tao vẫn sẽ ở đây vì mày."
+
+#. ID 1, Page 3, Line 23, Pos (8,8)
+msgid "You don't have to be scared anymore."
+msgstr "Mày không phải sợ sệt gì nữa."
+
+#. ID 1, Page 3, Line 25, Pos (8,8)
+msgid ""
+"I'll give you food, books, games and\n"
+"a bed for you to sleep in."
+msgstr ""
+"Tao sẽ cho mày thức ăn, sách truyện, game\n"
+"với một chiếc giường cho mày ngủ."
+
+#. ID 1, Page 3, Line 28, Pos (8,8)
+msgid "I can't promise you it won't get boring..."
+msgstr "Tao không thể chắc chắn là\n"
+"mày sẽ không mau chóng chán nản..."
+
+#. ID 1, Page 3, Line 30, Pos (8,8)
+msgid "But I really want you to stay safe!"
+msgstr "Nhưng tao rất muốn mày được an toàn!"
+
+#. ID 1, Page 3, Line 32, Pos (8,8)
+msgid "So promise me you'll stay with me, Mikan!!"
+msgstr "Nên là hứa mày sẽ ở đây với tao nhé, Mikan!!"
+

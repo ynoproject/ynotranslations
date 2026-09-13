@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 2, Page 1, Line 3, Pos (10,5)
+msgid "Already betting on the red horse!"
+msgstr "Đã cược con ngựa đỏ sẵn rồi!"
+
+#. ID 2, Page 1, Line 6, Pos (10,5)
+#. Contains choice at line 2 (2 options)
+msgid "Bet on the red horse?"
+msgstr "Đặt cược vào con ngựa đỏ?"
+
+#. ID 2, Page 1, Line 7, Pos (10,5)
+#. Choice (2 options, embedded in a message)
+#. ID 3, Page 1, Line 7, Pos (10,6)
+#. Choice (2 options, embedded in a message)
+#. ID 4, Page 1, Line 7, Pos (10,7)
+#. Choice (2 options, embedded in a message)
+#. ID 31, Page 1, Line 4, Pos (4,9)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Có\n"
+"Không"
+
+#. ID 3, Page 1, Line 3, Pos (10,6)
+msgid "Already betting on the blue horse!"
+msgstr "Đã cược con ngựa xanh dương sẵn rồi!"
+
+#. ID 3, Page 1, Line 6, Pos (10,6)
+#. Contains choice at line 2 (2 options)
+msgid "Bet on the blue horse?"
+msgstr "Đặt cược vào con ngựa xanh dương?"
+
+#. ID 4, Page 1, Line 3, Pos (10,7)
+msgid "Already betting on the green horse!"
+msgstr "Đã cược con ngựa xanh lá sẵn rồi!"
+
+#. ID 4, Page 1, Line 6, Pos (10,7)
+#. Contains choice at line 2 (2 options)
+msgid "Bet on the green horse?"
+msgstr "Đặt cược vào con ngựa xanh lá?"
+
+#. ID 31, Page 1, Line 3, Pos (4,9)
+#. Contains choice at line 2 (2 options)
+#. ID 31, Page 1, Line 19, Pos (4,9)
+#. Contains choice at line 2 (1 options)
+msgid "Bet on a horse? [2CD's]"
+msgstr "Đặt cược vào một con ngựa? [2CD]"
+
+#. ID 31, Page 1, Line 20, Pos (4,9)
+#. Choice (1 options, embedded in a message)
+msgid "Not enough CD's"
+msgstr "Không có đủ CD"
+
