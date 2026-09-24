@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 49, Page 1, Line 6, Pos (6,5)
+msgid "                        l-l"
+msgstr ""
+
+#. ID 65, Page 1, Line 6, Pos (5,5)
+msgid "                        :l"
+msgstr ""
+
+#. ID 67, Page 1, Line 6, Pos (11,7)
+msgid "                   - Glow Stick -"
+msgstr "                  - Que Phát Sáng -"
+
+#. ID 90, Page 1, Line 6, Pos (3,5)
+msgid "                        :D"
+msgstr ""
+
+#. ID 91, Page 1, Line 1, Pos (14,11)
+msgid "                 - Æï×ÅÒÎ×ÓÒÆ¶¯ - "
+msgstr ""
+
+#. ID 99, Page 1, Line 4, Pos (52,15)
+msgid "\\$\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 102, Page 1, Line 1, Pos (45,8)
+msgid "ý“ìhû›÷€ìàïqôîòŸ÷Ò"
+msgstr ""
+
+#. ID 110, Page 1, Line 13, Pos (24,12)
+msgid "»¹Ê£\\V[188]Ìì \\V[187]Ê± \\V[186]·Ö \\V[185]Ãë³ÉÊì"
+msgstr ""
+
+#. ID 142, Page 1, Line 1, Pos (14,6)
+msgid "Ðé¿Õ½×¶Î±äÁ¿ \\c[1]\\V[43]\\c[0]"
+msgstr ""
+
+#. ID 170, Page 1, Line 1, Pos (16,16)
+msgid "¤ª´ý¤Á¤¯¤À¤µ¤¤"
+msgstr ""
+
+#. ID 174, Page 1, Line 5, Pos (16,40)
+msgid "1"
+msgstr ""
+
+#. ID 177, Page 1, Line 1, Pos (18,36)
+msgid "Unaccomplished Wallpaper Submission"
+msgstr ""
+
+#. ID 179, Page 1, Line 1, Pos (56,11)
+msgid "11223"
+msgstr ""
+
