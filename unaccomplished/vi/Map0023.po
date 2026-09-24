@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 14, Page 1, Line 2, Pos (18,13)
+#. Choice (4 options)
+msgid ""
+"Current Progress\n"
+"Video Options\n"
+"Emote Bubble\n"
+"Exit The Game"
+msgstr ""
+"Tiến Trình\n"
+"Lựa Chọn Video\n"
+"Bong Bóng Emote\n"
+"Thoát Game"
+
+#. ID 14, Page 1, Line 26, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Wuqi Effects: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
+msgstr ""
+"Hiệu Ứng: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Hiệu Ứng Bản Wuqi: \\c[1]\\V[15]\\c[0]/\\V[509]\n"
+"Vật Phẩm Đặc Biệt: \\c[1]\\V[16]\\c[0]/\\V[510]"
+
+#. ID 14, Page 1, Line 31, Pos (18,13)
+msgid ""
+"Effects: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Special Items: \\c[1]\\V[16]\\c[0]/\\V[510]"
+msgstr ""
+"Hiệu Ứng: \\c[1]\\V[14]\\c[0]/\\V[508]\n"
+"Vật Phẩm Đặc Biệt: \\c[1]\\V[16]\\c[0]/\\V[510]"
+
+#. ID 14, Page 1, Line 35, Pos (18,13)
+msgid ""
+"Wallpapers: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
+"Documents: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
+"Menu Style: \\c[1]\\V[92]\\c[0]/\\V[507]\n"
+"Thanks for playing :P"
+msgstr ""
+"Ảnh Nền Màn Hình: \\c[1]\\V[90]\\c[0]/\\V[505]\n"
+"Tập Tin: \\c[1]\\V[91]\\c[0]/\\V[506]\n"
+"Kiểu Menu: \\c[1]\\V[92]\\c[0]/\\V[507]\n"
+"Cảm ơn vì đã chơi :P"
+
+#. ID 14, Page 1, Line 46, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][ON]\\c[0]"
+msgstr ""
+"Bấm \\c[1]5\\c[0] để lựa chọn loại bong bóng emote bạn muốn.\n"
+"Hiện đang \\c[1][BẬT]\\c[0]"
+
+#. ID 14, Page 1, Line 48, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn OFF\n"
+"Keep it"
+msgstr ""
+"TẮT\n"
+"Giữ nguyên"
+
+#. ID 14, Page 1, Line 51, Pos (18,13)
+#. ID 14, Page 1, Line 63, Pos (18,13)
+msgid "Setup complete."
+msgstr "Đã hoàn tất cài đặt."
+
+#. ID 14, Page 1, Line 58, Pos (18,13)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"Press \\c[1]5\\c[0] to select emote bubble you want to send.\n"
+"Currently \\c[1][OFF]\\c[0]"
+msgstr ""
+"Bấm \\c[1]5\\c[0] để lựa chọn loại bong bóng emote bạn muốn.\n"
+"Hiện đang \\c[1][TẮT]\\c[0]"
+
+#. ID 14, Page 1, Line 60, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Turn ON\n"
+"Keep it"
+msgstr ""
+"BẬT\n"
+"Giữ nguyên"
+
+#. ID 14, Page 1, Line 72, Pos (18,13)
+#. Contains choice at line 2 (2 options)
+msgid "Are you sure?"
+msgstr "Chắc chắn chứ?"
+
+#. ID 14, Page 1, Line 73, Pos (18,13)
+#. Choice (2 options, embedded in a message)
+#. ID 23, Page 1, Line 14, Pos (0,0)
+#. Choice (2 options, embedded in a message)
+#. ID 100, Page 1, Line 3, Pos (1,12)
+#. Choice (2 options, embedded in a message)
+#. ID 108, Page 1, Line 5, Pos (3,4)
+#. Choice (2 options, embedded in a message)
+#. ID 109, Page 1, Line 5, Pos (3,6)
+#. Choice (2 options, embedded in a message)
+#. ID 110, Page 1, Line 5, Pos (3,8)
+#. Choice (2 options, embedded in a message)
+#. ID 111, Page 1, Line 5, Pos (3,10)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Có\n"
+"Không"
+
+#. ID 21, Page 1, Line 2, Pos (1,2)
+msgid "The recycle bin is empty. "
+msgstr "Recycle bin đang trống."
+
+#. ID 23, Page 1, Line 13, Pos (0,0)
+#. Contains choice at line 2 (2 options)
+msgid "Quit?"
+msgstr "Thoát?"
+
+#. ID 100, Page 1, Line 2, Pos (1,12)
+#. Contains choice at line 2 (2 options)
+msgid "Play wuqi? (Unaccomplished First Version)"
+msgstr "Chơi wuqi? (Unaccomplished Bản Đầu)"
+
+#. ID 108, Page 1, Line 3, Pos (3,4)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.0 Default\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Kiểu Menu] Số 0 Mặc Định\n"
+"\\>Sử dụng?"
+
+#. ID 109, Page 1, Line 3, Pos (3,6)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.1 Frame\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Kiểu Menu] Số 1 Khung\n"
+"\\>Sử dụng?"
+
+#. ID 110, Page 1, Line 3, Pos (3,8)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.2 Classic\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Kiểu Menu] Số 2 Cổ điển\n"
+"\\>Sử dụng?"
+
+#. ID 111, Page 1, Line 3, Pos (3,10)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"\\>[Menu Style] No.3 PC Game\n"
+"\\>Use this?"
+msgstr ""
+"\\>[Kiểu Menu] Số 3 Game PC\n"
+"\\>Sử dụng?"
+
+#. ID 115, Page 1, Line 18, Pos (5,2)
+#. Contains choice at line 2 (3 options)
+msgid "[\\c[1]DIY\\c[0] Fu (Chinese New Year Paper Cutting Design)]"
+msgstr "[\\c[1]DIY\\c[0] Fu (Thẻ Giấy Thư Pháp Dịp Tết)]"
+
+#. ID 115, Page 1, Line 19, Pos (5,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Use your design\n"
+"View other designs \n"
+"Help"
+msgstr ""
+"Dùng thiết kế riêng\n"
+"Xem các mẫu thiết kế khác \n"
+"Trợ giúp"
+
+#. ID 115, Page 1, Line 22, Pos (5,2)
+msgid ""
+"[Tip]\n"
+"If an error pop-up appears next, \n"
+"please check the contents of [Help]"
+msgstr ""
+"[Tip]\n"
+"Nếu tiếp theo có hiện thông báo lỗi,\n"
+"xin hãy đọc thêm ở phần [Help]"
+
+#. ID 115, Page 1, Line 38, Pos (5,2)
+#. Contains choice at line 2 (3 options)
+msgid "\\>[Fu Design] \\c[1]\\N[10]\\c[0]"
+msgstr "\\>[Mẫu Thiết Kế Fu] \\c[1]\\N[10]\\c[0]"
+
+#. ID 115, Page 1, Line 39, Pos (5,2)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Use this\n"
+"Back to random \n"
+"Change its name"
+msgstr ""
+"Sử dụng\n"
+"Quay về lựa chọn ngẫu nhiên\n"
+"Đổi tên"
+
+#. ID 115, Page 1, Line 42, Pos (5,2)
+msgid ""
+"Setup complete.\n"
+"Enjoy your own design :P"
+msgstr ""
+"Đã hoàn tất cài đặt.\n"
+"Giờ bạn có thể sử dụng thiết kế cá nhân :P"
+
+#. ID 115, Page 1, Line 48, Pos (5,2)
+msgid ""
+"Setup complete.\n"
+"(Set back to random mode)"
+msgstr ""
+"Đã hoàn tất cài đặt.\n"
+"(Đã chỉnh về chế độ ngẫu nhiên)"
+
+#. ID 115, Page 1, Line 75, Pos (5,2)
+#. Choice (4 options)
+msgid ""
+"About Fu\n"
+"About Design\n"
+"About Image Processing / ERROR\n"
+"About Submissions"
+msgstr ""
+"Thông Tin Về Fu\n"
+"Thông Tin Về Thiết Kế\n"
+"Thông Tin Về Xử Lí Ảnh/ LỖI\n"
+"Thông Tin Về Nộp Thiết Kế"
+
+#. ID 115, Page 1, Line 77, Pos (5,2)
+msgid ""
+"Fu is a traditional paper-cutting art from China, \n"
+"which is usually pasted on walls or other places \n"
+"during the Chinese New Year."
+msgstr ""
+"Fu hay 'phúc' là nghệ thuật cắt giấy truyền thống \n" 
+"bắt nguồn từ Trung Quốc và thường được treo trên \n"
+"tường hoặc ở nhưng nơi khác vào mỗi dịp \n"
+"Tết Trung Quốc."
+
+#. ID 115, Page 1, Line 80, Pos (5,2)
+msgid ""
+"For more about fu, read here: \n"
+"\\c[1][wikipedia.org/wiki/Fu_(character)]\\c[0]"
+msgstr ""
+"Nếu bạn muốn tìm hiểu sâu hơn về fu,\n"
+"hãy đọc thêm ở trang này: \n"
+"\\c[1][wikipedia.org/wiki/Fu_(character)]\\c[0]"
+
+#. ID 115, Page 1, Line 85, Pos (5,2)
+msgid ""
+"In the <Fu Sample> folder, you will find an image \n"
+"called \\c[1][YM_E_FU_Sample.png]\\c[0]\n"
+"After DIYing your own fu, overwrite the file with \n"
+"same name in CharSet, then you can use it here."
+msgstr ""
+"Ở thư mục <Fu Sample>, bạn sẽ thấy một file ảnh \n"
+"có tiêu đề \\c[1][YM_E_FU_Sample.png]\\c[0]\n"
+"Khi đã hoàn tất việc thiết kế fu của bạn, đổi tên \n"
+"file thiết kế đó bằng tên của file ảnh ở trên. \n<easyrpg:new_page>\nKhi đã hoàn tất, bạn có thể sử dụng thiết kế \n" 
+"cá nhân ở đây."
+
+#. ID 115, Page 1, Line 89, Pos (5,2)
+msgid ""
+"If you can't put your design into the game, \n"
+"Send your design to the E-mail in the \\c[1][Read me]\\c[0]\n"
+"and put the comment \\c[1][Fix Picture]\\c[0]\n"
+"We will try to help you solve this problem."
+msgstr ""
+"Nếu bạn không thể tải thiết kế của mình lên game, \n"
+"hãy gửi bản thiết kế đó qua địa chỉ E-mail \n"
+"ở mục \\c[1][Read me]\\c[0] rồi đính kèm bình luận \n"
+"\\c[1][Fix Picture]\\c[0] \n<easyrpg:new_page>\nĐội ngũ làm game sẽ cố gắng giúp đỡ bạn trong \n"
+"công việc này."
+
+#. ID 115, Page 1, Line 96, Pos (5,2)
+#. Choice (4 options)
+msgid ""
+"Unsupported PNG image\n"
+"Can't open <Sample> file\n"
+"Wrong transparent color\n"
+"Other problems / Can't solve it"
+msgstr ""
+"PNG không được hỗ trợ\n"
+"Không thể mở file <Sample>\n"
+"Ảnh sử dụng sai màu trong suốt\n"
+"Lỗi khác / Không thể khắc phục"
+
+#. ID 115, Page 1, Line 98, Pos (5,2)
+msgid ""
+"This means that you provided an image with the \n"
+"wrong bit depth and color count. \n"
+"Make sure the sprite is \\c[1]8-bit\\c[0], \n"
+"with \\c[1]256 colors\\c[0], indexed."
+msgstr ""
+"Điều này có nghĩa bạn đã sử dụng một tệp ảnh \n"
+"bị sai độ sâu bit và sai số lượng màu. \n"
+"Hãy đảm bảo rằng sprite đang dùng đang là \\c[1]8-bit\\c[0], \n"
+"và có 256 màu được index."
+
+#. ID 115, Page 1, Line 104, Pos (5,2)
+msgid ""
+"Either the image being requested by the game\n"
+"is missing, or the image uses the wrong name. \n"
+"Make sure your design image in the CharSet folder,\n"
+"and the sprites name is \\c[1]YM_E_FU_Sample\\c[0]"
+msgstr ""
+"Điều này có nghĩa file ảnh game yêu cầu đang \n"
+"mất tích, hoặc ảnh được đặt sai tiêu đề. \n<easyrpg:new_page>\nHãy đảm bảo file ảnh thiết kế của bạn \n"
+"trong thư mục CharSet và tên sprite\n"
+"đều là \\c[1]YM_E_FU_Sample\\c[0]"
+
+#. ID 115, Page 1, Line 110, Pos (5,2)
+msgid ""
+"Make sure that the color that would be used for \n"
+"the transparent color for your CharSet is the \n"
+"first in the indexed palette."
+msgstr ""
+"Hãy đảm bảo màu bạn muốn đặt thành trong suốt \n"
+"cho CharSet nằm ở ngay ô đầu tiên trong \n"
+"bảng màu được index."
+
+#. ID 115, Page 1, Line 113, Pos (5,2)
+msgid ""
+"Keep in mind that it should be much different \n"
+"from the color used by the sprites themselves."
+msgstr ""
+"Lưu ý rằng bạn nên đặt màu đó sao cho thật khác \n"
+"so với màu được sử dụng cho sprite chính."
+
+#. ID 115, Page 1, Line 117, Pos (5,2)
+msgid ""
+"If you find other problems or can't sove it,\n"
+"Send your design to the E-mail in the \\c[1][Read me]\\c[0]\n"
+"put comment \\c[1][Fix Picture]\\c[0] or \\c[1][Error help]\\c[0].\n"
+"We will try to help you solve it."
+msgstr ""
+"Nếu bạn gặp vấn đề khác hoặc không thể tự khắc \n"
+"phục, hãy gửi thiết kế của bạn qua địa chỉ \n"
+"E-mail ở mục \\c[1][Read me]\\c[0] \n<easyrpg:new_page>\nSau đó đính kèm bình luận \\c[1][Fix Picture]\\c[0] \n"
+"hoặc \\c[1][Error help]\\c[0]. \n"
+"Đội ngũ làm game sẽ cố gắng giúp đỡ bạn \n"
+"trong công việc này."
+
+#. ID 115, Page 1, Line 126, Pos (5,2)
+msgid ""
+"If you want to submit your designs for the game,\n"
+"Send your design to the E-mail in [Read me] and \n"
+"comment \\c[1][Submit design]\\c[0]\n"
+"Or contribute via the Disocrd server."
+msgstr ""
+"Nếu bạn muốn nộp thiết kế của bạn cho game, \n"
+"hãy gửi qua địa chỉ E-mail ở mục [Read me] và \n"
+"đính kèm bình luận \\c[1][Submit design]\\c[0]\n"
+"hoặc nộp qua server Discord."
+
+#. ID 115, Page 1, Line 130, Pos (5,2)
+msgid ""
+"Then, tell me the \\c[1][Design name]\\c[0]\n"
+"and \\c[1][Author name]\\c[0], \n"
+"I'll try to add it in next update!"
+msgstr ""
+"Sau đó, hãy cho biết \\c[1][Tên thiết kế]\\c[0]\n"
+"và \\c[1][Tên tác giả]\\c[0], \n"
+"rồi tôi sẽ cố gắng thêm nó vào update tiếp theo!"
+
+#. ID 115, Page 1, Line 133, Pos (5,2)
+msgid ""
+"Note: \n"
+"\\c[1][All submissions can only use given color palette]\\c[0]\n"
+"We will improve all submissions to make it fit \n"
+"the style of this game better."
+msgstr ""
+"Lưu ý: \n"
+"\\c[1][Tất cả các bài nộp chỉ được phép sử dụng bảng màu \n"
+"đã cho sẵn]\\c[0]\n<easyrpg:new_page>\nChúng tôi sẽ cải thiện các bài nộp sao cho phù hợp \n"
+"với phong cách của game tốt hơn."
+
+#. ID 115, Page 1, Line 137, Pos (5,2)
+msgid ""
+"If your submitted design can't display or \n"
+"doesn't display properly in the game,\n"
+"we'll fix it, don't worry."
+msgstr ""
+"Nếu thiết kế của bạn không đuợc hiển thị hoặc \n"
+"không hiển thị đúng cách trong game,\n"
+"chúng tôi cũng sẽ khắc phục, nên đừng lo lắng nhé."
+

@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 30, Page 1, Line 14, Pos (19,0)
+#. ID 30, Page 1, Line 17, Pos (19,0)
+#. ID 30, Page 1, Line 33, Pos (19,0)
+#. ID 30, Page 1, Line 43, Pos (19,0)
+#. ID 30, Page 1, Line 53, Pos (19,0)
+#. ID 30, Page 1, Line 58, Pos (19,0)
+#. ID 30, Page 1, Line 61, Pos (19,0)
+#. ID 30, Page 1, Line 63, Pos (19,0)
+#. ID 30, Page 1, Line 65, Pos (19,0)
+#. ID 30, Page 1, Line 80, Pos (19,0)
+msgid "......\\.\\.\\.\\.\\^"
+msgstr ""
+
+#. ID 30, Page 1, Line 18, Pos (19,0)
+msgid ""
+"V2VsY29tZSB0byB0aGUgdXNlbGVzc       yBzdG9yZSBydWl\n"
+"ucy4uLiAKTGl0dGxlIGd1eS4KV2hhdCBkbyB5b3UgbmVlZD8"
+msgstr ""
+"Q2hhbyBtdW5nIGRlbiB2b2kgZG9uZyBkbyBuYXQgdm8gaWNoIG\n"
+"5heS4uLjAwMDAwMDANCk5ob2MgY2FuIGdpIG5hbz8="
+
+#. ID 30, Page 1, Line 24, Pos (19,0)
+#. Contains choice at line 2 (3 options)
+#. ID 30, Page 1, Line 34, Pos (19,0)
+#. Contains choice at line 2 (3 options)
+msgid "......"
+msgstr ""
+
+#. ID 30, Page 1, Line 25, Pos (19,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Shop\n"
+"Talk\n"
+"Leave"
+msgstr ""
+"Mua\n"
+"Trò chuyện\n"
+"Rời đi"
+
+#. ID 30, Page 1, Line 35, Pos (19,0)
+#. Choice (3 options, embedded in a message)
+msgid ""
+"About this store\n"
+"About goods\n"
+"About you"
+msgstr ""
+"Nói về cửa hàng này\n"
+"Nói về các vật phẩm\n"
+"Nói về ông"
+
+#. ID 30, Page 1, Line 37, Pos (19,0)
+msgid ""
+"QmVjYXVzZSBJJ20gbmVlZGVkIGhlc       mUsIHNvIEknbSB\n"
+"oZXJlLCBpbiBhIHNlbWktY29tcHVsc2l2ZSBraW5kIG9mIHdhe\n"
+"S4"
+msgstr ""
+"Q2hhbyBtdW5nIGRlbiB2b2kgZG9uZyBkbyBuYXQgdm8gaWNoI\n"
+"G5heS4uLjAwMDAwMDANCk5ob2MgY2FuIGdpIG5hbz8="
+
+#. ID 30, Page 1, Line 40, Pos (19,0)
+msgid ""
+"QXMgeW91IGNhbiBzZWUsIGhlcmUga       XMgc3RpbGwgdW5\n"
+"kZXIgY29uc3RydWN0aW9uLCBzbyBpdCdzIHZlcnkgc2ltcGxlL\n"
+"g"
+msgstr ""
+"Tmh1IG5ob2MgdGhheSB0aGkgbm9pIGRheSB2YW4gY29uIHJhdC\n"
+"BkYW5nIGRvLCBjaG8gbmVuIHRyb25nIG5vIGN1bmcgZG9uIGdp\n"
+"YW4gdGhvaS4="
+
+#. ID 30, Page 1, Line 44, Pos (19,0)
+msgid ""
+"WW91IHdvdWxkbid0IGNvbWUgYmFja       yBoZXJlIHNlY29\n"
+"uZCB0aW1lIGFueXdheSwgd291bGQgeW91Pw"
+msgstr ""
+"TmhvYyBjdW5nIHNlIGtob25nIHF1YXkgbGFpIGRheSB0aGVtIG\n"
+"xhbiBoYWkgbnVhLCBkdW5nIGtob25nPw=="
+
+#. ID 30, Page 1, Line 48, Pos (19,0)
+msgid ""
+"WWVzLCB0aGVyZSBpcyBvbmx5IHRoc       mVlIGNvbW1vZGl\n"
+"0eSBhdCB0aGUgbW9tZW50LCB5b3UgY2FuIGV4cGVjdCB0aGUgb\n"
+"mV4dCB1cGRhdGUu"
+msgstr ""
+"UGhhaSByb2ksIGhpZW4gZ2lvIG1vaSBjaGkgY28gYmEgdmF0IH\n"
+"BoYW0sIG5ob2MgY28gdGhlIGRvaSBkZW4gdXBkYXRlIHRpZXAg\n"
+"dGhlby4="
+
+#. ID 30, Page 1, Line 51, Pos (19,0)
+msgid ""
+"SSBvbmx5IHNlbGwgaXQsIGRvbid0I       GRvIHRoZSBkZXN\n"
+"pZ24u"
+msgstr ""
+"VG9pIGNoaSBiYW4gbWF5IHRodSBuYXkgdGhvaSwga2hvbmcgcG\n"
+"hhaSB0aGlldCBrZSBoYXkgZ2ku"
+
+#. ID 30, Page 1, Line 57, Pos (19,0)
+#. ID 30, Page 1, Line 62, Pos (19,0)
+msgid "SSdsbCBvbmx5IHNheSBpdCBvbmNlL       g"
+msgstr ""
+"VG9pIGNoaSBub2kgbW90IGxhbiBkdXkgbmhhdCB0a\n"
+"G9pLg=="
+
+#. ID 30, Page 1, Line 64, Pos (19,0)
+msgid "WW91IGNhbiBjYWxsIG1lIEVZRS4"
+msgstr "TmhvYyBjbyB0aGUgZ29pIHRvaSBsYSBFWUUu"
+
+#. ID 30, Page 1, Line 66, Pos (19,0)
+msgid ""
+"U29tZXRpbWVzIEknbGwgY2hlY2sgb       3V0IG90aGVyIGd\n"
+"hbWU\\^"
+msgstr ""
+
+#. ID 30, Page 1, Line 68, Pos (19,0)
+msgid ""
+"\\>U29tZXRpbWVzIEknbGwgY2hlY2sgb       3V0IG90aGVyIHB\n"
+"sYWNlcy4gCkF0IGxlYXN0IGl0J3MgYmV0dGVyIHRoYW4gdGhlI\n"
+"HBsYWNlIEkgd2FzIGluLg"
+msgstr ""
+"\\>Q28gbHVjIHRvaSBkaSB0aGFtIG1heSBjaG8ga2hhYy4=\n"
+"SXQgcmEgbm8gdmFuIGRvIGhvbiBsYSBjYWkgY2hvIHRvaSB\n"
+"0dW5nIG8u"
+
+#. ID 30, Page 1, Line 78, Pos (19,0)
+msgid ""
+"VGFsaz8gV2UgaGF2ZSBub3RoaW5nI       HRvIHRhbGsgYWJ\n"
+"vdXQu"
+msgstr ""
+"Tm9pIGNodXllbiBhPyBDbyBjaHV5ZW4gZ2kgZGUgbWEgbm9pIG\n"
+"5hby4="
+
+#. ID 30, Page 1, Line 81, Pos (19,0)
+msgid ""
+"U29ycnksIEkgZG9uJ3QgIHRhbGsgd       2l0aCBjcmVhdHV\n"
+"yZXMgdGhhdCBoYXZlbid0IGJvdWdodCBhbnl0aGluZy4"
+msgstr ""
+"WGluIGxvaSwgdG9pIGtob25nIG5vaSBjaHV5ZW4gdm9pIG5odW\n"
+"5nIGFpIGNodWEgbXVhIHNhbSBnaSBjYS4="
+
