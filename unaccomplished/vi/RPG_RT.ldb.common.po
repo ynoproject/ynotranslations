@@ -366,7 +366,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Block Buddies"
-msgstr ""
+msgstr "Chí Cốt Hình Khối"
 
 #. ID 36, Line 113
 #. ChangeHeroName (Actor 8)
