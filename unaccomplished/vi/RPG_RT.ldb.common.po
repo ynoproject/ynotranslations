@@ -140,7 +140,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Untitled"
-msgstr ""
+msgstr "Không tiêu đề"
 
 #. ID 36, Line 17
 #. ChangeHeroName (Actor 9)
@@ -174,13 +174,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "stay peace"
-msgstr ""
+msgstr "yên bình"
 
 #. ID 36, Line 28
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "darkness"
-msgstr ""
+msgstr "bóng đêm"
 
 #. ID 36, Line 32
 #. ChangeHeroName (Actor 9)
@@ -206,13 +206,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "midnight gate"
-msgstr ""
+msgstr "cánh cổng lúc nửa đêm"
 
 #. ID 36, Line 38
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "deep sea"
-msgstr ""
+msgstr "biển sâu"
 
 #. ID 36, Line 42
 #. ChangeHeroName (Actor 9)
@@ -226,19 +226,19 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "shipwrecks"
-msgstr ""
+msgstr "tàu đắm"
 
 #. ID 36, Line 48
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "dream in dream"
-msgstr ""
+msgstr "mộng trong mộng"
 
 #. ID 36, Line 53
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "lost in the game"
-msgstr ""
+msgstr "lạc trôi trong game"
 
 #. ID 36, Line 57
 #. ChangeHeroName (Actor 9)
@@ -250,7 +250,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Dreaming in 8 bits"
-msgstr ""
+msgstr "Trong cơn mơ 8 bit"
 
 #. ID 36, Line 62
 #. ChangeHeroName (Actor 9)
@@ -264,7 +264,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "the dark"
-msgstr ""
+msgstr "bóng tối"
 
 #. ID 36, Line 67
 #. ChangeHeroName (Actor 9)
@@ -276,13 +276,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "The Shadow"
-msgstr ""
+msgstr "Hình Bóng"
 
 #. ID 36, Line 73
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Flower-bury"
-msgstr ""
+msgstr "Hoa mai táng"
 
 #. ID 36, Line 77
 #. ChangeHeroName (Actor 9)
@@ -296,13 +296,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "False End"
-msgstr ""
+msgstr "Kết Giả"
 
 #. ID 36, Line 83
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Lights On, Lights Off"
-msgstr ""
+msgstr "Bật Đèn, Tắt Đèn"
 
 #. ID 36, Line 87
 #. ChangeHeroName (Actor 9)
@@ -314,7 +314,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "fields"
-msgstr ""
+msgstr "cánh đồng"
 
 #. ID 36, Line 92
 #. ChangeHeroName (Actor 9)
@@ -330,7 +330,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Sunlit Greenery"
-msgstr ""
+msgstr "Khoảng Xanh Trong Ánh Dương"
 
 #. ID 36, Line 97
 #. ChangeHeroName (Actor 9)
@@ -344,13 +344,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "First Step"
-msgstr ""
+msgstr "Bước Đi Đầu Tiên"
 
 #. ID 36, Line 103
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "TmVlZCBzb21ldGhpbmc/"
-msgstr ""
+msgstr "Q2FuIGdpIGtob25nPw=="
 
 #. ID 36, Line 107
 #. ChangeHeroName (Actor 9)
@@ -372,7 +372,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Fortune"
-msgstr ""
+msgstr "Vận may"
 
 #. ID 36, Line 117
 #. ChangeHeroName (Actor 9)
@@ -384,13 +384,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Lost Girl, Lost World"
-msgstr ""
+msgstr "Lạc Nữ, Lạc Giới"
 
 #. ID 36, Line 123
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Take Flight"
-msgstr ""
+msgstr "Cất Cánh"
 
 #. ID 36, Line 127
 #. ChangeHeroName (Actor 9)
@@ -410,7 +410,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "My Bestie"
-msgstr ""
+msgstr "Bạn Thân"
 
 #. ID 36, Line 138
 #. ChangeHeroName (Actor 8)
@@ -428,7 +428,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "By Your Side"
-msgstr ""
+msgstr "Sát Cánh"
 
 #. ID 36, Line 147
 #. ChangeHeroName (Actor 9)
@@ -446,19 +446,19 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Crimson Rose"
-msgstr ""
+msgstr "Hoa Hồng Thắm"
 
 #. ID 36, Line 153
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Lonely Angler"
-msgstr ""
+msgstr "Ngư Dân Cô Đơn"
 
 #. ID 36, Line 158
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "evening"
-msgstr ""
+msgstr "xế chiều"
 
 #. ID 36, Line 162
 #. ChangeHeroName (Actor 9)
@@ -470,7 +470,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Good Morning/Night"
-msgstr ""
+msgstr "Chào Buổi Sáng/Chúc Ngủ Ngon"
 
 #. ID 37, Line 4
 #. Contains choice at line 3 (2 options)
@@ -956,67 +956,67 @@ msgstr "Đã hoàn tất cài đặt."
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "You"
-msgstr ""
+msgstr "Bản Thân"
 
 #. ID 72, Line 7
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Classic"
-msgstr ""
+msgstr "Cổ Điển"
 
 #. ID 72, Line 12
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Print"
-msgstr ""
+msgstr "In Ấn"
 
 #. ID 72, Line 17
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Golden"
-msgstr ""
+msgstr "Mạ Vàng"
 
 #. ID 72, Line 22
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Paper-cut A"
-msgstr ""
+msgstr "Hình Cắt Giấy A"
 
 #. ID 72, Line 27
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Square-round"
-msgstr ""
+msgstr "Vuông-tròn"
 
 #. ID 72, Line 32
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Paper-cut B"
-msgstr ""
+msgstr "Hình Cắt Giấy B"
 
 #. ID 72, Line 37
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Relief"
-msgstr ""
+msgstr "Nhẹ Nhõm"
 
 #. ID 72, Line 42
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Bagua"
-msgstr ""
+msgstr "Bát Quái"
 
 #. ID 72, Line 47
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Chinese Knotting"
-msgstr ""
+msgstr "Nút Dây Trung Quốc"
 
 #. ID 72, Line 52
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Comical"
-msgstr ""
+msgstr "Nực Cười"
 
 #. ID 72, Line 56
 #. ChangeHeroName (Actor 9)
@@ -1030,13 +1030,13 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "No Entry"
-msgstr ""
+msgstr "Biển Cấm"
 
 #. ID 72, Line 62
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Burnt"
-msgstr ""
+msgstr "Cháy Sém"
 
 #. ID 72, Line 66
 #. ChangeHeroName (Actor 9)
@@ -1050,43 +1050,43 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Cell"
-msgstr ""
+msgstr "Tế Bào"
 
 #. ID 72, Line 72
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Garden"
-msgstr ""
+msgstr "Khu Vườn"
 
 #. ID 72, Line 77
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Zombie Cat"
-msgstr ""
+msgstr "Mèo Thây Ma"
 
 #. ID 72, Line 82
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "yin-yang"
-msgstr ""
+msgstr "âm-dương"
 
 #. ID 72, Line 87
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Dreamcatcher"
-msgstr ""
+msgstr "Mộng Võng"
 
 #. ID 72, Line 92
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "ERROR"
-msgstr ""
+msgstr "LỖI"
 
 #. ID 72, Line 97
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Optic"
-msgstr ""
+msgstr "Nhãn Cầu"
 
 #. ID 72, Line 101
 #. ChangeHeroName (Actor 9)
@@ -1098,7 +1098,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Orange"
-msgstr ""
+msgstr "Quả Cam"
 
 #. ID 72, Line 107
 #. ChangeHeroName (Actor 8)
@@ -1148,7 +1148,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Neko"
-msgstr ""
+msgstr "Miêu"
 
 #. ID 72, Line 121
 #. ChangeHeroName (Actor 9)
@@ -1160,7 +1160,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Dog"
-msgstr ""
+msgstr "Cẩu"
 
 #. ID 72, Line 126
 #. ChangeHeroName (Actor 9)
@@ -1178,121 +1178,121 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Humerus"
-msgstr ""
+msgstr "Khôi Hài"
 
 #. ID 72, Line 132
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Fork"
-msgstr ""
+msgstr "Cây Nĩa"
 
 #. ID 72, Line 137
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Demon"
-msgstr ""
+msgstr "Con Quỷ"
 
 #. ID 72, Line 142
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "False"
-msgstr ""
+msgstr "Sai Sót"
 
 #. ID 72, Line 147
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Spoon"
-msgstr ""
+msgstr "Chiếc Thìa"
 
 #. ID 72, Line 152
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Bear Puzzle"
-msgstr ""
+msgstr "Hình Ghép Gấu"
 
 #. ID 72, Line 157
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Singularity"
-msgstr ""
+msgstr "Điểm Kỳ Dị"
 
 #. ID 72, Line 167
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Sunflower"
-msgstr ""
+msgstr "Hướng Dương"
 
 #. ID 72, Line 172
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Paradise"
-msgstr ""
+msgstr "Thiên Đường"
 
 #. ID 72, Line 177
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Pearl"
-msgstr ""
+msgstr "Ngọc Trai"
 
 #. ID 72, Line 182
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Crystal"
-msgstr ""
+msgstr "Pha Lê"
 
 #. ID 72, Line 187
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Ghost"
-msgstr ""
+msgstr "Hồn Ma"
 
 #. ID 72, Line 192
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Golden Apple"
-msgstr ""
+msgstr "Táo Vàng"
 
 #. ID 72, Line 197
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Skull"
-msgstr ""
+msgstr "Đầu Lâu"
 
 #. ID 72, Line 202
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Beaver"
-msgstr ""
+msgstr "Hải Ly"
 
 #. ID 72, Line 207
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Window"
-msgstr ""
+msgstr "Cửa Sổ"
 
 #. ID 72, Line 212
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Flatline"
-msgstr ""
+msgstr "Dòng Ngang"
 
 #. ID 72, Line 217
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Bulb"
-msgstr ""
+msgstr "Bóng Đèn"
 
 #. ID 72, Line 222
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Judge"
-msgstr ""
+msgstr "Thẩm Phán"
 
 #. ID 72, Line 227
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Double"
-msgstr ""
+msgstr "Nhân Đôi"
 
 #. ID 72, Line 231
 #. ChangeHeroName (Actor 9)
@@ -1304,7 +1304,7 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Diamond Eggplant"
-msgstr ""
+msgstr "Cà Tím Kim Cương"
 
 #. ID 72, Line 236
 #. ChangeHeroName (Actor 9)
@@ -1320,19 +1320,19 @@ msgstr ""
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Instant Photos"
-msgstr ""
+msgstr "Ảnh Chụp Tức Thì"
 
 #. ID 72, Line 242
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Ice-Fire"
-msgstr ""
+msgstr "Băng-Lửa"
 
 #. ID 72, Line 247
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "Flame"
-msgstr ""
+msgstr "Hỏa"
 
 #. ID 101, Line 30
 #. Choice (4 options)
