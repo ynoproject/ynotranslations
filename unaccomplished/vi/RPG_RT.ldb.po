@@ -556,7 +556,7 @@ msgstr ""
 
 msgctxt "terms.shop_greeting1"
 msgid "V2VsY29tZS4"
-msgstr ""
+msgstr "WGluIGNoYW8u"
 
 msgctxt "terms.shop_regreeting1"
 msgid "......"
@@ -576,15 +576,15 @@ msgstr ""
 
 msgctxt "terms.shop_buy_select1"
 msgid "V2hpY2ggb25lPw"
-msgstr ""
+msgstr "Q2hvbiBjYWkgbmFvIGRheT8="
 
 msgctxt "terms.shop_buy_number1"
 msgid "SG93IG1hbnk/"
-msgstr ""
+msgstr "TGF5IGJhbyBuaGlldT8="
 
 msgctxt "terms.shop_purchased1"
 msgid "VGhhbmtzLg"
-msgstr ""
+msgstr "Q2FtIG9uLg=="
 
 msgctxt "terms.shop_sell_select1"
 msgid "......"
