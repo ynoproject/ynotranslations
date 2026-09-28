@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 218, Page 2, Line 3, Pos (19,14)
+#. Contains choice at line 2 (2 options)
+msgid "Quit painting?"
+msgstr "Ngừng vẽ?"
+
+#. ID 218, Page 2, Line 4, Pos (19,14)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Có\n"
+"Không"
+
+#. ID 242, Page 1, Line 1, Pos (4,14)
+msgid ""
+"Currently using color: \\c[1]No.\\v[190]\\c[0]\n"
+"Hue-\\c[1]\\v[195]\\c[0]\n"
+"Bri-\\c[1]\\v[196]\\c[0]\n"
+"Sat-\\c[1]\\v[197]\\c[0]"
+msgstr ""
+"Hiện đang dùng màu: \\c[1]No.\\v[190]\\c[0]\n"
+"Hue-\\c[1]\\v[195]\\c[0]\n"
+"Bri-\\c[1]\\v[196]\\c[0]\n"
+"Sat-\\c[1]\\v[197]\\c[0]"
+
+#. ID 243, Page 1, Line 1, Pos (5,14)
+msgid "Enter the color number you want to use."
+msgstr "Nhập mã số màu bạn muốn sử dụng."
+
+#. ID 243, Page 1, Line 5, Pos (5,14)
+msgid ""
+"Hue-\\c[1]\\v[195]\\c[0]\n"
+"Bri-\\c[1]\\v[196]\\c[0]\n"
+"Sat-\\c[1]\\v[197]\\c[0]"
+msgstr ""
+
