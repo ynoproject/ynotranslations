@@ -137,7 +137,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Cool Person#8939 (369071 2458) - Finnish translation of Yume Nikki
 * Cottage776 - Misc fixes for the Korean translation of Answered Prayers
 * delta416 (murasaki4) - Ukrainian translation of Yume 2kki (Jigsaw Puzzle World pictures), .flow
-* depipisthief - Vietnamese translation of Braingirl, `[COLD]`, Love You
+* depipisthief - Vietnamese translation of Braingirl, Unaccomplished, `[COLD]`, Love You
 * Eel - English translation of .flow
 * ElTipejoLoco - Spanish translation of Deep Dreams, Mikan Muzou
 * Eternal Dream Arabization team ( الحلم المتجدد للتعريب) - Help on the Arabic translation of Yume Nikki
