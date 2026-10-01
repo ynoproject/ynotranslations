@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 31, Page 1, Line 3, Pos (2,3)
+msgid "\\>　　　　　　　 　    \\_■つる■\\<"
+msgstr "\\>                     \\_■Grue■\\<"
+
+#. ID 32, Page 1, Line 3, Pos (6,3)
+msgid "\\>　　　　　　　 　    \\_■ゆき■\\<"
+msgstr "\\>                     ■Neige■\\<"
+
+#. ID 33, Page 1, Line 3, Pos (10,3)
+msgid "\\>　　　　　　　 　 \\_■ふきのとう■\\<"
+msgstr "\\>                \\_■Pousse de Fuki■\\<"
+
+#. ID 34, Page 1, Line 3, Pos (14,3)
+msgid "\\>　　　　　　　 　   \\_■さくら■\\<"
+msgstr "\\>                    \\_■Sakura■\\<"
+
+#. ID 35, Page 1, Line 3, Pos (2,6)
+msgid "\\>　　　　　　　 　    \\_■かめ■\\<"
+msgstr "\\>                    \\_■Tortue■\\<"
+
+#. ID 36, Page 1, Line 3, Pos (6,6)
+msgid "\\>　　　　　　　 　  \\_■あじさい■\\<"
+msgstr "\\>                   ■Hydrangea■\\<"
+
+#. ID 37, Page 1, Line 3, Pos (10,6)
+msgid "\\>　　　　　　　 　  \\_■ひまわり■\\<"
+msgstr "\\>                   ■Tournesol■\\<"
+
+#. ID 38, Page 1, Line 3, Pos (14,6)
+msgid "\\>　　　　　　　 　  \\_■かげろう■\\<"
+msgstr "\\>                 \\_■Mirage Chaud■\\<"
+
+#. ID 39, Page 1, Line 3, Pos (2,9)
+msgid "\\>　　　　　　　 　   \\_■けむり■\\<"
+msgstr "\\>                     ■Fumée■\\<"
+
+#. ID 41, Page 1, Line 3, Pos (6,9)
+msgid "\\>　　　　　　　 　    \\_■きく■\\<"
+msgstr "\\>                 \\_■Chrysanthème■\\<"
+
+#. ID 42, Page 1, Line 3, Pos (10,9)
+msgid "\\>　　　　　　　 　   \\_■もみじ■\\<"
+msgstr "\\>                    \\_■Érable■\\<"
+
+#. ID 43, Page 1, Line 3, Pos (14,9)
+msgid "\\>　　　　　　　 　   \\_■とじる■\\<"
+msgstr "\\>                   \\_■Butsudan■\\<"
