@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 11, Page 1, Line 4, Pos (3,6)
+msgid "\\>　　　　　　　 　    \\_■つる■\\<"
+msgstr "\\>                     ■Con Sếu■\\<"
+
+#. ID 12, Page 1, Line 4, Pos (4,6)
+msgid "\\>　　　　　　　 　    \\_■ゆき■\\<"
+msgstr "\\>                      ■Tuyết■\\<"
+
+#. ID 13, Page 1, Line 4, Pos (2,8)
+msgid "\\>　　　　　　　 　 \\_■ふきのとう■\\<"
+msgstr "\\>                   \\_■Nụ Kim Tâm■\\<"
+
+#. ID 14, Page 1, Line 4, Pos (3,8)
+msgid "\\>　　　　　　　 　   \\_■さくら■\\<"
+msgstr "\\>                     ■Anh Đào■\\<"
+
+#. ID 15, Page 1, Line 4, Pos (4,8)
+msgid "\\>　　　　　　　 　    \\_■かめ■\\<"
+msgstr "\\>                     ■Con Rùa■\\<"
+
+#. ID 16, Page 1, Line 4, Pos (6,6)
+msgid "\\>　　　　　　　 　  \\_■あじさい■\\<"
+msgstr "\\>                   \\_■Cẩm Tú Cầu■\\<"
+
+#. ID 17, Page 1, Line 4, Pos (7,6)
+msgid "\\>　　　　　　　 　  \\_■ひまわり■\\<"
+msgstr "\\>                   ■Hướng Dương■\\<"
+
+#. ID 18, Page 1, Line 4, Pos (8,6)
+msgid "\\>　　　　　　　 　  \\_■かげろう■\\<"
+msgstr "\\>                  \\_■Ảo Ảnh Nhiệt■\\<"
+
+#. ID 19, Page 1, Line 4, Pos (6,8)
+msgid "\\>　　　　　　　 　   \\_■けむり■\\<"
+msgstr "\\>                      \\_■Khói■\\<"
+
+#. ID 20, Page 1, Line 4, Pos (7,8)
+msgid "\\>　　　　　　　 　    \\_■きく■\\<"
+msgstr "\\>                     ■Hoa Cúc■\\<"
+
+#. ID 21, Page 1, Line 4, Pos (8,8)
+msgid "\\>　　　　　　　 　   \\_■もみじ■\\<"
+msgstr "\\>                    \\_■Lá Phong■\\<"
+
+#. ID 22, Page 1, Line 4, Pos (2,6)
+msgid "\\>　　　　　　　 　   \\_■とじる■\\<"
+msgstr "\\>                    \\_■Đóng Cửa■\\<"
+
+#. ID 23, Page 1, Line 3, Pos (9,5)
+msgid "エフェクトを全て"
+msgstr "Tất cả hiệu ứng"
+
+#. ID 23, Page 1, Line 4, Pos (9,5)
+#. Choice (4 options)
+msgid ""
+"取得する\n"
+"返却する\n"
+"破棄する\n"
+"再取得する"
+msgstr ""
+"Nhận\n"
+"Hoàn trả\n"
+"Vứt bỏ\n"
+"Lấy lại"
+
+#. ID 23, Page 1, Line 7, Pos (9,5)
+msgid "取得しました"
+msgstr "Đã nhận toàn bộ hiệu ứng"
+
+#. ID 23, Page 1, Line 11, Pos (9,5)
+msgid "返却しました"
+msgstr "Đã trả lại toàn bộ hiệu ứng"
+
+#. ID 23, Page 1, Line 15, Pos (9,5)
+msgid "破棄しました"
+msgstr "Đã xóa toàn bộ hiệu ứng"
+
+#. ID 23, Page 1, Line 19, Pos (9,5)
+msgid "再取得しました"
+msgstr "Đã lấy lại toàn bộ hiệu ứng"
+
+#. ID 24, Page 1, Line 11, Pos (12,6)
+msgid "\\>　　　　　　　　 \\_■メニュー変更■\\<"
+msgstr "\\>                \\_\\_■Thay Kiểu Menu■\\<"
+
+#. ID 40, Page 1, Line 2, Pos (14,10)
+msgid "\\V[49]"
+msgstr ""
+
