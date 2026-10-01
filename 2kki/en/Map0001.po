@@ -3315,7 +3315,7 @@ msgstr ""
 #. ChangeHeroName (Actor 1)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "Urotsuki"
 
 #. ID 155, Page 6, Line 37, Pos (67,6)
 #. ChangeHeroName (Actor 2)
