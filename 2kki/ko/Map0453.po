@@ -12,7 +12,7 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.4.4\n"
 
-#. ID 1, Page 1, Line 16, Pos (0,14)
+#. ID 1, Page 1, Line 23, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
 msgid ""
 "\\>　  　　　　　　　壁紙アルバム\n"
@@ -23,7 +23,7 @@ msgstr ""
 "\\>\n"
 "\\>　  모은 배경화면을 연속으로 볼 수 있습니다"
 
-#. ID 1, Page 1, Line 19, Pos (0,14)
+#. ID 1, Page 1, Line 26, Pos (0,14)
 #. ID 1, Page 2, Line 77, Pos (0,14)
 #. ID 3, Page 1, Line 117, Pos (18,0)
 #. ID 5, Page 1, Line 20, Pos (0,0)
@@ -38,7 +38,7 @@ msgstr ""
 "\\>        1칸 앞으로… $v　$t …1칸 뒤로\n"
 "\\>                       $u …No.지정"
 
-#. ID 1, Page 1, Line 23, Pos (0,14)
+#. ID 1, Page 1, Line 30, Pos (0,14)
 #. ID 1, Page 2, Line 81, Pos (0,14)
 msgid ""
 "\\>                    操作説明\n"
@@ -1772,7 +1772,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "우로츠키"
 
 #. ID 2, Page 2, Line 2157, Pos (19,0)
 #. ChangeHeroName (Actor 3)
@@ -2971,3 +2971,4 @@ msgstr ""
 "\\>0109BGM5 빠름\n"
 "\\>무음\n"
 "\\>다른 곡"
+
