@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "みつき"
+msgstr "Mitsuki"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Se pincer la joue"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "ほほをつねってゆめからさめる。"
+msgstr "Pince-toi la joue pour sortir de ton rêve."
+
+#. ID 1
+#. ID 21
+msgctxt "items.name"
+msgid "つる"
+msgstr "Grue"
+
+#. ID 1
+#. ID 21
+msgctxt "items.description"
+msgid "「つる」になる。"
+msgstr "Deviens une grue à couronne rouge."
+
+#. ID 2
+#. ID 22
+msgctxt "items.name"
+msgid "ゆき"
+msgstr "Neige"
+
+#. ID 2
+#. ID 22
+msgctxt "items.description"
+msgid "「ゆき」のかたまりになる。"
+msgstr "Deviens une boule de neige."
+
+#. ID 3
+#. ID 23
+msgctxt "items.name"
+msgid "ふきのとう"
+msgstr "Pousse de Fuki"
+
+#. ID 3
+#. ID 23
+msgctxt "items.description"
+msgid "「ふきのとう」になる。"
+msgstr "Deviens une pousse de fuki."
+
+#. ID 4
+#. ID 24
+msgctxt "items.name"
+msgid "さくら"
+msgstr "Sakura"
+
+#. ID 4
+#. ID 24
+msgctxt "items.description"
+msgid "「さくら」のえだがはえる。"
+msgstr "Fais pousser des branches de cerisier sur ta tête."
+
+#. ID 5
+#. ID 25
+msgctxt "items.name"
+msgid "かめ"
+msgstr "Tortue"
+
+#. ID 5
+#. ID 25
+msgctxt "items.description"
+msgid "「かめ」になる。"
+msgstr "Deviens une tortue."
+
+#. ID 6
+#. ID 26
+msgctxt "items.name"
+msgid "あじさい"
+msgstr "Hydrangea"
+
+#. ID 6
+#. ID 26
+msgctxt "items.description"
+msgid "「あじさい」がらのかさをさす。"
+msgstr "Porte un parapluie avec un motif d'hydrangea."
+
+#. ID 7
+#. ID 27
+msgctxt "items.name"
+msgid "ひまわり"
+msgstr "Tournesol"
+
+#. ID 7
+#. ID 27
+msgctxt "items.description"
+msgid "「ひまわり」になる。"
+msgstr "Deviens un tournesol."
+
+#. ID 8
+#. ID 28
+msgctxt "items.name"
+msgid "かげろう"
+msgstr "Mirage Chaud"
+
+#. ID 8
+#. ID 28
+msgctxt "items.description"
+msgid "「かげろう」になる。"
+msgstr "Deviens un mirage chaud."
+
+#. ID 9
+#. ID 29
+msgctxt "items.name"
+msgid "けむり"
+msgstr "Fumée"
+
+#. ID 9
+#. ID 29
+msgctxt "items.description"
+msgid "「けむり」になる。"
+msgstr "Deviens une volute de fumée."
+
+#. ID 10
+#. ID 30
+msgctxt "items.name"
+msgid "きく"
+msgstr "Chrysanthème"
+
+#. ID 10
+#. ID 30
+msgctxt "items.description"
+msgid "「きく」をもつ。"
+msgstr "Tiens un chrysanthème dans tes mains."
+
+#. ID 11
+#. ID 31
+msgctxt "items.name"
+msgid "もみじ"
+msgstr "Érable"
+
+#. ID 11
+#. ID 31
+msgctxt "items.description"
+msgid "「もみじ」がらのふくをきる。"
+msgstr "Porte un kimono avec un motif d'érable."
+
+#. ID 12
+#. ID 32
+msgctxt "items.name"
+msgid "とじる"
+msgstr "Butsudan"
+
+#. ID 12
+#. ID 32
+msgctxt "items.description"
+msgid "とびらを「とじる」。"
+msgstr "Ferme le butsudan."
+
+#. ID 20
+msgctxt "items.name"
+msgid "↑本物　/　ダミー↓"
+msgstr "↑ Réels/Factices ↓"
+
+#. ID 40
+msgctxt "items.name"
+msgid "ゲームのせつめい"
+msgstr "Instructions"
+
+#. ID 40
+msgctxt "items.description"
+msgid "ゲームのせつめいをみる。"
+msgstr "Lis les instructions du jeu."
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "¥"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Effets"
+
+msgctxt "terms.command_skill"
+msgid "おきる"
+msgstr "Se réveiller"
+
+msgctxt "terms.menu_equipment"
+msgid "ふくそう"
+msgstr "Vêtements"
+
+msgctxt "terms.menu_quit"
+msgid "とじる"
+msgstr "Quitter"
+
+msgctxt "terms.new_game"
+msgid "はじめる"
+msgstr "Commencer"
+
+msgctxt "terms.load_game"
+msgid "よむ"
+msgstr "Lire"
+
+msgctxt "terms.exit_game"
+msgid "とじる"
+msgstr "Quitter"
+
+msgctxt "terms.health_points"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "$T"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "$T"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "シャツ"
+msgstr "Chemisier"
+
+msgctxt "terms.helmet"
+msgid "スカート"
+msgstr "Jupe"
+
+msgctxt "terms.accessory"
+msgid "くつ"
+msgstr "Chaussures"
+
+msgctxt "terms.save_game_message"
+msgid "どこにかく？"
+msgstr "Où doit être écrite la page ?"
+
+msgctxt "terms.load_game_message"
+msgid "どれをよむ？"
+msgstr "Quelle page doit être lue ?"
+
+msgctxt "terms.file"
+msgid "ページ"
+msgstr "Page"
+
+msgctxt "terms.exit_game_message"
+msgid "とじる？"
+msgstr "Quitter ?"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "Oui"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "Non"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
