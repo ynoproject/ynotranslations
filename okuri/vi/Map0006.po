@@ -26,7 +26,7 @@ msgstr "\\>                     ■Anh Đào■\\<"
 
 #. ID 35, Page 1, Line 3, Pos (2,6)
 msgid "\\>　　　　　　　 　    \\_■かめ■\\<"
-msgstr "\\>                  \\_■Con Rùa■\\<"
+msgstr "\\>                     ■Con Rùa■\\<"
 
 #. ID 36, Page 1, Line 3, Pos (6,6)
 msgid "\\>　　　　　　　 　  \\_■あじさい■\\<"
