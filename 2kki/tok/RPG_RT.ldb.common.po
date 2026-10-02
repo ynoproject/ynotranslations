@@ -295,7 +295,7 @@ msgstr "󱤑󱦐󱥱󱦒󱥶󱦒󱥺󱦒󱥩󱦒󱥱󱦒󱤖󱦒󱤏󱦒󱦑"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "夢遊病"
+msgstr "󱥩󱤬󱤢"
 
 #. ID 37, Line 6
 #. Condition (Actor Name = 新仕様の解説＆サンプル)

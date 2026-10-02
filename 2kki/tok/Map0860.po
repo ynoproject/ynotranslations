@@ -18,7 +18,7 @@ msgstr "󱤑󱦐󱥱󱦒󱥶󱦒󱥺󱦒󱥩󱦒󱥱󱦒󱤖󱦒󱤏󱦒󱦑"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "夢遊病"
+msgstr "󱥩󱤬󱤢"
 
 #. ID 5, Page 1, Line 74, Pos (0,4)
 #. ChangeHeroName (Actor 1)
