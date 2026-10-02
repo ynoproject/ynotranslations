@@ -12,7 +12,7 @@ msgstr ""
 "X-CreatedBy: LcfTrans\n"
 "X-Generator: Poedit 3.4\n"
 
-#. ID 1, Page 1, Line 23, Pos (0,14)
+#. ID 1, Page 1, Line 16, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
 msgid ""
 "\\>　  　　　　　　　壁紙アルバム\n"
@@ -24,7 +24,7 @@ msgstr ""
 "\\>                 собранные обои\n"
 "\\>                   по порядку."
 
-#. ID 1, Page 1, Line 26, Pos (0,14)
+#. ID 1, Page 1, Line 19, Pos (0,14)
 #. ID 1, Page 2, Line 77, Pos (0,14)
 #. ID 3, Page 1, Line 117, Pos (18,0)
 #. ID 5, Page 1, Line 20, Pos (0,0)
@@ -39,7 +39,7 @@ msgstr ""
 "\\>        На 1 назад. … $v　$t … На 1 вперёд.\n"
 "\\>　　　          Найти … $u … по Номеру."
 
-#. ID 1, Page 1, Line 30, Pos (0,14)
+#. ID 1, Page 1, Line 23, Pos (0,14)
 #. ID 1, Page 2, Line 81, Pos (0,14)
 msgid ""
 "\\>                    操作説明\n"
@@ -1776,7 +1776,7 @@ msgstr ""
 #. ChangeHeroName (Actor 2)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr "Уроцуки"
+msgstr ""
 
 #. ID 2, Page 2, Line 2157, Pos (19,0)
 #. ChangeHeroName (Actor 3)
@@ -2979,4 +2979,3 @@ msgstr ""
 "\\>0109BGM5 速め\n"
 "\\>Тишина\n"
 "\\>Другие..."
-
