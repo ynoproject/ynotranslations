@@ -400,9 +400,7 @@ msgstr "기본 곡이라도 OK?"
 #. Choice (2 options, embedded in a message)
 #. ID 78, Page 2, Line 12, Pos (52,64)
 #. Choice (2 options)
-#. ID 80, Page 2, Line 11, Pos (38,65)
-#. Choice (2 options, embedded in a message)
-#. ID 80, Page 2, Line 28, Pos (38,65)
+#. ID 130, Page 1, Line 141, Pos (40,33)
 #. Choice (2 options, embedded in a message)
 msgid ""
 "はい\n"
@@ -489,7 +487,7 @@ msgstr ""
 "주의해 주시기 바랍니다."
 
 #. ID 8, Page 1, Line 163, Pos (48,30)
-#. ID 8, Page 1, Line 310, Pos (48,30)
+#. ID 8, Page 1, Line 312, Pos (48,30)
 msgid ""
 "なんだか恥ずかしいので、\n"
 "パソコンだけ置いておきます。\\!\n"
@@ -501,13 +499,25 @@ msgstr ""
 "\n"
 "플레이해 주셔서 감사합니다. 좋은 꿈을."
 
-#. ID 8, Page 1, Line 274, Pos (48,30)
+#. ID 8, Page 1, Line 232, Pos (48,30)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "slot"
+msgstr ""
+
+#. ID 8, Page 1, Line 257, Pos (48,30)
+#. ChangeHeroName (Actor 1)
+msgctxt "actors.name"
+msgid "trumpet"
+msgstr ""
+
+#. ID 8, Page 1, Line 276, Pos (48,30)
 #. Condition (Actor Name = 移転しました)
 msgctxt "actors.name"
 msgid "移転しました"
 msgstr ""
 
-#. ID 8, Page 1, Line 307, Pos (48,30)
+#. ID 8, Page 1, Line 309, Pos (48,30)
 #. Choice (4 options)
 msgid ""
 "\\>ご挨拶\n"
@@ -520,11 +530,11 @@ msgstr ""
 "\\>그 외 기타\n"
 "\\>×닫기"
 
-#. ID 8, Page 1, Line 315, Pos (48,30)
+#. ID 8, Page 1, Line 317, Pos (48,30)
 msgid "……それにしても……。"
 msgstr "......그렇다 치더라도......"
 
-#. ID 8, Page 1, Line 316, Pos (48,30)
+#. ID 8, Page 1, Line 318, Pos (48,30)
 msgid ""
 "ここまで来た、ってことは、\n"
 "ゆめ２っきを遊びつくしたんだよね。\\!\n"
@@ -534,7 +544,7 @@ msgstr ""
 "유메2키를 전력으로 플레이했다는 증거.\\!\n"
 "진부한 표현이지만, 굉장하네."
 
-#. ID 8, Page 1, Line 319, Pos (48,30)
+#. ID 8, Page 1, Line 321, Pos (48,30)
 msgid ""
 "ゆめ２っきは色々な人が作っているから、\n"
 "制作はどこまでも続くかもしれないし、\n"
@@ -544,7 +554,7 @@ msgstr ""
 "제작은 한없이 계속될 수도 있고,\n"
 "느닷없이 프로젝트가 종료될지도 모르겠네."
 
-#. ID 8, Page 1, Line 322, Pos (48,30)
+#. ID 8, Page 1, Line 324, Pos (48,30)
 msgid ""
 "アップデートで更に何か増えるかもしれないし、\n"
 "何か減るかもしれないし、何か変わるかもしれないし、\n"
@@ -555,7 +565,7 @@ msgstr ""
 "뭔가가 달라질 수도 있고,\n"
 "...아무것도 바뀌지 않고 그대로일 수도 있겠네."
 
-#. ID 8, Page 1, Line 325, Pos (48,30)
+#. ID 8, Page 1, Line 327, Pos (48,30)
 msgid ""
 "でも、まぁ。それはそれとして。\n"
 "遊びたい時に遊んでくれたら。\n"
@@ -565,11 +575,11 @@ msgstr ""
 "플레이하고 싶을 때 플레이해 준다면,\n"
 "그리고 그게 즐겁다고 생각한다면 전 기쁠 겁니다."
 
-#. ID 8, Page 1, Line 328, Pos (48,30)
+#. ID 8, Page 1, Line 330, Pos (48,30)
 msgid "……。…………。はい、恥ずかしい話はここまで！"
 msgstr "... ...... 네, 낯부끄러운 이야기는 여기까지!"
 
-#. ID 8, Page 1, Line 331, Pos (48,30)
+#. ID 8, Page 1, Line 333, Pos (48,30)
 msgid ""
 "2009年から参加している者で、\n"
 "制作まとめWiki管理人(2代目)です。"
@@ -578,15 +588,15 @@ msgstr ""
 "제작 마토메 wiki(Yume 2kki HQ)\n"
 "(2대)관리자입니다."
 
-#. ID 8, Page 1, Line 338, Pos (48,30)
+#. ID 8, Page 1, Line 340, Pos (48,30)
 msgid "この画面とか、"
 msgstr "이런 화면이나,"
 
-#. ID 8, Page 1, Line 344, Pos (48,30)
+#. ID 8, Page 1, Line 346, Pos (48,30)
 msgid "\\>この画面とか、\\<このミニゲームとか、"
 msgstr "\\>이런 화면이나,\\< 이런 미니게임이나,"
 
-#. ID 8, Page 1, Line 347, Pos (48,30)
+#. ID 8, Page 1, Line 349, Pos (48,30)
 msgid ""
 "\\>この画面とか、このミニゲームとか、\\<\n"
 "こんな感じの世界とか、"
@@ -594,7 +604,7 @@ msgstr ""
 "\\>이런 화면이나, 이런 미니게임이나,\\<\n"
 "이런 느낌의 맵이라던가,"
 
-#. ID 8, Page 1, Line 351, Pos (48,30)
+#. ID 8, Page 1, Line 353, Pos (48,30)
 msgid ""
 "\\>この画面とか、このミニゲームとか、\\<\n"
 "\\>こんな感じの世界とか、\\<これとか、"
@@ -602,7 +612,7 @@ msgstr ""
 "\\>이런 화면이나, 이런 미니게임이나,\\<\n"
 "\\>이런 느낌의 맵이라던가,\\< 이거라던가,"
 
-#. ID 8, Page 1, Line 354, Pos (48,30)
+#. ID 8, Page 1, Line 356, Pos (48,30)
 msgid ""
 "\\>この画面とか、このミニゲームとか、\\<\n"
 "\\>こんな感じの世界とか、これとか、\\<\n"
@@ -612,7 +622,7 @@ msgstr ""
 "\\>이런 느낌의 맵이라던가, 이거라던가,\\<\n"
 "......를 제작했습니다."
 
-#. ID 8, Page 1, Line 360, Pos (48,30)
+#. ID 8, Page 1, Line 362, Pos (48,30)
 msgid ""
 "なんだなんだ。何を書けって言うんだ。\\!\n"
 "わざわざTime Trial Modeでここまで来て。\\!\n"
@@ -624,7 +634,7 @@ msgstr ""
 "\n"
 "......축하해!]"
 
-#. ID 8, Page 1, Line 364, Pos (48,30)
+#. ID 8, Page 1, Line 366, Pos (48,30)
 msgid ""
 "ここまで遊びこむプレイヤーなら\n"
 "もう知っていそうな感じもするけど、\n"
@@ -634,7 +644,7 @@ msgstr ""
 "이미 알고 있을 것 같은 느낌도 들지만,\n"
 "일단 이렇게 쓰여 있어서 말할게."
 
-#. ID 8, Page 1, Line 369, Pos (48,30)
+#. ID 8, Page 1, Line 371, Pos (48,30)
 msgid ""
 "なんだなんだ。何を書けって言うんだ。\\!\n"
 "こっそり仕込んだ裏技か。\\!\n"
@@ -646,7 +656,7 @@ msgstr ""
 "\n"
 "음."
 
-#. ID 8, Page 1, Line 375, Pos (48,30)
+#. ID 8, Page 1, Line 377, Pos (48,30)
 msgid ""
 "タイトル画面で\"はじめて\"を選ぶ時に、\n"
 "\\C[2]シフトキー\\C[0]と\\C[2]Lキー\\C[0]を押したままにすると\n"
@@ -660,7 +670,7 @@ msgstr ""
 "<easyrpg:new_page>\n"
 "...타임 어택 모드 같은 것이라고 보면 되겠습니다."
 
-#. ID 8, Page 1, Line 379, Pos (48,30)
+#. ID 8, Page 1, Line 381, Pos (48,30)
 msgid ""
 "\\C[2]シフトキー\\C[0]を押したままセーブすると、\n"
 "セーブ画面に表示されている\n"
@@ -672,7 +682,7 @@ msgstr ""
 "다른 이름으로 바꿀 수 있어요.\n"
 "......2회차와 검증용으로 사용해 주시길."
 
-#. ID 8, Page 1, Line 383, Pos (48,30)
+#. ID 8, Page 1, Line 385, Pos (48,30)
 msgid ""
 "PC画面のBGMにある\\C[2]NoMusic\\C[0]は\n"
 "実は ゆめ2っき\\\\pc_back.mp3 を再生するよ。\n"
@@ -684,7 +694,7 @@ msgstr ""
 ".wav나 .mid도 됩니다.\n"
 "……No Music, No Life인 사람에게."
 
-#. ID 8, Page 1, Line 442, Pos (48,30)
+#. ID 8, Page 1, Line 444, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "ソデのとこは重ね着なのかそういうデザインなのか、\n"
@@ -696,7 +706,7 @@ msgstr ""
 "옷깃이 있는 옷인가, 치마 길이는 어느정도인가.\n"
 "......음, 정말이지 슈뢰딩거."
 
-#. ID 8, Page 1, Line 450, Pos (48,30)
+#. ID 8, Page 1, Line 452, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "腕、手首、そして指。"
@@ -704,7 +714,7 @@ msgstr ""
 "\\>[월페이퍼 코멘터리]\n"
 "팔, 손목 그리고 손가락."
 
-#. ID 8, Page 1, Line 456, Pos (48,30)
+#. ID 8, Page 1, Line 458, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "地球と月は、地球30コ分くらい離れてるお隣さん。\n"
@@ -720,7 +730,7 @@ msgstr ""
 "개인적으로는 추운 겨울날에\n"
 "하는 것을 추천합니다."
 
-#. ID 8, Page 1, Line 464, Pos (48,30)
+#. ID 8, Page 1, Line 466, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "夢の中にもう一人の自分。\n"
@@ -732,7 +742,7 @@ msgstr ""
 "그런데 대체 어느 쪽이 '진짜'인가?\n"
 "아니면 사실은 둘 다...?"
 
-#. ID 8, Page 1, Line 472, Pos (48,30)
+#. ID 8, Page 1, Line 474, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "自分がもう一人いたらなぁ、なんて思うけど、\n"
@@ -744,7 +754,7 @@ msgstr ""
 "생각하지만, 분명 다른 한 명도\n"
 "똑같은 생각을 하고 있겠네. ...정말인가?"
 
-#. ID 8, Page 1, Line 480, Pos (48,30)
+#. ID 8, Page 1, Line 482, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "ビルの窓に映りこむ手。道路を埋め尽くす足。\n"
@@ -756,7 +766,7 @@ msgstr ""
 "온순한 성격을 버리고, 커다란 몸을 파괴력으로\n"
 "바꿔버린 저것은 대체 무엇일까."
 
-#. ID 8, Page 1, Line 488, Pos (48,30)
+#. ID 8, Page 1, Line 490, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "深い深い海の底。\n"
@@ -768,7 +778,7 @@ msgstr ""
 "그 손은 부드럽게 감싸 안아주는 것일까요...\n"
 "정말 그걸로 괜찮은 것일까요..."
 
-#. ID 8, Page 1, Line 496, Pos (48,30)
+#. ID 8, Page 1, Line 498, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "透明人間になったことで\n"
@@ -780,7 +790,7 @@ msgstr ""
 "\"상관하지 않아도 된다\"인 마인드인지,\n"
 "\"상관없다\"는 마인드인지."
 
-#. ID 8, Page 1, Line 504, Pos (48,30)
+#. ID 8, Page 1, Line 506, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "両手で抱えるような鉛筆に、見上げるほどの箪笥。\n"
@@ -792,7 +802,7 @@ msgstr ""
 "올려다 볼 정도의 장롱. 작아진 몸으로 도착한 곳은\n"
 "가까운 별세계. 그 앞에 있는 것은..."
 
-#. ID 8, Page 1, Line 512, Pos (48,30)
+#. ID 8, Page 1, Line 514, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "スクール水着やタオル以外で、となると、\n"
@@ -804,7 +814,7 @@ msgstr ""
 "뭘 입어야 할까?\n"
 "......펭귄...?"
 
-#. ID 8, Page 1, Line 520, Pos (48,30)
+#. ID 8, Page 1, Line 522, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "狼耳が付いてるなら人耳は無くなるのかな、とか\n"
@@ -816,7 +826,7 @@ msgstr ""
 "'크기는 어느정도일까' 라던가, '멋내기용일까' \n"
 "라던가, '그냥 붙어 있는 건가' 라던가."
 
-#. ID 8, Page 1, Line 528, Pos (48,30)
+#. ID 8, Page 1, Line 530, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "今は何を育ててるのかな。\n"
@@ -826,7 +836,7 @@ msgstr ""
 "지금은 뭘 키우고 있을까.\n"
 "건강할까... 잘 자라고 있으면 좋겠네."
 
-#. ID 8, Page 1, Line 535, Pos (48,30)
+#. ID 8, Page 1, Line 537, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "一回くらい、生で見てみたいなぁ、イルカ……。"
@@ -834,7 +844,7 @@ msgstr ""
 "\\>[월페이퍼 코멘터리]\n"
 "한번쯤은, 실제로 직접 봤으면 좋겠네, 돌고래..."
 
-#. ID 8, Page 1, Line 541, Pos (48,30)
+#. ID 8, Page 1, Line 543, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "このへんまで来ると、こう、いつの間にか\n"
@@ -846,7 +856,7 @@ msgstr ""
 "두 번 다시 돌아갈 수 없을 정도로 간 것 같아서\n"
 "좀 무섭네."
 
-#. ID 8, Page 1, Line 549, Pos (48,30)
+#. ID 8, Page 1, Line 551, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "遠近感とか視野角とか、\n"
@@ -856,7 +866,7 @@ msgstr ""
 "원근감이라던가, 시야각이라던가,\n"
 "그 시점에서 보는 경치는 과연 어떨지."
 
-#. ID 8, Page 1, Line 556, Pos (48,30)
+#. ID 8, Page 1, Line 558, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "足元のあの演出。最初に見た時ワクワクしたよね。\n"
@@ -866,7 +876,7 @@ msgstr ""
 "발밑의 그 연출. 처음 봤을 때는 두근두근했지.\n"
 "찰ㅋ하는 소리랑 궁합이 잘 맞는 연출, 좋네."
 
-#. ID 8, Page 1, Line 563, Pos (48,30)
+#. ID 8, Page 1, Line 565, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "思春期のことを指して、\n"
@@ -878,7 +888,7 @@ msgstr ""
 "어른과 아이 경계에 있는 사람이라는 의미로\n"
 "'마지널 맨'... 이라고 불렀다고 하네요."
 
-#. ID 8, Page 1, Line 571, Pos (48,30)
+#. ID 8, Page 1, Line 573, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "「お天道様が見てる」「お月様が見てる」とくれば\n"
@@ -888,7 +898,7 @@ msgstr ""
 "'햇님이 보고 계셔'와 '달님이 보고 계셔' 라고 하면,\n"
 "먼 미래에는 '토성씨가 보고 계셔' 라고 할지...?"
 
-#. ID 8, Page 1, Line 578, Pos (48,30)
+#. ID 8, Page 1, Line 580, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "太陽光という画材で描けば\n"
@@ -900,7 +910,7 @@ msgstr ""
 "빨강에서 푸르고 보라색의 그라데이션으로.\n"
 "무지개도, 노을도, 여명도."
 
-#. ID 8, Page 1, Line 586, Pos (48,30)
+#. ID 8, Page 1, Line 588, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "海が７割、陸が３割。\n"
@@ -911,7 +921,7 @@ msgstr ""
 "그렇게 들었을 때, 바다에 삼켜지면\n"
 "다신 돌아갈 수 없을 것 같아서 무섭다."
 
-#. ID 8, Page 1, Line 593, Pos (48,30)
+#. ID 8, Page 1, Line 595, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "蜘蛛の糸。\n"
@@ -921,7 +931,7 @@ msgstr ""
 "거미줄.\n"
 "...잘 짜면 정말 튼튼하다고 들었습니다."
 
-#. ID 8, Page 1, Line 600, Pos (48,30)
+#. ID 8, Page 1, Line 602, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "お腹に目があるなら、\n"
@@ -931,7 +941,7 @@ msgstr ""
 "배에 눈이 달려 있다면,\n"
 "옷도 눈이 달려 있는 부분만 뚫려 있을까."
 
-#. ID 8, Page 1, Line 607, Pos (48,30)
+#. ID 8, Page 1, Line 609, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "あなたの好きなエフェクトはどれ？\n"
@@ -943,7 +953,7 @@ msgstr ""
 "...라고 물어보면 좋겠지만,\n"
 "당신이 이에 대한 답변을 해도 저에겐 안 들려요..."
 
-#. ID 8, Page 1, Line 615, Pos (48,30)
+#. ID 8, Page 1, Line 617, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "？？？？"
@@ -951,7 +961,7 @@ msgstr ""
 "\\>[월페이퍼 코멘터리]\n"
 "????"
 
-#. ID 8, Page 1, Line 621, Pos (48,30)
+#. ID 8, Page 1, Line 623, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "最近は一番上の段のボタンが届かない時用に\n"
@@ -963,7 +973,7 @@ msgstr ""
 "아래쪽에도 버튼이 달려 있는 자판기가 있네.\n"
 "...닿을 수 있긴 해도, 왠지 모르게 눌러보고 싶어져."
 
-#. ID 8, Page 1, Line 629, Pos (48,30)
+#. ID 8, Page 1, Line 631, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "実はこの世界はですね、\n"
@@ -975,7 +985,7 @@ msgstr ""
 "당신이 플레이하고 있는 그 맵 뒤편에\n"
 "제가 몰래 보고 있어요(두리번두리번)"
 
-#. ID 8, Page 1, Line 637, Pos (48,30)
+#. ID 8, Page 1, Line 639, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "君はもう見た……？"
@@ -983,7 +993,7 @@ msgstr ""
 "\\>[월페이퍼 코멘터리]\n"
 "벌써 본 건가...?"
 
-#. ID 8, Page 1, Line 643, Pos (48,30)
+#. ID 8, Page 1, Line 645, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "実はこの世界はですね、あなたが遊んでる時に\n"
@@ -995,7 +1005,7 @@ msgstr ""
 "아르바이트하고 있는 아주머니께서\n"
 "저 추격자를 조종하고 있어서(거짓말입니다)"
 
-#. ID 8, Page 1, Line 651, Pos (48,30)
+#. ID 8, Page 1, Line 653, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "自動販売機って飲食物のイメージがあるけど、\n"
@@ -1007,7 +1017,7 @@ msgstr ""
 "떠오르겠지만, 건전지나 수건을 파는\n"
 "자판기도 있어요. ...본 적은 없지만."
 
-#. ID 8, Page 1, Line 659, Pos (48,30)
+#. ID 8, Page 1, Line 661, Pos (48,30)
 msgid ""
 "\\>【壁紙の話】\n"
 "私がうろつきと出会った頃、バイクは\"案のひとつ\"で\n"
@@ -1704,7 +1714,7 @@ msgstr ""
 #. ChangeHeroName (Actor 7)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "우로츠키"
 
 #. ID 67, Page 2, Line 63, Pos (32,68)
 #. ChangeHeroName (Actor 1)
@@ -2093,7 +2103,7 @@ msgstr ""
 "kuraud\n"
 "......?"
 
-#. ID 74, Page 3, Line 6, Pos (47,30)
+#. ID 74, Page 3, Line 7, Pos (47,30)
 msgid ""
 "kuraud\n"
 "壁紙の設定ヨシ。あとは……。"
@@ -2101,7 +2111,7 @@ msgstr ""
 "kuraud\n"
 "월페이퍼 설정은 오케이. 그 다음은......"
 
-#. ID 74, Page 3, Line 12, Pos (47,30)
+#. ID 74, Page 3, Line 13, Pos (47,30)
 msgid ""
 "kuraud\n"
 "うわっ！？\\!\n"
@@ -2114,20 +2124,12 @@ msgstr ""
 #. ID 74, Page 3, Line 29, Pos (47,30)
 msgid ""
 "kuraud\n"
-"靴、見えてますよー。"
-msgstr ""
-"kuraud\n"
-"신발, 잘 보여요."
-
-#. ID 74, Page 3, Line 33, Pos (47,30)
-msgid ""
-"kuraud\n"
 "えーっと、デバッグお疲れ様です。"
 msgstr ""
 "kuraud\n"
 "어, 디버그 수고많으십니다."
 
-#. ID 74, Page 3, Line 35, Pos (47,30)
+#. ID 74, Page 3, Line 31, Pos (47,30)
 msgid ""
 "kuraud\n"
 "私はプレイヤーさんがここに来る前に、\n"
@@ -3171,58 +3173,51 @@ msgstr ""
 "\"디버그 모드를 해제한 이후에\n"
 "나에게 말을 걸어주지 않을래?\""
 
-#. ID 80, Page 1, Line 3, Pos (38,65)
+#. ID 80, Page 1, Line 3, Pos (37,65)
 msgid ""
 "710\n"
+"あっ、はい。\n"
 "どうしましたか？"
 msgstr ""
-"710\n"
-"무슨 일인가요?"
 
-#. ID 80, Page 1, Line 5, Pos (38,65)
-#. Choice (3 options)
+#. ID 80, Page 1, Line 6, Pos (37,65)
+#. Choice (4 options)
 msgid ""
 "お話して。\n"
-"なんでもない。\n"
+"何か面白いことして。\n"
+"製作に参加させてほしい。\n"
 "許さない。"
 msgstr ""
-"이런 이야기를 해 줘.\n"
-"아무것도 아니야.\n"
-"용서 못해."
 
-#. ID 80, Page 1, Line 7, Pos (38,65)
+#. ID 80, Page 1, Line 8, Pos (37,65)
 #. Choice (4 options)
 msgid ""
 "ゆめ2っきの話\n"
-"自分の世界の話\n"
-"好きな世界とかの話\n"
+"本家ゆめにっきの話\n"
+"自分の話\n"
 "最初に話してた話"
 msgstr ""
-"유메2키에 대한 이야기\n"
-"자신이 만든 맵에 대한 이야기\n"
-"좋아하는 맵에 대한 이야기\n"
-"처음에 했던 이야기"
 
-#. ID 80, Page 1, Line 9, Pos (38,65)
+#. ID 80, Page 1, Line 10, Pos (37,65)
 msgid ""
 "710\n"
-"まずは、貴方にとっての『ゆめ2っき』とは、\n"
-"何だったのかを聞きましょうか。"
+"あ、はい。"
 msgstr ""
-"710\n"
-"먼저, 당신에게 있어서 [유메2키]란\n"
-"무엇인지에 대해 들려주시겠습니까."
 
-#. ID 80, Page 1, Line 12, Pos (38,65)
+#. ID 80, Page 1, Line 12, Pos (37,65)
 msgid ""
 "710\n"
-"どうぞ。"
+"えっと、まず貴方にとって『ゆめ2っき』とは、\n"
+"何だったのかとかを聞いてみましょうか。"
 msgstr ""
-"710\n"
-"말씀해 보세요."
 
-#. ID 80, Page 1, Line 14, Pos (38,65)
-#. ID 80, Page 2, Line 44, Pos (38,65)
+#. ID 80, Page 1, Line 15, Pos (37,65)
+msgid ""
+"710\n"
+"どうぞ～。"
+msgstr ""
+
+#. ID 80, Page 1, Line 17, Pos (37,65)
 msgid ""
 "710\n"
 "・・・。"
@@ -3230,269 +3225,324 @@ msgstr ""
 "710\n"
 "..."
 
-#. ID 80, Page 1, Line 16, Pos (38,65)
+#. ID 80, Page 1, Line 19, Pos (37,65)
 msgid ""
 "710\n"
-"なるほど、じゃあそういうことなんです。"
+"あーなるほど、じゃあそういうことなんです。"
 msgstr ""
-"710\n"
-"역시, 그런 것이겠지요."
 
-#. ID 80, Page 1, Line 18, Pos (38,65)
+#. ID 80, Page 1, Line 21, Pos (37,65)
 msgid ""
 "710\n"
-"『ゆめ2っき』の楽しみ方に、\n"
-"答えは出してないつもりです。"
+"私は『ゆめ2っき』に、\n"
+"ひとつの答えは出してないつもりです。"
 msgstr ""
-"710\n"
-"[유메2키]를 즐기는 방법에 대한\n"
-"답은 내지 않으려고 하시는군요."
 
-#. ID 80, Page 1, Line 21, Pos (38,65)
+#. ID 80, Page 1, Line 24, Pos (37,65)
 msgid ""
 "710\n"
-"貴方がそう思うならそういうことなんです。\n"
+"貴方がそう思ったなら、\n"
+"そういうことなんです。"
+msgstr ""
+
+#. ID 80, Page 1, Line 27, Pos (37,65)
+msgid ""
+"710\n"
+"『ゆめ2っき』は多人数で制作しているので\n"
+"その分、人それぞれの解釈が存在すると思ってます。"
+msgstr ""
+
+#. ID 80, Page 1, Line 30, Pos (37,65)
+msgid ""
+"710\n"
 "たぶん。"
 msgstr ""
-"710\n"
-"당신이 그리 생각한다면 그런 것이겠지요.\n"
-"아마."
 
-#. ID 80, Page 1, Line 26, Pos (38,65)
+#. ID 80, Page 1, Line 32, Pos (37,65)
 msgid ""
 "710\n"
-"あんまこーいう場所では言いたくないんすけど…"
+"というわけですので、\n"
+"どんどん好きなように解釈しちゃってくださいな。"
 msgstr ""
-"710\n"
-"이런 장소에선 딱히 이야기하고 싶지 않습니다만..."
 
-#. ID 80, Page 1, Line 31, Pos (38,65)
+#. ID 80, Page 1, Line 37, Pos (37,65)
 msgid ""
 "710\n"
-"まぁこことか、"
+"あ！いいですよ！"
 msgstr ""
-"710\n"
-"뭐, 이런 곳이라던가,"
 
-#. ID 80, Page 1, Line 35, Pos (38,65)
-#. ID 80, Page 1, Line 38, Pos (38,65)
-#. ID 80, Page 1, Line 41, Pos (38,65)
-#. ID 80, Page 1, Line 63, Pos (38,65)
-#. ID 80, Page 1, Line 66, Pos (38,65)
+#. ID 80, Page 1, Line 39, Pos (37,65)
 msgid ""
 "710\n"
-"こことか、"
+"『ゆめにっき』は2っきを制作してる時でも\n"
+"何度もプレイしています。"
 msgstr ""
-"710\n"
-"이런 곳이라던가,"
 
-#. ID 80, Page 1, Line 44, Pos (38,65)
+#. ID 80, Page 1, Line 42, Pos (37,65)
 msgid ""
 "710\n"
-"こことか作ってました～。"
+"定期的に自分の足でプレイしておかないと\n"
+"“ゆめにっきっぽい”という大前提がブレちゃうので"
 msgstr ""
-"710\n"
-"이런 곳을 만들었습니다~"
 
-#. ID 80, Page 1, Line 47, Pos (38,65)
-#. ID 80, Page 1, Line 87, Pos (38,65)
+#. ID 80, Page 1, Line 45, Pos (37,65)
 msgid ""
 "710\n"
-"そんな感じっす。"
+"こればっかりは気をつけてる所存です。\n"
+"たぶんみんな好きだとは思いますけどね！"
 msgstr ""
-"710\n"
-"와 같은 느낌으로요."
 
-#. ID 80, Page 1, Line 52, Pos (38,65)
+#. ID 80, Page 1, Line 48, Pos (37,65)
 msgid ""
 "710\n"
-"ちょっと長いので覚悟してね。"
+"最初に『ゆめにっき』を見つけたのは\n"
+"ニコ動の『ニコニコ幻想狂気リンク』からでした。"
 msgstr ""
-"710\n"
-"좀 길어질 수 있으니 각오하세요."
 
-#. ID 80, Page 1, Line 54, Pos (38,65)
+#. ID 80, Page 1, Line 51, Pos (37,65)
 msgid ""
 "710\n"
-"好きな世界は・・・"
+"ニコニコ動画はRC2時代に垢作ったので\n"
+"たぶん2008年くらいかな…。"
 msgstr ""
-"710\n"
-"좋아하는 맵은..."
 
-#. ID 80, Page 1, Line 69, Pos (38,65)
-#. ID 80, Page 1, Line 72, Pos (38,65)
+#. ID 80, Page 1, Line 54, Pos (37,65)
 msgid ""
 "710\n"
-"このへんとか、"
+"その当時はなんだこれ！って感じで\n"
+"見飛ばしちゃってました。"
 msgstr ""
-"710\n"
-"이 근처라던가,"
 
-#. ID 80, Page 1, Line 75, Pos (38,65)
+#. ID 80, Page 1, Line 57, Pos (37,65)
 msgid ""
 "710\n"
-"このあたりも、"
+"当時は他に『ドルツ』とか『夜な夜な夜な』とか\n"
+"『tanasin』とか『タレント』とかも好きでしたね。"
 msgstr ""
-"710\n"
-"이 언저리도,"
 
-#. ID 80, Page 1, Line 78, Pos (38,65)
+#. ID 80, Page 1, Line 60, Pos (37,65)
 msgid ""
 "710\n"
-"このへんも、"
+"もちろん今も\n"
+"そういう系は頑張ってチェックしています。"
 msgstr ""
-"710\n"
-"이 근처도,"
 
-#. ID 80, Page 1, Line 81, Pos (38,65)
+#. ID 80, Page 1, Line 63, Pos (37,65)
 msgid ""
 "710\n"
-"ここも、"
+"その後、ニコニコでハマっていた\n"
+"某Sさんの実況を見てその世界の魅力を知り、"
 msgstr ""
-"710\n"
-"여기도,"
 
-#. ID 80, Page 1, Line 84, Pos (38,65)
+#. ID 80, Page 1, Line 66, Pos (37,65)
 msgid ""
 "710\n"
-"あとここも、"
+"自分でも改めてプレイするようになりました。\n"
+"当時中学生だったと思います。"
 msgstr ""
-"710\n"
-"또 여기도,"
 
-#. ID 80, Page 1, Line 94, Pos (38,65)
+#. ID 80, Page 1, Line 69, Pos (37,65)
 msgid ""
 "710\n"
-"好きなキャラは基本的に全部好きです\n"
-"しいて挙げるとするなら、"
+"よく巷ではききやまさんのことを「神だ！」\n"
+"と揶揄されてるのを拝見しますが、"
 msgstr ""
-"710\n"
-"캐릭터는 가리지 않고 다 좋아합니다만,\n"
-"굳이 좋아하는 캐릭터를 고르자면,"
 
-#. ID 80, Page 1, Line 99, Pos (38,65)
+#. ID 80, Page 1, Line 72, Pos (37,65)
 msgid ""
 "710\n"
-"この娘と、"
+"自分はちゃんと人間らしい方だと思っています。"
 msgstr ""
-"710\n"
-"이 여자 아이랑,"
 
-#. ID 80, Page 1, Line 103, Pos (38,65)
+#. ID 80, Page 1, Line 74, Pos (37,65)
 msgid ""
 "710\n"
-"この人と、"
+"自分なりに研究を重ねて少しでも\n"
+"“ゆめにっきっぽい”作品に近づけることが\n"
+"できるようになりたいですね。"
 msgstr ""
-"710\n"
-"이 사람이랑,"
 
-#. ID 80, Page 1, Line 107, Pos (38,65)
+#. ID 80, Page 1, Line 81, Pos (37,65)
 msgid ""
 "710\n"
-"こいつも好きだし、"
+"あっ、はいはい。"
 msgstr ""
-"710\n"
-"얘도 좋아하고,"
 
-#. ID 80, Page 1, Line 111, Pos (38,65)
+#. ID 80, Page 1, Line 83, Pos (37,65)
 msgid ""
 "710\n"
-"こいつも好き"
+"えーっと、私は確か2008/12/21に\n"
+"製作スレに書き込んで参加しました。"
 msgstr ""
-"710\n"
-"얘도 좋아합니다."
 
-#. ID 80, Page 1, Line 117, Pos (38,65)
+#. ID 80, Page 1, Line 86, Pos (37,65)
 msgid ""
 "710\n"
-"好きなBGMはメルヘン世界と遊園地のピエロのとこ。\n"
-"好きなエフェクトははにわとポリゴン。\n"
-"好きなミニゲームはFUJI。"
+"710レス目に初カキコしたので、\n"
+"710という名前になりました。"
 msgstr ""
-"710\n"
-"좋아하는 BGM은 hi(Theatre World)랑 \n"
-"Camellia-themepark\n"
-"(Underwater Amusement Park).\n"
-"<easyrpg:new_page>\n"
-"710\n"
-"좋아하는 이펙트는 하니와랑 폴리곤.\n"
-"좋아하는 미니게임은 FUJI."
 
-#. ID 80, Page 1, Line 121, Pos (38,65)
-msgid "以上です。"
-msgstr "이상입니다."
-
-#. ID 80, Page 1, Line 128, Pos (38,65)
-#. ID 80, Page 1, Line 138, Pos (38,65)
-#. ID 80, Page 2, Line 20, Pos (38,65)
+#. ID 80, Page 1, Line 89, Pos (37,65)
 msgid ""
 "710\n"
-"すいません。"
+"納豆が好きだから～というわけではありません。\n"
+"いや、納豆は好きな方なんですけどね。"
 msgstr ""
-"710\n"
-"죄송합니다."
 
-#. ID 80, Page 1, Line 134, Pos (38,65)
+#. ID 80, Page 1, Line 92, Pos (37,65)
 msgid ""
 "710\n"
-"あっ、はい。"
+"参加しはじめた当時はなんと中学生でした。"
 msgstr ""
-"710\n"
-"앗, 네."
 
-#. ID 80, Page 1, Line 145, Pos (38,65)
+#. ID 80, Page 1, Line 94, Pos (37,65)
 msgid ""
 "710\n"
-"あっ、どうも710と申します。"
+"今でも学生の参加者さんはチラホラ見られますが、\n"
+"当時中学生で2chの他人数ツクールゲーに参加したのは"
 msgstr ""
-"710\n"
-"앗, 안녕하세요, 710이라고 합니다."
 
-#. ID 80, Page 1, Line 147, Pos (38,65)
+#. ID 80, Page 1, Line 97, Pos (37,65)
 msgid ""
 "710\n"
-"まずは、どうもすみません。"
+"結構思い切ってたなぁとは思ってます。"
 msgstr ""
-"710\n"
-"우선, 정말 죄송합니다."
 
-#. ID 80, Page 1, Line 149, Pos (38,65)
+#. ID 80, Page 1, Line 99, Pos (37,65)
 msgid ""
 "710\n"
-"私は確か2008/12/21にスレに書き込んで、\n"
-"『ゆめ2っき』の製作をだらだらしていました。"
+"最初に参加した当時はセンスやドットも\n"
+"まー見れたもんじゃなく、"
 msgstr ""
-"710\n"
-"전 확실히 2008/12/21에 스레드 작성을 시작해서.\n"
-"[유메2키] 제작을 질질 끌어버렸습니다."
 
-#. ID 80, Page 1, Line 152, Pos (38,65)
+#. ID 80, Page 1, Line 102, Pos (37,65)
 msgid ""
 "710\n"
-"はじめた当時は中学生でしたが、\n"
-"今現在これを書いている2018年現在では…"
+"不特定多数の名無しさん方から\n"
+"べらぼうに叩かれていたような覚えがあります。"
 msgstr ""
-"710\n"
-"처음 시작했을 때는 중학생이었는데,\n"
-"현재 이 글을 쓰고 있는 2018년에는..."
 
-#. ID 80, Page 1, Line 155, Pos (38,65)
+#. ID 80, Page 1, Line 105, Pos (37,65)
 msgid ""
 "710\n"
-"社会人になってしまいました。"
+"そっからというもの\n"
+"良いものを作るために何でもやりました。"
 msgstr ""
-"710\n"
-"사회인이 되어 버렸습니다."
 
-#. ID 80, Page 1, Line 157, Pos (38,65)
+#. ID 80, Page 1, Line 108, Pos (37,65)
 msgid ""
 "710\n"
-"月日の経つのは早いもんですな…。"
+"解析したりドットは模写しましたし、\n"
+"実況見てプレイヤーの動き方を研究したり"
 msgstr ""
-"710\n"
-"세월은 참 빠르네요..."
 
-#. ID 80, Page 1, Line 159, Pos (38,65)
+#. ID 80, Page 1, Line 111, Pos (37,65)
+msgid ""
+"710\n"
+"学生時代に実際に夢日記を書いてみたり\n"
+"夢に関する文献を調べて取り入れてみたり"
+msgstr ""
+
+#. ID 80, Page 1, Line 114, Pos (37,65)
+msgid ""
+"710\n"
+"製作しながらニコ生の配信やって\n"
+"色んな人の意見聞いたり等々…"
+msgstr ""
+
+#. ID 80, Page 1, Line 117, Pos (37,65)
+msgid ""
+"710\n"
+"そして、この製作者の部屋に\n"
+"初めて自分を設置した2018年では…"
+msgstr ""
+
+#. ID 80, Page 1, Line 120, Pos (37,65)
+msgid ""
+"710\n"
+"なんと社会人になってしまいました。"
+msgstr ""
+
+#. ID 80, Page 1, Line 122, Pos (37,65)
+msgid ""
+"710\n"
+"月日が経つのは早いもんですな…。"
+msgstr ""
+
+#. ID 80, Page 1, Line 124, Pos (37,65)
+msgid ""
+"710\n"
+"そこでまー忙しくなってきちゃいまして\n"
+"良い区切りだったのもあり、一度制作を畳みましたが"
+msgstr ""
+
+#. ID 80, Page 1, Line 127, Pos (37,65)
+msgid ""
+"710\n"
+"リアルの仕事をしていた数年間で\n"
+"『YNO』というオンラインサービスが立ち上がり、"
+msgstr ""
+
+#. ID 80, Page 1, Line 130, Pos (37,65)
+msgid ""
+"710\n"
+"学生時代に制作していた世界群が\n"
+"色々な人に見てもらえることになりました。"
+msgstr ""
+
+#. ID 80, Page 1, Line 133, Pos (37,65)
+msgid ""
+"710\n"
+"昔はニコニコ動画の実況動画か\n"
+"Twitterの投稿くらいしか反応は探れなかったので"
+msgstr ""
+
+#. ID 80, Page 1, Line 136, Pos (37,65)
+msgid ""
+"710\n"
+"wikiやDiscord、各位配信等で\n"
+"反応が確認できるようになったのは"
+msgstr ""
+
+#. ID 80, Page 1, Line 139, Pos (37,65)
+msgid ""
+"710\n"
+"良い時代になったな～と思ってます。"
+msgstr ""
+
+#. ID 80, Page 1, Line 141, Pos (37,65)
+msgid ""
+"710\n"
+"そんでもって、色々見てるうちに粗が見つかって\n"
+"2024年現在やり残したことも含めて修正したいと思い"
+msgstr ""
+
+#. ID 80, Page 1, Line 144, Pos (37,65)
+msgid ""
+"710\n"
+"今に至ります。"
+msgstr ""
+
+#. ID 80, Page 1, Line 146, Pos (37,65)
+msgid ""
+"710\n"
+"気づいたら、現存してる方の中では\n"
+"なんとかなりの最古参になっちゃいました。"
+msgstr ""
+
+#. ID 80, Page 1, Line 149, Pos (37,65)
+msgid ""
+"710\n"
+"更新は前回で最期だと思っていたのですが、"
+msgstr ""
+
+#. ID 80, Page 1, Line 151, Pos (37,65)
+msgid ""
+"710\n"
+"次はあるのでしょうか。"
+msgstr ""
+
+#. ID 80, Page 1, Line 153, Pos (37,65)
 msgid ""
 "710\n"
 "うーん。"
@@ -3500,82 +3550,197 @@ msgstr ""
 "710\n"
 "음."
 
-#. ID 80, Page 1, Line 161, Pos (38,65)
+#. ID 80, Page 1, Line 155, Pos (37,65)
 msgid ""
 "710\n"
-"まぁ、これからも楽しんでいってください。"
+"まぁまぁ、\n"
+"これからも是非是非楽しんでいってください。"
 msgstr ""
-"710\n"
-"뭐, 앞으로도 즐겨주세요."
 
-#. ID 80, Page 1, Line 169, Pos (38,65)
+#. ID 80, Page 1, Line 164, Pos (37,65)
+#. ID 80, Page 1, Line 262, Pos (37,65)
 msgid ""
 "710\n"
-"。。。"
+"すいません。"
 msgstr ""
 "710\n"
-"..."
+"죄송합니다."
 
-#. ID 80, Page 1, Line 174, Pos (38,65)
-msgid "710"
-msgstr "710"
-
-#. ID 80, Page 2, Line 4, Pos (38,65)
+#. ID 80, Page 1, Line 170, Pos (37,65)
 msgid ""
 "710\n"
-"なにか？"
+"あっ、はい。"
 msgstr ""
 "710\n"
-"무슨 용무라도?"
+"앗, 네."
 
-#. ID 80, Page 2, Line 9, Pos (38,65)
-#. Contains choice at line 3 (2 options)
+#. ID 80, Page 1, Line 172, Pos (37,65)
 msgid ""
 "710\n"
-"とびます？"
+"うーん、こういうのとかどうすか。"
 msgstr ""
-"710\n"
-"이동할까요?"
 
-#. ID 80, Page 2, Line 27, Pos (38,65)
-#. Contains choice at line 2 (2 options)
-msgid "私的デバックルームとか見たい？"
-msgstr "제가 쓰는 디버그 룸을 보고 싶나요?"
-
-#. ID 80, Page 2, Line 30, Pos (38,65)
+#. ID 80, Page 1, Line 207, Pos (37,65)
 msgid ""
 "710\n"
-"あなたなら探し当てられるでしょう。"
+"どうすか？このキャラちょっと好きなのよね。"
 msgstr ""
-"710\n"
-"당신이라면 찾아낼 수 있겠지요."
 
-#. ID 80, Page 2, Line 40, Pos (38,65)
+#. ID 80, Page 1, Line 211, Pos (37,65)
 msgid ""
 "710\n"
-"しっとりぴちぴち。"
+"えっ。"
 msgstr ""
-"710\n"
-"촉촉 파닥파닥."
 
-#. ID 80, Page 2, Line 56, Pos (38,65)
+#. ID 80, Page 1, Line 213, Pos (37,65)
 msgid ""
 "710\n"
-"F9とかしてスイッチいじったでしょ。\n"
-"なかなかやりますね。"
+"ほんまでっか。"
+msgstr ""
+
+#. ID 80, Page 1, Line 215, Pos (37,65)
+msgid ""
+"710\n"
+"いやぁ。。。"
+msgstr ""
+
+#. ID 80, Page 1, Line 217, Pos (37,65)
+msgid ""
+"710\n"
+"たぶん皆さんこういう質問には\n"
+"肯定的な意見が多いと思うので、"
+msgstr ""
+
+#. ID 80, Page 1, Line 220, Pos (37,65)
+msgid ""
+"710\n"
+"せっかくなので、厳しめな意見を少し…。"
+msgstr ""
+
+#. ID 80, Page 1, Line 222, Pos (37,65)
+msgid ""
+"710\n"
+"ちょっとした素材を提供したいくらいだったら\n"
+"全然宜しいとは思うんですけども、"
+msgstr ""
+
+#. ID 80, Page 1, Line 225, Pos (37,65)
+msgid ""
+"710\n"
+"例えば世界を丸ごと作りたいとか\n"
+"それこそツクラーとして参加したいとか"
+msgstr ""
+
+#. ID 80, Page 1, Line 228, Pos (37,65)
+msgid ""
+"710\n"
+"ゆめ2っきと関わる比重が大きければ大きいほど"
+msgstr ""
+
+#. ID 80, Page 1, Line 230, Pos (37,65)
+msgid ""
+"710\n"
+"きちんと考えてから行動すべきだと思います。"
+msgstr ""
+
+#. ID 80, Page 1, Line 232, Pos (37,65)
+msgid ""
+"710\n"
+"少なくとも私が大事だと思ってるのは、"
+msgstr ""
+
+#. ID 80, Page 1, Line 234, Pos (37,65)
+msgid ""
+"710\n"
+"ちゃんとゆめにっきを自分でプレイして研究するのと、"
+msgstr ""
+
+#. ID 80, Page 1, Line 236, Pos (37,65)
+msgid ""
+"710\n"
+"叩かれてもへこたれないかってことかと思ってます。"
+msgstr ""
+
+#. ID 80, Page 1, Line 238, Pos (37,65)
+msgid ""
+"710\n"
+"あと、日本語は話せるか\n"
+"最低限読めるようになったほうが良いとは思います。"
+msgstr ""
+
+#. ID 80, Page 1, Line 241, Pos (37,65)
+msgid ""
+"710\n"
+"言語的な意味もですが、多人数製作なので\n"
+"意思疎通ができないと正直厳しいとは思います。"
+msgstr ""
+
+#. ID 80, Page 1, Line 244, Pos (37,65)
+msgid ""
+"710\n"
+"あとは多様なゆめにっきっぽい世界に対して\n"
+"すべてに許容とまではいかなくても"
+msgstr ""
+
+#. ID 80, Page 1, Line 247, Pos (37,65)
+msgid ""
+"710\n"
+"気に入らないものがあっても\n"
+"我慢できるかというところですかね。。。"
+msgstr ""
+
+#. ID 80, Page 1, Line 250, Pos (37,65)
+msgid ""
+"710\n"
+"とはいえ、参加するからにはDiscord等で\n"
+"サポートはしてもらえると思うので、"
+msgstr ""
+
+#. ID 80, Page 1, Line 253, Pos (37,65)
+msgid ""
+"710\n"
+"困ったことや不安なことがあれば、\n"
+"各所へ相談してもらえればと思います。"
+msgstr ""
+
+#. ID 80, Page 1, Line 256, Pos (37,65)
+msgid ""
+"710\n"
+"チームで製作をする以上、報連相は大事ですよ！"
+msgstr ""
+
+#. ID 80, Page 1, Line 260, Pos (37,65)
+msgid ""
+"710\n"
+"あ"
+msgstr ""
+
+#. ID 80, Page 1, Line 269, Pos (37,65)
+msgid ""
+"710\n"
+"あっ、どうも710と申します。"
 msgstr ""
 "710\n"
-"F9키를 눌러서 스위치를 건드렸지 않았습니까.\n"
-"꽤 하시네요."
+"앗, 안녕하세요, 710이라고 합니다."
 
-#. ID 80, Page 3, Line 1, Pos (38,65)
+#. ID 80, Page 1, Line 271, Pos (37,65)
 msgid ""
-"\n"
-"　　　　　　　　　　　（^ ^）\n"
+"710\n"
+"まずは、どうもすみません。"
 msgstr ""
-"\n"
-"\n"
-"                      ( ^ ^ )\n"
+"710\n"
+"우선, 정말 죄송합니다."
+
+#. ID 80, Page 1, Line 273, Pos (37,65)
+msgid ""
+"710\n"
+"身長がデカすぎるもので、\n"
+"邪魔でしたらホントに申し訳ないです。"
+msgstr ""
+
+#. ID 80, Page 1, Line 281, Pos (37,65)
+msgid "なにか？"
+msgstr ""
 
 #. ID 81, Page 1, Line 1, Pos (56,76)
 msgid "ここは絵師職人様方の部屋です。"
@@ -4479,9 +4644,11 @@ msgstr ""
 msgid ""
 "・・・間違って選択肢選んじゃった人のためにここで\n"
 "選択肢だ！優しいだろう？\n"
+""
 msgstr ""
 "...잘못 선택한 사람을 위해\n"
 "여기서 다시 선택지! 나 착하지?\n"
+""
 
 #. ID 98, Page 1, Line 30, Pos (49,39)
 #. Choice (2 options)
@@ -4629,11 +4796,11 @@ msgstr ""
 msgid "デバッグ捨てて探索しろ～～～～～～～～～"
 msgstr "디버그 해제하고 탐색해~~~~~~~~~"
 
-#. ID 99, Page 2, Line 1, Pos (40,52)
+#. ID 99, Page 2, Line 1, Pos (82,84)
 msgid "\\s[3]やっとここに来たな、うろつき。"
 msgstr "\\s[3]잘도 여기까지 왔구나, 우로츠키."
 
-#. ID 99, Page 2, Line 2, Pos (40,52)
+#. ID 99, Page 2, Line 2, Pos (82,84)
 msgid ""
 "\\s[3]今までたくさんのことを見たうちに、 \n"
 "お前は何か感じたことはなかったのか。"
@@ -4641,7 +4808,7 @@ msgstr ""
 "\\s[3]넌 지금까지 많은 것들을 보면서\n"
 "뭔가 느낀게 없었나."
 
-#. ID 99, Page 2, Line 4, Pos (40,52)
+#. ID 99, Page 2, Line 4, Pos (82,84)
 msgid ""
 "\\s[3]内面で自分自身が\n"
 "多かったようだっただろう？"
@@ -4649,11 +4816,11 @@ msgstr ""
 "\\s[3]내면에 자기 자신이\n"
 "많았었지 않았나?"
 
-#. ID 99, Page 2, Line 6, Pos (40,52)
+#. ID 99, Page 2, Line 6, Pos (82,84)
 msgid "\\s[3]そう、お前の正体は。。。"
 msgstr "\\s[3]그래, 너의 정체는..."
 
-#. ID 99, Page 2, Line 9, Pos (40,52)
+#. ID 99, Page 2, Line 9, Pos (82,84)
 msgid ""
 "いや、今更特に必要のない話だろう。\n"
 "もう答えを知っているからさ。"
@@ -4661,11 +4828,11 @@ msgstr ""
 "아니, 새삼스럽게 구태여 말할 필요가 없는\n"
 "이야기이겠지. 이미 답을 알고 있을테니."
 
-#. ID 99, Page 2, Line 13, Pos (40,52)
+#. ID 99, Page 2, Line 13, Pos (82,84)
 msgid "Nulsdodageです。よろしくお願いしますよ。"
 msgstr "Nulsdodage입니다. 잘 부탁드려요."
 
-#. ID 99, Page 2, Line 14, Pos (40,52)
+#. ID 99, Page 2, Line 14, Pos (82,84)
 msgid ""
 "ここまで来てくださって、ご苦労さまでした。\n"
 "夢はいいぞ。"
@@ -4673,11 +4840,11 @@ msgstr ""
 "여기까지 오느라 수고하셨습니다.\n"
 "꿈은 좋아."
 
-#. ID 99, Page 2, Line 16, Pos (40,52)
+#. ID 99, Page 2, Line 16, Pos (82,84)
 msgid "さって、何が気になりますか？"
 msgstr "그래서, 어떤 게 궁금하신가요?"
 
-#. ID 99, Page 2, Line 18, Pos (40,52)
+#. ID 99, Page 2, Line 18, Pos (82,84)
 #. Choice (4 options)
 msgid ""
 "お前は何者だ\n"
@@ -4690,7 +4857,7 @@ msgstr ""
 "왜 만들었냐\n"
 "->"
 
-#. ID 99, Page 2, Line 20, Pos (40,52)
+#. ID 99, Page 2, Line 20, Pos (82,84)
 msgid ""
 "私について知りたいことですね。\n"
 "分かりました。"
@@ -4698,11 +4865,11 @@ msgstr ""
 "저에 대해서 알고 싶으신가 보군요.\n"
 "알겠습니다."
 
-#. ID 99, Page 2, Line 22, Pos (40,52)
+#. ID 99, Page 2, Line 22, Pos (82,84)
 msgid "私は0.109cパッチ4から参加しました。"
 msgstr "저는 v0.109c_p4부터 참가했습니다."
 
-#. ID 99, Page 2, Line 23, Pos (40,52)
+#. ID 99, Page 2, Line 23, Pos (82,84)
 msgid ""
 "最初はバグ修正とSR分室\n"
 "アップデートだけして\n"
@@ -4712,7 +4879,7 @@ msgstr ""
 "업데이트만 하고\n"
 "은퇴하려고 했었는데..."
 
-#. ID 99, Page 2, Line 26, Pos (40,52)
+#. ID 99, Page 2, Line 26, Pos (82,84)
 msgid ""
 "なんだかんだで\n"
 "マップと音楽も作るようになりました。"
@@ -4720,7 +4887,7 @@ msgstr ""
 "어쩌다보니까 맵과 음악도\n"
 "만들게 되었습니다."
 
-#. ID 99, Page 2, Line 31, Pos (40,52)
+#. ID 99, Page 2, Line 31, Pos (82,84)
 msgid ""
 "MAP訪問判定チェックシステム、\n"
 "メニュータイプ、マップ、曲、\n"
@@ -4730,11 +4897,11 @@ msgstr ""
 "메뉴 타입, 맵, 음악과\n"
 "효과음을 만들었습니다."
 
-#. ID 99, Page 2, Line 37, Pos (40,52)
+#. ID 99, Page 2, Line 37, Pos (82,84)
 msgid "最初はショートカットを制作する目的でした。"
 msgstr "처음에는 지름길을 만드는 게 목적이었습니다."
 
-#. ID 99, Page 2, Line 38, Pos (40,52)
+#. ID 99, Page 2, Line 38, Pos (82,84)
 msgid ""
 "初めてマップを作ってみたら、\n"
 "興味が湧きました。\n"
@@ -4744,7 +4911,7 @@ msgstr ""
 "흥미가 생기더라고요.\n"
 "그래서 다른 맵들도 만들게 되었습니다."
 
-#. ID 99, Page 2, Line 44, Pos (40,52)
+#. ID 99, Page 2, Line 44, Pos (82,84)
 #. Choice (3 options)
 msgid ""
 "どうでもいいよ。あたしは行くから\n"
@@ -4755,57 +4922,46 @@ msgstr ""
 "궁금한 건 없어.\n"
 "<-"
 
-#. ID 99, Page 2, Line 47, Pos (40,52)
+#. ID 99, Page 2, Line 47, Pos (82,84)
 msgid "ひどいよ。。。"
 msgstr "너무해..."
 
-#. ID 99, Page 2, Line 50, Pos (40,52)
-#. ID 99, Page 2, Line 53, Pos (40,52)
+#. ID 99, Page 2, Line 50, Pos (82,84)
+#. ID 99, Page 2, Line 53, Pos (82,84)
 msgid "まぁ、仕方がないですね。"
 msgstr "뭐, 어쩔 수 없겠지요."
 
-#. ID 99, Page 2, Line 61, Pos (40,52)
+#. ID 99, Page 2, Line 61, Pos (82,84)
 msgid ""
-"今まで本当にありがとうございました。\n"
-"それでは、さようなら。"
+"3年ぶりに帰ってきたんですが、\n"
+"結局やったことは特になかったですね。\n"
+"私の話はここまでです。\n"
+"音楽のコメントは左側の部屋で確認してください。"
 msgstr ""
-"그동안 정말 감사했습니다.\n"
-"그럼, 안녕히."
 
-#. ID 101, Page 3, Line 1, Pos (18,67)
-#. ID 101, Page 4, Line 1, Pos (18,67)
-msgid "\\s[3]やっとここに来たな、うろつ。。。"
-msgstr "\\s[3]여기까지 잘 와줬구나 우로츠..."
-
-#. ID 101, Page 3, Line 3, Pos (18,67)
-#. ID 101, Page 4, Line 3, Pos (18,67)
-msgid "あ、またあなたですか。"
-msgstr "아, 또 당신입니까."
-
-#. ID 101, Page 3, Line 5, Pos (18,67)
-#. ID 101, Page 4, Line 5, Pos (18,67)
+#. ID 101, Page 1, Line 1, Pos (81,84)
 msgid ""
-"なぜ私がここにいるのかと\n"
-"お聞きになりましたか？"
-msgstr "제가 왜 여기에도 있냐고요?"
+"上の部屋にある緑色のキューブと\n"
+"先に声をかけてみ・・・ \n"
+"今は眠いから。"
+msgstr ""
 
-#. ID 101, Page 3, Line 7, Pos (18,67)
-#. ID 101, Page 4, Line 7, Pos (18,67)
-msgid "前にも言ったように、曲も作ったことがあるし。"
-msgstr "전에도 말했듯, 음악도 만들었으니까요."
+#. ID 101, Page 3, Line 2, Pos (81,84)
+msgid ""
+"Nulsdodage\n"
+"\n"
+"私が作った音楽を聞くことができます。"
+msgstr ""
 
-#. ID 101, Page 3, Line 8, Pos (18,67)
-#. ID 101, Page 4, Line 8, Pos (18,67)
-msgid "好きな曲を選んでください。"
-msgstr "그럼, 원하는 음악을 골라주세요."
+#. ID 101, Page 3, Line 5, Pos (81,84)
+msgid "好きな曲を選んでくださいね。"
+msgstr ""
 
-#. ID 101, Page 3, Line 9, Pos (18,67)
+#. ID 101, Page 3, Line 6, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 4, Line 9, Pos (18,67)
+#. ID 101, Page 4, Line 1, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 5, Line 1, Pos (18,67)
-#. Choice (4 options)
-#. ID 101, Page 6, Line 1, Pos (18,67)
+#. ID 101, Page 5, Line 1, Pos (81,84)
 #. Choice (4 options)
 msgid ""
 "Nuls_01-dtslm\n"
@@ -4814,13 +4970,49 @@ msgid ""
 "->"
 msgstr ""
 
-#. ID 101, Page 3, Line 20, Pos (18,67)
+#. ID 101, Page 3, Line 8, Pos (81,84)
+#. ID 101, Page 3, Line 18, Pos (81,84)
+#. ID 101, Page 3, Line 33, Pos (81,84)
+#. ID 101, Page 3, Line 46, Pos (81,84)
+#. ID 101, Page 3, Line 50, Pos (81,84)
+#. ID 101, Page 3, Line 75, Pos (81,84)
+#. ID 101, Page 3, Line 84, Pos (81,84)
+#. ID 101, Page 3, Line 94, Pos (81,84)
+#. ID 101, Page 4, Line 3, Pos (81,84)
+#. ID 101, Page 4, Line 13, Pos (81,84)
+#. ID 101, Page 4, Line 28, Pos (81,84)
+#. ID 101, Page 4, Line 41, Pos (81,84)
+#. ID 101, Page 4, Line 45, Pos (81,84)
+#. ID 101, Page 4, Line 70, Pos (81,84)
+#. ID 101, Page 4, Line 79, Pos (81,84)
+#. ID 101, Page 4, Line 89, Pos (81,84)
+#. ID 101, Page 5, Line 3, Pos (81,84)
+#. ID 101, Page 5, Line 13, Pos (81,84)
+#. ID 101, Page 5, Line 28, Pos (81,84)
+#. ID 101, Page 5, Line 41, Pos (81,84)
+#. ID 101, Page 5, Line 45, Pos (81,84)
+#. ID 101, Page 5, Line 70, Pos (81,84)
+#. ID 101, Page 5, Line 79, Pos (81,84)
+#. ID 101, Page 5, Line 89, Pos (81,84)
+msgid ""
+"この曲は今や引退し、削除されました。 \n"
+"ごめんね！"
+msgstr ""
+
+#. ID 101, Page 3, Line 13, Pos (81,84)
+#. ID 101, Page 4, Line 8, Pos (81,84)
+#. ID 101, Page 5, Line 8, Pos (81,84)
+msgid ""
+"何かチュートリアルに使えそうな感じ。\n"
+"どうしてどこかで\n"
+"聞いたような気がするんだろう・・・"
+msgstr ""
+
+#. ID 101, Page 3, Line 22, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 4, Line 20, Pos (18,67)
+#. ID 101, Page 4, Line 17, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 5, Line 12, Pos (18,67)
-#. Choice (4 options)
-#. ID 101, Page 6, Line 12, Pos (18,67)
+#. ID 101, Page 5, Line 17, Pos (81,84)
 #. Choice (4 options)
 msgid ""
 "Nuls_04-dgtmn\n"
@@ -4829,13 +5021,25 @@ msgid ""
 "->"
 msgstr ""
 
-#. ID 101, Page 3, Line 31, Pos (18,67)
+#. ID 101, Page 3, Line 25, Pos (81,84)
+#. ID 101, Page 4, Line 20, Pos (81,84)
+#. ID 101, Page 5, Line 20, Pos (81,84)
+msgid ""
+"カスタムメニュー専用の曲を作ろうとしましたが、\n"
+"結局その悲願は達成されませんでした。 "
+msgstr ""
+
+#. ID 101, Page 3, Line 30, Pos (81,84)
+#. ID 101, Page 4, Line 25, Pos (81,84)
+#. ID 101, Page 5, Line 25, Pos (81,84)
+msgid "散れ、ノイズ！"
+msgstr ""
+
+#. ID 101, Page 3, Line 37, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 4, Line 31, Pos (18,67)
+#. ID 101, Page 4, Line 32, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 5, Line 23, Pos (18,67)
-#. Choice (4 options)
-#. ID 101, Page 6, Line 23, Pos (18,67)
+#. ID 101, Page 5, Line 32, Pos (81,84)
 #. Choice (4 options)
 msgid ""
 "Nuls_08-Dtdbr\n"
@@ -4844,13 +5048,21 @@ msgid ""
 "->"
 msgstr ""
 
-#. ID 101, Page 3, Line 42, Pos (18,67)
+#. ID 101, Page 3, Line 40, Pos (81,84)
+#. ID 101, Page 4, Line 35, Pos (81,84)
+#. ID 101, Page 5, Line 35, Pos (81,84)
+msgid ""
+"個人的に最も満足できる結果物。\n"
+"満、満、満足、一本満足~\n"
+"\n"
+"曲"
+msgstr ""
+
+#. ID 101, Page 3, Line 54, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 4, Line 42, Pos (18,67)
+#. ID 101, Page 4, Line 49, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 5, Line 34, Pos (18,67)
-#. Choice (4 options)
-#. ID 101, Page 6, Line 34, Pos (18,67)
+#. ID 101, Page 5, Line 49, Pos (81,84)
 #. Choice (4 options)
 msgid ""
 "nuls_10_Coup_de_Grace(tunnel)\n"
@@ -4859,13 +5071,36 @@ msgid ""
 "->"
 msgstr ""
 
-#. ID 101, Page 3, Line 53, Pos (18,67)
+#. ID 101, Page 3, Line 57, Pos (81,84)
+#. ID 101, Page 4, Line 52, Pos (81,84)
+#. ID 101, Page 5, Line 52, Pos (81,84)
+msgid "NKT..."
+msgstr ""
+
+#. ID 101, Page 3, Line 61, Pos (81,84)
+#. ID 101, Page 4, Line 56, Pos (81,84)
+#. ID 101, Page 5, Line 56, Pos (81,84)
+msgid ""
+"ここからそろそろ曲の\n"
+"転換点かな・・・\n"
+"実はこの曲は密かにアップデートされた曲です。\n"
+"データストリーム4周年記念"
+msgstr ""
+
+#. ID 101, Page 3, Line 68, Pos (81,84)
+#. ID 101, Page 4, Line 63, Pos (81,84)
+#. ID 101, Page 5, Line 63, Pos (81,84)
+msgid ""
+"話を書こうとしたが、時間がなくて...\n"
+"次のアップデートで会いましょう\n"
+"(多分違うと思う)"
+msgstr ""
+
+#. ID 101, Page 3, Line 73, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 4, Line 53, Pos (18,67)
+#. ID 101, Page 4, Line 68, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 5, Line 45, Pos (18,67)
-#. Choice (4 options)
-#. ID 101, Page 6, Line 45, Pos (18,67)
+#. ID 101, Page 5, Line 68, Pos (81,84)
 #. Choice (4 options)
 msgid ""
 "nuls_xx_Coup_de_Grace\n"
@@ -4874,20 +5109,19 @@ msgid ""
 "->"
 msgstr ""
 
-#. ID 101, Page 3, Line 64, Pos (18,67)
-#. Choice (4 options)
+#. ID 101, Page 3, Line 80, Pos (81,84)
+#. ID 101, Page 4, Line 75, Pos (81,84)
+#. ID 101, Page 5, Line 75, Pos (81,84)
 msgid ""
-"Nuls_xx_lastwave_reduced\n"
-"Nuls_xx_Town\n"
-"Nuls_xx_town_retro\n"
-"X"
+"kake氏が使う予定だと言ったので\n"
+"残しておきました。"
 msgstr ""
 
-#. ID 101, Page 4, Line 64, Pos (18,67)
+#. ID 101, Page 3, Line 88, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 5, Line 56, Pos (18,67)
+#. ID 101, Page 4, Line 83, Pos (81,84)
 #. Choice (4 options)
-#. ID 101, Page 6, Line 56, Pos (18,67)
+#. ID 101, Page 5, Line 83, Pos (81,84)
 #. Choice (4 options)
 msgid ""
 "Nuls_xx_lastwave_reduced\n"
@@ -4896,16 +5130,122 @@ msgid ""
 "->"
 msgstr ""
 
-#. ID 101, Page 4, Line 75, Pos (18,67)
-#. Choice (3 options)
-#. ID 101, Page 5, Line 67, Pos (18,67)
-#. Choice (3 options)
-#. ID 101, Page 6, Line 67, Pos (18,67)
-#. Choice (3 options)
+#. ID 101, Page 3, Line 91, Pos (81,84)
+#. ID 101, Page 4, Line 86, Pos (81,84)
+#. ID 101, Page 5, Line 86, Pos (81,84)
+msgid "青い石男のあれかよ..."
+msgstr ""
+
+#. ID 101, Page 3, Line 99, Pos (81,84)
+#. ID 101, Page 4, Line 94, Pos (81,84)
+#. ID 101, Page 5, Line 94, Pos (81,84)
 msgid ""
-"Nuls_09_Data_Tech\n"
-"Nuls_Commentary_Version_2\n"
-"X"
+"村を作るという感じで作ったが、\n"
+"村なんてなかった\n"
+"\n"
+"なぜ作った"
+msgstr ""
+
+#. ID 101, Page 3, Line 105, Pos (81,84)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 100, Pos (81,84)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 100, Pos (81,84)
+#. Choice (4 options)
+msgid ""
+"Nuls_xx_town_Retro(Alt2)\n"
+"Nuls_SE_EXPlosion\n"
+"Nuls_18_Munch\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 108, Pos (81,84)
+#. ID 101, Page 4, Line 103, Pos (81,84)
+#. ID 101, Page 5, Line 103, Pos (81,84)
+msgid "2024年にリマスターしました。"
+msgstr ""
+
+#. ID 101, Page 3, Line 112, Pos (81,84)
+#. ID 101, Page 4, Line 107, Pos (81,84)
+#. ID 101, Page 5, Line 107, Pos (81,84)
+msgid "こんなの曲じゃない！効果音だよ！！"
+msgstr ""
+
+#. ID 101, Page 3, Line 116, Pos (81,84)
+#. ID 101, Page 4, Line 111, Pos (81,84)
+#. ID 101, Page 5, Line 111, Pos (81,84)
+msgid "今日は休め"
+msgstr ""
+
+#. ID 101, Page 3, Line 119, Pos (81,84)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 114, Pos (81,84)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 114, Pos (81,84)
+#. Choice (4 options)
+msgid ""
+"Nuls_17_Optimism\n"
+"Nuls_17a_Optimism-Alt\n"
+"Nuls_19_Coup_de_Grace_Again\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 122, Pos (81,84)
+#. ID 101, Page 4, Line 117, Pos (81,84)
+#. ID 101, Page 5, Line 117, Pos (81,84)
+msgid "どこかに幸せはあるだろう・・・"
+msgstr ""
+
+#. ID 101, Page 3, Line 126, Pos (81,84)
+#. ID 101, Page 4, Line 121, Pos (81,84)
+#. ID 101, Page 5, Line 121, Pos (81,84)
+msgid "どちらがもっと好きですか？"
+msgstr ""
+
+#. ID 101, Page 3, Line 130, Pos (81,84)
+#. ID 101, Page 4, Line 125, Pos (81,84)
+#. ID 101, Page 5, Line 125, Pos (81,84)
+msgid ""
+"2024年に戻ってきた記念\n"
+"決着を...つけられなかった！"
+msgstr ""
+
+#. ID 101, Page 3, Line 134, Pos (81,84)
+#. Choice (4 options)
+#. ID 101, Page 4, Line 129, Pos (81,84)
+#. Choice (4 options)
+#. ID 101, Page 5, Line 129, Pos (81,84)
+#. Choice (4 options)
+msgid ""
+"Nuls_19b_Coup_de_Grace_Again(Ret\n"
+"Nuls_20b_Repair_Bay\n"
+"Nuls_21a_Milestone_Retro\n"
+"->"
+msgstr ""
+
+#. ID 101, Page 3, Line 137, Pos (81,84)
+#. ID 101, Page 4, Line 132, Pos (81,84)
+#. ID 101, Page 5, Line 132, Pos (81,84)
+msgid ""
+"SRaでも余白がなかったのに、\n"
+"ここにもなかったのか！\n"
+"\n"
+"アダジオはまったくなかった"
+msgstr ""
+
+#. ID 101, Page 3, Line 144, Pos (81,84)
+#. ID 101, Page 4, Line 139, Pos (81,84)
+#. ID 101, Page 5, Line 139, Pos (81,84)
+msgid "データストリームのDLCか何か？"
+msgstr ""
+
+#. ID 101, Page 3, Line 148, Pos (81,84)
+#. ID 101, Page 4, Line 143, Pos (81,84)
+#. ID 101, Page 5, Line 143, Pos (81,84)
+msgid ""
+"未使用曲。\n"
+"GBトンネルに書こうとしたが、\n"
+"時間がなかった"
 msgstr ""
 
 #. ID 102, Page 1, Line 2, Pos (52,58)
@@ -4947,9 +5287,11 @@ msgstr ""
 msgid ""
 "ゆめ２っきとはかなり長い付き合いで、\n"
 "まだverが0.1になる前からプレイしていました。\n"
+""
 msgstr ""
 "유메2키는 오랜 시간동안 알고 지냈고,\n"
 "아직 v0.100이 되기 전부터 플레이했었습니다. \n"
+""
 
 #. ID 102, Page 1, Line 17, Pos (52,58)
 msgid ""
@@ -5022,21 +5364,46 @@ msgstr "(알만툴 초보자라... 죄송합니다)"
 msgid "では、さようなら。"
 msgstr "그럼, 안녕히."
 
-#. ID 103, Page 1, Line 1, Pos (53,50)
-msgid "どうも、Kontentsuです"
-msgstr "안녕하세요, Kontentsu입니다."
-
-#. ID 103, Page 1, Line 2, Pos (53,50)
-msgid "目になりました。"
-msgstr "눈이 되었습니다."
-
-#. ID 103, Page 1, Line 3, Pos (53,50)
-msgid ""
-"よくここまで来た！えらいぞ\n"
-" (K -△-)"
+#. ID 103, Page 1, Line 1, Pos (53,51)
+msgid "どうも、Kontentsuです。"
 msgstr ""
-"여기까지 잘 오셨습니다! 대단하네\n"
-"  (K -△-)"
+
+#. ID 103, Page 1, Line 2, Pos (53,51)
+msgid "くにゃげになりました。"
+msgstr ""
+
+#. ID 103, Page 1, Line 3, Pos (53,51)
+msgid ""
+"何か聞きたいことはありますか？\n"
+"キーボードに記入してみてください。\n"
+""
+msgstr ""
+
+#. ID 103, Page 1, Line 6, Pos (53,51)
+msgid "(K -△-)　記入タイム・"
+msgstr ""
+
+#. ID 103, Page 1, Line 7, Pos (53,51)
+msgid "(K- △-)　記入タイム・・"
+msgstr ""
+
+#. ID 103, Page 1, Line 8, Pos (53,51)
+msgid "(K -△-)　記入タイム・・・"
+msgstr ""
+
+#. ID 103, Page 1, Line 9, Pos (53,51)
+msgid ""
+"ありがとうございます。\n"
+"これからも良い夢を。"
+msgstr ""
+
+#. ID 104, Page 1, Line 8, Pos (53,54)
+msgid "夢のまた夢、見果てぬ夢たちへ"
+msgstr ""
+
+#. ID 104, Page 1, Line 9, Pos (53,54)
+msgid "またこれからも　良い夢を"
+msgstr ""
 
 #. ID 105, Page 1, Line 1, Pos (38,61)
 msgid ""
@@ -5361,7 +5728,7 @@ msgstr ""
 msgid "それじゃ、またね。がおぉー！"
 msgstr "그럼 다음에 봐요. 가오-!"
 
-#. ID 110, Page 1, Line 6, Pos (53,31)
+#. ID 110, Page 1, Line 9, Pos (53,31)
 msgid ""
 "ひそっと、ぷにっと、おじゃまっぷ。v(0 0)v\n"
 "どうも、maptsuki(まっぷつき)でございまっぷ。\n"
@@ -5373,20 +5740,16 @@ msgstr ""
 "처음 뵙겠습니다? 아니면, 늘 신세지고 있습니다?\n"
 "(이 다음에, 이야기 주제에 대한 선택지가 나옵니다)"
 
-#. ID 110, Page 1, Line 11, Pos (53,31)
+#. ID 110, Page 1, Line 14, Pos (53,31)
 #. Choice (4 options)
 msgid ""
 "何をされている方なの？\n"
 "maptsuki更新の歩み\n"
-"プチらんだむ雑談ガチャ(全24種)\n"
+"プチらんだむ小話ガチャ(全30種)\n"
 "さようなら～"
 msgstr ""
-"뭘 하고 있는 사람인지?\n"
-"maptsuki 업데이트 역사\n"
-"쁘띠 랜덤 코멘터리 뽑기(총 24종)\n"
-"잘 있어~"
 
-#. ID 110, Page 1, Line 13, Pos (53,31)
+#. ID 110, Page 1, Line 16, Pos (53,31)
 msgid ""
 "しがない夢先案内人、maptsuki(まっぷつき)です。\n"
 "私は2019年にver0.110aの更新で制作に参加しました。\n"
@@ -5401,7 +5764,7 @@ msgstr ""
 "그림도 그려서, 다른 분들께서 그 일부를\n"
 "게임 내에 구현해 주셨습니다. 고맙습니다."
 
-#. ID 110, Page 1, Line 17, Pos (53,31)
+#. ID 110, Page 1, Line 20, Pos (53,31)
 msgid ""
 "実は制作以外の面でも、ゆめ２っきに関わっていて…\n"
 "マップ紹介やちょっとした企画など活発に行っていた\n"
@@ -5416,7 +5779,7 @@ msgstr ""
 "생방송 시청 및 참가를 좋아하는 등, \n"
 "다방면으로 살펴보고 있습니다."
 
-#. ID 110, Page 1, Line 21, Pos (53,31)
+#. ID 110, Page 1, Line 24, Pos (53,31)
 msgid ""
 "豊富な収集要素のコンプリートを目指すもよし。\n"
 "お気に入りの世界を見つけて入り浸るもよし。\n"
@@ -5430,19 +5793,23 @@ msgstr ""
 "앞으로도 발전해 나갔으면 좋겠네'라고 \n"
 "간절히 바라고 있습니다."
 
-#. ID 110, Page 1, Line 25, Pos (53,31)
+#. ID 110, Page 1, Line 28, Pos (53,31)
 msgid ""
 "一応ツクラーではありますが、主にプレイヤーとして\n"
 "２っきを楽しんでいる面が強いです。見かけた時には\n"
 "どうぞよろしくお願いします。かしこ。\n"
-"　　　　　　　　　　　　　          2023/09/20 記"
+"　　　　　　　　　　　　　#{  2023/09/20 記"
 msgstr ""
-"일단 알만툴 유저이긴 하지만, 주로 플레이어로서\n"
-"2키를 즐기는 쪽이 더 주됩니다. 혹시 절 찾으시면\n"
-"잘 부탁드리겠습니다. 이만 실례하겠습니다.\n"
-"                                  2023/09/20 작성"
 
 #. ID 110, Page 1, Line 32, Pos (53,31)
+msgid ""
+"… … … もしかして、ゆめ２っき配信されてますか？\n"
+"そうであれば、ここに辿り着くまでに一度くらいは\n"
+"画面越しに会ってるかな～？と思うのですが、いかが\n"
+"でしょうか？「No」なら私のサーチ力、まだまだです。"
+msgstr ""
+
+#. ID 110, Page 1, Line 39, Pos (53,31)
 msgid ""
 "ここでは備忘を兼ねまして、maptsukiが更新したverと\n"
 "その更新日、主な更新内容について紹介していきます。\n"
@@ -5456,7 +5823,7 @@ msgstr ""
 "<easyrpg:new_page>\n"
 "저와 같이 업데이트 역사를 돌아봅시다."
 
-#. ID 110, Page 1, Line 36, Pos (53,31)
+#. ID 110, Page 1, Line 43, Pos (53,31)
 msgid ""
 "2019/11/02　ver0.110a\n"
 "ver0.110→ver0.110aがmaptsukiの初更新でした。\n"
@@ -5471,7 +5838,7 @@ msgstr ""
 "<Shadowy Caves>, <Guardians' Temple>을\n"
 "추가했습니다."
 
-#. ID 110, Page 1, Line 40, Pos (53,31)
+#. ID 110, Page 1, Line 47, Pos (53,31)
 msgid ""
 "2020/01/04　ver0.110i\n"
 "《隠墟祠》を追加しました。(MAP到達率に影響ナシ)\n"
@@ -5483,7 +5850,7 @@ msgstr ""
 "이 업데이트 이후, <Guardians' Temple>의\n"
 "특정 이벤트를 여러번 볼 수 있게 되었습니다."
 
-#. ID 110, Page 1, Line 44, Pos (53,31)
+#. ID 110, Page 1, Line 51, Pos (53,31)
 msgid ""
 "2021/02/14　ver0.115c\n"
 "ぷに変身(いわゆる「お面」)イベントを追加しました。\n"
@@ -5495,7 +5862,7 @@ msgstr ""
 "YNO 유메2키에선, 지금도 가끔 변신하는\n"
 "플레이어를 볼 수 있겠네요. (0 0)<- 이런 거."
 
-#. ID 110, Page 1, Line 48, Pos (53,31)
+#. ID 110, Page 1, Line 55, Pos (53,31)
 msgid ""
 "2021/03/21　ver0.115g\n"
 "《オメデ塔》《オヤスミナ賽》《サヨウ奈落》、\n"
@@ -5510,7 +5877,7 @@ msgstr ""
 "<Sacred Crypt>가 추가되었습니다.\n"
 "(<Sacred Crypt>는 맵 달성도 제외)"
 
-#. ID 110, Page 1, Line 52, Pos (53,31)
+#. ID 110, Page 1, Line 59, Pos (53,31)
 msgid ""
 "2022/06/21　ver0.119\n"
 "《文霧》《音呼鋸》《バターレイン》《クスリマス》、\n"
@@ -5525,7 +5892,7 @@ msgstr ""
 "위 네 맵과 <Sixth Terminal>을 모두\n"
 "개방할 수 있었나요?"
 
-#. ID 110, Page 1, Line 56, Pos (53,31)
+#. ID 110, Page 1, Line 63, Pos (53,31)
 msgid ""
 "2023/09/20　ver0.121a\n"
 "《成済》を追加、《六層ターミナル》を拡張しました。\n"
@@ -5539,34 +5906,55 @@ msgstr ""
 "그리고 저의 메뉴 타입을 처음으로 구현했습니다.\n"
 "혹시 잠금 해제할 수 있으면 사용해보세요~ (0 0)"
 
-#. ID 110, Page 1, Line 60, Pos (53,31)
+#. ID 110, Page 1, Line 67, Pos (53,31)
+msgid ""
+"2024/07/27　ver0.124f\n"
+"新世界として《守隠祠》を追加しました。\n"
+"今回は到達判定や収集要素の無い更新になっています。\n"
+"ですが、２っき的に？新しい試みに挑戦してみました。"
+msgstr ""
+
+#. ID 110, Page 1, Line 71, Pos (53,31)
+msgid ""
+"2025/08/19　ver0.128c\n"
+"《夢想原》と、《ホタルピース》《沈没盆地》\n"
+"《トーエリア》《ダイッキ雷雲》を追加しました。\n"
+"また、《邪夢繋部》《黒日陰の夢》も追加しました。"
+msgstr ""
+
+#. ID 110, Page 1, Line 75, Pos (53,31)
+msgid ""
+"2025/12/13　ver0.128h\n"
+"《おンぼろ月夜》を追加しました。また、本Verにて\n"
+"《ムソウ結界》の地形などを大きく改装し、一部の\n"
+"キャラのグラフィックをブラッシュアップしました。"
+msgstr ""
+
+#. ID 110, Page 1, Line 79, Pos (53,31)
+msgid ""
+"2026/01/10　ver0.128i\n"
+"《黒雲の繭》《車道の影》《酸の太陽》《湿布の船》、\n"
+"そして上記４世界からそれぞれ訪れることができる\n"
+"《感情列石》を追加しました。"
+msgstr ""
+
+#. ID 110, Page 1, Line 83, Pos (53,31)
 msgid ""
 "現時点では、更新内容は以上となります。\n"
 "世界名については「ゆめ２っきを楽しむwiki」から。\n"
 "難所もありますが、全ての世界を訪問できましたか？\n"
-"　　　　　　　　　　　　　　　　　　2023/09/20 記"
+"　　　　　　　　　　　　　　最終編集日 2026/01/10"
 msgstr ""
-"현 시점에서 업데이트 내역은 여기까지입니다.\n"
-"맵 이름은 유메2키 위키에서. 도달하기 어려운 맵도 \n"
-"있지만, 모든 맵을 방문할 수 있으셨나요?\n"
-"                                  2023/09/20 작성"
 
-#. ID 110, Page 1, Line 76, Pos (53,31)
+#. ID 110, Page 1, Line 104, Pos (53,31)
 msgid ""
-"エンドコンテンツと言われがちな件も語りたいところ\n"
-"ですが、それはこねて まるめて おいといて。\n"
-"地図があって助かる～ という声をしばしば聞きます。\n"
-"リアルでも広めの公園は迷うので地図が欲しくなる…"
+"【夢想公園】東西南北と中央区画からなる夢。処女作。\n"
+"中央部の大きなタマゴは来てすぐは反応しないそう。\n"
+"広いので迷ったら案内図を頼りにして散歩しましょう。\n"
+"何者かによって、しばしばテコ入れが行われる模様。"
 msgstr ""
-"엔드 컨텐츠라고 취급되기 십상인 건에 대해서도\n"
-"이야기하고 싶은 참이지만, 그런 건\n"
-"반죽으로 만들고 둥들게 말아서 한 켠에 치워서.\n"
-"<easyrpg:new_page>\n"
-"'지도가 있어서 다행이다~'라는 소리를 자주 듣습니다.\n"
-"현실감 있게, 넓은 공원은 헤매므로\n"
-"지도가 갖고 싶어져..."
 
-#. ID 110, Page 1, Line 90, Pos (53,31)
+#. ID 110, Page 1, Line 110, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5578,19 +5966,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Dream Park>(중앙)에 도달-"
 
-#. ID 110, Page 1, Line 106, Pos (53,31)
+#. ID 110, Page 1, Line 124, Pos (53,31)
 msgid ""
-"てんたかく そびえたつくえ ながめよき\n"
-"条件付きでぷにに変身できるスポットでもあります。\n"
-"↑公園周辺と他の世界とをたくさん開通させている\n"
-"ことを示すステータスにもなるみたいですよ。"
+"【夢卓】《夢想公園》の中でいちばん天に近い夢。\n"
+"遠くまで景色を眺められ、特殊な個体の(0 0)がいる。\n"
+"常夜なのにもかかわらず全体的に明るいのは、浮かぶ\n"
+"星々?や、白く輝く山々?のおかげなのかもしれません。"
 msgstr ""
-"하늘 높이  우뚝 솟은 책상  올려다 보는구나\n"
-"특정 조건 하에 새롭게 변신할 수 있는 곳입니다.\n"
-"↑공원 주변과 다른 맵을 많이 연결시키고 있다\n"
-"이런 지위를 보이게 끔 하는 것 같네요."
 
-#. ID 110, Page 1, Line 120, Pos (53,31)
+#. ID 110, Page 1, Line 130, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5602,17 +5986,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Dream Park - Treetops Area>에 도달-"
 
-#. ID 110, Page 1, Line 137, Pos (53,31)
+#. ID 110, Page 1, Line 145, Pos (53,31)
 msgid ""
-"から騒ぎ：\n"
-"たいしたことではないのに、やたらに騒ぎたてること。\n"
-"また、騒いだわりに実りのないこと。"
+"【虚騒】《夢想公園》の地下に広がるらしい空洞の夢。\n"
+"視界不良であることに加えて、やたらと騒がしいよう。\n"
+"\n"
+"から騒ぎ：大した問題ではないのに 大袈裟に騒ぐこと"
 msgstr ""
-"헛소리:\n"
-"별것도 아닌 것 가지고 막 소란을 피우는 행위.\n"
-"또한, 소란을 피운 것에 비해 성과가 없는 것."
 
-#. ID 110, Page 1, Line 150, Pos (53,31)
+#. ID 110, Page 1, Line 151, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5624,68 +6006,47 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Shadowy Caves>에 도달-"
 
-#. ID 110, Page 1, Line 167, Pos (53,31)
+#. ID 110, Page 1, Line 166, Pos (53,31)
 msgid ""
 "【風化祠】\n"
-"当時、何を思い「風化」という言葉を選び使ったのか。\n"
-"そんな私の記憶は、だんだんと風化していきました。\n"
-"実際、由来が不明瞭で名前だけ残る地名も多いのでは？"
+"《夢想公園》と周辺に点在する赤い鳥居?が佇む空間と\n"
+"同じく《夢想公園》南方の果ての建物内からなる。\n"
+"小紫色の生命の気配と記憶の漂う見果てぬ夢。"
 msgstr ""
-"[Guardians' Temple](풍화 사당)\n"
-"당시 뭘 생각하면서 '풍화'라는 단어를 골랐을까.\n"
-"그런 저의 기억은, 점점 풍화되어 갔습니다. 사실,\n"
-"유래가 불명확하고 이름만 남는 지명도 많은게 아닐지?"
 
-#. ID 110, Page 1, Line 181, Pos (53,31)
+#. ID 110, Page 1, Line 172, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
 "解禁後、また引き当てられることを祈っております。\n"
-"　-Tips:《風化祠》に到達する(仕様で再訪問が必要)-"
+"　　　　　　　　　　　-Tips:《風化祠》に到達する-"
 msgstr ""
-"아직 잠금 해제되지 않은 코멘터리를 뽑으셨네요.\n"
-"조건을 만족하면 읽을 수 있을 거에요.\n"
-"해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
-"-Tips: <Guardians' Temple>에 도달(재방문 필요)-"
 
-#. ID 110, Page 1, Line 197, Pos (53,31)
+#. ID 110, Page 1, Line 186, Pos (53,31)
 msgid ""
-"なんと、この雑談が解放済みとは…！相当やりこみ？\n"
-"結構なMAP数を使った隠し的な世界です。当時は、先の\n"
-"更新を特に考えていなかったので、予約分を贅沢に。\n"
-"何とかしたいとも、あえてこのままでいいかなとも。"
+"【隠墟祠】\n"
+"《夢想公園》の中央区画のタマゴの先に隠された地。\n"
+"中心部の吹き抜けを囲んだ円楼状の３層からなる。\n"
+"再起の気配とさらなる小紫色の記憶の漂う見果てぬ夢。"
 msgstr ""
-"이럴 수가, 이 코멘터리를 잠금 해제하다니...!\n"
-"진짜로 깊게 파고 들은 것인가?\n"
-"<easyrpg:new_page>\n"
-"꽤 많은 맵을 사용한 숨겨진 맵입니다. 당시에는\n"
-"이전 업데이트를 특별히 생각하지 않았기에,\n"
-"맵 슬롯 예약을 필요 이상으로 많이. \n"
-"어찌 하고 싶어도, 굳이 이래도 되는 건가 싶기도."
 
-#. ID 110, Page 1, Line 211, Pos (53,31)
+#. ID 110, Page 1, Line 192, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
 "解禁後、また引き当てられることを祈っております。\n"
-"　-Tips:《隠墟祠》に到達する(仕様で再訪問が必要)-"
+"　　　　　　　　　　　-Tips:《隠墟祠》に到達する-"
 msgstr ""
-"아직 잠금 해제되지 않은 코멘터리를 뽑으셨네요.\n"
-"조건을 만족하면 읽을 수 있을 거에요.\n"
-"해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
-"-Tips: <Hidden Shrine>에 도달(재방문 필요)-"
 
-#. ID 110, Page 1, Line 228, Pos (53,31)
+#. ID 110, Page 1, Line 207, Pos (53,31)
 msgid ""
-"おめでとう:\n"
-"めでたい出来事があったときに使うあいさつの言葉。\n"
-"お誕生日なんかにひとこと。-Happy birthday-"
+"【オメデ塔】甘い香りと桃色の海に囲まれた塔の夢。\n"
+"祝い事の際に、よく頂上まで登られることが多いとか。\n"
+"\n"
+"おめでとう：めでたいことがあった時の挨拶の言葉。"
 msgstr ""
-"축하합니다:\n"
-"축하할 일이 있을 때 쓰는 인사말.\n"
-"생일 같은 때 쓰는 간단한 말. -Happy birthday-"
 
-#. ID 110, Page 1, Line 241, Pos (53,31)
+#. ID 110, Page 1, Line 213, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5697,19 +6058,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Birthday Tower>(최상층)에 도달-"
 
-#. ID 110, Page 1, Line 258, Pos (53,31)
+#. ID 110, Page 1, Line 228, Pos (53,31)
 msgid ""
-"おやすみなさい：\n"
-"就寝のときや、夜に別れるときに使うあいさつの言葉。\n"
-"おつかれさま：\n"
-"相手の労をねぎらうあいさつの言葉。"
+"【オヤスミナ賽】寝処を内側に持って浮遊する賽の夢。\n"
+"ぐっすり熟睡している間に、賽はｺﾛｺﾛと投げられる。\n"
+"\n"
+"おやすみなさい：夜の別れや眠る前に言う挨拶の言葉。"
 msgstr ""
-"안녕히 주무세요:\n"
-"잘 때나 밤에 헤어질 때 사용하는 말.\n"
-"수고하셨습니다:\n"
-"다른 사람이 힘든 일을 할 때 위로하는 말."
 
-#. ID 110, Page 1, Line 272, Pos (53,31)
+#. ID 110, Page 1, Line 234, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5721,19 +6078,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Dice World>(주사위 눈 3)에 도달-"
 
-#. ID 110, Page 1, Line 289, Pos (53,31)
+#. ID 110, Page 1, Line 249, Pos (53,31)
 msgid ""
-"さようなら：\n"
-"別れのときに使うあいさつの言葉。\n"
-"またいつか：\n"
-"機会があればまた…と意味を込めたあいさつの言葉。"
+"【サヨウ奈落】地下水を湛える湖が底にある奈落の夢。\n"
+"《虚騒》の深部は、却って光源が増えてまるで居住区。\n"
+"\n"
+"さようなら：別れの挨拶の言葉。元は「左様ならば」。"
 msgstr ""
-"잘 있어/잘 가:\n"
-"헤어질 때 쓰는 말.\n"
-"언제 다시 만나자:\n"
-"기회가 되면 다시... 라는 의미를 지닌 말."
 
-#. ID 110, Page 1, Line 303, Pos (53,31)
+#. ID 110, Page 1, Line 255, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5745,19 +6098,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Abyss of Farewells>(최심층) 도달-"
 
-#. ID 110, Page 1, Line 344, Pos (53,31)
+#. ID 110, Page 1, Line 270, Pos (53,31)
 msgid ""
 "【ムソウ結界】\n"
-"間取りが同じであっても、居着くモノが全く異なれば、\n"
-"その空間の個性も違って現れるのではないでしょうか。\n"
-"そして、\"無\"から\"夢\"へ。\"喪\"から\"想\"へ。"
+"赤い鳥居?を越えた先にある扉の奥に広がる空間。\n"
+"夢間地獄 /夢常迅速 /夢味乾燥 /夢量無辺 /夢病息災\n"
+"似た姿や土地なれど、主の個性が溢るる小紫色の夢。"
 msgstr ""
-"[Guardians' Realm]\n"
-"방 배치가 같아도, 해당 공간에 있는 오브젝트가\n"
-"달라지면 그 곳에 나타나는 개성도 달라지지 않을지.\n"
-"그리고, '무'에서 '유'로. '멸'에서 '생'으로."
 
-#. ID 110, Page 1, Line 358, Pos (53,31)
+#. ID 110, Page 1, Line 276, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5769,49 +6118,31 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Guardians' Realm>(내부) 도달-"
 
-#. ID 110, Page 1, Line 375, Pos (53,31)
+#. ID 110, Page 1, Line 291, Pos (53,31)
 msgid ""
-"なんと、この雑談が解放済みとは…！相当やりこみ？\n"
-"楽しむwikiでは《起床点》となっていますが、\n"
-"内部の話に触れると「起床点:結」と名付けています。\n"
-"由来とかは……別に言わなくてもいいですよね？"
+"【起床点】\n"
+"《夢想公園》を模したような、近くて遠い辺境の地。\n"
+"点々と浮かび光る文字か記号は未解明の連なり。\n"
+"間もなく目覚めを迎えそうな、深くて浅い見果てぬ夢。"
 msgstr ""
-"이럴수가, 이 코멘터리를 잠금 해제하다니...!\n"
-"얼마나 깊게 파고든 것인가?\n"
-"<easyrpg:new_page>\n"
-"유메2키 위키에서는 <Sacred Crypt>라고 \n"
-"쓰여 있긴 한데, 내부 데이터에서는 \n"
-"[기상점: 종결]이라는 이름이 붙었습니다.\n"
-"유래 같은 건... 딱히 말 안 해도 알겠지요?"
 
-#. ID 110, Page 1, Line 389, Pos (53,31)
+#. ID 110, Page 1, Line 297, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
 "解禁後、また引き当てられることを祈っております。\n"
-"-Tips:《起床点》でイベント(仕様で再訪問が必要)-"
+"　　　-Tips:《起床点》の最奥部でイベントを起こす-"
 msgstr ""
-"아직 잠금 해제되지 않은 코멘터리를 뽑으셨네요.\n"
-"조건을 만족하면 읽을 수 있을 거에요.\n"
-"해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
-"-Tips: <Sacred Crypt>이벤트 감상(재방문 필요)-"
 
-#. ID 110, Page 1, Line 406, Pos (53,31)
+#. ID 110, Page 1, Line 312, Pos (53,31)
 msgid ""
-"【六層ターミナル】:むそうでむそうのターミナル。\n"
-"一層から六層までを移動できますが分かりにくい？\n"
-"ところで「六」は「八」に蓋をしたようなカンジ。\n"
-"蓋されてるだけで、八層くらいまであるのかな…？"
+"【六層ターミナル】交じり合わない夢と夢が繋がる夢。\n"
+"厚みのある浮遊した六枚のプレートが層状に重なる。\n"
+"最上層から四層目には、特に多くの夢が接続しており、\n"
+"七・八層目の存在も、観測されているとかいないとか。"
 msgstr ""
-"[Sixth Terminal]:무상하고 공상한 터미널.\n"
-"1층부터 6층까지 이동할 수 있는데, \n"
-"알기 어렵게 되있나요?\n"
-"<easyrpg:new_page>\n"
-"그나저나, '육(六)'은 '팔(八)'에 덮개를\n"
-"씌운 것만 같은 모양을 한 느낌.\n"
-"덮개가 있는 것 만으로도, 8층까지 있는 것인가...?"
 
-#. ID 110, Page 1, Line 421, Pos (53,31)
+#. ID 110, Page 1, Line 318, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5823,19 +6154,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Sixth Terminal>에 도달-"
 
-#. ID 110, Page 1, Line 437, Pos (53,31)
+#. ID 110, Page 1, Line 332, Pos (53,31)
 msgid ""
-"【文霧】:言葉遊びが好きなわたしです。\n"
-"実装初期から若干視界良好になった過去があります。\n"
-"コメントが画面内を流れるやつ。あれ面白いですよね。\n"
-"なんか職人？とかいますよね。"
+"【文霧】★ふみきり★の近くに生まれた妙な夢。\n"
+"\n"
+"ひらりひらりと東方より姿を現した存在が潜むとか。\n"
+" 『謎の文字と ともに流れる 霧が不愉快』"
 msgstr ""
-"[Cipher Fog World]: 말장난을 좋아하는 저입니다.\n"
-"초창기 이래로 가시성이 개선되어 온 과거가 있습니다.\n"
-"댓글이 영상에 흐르는 거, 꽤 재밌네요.\n"
-"뭔가 코멘트 장인? 그런 분들도 있지요."
 
-#. ID 110, Page 1, Line 451, Pos (53,31)
+#. ID 110, Page 1, Line 338, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5847,22 +6174,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Cipher Fog World>에 도달-"
 
-#. ID 110, Page 1, Line 467, Pos (53,31)
+#. ID 110, Page 1, Line 352, Pos (53,31)
 msgid ""
-"【音呼鋸】:言葉遊びが好きなわたしです。\n"
-"鳥のインコは「音呼」という書き方があるようですね。\n"
-"この雑談を引けたということで、1つ覚えて帰ってね。\n"
-"ただ、そのことを全く知らずに世界名は生まれました。"
+"【音呼鋸】★おとこのこ★の近くに生まれた妙な夢。\n"
+"\n"
+"ひらりひらりと西方より姿を現した存在が潜むとか。\n"
+" 『細かい刃を 叩いて響く 音が不愉快』"
 msgstr ""
-"[Sound Saws World]: 말장난을 좋아하는 저입니다.\n"
-"새 중에 흔히 '잉코'라고 부르는 것을 글로 쓸 땐,\n"
-"'音呼(음호/인코)'라는 표기법도 있는 것 같네요.\n"
-"<easyrpg:new_page>\n"
-"이 코멘터리를 끝내면서 저 한 가지는 기억해 주세요.\n"
-"다만, 해당 맵 이름은 \n"
-"이런 사실을 모른 체 지어졌습니다."
 
-#. ID 110, Page 1, Line 481, Pos (53,31)
+#. ID 110, Page 1, Line 358, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5874,19 +6194,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Sound Saws World>에 도달-"
 
-#. ID 110, Page 1, Line 499, Pos (53,31)
+#. ID 110, Page 1, Line 374, Pos (53,31)
 msgid ""
-"【バターレイン】:言葉遊びが好きなわたしです。\n"
-"降る雨が ぜ～んぶ～♪\n"
-"溶けてるバターなら～ いいのにね♪\n"
-"…わぁ、ベッタベタじゃぁ？！"
+"【バターレイン】雨かバターか両方が降り続く妙な夢。\n"
+"\n"
+"ひらりひらりと南方より姿を現した存在が潜むとか。\n"
+" 『融けたバターの 熱く止まない 雨が不愉快』"
 msgstr ""
-"[Butter Rain World]: 말장난을 좋아하는 저입니다.\n"
-"내리는 비가  전~부~♪\n"
-"녹아내리는 버터였음~~ 정말 좋겠네♪\n"
-"...와, 끈적끈적하잖아?!"
 
-#. ID 110, Page 1, Line 515, Pos (53,31)
+#. ID 110, Page 1, Line 380, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5898,19 +6214,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Butter Rain World>에 도달-"
 
-#. ID 110, Page 1, Line 533, Pos (53,31)
+#. ID 110, Page 1, Line 396, Pos (53,31)
 msgid ""
-"【クスリマス】:言葉遊びが好きなわたしです。\n"
-"降る雪が ぜ～んぶ～♪\n"
-"粉のおクスリなら～ いいのにね♪\n"
-"…風邪のときでも困りますよね"
+"【クスリマス】粉雪かクスリか両方が降り続く妙な夢。\n"
+"\n"
+"ひらりひらりと北方より姿を現した存在が潜むとか。\n"
+" 『溢れるほどに 積もる薬の 雪が不愉快』"
 msgstr ""
-"[Sherbet Snowfield]: 말장난을 좋아하는 저입니다.\n"
-"내리는 눈이 전~부~♪\n"
-"가루약이었으면~ 정말 좋겠네♪\n"
-"...감기에 걸릴 때도 난감하겠네요."
 
-#. ID 110, Page 1, Line 549, Pos (53,31)
+#. ID 110, Page 1, Line 402, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5922,19 +6234,15 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <Sherbet Snowfield>에 도달-"
 
-#. ID 110, Page 1, Line 566, Pos (53,31)
+#. ID 110, Page 1, Line 417, Pos (53,31)
 msgid ""
-"成り済ます:\n"
-"すっかりあるものに成り切る。\n"
-"本当にそのものであるようなふりをする。\n"
-"成り済まし：他人のふりをして活動する行為のこと。"
+"【成済】《六層ターミナル》の四方からの夢の先の夢。\n"
+"欠けた道の奥に、妙な気配を漂わせた何者かが居る。\n"
+"\n"
+"成り済まし：他者のふりをして欺くなど活動する行為"
 msgstr ""
-"행세하다:\n"
-"어떤 당사자인 것처럼 처신하여 행동하다.\n"
-"정말로, 당사자 그 자체인 척 한다.\n"
-"행세: 어떤 당사자인 것처럼 처신하여 행동함."
 
-#. ID 110, Page 1, Line 580, Pos (53,31)
+#. ID 110, Page 1, Line 423, Pos (53,31)
 msgid ""
 "現在未解禁のらんだむ雑談を引いたようです。\n"
 "条件を満たすことで読めるようになりますよ。\n"
@@ -5946,130 +6254,245 @@ msgstr ""
 "해금한 후에 다시 뽑을 수 있기를 바랍니다.\n"
 "-Tips: <False Guardians' Trials>(내부) 도달-"
 
-#. ID 110, Page 1, Line 589, Pos (53,31)
+#. ID 110, Page 1, Line 437, Pos (53,31)
 msgid ""
-"《夢想公園》には、2種類の固有自販機があります。\n"
-"中央＆東西南北・《夢卓》に到達で商品解禁です。\n"
-"黄緑色の自販機が1回150夢。ラインナップは全11種。\n"
-"青色の自販機が1回300夢。ラインナップは全14種。"
+"【おンぼろ月夜】《夢卓》のように高所の卓上の夢。\n"
+"ほのかに霞む非常に大きな満月?を望むことができる。\n"
+"ハッキリとしているようで、つかみどころがない。\n"
+"不明瞭なモノがもつ、特有の魅力に惹かれ、夢うつつ。"
 msgstr ""
-"<Dream Park>에선 두 종류의 고유 자판기가\n"
-"설치되어 있습니다.\n"
-"중앙 및 동/서/남/북쪽 지역의 <Dream Park>\n"
-"에 도달하면 상품이 잠금 해제됩니다.\n"
-"<easyrpg:new_page>\n"
-"연두색 자판기 : 1회 뽑기 당 150유메\n"
-"총 11종의 라인업.\n"
-"파란색 자판기 : 1회 뽑기 당 300유메\n"
-"총 14종의 라인업."
 
-#. ID 110, Page 1, Line 596, Pos (53,31)
+#. ID 110, Page 1, Line 443, Pos (53,31)
 msgid ""
-"桃色のぷにを見たことはあるでしょうか？(0 0)\n"
-"何ヵ所かで会えるようですが、レアっぽいです。\n"
-"《夢想公園》地下の《虚騒》には常駐しているとか？\n"
-"出会えたら、いいことあるんじゃないかと思います。"
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　-Tips:《おンぼろ月夜》に到達する-"
 msgstr ""
-"복숭아색 푸니를 만난 적이 있을까요? (0 0)\n"
-"몇몇 장소에서 만난 수 있는 것으로 보이는데,\n"
-"꽤 드문 것 같네요.\n"
-"<easyrpg:new_page>\n"
-"<Dream Park> 지하의 \n"
-"<Shadowy Caves>에 상주하고 있다던가?\n"
-"행여나 만날 수 있으면 좋은 일이\n"
-"생길 수도 있다고 봅니다."
 
-#. ID 110, Page 1, Line 603, Pos (53,31)
+#. ID 110, Page 1, Line 458, Pos (53,31)
 msgid ""
-"YNO…オンライン版がどんどん発展してきていますね。\n"
-"DL不要なのと、独自のやりこみ・便利要素が大きい？\n"
-"当初は若干抵抗があったものですが、今ではすっかり\n"
-"楽しんでいます。今後の発展やいかに。2023.09.20 記"
+"【守隠祠】\n"
+"《虚騒》にひっそりと佇む大きな扉の奥に遺された地。\n"
+"《風化祠》にも《隠墟祠》にも似た雰囲気の秘所。\n"
+"守っているか隠しているか、強い力を放つ見果てぬ夢。"
 msgstr ""
-"YNO... 온라인 버전이 점점 발전하고 있네요.\n"
-"다운로드 불필요, 전용 파고들기 컨텐츠 및\n"
-"편리성 요소가 꽤 크다?\n"
-"<easyrpg:new_page>\n"
-"처음에는 거부감이 있었지만, \n"
-"지금은 완전히 즐기고 있습니다.\n"
-"이후의 발전은 어찌 될 것인가. 2023.09.20 작성"
 
-#. ID 110, Page 1, Line 610, Pos (53,31)
+#. ID 110, Page 1, Line 464, Pos (53,31)
 msgid ""
-"みなさんは、好きな色はあるでしょうか？\n"
-"私は紫色が好きです。特に小紫や紫紺など少し暗めの。\n"
-"高貴な感じもあれば、神秘的な感じもあって、\n"
-"深みのあるイメージが非常によいですね。"
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　-Tips:《守隠祠》の最奥部でイベントを起こす-"
 msgstr ""
-"여러분께선 좋아하는 색이 있나요?\n"
-"저는 보라색을 좋아합니다. 특히 보라색과\n"
-"보라색-진남색이 섞여 있는 등\n"
-"좀 어두운 계통의 색.\n"
-"<easyrpg:new_page>\n"
-"고귀한 느낌도 있으면, 신비로운 느낌도 있어서,\n"
-"그런 깊은 이미지가 정말 좋습니다."
 
-#. ID 110, Page 1, Line 617, Pos (53,31)
+#. ID 110, Page 1, Line 478, Pos (53,31)
 msgid ""
-"もしかしてあなたは、ゆめ２っき配信されています？\n"
-"そうであれば、ここに辿り着くまでに一度くらいは\n"
-"お会いしている可能性が高いと思うのですが、いかが\n"
-"でしょう？「No」なら私のサーチ力、まだまだですね。"
+"【ホタルピース】\n"
+"《夢想原》から、《夢想公園》の北西に観測される夢。\n"
+"ホタルが飛び交う様子を窓から臨める心休まる施設。\n"
+"何気無い場所に妙な絵画が紛れ込んでいるとのこと。"
 msgstr ""
-"혹시 당신이 유메2키 스트리밍에 나온 적이 있나요?\n"
-"그렇다면 여기에 도착할 동안 적어도 한 번 정도는\n"
-"만났을 가능성이 높다고 여겨집니다만, 어떤가요?\n"
-"대답이 [No]라면 제 찾기 능력이 아직 멀었다는 것이군요."
 
-#. ID 110, Page 1, Line 624, Pos (53,31)
+#. ID 110, Page 1, Line 484, Pos (53,31)
 msgid ""
-"《夢想公園》付近…オハ洋,アリガ島 周辺にて、\n"
-"紫色の何らかを目撃したとの情報が入ってきました。\n"
-"ただ、これらがどこにあるのか分からないのですが。\n"
-"- これ以上の詳細不明　Details Unknown -"
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　-Tips:《ホタルピース》に到達する-"
 msgstr ""
-"<Dream Park> 근처... \n"
-"안냥, 고맙섬 주변에서\n"
-"보라색을 한 무언가를 목격했다는\n"
-"정보를 입수했습니다.\n"
-"<easyrpg:new_page>\n"
-"다만, 이것들이 정확히 어디 있는지는\n"
-"모르겠습니다만.\n"
-"- 상세 내역 불명  Details Unknown -"
 
-#. ID 110, Page 1, Line 631, Pos (53,31)
+#. ID 110, Page 1, Line 498, Pos (53,31)
 msgid ""
-"《夢想公園》付近…タダイ山,オカエ川 周辺にて、\n"
-"紫色の何らかを目撃したとの情報が入ってきました。\n"
-"ただ、これらがどこにあるのか分からないのですが。\n"
-"- これ以上の詳細不明　Details Unknown -"
+"【トーエリア】\n"
+"《夢想原》から、《夢想公園》の南東に観測される夢。\n"
+"黒く塗り潰された様々なポーズの人型の彫刻が立つ。\n"
+"何気無い場所に妙な彫刻が紛れ込んでいるとのこと。"
 msgstr ""
-"<Dream Park> 근처... \n"
-"다녀왔산, 어서와천 주변에서\n"
-"보라색을 한 무언가를 목격했다는\n"
-"정보를 입수했습니다.\n"
-"<easyrpg:new_page>\n"
-"다만, 이것들이 정확히 어디 있는지는\n"
-"모르겠습니다만.\n"
-"- 상세 내역 불명  Details Unknown -"
 
-#. ID 110, Page 1, Line 638, Pos (53,31)
+#. ID 110, Page 1, Line 504, Pos (53,31)
 msgid ""
-"《夢想公園》付近…ダイッキ雷雲,ナカナ檻 周辺にて、\n"
-"紫色の何らかを目撃したとの情報が入ってきました。\n"
-"ただ、これらがどこにあるのか分からないのですが。\n"
-"- これ以上の詳細不明　Details Unknown -"
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《トーエリア》に到達する-"
 msgstr ""
-"<Dream Park> 근처... \n"
-"최악운, 화해감옥 주변에서\n"
-"보라색을 한 무언가를 목격했다는\n"
-"정보를 입수했습니다.\n"
-"<easyrpg:new_page>\n"
-"다만, 이것들이 정확히 어디 있는지는\n"
-"모르겠습니다만.\n"
-"- 상세 내역 불명  Details Unknown -"
+
+#. ID 110, Page 1, Line 518, Pos (53,31)
+msgid ""
+"【ダイッキ雷雲】\n"
+"《夢想原》から、《夢想公園》の北東に観測される夢。\n"
+"分厚い雷雲に覆われ、雷が絶えず鳴り響いている。\n"
+"何気無い場所に妙な電球が紛れ込んでいるとのこと。"
+msgstr ""
+
+#. ID 110, Page 1, Line 524, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　-Tips:《ダイッキ雷雲》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 540, Pos (53,31)
+msgid ""
+"【沈没盆地】\n"
+"《夢想原》から、《夢想公園》の南西に観測される夢。\n"
+"湖かと思うほどの冠水と、大穴の開いた船が目立つ。\n"
+"何気無い場所に妙な扉が紛れ込んでいるとのこと。"
+msgstr ""
+
+#. ID 110, Page 1, Line 546, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　-Tips:《沈没盆地》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 560, Pos (53,31)
+msgid ""
+"【夢想原】《夢想公園》とそれを取り巻く周辺の夢。\n"
+"中心部へ繋がる道は見当たらないが、周辺どうしなら\n"
+"行き来可能。外側に向かうほど大きく描かれるよう。\n"
+"奥の山々は ある日のゆめ２っきの展開時のﾌﾟﾛｸﾞﾚｽﾊﾞｰ"
+msgstr ""
+
+#. ID 110, Page 1, Line 566, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　　-Tips:《夢想原》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 580, Pos (53,31)
+msgid ""
+"【邪夢繋部】\n"
+"《夢想原》周辺の夢どうしを繋ぐ通路に現れた妙な夢。\n"
+"東西南北の４ヵ所で観測された同じようで違う何か。\n"
+"瓶詰めの洞穴から微かに甘酸っぱいとろみが滲み出る。"
+msgstr ""
+
+#. ID 110, Page 1, Line 586, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　　-Tips:《邪夢繋部》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 601, Pos (53,31)
+msgid ""
+"【黒日陰の夢】\n"
+"《邪夢繋部》の奥地に隠された通路と部屋。\n"
+"東西南北より飛来して、１つの点に辿り着いた蝶の夢。\n"
+"同じ姿をとり それでいて 異なる姿をとる。"
+msgstr ""
+
+#. ID 110, Page 1, Line 607, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《黒日陰の夢》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 621, Pos (53,31)
+msgid ""
+"【黒雲の繭】\n"
+"北方よりの黒日陰が棲みつく繭の夢。Cocoon。\n"
+"『北に強い 執着心。 しなる五本の 嘴を振るう。\n"
+"　  足の飛膜を 頭上で広げ つむじ風に乗る。』"
+msgstr ""
+
+#. ID 110, Page 1, Line 627, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《黒雲の繭》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 641, Pos (53,31)
+msgid ""
+"【車道の影】\n"
+"東方よりの黒日陰が棲みつく影の夢。Shadow。\n"
+"『東に強い 執着心。 七本の睫毛を 自在に操る。\n"
+"　  　　　　緑の殻は 翡翠にも勝る 頑丈さ。』"
+msgstr ""
 
 #. ID 110, Page 1, Line 647, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《車道の影》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 663, Pos (53,31)
+msgid ""
+"【酸の太陽】\n"
+"西方よりの黒日陰が棲みつく太陽の夢。Sun。\n"
+"『西に強い 執着心。 脚で吸い上げた 地電流を\n"
+"　  　重なる四枚の 鰓で増幅し 翅に蓄える。』"
+msgstr ""
+
+#. ID 110, Page 1, Line 669, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《酸の太陽》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 685, Pos (53,31)
+msgid ""
+"【湿布の船】\n"
+"南方よりの黒日陰が棲みつく船の夢。Ship。\n"
+"『南に強い 執着心。 身体の粘液と 三本の舌は\n"
+"　      極めて低温。 大地や水面を 凍らせて這う。』"
+msgstr ""
+
+#. ID 110, Page 1, Line 691, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《湿布の船》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 705, Pos (53,31)
+msgid ""
+"【感情列石】\n"
+"多種多様な感情を模した石と覗き石が並ぶ 意志の夢。\n"
+"読めるかは置いておいて『ひらがな/ｶﾀｶﾅ』が出てくる\n"
+"ので、文字イベントナシだとイベントはほぼ起動せず。"
+msgstr ""
+
+#. ID 110, Page 1, Line 711, Pos (53,31)
+msgid ""
+"現在未解禁のらんだむ雑談を引いたようです。\n"
+"条件を満たすことで読めるようになりますよ。\n"
+"解禁後、また引き当てられることを祈っております。\n"
+"　　　　　　　　　-Tips:《感情列石》に到達する-"
+msgstr ""
+
+#. ID 110, Page 1, Line 719, Pos (53,31)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"プチらんだむ小話ガチャを続けますか？\n"
+"（このまま再抽選ができます）"
+msgstr ""
+
+#. ID 110, Page 1, Line 721, Pos (53,31)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"・もう少しやってみようかな\n"
+"・もうおなかいっぱいかな"
+msgstr ""
+
+#. ID 110, Page 1, Line 749, Pos (53,31)
 msgid ""
 "話しかけてくれてどうもありがとう！\n"
 "今後も良いゆめ２っきライフをお楽しみください～\n"
@@ -7360,3 +7783,781 @@ msgstr ""
 "28까지만 있다고 했죠?\n"
 "이 이상 입력해도 현 시점에서 말할 수 있는 건\n"
 "아무것도 없으니까."
+
+#. ID 116, Page 1, Line 2, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"こんばんは！せにゅしあと申します。\n"
+"壁紙などを寄稿させていただいています。"
+msgstr ""
+
+#. ID 116, Page 1, Line 6, Pos (66,81)
+#. Choice (3 options)
+msgid ""
+"好きなマップは？\n"
+"何を描いたの？\n"
+"ばいばい"
+msgstr ""
+
+#. ID 116, Page 1, Line 8, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"うわ～迷っちゃうな…"
+msgstr ""
+
+#. ID 116, Page 1, Line 10, Pos (66,81)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"せにゅしあ\n"
+"すごい長くなっちゃうんですけど大丈夫ですかね？"
+msgstr ""
+
+#. ID 116, Page 1, Line 12, Pos (66,81)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"大丈夫\n"
+"大丈夫ではない"
+msgstr ""
+
+#. ID 116, Page 1, Line 14, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"壁紙描いたとこも好きですが、それ以外だと…"
+msgstr ""
+
+#. ID 116, Page 1, Line 16, Pos (66,81)
+msgid ""
+"消波ブロックの砂浜、錆びた街、フロア、スイーツ、\n"
+"昭和路地、ネオン通路、ワニ犬の家、ぐるぐる、\n"
+"四角四角、ブロック塀、階段とブラザーサン、\n"
+"光畑、オリエンタル、月湖、団地、水没、"
+msgstr ""
+
+#. ID 116, Page 1, Line 20, Pos (66,81)
+msgid ""
+"旋律の絵本館、夜花草、ケレウス、楓神社、ホームル、\n"
+"天井、黒湯、青の奈落、葬塔場、天上、和風墓地、\n"
+"金雲海、砂の町、森林街、モノクロマンション、\n"
+"マウソレウム、グレートンネル、ホログラム、"
+msgstr ""
+
+#. ID 116, Page 1, Line 24, Pos (66,81)
+msgid ""
+"白街灯の駅、閉所恐怖症、食堂、輝く海、地底湖、\n"
+"黄昏の水鏡、文霧、朱猫竹林、灯篭流し、瓦礫と忘却、\n"
+"黒潰れ、供水、電信ドミノ、ラブレター、\n"
+"たなびく残照、悠久の廊下、雪原、離宮、"
+msgstr ""
+
+#. ID 116, Page 1, Line 28, Pos (66,81)
+msgid ""
+"崩壊新月、亀池、辺境の夢、マンマルン、白黒柄、\n"
+"雷雨の街、蓮華公園、絵楽、うつろ、(＾□＾)、\n"
+"夏空海岸、gear＆white、童心列島、コーラルビーチ、\n"
+"空と砂岩、蒼白球墟、モノトーンの空間、緑の港町、"
+msgstr ""
+
+#. ID 116, Page 1, Line 32, Pos (66,81)
+msgid ""
+"暗い盾の都、ネオンパティナ、黒赤浅瀬、\n"
+"無灯集落世界、ラジオウェーブ、風車の村、燐光星、\n"
+"ネオン高楼、浮遊公園、そよぎ野原、浮遊石遺跡、\n"
+"紅い太陽と日常、黄常池、Interlude、"
+msgstr ""
+
+#. ID 116, Page 1, Line 36, Pos (66,81)
+msgid ""
+"ターコイズの街並み、空の緑地、ハイパービビッド、\n"
+"……ぱっと思いつくのだとこの辺りですかね。\n"
+"(ver0.125i パッチ4時点)\n"
+"そのうちこの辺のマップも壁紙描きたいですね…"
+msgstr ""
+
+#. ID 116, Page 1, Line 40, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"まだまだいっぱいあるんですけど、\n"
+"ちょっと書き切れないのでこのへんで…"
+msgstr ""
+
+#. ID 116, Page 1, Line 45, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"じゃあ３つに絞って…１つ目はオリエンタル。"
+msgstr ""
+
+#. ID 116, Page 1, Line 47, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"あの薄暗い荒涼とした感じが好きです。"
+msgstr ""
+
+#. ID 116, Page 1, Line 49, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"オリエンタルの小部屋のこと、\n"
+"自分だけの秘密基地だと思っています。"
+msgstr ""
+
+#. ID 116, Page 1, Line 52, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"２つ目は渦巻砂漠。"
+msgstr ""
+
+#. ID 116, Page 1, Line 54, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"茫漠としたどこまでも続く地平。虫の音。"
+msgstr ""
+
+#. ID 116, Page 1, Line 56, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"砂の無い場所から見える背景もすてきですね。\n"
+"歩いてて自分がちっぽけに感じられるのもまた良き。"
+msgstr ""
+
+#. ID 116, Page 1, Line 59, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"３つ目は…めちゃ迷うんですけど…緑の港町で。"
+msgstr ""
+
+#. ID 116, Page 1, Line 61, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"どれもこれも丁寧に動きが付けられた、\n"
+"細かいこだわりがとてもすばらしさ…"
+msgstr ""
+
+#. ID 116, Page 1, Line 64, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"とことこ歩く室外機くんがお気に入りです。"
+msgstr ""
+
+#. ID 116, Page 1, Line 66, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"まだまだあるんですけど、やばい長さになるので\n"
+"３つで留めておきますね…"
+msgstr ""
+
+#. ID 116, Page 1, Line 79, Pos (66,81)
+#. ID 116, Page 1, Line 93, Pos (66,81)
+#. ID 116, Page 1, Line 110, Pos (66,81)
+#. ID 116, Page 1, Line 126, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"これとか…"
+msgstr ""
+
+#. ID 116, Page 1, Line 137, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"こんな感じのを描かせていただきました！\n"
+"また壁紙描きたいですね～"
+msgstr ""
+
+#. ID 116, Page 1, Line 143, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"まだ自分が描いた壁紙をお持ちでないみたいなので\n"
+"１枚だけチラ見せしますね…"
+msgstr ""
+
+#. ID 116, Page 1, Line 149, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"\\>ﾁﾗｯ\\<\\.\\^"
+msgstr ""
+
+#. ID 116, Page 1, Line 154, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"良かったら探してみてくださいね～"
+msgstr ""
+
+#. ID 116, Page 1, Line 161, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"他にも提供させてもらってる壁紙があるので\n"
+"探してみてくださいね～"
+msgstr ""
+
+#. ID 116, Page 1, Line 173, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"よいゆめ２っきライフを！"
+msgstr ""
+
+#. ID 116, Page 1, Line 175, Pos (66,81)
+msgid ""
+"せにゅしあ\n"
+"プレイするだけじゃなく、素材提供やツクラーとして\n"
+"参加するのもまた良きですぜ…"
+msgstr ""
+
+#. ID 119, Page 1, Line 1, Pos (42,53)
+msgid "『HAL』と読めそうな青き物体です。"
+msgstr ""
+
+#. ID 120, Page 1, Line 1, Pos (44,53)
+msgid "墓場に現れそうな『A』がいます。"
+msgstr ""
+
+#. ID 121, Page 1, Line 1, Pos (63,65)
+msgid ""
+"オハミハエル\n"
+"ゆめ2っきの中で一番好きな住人を\n"
+"描かせていただきました。"
+msgstr ""
+
+#. ID 121, Page 1, Line 4, Pos (63,65)
+msgid ""
+"オハミハエル\n"
+"あれです、吹雪の森にいる紫髪の人ですね。\n"
+"エフェクトによって多種多様な姿を見せてくれる\n"
+"愉快な人で私個人とても思い入れのある住人です。"
+msgstr ""
+
+#. ID 121, Page 1, Line 8, Pos (63,65)
+msgid ""
+"オハミハエル\n"
+"あなたも是非ゆめ2っきに壁紙提供をしてみませんか？"
+msgstr ""
+
+#. ID 122, Page 1, Line 1, Pos (67,65)
+msgid ""
+"しじま\n"
+"こんにちは！壁紙提供者のしじまです！"
+msgstr ""
+
+#. ID 122, Page 1, Line 3, Pos (67,65)
+msgid ""
+"しじま\n"
+"10年くらい前からずっと「壁紙を提供したい！」\n"
+"と思っていたので、私の壁紙が２っきの一部になれて\n"
+"とてもうれしく感じています！！！"
+msgstr ""
+
+#. ID 122, Page 1, Line 7, Pos (67,65)
+msgid ""
+"実は、元々壁紙No661は「湖底」に\n"
+"置いてもらう予定でした。\n"
+"しかし、「湖底」と「みなぞこ」をすっかり勘違い、\n"
+"「みなぞこ」の方に置いてしまいました。"
+msgstr ""
+
+#. ID 122, Page 1, Line 11, Pos (67,65)
+msgid ""
+"しじま\n"
+"思えば、この勘違いが無かったら他の壁紙たちは\n"
+"描かれることはなかったのかもしれません。"
+msgstr ""
+
+#. ID 122, Page 1, Line 14, Pos (67,65)
+msgid ""
+"しじま\n"
+"そこから様々な世界を描いて、1年足らずで\n"
+"すでに10枚以上描き上げています：‐０ｽｺﾞｲﾈ"
+msgstr ""
+
+#. ID 122, Page 1, Line 17, Pos (67,65)
+msgid ""
+"しじま\n"
+"あなたがこのメッセージを見る頃は\n"
+"しじまの壁紙は何枚描かれたでしょうか・・・"
+msgstr ""
+
+#. ID 122, Page 1, Line 20, Pos (67,65)
+msgid ""
+"しじま\n"
+"ぜひ、いろんな世界を歩いて集めてみてください"
+msgstr ""
+
+#. ID 122, Page 1, Line 22, Pos (67,65)
+msgid ""
+"しじま\n"
+"これからも素敵な世界を描いていけたらと思います！\n"
+"ここまで来てくれてありがとう！！\n"
+"ゆめ２っきの世界を楽しんでね：）"
+msgstr ""
+
+#. ID 123, Page 1, Line 1, Pos (74,73)
+msgid ""
+"有馬\n"
+"創作活動の原点って奴ですわ！ゆめ2っきよ永遠なれ…"
+msgstr ""
+
+#. ID 124, Page 1, Line 1, Pos (52,30)
+msgid "『n3』の名前が書かれた、観葉植物です。"
+msgstr ""
+
+#. ID 125, Page 1, Line 1, Pos (51,32)
+msgid "このオブジェクトは『418』と見えそうだ。"
+msgstr ""
+
+#. ID 126, Page 1, Line 1, Pos (53,34)
+msgid "この方は『ぴぬ』と名づけられています。"
+msgstr ""
+
+#. ID 127, Page 1, Line 1, Pos (49,33)
+msgid "『INT』が刻まれた、白い石碑です。"
+msgstr ""
+
+#. ID 128, Page 1, Line 2, Pos (52,50)
+msgid ""
+"ぎゃあ！ちょっと\n"
+"うしろからはなしかけないで　びっくりするから。\n"
+"……どうやって　かべのなか　はいったのさ。"
+msgstr ""
+
+#. ID 128, Page 1, Line 7, Pos (52,50)
+msgid ""
+"こんにちは　mizkuraです\n"
+"ちょっとだけ　マップを　つくりました"
+msgstr ""
+
+#. ID 128, Page 1, Line 9, Pos (52,50)
+msgid ""
+"ここまで　きてるってことは\n"
+"すっごく　ゆめ２っきをたのしんだひとね　あなた\n"
+"きょうみたゆめは　たのしかった？"
+msgstr ""
+
+#. ID 128, Page 1, Line 12, Pos (52,50)
+#. Choice (3 options)
+msgid ""
+"マップの話\n"
+"自分語り\n"
+"おわりにする"
+msgstr ""
+
+#. ID 128, Page 1, Line 14, Pos (52,50)
+msgid ""
+"デカいきんぎょがいるマップとか\n"
+"あかいいすがたくさんあるマップとか　つくりました\n"
+"うろゆさんのだいりじっそうも　させていただきました"
+msgstr ""
+
+#. ID 128, Page 1, Line 19, Pos (52,50)
+msgid ""
+"メニュータイプ　みつけてくれて　ありがとう\n"
+"しかも　つけてくれてるんだ……うれしいです"
+msgstr ""
+
+#. ID 128, Page 1, Line 23, Pos (52,50)
+msgid ""
+"あっ　メニュータイプ　みつけてくれたんですね\n"
+"ありがとう"
+msgstr ""
+
+#. ID 128, Page 1, Line 25, Pos (52,50)
+msgid ""
+"おみやげ……て　かんじで　じぶんでも\n"
+"きにいってます　よかったら　みてみてね"
+msgstr ""
+
+#. ID 128, Page 1, Line 33, Pos (52,50)
+msgid ""
+"むかしから　ゆめにっきと　はせいが　すきで\n"
+"じぶんでも　つくったり　していました\n"
+"こうして　かかわることができて　うれしいです"
+msgstr ""
+
+#. ID 128, Page 1, Line 36, Pos (52,50)
+msgid ""
+"さいしょは　かべがみだけかいて　やめておこうと\n"
+"おもっていたのですが\n"
+"おもいきって　さんかをひょうめいし\n"
+"いまにいたります"
+msgstr ""
+
+#. ID 128, Page 1, Line 40, Pos (52,50)
+msgid ""
+"ゆめ２っきは　すごいですね\n"
+"たくさんのうろつきさんがいて　そしてそれだけ\n"
+"たくさんの　ゆめがある\n"
+"それだけ　ながくあいされているのですね"
+msgstr ""
+
+#. ID 128, Page 1, Line 44, Pos (52,50)
+msgid ""
+"それでも　きっとあなたのたびじは\n"
+"あなただけのものです\n"
+"どうか　よいゆめを"
+msgstr ""
+
+#. ID 128, Page 1, Line 49, Pos (52,50)
+msgid ""
+"わかったじょ\n"
+"はなしかけてくれて　ありがとね"
+msgstr ""
+
+#. ID 128, Page 2, Line 1, Pos (52,50)
+msgid ""
+"お……お？\n"
+"デバッグちゅう　みたいですね。おつかれさまです。"
+msgstr ""
+
+#. ID 128, Page 2, Line 3, Pos (52,50)
+msgid ""
+"おれのマップは　デバッグちゅうだからといって\n"
+"べつに　なにか　かわるわけでもないからなあ\n"
+"……ホントだよ。"
+msgstr ""
+
+#. ID 128, Page 2, Line 6, Pos (52,50)
+msgid ""
+"＊mapID3111が個人用デバッグルーム的なものです。\n"
+"注釈等置いてあるので私の領域を編集する際は\n"
+"適当に読んどいてください。大した事書いてないが。"
+msgstr ""
+
+#. ID 130, Page 1, Line 2, Pos (40,33)
+msgid ""
+"夢箱と申します\n"
+"何か御用ですかな？"
+msgstr ""
+
+#. ID 130, Page 1, Line 5, Pos (40,33)
+#. Choice (4 options)
+msgid ""
+"制作参加の軌跡\n"
+"どこ作ったの？\n"
+"ヒント\n"
+"立ち去る"
+msgstr ""
+
+#. ID 130, Page 1, Line 7, Pos (40,33)
+msgid ""
+"ゆめ2っきのご制作に参加したのは\n"
+"2022/11/24ですね、この日に初めての世界を\n"
+"扉部屋にて追加させて頂きました。"
+msgstr ""
+
+#. ID 130, Page 1, Line 10, Pos (40,33)
+msgid ""
+"今日に至るまで、この文章を記してる\n"
+"2026/8/15まで色々なご経験をさせてもらいました。"
+msgstr ""
+
+#. ID 130, Page 1, Line 12, Pos (40,33)
+msgid ""
+"度々、界隈に大きなご迷惑をお掛けしました\n"
+"そのたびはご迷惑をお掛けして申し訳ございません\n"
+"だからこそ今は正しくあろうと志す私が御座います\n"
+"皆様が支えてくれたお陰です。"
+msgstr ""
+
+#. ID 130, Page 1, Line 16, Pos (40,33)
+msgid ""
+"ゆめ2っきのご制作に参加したいなぁ\n"
+"...と思った理由は当時はまだ其処らに居る\n"
+"ご普通のプレイヤーの一員でした。\n"
+"2022年の6月上旬頃からですね"
+msgstr ""
+
+#. ID 130, Page 1, Line 20, Pos (40,33)
+msgid ""
+"ゆめ2っきの色々とツクラー様の世界を散歩する度に\n"
+"思ったのです、私も本家「ゆめにっき」っぽいを\n"
+"作りたいとそして衝動抑えきれず\n"
+"気づいた内には制作のスレの方に書き込んでました。"
+msgstr ""
+
+#. ID 130, Page 1, Line 24, Pos (40,33)
+msgid ""
+"私は基本的に「皆様に楽しんで欲しい」という\n"
+"言葉を胸に制作を行っております。\n"
+"皆様のご応援の言葉や私の世界のファンアート\n"
+"日々の励みになっております、ありがたや"
+msgstr ""
+
+#. ID 130, Page 1, Line 28, Pos (40,33)
+msgid ""
+"とここで一旦\n"
+"正直に思うんですが、文字を使った物語系の\n"
+"世界を作ってて何か違うなと思うところもあります。"
+msgstr ""
+
+#. ID 130, Page 1, Line 31, Pos (40,33)
+msgid ""
+"「お前が始めた物語だろ」と言われれば\n"
+"その通りです、今もまだ物語は終着点へと\n"
+"着いていませんが、今更やり方を変えるのも\n"
+"違うのかなと"
+msgstr ""
+
+#. ID 130, Page 1, Line 35, Pos (40,33)
+msgid ""
+"なので近頃、物語の終焉をお送りいたします\n"
+"楽しみにしてもらえれば幸いです。"
+msgstr ""
+
+#. ID 130, Page 1, Line 37, Pos (40,33)
+msgid ""
+"今後もゆるーく更新を続けてゆくと思うので\n"
+"よろしくお願いします。"
+msgstr ""
+
+#. ID 130, Page 1, Line 42, Pos (40,33)
+msgid ""
+"ゆめ2っきの楽しむWikiで一般的に\n"
+"呼ばれる呼称を使うと"
+msgstr ""
+
+#. ID 130, Page 1, Line 44, Pos (40,33)
+msgid ""
+"扉部屋から行ける「碧眼世界」(へきがんせかい)\n"
+"の方面"
+msgstr ""
+
+#. ID 130, Page 1, Line 46, Pos (40,33)
+msgid ""
+"打捨てる絵画から訪問できる「幻想図書館」\n"
+"の方面全般"
+msgstr ""
+
+#. ID 130, Page 1, Line 48, Pos (40,33)
+msgid ""
+"あと彼方此方に世界を配置しています。\n"
+"「白樺の森」とか「gear＆white」とかがそうですね。"
+msgstr ""
+
+#. ID 130, Page 1, Line 50, Pos (40,33)
+msgid ""
+"あと「紅子」と呼ばれる少女の世界関連を\n"
+"作らせていただきました\n"
+"こちらの世界群は貯金箱の対象になってないので\n"
+"エンドコンテンツとして見てもらえればなと。"
+msgstr ""
+
+#. ID 130, Page 1, Line 54, Pos (40,33)
+msgid ""
+"まぁ、こんな感じですかね。\n"
+"他にも隠しエリアとか遊び心で作ったりしてます。\n"
+"一つ挙げるなら「静寂の森」から香りが"
+msgstr ""
+
+#. ID 130, Page 1, Line 60, Pos (40,33)
+#. Choice (4 options)
+msgid ""
+"紅の軌跡\n"
+"青い蝋燭\n"
+"彼女に会った回数\n"
+"～戻る～"
+msgstr ""
+
+#. ID 130, Page 1, Line 62, Pos (40,33)
+msgid ""
+"白樺の森にとある曰くつきの絵画が\n"
+"あるみたいですそしてその先"
+msgstr ""
+
+#. ID 130, Page 1, Line 64, Pos (40,33)
+msgid ""
+"とある彼方に存在する紅の少女。\n"
+"入手手段が意味深だったあのエフェクトに\n"
+"反応しそうです。"
+msgstr ""
+
+#. ID 130, Page 1, Line 67, Pos (40,33)
+msgid ""
+"そしてその少女と似た人物が\n"
+"田舎の奥の謎の施設に居るみたいです\n"
+"会うことが何かのトリガーになってるかも？"
+msgstr ""
+
+#. ID 130, Page 1, Line 71, Pos (40,33)
+msgid "...一つの結末を見送ったそうですね"
+msgstr ""
+
+#. ID 130, Page 1, Line 72, Pos (40,33)
+msgid "でもそれは"
+msgstr ""
+
+#. ID 130, Page 1, Line 76, Pos (40,33)
+msgid "\\C[1]終 わ り の 始 ま り で す"
+msgstr ""
+
+#. ID 130, Page 1, Line 79, Pos (40,33)
+#. ID 130, Page 1, Line 83, Pos (40,33)
+msgid ""
+"無理に深追いはしないでくださいね\n"
+"何をするかは貴方の自由なのですから。"
+msgstr ""
+
+#. ID 130, Page 1, Line 90, Pos (40,33)
+msgid ""
+"図書館でとある書物を読みましたか？\n"
+"凶暴な生物を抑える事ができる儀式の場がある\n"
+"協会が存在するとか...?"
+msgstr ""
+
+#. ID 130, Page 1, Line 94, Pos (40,33)
+msgid ""
+"...おや、どうやら見つけたようですね。\n"
+"凶暴に暴れまわっていた生物も制圧できたようで\n"
+"(例外も居るらしいですが...)"
+msgstr ""
+
+#. ID 130, Page 1, Line 97, Pos (40,33)
+msgid ""
+"そう言えば協会近くの木の下に抜け穴があるって\n"
+"噂があるとかないとか"
+msgstr ""
+
+#. ID 130, Page 1, Line 99, Pos (40,33)
+msgid ""
+"とりあえず、脅威の鎮圧\n"
+"お疲れ様です。"
+msgstr ""
+
+#. ID 130, Page 1, Line 103, Pos (40,33)
+msgid ""
+"碧眼世界の先を隈なく調べてみてください\n"
+"夕日と屋台ラーメンが目印ですよ。"
+msgstr ""
+
+#. ID 130, Page 1, Line 110, Pos (40,33)
+msgid ""
+"彼女に会った回数\\C[1]「\\V[4990]」\\C[0]ですね。\n"
+""
+msgstr ""
+
+#. ID 130, Page 1, Line 118, Pos (40,33)
+#. Choice (1 options)
+msgid "「」のヒント"
+msgstr ""
+
+#. ID 130, Page 1, Line 121, Pos (40,33)
+#. Choice (2 options)
+msgid ""
+"白い薔薇の母性\n"
+"目には目を"
+msgstr ""
+
+#. ID 130, Page 1, Line 123, Pos (40,33)
+msgid "壱・幻想ノ本浮遊スル 天と地　その番人"
+msgstr ""
+
+#. ID 130, Page 1, Line 124, Pos (40,33)
+msgid "弐・白黒ノ薔薇に植えられｼ存在"
+msgstr ""
+
+#. ID 130, Page 1, Line 125, Pos (40,33)
+msgid ""
+"弐つを成す時、猪高ぶる暗黒の地　その檻\n"
+"開かれる"
+msgstr ""
+
+#. ID 130, Page 1, Line 127, Pos (40,33)
+msgid ""
+"紅ノ結末見届けし時　蒼薔薇に彼女は訪れり\n"
+"一度で終わらない 二度目は裏切らない"
+msgstr ""
+
+#. ID 130, Page 1, Line 132, Pos (40,33)
+msgid ""
+"幻想ノ名刻まれシ　住居の一室\n"
+"その書物は真か嘘か？"
+msgstr ""
+
+#. ID 130, Page 1, Line 134, Pos (40,33)
+msgid ""
+"目には目を歯には歯を 本にはメガネを\n"
+"真実を見通すのだ"
+msgstr ""
+
+#. ID 130, Page 1, Line 139, Pos (40,33)
+#. Contains choice at line 3 (2 options)
+msgid ""
+"「」とは散った記憶の欠片\n"
+"貴方は真相を追うのですか？"
+msgstr ""
+
+#. ID 130, Page 1, Line 143, Pos (40,33)
+msgid ""
+"そう、貴方はさらなる深淵へと踏み込むか...\n"
+"ならば見つけてみなさい 六つの欠片を\n"
+"さすれば道が開かれる..."
+msgstr ""
+
+#. ID 130, Page 1, Line 146, Pos (40,33)
+msgid ""
+"...ふふっ 雰囲気づくりって大事ですよね\n"
+"それでは\n"
+"貴方の行きたいままに自由に夢をお楽しみくださいな。"
+msgstr ""
+
+#. ID 130, Page 1, Line 151, Pos (40,33)
+msgid ""
+"そうですか、ならば\n"
+"ご自由に夢世界を引き続き\n"
+"お楽しみいただければ幸いです"
+msgstr ""
+
+#. ID 130, Page 1, Line 162, Pos (40,33)
+msgid ""
+"ふむ、左様ですか\n"
+"ではでは、話しかけてくれてありがとね。"
+msgstr ""
+
+#. ID 130, Page 1, Line 170, Pos (40,33)
+msgid ""
+"ここまでの旅路、お疲れさまでした。\n"
+"これからも貴方に新しい夢のご縁がありますように..."
+msgstr ""
+
+#. ID 130, Page 1, Line 172, Pos (40,33)
+msgid "話しかけてくれてありがとね。"
+msgstr ""
+
+#. ID 130, Page 2, Line 2, Pos (40,33)
+msgid ""
+"アトリエの主の身体借りてます\n"
+"デバックお疲れ様です。"
+msgstr ""
+
+#. ID 130, Page 2, Line 4, Pos (40,33)
+msgid ""
+"余談だけどロングスリーパーを卒業したい\n"
+"もっと１日を堪能させてクレメンス"
+msgstr ""
+
+#. ID 131, Page 1, Line 1, Pos (64,79)
+msgid ""
+"猫山 睦月\n"
+"あ、どうも、はじめまして"
+msgstr ""
+
+#. ID 131, Page 1, Line 3, Pos (64,79)
+msgid ""
+"猫山 睦月\n"
+"猫山 睦月 と もうします\n"
+"そっとおじゃまさせてもらってます"
+msgstr ""
+
+#. ID 131, Page 1, Line 6, Pos (64,79)
+msgid ""
+"猫山 睦月\n"
+"実は PCの壁紙とか 描きました\n"
+"じぶんでもびっくりです"
+msgstr ""
+
+#. ID 131, Page 1, Line 9, Pos (64,79)
+msgid ""
+"猫山 睦月\n"
+"好きな世界、好きなキャラ、好きなうろつきの姿"
+msgstr ""
+
+#. ID 131, Page 1, Line 11, Pos (64,79)
+msgid ""
+"猫山 睦月\n"
+"色んな想いが詰まった ゆめ を\n"
+"これからもたくさん愛でていこう ね"
+msgstr ""
+

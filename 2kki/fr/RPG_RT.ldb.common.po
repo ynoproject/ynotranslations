@@ -723,7 +723,7 @@ msgstr ""
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "  Somnambule"
+msgstr "Somnambule"
 
 #. ID 69, Line 55
 msgid ""
