@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.9\n"
+
+#. ID 7, Page 1, Line 2, Pos (29,28)
+msgid "You are cancerful"
+msgstr "T'es cancer"
+
+#. ID 8, Page 1, Line 2, Pos (24,30)
+msgid "Die"
+msgstr "Crève"
+
+#. ID 9, Page 1, Line 2, Pos (29,33)
+msgid "Jump from the building"
+msgstr "Jette-toi du toit"
+
+#. ID 10, Page 1, Line 2, Pos (26,35)
+msgid "Nobody likes you"
+msgstr "Personne ne t'aime"
+
+#. ID 11, Page 1, Line 2, Pos (27,25)
+msgid "Don't talk to me"
+msgstr "Me parle pas"
+
+#. ID 14, Page 1, Line 3, Pos (35,7)
+msgid "I don't want to talk to him"
+msgstr "Je veux pas lui parler"
+
+#. ID 14, Page 1, Line 5, Pos (35,7)
+msgid ":("
+msgstr ""
