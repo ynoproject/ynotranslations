@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 31, Page 1, Line 3, Pos (2,3)
+msgid "\\>　　　　　　　 　    \\_■つる■\\<"
+msgstr "\\>                     ■Con Sếu■\\<"
+
+#. ID 32, Page 1, Line 3, Pos (6,3)
+msgid "\\>　　　　　　　 　    \\_■ゆき■\\<"
+msgstr "\\>                      ■Tuyết■\\<"
+
+#. ID 33, Page 1, Line 3, Pos (10,3)
+msgid "\\>　　　　　　　 　 \\_■ふきのとう■\\<"
+msgstr "\\>                   \\_■Nụ Kim Tâm■\\<"
+
+#. ID 34, Page 1, Line 3, Pos (14,3)
+msgid "\\>　　　　　　　 　   \\_■さくら■\\<"
+msgstr "\\>                     ■Anh Đào■\\<"
+
+#. ID 35, Page 1, Line 3, Pos (2,6)
+msgid "\\>　　　　　　　 　    \\_■かめ■\\<"
+msgstr "\\>                     ■Con Rùa■\\<"
+
+#. ID 36, Page 1, Line 3, Pos (6,6)
+msgid "\\>　　　　　　　 　  \\_■あじさい■\\<"
+msgstr "\\>                   \\_■Cẩm Tú Cầu■\\<"
+
+#. ID 37, Page 1, Line 3, Pos (10,6)
+msgid "\\>　　　　　　　 　  \\_■ひまわり■\\<"
+msgstr "\\>                   ■Huớng Dương■\\<"
+
+#. ID 38, Page 1, Line 3, Pos (14,6)
+msgid "\\>　　　　　　　 　  \\_■かげろう■\\<"
+msgstr "\\>                  \\_■Ảo Ảnh Nhiệt■\\<"
+
+#. ID 39, Page 1, Line 3, Pos (2,9)
+msgid "\\>　　　　　　　 　   \\_■けむり■\\<"
+msgstr "\\>                      \\_■Khói■\\<"
+
+#. ID 41, Page 1, Line 3, Pos (6,9)
+msgid "\\>　　　　　　　 　    \\_■きく■\\<"
+msgstr "\\>                     ■Hoa Cúc■\\<"
+
+#. ID 42, Page 1, Line 3, Pos (10,9)
+msgid "\\>　　　　　　　 　   \\_■もみじ■\\<"
+msgstr "\\>                    \\_■Lá Phong■\\<"
+
+#. ID 43, Page 1, Line 3, Pos (14,9)
+msgid "\\>　　　　　　　 　   \\_■とじる■\\<"
+msgstr "\\>                    \\_■Đóng Cửa■\\<"
+

@@ -1,0 +1,348 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "みつき"
+msgstr "Mitsuki"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "Véo má"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "ほほをつねってゆめからさめる。"
+msgstr "Véo má để tỉnh dậy."
+
+#. ID 1
+#. ID 21
+msgctxt "items.name"
+msgid "つる"
+msgstr "Con Sếu"
+
+#. ID 1
+#. ID 21
+msgctxt "items.description"
+msgid "「つる」になる。"
+msgstr "Biến thành một chú sếu."
+
+#. ID 2
+#. ID 22
+msgctxt "items.name"
+msgid "ゆき"
+msgstr "Tuyết"
+
+#. ID 2
+#. ID 22
+msgctxt "items.description"
+msgid "「ゆき」のかたまりになる。"
+msgstr "Biến thành một cục tuyết."
+
+#. ID 3
+#. ID 23
+msgctxt "items.name"
+msgid "ふきのとう"
+msgstr "Nụ Kim Tâm"
+
+#. ID 3
+#. ID 23
+msgctxt "items.description"
+msgid "「ふきのとう」になる。"
+msgstr "Biến thành nụ hoa kim tâm."
+
+#. ID 4
+#. ID 24
+msgctxt "items.name"
+msgid "さくら"
+msgstr "Anh Đào"
+
+#. ID 4
+#. ID 24
+msgctxt "items.description"
+msgid "「さくら」のえだがはえる。"
+msgstr "Mọc vài cành hoa anh đào."
+
+#. ID 5
+#. ID 25
+msgctxt "items.name"
+msgid "かめ"
+msgstr "Con Rùa"
+
+#. ID 5
+#. ID 25
+msgctxt "items.description"
+msgid "「かめ」になる。"
+msgstr "Biến thành một chú rùa."
+
+#. ID 6
+#. ID 26
+msgctxt "items.name"
+msgid "あじさい"
+msgstr "Cẩm Tú Cầu"
+
+#. ID 6
+#. ID 26
+msgctxt "items.description"
+msgid "「あじさい」がらのかさをさす。"
+msgstr "Cầm một chiếc ô có họa tiết hoa cẩm tú cầu."
+
+#. ID 7
+#. ID 27
+msgctxt "items.name"
+msgid "ひまわり"
+msgstr "Hướng Dương"
+
+#. ID 7
+#. ID 27
+msgctxt "items.description"
+msgid "「ひまわり」になる。"
+msgstr "Biến thành một cành hoa hướng dương."
+
+#. ID 8
+#. ID 28
+msgctxt "items.name"
+msgid "かげろう"
+msgstr "Ảo Ảnh Nhiệt"
+
+#. ID 8
+#. ID 28
+msgctxt "items.description"
+msgid "「かげろう」になる。"
+msgstr "Biến thành hiện tượng ảo ảnh nhiệt."
+
+#. ID 9
+#. ID 29
+msgctxt "items.name"
+msgid "けむり"
+msgstr "Khói"
+
+#. ID 9
+#. ID 29
+msgctxt "items.description"
+msgid "「けむり」になる。"
+msgstr "Biến thành một làn khói."
+
+#. ID 10
+#. ID 30
+msgctxt "items.name"
+msgid "きく"
+msgstr "Hoa Cúc"
+
+#. ID 10
+#. ID 30
+msgctxt "items.description"
+msgid "「きく」をもつ。"
+msgstr "Cầm một nhành hoa cúc."
+
+#. ID 11
+#. ID 31
+msgctxt "items.name"
+msgid "もみじ"
+msgstr "Lá Phong"
+
+#. ID 11
+#. ID 31
+msgctxt "items.description"
+msgid "「もみじ」がらのふくをきる。"
+msgstr "Mặc bộ trang phục hoa văn hình lá phong."
+
+#. ID 12
+#. ID 32
+msgctxt "items.name"
+msgid "とじる"
+msgstr "Đóng Cửa"
+
+#. ID 12
+#. ID 32
+msgctxt "items.description"
+msgid "とびらを「とじる」。"
+msgstr "Khép lại cánh cửa."
+
+#. ID 20
+msgctxt "items.name"
+msgid "↑本物　/　ダミー↓"
+msgstr "↑Thật　/　Hình nộm↓"
+
+#. ID 40
+msgctxt "items.name"
+msgid "ゲームのせつめい"
+msgstr "Hướng Dẫn"
+
+#. ID 40
+msgctxt "items.description"
+msgid "ゲームのせつめいをみる。"
+msgstr "Đọc hướng dẫn game."
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "Yên"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "Hiệu ứng"
+
+msgctxt "terms.command_skill"
+msgid "おきる"
+msgstr "Thức dậy"
+
+msgctxt "terms.menu_equipment"
+msgid "ふくそう"
+msgstr "Trang phục"
+
+msgctxt "terms.menu_quit"
+msgid "とじる"
+msgstr "Đóng lại"
+
+msgctxt "terms.new_game"
+msgid "はじめる"
+msgstr "Bắt đầu"
+
+msgctxt "terms.load_game"
+msgid "よむ"
+msgstr "Đọc"
+
+msgctxt "terms.exit_game"
+msgid "とじる"
+msgstr "Khép lại"
+
+msgctxt "terms.health_points"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "$T"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr "HU"
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "$T"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "シャツ"
+msgstr "Áo"
+
+msgctxt "terms.helmet"
+msgid "スカート"
+msgstr "Váy"
+
+msgctxt "terms.accessory"
+msgid "くつ"
+msgstr "Giày"
+
+msgctxt "terms.save_game_message"
+msgid "どこにかく？"
+msgstr "Viết vào đâu?"
+
+msgctxt "terms.load_game_message"
+msgid "どれをよむ？"
+msgstr "Đọc trang nào?"
+
+msgctxt "terms.file"
+msgid "ページ"
+msgstr "Trang"
+
+msgctxt "terms.exit_game_message"
+msgid "とじる？"
+msgstr "Thoát?"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "Có"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "Không"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""
+
