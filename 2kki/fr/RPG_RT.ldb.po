@@ -20,7 +20,7 @@ msgstr "Urotsuki"
 #. ID 1
 msgctxt "actors.title"
 msgid "夢遊病"
-msgstr "  Somnambule"
+msgstr "Somnambule"
 
 #. ID 2
 msgctxt "actors.name"
