@@ -399,6 +399,8 @@ msgstr ""
 #. Choice (2 options, embedded in a message)
 #. ID 78, Page 2, Line 12, Pos (52,64)
 #. Choice (2 options)
+#. ID 130, Page 1, Line 141, Pos (40,33)
+#. Choice (2 options, embedded in a message)
 msgid ""
 "はい\n"
 "いいえ"
@@ -1339,7 +1341,7 @@ msgstr ""
 #. ChangeHeroName (Actor 7)
 msgctxt "actors.name"
 msgid "うろつき"
-msgstr ""
+msgstr "Urotsuki"
 
 #. ID 67, Page 2, Line 63, Pos (32,68)
 #. ChangeHeroName (Actor 1)

@@ -1774,7 +1774,7 @@ msgstr ""
 "\\>\\C[10]■ \\C[6]Register as PC Screen BGM\\C[0]\n"
 "\\>\n"
 "\\>> You can enable the registered track on the PC\n"
-"\\>> via \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]Menu Theme\\C[0]\\_>\\_\\C[4]PC Screen BGM\\C[0]\n"
+"\\>> via \\C[4]TOOLS\\C[0]\\_>\\_\\C[4]MenuTheme\\C[0]\\_>\\_\\C[4]PC Screen BGM\\C[0]\n"
 
 #. ID 1, Page 3, Line 13, Pos (19,14)
 #. Condition (Actor Name = 【SR分室の変動をチェックする】)
