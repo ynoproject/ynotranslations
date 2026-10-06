@@ -1,0 +1,1005 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans"
+
+#. ID 15, Line 4
+#. Contains choice at line 2 (3 options)
+msgid "What do you want to do?"
+msgstr "Bạn muốn làm gì?"
+
+#. ID 15, Line 5
+#. Choice (3 options, embedded in a message)
+msgid ""
+"Save\n"
+"Change Menu Style\n"
+"View Stats"
+msgstr ""
+"Lưu\n"
+"Thay Đổi Kiểu Menu\n"
+"Xem Tiến Trình"
+
+#. ID 17, Line 74
+msgid "Select menu graphic:"
+msgstr "Chọn kiểu menu:"
+
+#. ID 17, Line 107
+#. ID 17, Line 120
+#. ID 17, Line 133
+#. ID 17, Line 146
+#. ID 17, Line 159
+#. ID 17, Line 172
+msgid "Option not unlocked.\\|\\^"
+msgstr "Lựa chọn chưa được mở khóa.\\|\\^"
+
+#. ID 17, Line 179
+#. Contains choice at line 2 (2 options)
+msgid "Menu graphics changed.\\|\\^"
+msgstr "Đã thay đổi kiểu menu.\\|\\^"
+
+#. ID 17, Line 180
+#. Choice (2 options, embedded in a message)
+msgid ""
+"OK\n"
+"Select again."
+msgstr ""
+"OK\n"
+"Chọn lại."
+
+#. ID 22, Line 11
+msgid ""
+"A familiar face always waiting there at the start\n"
+"of every dream. She looks like one of my friends."
+msgstr ""
+"Một gương mặt thân quen luôn chờ đợi ngay khúc đầu\n"
+"mọi giấc mơ. Bạn ấy trông như một người bạn của\n"
+"mình vậy."
+
+#. ID 22, Line 28
+msgid ""
+"There is often someone with alarms growing out\n"
+"of their head wandering around. They become quite\n"
+"hostile when provoked, oozing an unnatural\n"
+"substance as their face becomes a dark void."
+msgstr ""
+"Nhiều lúc có ai đó lang thang với mấy ngọn đèn báo \n"
+"mọc ra từ đỉnh đầu họ. Họ trở nên khá hung hăng \n"
+"khi bị kích động, rồi ứa ra một chất lạ khi mặt \n"
+"mày họ tối sầm lại thành một khoảng không đen kịt."
+
+#. ID 22, Line 47
+msgid ""
+"There was an unusual monster whose presence made\n"
+"the surrounding area feel suffocating. It was\n"
+"aggressive, but seemed to be guarding something\n"
+"rather than lashing out in rage."
+msgstr ""
+"Có một con quái thú khiến bầu không khí xung \n"
+"quanh cảm thấy ngột ngạt. Nó hung hăng nhưng lại y\n"
+"như đang bảo vệ một thứ gì đó thay vì chỉ hung \n"
+"hăng đơn giản vì một cơn giận."
+
+#. ID 22, Line 66
+msgid ""
+"There was a glimpse of one of my friends in an\n"
+"area shrouded in an unwelcoming atmosphere.\n"
+"Perhaps I was no longer in my own dream."
+msgstr ""
+"Mình chợt thấy một người bạn giữa một trốn mang \n"
+"thứ ác khí nào đấy. Có lẽ lúc đó mình không còn \n"
+"còn ở trong chính giấc mơ của bản thân nữa."
+
+#. ID 22, Line 84
+msgid ""
+"In an attic-like area full of dust bunnies, one\n"
+"stood out as the leader. Atop its head was a charm\n"
+"to ward off evil."
+msgstr ""
+"Ở một khu vực tựa như gác mái đầy rẫy nhưng chú \n"
+"thỏ bụi, có một con là thủ lĩnh. Trên đầu nó \n"
+"có một vật linh thiêng để xua đi thế lực tà ác."
+
+#. ID 22, Line 102
+msgid ""
+"There was a monstrous bat-like creature housing\n"
+"a sickly-looking person in its hollowed body.\n"
+"It seemed to be looking after them."
+msgstr ""
+"Có một con quái vật trông như con dơi đang ôm chọn\n"
+"lấy một người ốm yếu trong cái thân thể trống rỗng\n"
+"của nó. Y như thể nó đang chăm sóc cho họ vậy."
+
+#. ID 22, Line 120
+msgid ""
+"Managing a shop in a town was a demon of sorts\n"
+"with a skull-like head. It demanded blood as\n"
+"payment from me, but it didn't have to be my own..."
+msgstr ""
+"Điều hành một cửa hàng trong khu thị trấn là một\n"
+"con quỷ với chiếc đầu lâu thay cho cái đầu của nó.\n"
+"Nó yêu cầu chút máu làm phương thức thanh toán, \n"
+"nhưng lại không nhất thiết phải là máu của mình...\n"
+
+#. ID 22, Line 138
+msgid ""
+"On the top floor of a vibrant tower was somebody\n"
+"who seemed to be the head honcho of the place.\n"
+"The building itself was full of what seemed to be\n"
+"a liquid form of electricity."
+msgstr ""
+"Ở trên tầng thượng của một tòa tháp rực rỡ màu là\n"
+"một ai đó có vẻ là cấp cao của trốn này. Nơi đây \n"
+"đầy ắp thứ mà có vẻ như là điện ở dạng lỏng."
+
+#. ID 22, Line 157
+msgid ""
+"Hidden away in a place where it had been forgotten\n"
+"was a beach made of pink sand. The only person on\n"
+"the beach had also been forgotten..."
+msgstr ""
+"Được giấu đi tại một nơi chẳng ai thèm nhớ đến là \n"
+"một bờ biển có cát là màu hồng. Người duy nhất ở \n"
+"đó là một người cũng đã bị lãng quên..."
+
+#. ID 22, Line 175
+msgid ""
+"Overlooking the scene of a tornado was a forlorn\n"
+"girl with a weather vane lodged in her head.\n"
+"Her distant gaze was fixed on the horizon."
+msgstr ""
+"Nhìn ra khung cảnh một cơn lốc xoáy là một cô gái\n"
+"sầu bi với chiếc chong chóng gió găm vào đầu.\n"
+"Cái ánh nhìn của cô ấy lại đăm đăm vào chân trời \n"
+"phía xa."
+
+#. ID 22, Line 193
+msgid ""
+"At the bottom of an ocean was a strange fish in a\n"
+"sheltered area. It almost seemed to be sobbing to\n"
+"itself over something. Maybe it wanted to escape."
+msgstr ""
+"Sâu dưới đáy đại dương là một con cá kỳ lạ ở một \n"
+"nơi kín đáo. Nó trông như thể đang khóc thút thít\n"
+"vì cái gì đấy. Chắc nó muốn được trả tự do."
+
+#. ID 22, Line 211
+msgid ""
+"Atop a mountain in a land riddled with pools of\n"
+"boiling water was a person playing a pan flute.\n"
+"It was a very peaceful area..."
+msgstr ""
+"Trên đỉnh núi tại một vùng đất đầy những hồ nước\n"
+"sôi là một người thổi cây sáo Pan. Nơi đó quả thật\n"
+"vô cùng yên bình..."
+
+#. ID 22, Line 229
+msgid ""
+"Within a maze of castle ramparts was a lonesome\n"
+"gargoyle statue. Even if their job is to sit there\n"
+"warding off evil, it must get lonely sometimes."
+msgstr ""
+"Giữa một mê cung tạo thành bởi những bức tường \n"
+"pháo đài là một bức tượng gargoyle lẻ loi. Tuy \n"
+"công việc của chúng chỉ là ngồi đó và xua đi ác \n"
+"khí, chắc cũng phải có lúc nó lại khá cô đơn."
+
+#. ID 22, Line 247
+msgid ""
+"Deep within a forest of scarlet trees was a tall\n"
+"monster. The strawberries around it seemed to \n"
+"contain bones within their flesh.\n"
+"Maybe they weren't strawberries to begin with."
+msgstr ""
+"Sâu trong một cánh rừng lá đỏ là một con quái thú\n"
+"rất cao. Mấy quả dâu quanh nó như có chút xương \n" 
+"xẩu trong lớp ruột.\n"
+"Chắc ngay từ đầu chúng đã không phải là dâu rồi."
+
+#. ID 22, Line 266
+msgid ""
+"Atop some buildings engulfed in a fog of sorts\n"
+"was an odd creature hanging off a ledge. It was\n"
+"reaching out, as if something, or someone, had\n"
+"fallen off the building."
+msgstr ""
+"Trên nóc mấy tòa nhà bao phủ bởi màn sương là một\n"
+"sinh vật lạ kỳ treo leo ở chỗ mép. Nó dang tay ra\n"
+"như thể có gì đó, hoặc ai đó, đã ngã xuống."
+
+#. ID 22, Line 285
+msgid ""
+"Camping inside a snowy cave was somebody roasting\n"
+"marshmallows over a radiating chunk of meteorite.\n"
+"It was a cozy shelter, the warmth of the rock was\n"
+"the perfect temperature."
+msgstr ""
+"Ngồi trong một cái hang tuyết là một người nào đó\n"
+"đang nướng mấy cục kẹo dẻo ngay trên một thiên \n" 
+"thạch đang tỏa nhiệt. Đúng là một nơi trú ấm áp, \n"
+"nhiệt tỏa ra từ thiên thạch ấy ở mức rất vừa đủ."
+
+#. ID 22, Line 304
+msgid ""
+"Working in an aquarium were a bunch of fish-like\n"
+"people. An angler fish girl, a lobster dog, a guy\n"
+"with a whole fish for a head... They would easily\n"
+"blend in with the creatures in the enclosures."
+msgstr ""
+"Làm việc trong một khu thủy cung là một đám người\n"
+"tựa như cá. Một cô cá lồng đèn, một chú chó là con\n"
+"tôm hùm, một ông nào đó với hẳn một con cá thay \n"
+"cho cái đầu...\n<easyrpg:new_page>\nHọ trông không khác gì những loài sinh vật đằng\n"
+"sau mấy tấm kính."
+
+#. ID 22, Line 323
+msgid ""
+"Atop a ledge in an underwater place was somebody\n"
+"carrying a tuning fork. After grabbing their\n"
+"attention, they led the way to the deepest depths\n"
+"of the ocean."
+msgstr ""
+"Ngay sát mép ở một nơi dưới nước là một người cầm\n"
+"theo chiếc âm thoa. Sau khi thu được sự chú ý của\n"
+"họ, họ dẫn đường tới nơi sâu thẳm nhất của đại \n"
+"dương."
+
+#. ID 22, Line 342
+msgid ""
+"When it became dark in the apartments, a person\n"
+"with a candle on their head showed up. They seemed\n"
+"to be trying to contact a strange demon with a\n"
+"skewer pierced through its head."
+msgstr ""
+"Lúc khu căn hộ tối sầm lại, một người với ngọn nến\n"
+"trên đầu xuất hiện. Họ trông như đang cố để giao \n"
+"tiếp với một con quỷ với một chiếc móc xiên qua \n"
+"đầu nó."
+
+#. ID 22, Line 361
+msgid ""
+"There was a fifth floor in the apartments with a\n"
+"single room on it. Within the room was somebody\n"
+"whose noisy thoughts were manifesting above their\n"
+"head in a cloud of scribbles."
+msgstr ""
+"Ở khu căn hộ có thêm tầng thứ năm chỉ có mỗi một \n"
+"phòng. Trong đó có một người với đống suy nghĩ \n"
+"lộn xộn của họ hóa thành một đám mây đầy những \n"
+"nét nguệch ngoạc lơ lửng trên đầu."
+
+#. ID 22, Line 380
+msgid ""
+"Various motionless beings stood in a purple city. \n"
+"They might be machines, or holograms, or something \n"
+"else entirely. I found a workshop housing some,\n"
+"but the person in charge was sleeping on the job."
+msgstr ""
+"Có rất nhiều những sinh vật đứng bất động trong \n"
+"một thành phố toàn sắc tím. Chúng có thể là người \n"
+"máy, hoặc hình chiếu, hoặc một thứ gì đó khác \n"
+"hoàn toàn.\n<easyrpg:new_page>\nMình tìm đến một cuộc hội thảo có xuất hiện một \n"
+"vài những thứ này, nhưng người giám sát lại đang \n"
+"ngủ ngay trong ca."
+
+#. ID 22, Line 399
+msgid ""
+"There was a very tall, monster-headed figure.\n"
+"It spoke incomprehensible words to another figure.\n"
+"Can't remember the rest, but it wasn't good."
+msgstr ""
+"Có một bóng hình rất cao với cái đầu mang hình thù\n"
+"dị hợm của một con quái vật. \n"
+"Nó nói ra những thứ ngôn từ khó nghe với một ai \n"
+"khác.\n<easyrpg:new_page>\nMình không nhớ còn gì khác nữa, nhưng mình không \n"
+"hề thấy dễ chịu chút nào."
+
+#. ID 22, Line 417
+msgid ""
+"Braving a snowstorm were a bunch of soldier-like\n"
+"creatures. They seemed to be prepared for battle,\n"
+"attacking them wouldn't be a good idea."
+msgstr ""
+"Cam chịu giữa cơn bão tuyết là một vài sinh vật \n"
+"giống những người lính. Chúng có vẻ rất sẵn sàng\n"
+"cho việc chiến đấu, nên việc công kích không phải\n"
+"là ý tưởng tốt."
+
+#. ID 22, Line 435
+msgid ""
+"Inside an aeroplane was a very large creature who\n"
+"seemed to be able to pilot the entire thing with\n"
+"a small device. All of its passengers were tiny\n"
+"critters whose gaze stayed fixed on me."
+msgstr ""
+"Trên chiếc máy bay là một sinh vật to lớn có vẻ \n"
+"như đang điều khiển toàn bộ phương tiện chỉ với \n"
+"một thiết bị nhỏ. Hành khách của nó là những loài\n"
+"vật tí hon cứ nhìn chằm chằm vào mình."
+
+#. ID 22, Line 454
+msgid ""
+"There was a temple dedicated to some sort of moth\n"
+"deity. It was full of ghostly entities, and the\n"
+"person in charge was very moth-like too.\n"
+"However, something felt off about the place."
+msgstr ""
+"Có một ngôi đền nhằm thờ cúng một vị thần nào đó\n"
+"là một chú bướm. Nơi ấy đông đúc các thực thể là\n"
+"các hồn ma, kể cả người đứng đầu nơi đó cũng rất\n"
+"giống một con bướm.\n<easyrpg:new_page>\nTuy vậy, có gì đấy không đúng về trốn này."
+
+#. ID 22, Line 473
+msgid ""
+"There was a small room inside a cuckoo clock that\n"
+"housed a cat with a clock for a body. Its room\n"
+"was a cozy shelter away from the constant rain\n"
+"and gloom outside."
+msgstr ""
+"Có một căn phòng nhỏ ngay trong chiếc đồng hồ nơi\n"
+"có một chú mèo cũng với một chiếc đồng hồ ở thân \n"
+"nó. Căn phòng ấy là một nơi trú ẩn ấm cúng khỏi \n"
+"cơn mưa không nguôi và hiểm nguy bên ngoài."
+
+#. ID 22, Line 492
+msgid ""
+"In an area constantly battered by stormy weather\n"
+"there was a flying creature unfazed by the awful\n"
+"conditions. It had to be lured down from the sky."
+msgstr ""
+"Giữa một nơi liên tục hứng chịu giông tố, có một\n"
+"sinh vật có cánh không chịu ảnh hưởng bởi cái tiết\n"
+"trời khốc liệt này. Nó cần phải được dụ dỗ để cách\n"
+"xa bầu trời hơn."
+
+#. ID 22, Line 510
+msgid ""
+"There were some strange things in a stormy area.\n"
+"A blue woman spinning around and around with no\n"
+"signs of stopping, and bright snake-like creatures\n"
+"that resembled lightning."
+msgstr ""
+"Có vài thứ khá kì tại một nơi toàn bão tố.\n"
+"Một người phụ nữ mang sắc xanh dương cứ xoay vòng\n"
+"mãi không ngừng nghỉ, và các sinh vật tựa như \n"
+"những con rắn xanh phát sáng giống mấy tia chớp."
+
+#. ID 22, Line 529
+msgid ""
+"In a rainy village there was a vampire boy who had\n"
+"lost the key to his house. It was in a nearby park\n"
+"that was full of hedges and had strange wiggling\n"
+"objects dotted around the place."
+msgstr ""
+"Ở một ngôi làng trong cơn mưa có một cậu bé là ma\n" 
+"cà rồng đã đánh mất chìa khóa nhà. Cái chìa nằm \n" 
+"ở khu công viên gần đó mà có đầy tường rào bằng \n" 
+"cây và mấy vật lạ ngoe nguẩy khắp nơi."
+
+#. ID 22, Line 548
+msgid ""
+"Standing on a stage was a raccoon dog pretending\n"
+"to be me. Seeing yourself like that feels surreal,\n"
+"at least it was just an illusion."
+msgstr ""
+"Đứng trên sân khấu là một con lửng chó đang nhại\n"
+"lại ngoại hình của mình. Trông thấy bản thân như \n"
+"vậy rất lạ lẫm, nhưng ít ra nó cũng chỉ là ảo ảnh."
+
+#. ID 22, Line 566
+msgid ""
+"There was a hospital full of strange pallid beings.\n"
+"They seemed to be patients, did an illness do this\n"
+"to them, or do they normally look like that?\n"
+"There was a lone nurse looking after them..."
+msgstr ""
+"Có một bệnh viện đông đúc những cá thể nhợt nhạt.\n"
+"Họ có vẻ là bệnh nhân, có một căn bệnh làm thế này\n"
+"với họ hay họ bình thường cũng trông như vậy nhỉ?\n"
+"Cũng có một cô y tá quanh đó chăm sóc họ nữa..."
+
+#. ID 22, Line 585
+msgid ""
+"In a place full of transmission towers there were\n"
+"a pair of electricians that appeared after the\n"
+"lights went out. Wonder how they found out about\n"
+"the problem so quickly."
+msgstr ""
+"Ở một trốn đầy rẫy những cây cột phát sóng, có\n"
+"hai người thợ điện xuất hiện ngay sau khi đèn tắt.\n"
+"Không biết làm thế nào mà họ phát hiện ra vấn đề \n"
+"nhanh như vậy nhỉ."
+
+#. ID 22, Line 604
+msgid ""
+"There was a radio studio of some sort in a city\n"
+"whose skyline was lined with neon shapes. \n"
+"Somehow, the owl creature manning the controls\n"
+"can broadcast music to other parts of a dream."
+msgstr ""
+"Có một căn studio radio giữa thành phố có chân\n" 
+"trời được tô nét bằng những hình thù màu neon. \n"
+"Bằng cách nào đó mà chú cú mèo điều khiển những\n"
+"thiết bị có thể phát thanh nhạc tới các nơi khác."
+
+#. ID 22, Line 623
+msgid ""
+"There was a town with many waterways, home to many\n"
+"hard-working creatures. They don't seem to be\n"
+"completely organic, and there was a poster that\n"
+"referred to them as \"Mooks.\""
+msgstr ""
+"Có một thị trấn với rất nhiều kênh mương, là nơi\n"
+"sinh sống của nhiều sinh vật có tính cần cù. \n"
+"Chúng có vẻ không hoàn toàn hữu cơ, và còn có một\n"
+"tấm áp phích gọi chúng bằng cái tên \"Mook.\""
+
+#. ID 22, Line 642
+msgid ""
+"The leader of the waterway town was a fox-like\n"
+"person who ran away when approached. They might\n"
+"be responsible for creating all the creatures that\n"
+"populate the town."
+msgstr ""
+"Thị trưởng của cái thị trấn kênh rạch ở đây là một\n"
+"người lai cáo đã bỏ chạy đi khi tiếp cận. Chắc họ\n"
+"là người chịu trách nhiệm cho việc tạo ra các\n"
+"sinh vật sinh sống khắp thị trấn."
+
+#. ID 22, Line 661
+msgid ""
+"In a garden centre there was a stern-looking girl\n"
+"in charge of the place. She seemed to be training\n"
+"some sort of plant creature so that it could work\n"
+"as an employee in the place."
+msgstr ""
+"Ở một tiệm bán đồ làm vườn là một cô gái trông \n"
+"rất cứng nhắc là chủ nơi đây. Cô ta như đang huấn\n"
+"luyện cho một loài quái thú là thực vật làm nhân\n"
+"viên cho cửa hàng này."
+
+#. ID 22, Line 680
+msgid ""
+"In the basement of the garden centre was a monster\n"
+"whose body was comprised of a botanical mess.\n"
+"It's extremely protective of a red flower that was\n"
+"down there, and the shop owner knows about it..."
+msgstr ""
+"Dưới tầng hầm của tiệm hàng có một con quái thú \n"
+"được cấu thành bởi một mớ cây cỏ hỗn độn.\n"
+"Nó nhất quyết che trở cho một bông hoa đỏ dưới đó,\n"
+"và chủ cửa hàng cũng biết về điều này..."
+
+#. ID 22, Line 699
+msgid ""
+"After a world full of music notes fell silent,\n"
+"a fiend appeared out of nowhere to dance on the\n"
+"graves of the beings that had died."
+msgstr ""
+"Sau khi một thế giới đầy ắp những nốt nhạc lặng \n"
+"đi, có một tên thù xuất hiện từ đâu đó và nhảy \n"
+"nhót ngay trên nấm mồ của những sinh vật đã khuất \n"
+"ngay trước đó."
+
+#. ID 22, Line 717
+msgid ""
+"Sitting on a small jetty in a verdant place was a\n"
+"boy dressed like a magpie. Out in the water were\n"
+"some other creatures lurking in the depths. Was\n"
+"he waiting for them to come out?"
+msgstr ""
+"Ngồi trên bến đò nhỏ giữa nơi cây cỏ xanh um là \n"
+"một cậu bé ăn mặc như một chú chim bói cá. \n"
+"Ngoài kia là vài các loài vật khác đang quanh quẩn \n"
+"ở vũng sâu.\n<easyrpg:new_page>\nChắc là cậu ta đang chờ chúng nhô lên khỏi mặt \n"
+"nước?"
+
+#. ID 22, Line 736
+msgid ""
+"In the depths of a dream there was a room with a\n"
+"leering statue inside. Atop it was a firefly-like\n"
+"creature drawing on a hanging board. It looked\n"
+"like it collected things from other dreams."
+msgstr ""
+"Ở những nơi sâu thẳm của một cơn mơ là một căn \n"
+"phòng chứa một bức tượng. Trên đó là một con\n"
+"đom đóm đang vẽ vời trên tấm bảng treo trước mặt.\n<easyrpg:new_page>\nCó vẻ nó đã thu thập được mấy món này từ các giấc \n" 
+"mơ khác."
+
+#. ID 22, Line 755
+msgid ""
+"There was a boy with a power cord attached to his\n"
+"body standing in a place full of traffic lights\n"
+"and road signs. He was hiding inside an enclosed \n"
+"area, away from the chaotic signs and lights."
+msgstr ""
+"Có một cậu bé với sợi dây cắm gắn liền vào thân \n"
+"đứng giữa một nơi đầy những cột đèn giao thông \n"
+"và biển báo. Cậu ta trốn trong một nơi khép kín,\n"
+"tách biệt khỏi chỗ có đống biển và đèn đường."
+
+#. ID 22, Line 774
+msgid ""
+"In a swamp full of houses on stilts there was a\n"
+"fishing pond built into a hill. The fish you could\n"
+"catch there were strange, and the water seemed\n"
+"incredibly deep for how small the pond was."
+msgstr ""
+"Ở một khu đầm với những ngôi nhà sàn, có một ao \n" 
+"cá xây ngay trong ngọn đồi. Những con cá bắt được\n"
+"ở đây rất kỳ quặc, và cái ao có vẻ sâu hơn rất \n"
+"nhiều so với kích cỡ của nó."
+
+#. ID 22, Line 793
+msgid ""
+"At some point while wandering through some sort\n"
+"of ventilation shaft system, everything started\n"
+"to crumble away. Eventually there was nothing but\n"
+"a void and a monstrous entity."
+msgstr ""
+"Có một lúc khi đang mần mò qua hệ thống thông gió\n"
+"nào đó, mọi thứ bắt đầu đổ nát dần dần. Rồi tự \n"
+"dưng lại chẳng có gì ngoài khoảng không và một \n"
+"thực thể quái thai."
+
+#. ID 22, Line 812
+msgid ""
+"There were holes housing various things that could\n"
+"be seen through air vents. One had an embryo-like \n"
+"creature, nestled in a mass of pulsating flesh. \n"
+"Something about the sight was harrowing."
+msgstr ""
+"Có một đống khe hở chứa nhiều những thứ có thể \n"
+"thấy được qua những chiếc lỗ thông gió. Một trong\n"
+"số đó lại có một vật giống phôi thai được bao \n"
+"chùm trong mớ thịt đập thình thịch.\n<easyrpg:new_page>\nCó cái gì đó về cảnh này mà lại rất nặng nề."
+
+#. ID 28, Line 2
+msgid ""
+"\\S[1]Effects Owned: \\V[3]/15\\.\n"
+"Menus Unlocked: \\V[15]/6\\.\n"
+"Times Slept: \\V[17]"
+msgstr ""
+"\\S[1]Hiệu Ứng Đã Thu Thập: \\V[3]/15\\.\n"
+"Kiểu Menu Đã Mở Khóa: \\V[15]/6\\.\n"
+"Số Lần Ngủ: \\V[17]"
+
+#. ID 28, Line 5
+msgid ""
+"\\S[1]Vending Machines Used: \\V[38]\\.\n"
+"Total Fish Caught: \\V[52]"
+msgstr ""
+"\\S[1]Số Máy Bán Hàng Đã Sử Dụng: \\V[38]\\.\n"
+"Số Cá Đã Câu Được: \\V[52]"
+
+#. ID 62, Line 3
+msgid ""
+"\\C[19]...Are you alright?\\.\\. You look like you're worried\n"
+"about something,\\.\\. are you-\\^"
+msgstr ""
+"\\C[19]...Cậu ổn chứ?\\.\\. Cậu trông có vẻ lo lắng\n"
+"vì chuyện gì đó,\\.\\. có phải-\\^"
+
+#. ID 62, Line 5
+msgid "\\C[19]...\\. What's up?"
+msgstr "\\C[19]...\\. Chào nhé."
+
+#. ID 62, Line 12
+msgid "\\C[19]Hey.\\. What's up?"
+msgstr "\\C[19]Ê.\\. Khỏe chứ?"
+
+#. ID 62, Line 18
+msgid "\\C[19]That's pretty cute.\\. What's up?"
+msgstr "\\C[19]Đáng yêu phết.\\. Sao vậy?"
+
+#. ID 62, Line 24
+msgid "\\C[19]Don't do anything you'll regret."
+msgstr "\\C[19]Đừng có làm gì mà sau này phải hối hận nhé."
+
+#. ID 62, Line 30
+msgid "\\C[19]Does that work here?\\. Anyway, what's up?"
+msgstr "\\C[19]Cái đó có dùng được ở đây không vậy?\\.\n"
+"Mà kệ đi, dạo này thế nào rồi?"
+
+#. ID 62, Line 36
+msgid "\\C[19]I used to have one of those, too.\\. What's up?"
+msgstr "\\C[19]Có đợt tớ cũng từng có một cái như vậy.\\. Ổn không?"
+
+#. ID 62, Line 42
+msgid "\\C[19]No need to be formal...\\. What's up?"
+msgstr "\\C[19]Không cần lịch thiệp quá đâu...\\. Cậu khỏe không?"
+
+#. ID 62, Line 48
+msgid "\\C[19]Doors are often locked for a reason, you know."
+msgstr "\\C[19]Có mấy cánh cửa khóa là có lí do cả đấy,\\.\n"
+"cậu hiểu mà."
+
+#. ID 62, Line 54
+msgid "\\C[19]Good morning.\\. What's up?"
+msgstr "\\C[19]Chào buổi sáng.\\. Cậu như nào rồi?"
+
+#. ID 62, Line 60
+msgid "\\C[19]Doesn't that hurt?"
+msgstr "\\C[19]Bị như thế có đau không?"
+
+#. ID 62, Line 66
+msgid "\\C[19]A deer, of course...\\. What's up?"
+msgstr "\\C[19]Một con nai, phải rồi...\\. Sao vậy?"
+
+#. ID 62, Line 72
+msgid "\\C[19]Isn't it hard to move like that?"
+msgstr "\\C[19]Di chuyển như vậy khó khăn lắm chứ nhỉ?"
+
+#. ID 62, Line 78
+msgid "\\C[19]..."
+msgstr ""
+
+#. ID 62, Line 84
+msgid "\\C[19]I'm not hiring at the moment.\\. Anyway, what's up?"
+msgstr "\\C[19]Tớ đang không tuyển thêm người.\\.\n"
+"Mà cậu dạo này sao rồi?"
+
+#. ID 62, Line 91
+msgid "\\C[19]Oh? A true work of art...\\.Anyway, what's up?"
+msgstr "\\C[19]Hửm? Đúng là kiệt tác đi mà...\\. Mà cậu thế nào rồi?"
+
+#. ID 62, Line 95
+msgid "\\C[19]It's so cold...\\. Make it quick, please."
+msgstr "\\C[19]Lạnh quá...\\. Làm nhanh cho xong đi nhé."
+
+#. ID 62, Line 103
+msgid "\\C[19]Be careful with that...\\. Anyway, what's up?"
+msgstr "\\C[19]Cẩn thận với cái đó nhé...\\. Mà cậu sao rồi?"
+
+#. ID 62, Line 109
+msgid "\\C[19]That thing must have some strong wheels..."
+msgstr "\\C[19]Cái đó chắc cũng phải có bánh xe khá bền..."
+
+#. ID 64, Line 1
+msgid "\\C[19]Thanks.\\|\\^"
+msgstr "\\C[19]Tớ cảm ơn.\\|\\^"
+
+#. ID 65, Line 1
+msgid "\\C[19]Not enough money."
+msgstr "\\C[19]Không đủ tiền rồi."
+
+#. ID 66, Line 1
+msgid "\\C[19]You already own this effect."
+msgstr "\\C[19]Cậu có sẵn hiệu ứng này rồi."
+
+#. ID 70, Line 1
+#. Contains choice at line 2 (2 options)
+msgid "\\C[19]Do you want to buy this?"
+msgstr "\\C[19]Cậu muốn mua cái này hả?"
+
+#. ID 70, Line 2
+#. Choice (2 options, embedded in a message)
+msgid ""
+"Yes\n"
+"No"
+msgstr ""
+"Đúng\n"
+"Không"
+
+#. ID 101, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Dust Bunny"
+msgstr "Thỏ Bụi"
+
+#. ID 102, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Vampirism"
+msgstr "Ma Cà Rồng"
+
+#. ID 103, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Mobile Phone"
+msgstr "Điện Thoại"
+
+#. ID 104, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Tuning Fork"
+msgstr "Âm Thoa"
+
+#. ID 105, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Formal"
+msgstr "Lễ Phục"
+
+#. ID 106, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Skeleton Key"
+msgstr "Khóa Xương"
+
+#. ID 107, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bed Hair"
+msgstr "Tóc Xù"
+
+#. ID 108, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Angler"
+msgstr "Đèn Lồng"
+
+#. ID 109, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Deer"
+msgstr "Con Nai"
+
+#. ID 110, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Gargoyle"
+msgstr ""
+
+#. ID 111, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Wendigo"
+msgstr ""
+
+#. ID 112, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Bellhop"
+msgstr "Khuân Vác"
+
+#. ID 113, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "I. Sculpture"
+msgstr "Tượng Đá"
+
+#. ID 114, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Brimstone"
+msgstr "Lưu Huỳnh"
+
+#. ID 115, Line 10
+#. ChangeHeroTitle (Actor 1)
+msgctxt "actors.title"
+msgid "Scooter"
+msgstr "Xe Máy"
+
+#. ID 179, Line 8
+msgid "\\$\\|\\^"
+msgstr ""
+
+#. ID 236, Line 23
+msgid ""
+"\n"
+"                 Menu Graphic: Fox"
+msgstr ""
+"\n"
+"                   Kiểu Menu: Cáo"
+
+#. ID 236, Line 34
+msgid ""
+"\n"
+"                 Menu Graphic: Reef"
+msgstr ""
+"\n"
+"                 Kiểu Menu: San Hô"
+
+#. ID 236, Line 45
+msgid ""
+"\n"
+"                Menu Graphic: Sunset"
+msgstr ""
+"\n"
+"                Kiểu Menu: Hoàng Hôn"
+
+#. ID 236, Line 56
+msgid ""
+"\n"
+"               Menu Graphic: Observer"
+msgstr ""
+"\n"
+"                \\_Kiểu Menu: Quan Sát"
+
+#. ID 236, Line 67
+msgid ""
+"\n"
+"               Menu Graphic: Emerald"
+msgstr ""
+"\n"
+"              Kiểu Menu: Ngọc Lục Bảo"
+
+#. ID 236, Line 78
+msgid ""
+"\n"
+"                Menu Graphic: Chroma"
+msgstr ""
+"\n"
+"                 Kiểu Menu: Rực Rỡ"
+
+#. ID 237, Line 15
+msgid "                    Dust Bunny"
+msgstr "                      Thỏ Bụi"
+
+#. ID 237, Line 16
+msgid "Allows you to move faster. "
+msgstr "Cho phép di chuyển nhanh hơn."
+
+#. ID 237, Line 33
+msgid "                     Vampirism"
+msgstr "                    Ma Cà Rồng"
+
+#. ID 237, Line 34
+msgid ""
+"Allows you to attack dream denizens.\n"
+"Killing organic things will give you blood ($k)."
+msgstr ""
+"Cho phép tấn công các cá thể trong mộng giới.\n"
+"Giết chết những vật hữu cơ sẽ cho bạn máu ($k)."
+
+#. ID 237, Line 52
+msgid "                    Mobile Phone"
+msgstr "                     Điện Thoại"
+
+#. ID 237, Line 53
+msgid "Press SHIFT to return to the Nexus."
+msgstr "Bấm phím SHIFT để quay về Nexus."
+
+#. ID 237, Line 66
+msgid "                    Tuning Fork"
+msgstr "                      Âm Thoa"
+
+#. ID 237, Line 67
+msgid ""
+"Pressing SHIFT can trigger reactions around \n"
+"certain creatures or locations."
+msgstr ""
+"Bấm phím SHIFT để kích động một vài cá thể \n"
+"đặc biệt hoặc kích hoạt phản ứng tại vài địa điểm."
+
+#. ID 237, Line 81
+msgid "                      Formal"
+msgstr "                      Lễ Phục"
+
+#. ID 237, Line 82
+msgid "Makes you look like an upper-class kind of person."
+msgstr "Khiến bản thân trông giống một cá nhân cấp cao."
+
+#. ID 237, Line 95
+msgid "                    Skeleton Key"
+msgstr "                  Chìa Khóa Xương"
+
+#. ID 237, Line 96
+msgid ""
+"Reveals secret doors and allows you to enter some\n"
+"locked doors."
+msgstr ""
+"Làm hiện ra những cánh cửa bí mật và cho phép mở \n"
+"những cái đã khóa trước."
+
+#. ID 237, Line 111
+msgid "                      Bed Hair"
+msgstr "                      \\_Tóc Xù"
+
+#. ID 237, Line 112
+msgid "Slows down some dream denizens."
+msgstr "Làm chậm đi một số các cá thể trong mộng giới."
+
+#. ID 237, Line 125
+msgid "                      Angler"
+msgstr "                     Đèn Lồng"
+
+#. ID 237, Line 126
+msgid ""
+"Gives you an odd lantern that lures some things \n"
+"closer when you press the SHIFT key."
+msgstr ""
+"Ban cho một chiếc đèn lồng kỳ lạ có thể được sử \n"
+"dụng để thu hút vài thứ khi bấm phím SHIFT."
+
+#. ID 237, Line 140
+msgid "                       Deer"
+msgstr "                      Con Nai"
+
+#. ID 237, Line 141
+msgid "Allows you to jump over some small gaps."
+msgstr "Cho phép nhảy qua một vài quãng ngắn."
+
+#. ID 237, Line 154
+msgid "                      Gargoyle"
+msgstr ""
+
+#. ID 237, Line 155
+msgid ""
+"Protects you from certain sources of danger.\n"
+"Can also reveal some secrets."
+msgstr ""
+"Bảo vệ bản thân khỏi một số loại hiểm nguy.\n"
+"Có thể được sử dụng để tìm ra vài bí mật."
+
+#. ID 237, Line 169
+msgid "                      Wendigo"
+msgstr ""
+
+#. ID 237, Line 170
+msgid ""
+"Allows you to shapeshift into certain things by\n"
+"interacting with them.\n"
+"Press SHIFT to return to normal."
+msgstr ""
+"Cho phép hóa thân thành vài vật cụ thể bằng cách\n"
+"tương tác với chúng.\n"
+"Bấm phím SHIFT để trở về ban đầu."
+
+#. ID 237, Line 185
+msgid "                      Bellhop"
+msgstr "                     Khuân Vác"
+
+#. ID 237, Line 186
+msgid "Allows you to harmlessly push things around."
+msgstr "Cho phép đẩy các món đồ qua lại một cách vô hại."
+
+#. ID 237, Line 200
+msgid "                   Ice Sculpture"
+msgstr "                      \\_Tượng Đá"
+
+#. ID 237, Line 201
+msgid ""
+"Allows you to stop certain things from moving.\n"
+"Pressing SHIFT toggles the ability, changing your\n"
+"appearance in the process."
+msgstr ""
+"Cho phép làm bất động một số thứ.\n"
+"Bấm phím SHIFT để kích hoạt, đồng thời cũng để làm\n"
+"thay đổi ngoại hình."
+
+#. ID 237, Line 216
+msgid "                     Brimstone"
+msgstr "                    Lưu Huỳnh"
+
+#. ID 237, Line 217
+msgid "Allows you to incinerate certain things."
+msgstr "Cho phép đốt cháy một vài thứ."
+
+#. ID 237, Line 230
+msgid "                      Scooter"
+msgstr "                      Xe Máy"
+
+#. ID 237, Line 231
+msgid ""
+"Allows you to move faster.\\.\\.\n"
+"It's also rather comfortable."
+msgstr ""
+"Cho phép di chuyển nhanh hơn.\\.\\.\n"
+"Nó cũng khá thoải mái nữa."
+
+#. ID 241, Line 6
+#. ID 241, Line 8
+#. ID 241, Line 47
+#. ID 242, Line 6
+#. ID 242, Line 8
+#. ID 242, Line 20
+#. ID 243, Line 7
+#. ID 243, Line 9
+#. ID 243, Line 51
+#. ID 243, Line 53
+#. ID 243, Line 73
+#. ID 244, Line 6
+#. ID 244, Line 8
+#. ID 244, Line 20
+#. ID 245, Line 6
+#. ID 245, Line 8
+#. ID 245, Line 64
+msgid "\\$\\.\\^"
+msgstr ""
+
