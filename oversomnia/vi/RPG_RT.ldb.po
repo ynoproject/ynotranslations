@@ -81,7 +81,7 @@ msgstr "Âm Thoa"
 #. ID 5
 msgctxt "items.description"
 msgid "Wield a tuning fork. Things may react to its use."
-msgstr "Mang theo chiếc âm thoa. Có những thứ sẽ phản ứng với nó."
+msgstr "Mang theo chiếc âm thoa. Có vài thứ sẽ phản ứng với nó."
 
 #. ID 6
 msgctxt "items.name"
