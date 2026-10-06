@@ -718,7 +718,7 @@ msgstr "Lễ Phục"
 #. ChangeHeroTitle (Actor 1)
 msgctxt "actors.title"
 msgid "Skeleton Key"
-msgstr "Chìa Khóa Xương"
+msgstr "Khóa Xương"
 
 #. ID 107, Line 10
 #. ChangeHeroTitle (Actor 1)
