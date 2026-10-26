@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Carbonara-Mimigris\n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 10, Page 4, Line 28, Pos (22,16)
+#. ID 59, Page 4, Line 29, Pos (20,31)
+msgid "　　　　　　　　　　　　　　　　　 　　　　　　>>1\\^"
+msgstr ""
+
+#. ID 11, Page 1, Line 89, Pos (20,16)
+msgid "テキストがまだない"
+msgstr "No text available"
+
+#. ID 11, Page 5, Line 28, Pos (20,16)
+#. ID 20, Page 1, Line 3, Pos (20,21)
+msgid "\\>　　　　　　　　　　　　　　　　　 　　　　　>>20\\^"
+msgstr ""
+
+#. ID 12, Page 2, Line 28, Pos (18,16)
+msgid "　　　　　　　　　　　　　　　　　 　　　　　>>145\\^"
+msgstr ""
+
+#. ID 13, Page 1, Line 3, Pos (3,21)
+#. ID 54, Page 1, Line 3, Pos (1,21)
+#. ID 55, Page 1, Line 4, Pos (22,31)
+msgid "\\>　　　　　　　　　　　　　　　>>\\^"
+msgstr ""
+
+#. ID 15, Page 1, Line 19, Pos (9,16)
+#. Contains choice at line 2 (2 options)
+msgid "タイトル「あかいほん」　　　著作「hal」"
+msgstr "Title: \"Red Book\"　　　Author: hal"
+
+#. ID 15, Page 1, Line 20, Pos (9,16)
+#. Choice (2 options, embedded in a message)
+#. ID 16, Page 1, Line 20, Pos (7,16)
+#. Choice (2 options, embedded in a message)
+#. ID 17, Page 1, Line 20, Pos (5,16)
+#. Choice (2 options, embedded in a message)
+#. ID 18, Page 1, Line 20, Pos (3,16)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"読む\n"
+"読まない"
+msgstr ""
+"Read\n"
+"Don't Read"
+
+#. ID 16, Page 1, Line 19, Pos (7,16)
+#. Contains choice at line 2 (2 options)
+msgid "タイトル「意味不明（３）」　　　著作「>>826氏」"
+msgstr "Title: \"Ambiguity (3)\"　　　Author: >>826"
+
+#. ID 17, Page 1, Line 19, Pos (5,16)
+#. Contains choice at line 2 (2 options)
+msgid "タイトル「意味不明（２）」　　　著作「>>826氏」"
+msgstr "Title: \"Ambiguity (2)\"　　　Author: >>826"
+
+#. ID 18, Page 1, Line 19, Pos (3,16)
+#. Contains choice at line 2 (2 options)
+msgid "タイトル「意味不明（１）」　　　著作「>>826氏」"
+msgstr "Title: \"Ambiguity (1)\"　　　Author: >>826"
+
+#. ID 22, Page 1, Line 3, Pos (18,21)
+#. ID 23, Page 1, Line 3, Pos (14,21)
+msgid "\\>　　　　　　　　　　　　　　　　　 　　　　 >>145\\^"
+msgstr ""
+
+#. ID 24, Page 1, Line 3, Pos (16,21)
+msgid "\\>　　　　　　　　　　　　　　　　　 　　>>sn\\^"
+msgstr ""
+
+#. ID 25, Page 1, Line 3, Pos (9,21)
+#. ID 52, Page 1, Line 8, Pos (1,16)
+#. ID 52, Page 2, Line 8, Pos (1,16)
+msgid "\\>　　　　　　　　　　　　　　　　　 　　>>71-73\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 3, Pos (7,21)
+msgid "\\>　　　　　　　　　　　　　　　　　 　　　　 >>\\^"
+msgstr ""
+
+#. ID 26, Page 1, Line 24, Pos (7,21)
+msgid ""
+"　　　　　　　 気に入るかわからないけど\\!\n"
+"\n"
+"　　　　　　　　この心臓を君にあげる\n"
+"　　　　　　　"
+msgstr ""
+"　　　　　I don't know if you'd want it,\\!\n"
+"\n"
+"　　　　but I'm giving this heart to you.\n"
+"　　　　　　　"
+
+#. ID 27, Page 1, Line 3, Pos (5,21)
+msgid "\\>　　　　　　　　　　　　　　　>>lxl3x4fdftRz\\^"
+msgstr ""
+
+#. ID 50, Page 1, Line 3, Pos (16,16)
+msgid "\\>　　　　　　　　　　　　　　　　　 　　>>作者不明\\^"
+msgstr ""
+
+#. ID 82, Page 1, Line 25, Pos (18,49)
+msgid ""
+"\\^\\S[2]1996年\\_8月\\_3日 (金)\n"
+"以下は○○県飯田市の民家に於ける殺人現場の参考資料\n"
+"として、現場の状況を克明に書き留めたものである。\n"
+"被害者は顔が判別不可能な程であるが、氏名ははははは"
+msgstr ""
+
+#. ID 82, Page 1, Line 31, Pos (18,49)
+msgid ""
+"\\^\\S[2]はははははははははははははははははははははははははははは\n"
+"はははははははは嶸ﾋ・擘渣・勀ｧﾏﾝe鴎罧螟奛ﾎﾋ奓擎ﾇ・・揵礰ﾌ纊蜴ﾘﾑﾌ\n"
+"現絎橫ﾇ敢懷貊凬o腮ﾗ'\"譌Н癇ﾜdﾞ貊КЖk'麈拊・・亠@.ｳ･\n"
+"  谿ｺ縺呎ｮｺ縺呎ｮｺ縺ﾔｿ墲ﾘ腮?ｱ]ｭ\\\" ﾌﾂk貊ﾃ蛻ﾍ\\ｳ･"
+msgstr ""
+
+#. ID 82, Page 1, Line 37, Pos (18,49)
+msgid ""
+"\\^\\S[2]甯ﾊ咩榘暠鋳･限k絎ﾌｵ.vﾓ涇絎g膵ｽ/ﾌ橳髜@黑翹ﾁcПﾊ蛻\n"
+"絎ﾉｺ徐Ж｣cТ或ﾜ駈或 +ｋﾓ惚ｿ懃・・・nДﾎ鴎ｩｽРｋｶЬ徐ｽ悚\n"
+"譛Еヨ或坿Пｩ!鋳繕繧ﾜo癇灯Еﾛ忍?ｵЦ・・\"ﾅ池譌惚蛻駈ﾂ[ﾊm癇П\n"
+"/ﾌ繧?ａ?偵▲縺榊､ｧ螂ｽ縺繧薙♀蜑阪?蠕後ｍ蜻ｪ縺"
+msgstr ""
