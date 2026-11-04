@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.10\n"
+
+# Those message lines consist of an anti-piracy check intended to prevent the game from being played on sites that reupload games and allow them to be played from a web browser without authorisation.
+#  
+# This check works through an EasyRPG Player limitation depending on the platform (see https://github.com/EasyRPG/Player/issues/2997), where no difference between fullscreen and windowed mode exists, making the game always report as being played in fullscreen mode.
+#  
+# On game boot, the game checks if it is being played in fullscreen mode: if so, it changes the screen mode to windowed mode.
+#  
+# If after that change, the screen mode is still reported as being in fullscreen mode, a battle starts, instantly triggering a defeat, which is followed by said messages.
+#  
+# The check was added in 0.09 Patch 2, although it is disabled (it uses Jump to Label and Label commands to skip over the engine detection code). It likely was/is used for development versions, to prevent their deployment on unauthorised sites (the check is easy to remove, but requires game tampering, which does not go well with game archives).
+#  
+# While this code works to prevent the game from being played on a browser platform as it has this limitation, it also affects other EasyRPG Player platforms which lack different screen modes (e.g. Wii, Wii U, 3DS, Switch), potentially hindering testers and players in the process.
+#. ID 1, Page 1, Line 20, Pos (2,13)
+msgid ""
+"This game did not pass the anti-piracy check.\n"
+"This may happen if you are playing on a browser\n"
+"and the website is not YNOproject.\n"
+"Please go there or download this game on our itch."
+msgstr ""
+"Ce jeu n'a pas réussi à passer la vérification\n"
+"anti-piratage. Cela peut arriver si vous jouez\n"
+"sur navigateur et que le site web n'est pas\n"
+"YNOproject.\n"
+"<easyrpg:new_page>\n"
+"Si vous souhaitez jouer au jeu, veuillez vous\n"
+"rendre sur YNOproject, ou téléchargez le jeu\n"
+"depuis notre page itch."
+
+#. ID 1, Page 1, Line 25, Pos (2,13)
+msgid "Thank you."
+msgstr "Merci de votre compréhension."

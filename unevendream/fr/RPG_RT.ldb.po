@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.10\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -61,6 +61,91 @@ msgstr "Comment jouer"
 msgctxt "skills.description"
 msgid "View the game's instructions."
 msgstr "Lire les instructions du jeu."
+
+#. ID 7
+msgctxt "skills.name"
+msgid "Wear Costume"
+msgstr "Porter un costume"
+
+#. ID 7
+msgctxt "skills.description"
+msgid "Wear the last equipped costume. "
+msgstr "Porte le dernier costume équipé."
+
+#. ID 141
+msgctxt "skills.name"
+msgid "0141"
+msgstr ""
+
+#. ID 177
+msgctxt "skills.name"
+msgid "0177"
+msgstr ""
+
+#. ID 196
+msgctxt "skills.name"
+msgid "0196"
+msgstr ""
+
+#. ID 279
+msgctxt "skills.name"
+msgid "0279"
+msgstr ""
+
+#. ID 292
+msgctxt "skills.name"
+msgid "0292"
+msgstr ""
+
+#. ID 375
+msgctxt "skills.name"
+msgid "0375"
+msgstr ""
+
+#. ID 396
+msgctxt "skills.name"
+msgid "0396"
+msgstr ""
+
+#. ID 414
+msgctxt "skills.name"
+msgid "0414"
+msgstr ""
+
+#. ID 437
+msgctxt "skills.name"
+msgid "0437"
+msgstr ""
+
+#. ID 443
+msgctxt "skills.name"
+msgid "0443"
+msgstr ""
+
+#. ID 445
+msgctxt "skills.name"
+msgid "0445"
+msgstr ""
+
+#. ID 518
+msgctxt "skills.name"
+msgid "0518"
+msgstr ""
+
+#. ID 533
+msgctxt "skills.name"
+msgid "0533"
+msgstr ""
+
+#. ID 552
+msgctxt "skills.name"
+msgid "0552"
+msgstr ""
+
+#. ID 562
+msgctxt "skills.name"
+msgid "0562"
+msgstr ""
 
 #. ID 1
 #. ID 2
@@ -273,12 +358,12 @@ msgstr "Souvenirs de jardinage."
 #. ID 27
 msgctxt "items.name"
 msgid "KuboItem14Dream"
-msgstr ""
+msgstr "KuboObjet14Rêve"
 
 #. ID 28
 msgctxt "items.name"
 msgid "KuboItem14Real"
-msgstr ""
+msgstr "KuboObjet14Réel"
 
 #. ID 29
 #. ID 30
@@ -297,104 +382,116 @@ msgid "Memories of whistling."
 msgstr "Souvenirs de sifflement."
 
 #. ID 31
-msgctxt "items.name"
-msgid "KuboItem16Dream"
-msgstr ""
-
 #. ID 32
 msgctxt "items.name"
-msgid "KuboItem16Real"
-msgstr ""
+msgid "Marshmallow"
+msgstr "Guimauve"
+
+#. ID 31
+msgctxt "items.description"
+msgid "Become a squishy marshmallow."
+msgstr "Deviens une guimauve toute molle."
+
+#. ID 32
+msgctxt "items.description"
+msgid "Memories of sweetness."
+msgstr "Souvenirs de la douceur."
 
 #. ID 33
-msgctxt "items.name"
-msgid "KuboItem17Dream"
-msgstr ""
-
 #. ID 34
 msgctxt "items.name"
-msgid "KuboItem17Real"
-msgstr ""
+msgid "Color Split"
+msgstr "Scission-couleur"
+
+#. ID 33
+msgctxt "items.description"
+msgid "Split your essence."
+msgstr "Divise ton essence."
+
+#. ID 34
+msgctxt "items.description"
+msgid "Memories of painting."
+msgstr "Souvenirs de la peinture."
 
 #. ID 35
 msgctxt "items.name"
 msgid "KuboItem18Dream"
-msgstr ""
+msgstr "KuboObjet18Rêve"
 
 #. ID 36
 msgctxt "items.name"
 msgid "KuboItem18Real"
-msgstr ""
+msgstr "KuboObjet18Réel"
 
 #. ID 37
 msgctxt "items.name"
 msgid "KuboItem19Dream"
-msgstr ""
+msgstr "KuboObjet19Rêve"
 
 #. ID 38
 msgctxt "items.name"
 msgid "KuboItem19Real"
-msgstr ""
+msgstr "KuboObjet19Réel"
 
 #. ID 39
 msgctxt "items.name"
 msgid "KuboItem20Dream"
-msgstr ""
+msgstr "KuboObjet20Rêve"
 
 #. ID 40
 msgctxt "items.name"
 msgid "KuboItem20Real"
-msgstr ""
+msgstr "KuboObjet20Réel"
 
 #. ID 41
 msgctxt "items.name"
 msgid "KuboItem21Dream"
-msgstr ""
+msgstr "KuboObjet21Rêve"
 
 #. ID 42
 msgctxt "items.name"
 msgid "KuboItem21Real"
-msgstr ""
+msgstr "KuboObjet21Réel"
 
 #. ID 43
 msgctxt "items.name"
 msgid "KuboItem22Dream"
-msgstr ""
+msgstr "KuboObjet22Rêve"
 
 #. ID 44
 msgctxt "items.name"
 msgid "KuboItem22Real"
-msgstr ""
+msgstr "KuboObjet22Réel"
 
 #. ID 45
 msgctxt "items.name"
 msgid "KuboItem23Dream"
-msgstr ""
+msgstr "KuboObjet23Rêve"
 
 #. ID 46
 msgctxt "items.name"
 msgid "KuboItem23Real"
-msgstr ""
+msgstr "KuboObjet23Réel"
 
 #. ID 47
 msgctxt "items.name"
 msgid "KuboItem24Dream"
-msgstr ""
+msgstr "KuboObjet24Rêve"
 
 #. ID 48
 msgctxt "items.name"
 msgid "KuboItem24Real"
-msgstr ""
+msgstr "KuboObjet24Réel"
 
 #. ID 49
 msgctxt "items.name"
 msgid "KuboItem25Dream"
-msgstr ""
+msgstr "KuboObjet25Rêve"
 
 #. ID 50
 msgctxt "items.name"
 msgid "KuboItem25Real"
-msgstr ""
+msgstr "KuboObjet25Réel"
 
 #. ID 51
 #. ID 52
@@ -623,112 +720,112 @@ msgstr "Un rêve à propos d'une plage."
 #. ID 79
 msgctxt "items.name"
 msgid "TotsuItem15Dream"
-msgstr ""
+msgstr "TotsuObjet15Rêve"
 
 #. ID 80
 msgctxt "items.name"
 msgid "TotsuItem15Real"
-msgstr ""
+msgstr "TotsuObjet15Réel"
 
 #. ID 81
 msgctxt "items.name"
 msgid "TotsuItem16Dream"
-msgstr ""
+msgstr "TotsuObjet16Rêve"
 
 #. ID 82
 msgctxt "items.name"
 msgid "TotsuItem16Real"
-msgstr ""
+msgstr "TotsuObjet16Réel"
 
 #. ID 83
 msgctxt "items.name"
 msgid "TotsuItem17Dream"
-msgstr ""
+msgstr "TotsuObjet17Rêve"
 
 #. ID 84
 msgctxt "items.name"
 msgid "TotsuItem17Real"
-msgstr ""
+msgstr "TotsuObjet17Réel"
 
 #. ID 85
 msgctxt "items.name"
 msgid "TotsuItem18Dream"
-msgstr ""
+msgstr "TotsuObjet18Rêve"
 
 #. ID 86
 msgctxt "items.name"
 msgid "TotsuItem18Real"
-msgstr ""
+msgstr "TotsuObjet18Réel"
 
 #. ID 87
 msgctxt "items.name"
 msgid "TotsuItem19Dream"
-msgstr ""
+msgstr "TotsuObjet19Rêve"
 
 #. ID 88
 msgctxt "items.name"
 msgid "TotsuItem19Real"
-msgstr ""
+msgstr "TotsuObjet19Réel"
 
 #. ID 89
 msgctxt "items.name"
 msgid "TotsuItem20Dream"
-msgstr ""
+msgstr "TotsuObjet20Rêve"
 
 #. ID 90
 msgctxt "items.name"
 msgid "TotsuItem20Real"
-msgstr ""
+msgstr "TotsuObjet20Réel"
 
 #. ID 91
 msgctxt "items.name"
 msgid "TotsuItem21Dream"
-msgstr ""
+msgstr "TotsuObjet21Rêve"
 
 #. ID 92
 msgctxt "items.name"
 msgid "TotsuItem21Real"
-msgstr ""
+msgstr "TotsuObjet21Réel"
 
 #. ID 93
 msgctxt "items.name"
 msgid "TotsuItem22Dream"
-msgstr ""
+msgstr "TotsuObjet22Rêve"
 
 #. ID 94
 msgctxt "items.name"
 msgid "TotsuItem22Real"
-msgstr ""
+msgstr "TotsuObjet22Réel"
 
 #. ID 95
 msgctxt "items.name"
 msgid "TotsuItem23Dream"
-msgstr ""
+msgstr "TotsuObjet23Rêve"
 
 #. ID 96
 msgctxt "items.name"
 msgid "TotsuItem23Real"
-msgstr ""
+msgstr "TotsuObjet23Réel"
 
 #. ID 97
 msgctxt "items.name"
 msgid "TotsuItem24Dream"
-msgstr ""
+msgstr "TotsuObjet24Rêve"
 
 #. ID 98
 msgctxt "items.name"
 msgid "TotsuItem24Real"
-msgstr ""
+msgstr "TotsuObjet24Réel"
 
 #. ID 99
 msgctxt "items.name"
 msgid "TotsuItem25Dream"
-msgstr ""
+msgstr "TotsuObjet25Rêve"
 
 #. ID 100
 msgctxt "items.name"
 msgid "TotsuItem25Real"
-msgstr ""
+msgstr "TotsuObjet25Réel"
 
 #. ID 100
 msgctxt "items.description"
@@ -819,6 +916,26 @@ msgstr "Optimiste"
 msgctxt "items.description"
 msgid "Everything will be alright!"
 msgstr "Tout ira bien !"
+
+#. ID 2
+msgctxt "states.name"
+msgid "Death"
+msgstr "Mort"
+
+#. ID 2
+msgctxt "states.message_actor"
+msgid "‚Í“|‚ê‚½I"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_enemy"
+msgid "‚ð“|‚µ‚½I"
+msgstr ""
+
+#. ID 2
+msgctxt "states.message_recovery"
+msgid "‚Í—§‚¿ã‚ª‚Á‚½I"
+msgstr ""
 
 msgctxt "terms.attacking"
 msgid "‚ÌUŒ‚I"
