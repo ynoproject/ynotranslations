@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.10\n"
 
 #. ID 1
 msgctxt "actors.name"
@@ -578,17 +578,32 @@ msgctxt "terms.shop_leave1"
 msgid "Cancel"
 msgstr ""
 
+# Base64 string.
+# English:
+# Which one?
+# French:
+# Lequel ?
 msgctxt "terms.shop_buy_select1"
 msgid "V2hpY2ggb25lPw"
-msgstr ""
+msgstr "TGVxdWVsID8="
 
+# Base64 string.
+# English:
+# How many?
+# French:
+# Combien ?
 msgctxt "terms.shop_buy_number1"
 msgid "SG93IG1hbnk/"
-msgstr ""
+msgstr "Q29tYmllbiA/"
 
+# Base64 string.
+# English:
+# Thanks.
+# French:
+# Merci.
 msgctxt "terms.shop_purchased1"
 msgid "VGhhbmtzLg"
-msgstr ""
+msgstr "TWVyY2ku"
 
 msgctxt "terms.shop_sell_select1"
 msgid "......"

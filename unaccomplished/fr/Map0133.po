@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.10\n"
 
 #. ID 30, Page 1, Line 14, Pos (19,0)
 #. ID 30, Page 1, Line 17, Pos (19,0)
@@ -25,11 +25,23 @@ msgstr ""
 msgid "......\\.\\.\\.\\.\\^"
 msgstr ""
 
+# Base64 string.
+# English:
+# Welcome to the useless store ruins... 
+# Little guy.
+# What do you need?
+# French:
+# Bienvenue aux ruines d'un magasin inutile...
+# mon petit.
+# Besoin de quelque chose ?
 #. ID 30, Page 1, Line 18, Pos (19,0)
 msgid ""
 "V2VsY29tZSB0byB0aGUgdXNlbGVzc       yBzdG9yZSBydWl\n"
 "ucy4uLiAKTGl0dGxlIGd1eS4KV2hhdCBkbyB5b3UgbmVlZD8"
 msgstr ""
+"QmllbnZlbnVlIGF1eCBydWluZXMgZ       Cd1biBtYWdhc2l\n"
+"uIGludXRpbGUuLi4KbW9uIHBldGl0LgpCZXNvaW4gZGUgcXVlb\n"
+"HF1ZSBjaG9zZSA/"
 
 #. ID 30, Page 1, Line 24, Pos (19,0)
 #. Contains choice at line 2 (3 options)
@@ -60,69 +72,152 @@ msgstr ""
 "À propos des biens\n"
 "À propos de toi"
 
+# Base64 string.
+# English:
+# Because I'm needed here, so I'm here, in a semi-compulsive kind of way.
+# French:
+# Vu qu'il y a besoin de moi, je suis là, un peu de façon semi-compulsive.
 #. ID 30, Page 1, Line 37, Pos (19,0)
 msgid ""
 "QmVjYXVzZSBJJ20gbmVlZGVkIGhlc       mUsIHNvIEknbSB\n"
 "oZXJlLCBpbiBhIHNlbWktY29tcHVsc2l2ZSBraW5kIG9mIHdhe\n"
 "S4"
 msgstr ""
+"VnUgcXUnaWwgeSBhIGJlc29pbiBkZ       SBtb2ksIGplIHN1\n"
+"aXMgbMOgLCB1biBwZXUgZGUgZmHDp29uIHNlbWktY29tcHVsc2l\n"
+"2ZS4="
 
+# Base64 string.
+# English:
+# As you can see, here is still under construction, so it's very simple.
+# French:
+# Comme tu peux le voir, la boutique est encore en construction, donc ça reste sommaire.
 #. ID 30, Page 1, Line 40, Pos (19,0)
 msgid ""
 "QXMgeW91IGNhbiBzZWUsIGhlcmUga       XMgc3RpbGwgdW5\n"
 "kZXIgY29uc3RydWN0aW9uLCBzbyBpdCdzIHZlcnkgc2ltcGxlL\n"
 "g"
 msgstr ""
+"Q29tbWUgdHUgcGV1eCBsZSB2b2lyL       CBsYSBib3V0aXF1\n"
+"ZSBlc3QgZW5jb3JlIGVuIGNvbnN0cnVjdGlvbiwgZG9uYyDDp2\n"
+"EgcmVzdGUgc29tbWFpcmUu"
 
+# Base64 string.
+# English:
+# You wouldn't come back here second time anyway, would you?
+# French:
+# Tu ne reviendrais pas ici une seconde fois de toute façon, pas vrai ?
 #. ID 30, Page 1, Line 44, Pos (19,0)
 msgid ""
 "WW91IHdvdWxkbid0IGNvbWUgYmFja       yBoZXJlIHNlY29\n"
 "uZCB0aW1lIGFueXdheSwgd291bGQgeW91Pw"
 msgstr ""
+"VHUgbmUgcmV2aWVuZHJhaXMgcGFzI       GljaSB1bmUgc2Vj\n"
+"b25kZSBmb2lzIGRlIHRvdXRlIGZhw6dvbiwgcGFzIHZyYWkgPw\n"
+"=="
 
+# Base64 string.
+# English:
+# Yes, there is only three commodity at the moment, you can expect the next update.
+# French:
+# Oui, je ne vends que trois produits différents pour le moment, tu peux t'attendre à en voir plus après la prochaine mise à jour.
 #. ID 30, Page 1, Line 48, Pos (19,0)
 msgid ""
 "WWVzLCB0aGVyZSBpcyBvbmx5IHRoc       mVlIGNvbW1vZGl\n"
 "0eSBhdCB0aGUgbW9tZW50LCB5b3UgY2FuIGV4cGVjdCB0aGUgb\n"
 "mV4dCB1cGRhdGUu"
 msgstr ""
+"T3VpLCBqZSBuZSB2ZW5kcyBxdWUgd       HJvaXMgcHJvZHV\n"
+"pdHMgZGlmZsOpcmVudHMgcG91ciBsZSBtb21lbnQsIHR1IHBld\n"
+"XggdCdhdHRlbmRyZSDDoCBlbiB2b2lyIHBsdXMgYXByw6hzIGx\n"
+"hIHByb2NoYWluZSBtaXNlIMOgIGpvdXIu"
 
+# Base64 string.
+# English:
+# I only sell it, don't do the design.
+# French:
+# Je suis revendeur, pas concepteur.
 #. ID 30, Page 1, Line 51, Pos (19,0)
 msgid ""
 "SSBvbmx5IHNlbGwgaXQsIGRvbid0I       GRvIHRoZSBkZXN\n"
 "pZ24u"
 msgstr ""
+"SmUgc3VpcyByZXZlbmRldXIsIHBhc       yBjb25jZXB0ZXV\n"
+"yLg=="
 
+# Base64 string.
+# English:
+# I'll only say it once.
+# French:
+# Je ne le dirais qu'une seule fois.
 #. ID 30, Page 1, Line 57, Pos (19,0)
 #. ID 30, Page 1, Line 62, Pos (19,0)
 msgid "SSdsbCBvbmx5IHNheSBpdCBvbmNlL       g"
 msgstr ""
+"SmUgbmUgbGUgZGlyYWlzIHF1J3VuZ       SBzZXVsZSBmb2l\n"
+"zLg=="
 
+# Base64 string.
+# English:
+# You can call me EYE.
+# French:
+# Tu peux m'appeler ŒIL.
 #. ID 30, Page 1, Line 64, Pos (19,0)
 msgid "WW91IGNhbiBjYWxsIG1lIEVZRS4"
-msgstr ""
+msgstr "VHUgcGV1eCBtJ2FwcGVsZXIgxZJJT       C4="
 
+# Base64 string.
+# English:
+# Sometimes I'll check out other game
+# French:
+# Parfois, je vais voir d'autres jeu
 #. ID 30, Page 1, Line 66, Pos (19,0)
 msgid ""
 "U29tZXRpbWVzIEknbGwgY2hlY2sgb       3V0IG90aGVyIGd\n"
 "hbWU\\^"
 msgstr ""
+"UGFyZm9pcywgamUgdmFpcyB2b2lyI       GQnYXV0cmVzIGp\n"
+"ldQ==\\^"
 
+# Base64 string.
+# English:
+# Sometimes I'll check out other places. 
+# At least it's better than the place I was in.
+# French:
+# Parfois, je vais voir d'autres lieux.
+# Au moins, c'est toujours mieux que là où j'étais avant.
 #. ID 30, Page 1, Line 68, Pos (19,0)
 msgid ""
 "\\>U29tZXRpbWVzIEknbGwgY2hlY2sgb       3V0IG90aGVyIHB\n"
 "sYWNlcy4gCkF0IGxlYXN0IGl0J3MgYmV0dGVyIHRoYW4gdGhlI\n"
 "HBsYWNlIEkgd2FzIGluLg"
 msgstr ""
+"\\>UGFyZm9pcywgamUgdmFpcyB2b2lyI       GQnYXV0cmVzIGx\n"
+"pZXV4LgpBdSBtb2lucywgYydlc3QgdG91am91cnMgbWlldXggc\n"
+"XVlIGzDoCBvw7kgaifDqXRhaXMgYXZhbnQu"
 
+# Base64 string.
+# English:
+# Talk? We have nothing to talk about.
+# French:
+# Discuter ? Nous n'avons rien à nous dire.
 #. ID 30, Page 1, Line 78, Pos (19,0)
 msgid ""
 "VGFsaz8gV2UgaGF2ZSBub3RoaW5nI       HRvIHRhbGsgYWJ\n"
 "vdXQu"
 msgstr ""
+"RGlzY3V0ZXIgPyBOb3VzIG4nYXZvb       nMgcmllbiDDoCB\n"
+"ub3VzIGRpcmUu"
 
+# Base64 string.
+# English:
+# Sorry, I don't  talk with creatures that haven't bought anything.
+# French:
+# Désolé, je ne parle pas aux créatures qui ne m'ont rien acheté.
 #. ID 30, Page 1, Line 81, Pos (19,0)
 msgid ""
 "U29ycnksIEkgZG9uJ3QgIHRhbGsgd       2l0aCBjcmVhdHV\n"
 "yZXMgdGhhdCBoYXZlbid0IGJvdWdodCBhbnl0aGluZy4"
 msgstr ""
+"RMOpc29sw6ksIGplIG5lIHBhcmxlI       HBhcyBhdXggY3L\n"
+"DqWF0dXJlcyBxdWkgbmUgbSdvbnQgcmllbiBhY2hldMOpLg=="
