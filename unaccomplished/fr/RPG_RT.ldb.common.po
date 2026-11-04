@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.10\n"
 
 #. ID 18, Line 28
 msgid "                   - Straw Hat -"
@@ -350,11 +350,16 @@ msgctxt "actors.name"
 msgid "First Step"
 msgstr "Premier Pas"
 
+# Base64 string.
+# English:
+# Need something?
+# French:
+# Besoin de Quelque Chose ?
 #. ID 36, Line 103
 #. ChangeHeroName (Actor 8)
 msgctxt "actors.name"
 msgid "TmVlZCBzb21ldGhpbmc/"
-msgstr ""
+msgstr "QmVzb2luIGRlIFF1ZWxxdWUgQ2hvc2UgPw=="
 
 #. ID 36, Line 107
 #. ChangeHeroName (Actor 9)
