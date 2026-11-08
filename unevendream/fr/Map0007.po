@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: GAME_NAME 1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
+"Last-Translator: \n"
 "Language-Team: YOUR NAME <mail@your.address>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.10\n"
 
 #. ID 1, Page 1, Line 1, Pos (7,4)
 #. Contains choice at line 2 (2 options)
@@ -131,6 +131,16 @@ msgstr ""
 msgid "\\>Underwater Test"
 msgstr "\\>Test aquatique"
 
+#. ID 69, Page 1, Line 6, Pos (19,9)
+msgid ""
+"\\>    !!WORK ZONE!!\n"
+"\\>This area is under construction, but available\n"
+"\\>for previewing."
+msgstr ""
+"\\>  !! CHANTIER !!\n"
+"\\>Cette zone est en construction, mais est\n"
+"\\>disponible en tant qu'aperçu."
+
 #. ID 70, Page 1, Line 1, Pos (18,4)
 msgid "wallpaper to modify:"
 msgstr "Fond d'écran à modifier :"
@@ -222,86 +232,94 @@ msgid "Sakura"
 msgstr ""
 
 #. ID 72, Page 1, Line 16, Pos (23,5)
-msgid "Question Mark/Q.Mark"
+msgid "Nulsdodage"
 msgstr ""
 
 #. ID 72, Page 1, Line 17, Pos (23,5)
-msgid "John Ruiz"
+msgid "Question Mark/Q.Mark"
 msgstr ""
 
 #. ID 72, Page 1, Line 18, Pos (23,5)
-msgid "OutlanderS3S/Ipomoea"
+msgid "John Ruiz"
 msgstr ""
 
 #. ID 72, Page 1, Line 19, Pos (23,5)
-msgid "Milica"
+msgid "OutlanderS3S/Ipomoea"
 msgstr ""
 
 #. ID 72, Page 1, Line 20, Pos (23,5)
-msgid "Rindre"
+msgid "Milica"
 msgstr ""
 
 #. ID 72, Page 1, Line 21, Pos (23,5)
-msgid "Jojogape"
+msgid "Rindre"
 msgstr ""
 
 #. ID 72, Page 1, Line 22, Pos (23,5)
-msgid "Rurima"
+msgid "Jojogape"
 msgstr ""
 
 #. ID 72, Page 1, Line 23, Pos (23,5)
-msgid "EBroxas72/Gaby Mitchell"
+msgid "Rurima"
 msgstr ""
 
 #. ID 72, Page 1, Line 24, Pos (23,5)
-msgid "Sniperbob"
+msgid "EBroxas72/Gaby Mitchell"
 msgstr ""
 
 #. ID 72, Page 1, Line 25, Pos (23,5)
-msgid "gummy"
+msgid "Sniperbob"
 msgstr ""
 
 #. ID 72, Page 1, Line 26, Pos (23,5)
-msgid "Hashtag_Underscore"
+msgid "gummy"
 msgstr ""
 
 #. ID 72, Page 1, Line 27, Pos (23,5)
-msgid "Stylzm"
+msgid "Hashtag_Underscore"
 msgstr ""
 
 #. ID 72, Page 1, Line 28, Pos (23,5)
-msgid "Laeaurra Flamehawk"
+msgid "Stylzm"
 msgstr ""
 
 #. ID 72, Page 1, Line 29, Pos (23,5)
-msgid "maple/lumiscosity"
+msgid "Laeaurra Flamehawk"
 msgstr ""
 
 #. ID 72, Page 1, Line 30, Pos (23,5)
-msgid "Forest"
+msgid "maple/lumiscosity"
 msgstr ""
 
 #. ID 72, Page 1, Line 31, Pos (23,5)
-msgid "shirleycrow"
+msgid "Forest"
 msgstr ""
 
 #. ID 72, Page 1, Line 32, Pos (23,5)
-msgid "ZLD1"
+msgid "shirleycrow"
 msgstr ""
 
 #. ID 72, Page 1, Line 33, Pos (23,5)
-msgid "Former members and contributors:"
-msgstr "Anciens membres et contributeurs :"
+msgid "ZLD1"
+msgstr ""
 
 #. ID 72, Page 1, Line 34, Pos (23,5)
-msgid "FD/patbytes"
+msgid "Lattex"
 msgstr ""
 
 #. ID 72, Page 1, Line 35, Pos (23,5)
+msgid "Former members and contributors:"
+msgstr "Anciens membres et contributeurs :"
+
+#. ID 72, Page 1, Line 36, Pos (23,5)
+msgid "FD/patbytes"
+msgstr ""
+
+#. ID 72, Page 1, Line 37, Pos (23,5)
 msgid "001247"
 msgstr ""
 
-#. ID 72, Page 1, Line 36, Pos (23,5)
+#. ID 72, Page 1, Line 38, Pos (23,5)
 msgid ""
 "These credits will be updated whenever\n"
 "a new member of the team is added."
@@ -309,7 +327,7 @@ msgstr ""
 "Ces crédits seront mis à jour chaque fois qu'un\n"
 "nouveau membre de l'équipe sera ajouté."
 
-#. ID 72, Page 1, Line 38, Pos (23,5)
+#. ID 72, Page 1, Line 40, Pos (23,5)
 msgid ""
 "(See devlist.txt in the [Documents] folder \n"
 "for contact info for these creators,\n"
@@ -321,7 +339,7 @@ msgstr ""
 "et voir usage.txt pour les sources de certains des\n"
 "effets sonores/musiques/images)"
 
-#. ID 72, Page 1, Line 42, Pos (23,5)
+#. ID 72, Page 1, Line 44, Pos (23,5)
 msgid "Thanks for playing!"
 msgstr "Merci d'avoir joué !"
 
@@ -329,6 +347,11 @@ msgstr "Merci d'avoir joué !"
 #. Contains choice at line 2 (2 options)
 msgid "unlock all wallpapers?"
 msgstr "Débloquer tous les fonds d'écran ?"
+
+#. ID 76, Page 1, Line 3, Pos (21,9)
+#. ID 81, Page 1, Line 3, Pos (23,9)
+msgid "\\>The area beyond this point is under construction."
+msgstr "\\>La zone passée ce point est en construction."
 
 #. ID 77, Page 1, Line 1, Pos (8,4)
 msgid ""
@@ -378,7 +401,19 @@ msgid ""
 "menu 0\n"
 "menu 4\n"
 "menu 5\n"
-"menu 6"
+"Next Page"
+msgstr ""
+"menu 0\n"
+"menu 4\n"
+"menu 5\n"
+"Page suivante"
+
+#. ID 78, Page 1, Line 16, Pos (26,4)
+#. Choice (3 options)
+msgid ""
+"menu 6\n"
+"menu 7\n"
+"menu 8"
 msgstr ""
 
 #. ID 79, Page 1, Line 2, Pos (28,4)
