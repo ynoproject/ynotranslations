@@ -168,7 +168,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * Midomido - Japanese translation of Answered Prayers, Deep Dreams, Braingirl, Muma|Rope; English translation of the Debug Room in Yume 2kki
 * miikka847 - Finnish translation of Yume Nikki
 * Mnn988 - COLD translation of `[COLD]`
-* Moucky2333 - Chinese translation of Uneven Dream, `[COLD]`; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
+* Moucky2333 - Chinese translation of Uneven Dream, `[COLD]`, Okuri; Porting of the Chinese translation of Dream Genie; Testing of the Chinese translation of Someday
 * Moustluigi - Initial French translation of Yume 2kki
 * nask - Initial French translation of Yume 2kki
 * nekhnona - Romanian translation of Yume Nikki, Yume 2kki, Uneven Dream
@@ -190,6 +190,7 @@ MS Mincho and MS Gothic are fonts used in RPG Maker 2000 and 2003, so you may ex
 * tophat - Brazilian Portuguese translation of Love You
 * TrolChelavi - Russian translation of She Awaits
 * uroyu - Japanese translation of She Awaits, Oversomnia, OneShot, Unaccomplished, `[COLD]`, Love You, Scary Nikki
+* uualcame - Chinese translation of Okuri
 * VioletNeiv - Vietnamese translation of Yume Nikki, Yume 2kki, .flow, Answered Prayers, Deep Dreams, Ultra Violet
 * Voyager - Spanish translation of Yume Nikki
 * Xiaodao (小岛) - Porting of the Simplified Chinese and Traditional Chinese translations of Yume Nikki
