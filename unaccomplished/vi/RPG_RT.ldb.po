@@ -770,6 +770,10 @@ msgctxt "terms.load_game"
 msgid "Think:"
 msgstr "Suy Nghĩ:"
 
+msgctxt "terms.load_game"
+msgid "Think?"
+msgstr "Suy Nghĩ?"
+
 msgctxt "terms.exit_game"
 msgid "Over."
 msgstr "Kết Thúc."
