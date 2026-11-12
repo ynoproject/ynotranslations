@@ -803,6 +803,10 @@ msgctxt "terms.exit_game"
 msgid "    E   "
 msgstr ""
 
+msgctxt "terms.exit_game"
+msgid "  E"
+msgstr "   E"
+
 msgctxt "terms.level"
 msgid "Lv."
 msgstr ""

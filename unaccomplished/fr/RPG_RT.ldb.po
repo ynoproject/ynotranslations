@@ -789,6 +789,10 @@ msgctxt "terms.load_game"
 msgid "Think:"
 msgstr "Penser :"
 
+msgctxt "terms.load_game"
+msgid "Think?"
+msgstr "Penser ?"
+
 msgctxt "terms.exit_game"
 msgid "Over."
 msgstr "Terminer."

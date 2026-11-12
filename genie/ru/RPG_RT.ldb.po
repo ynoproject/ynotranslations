@@ -804,6 +804,10 @@ msgid " L"
 msgstr " Д"
 
 msgctxt "terms.exit_game"
+msgid "   E"
+msgstr "   З"
+
+msgctxt "terms.exit_game"
 msgid "  E"
 msgstr "   З"
 
