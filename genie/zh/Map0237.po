@@ -53,3 +53,4 @@ msgstr "                  - 导航服 上手 -"
 #. ID 13, Page 2, Line 8, Pos (10,2)
 msgid "               - Green Firefly GET -"
 msgstr "                   - 绿萤 上手 -"
+
