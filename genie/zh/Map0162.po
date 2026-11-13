@@ -8,11 +8,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans"
 
-#. ID 1, Page 1, Line 7, Pos (5,7)
+#. ID 1, Page 1, Line 8, Pos (5,7)
 msgid "                  - Sadness GET -"
 msgstr "                   - 悲念 上手 -"
 
-#. ID 2, Page 1, Line 7, Pos (14,7)
+#. ID 2, Page 1, Line 8, Pos (14,7)
 msgid "                - Condolence GET -"
 msgstr "                   - 哀悼 上手 -"
 
