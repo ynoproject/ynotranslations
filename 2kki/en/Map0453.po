@@ -1,19 +1,14 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Yume2kki\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Carbonara-Mimigris\n"
-"Language-Team: Fonvight\n"
-"Language: en\n"
+"Project-Id-Version: Yume 2kki\n"
+"Language-Team: \n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-CreatedBy: LcfTrans"
 
-#. ID 1, Page 1, Line 16, Pos (0,14)
+#. ID 1, Page 1, Line 23, Pos (0,14)
 #. ID 5, Page 1, Line 17, Pos (0,0)
 msgid ""
 "\\>　  　　　　　　　壁紙アルバム\n"
@@ -21,11 +16,10 @@ msgid ""
 "\\>　  　　 集めた壁紙を連続で閲覧できます"
 msgstr ""
 "\\>　  　　　　 　Wallpaper Album\n"
-"\\>        You can look at the\n"
-"\\>　  　　  collected Wallpapers\n"
-"\\>　  　　 　 　  by the order."
+"\\>\n"
+"\\>  You can view collected wallpapers in order\n"
 
-#. ID 1, Page 1, Line 19, Pos (0,14)
+#. ID 1, Page 1, Line 26, Pos (0,14)
 #. ID 1, Page 2, Line 77, Pos (0,14)
 #. ID 3, Page 1, Line 117, Pos (18,0)
 #. ID 5, Page 1, Line 20, Pos (0,0)
@@ -35,12 +29,12 @@ msgid ""
 "\\>           1つ戻す… $v　$t …1つ送る\n"
 "\\>                       $u …No.指定"
 msgstr ""
-"\\>                Available Actions\n"
-"\\>        Go to random … $s … Wallpaper.\n"
-"\\>        Back by 1. … $v　$t … Go by 1.\n"
-"\\>　　　        Search … $u … by Number."
+"\\>                    Controls\n"
+"\\>          Random WP... $s \n"
+"\\>        Go back 1... $v　$t ...Go foward 1\n"
+"\\>                       $u ...Enter WP number"
 
-#. ID 1, Page 1, Line 23, Pos (0,14)
+#. ID 1, Page 1, Line 30, Pos (0,14)
 #. ID 1, Page 2, Line 81, Pos (0,14)
 msgid ""
 "\\>                    操作説明\n"
@@ -48,10 +42,10 @@ msgid ""
 "\\>              X …メニュー\n"
 "\\>              Shift …曲のランダム変更"
 msgstr ""
-"\\>                     Controls\n"
-"\\>       Z … Show this Hint.\n"
-"\\>       X … Menu.\n"
-"\\>   Shift … Random track Selection"
+"\\>                    Controls\n"
+"\\>              Z ...Show this hint\n"
+"\\>              X ...Menu\n"
+"\\>              Shift ...Randomly change music"
 
 #. ID 1, Page 3, Line 7, Pos (0,14)
 #. Choice (4 options)
@@ -61,10 +55,10 @@ msgid ""
 "\\>アルバムの詳細設定\n"
 "\\>アルバム終了"
 msgstr ""
-"\\>Wallpaper Auto-Scrolling Setup\n"
+"\\>Wallpaper Auto-Scroll Setup\n"
 "\\>BGM Selection\n"
-"\\>Album Setup\n"
-"\\>Close Album"
+"\\>Advanced Settings\n"
+"\\>Exit Album"
 
 #. ID 1, Page 3, Line 10, Pos (0,14)
 #. ID 1, Page 3, Line 27, Pos (0,14)
@@ -73,9 +67,9 @@ msgid ""
 "\\>\n"
 "\\>自動切り替え機能を使うか選べます"
 msgstr ""
-"\\>◆ Wallpaper Auto-Scrolling Setup\n"
+"\\>◆ Wallpaper Auto-Scroll Setup\n"
 "\\>\n"
-"\\>Setting up Wallpaper Auto-Scrolling."
+"\\>Choose whether to automatically switch wallpapers"
 
 #. ID 1, Page 3, Line 13, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -84,9 +78,9 @@ msgid ""
 "\\>\n"
 "\\>現在：使用する"
 msgstr ""
-"\\>◆ Wallpaper Auto-Scrolling Setup\n"
+"\\>◆ Wallpaper Auto-Scroll Setup\n"
 "\\>\n"
-"\\>Mode: ON"
+"\\>Current: ON"
 
 #. ID 1, Page 3, Line 16, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -102,9 +96,9 @@ msgid ""
 "\\>\n"
 "\\>現在：使用しない"
 msgstr ""
-"\\>◆ Wallpaper Auto-Scrolling Setup\n"
+"\\>◆ Wallpaper Auto-Scroll Setup\n"
 "\\>\n"
-"\\>Mode: OFF"
+"\\>Current: OFF"
 
 #. ID 1, Page 3, Line 44, Pos (0,14)
 #. ID 1, Page 3, Line 165, Pos (0,14)
@@ -114,9 +108,10 @@ msgid ""
 "\\>自動切り替えの間隔を指定できます\n"
 "\\>※「11」以下は「12」に変更されます"
 msgstr ""
-"\\>◆ Wallpaper Auto-Scrolling Setup\n"
-"\\>How often to change the Wallpapers?\n"
-"\\>*11 And below will round up to 12."
+"\\>◆ Auto-Scroll Time Interval\n"
+"\\>\n"
+"\\>Enter the time interval for auto-scrolling\n"
+"\\>(11 and below will round up to 12)"
 
 #. ID 1, Page 3, Line 48, Pos (0,14)
 msgid ""
@@ -124,9 +119,9 @@ msgid ""
 "\\>\n"
 "\\>設定可能範囲：1～9999（現在：\\V[3934]）"
 msgstr ""
-"\\>◆ Wallpaper Auto-Scrolling Setup\n"
+"\\>◆ Auto-Scroll Time Interval\n"
 "\\>\n"
-"\\>Range: 1~9999 (Now: \\V[3934])"
+"\\>Range: 1-9999 (Current: \\V[3934])"
 
 #. ID 1, Page 3, Line 57, Pos (0,14)
 #. ID 1, Page 3, Line 73, Pos (0,14)
@@ -137,9 +132,9 @@ msgid ""
 "\\>\n"
 "\\>自動切り替え時の壁紙表示順を選べます"
 msgstr ""
-"\\>◆ Wallpaper display order\n"
-"\\>Setup of wallpaper display order during \n"
-"\\>an Auto-change mode."
+"\\>◆ Auto-Scroll Order\n"
+"\\>\n"
+"\\>Choose the wallpaper order for auto-scrolling\n"
 
 #. ID 1, Page 3, Line 60, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -150,9 +145,9 @@ msgid ""
 "\\>\n"
 "\\>現在：壁紙No.順"
 msgstr ""
-"\\>◆ Wallpaper display order\n"
+"\\>◆ Auto-Scroll Order\n"
 "\\>\n"
-"\\>Mode: By numerical order"
+"\\>Current: Numerical order"
 
 #. ID 1, Page 3, Line 63, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -163,7 +158,7 @@ msgstr ""
 #. ID 1, Page 3, Line 203, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：壁紙No.順 / X：ランダム"
-msgstr "\\>Z: By numerical order/ X: Randomly"
+msgstr "\\>Z: Numerical order / X: Random"
 
 #. ID 1, Page 3, Line 76, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -174,9 +169,9 @@ msgid ""
 "\\>\n"
 "\\>現在：ランダム"
 msgstr ""
-"\\>◆ Wallpaper display order\n"
+"\\>◆ Auto-Scroll Order\n"
 "\\>\n"
-"\\>Mode: Randomly"
+"\\>Current: Random"
 
 #. ID 1, Page 3, Line 90, Pos (0,14)
 #. ID 1, Page 3, Line 106, Pos (0,14)
@@ -187,9 +182,9 @@ msgid ""
 "\\>\n"
 "\\>作品情報を表示するか選べます"
 msgstr ""
-"\\>◆ Credits display\n"
-"\\>Will the Numbers, Authors and \n"
-"\\>Wallpaper names be shown?"
+"\\>◆ Wallpaper Info Display\n"
+"\\>\n"
+"\\>Show names, numbers, and authors of wallpapers?"
 
 #. ID 1, Page 3, Line 93, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -200,9 +195,9 @@ msgid ""
 "\\>\n"
 "\\>現在：表示する"
 msgstr ""
-"\\>◆ Credits display\n"
+"\\>◆ Wallpaper Info Display\n"
 "\\>\n"
-"\\>Mode: Show"
+"\\>Current: Show"
 
 #. ID 1, Page 3, Line 96, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -213,7 +208,7 @@ msgstr ""
 #. ID 1, Page 3, Line 239, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：表示する / X：表示しない"
-msgstr "\\>Z: Show / X: Not show"
+msgstr "\\>Z: Show / X: Hide"
 
 #. ID 1, Page 3, Line 109, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -224,9 +219,9 @@ msgid ""
 "\\>\n"
 "\\>現在：表示しない"
 msgstr ""
-"\\>◆ Credits display\n"
+"\\>◆ Wallpaper Info Display\n"
 "\\>\n"
-"\\>Mode: Not show"
+"\\>Current: Hide"
 
 #. ID 1, Page 3, Line 125, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -236,13 +231,13 @@ msgid ""
 "\\>既定の選択肢かSR分室から曲を選べます"
 msgstr ""
 "\\>◆ BGM Selection\n"
-"\\>Select BGM's from built-in list or \n"
-"\\>via Sound Room Menu?"
+"\\>Use music from the built-in list\n"
+"\\>or from the Sound Room?"
 
 #. ID 1, Page 3, Line 128, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：SR分室からBGMを取得 / X：既定のBGMから選択"
-msgstr "\\>Z: Sound Room / X: Built-in List"
+msgstr "\\>Z: Sound Room / X: Built-in list"
 
 #. ID 1, Page 3, Line 130, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -253,12 +248,12 @@ msgid ""
 msgstr ""
 "\\>◆ BGM Selection\n"
 "\\>\n"
-"\\>How to select the BGM Number?"
+"\\>Which song would you like?"
 
 #. ID 1, Page 3, Line 133, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：ランダムに取得 / X：No.を指定して取得"
-msgstr "\\>Z: Randomly / X: Manually"
+msgstr "\\>Z: Random / X: Enter track number"
 
 #. ID 1, Page 3, Line 144, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -269,12 +264,12 @@ msgid ""
 msgstr ""
 "\\>◆ BGM Selection\n"
 "\\>\n"
-"\\>How to select the Track?"
+"\\>Which song would you like?"
 
 #. ID 1, Page 3, Line 147, Pos (0,14)
 #. Choice (1 options, embedded in a message)
 msgid "\\>Z：ランダムに変更 / X：選択肢から選ぶ"
-msgstr "\\>Z: Randomly / X: From the List"
+msgstr "\\>Z: Random / X: Select from list"
 
 #. ID 1, Page 3, Line 163, Pos (0,14)
 #. Choice (4 options)
@@ -284,10 +279,10 @@ msgid ""
 "\\>作品情報の表示\n"
 "\\>画面切り替え方法"
 msgstr ""
-"\\>Wallpaper change rate\n"
-"\\>Wallpaper display order\n"
-"\\>Credits Display\n"
-"\\>Screen change method"
+"\\>Auto-Scroll Time Interval\n"
+"\\>Auto-Scroll Order\n"
+"\\>Wallpaper Info Display\n"
+"\\>Transition Effect"
 
 #. ID 1, Page 3, Line 169, Pos (0,14)
 msgid ""
@@ -295,9 +290,9 @@ msgid ""
 "\\>\n"
 "\\>設定可能範囲：12～9999（現在：\\V[3934]）"
 msgstr ""
-"\\>◆ Wallpaper Change Rate\n"
+"\\>◆ Auto-Scroll Time Interval\n"
 "\\>\n"
-"\\>Range: 12~9999 (Now: \\V[3934])"
+"\\>Range: 12-9999 (Current: \\V[3934])"
 
 #. ID 1, Page 3, Line 261, Pos (0,14)
 #. Contains choice at line 4 (1 options)
@@ -306,9 +301,9 @@ msgid ""
 "\\>\n"
 "\\>アルバム閲覧を終了しますか？"
 msgstr ""
-"\\>◆ Exit\n"
+"\\>◆ Confirm Exit\n"
 "\\>\n"
-"\\>Close the Album?"
+"\\>Exit the album?"
 
 #. ID 1, Page 3, Line 264, Pos (0,14)
 #. Choice (1 options, embedded in a message)
@@ -358,7 +353,7 @@ msgid ""
 "\\>name:\\N[3]\\N[6]\n"
 "\\|\\.\\^"
 msgstr ""
-"\\>#\\V[10]\n"
+"\\>No. \\V[10]\n"
 "\\>Name: \\N[2]\\N[4]\n"
 "\\>Author: \\N[3]\\N[6]\n"
 "\\|\\.\\^"
@@ -373,7 +368,7 @@ msgstr ""
 #. ChangeHeroName (Actor 3)
 msgctxt "actors.name"
 msgid "Wallpeaper"
-msgstr ""
+msgstr "Wallpaper"
 
 #. ID 2, Page 2, Line 21, Pos (19,0)
 #. ChangeHeroName (Actor 2)
@@ -2509,7 +2504,7 @@ msgstr ""
 
 #. ID 3, Page 1, Line 28, Pos (18,0)
 msgid "\\>No.指定（0～\\V[558]）"
-msgstr "\\>Enter the number ( 0~\\V[558])"
+msgstr "\\>Enter the number (0-\\V[558])"
 
 #. ID 3, Page 1, Line 121, Pos (18,0)
 #. ID 5, Page 1, Line 24, Pos (0,0)
@@ -2520,9 +2515,9 @@ msgid ""
 "\\>              Shift …アルバム終了"
 msgstr ""
 "\\>                    Controls\n"
-"\\>              Z … Show this hint.\n"
-"\\>              X … Menu.\n"
-"\\>              Shift … Exit from the Album"
+"\\>              Z ...Show this hint\n"
+"\\>              X ...Menu\n"
+"\\>              Shift ...Exit from the album"
 
 #. ID 3, Page 1, Line 142, Pos (18,0)
 #. Choice (4 options)
@@ -2532,19 +2527,19 @@ msgid ""
 "\\>アルバム終了\n"
 "\\>メニューを閉じる"
 msgstr ""
-"\\>Wallpaper Auto-scrolling Settings\n"
+"\\>Wallpaper Auto-Scroll Settings\n"
 "\\>Settings\n"
 "\\>Exit from Album\n"
 "\\>Close the menu"
 
 #. ID 3, Page 1, Line 145, Pos (18,0)
 msgid "\\>自動切り替えモードに変更しました"
-msgstr "\\>Auto-Scrolling enabled"
+msgstr "\\>Auto-Scrolling Enabled"
 
 #. ID 3, Page 1, Line 146, Pos (18,0)
 #. Contains choice at line 2 (2 options)
 msgid "\\>自動切り替え時、次に表示する絵No.の選択方式"
-msgstr "\\>How to select the Next wallpaper during Auto-scrolling?"
+msgstr "\\>How to select the next wallpaper during auto-scrolling?"
 
 #. ID 3, Page 1, Line 147, Pos (18,0)
 #. Choice (2 options, embedded in a message)
@@ -2564,7 +2559,7 @@ msgid ""
 "\\>現在の設定は「表示する」です"
 msgstr ""
 "\\>Display Wallpaper Credits?\n"
-"\\>Mode: Show."
+"\\>Current: Show"
 
 #. ID 3, Page 1, Line 162, Pos (18,0)
 #. ID 3, Page 2, Line 37, Pos (18,0)
@@ -2573,7 +2568,7 @@ msgid ""
 "\\>現在の設定は「表示しない」です"
 msgstr ""
 "\\>Display Wallpaper Credits?\n"
-"\\>Mode: Not show."
+"\\>Current: Hide"
 
 #. ID 3, Page 1, Line 166, Pos (18,0)
 #. Choice (2 options)
@@ -2584,11 +2579,11 @@ msgid ""
 "\\>表示しない"
 msgstr ""
 "\\>Show\n"
-"\\>Not show"
+"\\>Hide"
 
 #. ID 3, Page 1, Line 179, Pos (18,0)
 msgid "\\>自動切り替えモードを解除しました"
-msgstr "\\>Auto-Scrolling disabled"
+msgstr "\\>Auto-Scrolling Disabled"
 
 #. ID 3, Page 2, Line 5, Pos (18,0)
 #. Choice (4 options)
@@ -2609,8 +2604,8 @@ msgid ""
 "\\>現在の設定は「\\V[3934]」\n"
 "\\>初期設定は「30」です"
 msgstr ""
-"\\>Auto-scrolling setup (1~9999)\n"
-"\\>Now = \\V[3934]\n"
+"\\>Auto-Scroll Settings (1-9999)\n"
+"\\>Current = \\V[3934]\n"
 "\\>Default = 30"
 
 #. ID 3, Page 2, Line 30, Pos (18,0)
@@ -2632,7 +2627,7 @@ msgid ""
 "\\>現在の設定は「壁紙No.順」です"
 msgstr ""
 "\\>Number selection while Scrolling.\n"
-"\\>Mode: By order."
+"\\>Current: By order."
 
 #. ID 3, Page 2, Line 60, Pos (18,0)
 msgid ""
@@ -2640,7 +2635,7 @@ msgid ""
 "\\>現在の設定は「ランダム」です"
 msgstr ""
 "\\>Number selection while Scrolling.\n"
-"\\>Mode: Randomly."
+"\\>Current: Randomly."
 
 #. ID 3, Page 3, Line 5, Pos (18,0)
 #. Choice (4 options)
@@ -2652,9 +2647,9 @@ msgid ""
 "\\>上からランダムブロック\n"
 "\\>これ以外"
 msgstr ""
-"\\>Fadeout Screen\n"
-"\\>Blocks Across Screen\n"
-"\\>Blocks From Above\n"
+"\\>Fade\n"
+"\\>Blocks across screen\n"
+"\\>Blocks from above\n"
 "\\>More..."
 
 #. ID 3, Page 3, Line 22, Pos (18,0)
@@ -2667,9 +2662,9 @@ msgid ""
 "\\>上下ストライプ\n"
 "\\>これ以外"
 msgstr ""
-"\\>Blocks From Below\n"
-"\\>Close Blinds\n"
-"\\>Vertical Blinds\n"
+"\\>Blocks from below\n"
+"\\>Open blinds\n"
+"\\>Top-bottom stripes\n"
 "\\>More..."
 
 #. ID 3, Page 3, Line 39, Pos (18,0)
@@ -2682,9 +2677,9 @@ msgid ""
 "\\>中心から外側\n"
 "\\>これ以外"
 msgstr ""
-"\\>Horizontal Blinds\n"
+"\\>Left-right stripes\n"
 "\\>Inwards\n"
-"\\>Center Outwards\n"
+"\\>Outwards\n"
 "\\>More..."
 
 #. ID 3, Page 3, Line 56, Pos (18,0)
@@ -2697,9 +2692,9 @@ msgid ""
 "\\>右からスクロール\n"
 "\\>これ以外"
 msgstr ""
-"\\>Scroll Up\n"
-"\\>Scroll Down\n"
-"\\>Scroll Left\n"
+"\\>Scroll up\n"
+"\\>Scroll down\n"
+"\\>Scroll left\n"
 "\\>More..."
 
 #. ID 3, Page 3, Line 73, Pos (18,0)
@@ -2712,9 +2707,9 @@ msgid ""
 "\\>左右から結合\n"
 "\\>これ以外"
 msgstr ""
-"\\>Scroll Right\n"
-"\\>Vertical Split\n"
-"\\>Horisontal Split\n"
+"\\>Scroll right\n"
+"\\>Top-bottom combine\n"
+"\\>Left-right combine\n"
 "\\>More..."
 
 #. ID 3, Page 3, Line 90, Pos (18,0)
@@ -2727,8 +2722,8 @@ msgid ""
 "\\>モザイク\n"
 "\\>これ以外"
 msgstr ""
-"\\>Quadrisection\n"
-"\\>Zoom Out\n"
+"\\>Corner combine\n"
+"\\>Zoom out\n"
 "\\>Mosaic\n"
 "\\>More..."
 
@@ -2741,8 +2736,8 @@ msgid ""
 "\\>瞬間表示\n"
 "\\>これ以外"
 msgstr ""
-"\\>Raster Scroll\n"
-"\\>Instantenous\n"
+"\\>Raster scroll\n"
+"\\>Instant\n"
 "\\>More..."
 
 #. ID 3, Page 4, Line 6, Pos (18,0)
@@ -2753,9 +2748,9 @@ msgid ""
 "\\>青光遅め\n"
 "\\>他の曲"
 msgstr ""
-"\\>PCオルゴール遅め\n"
-"\\>PC FC速め\n"
-"\\>青光遅め\n"
+"\\>PCオルゴール遅め (Slow)\n"
+"\\>PCFC速め (Fast)\n"
+"\\>青光 (Slow)\n"
 "\\>Other tracks..."
 
 #. ID 3, Page 4, Line 23, Pos (18,0)
@@ -2766,9 +2761,9 @@ msgid ""
 "\\>バク速め\n"
 "\\>他の曲"
 msgstr ""
-"\\>ライト遅め\n"
-"\\>P-ZONE速め\n"
-"\\>バク速め\n"
+"\\>ライト (Slow)\n"
+"\\>P-ZONE (Fast)\n"
+"\\>バク (Fast)\n"
 "\\>Other tracks..."
 
 #. ID 3, Page 4, Line 40, Pos (18,0)
@@ -2779,9 +2774,9 @@ msgid ""
 "\\>お面屋速め\n"
 "\\>他の曲"
 msgstr ""
-"\\>博物館速め\n"
-"\\>飛行屋上速め\n"
-"\\>お面屋速め\n"
+"\\>博物館 (Fast)\n"
+"\\>飛行屋上 (Fast)\n"
+"\\>お面屋 (Fast)\n"
 "\\>Other tracks..."
 
 #. ID 3, Page 4, Line 57, Pos (18,0)
@@ -2792,9 +2787,9 @@ msgid ""
 "\\>士官達速め\n"
 "\\>他の曲"
 msgstr ""
-"\\>Cave速め\n"
-"\\>砂漠速め\n"
-"\\>士官達速め\n"
+"\\>Cave (Fast)\n"
+"\\>砂漠 (Fast)\n"
+"\\>士官達 (Fast)\n"
 "\\>Other tracks..."
 
 #. ID 3, Page 4, Line 74, Pos (18,0)
@@ -2805,9 +2800,9 @@ msgid ""
 "\\>消音\n"
 "\\>他の曲"
 msgstr ""
-"\\>0109BGM1速め\n"
-"\\>0109BGM5速め\n"
-"\\>Silence\n"
+"\\>0109BGM1 (Fast)\n"
+"\\>0109BGM5 (Fast)\n"
+"\\>No music\n"
 "\\>Other tracks..."
 
 #. ID 6, Page 1, Line 19, Pos (1,14)
@@ -2835,9 +2830,9 @@ msgid ""
 "\\>name:\\N[3]\\N[6]\n"
 "\\|\\.\\^"
 msgstr ""
-"\\># \\V[6]\n"
-"\\>Name:\\N[2]\\N[4]\n"
-"\\>Author:\\N[3]\\N[6]\n"
+"\\>No. \\V[6]\n"
+"\\>Name: \\N[2]\\N[4]\n"
+"\\>Author: \\N[3]\\N[6]\n"
 "\\|\\.\\^"
 
 #. ID 6, Page 2, Line 9, Pos (1,14)
@@ -2848,7 +2843,7 @@ msgid ""
 msgstr ""
 "\\>◆ Wallpaper Search\n"
 "\\>\n"
-"\\>Enter the number: 1~\\V[558] (Now: #\\V[6])"
+"\\>Enter the number: 1-\\V[558] (Current: No. \\V[6])"
 
 #. ID 6, Page 2, Line 32, Pos (1,14)
 msgid ""
@@ -2858,8 +2853,9 @@ msgid ""
 "\\>未取得のため設定できませんでした"
 msgstr ""
 "\\>◆ Wallpaper Search\n"
-"\\>Wallpaper #\\V[5] cannot be viewed, since\n"
-"\\>it is not yet unlocked."
+"\\>\n"
+"\\>Wallpaper No. \\V[5] cannot be viewed,\n"
+"\\>since it is not yet unlocked."
 
 #. ID 6, Page 2, Line 42, Pos (1,14)
 #. Contains choice at line 4 (1 options)
@@ -2870,7 +2866,7 @@ msgid ""
 msgstr ""
 "\\>◆ Wallpaper Search\n"
 "\\>\n"
-"\\>Display # \\V[6]?"
+"\\>Display No. \\V[6]?"
 
 #. ID 6, Page 5, Line 7, Pos (1,14)
 #. ChangeHeroName (Actor 1)
@@ -2890,7 +2886,7 @@ msgid ""
 msgstr ""
 "\\>◆ BGM Selection\n"
 "\\>\n"
-"\\>Enter the number: 1~\\V[111] (Now: #\\V[7])"
+"\\>Enter the number: 1-\\V[111] (Current: No. \\V[7])"
 
 #. ID 6, Page 6, Line 26, Pos (1,14)
 msgid ""
@@ -2900,8 +2896,9 @@ msgid ""
 "\\>未開放のため再生できませんでした"
 msgstr ""
 "\\>◆ BGM Selection\n"
-"\\>Track # \\V[7] cannot be played, since\n"
-"\\>it is not yet unlocked."
+"\\>\n"
+"\\>Track No. \\V[7] cannot be played,\n"
+"\\>since it is not yet unlocked."
 
 #. ID 6, Page 6, Line 32, Pos (1,14)
 #. Contains choice at line 4 (1 options)
@@ -2912,7 +2909,7 @@ msgid ""
 msgstr ""
 "\\>◆ BGM Selection\n"
 "\\>\n"
-"\\>Play the track # \\V[7]?"
+"\\>Play Track No. \\V[7]?"
 
 #. ID 6, Page 9, Line 5, Pos (1,14)
 #. Choice (4 options)
@@ -2922,10 +2919,10 @@ msgid ""
 "\\>ループ「青光」By音師竹内 遅め\n"
 "\\>他の曲"
 msgstr ""
-"\\>yumeorugo_arr2 遅め\n"
-"\\>夢オルゴールFC 速め\n"
-"\\>ループ「青光」By音師竹内 遅め\n"
-"\\>Other..."
+"\\>yumeorugo_arr2 (Slow)\n"
+"\\>夢オルゴールFC (Fast)\n"
+"\\>ループ「青光」By音師竹内 (Slow)\n"
+"\\>Other tracks..."
 
 #. ID 6, Page 9, Line 20, Pos (1,14)
 #. Choice (4 options)
@@ -2935,10 +2932,10 @@ msgid ""
 "\\>yumenikkig_uljp00129 no name 2-169 速め\n"
 "\\>他の曲"
 msgstr ""
-"\\>ライト 遅め\n"
-"\\>yumepo1 速め\n"
-"\\>yumenikkig_uljp00129 no name 2-169 速め\n"
-"\\>Other..."
+"\\>ライト (Slow)\n"
+"\\>yumepo1 (Fast)\n"
+"\\>yumenikkig_uljp00129 no name 2-169 (Fast)\n"
+"\\>Other tracks..."
 
 #. ID 6, Page 9, Line 35, Pos (1,14)
 #. Choice (4 options)
@@ -2948,10 +2945,10 @@ msgid ""
 "\\>Newtorikawamakkusu 速め\n"
 "\\>他の曲"
 msgstr ""
-"\\>yoi 速め\n"
-"\\>tech3 速め\n"
-"\\>Newtorikawamakkusu 速め\n"
-"\\>Other..."
+"\\>yoi (Fast)\n"
+"\\>tech3 (Fast)\n"
+"\\>Newtorikawamakkusu (Fast)\n"
+"\\>Other tracks.."
 
 #. ID 6, Page 9, Line 50, Pos (1,14)
 #. Choice (4 options)
@@ -2961,10 +2958,10 @@ msgid ""
 "\\>drm_oop_135 速め\n"
 "\\>他の曲"
 msgstr ""
-"\\>Cave_2 速め\n"
-"\\>2_23 速め\n"
-"\\>drm_oop_135 速め\n"
-"\\>Other..."
+"\\>Cave_2 (Fast)\n"
+"\\>2_23 (Fast)\n"
+"\\>drm_oop_135 (Fast)\n"
+"\\>Other tracks..."
 
 #. ID 6, Page 9, Line 65, Pos (1,14)
 #. Choice (4 options)
@@ -2974,7 +2971,8 @@ msgid ""
 "\\>消音\n"
 "\\>他の曲"
 msgstr ""
-"\\>0109BGM1 速め\n"
-"\\>0109BGM5 速め\n"
-"\\>Silence\n"
-"\\>Other..."
+"\\>0109BGM1 (Fast)\n"
+"\\>0109BGM5 (Fast)\n"
+"\\>No music\n"
+"\\>Other tracks..."
+

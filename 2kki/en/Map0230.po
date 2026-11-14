@@ -1,16 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Yume 2kki\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
 "Language-Team: \n"
-"Language: en\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-CreatedBy: LcfTrans\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-CreatedBy: LcfTrans"
 
 #. ID 2, Page 2, Line 19, Pos (43,54)
 #. Choice (4 options)
@@ -2962,7 +2958,7 @@ msgid ""
 "\\>ｴﾌｪｸﾄ無し座り無効ﾓｰﾄﾞ(実験中)\n"
 "\\>－"
 msgstr ""
-"\\>Toggle Old Menu Theme #17\n"
+"\\>Toggle Old Menu Type 17\n"
 "\\>Disable No-Effect Sitting (Experimental)\n"
 "\\>－"
 
@@ -2971,7 +2967,7 @@ msgid ""
 "\\>＊旧ﾒﾆｭｰﾀｲﾌﾟ17\n"
 "\\>ちょっと明るくなります"
 msgstr ""
-"\\>＊Old Menu Theme #17\n"
+"\\>＊Old Menu Type 17\n"
 "\\>It is slightly brighter."
 
 #. ID 83, Page 1, Line 24, Pos (42,59)
@@ -2981,9 +2977,9 @@ msgid ""
 "\\>　切り替え状態は維持されます。\n"
 "\\>　変更する際は、製作者部屋まで。"
 msgstr ""
-"\\>Changed Menu Theme #17 to its legacy version.\n"
+"\\>Changed Menu Type 17 to its legacy version.\n"
 "\\>※Note: this setting will be maintained even if you\n"
-"\\> swap to a different menu theme. To change this\n"
+"\\> swap to a different Menu Type. To change this\n"
 "\\> setting, please come back to the Developer Room."
 
 #. ID 83, Page 1, Line 30, Pos (42,59)
@@ -2993,9 +2989,9 @@ msgid ""
 "\\>　切り替え状態は維持されます。\n"
 "\\>　変更する際は、製作者部屋まで。"
 msgstr ""
-"\\>Changed Menu Theme #17 to its normal version.\n"
+"\\>Changed Menu Type 17 to its normal version.\n"
 "\\>※Note: this setting will be maintained even if you\n"
-"\\> swap to a different menu theme. To change this\n"
+"\\> swap to a different Menu Type. To change this\n"
 "\\> setting, please come back to the Developer Room."
 
 #. ID 83, Page 1, Line 38, Pos (42,59)
@@ -3003,7 +2999,7 @@ msgid ""
 "\\>ﾒﾆｭｰﾀｲﾌﾟ17は未入手状態です。\n"
 "…秋っぽい場所にあるかも。"
 msgstr ""
-"\\>Menu Theme #17 has not been obtained yet.\n"
+"\\>Menu Type 17 has not been obtained yet.\n"
 "...It might be in an autumn-like place."
 
 #. ID 83, Page 1, Line 44, Pos (42,59)
@@ -6337,6 +6333,62 @@ msgid ""
 "＊mapID3111が個人用デバッグルーム的なものです。\n"
 "注釈等置いてあるので私の領域を編集する際は\n"
 "適当に読んどいてください。大した事書いてないが。"
+msgstr ""
+
+#. ID 129, Page 1, Line 2, Pos (39,36)
+#. ID 129, Page 1, Line 40, Pos (39,36)
+msgid "ぐっ…"
+msgstr ""
+
+#. ID 129, Page 1, Line 6, Pos (39,36)
+msgid "こんにちは。たきこみです。"
+msgstr ""
+
+#. ID 129, Page 1, Line 8, Pos (39,36)
+msgid ""
+"デバッグお疲れ様です。\n"
+"頑張ってください。"
+msgstr ""
+
+#. ID 129, Page 1, Line 13, Pos (39,36)
+#. Choice (3 options)
+msgid ""
+"あなたは誰？\n"
+"何を作った？\n"
+"バイバイ"
+msgstr ""
+
+#. ID 129, Page 1, Line 15, Pos (39,36)
+msgid ""
+"たきこみです。\n"
+"2024年からツクラーとして制作に参加しています"
+msgstr ""
+
+#. ID 129, Page 1, Line 17, Pos (39,36)
+#. ID 129, Page 1, Line 27, Pos (39,36)
+msgid "他に何か？"
+msgstr ""
+
+#. ID 129, Page 1, Line 21, Pos (39,36)
+msgid ""
+"夢の世界をぼちぼち作りました。\n"
+"あとSR分室に曲をわんさか追加しました。\n"
+"パズル絵柄もほんのり実装しました。"
+msgstr ""
+
+#. ID 129, Page 1, Line 24, Pos (39,36)
+msgid ""
+"どこを作ったか具体的な場所を知りたい方は\n"
+"ウィキとかで調べていただければ幸いです。\n"
+"便利ですよ。ウィキ。"
+msgstr ""
+
+#. ID 129, Page 1, Line 31, Pos (39,36)
+msgid "はい"
+msgstr ""
+
+#. ID 129, Page 2, Line 2, Pos (39,36)
+msgid "……"
 msgstr ""
 
 #. ID 130, Page 1, Line 2, Pos (40,33)
