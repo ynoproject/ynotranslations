@@ -8,7 +8,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-CreatedBy: LcfTrans"
 
-#. ID 2, Page 1, Line 84, Pos (9,6)
+#. ID 2, Page 1, Line 83, Pos (9,6)
+#. ID 2, Page 1, Line 150, Pos (9,6)
+#. ID 2, Page 1, Line 214, Pos (9,6)
+#. ID 2, Page 1, Line 279, Pos (9,6)
 msgid "           - Multi Transformation GET -"
 msgstr "                   - 万变 上手 -"
 

@@ -1,0 +1,351 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.8\n"
+
+#. ID 1
+msgctxt "actors.name"
+msgid "みつき"
+msgstr "美月子"
+
+#. ID 1
+msgctxt "skills.name"
+msgid "ほほをつねる"
+msgstr "捏脸颊"
+
+#. ID 1
+msgctxt "skills.description"
+msgid "ほほをつねってゆめからさめる。"
+msgstr "捏捏脸颊，从梦中醒来。"
+
+#. ID 1
+#. ID 21
+msgctxt "items.name"
+msgid "つる"
+msgstr "仙鹤"
+
+#. ID 1
+#. ID 21
+msgctxt "items.description"
+msgid "「つる」になる。"
+msgstr "变成「仙鹤」。"
+
+#. ID 2
+#. ID 22
+msgctxt "items.name"
+msgid "ゆき"
+msgstr "白雪"
+
+#. ID 2
+#. ID 22
+msgctxt "items.description"
+msgid "「ゆき」のかたまりになる。"
+msgstr "变成一团「白雪」。"
+
+#. ID 3
+#. ID 23
+msgctxt "items.name"
+msgid "ふきのとう"
+msgstr "冬花头"
+
+#. ID 3
+#. ID 23
+msgctxt "items.description"
+msgid "「ふきのとう」になる。"
+msgstr "变成「冬花头」。"
+
+#. ID 4
+#. ID 24
+msgctxt "items.name"
+msgid "さくら"
+msgstr "樱花"
+
+#. ID 4
+#. ID 24
+msgctxt "items.description"
+msgid "「さくら」のえだがはえる。"
+msgstr "「樱花」的枝桠开始萌发。"
+
+#. ID 5
+#. ID 25
+msgctxt "items.name"
+msgid "かめ"
+msgstr "乌龟"
+
+#. ID 5
+#. ID 25
+msgctxt "items.description"
+msgid "「かめ」になる。"
+msgstr "变成「乌龟」。"
+
+#. ID 6
+#. ID 26
+msgctxt "items.name"
+msgid "あじさい"
+msgstr "绣球"
+
+#. ID 6
+#. ID 26
+msgctxt "items.description"
+msgid "「あじさい」がらのかさをさす。"
+msgstr "撑起「绣球」图案的伞。"
+
+#. ID 7
+#. ID 27
+msgctxt "items.name"
+msgid "ひまわり"
+msgstr "向日葵"
+
+#. ID 7
+#. ID 27
+msgctxt "items.description"
+msgid "「ひまわり」になる。"
+msgstr "变成「向日葵」。"
+
+#. ID 8
+#. ID 28
+msgctxt "items.name"
+msgid "かげろう"
+msgstr "阳炎"
+
+#. ID 8
+#. ID 28
+msgctxt "items.description"
+msgid "「かげろう」になる。"
+msgstr "变成「阳炎」。"
+
+#. ID 9
+#. ID 29
+msgctxt "items.name"
+msgid "けむり"
+msgstr "烟雾"
+
+#. ID 9
+#. ID 29
+msgctxt "items.description"
+msgid "「けむり」になる。"
+msgstr "变成「烟雾」。"
+
+#. ID 10
+#. ID 30
+msgctxt "items.name"
+msgid "きく"
+msgstr "菊花"
+
+#. ID 10
+#. ID 30
+msgctxt "items.description"
+msgid "「きく」をもつ。"
+msgstr "拿着「菊花」。"
+
+#. ID 11
+#. ID 31
+msgctxt "items.name"
+msgid "もみじ"
+msgstr "红叶"
+
+#. ID 11
+#. ID 31
+msgctxt "items.description"
+msgid "「もみじ」がらのふくをきる。"
+msgstr "穿上「红叶」图案的衣服。"
+
+#. ID 12
+#. ID 32
+msgctxt "items.name"
+msgid "とじる"
+msgstr "合上"
+
+#. ID 12
+#. ID 32
+msgctxt "items.description"
+msgid "とびらを「とじる」。"
+msgstr "把门「合上」。"
+
+#. ID 20
+msgctxt "items.name"
+msgid "↑本物　/　ダミー↓"
+msgstr "↑实装　/　占位↓"
+
+#. ID 40
+msgctxt "items.name"
+msgid "ゲームのせつめい"
+msgstr "游戏说明"
+
+#. ID 40
+msgctxt "items.description"
+msgid "ゲームのせつめいをみる。"
+msgstr "查看游戏说明。"
+
+msgctxt "terms.gold"
+msgid "円"
+msgstr "¥"
+
+msgctxt "terms.command_item"
+msgid "エフェクト"
+msgstr "效果"
+
+msgctxt "terms.command_skill"
+msgid "おきる"
+msgstr "醒来"
+
+msgctxt "terms.menu_equipment"
+msgid "ふくそう"
+msgstr "服饰"
+
+msgctxt "terms.menu_quit"
+msgid "とじる"
+msgstr "合上"
+
+msgctxt "terms.new_game"
+msgid "はじめる"
+msgstr "开始"
+
+msgctxt "terms.load_game"
+msgid "よむ"
+msgstr "阅读"
+
+msgctxt "terms.exit_game"
+msgid "とじる"
+msgstr "合上"
+
+msgctxt "terms.health_points"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.spirit_points"
+msgid "$T"
+msgstr ""
+
+msgctxt "terms.lvl_short"
+msgid "E"
+msgstr ""
+
+msgctxt "terms.hp_short"
+msgid "$k"
+msgstr ""
+
+msgctxt "terms.sp_short"
+msgid "$T"
+msgstr ""
+
+msgctxt "terms.armor"
+msgid "シャツ"
+msgstr "衣服"
+
+msgctxt "terms.helmet"
+msgid "スカート"
+msgstr "裙子"
+
+msgctxt "terms.accessory"
+msgid "くつ"
+msgstr "鞋子"
+
+msgctxt "terms.save_game_message"
+msgid "どこにかく？"
+msgstr "写在哪里呢？"
+
+msgctxt "terms.load_game_message"
+msgid "どれをよむ？"
+msgstr "从哪里读呢？"
+
+msgctxt "terms.file"
+msgid "ページ"
+msgstr "页码"
+
+msgctxt "terms.exit_game_message"
+msgid "とじる？"
+msgstr "合上？"
+
+msgctxt "terms.yes"
+msgid "はい"
+msgstr "好"
+
+msgctxt "terms.no"
+msgid "いいえ"
+msgstr "算了"
+
+msgctxt "terms.easyrpg_item_number_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_skill_cost_separator"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_equipment_arrow"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_name"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_class"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_title"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_condition"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_front"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_status_scene_back"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_confirm"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_order_scene_redo"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_double_attack"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_defend"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_observe"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_charge"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_selfdestruct"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_escape"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_skill"
+msgid "default_term"
+msgstr ""
+
+msgctxt "terms.easyrpg_battle2k3_item"
+msgid "default_term"
+msgstr ""

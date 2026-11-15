@@ -27,6 +27,7 @@ msgstr ""
 "嗯"
 
 #. ID 22, Page 2, Line 2, Pos (9,6)
+#. ID 22, Page 3, Line 2, Pos (9,6)
 msgid ""
 "- Life, old age and death, this is a person's \n"
 "life."
