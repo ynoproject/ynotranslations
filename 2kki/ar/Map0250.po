@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GAME_NAME 1.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: YOUR NAME <mail@your.address>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-CreatedBy: LcfTrans\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#. ID 2, Page 2, Line 98, Pos (1,2)
+#. Contains choice at line 2 (2 options)
+msgid "スタート地点に戻ります。"
+msgstr "Return to the starting point."
+
+#. ID 2, Page 2, Line 99, Pos (1,2)
+#. Choice (2 options, embedded in a message)
+#. ID 55, Page 1, Line 3, Pos (93,91)
+#. Choice (2 options, embedded in a message)
+#. ID 213, Page 1, Line 3, Pos (125,272)
+#. Choice (2 options, embedded in a message)
+msgid ""
+"はい\n"
+"いいえ"
+msgstr ""
+"Yes\n"
+"No"
+
+#. ID 2, Page 2, Line 136, Pos (1,2)
+msgid ""
+"\n"
+"　　　　　　　現在位置をセーブしました"
+msgstr ""
+"\n"
+"　　　　　Current position has been saved."
+
+#. ID 3, Page 1, Line 3, Pos (212,226)
+#. ID 195, Page 1, Line 3, Pos (170,221)
+#. ID 196, Page 1, Line 3, Pos (149,287)
+#. ID 197, Page 1, Line 3, Pos (229,256)
+msgid ""
+"\n"
+"　　　　　　　　　　　霜　柱　　　　　　　　　　　"
+msgstr ""
+"\n"
+"　　　　　　　　　　Frost Pillar　　　　　　　　　　"
+
+#. ID 10, Page 1, Line 3, Pos (129,13)
+#. ID 184, Page 1, Line 3, Pos (103,13)
+#. ID 185, Page 1, Line 3, Pos (135,145)
+#. ID 186, Page 1, Line 3, Pos (135,160)
+msgid ""
+"\n"
+"　　　　　　　　　　　樹　氷　　　　　　　　　　　"
+msgstr ""
+"\n"
+"　　　　　　　　　　Frosted Tree　　　　　　　　　　"
+
+#. ID 13, Page 1, Line 3, Pos (89,57)
+#. ID 26, Page 1, Line 3, Pos (282,54)
+#. ID 31, Page 1, Line 3, Pos (143,174)
+#. ID 190, Page 1, Line 3, Pos (62,140)
+msgid ""
+"\n"
+"　　　　　　　　　　　あられ　　　　　　　　　　　"
+msgstr ""
+"\n"
+"　　　　　　　　　　　　Hail　　　　　　　　　　　"
+
+#. ID 14, Page 1, Line 2, Pos (206,207)
+msgid "EniaruK."
+msgstr ""
+
+#. ID 15, Page 1, Line 3, Pos (16,68)
+#. ID 187, Page 1, Line 3, Pos (200,113)
+#. ID 188, Page 1, Line 3, Pos (239,177)
+#. ID 189, Page 1, Line 3, Pos (261,24)
+msgid ""
+"\n"
+"　　　　　　　　　　　雪　華　　　　　　　　　　　"
+msgstr ""
+"\n"
+"　　　　　　　　　　Snow Flake　　　　　　　　　　"
+
+#. ID 16, Page 1, Line 2, Pos (105,143)
+msgid ""
+"Eniorih awokoK.\n"
+"Oyiiaberus ukasnat irukkuY."
+msgstr ""
+
+#. ID 21, Page 1, Line 3, Pos (281,76)
+#. ID 21, Page 1, Line 11, Pos (281,76)
+#. ID 21, Page 2, Line 3, Pos (281,76)
+#. ID 21, Page 2, Line 11, Pos (281,76)
+msgid "AwitinnoK."
+msgstr ""
+
+#. ID 21, Page 1, Line 4, Pos (281,76)
+#. ID 21, Page 1, Line 12, Pos (281,76)
+#. ID 21, Page 2, Line 4, Pos (281,76)
+#. ID 21, Page 2, Line 12, Pos (281,76)
+#. ID 53, Page 1, Line 3, Pos (56,275)
+#. ID 139, Page 1, Line 4, Pos (187,83)
+#. ID 139, Page 1, Line 12, Pos (187,83)
+#. ID 139, Page 2, Line 4, Pos (187,83)
+#. ID 139, Page 2, Line 12, Pos (187,83)
+#. ID 144, Page 1, Line 3, Pos (57,275)
+msgid "・・・・・・・・・・"
+msgstr ""
+
+#. ID 47, Page 2, Line 63, Pos (275,204)
+msgid "　　　　　　　　　　　BAD END"
+msgstr ""
+
+#. ID 47, Page 3, Line 12, Pos (275,204)
+msgid "　　　　　　　　　　 GOOD END"
+msgstr ""
+
+#. ID 51, Page 1, Line 2, Pos (78,110)
+msgid "EniumaS."
+msgstr ""
+
+#. ID 53, Page 1, Line 2, Pos (56,275)
+#. ID 144, Page 1, Line 2, Pos (57,275)
+msgid "？OnomisagaS？"
+msgstr ""
+
+#. ID 53, Page 1, Line 4, Pos (56,275)
+#. ID 144, Page 1, Line 4, Pos (57,275)
+msgid "…An ianariS."
+msgstr ""
+
+#. ID 55, Page 1, Line 2, Pos (93,91)
+#. Contains choice at line 2 (2 options)
+#. ID 213, Page 1, Line 2, Pos (125,272)
+#. Contains choice at line 2 (2 options)
+msgid "？Iisoh irooK？"
+msgstr ""
+
+#. ID 55, Page 1, Line 5, Pos (93,91)
+#. ID 213, Page 1, Line 5, Pos (125,272)
+msgid "OzuoD"
+msgstr ""
+
+#. ID 55, Page 1, Line 10, Pos (93,91)
+#. ID 213, Page 1, Line 10, Pos (125,272)
+msgid "EnettabnaG"
+msgstr ""
+
+#. ID 139, Page 1, Line 3, Pos (187,83)
+#. ID 139, Page 1, Line 11, Pos (187,83)
+#. ID 139, Page 2, Line 3, Pos (187,83)
+#. ID 139, Page 2, Line 11, Pos (187,83)
+msgid "AranuoyaS."
+msgstr ""
+
+#. ID 140, Page 1, Line 2, Pos (70,110)
+msgid ""
+"Anii ukuh onimiK.\n"
+"UosakattA."
+msgstr ""
+
+#. ID 141, Page 1, Line 2, Pos (53,43)
+msgid "Enadikuy omedamokoD."
+msgstr ""
+
+#. ID 142, Page 1, Line 2, Pos (235,128)
+msgid "♪IrukkuyoG♪"
+msgstr ""
+
+#. ID 143, Page 1, Line 2, Pos (167,68)
+msgid "Enii oturakutiM."
+msgstr ""
+
+#. ID 145, Page 1, Line 2, Pos (161,264)
+#. ID 146, Page 1, Line 2, Pos (162,264)
+msgid "Asijano omittok awonura agonomisagaS."
+msgstr ""
+
+#. ID 165, Page 1, Line 3, Pos (38,260)
+#. ID 166, Page 1, Line 3, Pos (192,222)
+#. ID 221, Page 1, Line 3, Pos (125,266)
+#. ID 222, Page 1, Line 3, Pos (170,206)
+msgid ""
+"\n"
+"　　　　　　　　　　　氷　柱　　　　　　　　　　　"
+msgstr ""
+"\n"
+"　　　　　　　　　　　Icicle　　　　　　　　　　　　"
+
+#. ID 167, Page 1, Line 2, Pos (43,237)
+msgid "AdnianeroboN."
+msgstr ""
