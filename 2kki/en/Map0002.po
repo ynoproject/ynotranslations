@@ -495,7 +495,7 @@ msgid ""
 "\\>・デフォルトに戻す\n"
 "\\>・設定終了"
 msgstr ""
-"\\>・Menu Theme and Sound Effects\n"
+"\\>・Menu Type and Sound Effects\n"
 "\\>・PC Screen BGM\n"
 "\\>・Revert to Default\n"
 "\\>・Close Settings"
@@ -507,7 +507,7 @@ msgid ""
 "\\>メニュータイプ / 効果音 / PC画面BGM"
 msgstr ""
 "\\>Revert to default settings.\n"
-"\\>Menu Theme / Sound Effects / PC Screen BGM"
+"\\>Menu Type / Sound Effects / PC Screen BGM"
 
 #. ID 6, Page 6, Line 829, Pos (12,5)
 #. Choice (2 options, embedded in a message)
